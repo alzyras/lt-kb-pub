@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'etmonų teisė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
@@ -25,16 +16,15 @@ tags:
 Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiaiškinti atsakė, kad įgyvendinąs seną etmonų teisę „įžengus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mykolas Kazimieras Oginskis teigė įgyvendinąs seną etmonų teisę rinkti Respublikos kariuomenę, kai į šalį įžengia svetima kariuomenė.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mykolas Kazimieras Oginskis teigė įgyvendinąs seną etmonų teisę rinkti Respublikos kariuomenę, kai į šalį įžengia svetima kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ir Rusijos genero-
@@ -62,11 +52,9 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
     nukreiptas prieš Rusiją ir jos pareigūnų sa-
     vivalę bei kišimąsi į Lietuvos kariuomenės
     reikalus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

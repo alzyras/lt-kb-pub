@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'R. Strazdūnaitė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1959 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1959'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # R. Strazdūnaitė
 
@@ -27,16 +23,15 @@ tags:
 Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'R. Strazdūnaitė paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'R. Strazdūnaitė paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^80) ĮVADAS
@@ -46,10 +41,8 @@ Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.
     diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
     (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
     straipsniai^117.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

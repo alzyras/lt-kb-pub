@@ -28,19 +28,19 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje Malborka, р.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K.'
+  teiginys: 'Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje Malborka, р.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
@@ -53,9 +53,9 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmosios žinios apie Dobrynės ordiną išliko
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad der Orden..., p. 259—269; HP, 1, 1, p. 428; Górski K
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -44,7 +44,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1855 m., po caro Nikolajaus I mirties ir XII ## Puslapis 13 Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
+  teiginys: '1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos.'
   pagrindžia:
     - c-001
 
@@ -56,6 +56,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvoje M. Ba­

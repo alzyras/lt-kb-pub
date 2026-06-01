@@ -38,20 +38,20 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad ilgainiui pilyje vėl kilo toks baisus badas, kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei laisves, kad galėtų ten.'
   pagrindžia:
-    - c-002
+    - c-001
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgainiui pilyje vėl kilo toks baisus badas,
@@ -67,9 +67,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
@@ -87,7 +87,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'

@@ -26,13 +26,14 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilniaus miesto istoriją, prie kurios dirbau nuo 1818 m., mano tikslas bu­ vo Lietuva ir jos senoji sostinė, o ne Lenkija.'
+  teiginys: 'Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pavyzdžiui,

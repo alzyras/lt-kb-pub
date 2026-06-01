@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Fridrikas Didysis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
@@ -19,16 +16,15 @@ tags:
 Taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Fridrikas Didysis savo dvare laikė Volterą, rašė poeziją ir mokslo veikalus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Fridrikas Didysis savo dvare laikė Volterą, rašė poeziją ir mokslo veikalus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ja užsi-
@@ -37,10 +33,8 @@ Taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos i
     nėse kūrė mokslų akademijas (Berlyne, Petrapily, Drezdene, Stok-
     holme ir kt.) ir naujus universitetus. Taip antai, Fridrikas Didysis
     savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -50,21 +50,21 @@ Nenurodyta
 - t-001
   teiginys: 'Vė­ liau per savo turtus įgiję vis daugiau laisvių, kai, vis dar val­ dant Otonui, beveik visi, saugodamiesi vengrų ir saracėnų užpuolimų, apsitvėrė mūro sienomis, net patys tapo savaran­ kiškomis feodalinėmis valstybėmis.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Taip kūrėsi Vilnius, kuris tuo­ met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­ kiais Kazimieras Didysis puošė ir tvirtino.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau nemažai įvairių tenykš­
@@ -83,7 +83,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visoje Italijoje Otono Didžiojo laikais
@@ -103,7 +103,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7

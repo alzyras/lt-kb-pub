@@ -1,35 +1,21 @@
 ---
 tipas: autorius
-pavadinimas: Alfredas Bumblauskas
-sukurta: '2026-05-06'
-variantai:
-  - prof. dr. Alfredas Bumblauskas
-  - Vilniaus universiteto prof. Alfredas Bumblauskas
-  - Bumblauskas A.
-  - A. Bumblauskas
-aliases: []
+pavadinimas: 'Alfredas Bumblauskas'
 saltiniai:
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-laikotarpis: '2013 m.'
-vaidmenys:
-  - recenzentas
-  - autorius
-  - profesorius
-  - istorikas
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '2013 m.'
+date_start: '2013'
 date_end: ''
-patikimumas: aukštas
-atnaujinta: '2026-05-06'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Alfredas Bumblauskas
 
@@ -44,150 +30,63 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - Senosios Lietuvos istorija: 1009–1795
 
 ## Teiginiai
-- t-009
-  teiginys: 'Alfredas Bumblauskas buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-010
+
+- t-001
   teiginys: '2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Alfredas Bumblauskas buvo nurodytas kaip leidinio recenzentas.'
-  pagrindžia:
-    - c-003
-- t-013
+    - c-001
+
+- t-002
   teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   pagrindžia:
-    - c-005
-- t-014
+    - c-003
+
+- t-003
   teiginys: 'A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.'
   pagrindžia:
-    - c-006
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Alfredas Bumblauskas buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Alfonsas Eidintas, Alfredas Bumblauskas,
-    Antanas Kulakauskas, Mindaugas Tamošaitis
-    Vilniaus
-    universiteto
-    leidykla
-    2013
-    LIETUVOS
-    I S T O R I J A
-
     Redakcinė kolegija:
-    Prof.
-  citata_rodoma: ""
+    Prof. dr. Raimundas Lopata – pirmininkas
+    Prof. dr. Alvydas Jokubaitis
+    Prof. dr. Vytautas Radžvilas
+    Dr. Inga Vinogradnaitė
+    Išleista Lietuvos Respublikos
+    užsienio reikalų ministerijos užsakymu
+    Antras leidimas
+    © Alfonsas Eidintas, 2013
+    © Alfredas Bumblauskas, 2013
+    © Antanas Kulakauskas, 2013
+    © Mindaugas Tamošaitis, 2013
+    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
+
+    TURINYS
+    Santrumpos  8
+    Redaktoriaus žodis  9
+    Į v a d a s
+    LIETUVA – VIDURIO EUROPOS DALIS  12
+    Geografinis Europos centras? 12;  Lietuvos vardo kilmė ir sampratos likimas 13;
+    Pagrindiniai Lietuvos istorijos metmenys 16;  Svarbiausios Lietuvos
+    istorijos datos 21
+    I s k y r i u s
+    SENOJI LIETUVA  22
+    SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS 22
+    Pagonybė ir Lietuvos vardo paminėjimas 1009 metais 23;
+    Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
+    Gediminaičių dinastijos iškilimas 31
+    PAGONIŲ VALSTYBĖ.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-001
+
 - c-002
-  santrauka: '2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-
-    TURINYS
-    Santrumpos  8
-    Redaktoriaus žodis  9
-    Į v a d a s
-    LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-003
-  santrauka: 'Alfredas Bumblauskas buvo nurodytas kaip leidinio recenzentas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    5)(091)
-    ŽI51
-
-    Recenzentai:
-
-    prof. dr. Alfredas Bumblauskas,
-    prof.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-004
-  santrauka: 'Alfredas Bumblauskas buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Alfonsas Eidintas, Alfredas Bumblauskas,
-    Antanas Kulakauskas, Mindaugas Tamošaitis
-    Vilniaus
-    universiteto
-    leidykla
-    2013
-    LIETUVOS
-    I S T O R I J A
-
-    Redakcinė kolegija:
-    Prof.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-005
-  santrauka: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-
-    TURINYS
-    Santrumpos  8
-    Redaktoriaus žodis  9
-    Į v a d a s
-    LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-006
-  santrauka: 'A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iliustracijų šaltiniai
@@ -196,11 +95,47 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-014
+    - t-003
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Redakcinė kolegija:
+    Prof. dr. Raimundas Lopata – pirmininkas
+    Prof. dr. Alvydas Jokubaitis
+    Prof. dr. Vytautas Radžvilas
+    Dr. Inga Vinogradnaitė
+    Išleista Lietuvos Respublikos
+    užsienio reikalų ministerijos užsakymu
+    Antras leidimas
+    © Alfonsas Eidintas, 2013
+    © Alfredas Bumblauskas, 2013
+    © Antanas Kulakauskas, 2013
+    © Mindaugas Tamošaitis, 2013
+    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
+
+    TURINYS
+    Santrumpos  8
+    Redaktoriaus žodis  9
+    Į v a d a s
+    LIETUVA – VIDURIO EUROPOS DALIS  12
+    Geografinis Europos centras? 12;  Lietuvos vardo kilmė ir sampratos likimas 13;
+    Pagrindiniai Lietuvos istorijos metmenys 16;  Svarbiausios Lietuvos
+    istorijos datos 21
+    I s k y r i u s
+    SENOJI LIETUVA  22
+    SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS 22
+    Pagonybė ir Lietuvos vardo paminėjimas 1009 metais 23;
+    Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
+    Gediminaičių dinastijos iškilimas 31
+    PAGONIŲ VALSTYBĖ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -208,7 +143,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
-- [[objektai/grupes/Vilniaus universiteto leidykla]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/monografija]]

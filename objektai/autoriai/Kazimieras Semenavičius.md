@@ -1,35 +1,23 @@
 ---
 tipas: autorius
-pavadinimas: "Kazimieras Semenavičius"
-sukurta: '2026-05-14'
-variantai:
-  - "K. Semenavičius"
-  - "K. Semenavičiaus"
-  - "Kazimiero Semenavičiaus"
-aliases: []
+pavadinimas: 'Kazimieras Semenavičius'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1650 m."
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1579 m.'
   - '1650 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
-date_start: '1650'
-date_end: ''
-vaidmenys:
-  - "karo inžinierius"
-  - "veikalo autorius"
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-14'
+date_start: '1579'
+date_end: '1650'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Kazimieras Semenavičius
 
@@ -43,111 +31,149 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - Didysis artilerijos menas
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ vadinamas reikšmingiausiu karinės inžinerijos mokyklos darbu."
+  teiginys: 'Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ vadinamas reikšmingiausiu karinės inžinerijos mokyklos darbu.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-006
+
 - t-002
-  teiginys: "„Artis magnae artilleriae“ siejamas su šiuolaikinės artilerijos ir kosmonautikos ištakomis bei daugiapakopių raketų teorija."
+  teiginys: '„Artis magnae artilleriae“ siejamas su šiuolaikinės artilerijos ir kosmonautikos ištakomis bei daugiapakopių raketų teorija.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-006
+
 - t-003
-  teiginys: "K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
+  teiginys: 'K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-004
   teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
   pagrindžia:
-    - c-003
+    - c-006
+
 - t-005
   teiginys: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   pagrindžia:
-    - c-004
+    - c-003
+
 - t-006
   teiginys: 'Semenavičiaus raketų brėžiniai.'
   pagrindžia:
-    - c-005
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Veikalas „Artis magnae artilleriae“ ir jo reikšmė karinės inžinerijos mokyklai.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: Frontispiso antraštė Semenavičių vadina karo inžinieriumi ir raketų teorijos kūrėju.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-003
   santrauka: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
+    - t-007
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-005
-  santrauka: 'Semenavičiaus raketų brėžiniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
+    Yra ir kitas senojo Vilniaus universiteto
+    istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
 
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
+    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K. Semenavičiaus veikalo
+    „Artis magnae artilleriae“  frontispisas, 1650 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
+    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K. Semenavičiaus veikalo
+    „Artis magnae artilleriae“  frontispisas, 1650 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
+    name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
+    Europoje teikiame Renesanso ir Apšvietos epochoms. Epochos simboline
+    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-006
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
+    name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
+    Europoje teikiame Renesanso ir Apšvietos epochoms. Epochos simboline
+    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Daugiapakopės raketos]]
 - [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai]]
+- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/paprociai/Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]

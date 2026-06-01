@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Tautų Sąjungos kontrolės komisija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karas
@@ -27,16 +18,15 @@ tags:
 Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareikalavo nutraukti karo veiksmus Lietuvos kariuomenės 2-ojo pėstininkų didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareikalavo nutraukti karo veiksmus.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareikalavo nutraukti karo veiksmus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių kariams pavyko įvykdyti
@@ -52,11 +42,9 @@ Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareik
     komoji kuopa. 1920 m. lapkričio
     22 d. Giedraičių apylinkėse, pa-
     sibaigus mūšiui su lenkais
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

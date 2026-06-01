@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Mahometoniškas tikėjimas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1398 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1398'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - privilegija
   - sąvoka
   - tikėjimas
+amziai:
+  - 'XIV'
 ---
 # Mahometoniškas tikėjimas
 
@@ -29,16 +23,15 @@ tags:
 Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas, Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius, kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytauto privilegijas gavę Lietuvos totoriai išlaikė mahometonišką tikėjimą ir papročius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Atsigabenęs iš žygio daug
@@ -49,11 +42,9 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
     kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
     tvirtovę « Tavan’ » (šv.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

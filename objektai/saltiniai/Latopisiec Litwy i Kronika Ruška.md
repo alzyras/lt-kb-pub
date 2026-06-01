@@ -1,30 +1,16 @@
 ---
 tipas: saltinis
 pavadinimas: 'Latopisiec Litwy i Kronika Ruška'
-sukurta: '2026-05-27'
-variantai:
-  - 'Latopisiec Lit. i Kron. Rus.'
-  - 'Latopisiec Litewski'
-  - 'Kronika Ruška'
-  - 'Daniłowicz Latopisiec Litezv.'
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1827 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIX'
 date_start: '1827'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIX'
 ---
 # Latopisiec Litwy i Kronika Ruška
 
@@ -43,33 +29,35 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - Leidinys apima Lietuvos ir Rusios kronikinę medžiagą, kuri Balińskio tekste naudojama Vilniaus ir Lietuvos politinių įvykių lokalizacijai bei interpretacijai.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Latopisiec Litwy i Kronika Ruška nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje.'
   pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-005
+    - c-001
+
+- t-002
   teiginys: 'Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli.'
   pagrindžia:
-    - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-006
+    - c-002
+
+- t-003
   teiginys: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
   pagrindžia:
-    - c-006
-- t-007
+    - c-005
+
+- t-004
   teiginys: 'Panaši užuomina apie šį Glebą Kronika Ruška, išleista Danilovič i a u s, įdėta Latopisiec Litewski, p. 212.'
   pagrindžia:
-    - c-007
-- t-008
+    - c-004
+
+- t-005
   teiginys: 'Daniłowicz Latopisiec Litezv., p. 45 primena, kad lenkų įgula, įsitvirti­ nusi Aukštutinėje pilyje, kunigaikš­ čio Karigailos į ją neįsileido, oapie jo mirtį visai nutyli.'
   pagrindžia:
-    - c-008
+    - c-003
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Danilovičiaus Latopisiec Litwy i Kronika Ruška nurodomas dėl Šv. Mikalojaus bažnyčios Vilniuje.'
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wremiennik Sofijski, p. 334. Žr.
@@ -80,13 +68,11 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     bame čia apie Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-005
-  santrauka: 'Danilovičiaus Latopisiec teigia, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli.'
+    - t-001
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau pa­
@@ -100,15 +86,49 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     jo mirtį visai nutyli.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
+    - t-002
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Vėliau pa­
+    stebėsime Vytautą savo fundacijose
+    Vilniaus kapitulai dideles dovanas
+    aukojant už to kunigaikščio vėlę.
+    Daniłowicz Latopisiec Litezv., p. 45
+    primena, kad lenkų įgula, įsitvirti­
+    nusi Aukštutinėje pilyje, kunigaikš­
+    čio Karigailos į ją neįsileido, o- apie
+    jo mirtį visai nutyli.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ros. T. V. vert. į lenk. k. p. 137-
+    138. Panaši užuomina apie šį Glebą
+    Kronika Ruška, išleista Danilovi-
+    č i a u s, įdėta Latopisiec Litewski, p.
+    212.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    [Iš
+    prancūzų reikia išskirti Jeaną Le
+    Maingre'ą, vadinamą Boucicaut, to­
+    kios pavardės maršalo sūnų].
     25
     Latopisiec Litewski, leidžiamas p. D a-
     n i 1  o v i č i a u s, 1.45 pasakoja, kad
@@ -117,40 +137,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     Weyiszczuszki.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Panaši užuomina apie šį Glebą Kronika Ruška, išleista Danilovič i a u s, įdėta Latopisiec Litewski, p. 212.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    137-
-    138. Panaši užuomina apie šį Glebą
-    Kronika Ruška, išleista Danilovi-
-    č i a u s, įdėta Latopisiec Litewski, p.
-    212.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Daniłowicz Latopisiec Litezv., p. 45 primena, kad lenkų įgula, įsitvirti­ nusi Aukštutinėje pilyje, kunigaikš­ čio Karigailos į ją neįsileido, oapie jo mirtį visai nutyli.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Daniłowicz Latopisiec Litezv., p. 45
-    primena, kad lenkų įgula, įsitvirti­
-    nusi Aukštutinėje pilyje, kunigaikš­
-    čio Karigailos į ją neįsileido, o- apie
-    jo mirtį visai nutyli.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+    - t-003

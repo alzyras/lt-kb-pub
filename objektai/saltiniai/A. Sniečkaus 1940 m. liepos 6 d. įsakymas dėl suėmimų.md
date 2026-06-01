@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'A. Sniečkaus 1940 m. liepos 6 d. įsakymas dėl suėmimų'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1940'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # A. Sniečkaus 1940 m. liepos 6 d. įsakymas dėl suėmimų
 
@@ -28,18 +22,15 @@ tags:
 1940 m. liepos 6 d. Valstybės saugumo departamento direktorius A.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1940 m. liepos 6 d. Valstybės saugumo
@@ -51,10 +42,8 @@ tags:
     L I E T U V O S  I S T O R I J A
     194
     turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

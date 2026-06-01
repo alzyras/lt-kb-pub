@@ -26,29 +26,29 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-002
   teiginys: 'Į rytus nuo Dvinos prie jų šliejosi estų, gausios suomių padermės atšakos, gyven­ vietės.'
   pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Švitrigai­ la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį, įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­ no.'
+  pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Švitrigai­ la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį, įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­ no.'
-  pagrindžia:
-    - c-004
-
-- t-001
   teiginys: 'Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­ binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus, regis, kolonija iš Bremeno įkūrė Rygą.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
@@ -70,7 +70,7 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   pagrindžia:
     - t-002
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Abu jie niokojo
@@ -87,9 +87,9 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­
@@ -103,9 +103,9 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -127,4 +127,4 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

@@ -1,20 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„civilizaciniam šuoliui“'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valstybė
@@ -26,16 +16,15 @@ tags:
 LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, Lietuvos „civilizaciniam šuoliui“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Enėjas Silvijus Pikolominis (Enea Silvio Picco-
@@ -57,11 +46,9 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
     pavyko padaryti per šimtmetį. Svarbų vaidmenį šiame procese suvaidino
     Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
     versitetuose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

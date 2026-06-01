@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kauno getas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,25 +15,26 @@ tags:
 žydų laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnaudoti kaip pigi darbo jėga.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Apie 50 tūkst. žydų
+    Akcijose
+    prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
+    jos dalinius, ukrainiečių, latvių policijos batalionus.
+    Taip diena po dienos 1941 m. vasarą ir rudenį tikrose skerdynėse su-
+    naikinta dauguma – apie 150 000 – Lietuvos žydų. Apie 50 tūkst. žydų
     laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
     doti kaip pigi darbo jėga.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

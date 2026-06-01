@@ -41,13 +41,13 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   pagrindžia:
     - c-002
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   pagrindžia:
     - c-001
@@ -73,7 +73,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,7 +89,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,7 +107,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

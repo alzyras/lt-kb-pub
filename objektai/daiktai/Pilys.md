@@ -80,7 +80,6 @@ Nenurodyta
 - [[objektai/daiktai/Mūro pilys]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
@@ -94,4 +93,5 @@ Nenurodyta
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
 - [[objektai/zodynas/rikiai kunigai]]

@@ -1,22 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'XVI A. PRADŽIOS LIETUVOS IR LENKIJOS KARIUOMENIŲ TAKTIKA'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+datos:
+  - '1501 m.'
+  - '1600 m.'
+date_start: '1501'
+date_end: '1600'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # XVI A. PRADŽIOS LIETUVOS IR LENKIJOS KARIUOMENIŲ TAKTIKA
 
@@ -25,28 +22,23 @@ tags:
 PRADŽIOS LIETUVOS IR LENKIJOS KARIUOMENIŲ TAKTIKA“, Andžej Geglis, dail.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Andžejus Geglis sukūrė iliustraciją „XVI a. pradžios Lietuvos ir Lenkijos kariuomenių taktika“.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Andžejus Geglis sukūrė iliustraciją „XVI a. pradžios Lietuvos ir Lenkijos kariuomenių taktika“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
 
     p. 85, „XVI A. PRADŽIOS LIETUVOS IR LENKIJOS KARIUOMENIŲ TAKTIKA“,
     Andžej Geglis, dail. Andžej Geglis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

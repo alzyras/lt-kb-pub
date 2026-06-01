@@ -1,35 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Karališkasis malūnas Vilniuje'
-sukurta: '2026-05-27'
-variantai:
-  - 'Karališkasis malūnas'
-  - 'Karališkojo malūno'
-  - 'Molendinum Vilnense'
-  - 'Vilniaus malūnas'
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-bukle: juodrastis
-laikotarpis: 'XV-XVI a.'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1469 m.'
   - '1515 m.'
   - '1522 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1469'
+date_end: '1522'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
-date_start: '1469'
-date_end: '1522'
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-27'
-tags: []
 ---
 # Karališkasis malūnas Vilniuje
 
@@ -38,6 +22,7 @@ tags: []
 Karališkasis malūnas Vilniuje buvo vietos orientyras palei Vilnią, šalia bernardinams skirto slėnio. Šaltinis jį sieja su Lietuvos Metrikos antrašte „Molendinum Vilnense“ ir 1515 m. leidimu Ulrikui Hošui statyti malūną savo lėšomis.
 
 ## Pavadinimai šaltiniuose
+
 - Karališkasis malūnas Vilniuje
 - Karališkasis malūnas
 - Karališkojo malūno
@@ -53,29 +38,30 @@ Vilniaus malūnas prie Vilnios, vadintas Karališkuoju.
 Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.'
   pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-003
+    - c-001
+
+- t-002
   teiginys: '1515 m. karalius leido Ulrikui Hošui savo lėšomis statytis Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
   pagrindžia:
-    - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-004
+    - c-002
+
+- t-003
   teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
   pagrindžia:
-    - c-004
-- t-005
+    - c-003
+
+- t-004
   teiginys: 'Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].'
   pagrindžia:
-    - c-005
+    - c-004
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.'
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Lietuvos Metrikos. Knyga, apimanti
@@ -84,13 +70,11 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     niaus malūnas].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1515 m. karalius leido Ulrikui Hošui savo lėšomis statytis Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
+    - t-001
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -106,13 +90,11 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     malūnas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
+    - t-002
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -133,13 +115,11 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     malūnas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].'
+    - t-003
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     15
@@ -149,8 +129,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     niaus malūnas].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

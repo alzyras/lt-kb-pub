@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mykolas Borisovičius Šeina'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
@@ -26,16 +17,15 @@ tags:
 Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasiduoda ATR valdovui Vladislovui Vazai komplikuotis - tuo metu į pietines Rusijos žemes įsiveržė ir niokojo Krymo totoriai (paskatinti užpulti Rusiją ATR.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
@@ -56,11 +46,9 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
     (paskatinti užpulti Rusiją ATR diplomatų),
     žinia apie tai demoralizavo rusus ir dau-
     gelį paskatino dezertyruoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

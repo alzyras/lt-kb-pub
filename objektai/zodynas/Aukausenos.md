@@ -1,14 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: aukausenos
-sukurta: '2026-04-30'
-variantai:
-  - aukos
-  - aukas
+tipas: zodyno_irasas
+pavadinimas: 'aukausenos'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: vidutinis
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # aukausenos
 
@@ -21,51 +17,45 @@ Aukojimo apeigos, aukų atlikimo būdai. Autorius skiria skirtingas aukų rūši
 Pagrindinė forma: `aukausenos`.
 Vartojamos formos: `aukos`, `aukas`.
 
-## Teiginiai
-- t-003
-  teiginys: '`Aukausenos` šiame tekste reiškia aukojimo apeigas.'
-  pagrindžia:
-    - c-001
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Aukausenos buvo skirstomos į iškilmines, išeigines ir kiemines.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '`Aukausenos` šiame tekste reiškia aukojimo apeigas.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-004
-- c-002
-  santrauka: '`Aukausenos` šiame tekste reiškia aukojimo apeigas.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-
 ## Pastabos
 
 - Terminas gana platus, apima ir apeigų tvarką, ir patį aukojimo veiksmą.
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Aukausenos buvo skirstomos į iškilmines, išeigines ir kiemines.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: '`Aukausenos` šiame tekste reiškia aukojimo apeigas.'
+  pagrindžia:
+    - c-002
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

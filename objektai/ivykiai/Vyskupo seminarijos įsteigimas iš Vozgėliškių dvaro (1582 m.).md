@@ -42,58 +42,13 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '(pasirašyta) Stephanus Rex [Karalius Steponas] (prikabintas antspaudas) Jonas Hlebavičius - Dubrovnoje Minsko kaštelionas, krašto paiždininkis ir raštininkas 424 ## Puslapis 441 IV KNYGA VYSKUPO SEMINARIJOS JSTEIGIMAS IŠ VYSKUPŲ STALO DVARO, VADINAMO.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
-    — • —
-    423
-
-    ## Puslapis 440
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­
-    tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio
-    tryliktą dieną.
-    (pasirašyta) Stephanus Rex
-    [Karalius Steponas]
-    (prikabintas antspaudas) Jonas Hlebavičius
-    - Dubrovnoje Minsko
-    kaštelionas, krašto
-    paiždininkis ir raštininkas
-    424
-
-    ## Puslapis 441
-
-    IV KNYGA
-    VYSKUPO SEMINARIJOS JSTEIGIMAS
-    IŠ VYSKUPŲ STALO DVARO,
-    VADINAMO VOZGĖLIŠKĖMIS
-    1582 METAI
-    (Kapitulos archyvas)
-
-    ## Puslapis 442
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    In Ckristi nomine Amen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
@@ -124,19 +79,13 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Hlebavičius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/diecezija]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]

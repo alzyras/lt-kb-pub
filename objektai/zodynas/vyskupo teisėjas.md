@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vyskupo teisėjas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
@@ -27,22 +18,37 @@ tags:
 Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėliavos penkios dešimtys nukauta.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sembos vyskupo teisėjas žuvo kartu su daugeliu Ordino brolių ir Gdansko komtūru.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sembos vyskupo teisėjas žuvo kartu su daugeliu Ordino brolių ir Gdansko komtūru.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
+    J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai
+    mėtė į krikščionis savo ietis, rusai iš lankų ir t.t. daug vyrų ir žirgų strėlėmis sužeidė ir
+    t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
+    Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
+    vos penkios dešimtys nukauta.
+
+    Spaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšyje, pirmiausia jo pradžioje, kaip pa-
@@ -57,32 +63,11 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     nikos rodo fantastiškus skaičius: 10, 18 ir
     pan. tūkstančių, tuo tarpu kryžiuočių -
     8 broliai ir 42 gerieji vyrai - Vartbergė).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
-    J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje. Stabmeldžiai
-    mėtė į krikščionis savo ietis, rusai iš lankų ir t.t. daug vyrų ir žirgų strėlėmis sužeidė ir
-    t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
-    Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
-    vos penkios dešimtys nukauta.
-
-    Spaudžiami krikščionių stabmeldžiai bandė gelbėtis pabėgdami.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

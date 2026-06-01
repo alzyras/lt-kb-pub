@@ -26,24 +26,73 @@ amziai:
 - t-001
   teiginys: '– į Štuthofą, Dachau, Osvencimą.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą.'
   pagrindžia:
-    - c-002
+    - c-003
+
+- t-003
+  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  pagrindžia:
+    - c-001
 
 - t-004
-  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
   pagrindžia:
     - c-004
 
-- t-003
-  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai masiškiausia
+    antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-
+    priklausomybę išlaikyti ją ginklu.
+    1943 m., kai okupacinė vokiečių valdžia, vermachtui pralaimint Rytų
+    fronte, pareikalavo iš okupuotų tautų, tarp jų ir lietuvių, siųsti vyrus į
+    Vokietijos karines pajėgas, pradėjo agituoti lietuvius stoti į SS batalio-
+    ną, lietuvių pogrindis boikotavo akciją (iš visų nacių okupuotų šalių tik
+    Lenkijoje ir Lietuvoje naciams nepavyko suformuoti Waffen SS divizijų).
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
+    akcijų metu. Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
+    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
+    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
+    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
+    voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
+    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
+    stovyklą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,52 +115,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
-    akcijų metu. Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
-    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
-    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
-    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
-    voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
-    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
-    stovyklą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai masiškiausia
-    antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-
-    priklausomybę išlaikyti ją ginklu.
-    1943 m., kai okupacinė vokiečių valdžia, vermachtui pralaimint Rytų
-    fronte, pareikalavo iš okupuotų tautų, tarp jų ir lietuvių, siųsti vyrus į
-    Vokietijos karines pajėgas, pradėjo agituoti lietuvius stoti į SS batalio-
-    ną, lietuvių pogrindis boikotavo akciją (iš visų nacių okupuotų šalių tik
-    Lenkijoje ir Lietuvoje naciams nepavyko suformuoti Waffen SS divizijų).
-    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
-    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
-    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
-    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
-    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003

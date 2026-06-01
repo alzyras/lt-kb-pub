@@ -42,30 +42,30 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
   pagrindžia:
-    - c-002
+    - c-005
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.'
   pagrindžia:
-    - c-003
+    - c-001
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad 263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.'
   pagrindžia:
-    - c-004
-    - c-005
+    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
@@ -86,9 +86,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-005
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
@@ -108,7 +108,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
@@ -119,7 +119,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
@@ -130,9 +130,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
@@ -146,7 +146,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

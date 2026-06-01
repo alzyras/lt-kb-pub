@@ -26,20 +26,20 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Terespolis nebuvo Balinskių giminės paveldima nuosavybė.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-002
+- t-003
   teiginys: 'Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­ li Vitebsko.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: 'Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S.'
@@ -48,7 +48,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai didelis jo nuopelnas.
@@ -60,9 +60,9 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusų kavalerija sugebėjo keliose Bugo
@@ -80,7 +80,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -94,7 +94,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   santrauka: 'Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S.'

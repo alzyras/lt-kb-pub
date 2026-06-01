@@ -1,14 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'savarankiškumas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - dokumentas
@@ -22,28 +18,52 @@ tags:
 Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams. Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos. Bajorų pritarimas jam buvo taip pat reikalingas ir siekiant savarankiškumo.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
+- t-002
+  teiginys: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
+  pagrindžia:
+    - c-003
+
 - t-003
   teiginys: 'Bajorų pritarimas jam buvo taip pat reikalingas ir siekiant savarankiškumo.'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bajorų pritari-
+    mas jam buvo taip pat reikalingas ir siekiant savarankiškumo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Juo buvo patvirtintas Vytauto sava-
+    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
+    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
+    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
+    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
+    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
+    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų derybų, 1401 m. buvo pa-
@@ -59,39 +79,9 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     gailai ir jo įpėdiniams, Lenkų karaliams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš savo pusės Lenkų ba-
-    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
-    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
-    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Bajorų pritarimas jam buvo taip pat reikalingas ir siekiant savarankiškumo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bajorų pritari-
-    mas jam buvo taip pat reikalingas ir siekiant savarankiškumo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -115,6 +105,7 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Tadas Kosciuška]]
+- [[objektai/asmenys/Vladimiras Algirdaitis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/asmenys/imperatorius Zigmantas]]
@@ -122,5 +113,6 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/suverenitetas suverenumas]]
 - [[objektai/zodynas/suverenumas suverenitetas]]
+- [[objektai/grupes/Čekijos husitai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]

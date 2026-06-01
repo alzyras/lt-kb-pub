@@ -40,21 +40,21 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad toje vietoje, kur įvyko mūšis, vėliau gyveno vienas atsiskyrėlis, kuris naktimis dažnai matydavo degančias žvakes, aiškiai liudijančias, jog čia žuvusieji jau buvo nuo kankinių karaliaus gavę kankinių vainikus. 393 Kad mūšis įvyko 1263 m.'
   pagrindžia:
-    - c-002
+    - c-001
     - c-004
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai, apsitvėrę
@@ -75,9 +75,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
@@ -98,9 +98,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     123 (118). Apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį
@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -138,7 +138,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

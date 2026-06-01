@@ -23,20 +23,20 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų207 bei.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский А.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis J., Pagonybės..., p. 107).'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   pagrindžia:
     - t-004
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     A. Mežinskio nuomone, krivis — tikrinis paskutinio Nadruvos žynio vardas (Мержинский
@@ -93,7 +93,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

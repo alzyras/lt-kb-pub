@@ -59,6 +59,7 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
 
 ### Susiję objektai
 - [[objektai/grupes/Graikai]]
+- [[objektai/zodynas/čiornai čiornyje liūdi]]
 - [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
 - [[objektai/zodynas/miestiečių luomas]]
 - [[objektai/zodynas/schizmatikai graikų apeigų tikėjimas]]

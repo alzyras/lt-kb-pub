@@ -28,13 +28,14 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
 ## Teiginiai
 
 - t-001
-  teiginys: 'p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už savo žentą Kaributą jo laikais buvo karališkajame archyve: Atque hinc nata esse videtur sponsio Alexandri Resanensium Ducis pro Coributho regi facta, et literarum monu­ mentis, quae.'
+  teiginys: 'Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis

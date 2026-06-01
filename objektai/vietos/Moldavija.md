@@ -1,30 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Moldavija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1431 m.'
-  - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1431'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sutartis
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Moldavija
 
@@ -33,62 +24,20 @@ tags:
 Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Į Vytauto susitikimą atvyko ir Moldavijos pasiuntiniai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
   teiginys: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
   pagrindžia:
-    - c-005
-- t-006
+    - c-002
+
+- t-002
   teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
-  pagrindžia:
-    - c-007
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Į Vytauto susitikimą atvyko ir Moldavijos pasiuntiniai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-005
-  santrauka: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jogaila apsiautė Lucką, apgula
-    tęsėsi, tačiau jo pajėgos buvo atremtos —
-    lietuviai sėkmingai gynėsi. Švitrigailos
-    įkalbėtas Ordinas trimis kryptimis puolė
-    Lenkiją, ją puolė ir Moldavija. Jogaila
-    1431 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkijai suartėjus su
@@ -102,25 +51,24 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     viską naikino ir degino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - t-002
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
-    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
-    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
-    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
-    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ).
+    Jogaila apsiautė Lucką, apgula
+    tęsėsi, tačiau jo pajėgos buvo atremtos —
+    lietuviai sėkmingai gynėsi. Švitrigailos
+    įkalbėtas Ordinas trimis kryptimis puolė
+    Lenkiją, ją puolė ir Moldavija. Jogaila
+    1431 m. vasaros pabaigoje buvo priverstas
+    sudaryti Čartorysko paliaubų sutartį dve-
+    Jiems metams su abejomis Ordino šakomis,
+    Moldavija ir totoriais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-001

@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Ukmergės rinktinė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - mūšis
@@ -25,16 +16,15 @@ tags:
 Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, kariuomenės vadovybė įsakė tolimesnį puolimą sustabdyti, kad išsilygintų fronto linija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ukmergės rinktinei per daug išsiveržus į priekį, kariuomenės vadovybė įsakė sustabdyti tolesnį puolimą, kad išsilygintų fronto linija.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ukmergės rinktinei per daug išsiveržus į priekį, kariuomenės vadovybė įsakė sustabdyti tolesnį puolimą, kad išsilygintų fronto linija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po mūšio
@@ -53,11 +43,9 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
     ševikai visgi sugebėjo gana tvarkingai
     atsitraukti ir įsitvirtinti Pūslių- Vajasiškio—
     Bružų-Balčių- Naujasodžio linijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,38 +1,21 @@
 ---
 tipas: asmuo
-pavadinimas: Barbora Radvilaitė
-sukurta: '2026-05-27'
-variantai:
-  - 'Barbora'
-  - 'Barboros Radvilaitės'
-  - 'karalienė Barbora'
-  - 'Stanislovienė Goštautienė'
-aliases:
-  - 'Barbora'
-  - 'Barboros Radvilaitės'
-  - 'karalienė Barbora'
+pavadinimas: 'Barbora Radvilaitė'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-bukle: juodrastis
-laikotarpis: XVI a. Žygimanto Augusto ir Barboros Radvilaitės santuokos bei vėlesnio atminimo Vilniuje kontekstas
 datos:
   - '1828 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1828'
 date_end: ''
-vaidmenys:
-  - 'karalienė'
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - karalienė
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Barbora Radvilaitė
 
@@ -41,12 +24,14 @@ tags:
 Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštauto našlė ir Žygimanto Augusto slapta žmona. Jos atminimas siejamas su rūmais prie Vilijos, antkapiais Šv. Stanislovo bažnyčioje, Šv. Barboros bažnyčia ir Žygimanto Augusto testamento nuostatomis dėl palaikų bei apdarų.
 
 ## Variantai
+
 - Barbora
 - Barboros Radvilaitės
 - karalienė Barbora
 - Stanislovienė Goštautienė
 
 ## Laikotarpis ir datos
+
 - laikotarpis: XVI a. Žygimanto Augusto ir Barboros Radvilaitės santuokos bei vėlesnio atminimo Vilniuje kontekstas
 - datos:
   - 1547 m. rugsėjo mėn.
@@ -62,87 +47,80 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - date_end: "1828"
 
 ## Vaidmenys
+
 - karalienė
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė."
+  teiginys: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio duktė ir Goštauto, Trakų vaivados, našlė.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje."
+  teiginys: 'Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.'
   pagrindžia:
     - c-001
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
+  teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: "1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą."
+  teiginys: '1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-005
-  teiginys: "1828 m. Barboros rūmų griuvėsiai buvo parduoti plytoms."
+  teiginys: '1828 m. Barboros rūmų griuvėsiai buvo parduoti plytoms.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-006
-  teiginys: "Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose."
+  teiginys: 'Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose.'
   pagrindžia:
     - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-007
   teiginys: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.'
   pagrindžia:
     - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-008
-  teiginys: "Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią."
+  teiginys: 'Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią.'
   pagrindžia:
     - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-009
-  teiginys: "Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai."
+  teiginys: 'Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai.'
   pagrindžia:
     - c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: '272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo.'
-  pagrindžia:
-    - c-009
-- t-012
-  teiginys: '31 Dar prieš kelerius metus Vilnių puo­ šė Barboros rūmų griuvėsiai, stovė­ ję tarp Katedros ir Šv.'
-  pagrindžia:
-    - c-010
-- t-013
+
+- t-010
   teiginys: 'Italai, čia nuolat dirbdami šešerius metus, iš brangaus marmuro pastatė du puikius antkapius kara­ liaus žmonoms - Elžbietai ir Barborai Šv.'
   pagrindžia:
+    - c-010
+
+- t-011
+  teiginys: '31 Dar prieš kelerius metus Vilnių puo­ šė Barboros rūmų griuvėsiai, stovė­ ję tarp Katedros ir Šv.'
+  pagrindžia:
+    - c-009
+
+- t-012
+  teiginys: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.'
+  pagrindžia:
+    - c-008
+
+- t-013
+  teiginys: 'Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.'
+  pagrindžia:
     - c-011
-- t-014
-  teiginys: 'Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik.'
-  pagrindžia:
-    - c-012
-- t-015
-  teiginys: 'Vilniaus miesto ir Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­ niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­ laukė tęsinio.'
-  pagrindžia:
-    - c-013
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Barbora Radvilaitė įvardijama kaip Jurgio duktė, Goštauto našlė, Žygimanto Augusto mylimoji ir slapta žmona.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -153,18 +131,15 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
     - t-003
+
 - c-002
-  santrauka: Slapta Barboros ir Žygimanto Augusto santuoka datuojama 1547 m. rugsėju; minima ir Barboros pakvitavimo aplinkybė.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ši slapta santuoka įvyko 1547 metų
@@ -183,17 +158,14 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     įvertintą 227 vengriškais dukatais,
     ir 2 paauksuotas gūnias, įvertintas
     131 grivina.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
     - t-004
+
 - c-003
-  santrauka: Barboros rūmų griuvėsiai Vilniuje siejami su 1828 m. pardavimu plytoms.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar prieš kelerius metus Vilnių puo­
@@ -212,16 +184,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     lių plytoms naujai statomam dvari­
     ninko Kosobudžkio namui Nr.
     priemiestyje už Aušros vartų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-004
-  santrauka: Barborai ir Elžbietai Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai antkapiai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
@@ -232,16 +201,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau,
     XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
     sios Katedros griuvėsiuose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: adjacent_named_context
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-006
+
 - c-005
-  santrauka: 'Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dažnas Žygimanto Augusto, jo
@@ -252,16 +218,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     Augustas nemažomis lėšomis pastatydino mylimos žmonos
     atminimui, po jos mirties visur ieškodamas paguodos savo
     skausmui numalšinti35.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: adjacent_named_context
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-007
+
 - c-006
-  santrauka: Žygimanto Augusto testamente nurodoma, kur turėjo būti perkelti karalienės Barboros palaikai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Onos bažnyčioje, toje choro
@@ -278,16 +241,13 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     dėti, - prašydami, kad dabartinėms laidotuvėms nebūtų
     rengiamos visiškai jokios šio vargano pasaulio pompos ir
     iškilmės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-008
+
 - c-007
-  santrauka: Karalienės Barboros apdarai testamente skiriami karalaitei Onai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O atskirai jos didenybės Švedijos karalienės Kotrynos ir
@@ -319,16 +279,14 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     nes, vežimus: iškilmių, kasdienius su apdangalais ir jų pa­
     puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
     kokiais kitais, kuriuos po mūsų ras.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-009
-- c-009
-  santrauka: '272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo.'
+
+- c-008
+  santrauka: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     272
@@ -345,13 +303,11 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-010
-  santrauka: '31 Dar prieš kelerius metus Vilnių puo­ šė Barboros rūmų griuvėsiai, stovė­ ję tarp Katedros ir Šv.'
+    - t-012
+
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     31
@@ -373,13 +329,11 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     priemiestyje už Aušros vartų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
-- c-011
-  santrauka: 'Italai, čia nuolat dirbdami šešerius metus, iš brangaus marmuro pastatė du puikius antkapius kara­ liaus žmonoms - Elžbietai ir Barborai Šv.'
+    - t-011
+
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     — • —
@@ -397,16 +351,21 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     sios Katedros griuvėsiuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-012
-  santrauka: 'Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik.'
+    - t-010
+
+- c-011
+  santrauka: 'Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tik po to, kas iš sumos atliks, tegu lygiomis dalimis
+    O atskirai jos didenybės Švedijos karalienės Kotrynos ir
+    jos didenybės karalaitės Onos aprangai iš tos pinigų sumos,
+    kurią jos didenybė ponia mūsų motina visą mirdama pali­
+    ko, jo didenybės Ispanijos karaliaus duotą Bellafoge Neapo­
+    lyje, paskiriame po penkiasdešimt tūkstančių auksinių tale­
+    rių, kurie po mūsų mirties pirmiausia tegu būna abidviem
+    išduoti. Tik po to, kas iš sumos atliks, tegu lygiomis dalimis
     su jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­
     ne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­
     vo nuosavą iš motinos paveldėtą turtą.
@@ -431,27 +390,9 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     kokiais kitais, kuriuos po mūsų ras.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-014
-- c-013
-  santrauka: 'Vilniaus miesto ir Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­ niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­ laukė tęsinio.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jis suvaidino svarbų vaidmenį formuojant Lietuvos isto­
-    riografijos tematiką ir probleminius mazgus. Vilniaus miesto ir
-    Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­
-    niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­
-    laukė tęsinio. Tai didelis jo nuopelnas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
+    - t-013
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -482,5 +423,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
 - [[objektai/zodynas/mansionieriai]]
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]

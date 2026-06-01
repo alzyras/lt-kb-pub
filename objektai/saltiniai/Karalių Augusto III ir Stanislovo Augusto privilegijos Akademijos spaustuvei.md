@@ -25,13 +25,14 @@ Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno koplyčios sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­ legija spaustuve pavertė.'
+  teiginys: 'Akademijos spaustuvė karališkąjį vardą turėjo dėl Augusto III ir Stanislovo Augusto suteiktų privilegijų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Akademijos spaustuvė karališkąjį vardą turėjo dėl Augusto III ir Stanislovo Augusto suteiktų privilegijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi:

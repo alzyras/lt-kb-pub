@@ -41,12 +41,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų ir sugalvojo parsivesti į miestą savo pusgyvį vyrą, bet šis pasipriešino; paklaustas, kodėl nenorįs ten mirti, atsakė, kad tą pačią dieną.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viena moteriškė po mūšio drauge su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti
@@ -63,7 +63,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     41. Apie vieną stebuklą

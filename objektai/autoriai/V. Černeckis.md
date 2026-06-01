@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'V. Černeckis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1861 m.'
   - '1968 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1861'
+date_end: '1968'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1861'
-date_end: '1968'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - autorius
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # V. Černeckis
 
@@ -29,16 +25,15 @@ tags:
 Černeckis rašė apie kapitalistinės pramo­ nės formavimąsi Kaune 1861-1913 m. (IstV, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     R. Strazdūnaitė:
@@ -54,10 +49,8 @@ tags:
     nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
     O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
     veiksmus 1863 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

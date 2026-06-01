@@ -1,29 +1,23 @@
 ---
 tipas: posakis
 pavadinimas: '„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1864 m.'
   - '1904 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1864'
 date_end: '1904'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karalius
   - kraštas
   - posakis
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # „lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“
 
@@ -32,79 +26,82 @@ tags:
 Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika. Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika. „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Rusintojai manė laimėti, „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-001
+
 - t-003
   teiginys: '„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   pagrindžia:
     - c-004
+
 - t-005
-  teiginys: 'Jie tikėjosi pakeisti pačią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai įmanoma pasiekti.'
+  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   pagrindžia:
     - c-005
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Todėl naikintos institucijos, kurios skyrė šį kraštą nuo
-    likusios Rusijos, vietos administracijoje neleidžiama vartoti lenkų kalbos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Rusintojai manė laimėti, „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Juk separatizmas tarpo pirmiausia vietos bajoriškoje
+    Imperijos politiko-
+    je „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti
+    jėga, neieškant konsensuso su vietos visuomene. Jie tikėjosi pakeisti pa-
+    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
+    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
+    įmanoma pasiekti. Juk separatizmas tarpo pirmiausia vietos bajoriškoje
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
     nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
     nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuga-
+    Neva po Liublino unijos LDK
+    tebuvo Lenkijos valda. Taigi, „susigrąžinusi“ tai, kas jai priklauso pagal
+    „istorinio pirmumo teisę“, Rusija turi teisę, kad ir prievarta, „atkurti is-
+    torinį teisingumą“. Todėl naikintos institucijos, kurios skyrė šį kraštą nuo
+    likusios Rusijos, vietos administracijoje neleidžiama vartoti lenkų kalbos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Rusų pradų atkūrimo“
+    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
     lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
     tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
     rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
     jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -128,30 +125,26 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     kitose Rusijos gubernijose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: 'Jie tikėjosi pakeisti pačią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai įmanoma pasiekti.'
+  santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jie tikėjosi pakeisti pa-
-    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
-    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
-    įmanoma pasiekti. Juk separatizmas tarpo pirmiausia vietos bajoriškoje
-    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
-    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
-    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-    Rusinimo politika 1864–1904 metais
-    Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
-    manytojų Vilniaus generalgubernatorius M.
+    „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
+    valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės
+    Katalikų bažnyčios likvidavimo akcijos. Tad Bažnyčios veikla varžyta, ka-
+    talikai diskriminuojami ir viliojami į stačiatikybę. „Rusų pradų atkūrimo“
+    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
+    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
+    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
+    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
+    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
 
@@ -164,12 +157,11 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/separatizmas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]
+- [[objektai/zodynas/akcijos]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

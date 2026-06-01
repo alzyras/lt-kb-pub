@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Burundajus'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1258 m.'
   - '1259 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1258'
 date_end: '1259'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
   - valstybė
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Burundajus
 
@@ -30,19 +26,20 @@ tags:
 žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Burundajus vadovavo Aukso ordos totoriams per didelį antpuolį, kurį Lietuva atrėmė žiemą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1258-1259 m. žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Burundajus vadovavo Aukso ordos totoriams per didelį antpuolį, kurį Lietuva atrėmė žiemą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Padėtis buvo įtempta ir
@@ -53,18 +50,17 @@ tags:
     antpuolį. Tuomet buvo nuniokota pietry-
     tinė Lietuvos valstybės dalis prie Nemuno
     aukštupio ir jotvingių kraštas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1258-1259 m. žiemą Lietuva atrėmė didžiulį Aukso ordos totorių, vadovaujamų Burundajaus, bei jiems jau pavaldžios Haličo-Voluinės Rusios antpuolį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1258-1259 m. žiemą
+    Padėtis buvo įtempta ir
+    Lietuvos pietryčiuose. 1258-1259 m. žiemą
     Lietuva atrėmė didžiulį Aukso ordos toto-
     rių, vadovaujamų Burundajaus, bei jiems
     jau pavaldžios Haličo-Voluinės Rusios
@@ -73,9 +69,7 @@ tags:
     aukštupio ir jotvingių kraštas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

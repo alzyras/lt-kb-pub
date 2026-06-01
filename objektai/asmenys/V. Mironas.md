@@ -16,12 +16,12 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Mironą premjero poste pakeitusio gen.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Smetonai artimas asmuo – kun. Vladas Mironas.'
   pagrindžia:
     - c-001
@@ -42,7 +42,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -58,7 +58,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

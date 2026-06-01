@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kurtas Valdheimas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,28 +15,28 @@ tags:
 Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos valstybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos Demokratinės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kurtas Valdheimas buvo JT generalinis sekretorius, kuriam adresuotas 45 pabaltijiečių memorandumas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Dar didesnio atgarsio susilaukė va-
+    LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
+    ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m.
+    rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama
+    dekolonizuoti tris Baltijos valstybes. Dar didesnio atgarsio susilaukė va-
     dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam
     sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals-
     tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
     mokratinės Respublikos vyriausybėms.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -27,12 +27,12 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad ivinskis Z.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,4 +60,4 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

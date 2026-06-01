@@ -25,12 +25,12 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -66,7 +66,7 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

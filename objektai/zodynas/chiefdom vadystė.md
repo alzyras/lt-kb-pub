@@ -1,29 +1,17 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "chiefdom / vadystė"
-sukurta: '2026-05-13'
-variantai:
-  - "chiefdom’o"
-  - "vadystės"
-aliases: []
+pavadinimas: 'chiefdom / vadystė'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1009 m.'
-periodas: 'viduramziai'
-periodo_grupes: []
-amziai:
-  - 'XI'
 date_start: '1009'
 date_end: ''
-bukle: juodrastis
-laikotarpis: "1009 m. Lietuvos paminėjimo ir Netimero valdžios kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-13'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XI'
 ---
 # chiefdom / vadystė
 
@@ -36,6 +24,7 @@ Vadystė pateikiama kaip lietuviškas `chiefdom` atitikmuo ir žymi priešvalsty
 Vartojamos formos: `chiefdom’o`, `vadystės`.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1009 m. Lietuvos paminėjimo ir Netimero valdžios kontekstas
 - datos:
   - 1009 m.
@@ -49,40 +38,40 @@ Sąvoka aiškinama per Netimero valdžios paveldimumą ir Lietuvos politinio iš
 Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Vadystė yra `chiefdom` stadijos atitikmuo."
+  teiginys: 'Vadystė yra `chiefdom` stadijos atitikmuo.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją."
+  teiginys: 'Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: `Chiefdom` ir `vadystė` tiesiogiai susiejami su Netimero valdžios paveldimumu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Netimero valdžios paveldimumo principo buvimas rody-
+    Vakarų misionierius, būsima-
+    sis šventasis Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą. Čia
+    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
+    brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
     tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čia
@@ -94,9 +83,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     taip pat buvo organizuojamos krikščioniškos misijos).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -16,12 +16,12 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad akmena (Mituvos intakas), u.'
   pagrindžia:
     - c-001
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -53,4 +53,4 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

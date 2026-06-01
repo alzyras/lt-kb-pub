@@ -24,24 +24,24 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip totoriai nukovė 10 tūkstančių saracėnų raitelių Tais metais totoriai su armėnais bei gruzinais nužygiavo į Siriją bei Palestiną ir, išviję sultoną, nukovė daugiau nei 10 tūkstančių raitelių (Ptol.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
-  pagrindžia:
-    - c-001
-
 - t-002
-  teiginys: 'Visų pirma – tai „tarpininkaujančios mažumos“ – katalikai armėnai ir judėjai žydai.'
+  teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Visų pirma – tai „tarpininkaujančios mažumos“ – katalikai armėnai ir judėjai žydai.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK taip pat išsiskyrė kitomis krikščioniškomis ir nekrikščioniško-
@@ -53,9 +53,9 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepasitikėta ir savųjų įgūdžiais,
@@ -66,7 +66,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -79,7 +79,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

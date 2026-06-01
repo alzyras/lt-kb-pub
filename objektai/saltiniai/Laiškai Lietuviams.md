@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Laiškai Lietuviams'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1958 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1958'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Laiškai Lietuviams
 
@@ -27,18 +21,15 @@ tags:
 : Laiškai Lietuviams, Chicaga, 1958, nr.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _From, the Union with Hungary to the Union with
@@ -49,10 +40,8 @@ tags:
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

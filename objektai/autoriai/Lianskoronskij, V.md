@@ -1,20 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Lianskoronskij, V'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'LI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - žemėlapis
@@ -26,16 +16,15 @@ tags:
 Lianskoronskij, V.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'V. Lianskoronskij rašė apie Vytauto 1399 m. žygį prieš totorius ir mūšį prie Vorsklos.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'V. Lianskoronskij rašė apie Vytauto 1399 m. žygį prieš totorius ir mūšį prie Vorsklos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Liansko-
@@ -48,11 +37,9 @@ Lianskoronskij, V.
     poślednimi na Vorskle 1399,_ Trudy XIII Archeologičeskogo zjezda, II,
     513-521 p. (autorius kautynių vietoje bandė vykdyti archeol. tyrinėji­
     mus, bet visi trys jo darbai turi žymių trūkumų).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

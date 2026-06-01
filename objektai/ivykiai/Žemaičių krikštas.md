@@ -1,30 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Žemaičių krikštas (krikštas)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Žemaičių krikštas'
-aliases:
-  - 'Žemaičių krikštas'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1413 m.'
   - '1416 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: '1416'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigas
   - mūšis
   - tauta
+amziai:
+  - 'XV'
 ---
 # Žemaičių krikštas (krikštas)
 
@@ -33,28 +25,31 @@ tags:
 Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­ maičių krikšto klausimą. Katalikų tikėjimo skleidėjai ir tarp žemaičių, kaip ir aukš­ taičių, sutiko įvairių sunkenybių.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
@@ -67,11 +62,9 @@ Nenurodyta
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje. Vy­
     tautas ragino gyventojus krikštytis, aiškindamas jiems katali­
     kų tikėjimo tiesas ir tuo lenkdamas juos į katalikybę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -81,3 +74,4 @@ Nenurodyta
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Žalgirio mūšis]]

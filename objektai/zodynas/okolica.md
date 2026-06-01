@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'okolica'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - sąvoka
@@ -19,16 +16,15 @@ tags:
 Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis sulenkėjusiomis bajorų „okolicomis".
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Okolicos buvo sulenkėjusių bajorų gyvenvietės greta lietuviškų kaimų.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Okolicos buvo sulenkėjusių bajorų gyvenvietės greta lietuviškų kaimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visa tai buvo tautiškojo
@@ -39,11 +35,9 @@ Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis
     mės, bet, didžiuodamiesi savo kilmingumu ir iš aukšto žiūrėdami
     į lietuvius kaimiečius, jie netikėtai tapo atsilikėliais ir nu-
     skurdėliais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

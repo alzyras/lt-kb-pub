@@ -41,17 +41,17 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad prisiėjo tam reikalui pasikviesti į talką visus Karaliaučiaus brolius bei jų ginklanešius.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
   pagrindžia:
-    - c-001
+    - c-004
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.'
   pagrindžia:
     - c-002
@@ -59,11 +59,11 @@ Nenurodyta
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
@@ -100,7 +100,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,9 +114,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl jie nuolankiai ir gailiai kėlė
@@ -128,7 +128,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

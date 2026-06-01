@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Augustinijonų ordinas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigas
@@ -21,16 +18,15 @@ tags:
 Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, bernardinai, pranciškonai, augustinijonai ir kt.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Augustinijonų vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su parapijų kunigais ir kitų ordinų vienuoliais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Augustinijonų vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su parapijų kunigais ir kitų ordinų vienuoliais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tiesa, kur-ne-kur
@@ -43,11 +39,9 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
 
     tuvoje buvo jau gana daug.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

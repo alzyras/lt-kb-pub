@@ -26,24 +26,24 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Ulrikas uoliai įvykdė karaliaus pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties statybą užbaigė jo sūnus Jonas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: ') Žy­ gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­ niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą jo tėviško rūpinimosi tauta.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-003
   teiginys: 'Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
@@ -64,7 +64,7 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios bažnyčios pastatyti vie­
@@ -80,9 +80,9 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O po kele­
@@ -98,4 +98,4 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

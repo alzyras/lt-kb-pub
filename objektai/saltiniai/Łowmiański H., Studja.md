@@ -29,49 +29,49 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H., Studia..., 2, p. 16, 25; MGP, p. 54).'
-  pagrindžia:
-    - c-005
-
-- t-008
-  teiginys: 'Dusburgietis teigia, kad 570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių rj.'
-  pagrindžia:
-    - c-008
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad łowmiański H., Studja..., 2, p. 34—35; in terram Powunden — SRP, 2, p. 517.'
   pagrindžia:
     - c-006
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież, p. 46— 47, 96—98; to paties.'
+  teiginys: 'Dusburgietis teigia, kad 570 D,— castrum [...] Sisditen, Jer.— Sirdîten; pilis, kaip spėjama, buvusi Girgždutės piliakalnyje (Valančius M., Raštai, 1, p. 379; Łowmiański H., Studja..., 2, p. 214); Telšių rj.'
   pagrindžia:
-    - c-002
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad medininkų žemė, atrodo, susiformavo XIV a., kai į ją buvo sujungti Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema, kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).'
-  pagrindžia:
-    - c-007
+    - c-008
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad iII, 107, 108) vertimas (GAO, p. 7; Łowmiański H., Studja..., 2, p. 31).'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102, 665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg.'
-  pagrindžia:
-    - c-004
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43).'
+  teiginys: 'Dusburgietis teigia, kad łowmiański H., Studja..., 2, p. 34—35; in terram Powunden — SRP, 2, p. 517.'
   pagrindžia:
     - c-001
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A., Jaćwież, p. 46— 47, 96—98; to paties.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad medininkų žemė, atrodo, susiformavo XIV a., kai į ją buvo sujungti Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema, kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).'
+  pagrindžia:
+    - c-003
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad iII, 107, 108) vertimas (GAO, p. 7; Łowmiański H., Studja..., 2, p. 31).'
+  pagrindžia:
+    - c-007
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102, 665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg.'
+  pagrindžia:
+    - c-002
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augustavo (Łowmiański H., Studja..., 2, p. 43).'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     562 D.— Powundie, Jer.— Powundin (plg. lie. Pavandenė — GAO, p. 133); vietovė
@@ -81,9 +81,9 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie
@@ -94,9 +94,9 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-007
 
-- c-007
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
@@ -113,9 +113,9 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Zilijos valsčius (ar didesnis teritorinis junginys), buvęs
@@ -133,9 +133,9 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-001
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
@@ -146,9 +146,9 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-008
 
-- c-005
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
@@ -161,9 +161,9 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-003
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Abenda
@@ -176,7 +176,7 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -190,4 +190,4 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-002

@@ -1,26 +1,20 @@
 ---
 tipas: daiktas
 pavadinimas: 'Druska'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1978 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1978'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1978'
-date_end: '2026'
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
-tags:
-  - daiktas
 ---
 # Druska
 
@@ -29,31 +23,35 @@ tags:
 Druska buvo vienas iš būtiniausių dalykų, kuriuos Lietuva traukėsi sau iš Vakarų per Rygą.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Vytenio ir
@@ -62,11 +60,9 @@ Nenurodyta
     dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji
     galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
     portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -74,7 +70,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/daiktai/Vąšas]]
 - [[objektai/daiktai/Vėliavos]]

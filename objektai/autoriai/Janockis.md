@@ -17,19 +17,19 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Daugiausia žinių apie šį nepaprastą žmogų ga­ lima surasti O s s o 1 i ń s k i II t., 1.155 sq.; jis pataisė Janockio ir kitų Roizijaus biografų klaidas.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto Augusto nurodymu, jis pradėjęs rašyti lotynų kalba „Lietu­ vos istoriją", bet po karaliaus mir­ ties tą darbą užmetęs, janociana, Vol.'
+  teiginys: 'Daugiausia žinių apie šį nepaprastą žmogų ga­ lima surasti O s s o 1 i ń s k i II t., 1.155 sq.; jis pataisė Janockio ir kitų Roizijaus biografų klaidas.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Garsiau­
@@ -46,9 +46,10 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
+  santrauka: 'Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Augustas Rotundas Milesijus
@@ -67,7 +68,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

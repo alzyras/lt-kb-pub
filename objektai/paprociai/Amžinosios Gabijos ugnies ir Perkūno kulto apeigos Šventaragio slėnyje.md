@@ -38,19 +38,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'''' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
+  teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'''' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
@@ -62,9 +62,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikš­
@@ -82,7 +82,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

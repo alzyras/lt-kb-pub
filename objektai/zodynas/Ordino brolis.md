@@ -17,14 +17,14 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad ) iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     (žr. Povilas)
@@ -44,7 +44,7 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

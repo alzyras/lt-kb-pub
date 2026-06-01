@@ -1,15 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pirmasis naujokų šaukimas į Lietuvos kariuomenę (1919 m. kovo 5 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1919 m.'
+date_start: '1919'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Pirmasis naujokų šaukimas į Lietuvos kariuomenę (1919 m. kovo 5 d.)
 
@@ -30,26 +33,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę buvo paskelbtas 1919 m. kovo 5 d.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę buvo paskelbtas 1919 m. kovo 5 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Kovos.** Pirmasis naujokų šaukimas į nepriklausomosios
     Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.
     5 d. Visos pirmosios kariuomenės dalys buvo savanorių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,24 +1,10 @@
 ---
 tipas: daiktas
-pavadinimas: Dybas
-sukurta: '2026-04-30'
-variantai: []
-aliases: []
+pavadinimas: 'Dybas'
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Dybas
 
@@ -27,32 +13,36 @@ tags: []
 Kaltininkus pririšdavo prie dybo ir plakdavo.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kaltininkus pririšdavo prie dybo ir plakdavo.'
   pagrindžia:
     - c-001
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Kaltininkus pririšdavo prie dybo ir plakdavo.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų:
         „Tas, – sako, – pašoks į sausą medį“ arba: „Tas sulauks sausos šakos“; kitus dybavojo^1126 , prie dybo^1127
@@ -61,11 +51,9 @@ Nenurodyta
         laikuose galėjo išsipirkti nuo tos viežos pinigais. Vadinos vieža nuo to, jog kaltininkas tenai kaip
         vėžys pakerėj turėjo lindoti. Tuos, kurie svetimas bites kieme ar girioj bartis^1130 išlaužė, prikalus
         bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

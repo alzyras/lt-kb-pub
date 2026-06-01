@@ -36,17 +36,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
@@ -70,7 +70,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
@@ -87,7 +87,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tas

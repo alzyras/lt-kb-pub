@@ -1,19 +1,11 @@
 ---
 tipas: asmuo
 pavadinimas: 'Antanas Gelgaudas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -25,38 +17,42 @@ tags:
 karių, kuriai vadovavo generolas Antanas Gelgaudas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bendros sukilimo vado-
+    vybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities
+    teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe.
+    Iki gegužės sukilėliai perėmė valdžią bemaž visoje teritorijoje į vakarus ir
+    šiaurę nuo Vilniaus.
     1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
     vadovavo generolas Antanas Gelgaudas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos sukilėliams į pa-
@@ -72,16 +68,14 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     vyks užimti Lietuvos sostinę - Vilnių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    pirmoji pusė k
+    XIX a. pirmoji pusė k
 
     Gen. A. Gelgaudas, palikęs štabą, pats
     dalyvavo mūšyje. Jis nesislėpė, stengėsi
@@ -90,11 +84,9 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     ieškojo mirties.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

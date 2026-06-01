@@ -27,12 +27,12 @@ periodo_grupes:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'DOVILAS ar DOVYDAS Rostislavovičius, Lietuvos kunigaikštis -----------^ ----------s VIDAS, pramintas Vilku, ERDENAS ar Liet.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
   pagrindžia:
     - c-001
@@ -56,7 +56,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -74,7 +74,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

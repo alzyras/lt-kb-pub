@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Derybos Salyne su Vokiečių ordinu'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ivykis
   - ordinas
   - pilis
+amziai:
+  - 'XV'
 ---
 # Derybos Salyne su Vokiečių ordinu
 
@@ -30,28 +24,31 @@ tags:
 Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio
@@ -72,11 +69,9 @@ Nenurodyta
     50
     nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
     dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

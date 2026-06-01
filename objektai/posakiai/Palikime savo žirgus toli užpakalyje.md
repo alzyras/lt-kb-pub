@@ -1,25 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Palikime savo žirgus toli užpakalyje'
-sukurta: '2026-05-02'
-variantai:
-  - 'kad neturėtume vilties prie jų sugrįžti'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -38,22 +23,20 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 - kad neturėtume vilties prie jų sugrįžti
 
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: '„Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prūsijos maršalas paklau-
@@ -71,18 +54,17 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
     gybė kitų, tvirtindami, kad be žirgų jie nej-
     stengsią mūšyje atsilaikyti dėl savo sunkios
     ginkluotės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/daiktai/Žirgai]]

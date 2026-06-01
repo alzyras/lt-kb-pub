@@ -38,17 +38,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
   pagrindžia:
-    - c-001
+    - c-002
     - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem pasitarnavo, draugiškai vieną su kitu taikydamas. 159 D.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tada
@@ -69,7 +69,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kartą, kai popiežius Honorijus III

@@ -1,27 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos Tarybų socialistinė respublika (institucija)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Lietuvos Tarybų socialistinė respublika'
-aliases:
-  - 'Lietuvos Tarybų socialistinė respublika'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1940 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1940'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XX'
 ---
 # Lietuvos Tarybų socialistinė respublika (institucija)
 
@@ -30,16 +22,15 @@ tags:
 (^34) ĮVADAS Kiek mažesnis už abu pirmuosius yra trečiasis Lietuvos TSR istorijos tomas (408 p.). Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­ žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m. Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas, sutrukdytas intervencijų ir diktatūros, vėl įvykdytas 1940 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas, sutrukdytas intervencijų ir diktatūros, vėl įvykdytas 1940 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tada
@@ -52,11 +43,9 @@ tags:
     Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
     marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
     būti logiškai konsekventiški.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

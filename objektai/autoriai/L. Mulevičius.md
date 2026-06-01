@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'L. Mulevičius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1905 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1905'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # L. Mulevičius
 
@@ -27,16 +23,15 @@ tags:
 Mulevičius 120.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'L. Mulevičius rašė apie to laiko žemėvaldos klausimus.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'L. Mulevičius rašė apie to laiko žemėvaldos klausimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
@@ -51,11 +46,9 @@ Mulevičius 120.
     apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
     1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
     kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

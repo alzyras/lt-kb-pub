@@ -46,12 +46,12 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Ir tuo būdu prisiartino Vokiečių Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­ se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų — su Ordinu ir jo gausingais Vakarų Europos svečiais.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
     - c-002
@@ -93,7 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -107,7 +107,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Dovas Zaunius'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1926 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1926'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
   - tauta
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Dovas Zaunius
 
@@ -29,19 +25,22 @@ tags:
 Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir pasiuntinys Petras Klimas (H.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Voldemaras, neturėdamas
+    Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
+    Sąjungos Tarybai ir situacija tapo ypač įtempta, nes Lietuva nebuvo at-
+    šaukusi karo padėties su Lenkija. Lietuva ir Lenkija kaktomuša susidūrė
+    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
+    A. Voldemarui klausimą „Karas ar taika?“ A. Voldemaras, neturėdamas
     Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
     Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
     pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
@@ -50,11 +49,9 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
     160
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

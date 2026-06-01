@@ -42,13 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
+  teiginys: 'Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Re­

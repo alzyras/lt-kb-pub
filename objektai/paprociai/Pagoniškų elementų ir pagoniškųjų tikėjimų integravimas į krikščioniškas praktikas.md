@@ -1,32 +1,23 @@
 ---
 tipas: paprotys
-pavadinimas: "Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas"
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
+pavadinimas: 'Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1387 m.'
-  - '1413 m.'
   - '1417 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
 date_start: '1387'
 date_end: '1417'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - krikštas
   - paprotys
   - tauta
   - tikėjimas
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas
 
@@ -35,60 +26,58 @@ tags:
 Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų. Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
+  pagrindžia:
+    - c-003
+
+- t-002
   teiginys: 'Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
+
+- t-003
   teiginys: 'Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: '“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jų yra ir krikščioniškų švenčių, pavyzdžiui, Kalė-
     dų, Velykų ir kt., papročiuose. Galėtume sakyti, kad pagoniškos šventės yra
     tik „užsiklojusios“ krikščioniškuoju švenčių sluoksniu. Išlikę žilos senovės
     elementai lemia lietuvių tautosakos, folkloro ir tautodailės savitumą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotika
@@ -98,15 +87,13 @@ Nenurodyta
     tos turėjo gyvuoti toliau. Nors pagoniškosios šventvietės egzistuoja kaip
     alternatyva katalikų bažnyčioms, ir jos jau yra bendros su krikščionybe
     plėtotės rezultatas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-004
-  santrauka: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
+    - t-003
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotika
@@ -124,28 +111,9 @@ Nenurodyta
     jau apėmė visą bajorijos sluoksnį, o valstietiją pasiekė tik XVII a.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: '“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    “ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
-    mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės
-    laikų išlikusių elementų. Jų yra ir krikščioniškų švenčių, pavyzdžiui, Kalė-
-    dų, Velykų ir kt., papročiuose. Galėtume sakyti, kad pagoniškos šventės yra
-    tik „užsiklojusios“ krikščioniškuoju švenčių sluoksniu. Išlikę žilos senovės
-    elementai lemia lietuvių tautosakos, folkloro ir tautodailės savitumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

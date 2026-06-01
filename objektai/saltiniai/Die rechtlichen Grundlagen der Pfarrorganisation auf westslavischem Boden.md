@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -16,20 +13,15 @@ datos:
   - '1930 m.'
   - '1931 m.'
   - '1938 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XII'
-  - 'XIII'
-  - 'XX'
 date_start: '1091'
 date_end: '1938'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XI'
+  - 'XX'
 ---
 # Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden
 
@@ -38,18 +30,15 @@ tags:
 Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p. — (”) Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden, Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. — Smolka, St.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p. — (”) Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden, Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. — Smolka, St.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p. — (”) Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden, Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. — Smolka, St.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
@@ -61,10 +50,8 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
     — (”) _Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem
     Boden,_ Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. —
     Smolka, St.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

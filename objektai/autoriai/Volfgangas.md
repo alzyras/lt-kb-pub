@@ -23,13 +23,14 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
 ## Teiginiai
 
 - t-001
-  teiginys: 'Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius Volfgangas savo „Uwagi Historyczne" Dziennik Wileński, 1816 m.-T.'
+  teiginys: 'Profesorius Volfgangas 1816 m. „Dziennik Wileński“ išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Profesorius Volfgangas 1816 m. „Dziennik Wileński“ išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji iki šiol žinoma Vilniuje

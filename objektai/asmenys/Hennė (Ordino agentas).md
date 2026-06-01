@@ -1,26 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Hennė (Ordino agentas)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1425 m.'
   - '1427 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-date_start: '1427'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+date_start: '1425'
+date_end: '1427'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - valstybė
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Hennė (Ordino agentas)
 
@@ -29,28 +26,65 @@ tags:
 Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas. Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
+  teiginys: 'Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį.'
   pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-001
+
 - t-003
-  teiginys: 'Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį.'
+  teiginys: 'Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo,
+    sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo
+    Henne, drauge ir vokiečių agentas. Vytautas čia yra tų laikų
+    vaikas.
+    Maža žinome apie Vytauto šeimyninius santykius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto autoritetą rytuose liudija jo juokdario, Ordino
+    agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę
+    — ekspediciją savo valstybės rytiniu pakraščiu 1427 met. Sako
+    jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­
+    lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
+    monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
+    kunigaikščiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pasidavimo sąlygas
@@ -62,47 +96,45 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
     dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
     su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Hennė buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
+    - t-003
+
+- c-004
+  santrauka: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Žiaurumų ir dabar juk pasaulyje yra kiek reik,
+    tik jie dabar dažniausiai ne vieno asmens užsigeidimų išdava.
     Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo,
     sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo
     Henne, drauge ir vokiečių agentas. Vytautas čia yra tų laikų
     vaikas.
-    Maža žinome apie Vytauto šeimyninius santykius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį.'
+    - t-004
+
+- c-005
+  santrauka: 'Vytauto autoritetą rytuose liudija jo juokdario, Ordino agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Maskvos kunigaikštija, kurioje viešpatavo
+    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
+    sūnus Vosylius, atsparumo nerodė.
+
     Vytauto autoritetą rytuose liudija jo juokdario, Ordino
     agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę
     — ekspediciją savo valstybės rytiniu pakraščiu 1427 met. Sako
-    jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko. Tos ke­
-    lionės metu jam prisiekė ištikimybę bei pagalbą Maskvos hege­
-    monijoj buvę Tveriaus, Rezanės, Pskovo, Vorotinsko ir kit.
-    kunigaikščiai.
-  citata_rodoma: ""
+    jis buvęs nukeliavęs 100 mylių į rytus nuo Smolensko.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,24 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Raitas keliavimas į bažnyčią, mugę ir kitas vietas'
-sukurta: '2026-04-30'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Raitas keliavimas į bažnyčią, mugę ir kitas vietas
 
@@ -30,6 +16,7 @@ Raitas keliavimas lietuviams buvo laikomas garbingesniu už važiuotą, o jauni 
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: socialinė norma
 
 ## Atlikimas
@@ -42,37 +29,33 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
+
+- t-001
   teiginys: 'Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-005
+
+- t-002
   teiginys: 'Kalnėnų ir žemaičių jaunuomenė senovėje labiausiai rūpinosi žirgų gražybe.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kalnėnų ir žemaičių jaunuomenė senovėje labiausiai rūpinosi žirgų gražybe.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Todėl jaunuomenė kaip kalnėnų, taip ir žemaičių senovėj nieku kitu nesirūpino, tiktai žirgų gražybe,
         kurių veislė visame pasauly buvo garsi ir gedaujama ne vien nuo grekonų ir rymionų dėl savo
         dailumo, čeklumo^1186 , greitumo ir stiprumo, bet dar ir paskesniuose laikuose yra garbinama ir nuo
         senųjų minima.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-002
-  santrauka: 'Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Todėl šiandien dar jaunas žemaitis, jei
@@ -81,13 +64,11 @@ Nenurodyta
         vergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
         jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
         duosiu arklius į bažnyčią joti.“
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

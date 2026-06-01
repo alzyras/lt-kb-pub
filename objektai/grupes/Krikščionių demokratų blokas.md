@@ -30,12 +30,12 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
   pagrindžia:
     - c-003
 
-- t-005
+- t-003
   teiginys: 'L I E T U V O S I S T O R I J A 148 Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir.'
   pagrindžia:
     - c-005
@@ -45,7 +45,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   pagrindžia:
     - c-004
 
-- t-002
+- t-005
   teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
   pagrindžia:
     - c-002
@@ -87,7 +87,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,7 +103,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -141,7 +141,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 - c-006
   santrauka: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'

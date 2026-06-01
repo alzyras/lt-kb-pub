@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '18 Kryžiuočių knechtas Hansas Baigas 1432 metų rugsėjo 8 dieną iš Trakų rašo didžiajam magistrui, kad: „Žy­ gimantas, naujas Lietuvos didysis kunigaikštis, visiems, turintiems iš tėvų paveldėto turto, suteikia garan­ tijų pagal Magdeburgo teises, kaip ir.'
+  teiginys: 'Hansas Baigas 1432 m. rugsėjo 8 d. iš Trakų rašė didžiajam magistrui apie Žygimanto teikiamas garantijas pagal Magdeburgo teises.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Hansas Baigas 1432 m. rugsėjo 8 d. iš Trakų rašė didžiajam magistrui apie Žygimanto teikiamas garantijas pagal Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     18

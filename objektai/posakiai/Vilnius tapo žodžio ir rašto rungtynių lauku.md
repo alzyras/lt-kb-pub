@@ -1,27 +1,10 @@
 ---
 tipas: posakis
-pavadinimas: "Vilnius tapo žodžio ir rašto rungtynių lauku"
-sukurta: '2026-05-27'
-variantai:
-  - "Vilnius tapo žodžio ir rašto rungtynių lauku"
-aliases: []
+pavadinimas: 'Vilnius tapo žodžio ir rašto rungtynių lauku'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XVI"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 tags: []
 ---
 # Vilnius tapo žodžio ir rašto rungtynių lauku
@@ -47,22 +30,20 @@ Frazė pateikta Balińskio pasakojime kaip įsimintina istorinė arba istoriogra
 Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio paliudijimo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stepono Batoro laikais jėzuitų ir protestantų polemika pavertė Vilnių žodžio ir rašto rungtynių lauku.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vilniaus kaip žodžio ir rašto rungtynių lauko vaizdinys siejamas su jėzuitų ir disidentų kova dėl įtakos Lietuvoje.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pagrindžia formulės formą ir jos vartojimo kontekstą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jėzuitų apsigyvenimas Vil­
@@ -75,11 +56,9 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
     tikslui surinktų žmonių. Vilnius tapo žodžio ir rašto rung­
     tynių lauku.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

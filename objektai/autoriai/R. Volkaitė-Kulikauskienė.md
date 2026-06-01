@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'R. Volkaitė-Kulikauskienė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1955 m.'
   - '1972 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1955'
 date_end: '1972'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # R. Volkaitė-Kulikauskienė
 
@@ -28,19 +24,20 @@ tags:
 Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t. R. Volkaitė-Kulikauskienė tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD, t. Kulikauskienė (Volkaitė), R.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'R. Volkaitė-Kulikauskienė parašė „Lietuviai IX-XII amžiais“ ir darbą apie klasinės visuomenės susidarymą Lietuvoje.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '2, 1972, 143-160 p. — Kulikauskienė (Volkaitė), R.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'R. Volkaitė-Kulikauskienė parašė „Lietuviai IX-XII amžiais“ ir darbą apie klasinės visuomenės susidarymą Lietuvoje.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'R. Volkaitė-Kulikauskienė parašė „Lietuviai IX-XII amžiais“ ir darbą apie klasinės visuomenės susidarymą Lietuvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^76) ĮVADAS
@@ -52,15 +49,13 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
     95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
     t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
     rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: '2, 1972, 143-160 p. — Kulikauskienė (Volkaitė), R.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     2, 1972, 143-160 p. — Kulikauskienė
@@ -68,8 +63,6 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
     Vilnius 1958 (straipsnių rinkinys).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

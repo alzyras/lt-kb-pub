@@ -22,11 +22,6 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos, apie 100 kulkosvaidžių, 10 minosvaidžių, ## Puslapis 197 @ Lapkričio 20 d. Pasvalio batalionas užima Žeimelį.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +45,7 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
     - t-001
 
 - c-002
-  santrauka: 'Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos, apie 100 kulkosvaidžių, 10 minosvaidžių, ## Puslapis 197 @ Lapkričio 20 d. Pasvalio batalionas užima Žeimelį.'
+  santrauka: 'Lapkričio 20 d. Pasvalio batalionas užėmė Žeimelį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     nugabenti prireikė specialaus traukinio.

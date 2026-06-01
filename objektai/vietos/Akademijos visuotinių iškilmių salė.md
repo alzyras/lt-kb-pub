@@ -1,28 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Akademijos visuotinių iškilmių salė'
-sukurta: '2026-05-27'
-variantai:
-  - 'aktų salė'
-  - 'ta salė'
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-bukle: juodrastis
-laikotarpis: 'ankstyvieji naujieji laikai'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes:
-  - 'LDK'
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Akademijos visuotinių iškilmių salė
 
@@ -31,6 +13,7 @@ tags: []
 Akademijos visuotinių iškilmių salė buvo pailgos formos patalpa prie bokšto arba varpinės. Aprašas ją sieja su portretais, mediniais suolais ir aukščiu, prilygintu trims aukštams.
 
 ## Pavadinimai šaltiniuose
+
 - Akademijos visuotinių iškilmių salė
 - aktų salė
 - ta salė
@@ -44,31 +27,30 @@ Vilniaus akademijos komplekso salė, naudota iškilmingoms akademinėms reikmėm
 Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėje, prie bokšto arba varpinės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Salėje buvo dvidešimt paprastos tapybos portretų ir trijų eilių mediniai suolai.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Akademijos visuotinių iškilmių salės aukštis buvo sulig trimis aukštais.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
   pagrindžia:
     - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Salės vieta ir forma nurodytos tiesiogiai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -87,13 +69,11 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     pailgos formos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Aprašoma salės vidaus įranga ir portretai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo Radvilos, Vilniaus vaivados Mykolo Paco,
@@ -105,13 +85,11 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     aukštėliau ir dar aukščiau.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Akademijos visuotinių iškilmių salės aukštis buvo sulig trimis aukštais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo
@@ -126,13 +104,11 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     sulig 3 aukštais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą
@@ -154,8 +130,6 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     skarda, pokostu padengta, apkalti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

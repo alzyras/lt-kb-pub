@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Šernas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - tauta
@@ -19,22 +16,20 @@ tags:
 Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti patriotiškus straipsnius - apie garbingą lietuvių praeitį ir apie sunkų dabartinį svetimųjų jungą. 1878 m. Šerno redaguojamoji „Lietuviška Ceitunga" net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat, joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradarbiai).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
@@ -57,15 +52,13 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jų tarpe buvo ir tokių, kurie jau stojo ant
@@ -76,11 +69,9 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
     biai). Bet prieš radikalųjį jos tautiškumą kilo nepasitenkinimas,
     ir redaktorius vėl pavertė ją paprastu informaciniu laikraščiu be
     jokios ideologijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -90,4 +81,6 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/grupes/Šerno rinktinė]]
+- [[objektai/grupes/Žebenkšties rinktinė]]

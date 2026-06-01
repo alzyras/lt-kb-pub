@@ -42,12 +42,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai [per Gallicos et Venetos] (Mart.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1259 viešpaties metais Paleologas, graikų imperatorius, atgavo Konstantinopolį, kurį
@@ -58,7 +58,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     42. Apie Konstantinopolio miesto atgavimą

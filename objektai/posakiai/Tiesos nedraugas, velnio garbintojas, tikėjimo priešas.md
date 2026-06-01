@@ -1,29 +1,10 @@
 ---
 tipas: posakis
-pavadinimas: "Tiesos nedraugas, velnio garbintojas, tikėjimo priešas"
-sukurta: '2026-05-27'
-variantai:
-  - "bjaurūs tikėjimo ardytojai, eretikai, melagiai ir jokios garbės neturintys žmonės"
-aliases: []
+pavadinimas: 'Tiesos nedraugas, velnio garbintojas, tikėjimo priešas'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos:
-  - "1323 m."
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Tiesos nedraugas, velnio garbintojas, tikėjimo priešas
 
@@ -48,22 +29,20 @@ Frazė priklauso prakeiksmo arba pasmerkimo formulei, susietai su antspaudo ir r
 Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir garbės priešą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Gedimino vardu skelbtame laiške antspaudo tikrumu abejojantieji vadinami tiesos nedraugais, velnio garbintojais, tikėjimo priešais, bedieviais, melagiais ir negarbingais žmonėmis."
+  teiginys: 'Gedimino vardu skelbtame laiške antspaudo tikrumu abejojantieji vadinami tiesos nedraugais, velnio garbintojais, tikėjimo priešais, bedieviais, melagiais ir negarbingais žmonėmis.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Lietuviška citata pateikia pasmerkimo formulę antspaudo tikrumo ginčo kontekste.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
@@ -80,15 +59,13 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po šių paaiškinimų apie antspaudą visuose trijuose
@@ -98,11 +75,9 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     privatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo
     laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­
     kus, melagius ir jokios garbės neturinčius žmonės.].
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

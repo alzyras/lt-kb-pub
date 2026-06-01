@@ -41,12 +41,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
@@ -57,7 +57,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     103. Apie tai, kaip hospitaljerai užėmė Rodo salą

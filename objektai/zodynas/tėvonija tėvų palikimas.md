@@ -19,24 +19,24 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų kunigaikščių dovanota vokiečiams.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-003
   teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
@@ -54,7 +54,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
@@ -68,9 +68,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
@@ -83,9 +83,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-005
+- c-004
   santrauka: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -100,9 +100,9 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-006
+- c-005
   santrauka: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -123,7 +123,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

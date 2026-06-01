@@ -27,13 +27,14 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
 ## Teiginiai
 
 - t-001
-  teiginys: 'Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad 443 ## Puslapis 460 VILNIAUS MIESTO ISTORIJA II TOMAS juos laiku pasiųstų JMCPP : Mlodyčiui į Leipcigą ir ponui Plockiui sumokėti skolą iš.'
+  teiginys: 'Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
@@ -51,7 +52,3 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Puslapis 77]]

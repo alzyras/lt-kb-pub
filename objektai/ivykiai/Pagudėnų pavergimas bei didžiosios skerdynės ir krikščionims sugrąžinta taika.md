@@ -36,12 +36,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims sugrąžintą taiką upeliai Ragava ir Veisika (GAO, p.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     171 (166). Apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims
@@ -52,7 +52,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     171 (166). Apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims

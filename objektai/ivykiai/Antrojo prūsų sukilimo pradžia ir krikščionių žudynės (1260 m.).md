@@ -41,19 +41,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje.'
+  teiginys: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie didelį krikščionių kraujo praliejimą
@@ -72,9 +72,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie antrąją prūsų atskalūnybę, kuri truko 15 metų
@@ -97,7 +97,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   santrauka: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'

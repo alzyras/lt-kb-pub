@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Seimų vietos įstatymo priėmimas (1673 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1673 m.'
+date_start: '1673'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
+amziai:
+  - 'XVII'
 ---
 # Seimų vietos įstatymo priėmimas (1673 m.)
 
@@ -31,16 +34,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1673 m. seime Lietuvos atstovai išreikalavo įstatymo, kad kas trečias seimas, kurio maršalka lietuvis, būtų šaukiamas Gardine.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1673 m. seime Lietuvos atstovai išreikalavo įstatymo, kad kas trečias seimas, kurio maršalka lietuvis, būtų šaukiamas Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     vis dėlto nesutiko sutartinai veikti su savo priešu Sobieskiu —
@@ -50,11 +52,9 @@ Nenurodyta
     lavo iš lenkų priimti įstatymą, kad kas trečias
     seimas, kurio maršalka esti lietuvis, būtų
     šaukiamas Lietuvoje (Gardine).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

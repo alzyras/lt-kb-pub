@@ -42,21 +42,22 @@ Nenurodyta
 - t-001
   teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
+  teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Patrankų padariniai ir anglų lankininkų narsa bei sumanumas mūšiuose lėmė didelius Lietuvos patirtus smūgius.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Patrankų padariniai ir anglų lankininkų narsa bei sumanumas mūšiuose lėmė didelius Lietuvos patirtus smūgius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto visi
@@ -82,9 +83,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tatai yra tiesiog pažodinis D1 u-
@@ -100,9 +101,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­

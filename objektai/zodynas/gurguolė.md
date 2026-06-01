@@ -1,28 +1,23 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'gurguolė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1389 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1389'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - sąvoka
   - transportas
   - valdovas
+amziai:
+  - 'XIV'
 ---
 # gurguolė
 
@@ -31,24 +26,25 @@ tags:
 Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis grandinėmis, patrankas, patrankėles, arbaletus ir daug turto.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Pastarieji, gurguolei atvykus iki Žemu­ tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo, ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo kariais.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Pastarieji, gurguolei atvykus iki Žemu­ tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo, ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo kariais.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     O Vytauto
@@ -64,15 +60,13 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     rių įkalbėtas nesiduoti priešo paimamas
     Vytautas ir jo brolis Žygimantas bėgo,
     persėsdami nuo žirgo ant žirgo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-003
-  santrauka: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
+    - t-003
+
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
@@ -88,13 +82,11 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     koks bailys pamatęs daugybę nukautųjų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Pastarieji, gurguolei atvykus iki Žemu­ tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo, ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo kariais.'
+    - t-001
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -122,11 +114,9 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -152,12 +142,12 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
 - [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
 - [[objektai/asmenys/Druzigeris]]
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
 - [[objektai/asmenys/Kopčius]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Mietas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Sudimantas]]
 - [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
 - [[objektai/zodynas/kolektyvizacija]]

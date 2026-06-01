@@ -1,24 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Polska i Litwa na przełomie wieków średnich'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1801 m.'
+  - '1900 m.'
   - '1904 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
-date_start: '1904'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+date_start: '1801'
+date_end: '1904'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Polska i Litwa na przełomie wieków średnich
 
@@ -27,18 +24,15 @@ tags:
 : Polska i Litwa na przełomie wieków średnich , I, Krokuva 1904.
 
 ## Teiginiai
+
 - t-001
   teiginys: ': Polska i Litwa na przełomie wieków średnich , I, Krokuva 1904.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: ': Polska i Litwa na przełomie wieków średnich , I, Krokuva 1904.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —
@@ -53,10 +47,8 @@ tags:
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr. : _Polska i Litwa
     na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V. : _Cho-
     ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

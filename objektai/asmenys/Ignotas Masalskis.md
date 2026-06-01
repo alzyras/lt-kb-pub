@@ -28,17 +28,17 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: '1769 m. vienas iš klasicizmo architektūros L I E T U V O S I S T O R I J A 90 pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– 1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus vyskupo Ignoto Masalskio architektu ir.'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-001
+- t-002
   teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Masalskis.'
   pagrindžia:
     - c-002
@@ -46,9 +46,9 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 - t-004
   teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
   pagrindžia:
-    - c-004
+    - c-005
 
-- t-003
+- t-005
   teiginys: 'Masalskis ir Livonijos vyskupas J.'
   pagrindžia:
     - c-003
@@ -71,7 +71,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -91,7 +91,7 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -109,9 +109,9 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
@@ -128,9 +128,9 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-004
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.

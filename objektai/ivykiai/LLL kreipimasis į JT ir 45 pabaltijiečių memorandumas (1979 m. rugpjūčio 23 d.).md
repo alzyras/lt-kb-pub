@@ -1,28 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'LLL kreipimasis į JT ir 45 pabaltijiečių memorandumas (1979 m. rugpjūčio 23 d.)'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1939 m.'
   - '1979 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1939'
 date_end: '1979'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ivykis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # LLL kreipimasis į JT ir 45 pabaltijiečių memorandumas (1979 m. rugpjūčio 23 d.)
 
@@ -31,28 +24,31 @@ tags:
 LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1979 m. rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama dekolonizuoti tris Baltijos valstybes.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1979 m. rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama dekolonizuoti tris Baltijos valstybes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
@@ -71,11 +67,9 @@ Nenurodyta
     231
     pakto  slaptuosius protokolus, pripažinti jį negaliojančiu nuo pasirašymo
     datos ir likviduoti jo padarinius – išvesti svetimą kariuomenę iš Pabaltijo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

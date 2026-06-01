@@ -22,21 +22,21 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 - t-001
   teiginys: 'Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už tokios šlovingos dovanos suradimą.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad į tai ji atsakė: „Visą laiką be galo pamaldžiai garbinau šventą Barborą, dėl to šiąnakt ji man tris kartus pasirodė pasikaišiusi drabužius, nelyginant išsirengusi pasivaikščioti, o aš jai tariau: „Kur eini, šventoji mergele?“ Ji atsakė: „Ketinu nueiti į Kulmo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į tai  ji atsakė:
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pagaliau pats dievas,

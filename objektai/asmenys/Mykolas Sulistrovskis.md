@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mykolas Sulistrovskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - tauta
@@ -25,16 +16,15 @@ tags:
 Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio ir 8-asis, vadovaujamas šefo Severino Ževuckio bei Juozapo Bielako priešakinės sargybos pulkas su 1-osios tautinės kavalerijos brigada, vadovaujama Mykolo Sulistrovskio.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš priemiesčius stovėjo 2-asis regi-
@@ -45,11 +35,9 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
     brigada, vadovaujama Mykolo Sulistrovskio.
     Rusijos kariuomenė prie Lietuvos Brastos
     priartėjo liepos 22 d. vakare.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

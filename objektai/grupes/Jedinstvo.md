@@ -25,7 +25,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Jį įgyvendinti turėjo prosovietiškos Lietuvos komunistų partijos (nuo sovietų komunistų partijos neatsiskyrusios partijos dalies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“ (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų darbininkai.'
   pagrindžia:
     - c-003
@@ -35,7 +35,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   pagrindžia:
     - c-002
 
-- t-001
+- t-003
   teiginys: 'Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.'
   pagrindžia:
     - c-001
@@ -66,7 +66,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -109,7 +109,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

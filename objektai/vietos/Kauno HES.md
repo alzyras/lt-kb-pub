@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kauno HES'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,16 +15,15 @@ tags:
 Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pastatyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos perdirbimo įmonė, Jonavos azotinių trąšų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai
@@ -35,10 +31,8 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
     tyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos
     perdirbimo įmonė, Jonavos azotinių trąšų gamykla, Ignalinos atominė
     elektrinė (AE)).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

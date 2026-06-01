@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas Botelis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1219 m.'
   - '1238 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1219'
 date_end: '1238'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
   - ordinas
   - upė
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Henrikas Botelis
 
@@ -31,57 +27,35 @@ tags:
 Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.
 
 ## Teiginiai
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad henriko Botelio.'
+  pagrindžia:
+    - c-002
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad henriko Botelio.'
-  pagrindžia:
-    - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ordino pajėgos buvo iškirstos „gintis ne-
-    suspėję“, dėl, matyt, naujos staigios atakos.
+    - c-001
 
-    Taip „lauke prie Durbės upės“ žuvo
-    Livonijos magistras Burchardas Horn-
-    hauzenas, Prūsijos maršalas Henrikas Bo-
-    telis, su jais 150 Ordino brolių, kai kurie
-    kryžininkai, o paprastų karių „dievo žmo-
-    nių tokia daugybė, kad nesu nė girdėjęs
-    jų skaičiaus“, pažymi kronikininkas.
-    „Kai mūšis pasibaigė, kas krikščio-
-    nių gyvas liko, brolių ir ginklanešių,
-    piligrimų ir sembų, nebegalėdami
-    kovoti, iš baimės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-- c-002
-  santrauka: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    581), bet čia — jau ne Notangos teritorija.
+    Vengoževą, prie
+    Mamrų ežero (RSNG, 2, p. 581), bet čia — jau ne Notangos teritorija.
 
     Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
     Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
     kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad henriko Botelio.'
+
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgą laiką sėkmei
@@ -110,11 +84,21 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
     skaičiaus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
+    Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
+    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
+    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
+    pasikliovus viešpačiu, drąsiai stoti į kovą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
 
 ## Ryšiai
 ### Susiję objektai

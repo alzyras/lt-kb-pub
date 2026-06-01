@@ -41,29 +41,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'L I E T U V O S I S T O R I J A 148 Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-003
   teiginys: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tad
@@ -76,9 +76,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -97,9 +97,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
@@ -118,7 +118,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos pirmųjų metų pajamas į biudžetą teikė dau-
@@ -131,7 +131,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

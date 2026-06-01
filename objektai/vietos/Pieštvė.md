@@ -25,24 +25,24 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad pieštvės pilis buvo deš.'
-  pagrindžia:
-    - c-003
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
@@ -52,9 +52,9 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
@@ -69,9 +69,9 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
@@ -90,4 +90,4 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

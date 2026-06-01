@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus sporto rūmai'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
   - '1988 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1940'
 date_end: '1988'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - tauta
   - valstybė
   - vieta
+amziai:
+  - 'XX'
 ---
 # Vilniaus sporto rūmai
 
@@ -30,19 +24,23 @@ tags:
 Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas Vilniaus sporto rūmuose 1988 m. spalio 22–23 d. Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kadangi Baltijos
+    LPS reika-
+    laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
+    čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
+    dėl Lietuvos SSR valstybinio suvereniteto.
+    Ypatingas dėmesys skirtas 1939 m. rugpjūčio 23 d. Vokietijos ir Sovie-
+    tų Sąjungos pasirašytam Molotovo–Ribentropo paktui. Kadangi Baltijos
     valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS deklaruojamiems
     Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas
     Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.
@@ -52,11 +50,10 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
     238
     tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
     bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
-    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m.
-  citata_rodoma: ""
+    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
+    sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

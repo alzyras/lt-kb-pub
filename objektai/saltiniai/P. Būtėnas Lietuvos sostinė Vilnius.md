@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'P. Būtėnas Lietuvos sostinė Vilnius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1973 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1973'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # P. Būtėnas Lietuvos sostinė Vilnius
 
@@ -27,18 +21,15 @@ tags:
 Būtėnas, P.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Būtėno „Lietuvos sostinė Vilnius“ paskelbta žurnale „Karys“ 1973 m. Nr. 8, p. 264-266.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'P. Būtėno „Lietuvos sostinė Vilnius“ paskelbta žurnale „Karys“ 1973 m. Nr. 8, p. 264-266.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
@@ -51,10 +42,8 @@ Būtėnas, P.
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

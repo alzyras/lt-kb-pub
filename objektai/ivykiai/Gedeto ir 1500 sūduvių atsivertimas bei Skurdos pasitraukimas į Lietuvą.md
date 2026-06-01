@@ -43,21 +43,21 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais šimtais vyrų bei moterų jis.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­ mą ir apie tai, kaip buvo apleista ši žemė Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
@@ -78,7 +78,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
@@ -97,7 +97,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,

@@ -30,16 +30,16 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
 - t-001
   teiginys: 'Dusburgietis teigia, kad žulkus V.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 16— Žulkus V.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     16—
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žulkus V. Klaipėdos pilis ir miestas XIII—XVI a —MG 1983, Nr. 8, p. 28—29.

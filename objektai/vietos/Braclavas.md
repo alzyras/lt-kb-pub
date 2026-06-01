@@ -1,19 +1,11 @@
 ---
 tipas: vieta
 pavadinimas: 'Braclavas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - unija
@@ -27,18 +19,19 @@ tags:
 Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai. Bet šitas jų žingsnis nepasibaigė geruoju: jiems išvažiavus, lenkai išreikalavo iš karaliaus raštų, kuriais Palenkė, Voluinė, Braclavo ir Kijevo žemės buvo prijungiamos prie Lenkijos.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -55,26 +48,23 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     plotai atiteko Lenkijai. Lietuviai
     veltui reikalavo, kad lenkai tas
     žemes jiems grąžintų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
+    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
     mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
     veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

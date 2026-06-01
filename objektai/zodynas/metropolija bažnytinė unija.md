@@ -1,15 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'metropolija bažnytinė unija (unija)'
-sukurta: '2026-05-14'
-variantai:
-  - 'metropolija bažnytinė unija'
-aliases:
-  - 'metropolija bažnytinė unija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - unija
@@ -23,26 +18,25 @@ tags:
 Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Graikų katalikų metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Graikų katalikų metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuo Brastos bažnytinės unijos
+    graikais katalikais tapo dauguma Lenkijos ir Lietuvos valstybės stačiatikių.
     Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
     litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
     katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

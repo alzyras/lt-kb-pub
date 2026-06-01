@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Rezeknės regionas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - krikštas
   - popiežius
@@ -27,16 +18,15 @@ tags:
 Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę, o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės regioną.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
@@ -47,10 +37,8 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
     regioną. Tuo metu Gedimino pasiuntinys popiežiaus legatams
     Rygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau
     laikysis senolių tikėjimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

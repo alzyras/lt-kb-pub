@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
@@ -33,22 +30,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1382 m., Kęstučiui išvykus į rytus, Vilniuje kilo sąmokslas, o vokiečiai pirkliai perdavė miestą Jogailai.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vytautas bandė atsiimti Vilnių, bet prie miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1382 m., Kęstučiui išvykus į rytus, Vilniuje kilo sąmokslas, o vokiečiai pirkliai perdavė miestą Jogailai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau Kęstutis, metęs derybas,
@@ -57,15 +52,13 @@ Nenurodyta
     palaikė Jogailą, nes jis žadėjo taiką su ordinu; o taika su
     ordinu reiškė laisvos prekybos klestėjimą. Pirkliams to visiškai
     pakako; todėl jie bematant perdavė miestą Jogailai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vytautas bandė atsiimti Vilnių, bet prie miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas
@@ -74,11 +67,9 @@ Nenurodyta
     Gardiną rinkti jėgų. Tuo tarpu Jogaila užėmė ir Trakus; čia jam
     dar padėjo atėję į pagalbą kryžiuočiai. Trakai buvo atiduoti
     valdyti Skirgailai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

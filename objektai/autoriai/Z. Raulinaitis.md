@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Z. Raulinaitis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1970 m.'
   - '1971 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1970'
 date_end: '1971'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Z. Raulinaitis
 
@@ -28,16 +24,15 @@ tags:
 Raulinaitis, Z.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _Kovos kirviai Lietuvoje anksty­
@@ -64,11 +59,9 @@ Raulinaitis, Z.
     105 p. — Raulinaitis, Z. : _Apuolės užpuolimus_ , Karys, 1970, 45-50, 65-
     71 p. — (”) _Karinė veikla Pabaltijy IX amžiaus pabaigoje_ , Karys, 1971,
     117-120 p. — (”) _Žygis į Kuršą_ , Karys, 1972, 42-47, 89-91 p. — (”)
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

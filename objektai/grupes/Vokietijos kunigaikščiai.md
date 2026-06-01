@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Vokietijos kunigaikščiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
@@ -26,16 +17,15 @@ tags:
 Vokietijos kunigaikščiai galėjo paremti ordiną.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vokietijos kunigaikščiai galėjo paremti ordiną.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vokietijos kunigaikščiai galėjo paremti ordiną.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pvz., Zig­
@@ -44,11 +34,9 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
     ordiną.
     Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
     čiams naudingus Raciąžo susitarimus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

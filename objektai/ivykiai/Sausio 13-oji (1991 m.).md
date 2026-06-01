@@ -42,22 +42,22 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-006
+- t-001
   teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos.'
   pagrindžia:
     - c-006
 
-- t-004
+- t-002
   teiginys: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
   pagrindžia:
     - c-004
 
-- t-002
+- t-003
   teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-004
   teiginys: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
   pagrindžia:
     - c-001
@@ -67,7 +67,7 @@ Nenurodyta
   pagrindžia:
     - c-005
 
-- t-003
+- t-006
   teiginys: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
   pagrindžia:
     - c-003
@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -108,7 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -125,7 +125,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -144,7 +144,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -176,7 +176,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

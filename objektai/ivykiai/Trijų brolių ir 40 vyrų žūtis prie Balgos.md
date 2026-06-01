@@ -35,12 +35,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene patraukė prie Baigos.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netrukus po to du kilmingieji bei galingieji [vyrai] Skumas ir Stucė su didele kariuomene
@@ -55,7 +55,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie 3 brolių ir 40 vyrų nužudymą

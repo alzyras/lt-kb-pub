@@ -1,31 +1,17 @@
 ---
 tipas: paprotys
 pavadinimas: 'Husarų vėliavų „draugų“ ir palydos sistema'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: 'XVI a. antroji pusė – XVIII a.'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
-  - 'XXI'
 date_start: '2013'
 date_end: '2026'
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XXI'
 ---
 # Husarų vėliavų „draugų“ ir palydos sistema
 
@@ -34,53 +20,60 @@ tags: []
 Husarų vėliavų branduolį sudarė turtingi bajorai - draugai. Kiekvienas draugas atsivesdavo palydą ir tarnus, o palydą ginklais, šarvais ir žirgais aprūpindavo pats draugas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: socialinė praktika
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
+- t-001
+  teiginys: '„Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę nestodavo, o užsiimdavo ūkine veikla, saugodavo stovyklą ir kitaip užtikrindavo „draugo“ ir jo mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vėliavų pirmos eilės karys puikiai žinodavo mūšio.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'XVII a. pavyzdžio husarų organizacija ATR egzistavo iki XVIII a.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
+  pagrindžia:
+    - c-002
+
 - t-005
   teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-006
-  teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: '„Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę nestodavo, o užsiimdavo ūkine veikla, saugodavo stovyklą ir kitaip užtikrindavo „draugo“ ir jo mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vėliavų pirmos eilės karys puikiai žinodavo mūšio.'
-  pagrindžia:
-    - c-003
-- t-008
-  teiginys: 'XVII a. pavyzdžio husarų organizacija ATR egzistavo iki XVIII a.'
-  pagrindžia:
-    - c-004
-- t-009
   teiginys: '„Draugų“ palydos buvo vieninteliai vieneLietuvos ir Lenkijos husarai - vienintelė xvii a.'
   pagrindžia:
     - c-005
-- t-010
-  teiginys: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
@@ -101,15 +94,13 @@ Nenurodyta
     „Draugai“ sudarydavo vėliavos priekinę eilę, jo pa-
     lyda stodavo už jo ir sudarydavo antrąją, trečiąją ir
     ketvirtąją eiles.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-002
-  santrauka: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos husarai - vienintelė xvii a.
@@ -117,15 +108,13 @@ Nenurodyta
     „šoko kavalerija“ Europoje. ATR kariuomenės pratęsė
     Europos riterių atakos tradiciją, o Vakarų Europoje xVII a.
     pralaužiamosios kavalerijos atakos nebuvo naudojamos
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
+
 - c-003
-  santrauka: '„Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę nestodavo, o užsiimdavo ūkine veikla, saugodavo stovyklą ir kitaip užtikrindavo „draugo“ ir jo mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vėliavų pirmos eilės karys puikiai žinodavo mūšio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę
@@ -155,30 +144,31 @@ Nenurodyta
     pralaužti priešų gretas („verčiančioji“ banga).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
+
 - c-004
-  santrauka: 'XVII a. pavyzdžio husarų organizacija ATR egzistavo iki XVIII a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Dažniausiai šio periodo Lenkijos husarai vaiz-
+    duojami su sparnais, pritvirtintais prie nugaros ar
+    prie žirgo balno. Tvirty duomenų apie Lietuvos
+    kariuomenės husarų sparnus neaptikta.
     Husarai ir jų XVII a. pavyzdžio organizacija eg-
     zistavo ATR iki XVIII a.
 
     _ palydos poreikius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-003
+
 - c-005
-  santrauka: '„Draugų“ palydos buvo vieninteliai vieneLietuvos ir Lenkijos husarai - vienintelė xvii a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    _ palydos poreikius.
     „Draugų“ palydos buvo vieninteliai viene-
 
     Lietuvos ir Lenkijos husarai - vienintelė xvii a.
@@ -190,13 +180,11 @@ Nenurodyta
     tai, sudarę vėliavą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-006
+
 - c-006
-  santrauka: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
@@ -219,11 +207,9 @@ Nenurodyta
     ketvirtąją eiles.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.'
+  teiginys: '1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     374

@@ -1,27 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vaidotas (Butauto sūnus)'
-sukurta: '2026-05-05'
-variantai:
-  - 'Vaidotas'
-  - 'Butauto sūnus Vaidotas'
-aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1381 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1381'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-05'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vaidotas (Butauto sūnus)
 
@@ -30,56 +23,35 @@ tags:
 Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kęstučio globos į Prūsus ir iš ten patraukęs toliau į Vakarus.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Vaidotas buvo Butauto sūnus.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Bu­ tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur nuvyko pas ciesorių, norėdamas priimti krikštą^2 ).'
+    - c-001
+
+- t-002
+  teiginys: 'Vaidotas buvo Butauto sūnus.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Vaidotas buvo Butauto sūnus.'
+
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bu­
-    tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat
-    pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur
-    nuvyko pas ciesorių, norėdamas priimti krikštą^2 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-004
-- c-003
-  santrauka: 'Bu­ tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur nuvyko pas ciesorių, norėdamas priimti krikštą^2 ).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bu­
+    Nuvykęs Vakarų Europon buvo Romos cieso­
+    riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
+    —81), paprastai vadinamas „lietuvių karaliumi Henriku”. Bu­
     tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat
     pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur
     nuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­
     čio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

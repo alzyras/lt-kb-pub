@@ -22,16 +22,16 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
 - t-001
   teiginys: 'Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D. III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher A., Die Bau..., 2, p. 65; GAO, p. 74).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės

@@ -45,19 +45,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba, plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­ rė gyvą.'
+  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba, plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­ rė gyvą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -97,9 +97,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

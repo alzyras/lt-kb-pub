@@ -44,12 +44,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad taigi 1096 viešpaties metais anksčiau minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą bei šventąjį Jeruzalės miestą, o ilgainiui kiti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu, duodami viešpačiui.'
@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus po to jo šventenybė
@@ -84,7 +84,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs

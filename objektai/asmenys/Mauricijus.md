@@ -25,19 +25,19 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­ vedę įpareigojimu kasmet mokėti Šv.'
+  teiginys: 'O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato už 4750 auksinų nupirkę tą Parulio mūrą, atidavė Collegio Academico [Akademijos kolegijai], pa­ vedę įpareigojimu kasmet mokėti Šv.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
@@ -60,9 +60,9 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1632. Uršulė ir Mauricijus, ignoti cognominis [nežinoma
@@ -74,14 +74,13 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/viderkaftas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/kahalas]]

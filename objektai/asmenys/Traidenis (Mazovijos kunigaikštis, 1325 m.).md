@@ -27,13 +27,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '98 ## Puslapis 115 I KNYGA dux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­ to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­ tas ir Traidenis.'
+  teiginys: 'Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Traidenis 1325 m. viešpatavo vienoje iš Mazovijos žemių kartu su kunigaikščiu Ziemovitu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     C

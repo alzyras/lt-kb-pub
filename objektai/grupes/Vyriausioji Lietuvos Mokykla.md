@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Vyriausioji Lietuvos Mokykla'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - mokslininkas
@@ -25,25 +16,39 @@ tags:
 Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
+  pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Pirmiausia Lietuvoje ir Lenkijoje buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė visų kitų krašto mokyklų priežiūra.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Va-
+    dinamoje moralinių mokslų kolegijoje buvo mokoma
+    filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
+    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
+    V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Edukacinė Komisija perorgani-
@@ -52,31 +57,13 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
     visų kitų krašto mokyklų priežiūra. Tokia Vyriausiąja
     Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vil-
     niaus akademija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Va-
-    dinamoje moralinių mokslų kolegijoje buvo mokoma
-    filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
-    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
-    V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Pirmiausia Lietuvoje ir Lenkijoje buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė visų kitų krašto mokyklų priežiūra.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia Lietuvoje ir Lenkijoje
@@ -87,9 +74,7 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
     domis, o šios apygardėlėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

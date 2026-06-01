@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vilniaus akademijos atidarymo privileginis raštas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - popiežius
@@ -21,26 +18,23 @@ tags:
 1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniaus akademija vadinosi Academia et Universitas Vilnensis Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vilniaus akademija vadinosi Academia et Universitas Vilnensis Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
+    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

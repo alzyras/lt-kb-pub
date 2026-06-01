@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vladimiras Putinas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,26 +15,27 @@ tags:
 Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
+    artimesni santykiai tarp šių valstybių nesusiklostė. Pagrindinė kliūtis –
+    skirtingos abiejų valstybių užsienio politikos geopolitinės orientacijos ir
+    skirtingas požiūris į netolimą istorinę praeitį bei demokratinę santvarką.
     Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia
     susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia su-
     griuvusios SSRS teritorijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

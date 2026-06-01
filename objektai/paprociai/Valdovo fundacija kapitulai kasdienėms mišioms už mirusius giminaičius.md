@@ -47,12 +47,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: '[ir už mūsų, ir mūsų jau mirusių brolių Kazimiero Karigailos ir Alek­ sandro Vyganto sveikatą maldingo­ mis ir šventomis maldomis pasirū­ pinti].'
+- t-001
+  teiginys: 'Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
   pagrindžia:
     - c-001
@@ -106,9 +106,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: 'Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šioje privile­
@@ -126,7 +127,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -31,16 +31,16 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - t-001
   teiginys: 'Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas Geroldzekas iš Švabijos, abu Reino grafai iš Julicho ir Vildenbergo, didikai iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir daug kitų riterių.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kurį magistras Fridrichas fon Vildenbergas Meve 1324 m., daly­ vaujant Pelplino abatui Jordanui, liepė parengti, yra Slapt.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Minėti
@@ -60,7 +60,7 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atskirus pulkus vedė: Silezijos

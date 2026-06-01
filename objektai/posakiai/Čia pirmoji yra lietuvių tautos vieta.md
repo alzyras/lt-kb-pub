@@ -1,32 +1,23 @@
 ---
 tipas: posakis
 pavadinimas: 'Čia pirmoji yra lietuvių tautos vieta'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1330 m.'
-  - '1365 m.'
-  - '1621 m.'
   - '1788 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1330'
 date_end: '1788'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - kunigaikštis
   - kunigas
   - posakis
+amziai:
+  - 'XIV'
+  - 'XVIII'
 ---
 # Čia pirmoji yra lietuvių tautos vieta
 
@@ -35,86 +26,15 @@ tags:
 29 Junii 1788 (Vilniuje, Akademijos spaustuvėje, 8vo) šios Bažnyčios atsiradimą taip aiškina: //Čia pirmoji yra lietuvių tautos vie­ ta, kur imta tikrąjį Dievą išpažinti ir pradėta garbinti! Tačiau keturių Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į Vilnių suardė didžiojo magistro karinius planus, ir šis pa­ būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '29 Junii 1788 (Vilniuje, Akademijos spaustuvėje, 8vo) šios Bažnyčios atsiradimą taip aiškina: //Čia pirmoji yra lietuvių tautos vie­ ta, kur imta tikrąjį Dievą išpažinti ir pradėta garbinti!'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Tačiau keturių Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į Vilnių suardė didžiojo magistro karinius planus, ir šis pa­ būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo.'
   pagrindžia:
-    - c-002
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '29 Junii 1788 (Vilniuje, Akademijos spaustuvėje, 8vo) šios Bažnyčios atsiradimą taip aiškina: //Čia pirmoji yra lietuvių tautos vie­ ta, kur imta tikrąjį Dievą išpažinti ir pradėta garbinti!'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    29 Junii 1788 (Vilniuje,
-    Akademijos spaustuvėje, 8vo) šios
-    Bažnyčios atsiradimą taip aiškina:
-    //Čia pirmoji yra lietuvių tautos vie­
-    ta, kur imta tikrąjį Dievą išpažinti ir
-    pradėta garbinti! Čia prieš 1330 me­
-    tus buvo pagonių šventykla, visoms
-    dievybėms skirta kaip Romos pan­
-    teonas. Čia pirmiausia Petras Goš­
-    tautas, kunigaikščio Algirdo laikų
-    didikas ir Vilniaus vaivada, per Bu-
-    čiacką, paimtą iš Podolės žmoną,
-    garsios anuomet didikų giminės, pa­
-    sikrikštijęs, kai ir Algirdas, per Tve­
-    rės kunigaikštytę Mariją, šventąjį
-    krikštą priėmė, tą pagoniškąją die­
-    vaičių buveinę bažnyčia, tikrajam
-    Dievui pavertė ir savo Globėjo, Šv.
-    Petro, vardui pašventė. Čia pirmiau­
-    sia mūsų lietuvių tauta Dievui nu­
-    silenkė, kai anuomet Šv. Pranciškaus
-    vienuolius, kunigus, į Vilnių tas pats
-    Petras Goštautas atkvietė, dar prieš
-    80 metų iki Jogailos viešpatavimo;
-    o vienas medis, liepa, priešais seno­
-    sios bažnyčios duris, kurią pats Goš­
-    tautas savo rankomis buvo pasodinęs,
-    kaip 1621 metais rašė maldingasis
-    kunigas Petras Korkonas, Antakalnio
-    29
-
-    ## Puslapis 46
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Didelė ir galinga buvo Algirdo viešpatija: šalys, jo
-    valdžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­
-    tus ir nuo Baltijos krantų iki Juodosios jūros į pietus. Vis
-    dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio
-    ekspedicijos į Rusią, kokie būdavo kruvini mūšiai su Ordi­
-    nu. Ir todėl, nepaisant viso Algirdo veiklumo, Lietuvos sos­
-    tinė keletą kartų, jam gyvam esant, buvo žiauriai nunioko­
-    ta. Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
-    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
-    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
-    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
-    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
-    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
-    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
-    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
-    Maišiagalos, priartėjo prie Vilniaus pilių. Tačiau keturių
-    Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į
-    Vilnių suardė didžiojo magistro karinius planus, ir šis pa­
-    būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią
-    Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo,
-    klebonas, net jo laikais vešli, drūta
-    ir virš bažnyčios išsistiebusi buvo
-    matoma, ir visų buvo vadinama
-    Goštauto liepa.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tačiau keturių Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į Vilnių suardė didžiojo magistro karinius planus, ir šis pa­ būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau keturių
@@ -152,24 +72,14 @@ tags:
     priskirti ir vėlesniam laikotarpiui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Butautas]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/daiktai/Goštauto liepa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pagonybė]]

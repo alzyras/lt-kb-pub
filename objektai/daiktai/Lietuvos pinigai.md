@@ -1,218 +1,193 @@
 ---
 tipas: daiktas
-pavadinimas: Lietuvos pinigai
-sukurta: '2026-04-24'
-variantai:
-  - II Lietuvos pinigai
-aliases: []
+pavadinimas: 'Lietuvos pinigai'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-laikotarpis: XIV—XVIII a.
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1387 m.'
-  - '1706 m.'
   - '1707 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1387'
 date_end: '1707'
-patikimumas: aukstas
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pinigai
+amziai:
+  - 'XIV'
+  - 'XVIII'
 ---
 # Lietuvos pinigai
 
 ## Santrauka
+
 Šaltinio priedėlyje Lietuvos pinigai aprašomi nuo seniausių sidabrinių kapų iki Augusto II laikų monetų. Jame matyti monetų formų, nominalų, kalyklų, užrašų ir ženklų kaita, taip pat perėjimas nuo sidabrinių prie auksinių ir varinių pinigų.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 - Laikotarpis: XIV—XVIII a.
 - Datos: 1387 m.; 1706—1707 m.
 - Amžiai: XIV, XV, XVI, XVII, XVIII a.
 
 ## Kas tai
+
 Tai skirtingų laikotarpių Lietuvos monetų ir ankstyvųjų piniginių formų rinkinys, aprašytas viename šaltinio priedėlyje.
 
 ## Naudojimas
+
 Pinigai naudoti atsiskaitymui, o jų formos ir ženklai atspindėjo valdovo laikotarpį, kalyklą ir pinigų vertę.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro įvairiomis formomis ir su įvairiais ženklais ar įkirtimais.
+  teiginys: 'Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro įvairiomis formomis ir su įvairiais ženklais ar įkirtimais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: Kapų įkirtimai greičiausiai buvo daromi sidabro kokybei tikrinti, o jas galėjo lieti ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.
+  teiginys: 'Kapų įkirtimai greičiausiai buvo daromi sidabro kokybei tikrinti, o jas galėjo lieti ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
+  teiginys: 'Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: Po Vytauto iki Aleksandro laikų Lietuvoje pinigai nebebuvo kalami, o buvo vartojami daugiausia Prahos skatikai.
+  teiginys: 'Po Vytauto iki Aleksandro laikų Lietuvoje pinigai nebebuvo kalami, o buvo vartojami daugiausia Prahos skatikai.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-005
-  teiginys: Aleksandro pinigų serijoje buvo pinigėlis, pusskatikis ir skatikas, tačiau nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.
+  teiginys: 'Aleksandro pinigų serijoje buvo pinigėlis, pusskatikis ir skatikas, tačiau nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-006
-  teiginys: Zigmanto II laikais kalykla buvo Vilniuje, o jo piniguose buvo vartojama tik didžiojo Lietuvos kunigaikščio titulatura.
+  teiginys: 'Zigmanto Augusto laikais Lietuvoje buvo nukalta labai daug ir įvairių pinigų, nuo obolio iki dukato.'
   pagrindžia:
     - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-007
-  teiginys: Zigmanto Augusto laikais Lietuvoje buvo nukalta labai daug ir įvairių pinigų, nuo obolio iki dukato.
+  teiginys: 'Zigmanto Augusto piniguose buvo parašas „Moneta magni ducatus Lithuaniae“, o Vilniaus kalykloje veikė keli skirtingi prižiūrėtojai ir vedėjai.'
   pagrindžia:
     - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-008
-  teiginys: Zigmanto Augusto piniguose buvo parašas „Moneta magni ducatus Lithuaniae“, o Vilniaus kalykloje veikė keli skirtingi prižiūrėtojai ir vedėjai.
+  teiginys: 'Stepono Batoro laikais Vilniuje buvo kalamos visos pinigų rūšys, o piniguose greta Vyties buvo ir Lenkijos erelis.'
   pagrindžia:
-    - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-009
+
 - t-009
-  teiginys: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
-  pagrindžia:
-    - c-020
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: Stepono Batoro laikais Vilniuje buvo kalamos visos pinigų rūšys, o piniguose greta Vyties buvo ir Lenkijos erelis.
+  teiginys: 'Zigmanto Vazos laikais nuolat veikusi Vilniaus kalykla išleido daugybę įvairios vertės pinigų, tarp jų ir portugalus.'
   pagrindžia:
     - c-010
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: Zigmanto Vazos laikais nuolat veikusi Vilniaus kalykla išleido daugybę įvairios vertės pinigų, tarp jų ir portugalus.
+
+- t-010
+  teiginys: 'Iš Jono Sobieskio laikų buvo žinomas tik vienintelis pinigas — šeštokas.'
   pagrindžia:
     - c-011
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.
-  pagrindžia:
-    - c-021
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: Iš Jono Sobieskio laikų buvo žinomas tik vienintelis pinigas — šeštokas.
-  pagrindžia:
-    - c-013
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-014
-  teiginys: Augusto II laikais Lietuvos kalykla veikė labai trumpai, 1706—1707 m., ir buvo Gardine, o ne Vilniuje.
-  pagrindžia:
-    - c-014
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
-- t-015
+- t-011
+  teiginys: 'Augusto II laikais Lietuvos kalykla veikė labai trumpai, 1706—1707 m., ir buvo Gardine, o ne Vilniuje.'
+  pagrindžia:
+    - c-012
+
+- t-012
   teiginys: 'Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.'
   pagrindžia:
-    - c-015
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-016
+    - c-013
+
+- t-013
   teiginys: 'Vytautas Jogailai davė 20.000 kapų grašių kariuomenei užsieniuose samdyti.'
   pagrindžia:
-    - c-016
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-017
+    - c-014
+
+- t-014
   teiginys: 'Vytauto laikais rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
   pagrindžia:
-    - c-017
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-018
+    - c-015
+
+- t-015
   teiginys: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.'
   pagrindžia:
-    - c-018
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-019
+    - c-016
+
+- t-016
   teiginys: 'Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.'
   pagrindžia:
+    - c-017
+
+- t-017
+  teiginys: 'Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.'
+  pagrindžia:
+    - c-018
+
+- t-018
+  teiginys: 'Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.'
+  pagrindžia:
     - c-019
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-019
+  teiginys: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
+  pagrindžia:
+    - c-020
+
 - t-020
   teiginys: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
   pagrindžia:
-    - c-022
-- t-021
-  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
-  pagrindžia:
     - c-023
-- t-022
-  teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
-  pagrindžia:
-    - c-024
-- t-023
-  teiginys: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
-  pagrindžia:
-    - c-025
-- t-024
+
+- t-021
   teiginys: 'Viename Jogailos ir Vytauto dokumen­ te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­ dabriniais pinigais; matyt, grašiais arba denariukais.'
   pagrindžia:
-    - c-026
-- t-025
-  teiginys: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
+    - c-025
+
+- t-022
+  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   pagrindžia:
-    - c-027
+    - c-022
+
+- t-023
+  teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
+  pagrindžia:
+    - c-021
+
+- t-024
+  teiginys: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Aprašo kapas kaip seniausius Lietuvos sidabro pinigus ir jų formų įvairovę.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    II Lietuvos pinigai
     1—3 Seniausieji Lietuvos sidabro pinigai — kapos, lietos iš sidabro
     tam tikrose formose. Jų randama įvairių — ilgų ir perpus trumpesnių
 
     (kartais perkirstų per pusę), su įvairiais ženklais ir be jokių ženklų, su
-    įkirtimais ir be įkirtimų, sunkesnių ir lengvesnių.
+    įkirtimais ir be įkirtimų, sunkesnių ir lengvesnių. Apie jas nėra jokių ra-
+    šytinių žinių (jų vardas,— kaip spėjama, kilęs iš žodžio _kapoti,_ — šaltiniuose
+    yra minimas), tad visokios išvados gali būti daromos tik iš radinių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Paaiškina galimą kapų liejimą ir įkirtimų paskirtį.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apie jas nėra jokių ra-
@@ -224,15 +199,14 @@ Nenurodyta
     ir jų viduje yra tas pats metalas.
   citata_rodoma: ''
   teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Pats šaltinis vartoja spėjamojo pobūdžio formuluotes.'
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Aprašo Vytauto laikų pinigėlių nominalus ir ankstyvą jų minėjimą dokumentuose.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Lentelėse duodamieji pavyzdžiai:
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
     10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su _denarais);_
     5 — _pusskatikis_ (= 5 pinigėliams) ; 6 ir 7 — _dvidenariai_ (^2 /в skatiko) ; 8 —
@@ -241,55 +215,38 @@ Nenurodyta
     iš savo kunigaikštijų).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: Nurodo pinigų kaldinimo pertrauką po Vytauto ir svetimų pinigų vartojimą.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kaributo
+    pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
+    iš savo kunigaikštijų).
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: Aprašo Aleksandro laikų monetų seriją ir apyvartos ribojimą nevykusiems skatikams.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
+    kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
-  santrauka: Apibrėžia Zigmanto II pinigų kaldinimo vietą ir titulų vartoseną.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Zigmanto II** pinigai: 14 — _pusskatikis;_ 15 — _skatikas._ Zigmanto II
-    laikais kalykla buvo Vilniuje, ir kai kuriuose piniguose po Vytimi yra raidė
-    „V". Lietuvos piniguose Zigmantas II savo Lenkų karaliaus titulo nemini,
-    — tik didžiojo Liet. kunigaikščio. Kalyklai vadovavo žinomo kardinolo,
-    Hozijo, tėvas Ulrichas, bet piniguose jo vardo nėra,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: Parodo Zigmanto Augusto laikų monetų įvairovę ir jų nominalus.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Zigmanto Augusto** pinigai: 16 — _obolis,_ arba _pusdenaris_ (jo dydis
@@ -305,13 +262,11 @@ Nenurodyta
     pinigų buvo nukalta labai daug ir įvairių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: Nurodo Zigmanto Augusto monetų užrašą ir Vilniaus kalyklos valdymo aplinkybes.
+    - t-006
+
+- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkijoje jo laikais nebuvo
@@ -322,13 +277,11 @@ Nenurodyta
     kuris pirmasis Lietuvos piniguose pradėjo dėti ir savo, kaip kalėjo, herbą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: Aprašo Zigmanto Augusto bandymą suvienodinti pinigų vertę ir papildomų monetų kaldinimą.
+    - t-007
+
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Auksiniams pinigams kalti buvo atskira kalykla. Kadangi Lietuvos pinigai
@@ -342,13 +295,11 @@ Nenurodyta
     leido į apyvartą, kontrasignavęs juos savo monograma _(S. A.)_ ir 1564 m. data
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-009
-- c-010
-  santrauka: Aprašo Stepono Batoro laikų monetų sistemą, heraldiką ir kaldinimo organizavimą.
+
+- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Stepono Batoro** pinigai: 26 — _šilingas (solidus_ = 6 d-enarams,^1 Iз ska-
@@ -364,13 +315,11 @@ Nenurodyta
     savo ženklus piniguose kaldavo ir kiti kalyklos urėdai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-011
-  santrauka: Aprašo Zigmanto Vazos laikų monetų gausą ir portugalų pavadinimo kilmę.
+    - t-008
+
+- c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Zigmanto Vazos** pinigai: 30 — _šilingas;_ 31 ir 32 — _skatikai;_ 33 — _tre-
@@ -385,88 +334,61 @@ Nenurodyta
     savo ženklus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-012
-  santrauka: Nurodo Jono Kazimiero laikų monetų gausą, kalyklas ir pirmuosius varinius pinigus.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Jono Kazimiero** pinigai: 35 — _šilingas;_ 36 — _trečiokas;_ 37 — _šeštokas;_
-    38 — _orta_ (=18 skatikų); 39 — _pusdukatis_ (auksinis); 40 — _dukatas._ Jono
-    Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai. Be Vilniaus ka-
-    lyklos, jo laikais dar veikė kalyklos Brastoje ir Kaune, o be to, kurį metą
-    lietuviški pinigai buvo kalami ir Lenkijoje — Ujazdove ir Olivoje. Visos
-    kalyklos ir jų vedėjai piniguose dėjo savo ženklus, dėl to jie yra labai
-    įvairūs. Įvairūs jie buvo ir pagal vertę. Be matomų lentelėje (35—40 nr.),
-    dar buvo kalami _variniai šilingai_ (tai buvo iš viso pirmieji lietuviški vario
-    pinigai), _skatikai, pusantraskatikiai_ ir _auksinai._
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-013
-  santrauka: Tiesiogiai nurodo vienintelį žinomą Jono Sobieskio pinigą.
+    - t-009
+
+- c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Jono Sobieskio** yra žinomas tik vienintelis pinigas — _šeštokas_ (41 nr.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-014
-  santrauka: Nurodo Augusto II laikų kalyklos veikimo vietą ir trumpą laikotarpį.
+    - t-010
+
+- c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Augusto II** pinigai: 42 — _trečiokas;_ 43 — _šeštokas._ Jo laikais kalykla
     Lietuvoje veikė labai trumpai (1706—1707 m.), ir ne Vilniuje, bet Gardine.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-014
+    - t-011
 
-- c-015
-  santrauka: Totorių pinigai turėjo nešti Vytauto atvaizdą.
+- c-013
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Šis pareikalavo, kad totoriai pripažintų jį savo
+    Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj
+    ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­
+    nant paties Kotlogo. Kad išloštų laiką, Edyga pradėjo su Vy­
+    tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
     tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
     se.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-016
-  santrauka: Vytautas skyrė Jogailai didelę grašių sumą kariuomenei samdyti.
+    - t-012
+
+- c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytautas dar davė
+    Kunigaikštis Kaributas buvo jau seniau
+    išsiųstas su kariuomenės būriu pas Jogailą. Vytautas dar davė
     Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
     Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
     nėjo, nes palaikė Ordiną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-017
-  santrauka: Rublių ir čekų grašių apyvarta aprašoma kaip Vytauto laikų pinigų sistemos dalis.
+    - t-013
+
+- c-015
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pinigai, kuriais buvo mokami mokesčiai Vytauto valdymo
@@ -477,15 +399,13 @@ Nenurodyta
     jos grašiai — tikros monetos, kurių 60 sudarydavo vieną rublį
     (rublis —^1 / 2 svaro gryno sidabro). Vytauto laikais čekų gra­
     šiai buvo kalami ir Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-017
-- c-018
-  santrauka: Lietuviški denariukai apibūdinami pagal ženklus ir datuojami 1387-1390 m.
+    - t-014
+
+- c-016
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
@@ -498,15 +418,13 @@ Nenurodyta
     bai išskėstą, tai į apverstą raidę L. Šios pastarosios rūšies pi­
     nigai labai retai pasitaiko. Iš 27 variacijų, vos vienas egzem­
     pliorius turi tariamą raidę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-018
-- c-019
-  santrauka: Kaune kaldinti K pinigėliai ir mokesčių mokėjimas Lietuvoje kaltais pinigais.
+    - t-015
+
+- c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kiti Vytauto pinigai, kurie
@@ -516,80 +434,104 @@ Nenurodyta
     rasta Kaune (1844 m.). Viename Jogailos ir Vytauto dokumen­
     te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
     dabriniais pinigais; matyt, grašiais arba denariukais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata aiški, bet Kauno inicialo aiškinimas pateikiamas spėjimo forma."
+  statusas: verified
   pagrindžia:
-    - t-019
-- c-020
-  santrauka: Lietuvos pinigai papildomas patvirtintas šaltinio paminėjimas.
+    - t-016
+
+- c-018
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Zigmantas, anks­
+    Tuo tikslu
+    pats Vytautas vyko Vengrijon į Kezmarko suvažiavimą. Ten
+    susitiko su Vengrijos karalium Zigmantu. Zigmantas, anks­
     čiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui
     ištikus jis laikysiąs Ordino pusę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-021
-  santrauka: Lietuvos pinigai papildomas patvirtintas šaltinio paminėjimas.
+    - t-017
+
+- c-019
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytau­
+    K pinigėliai buvo
+    du kartu didesni už aukščiau minėtus pinigėlius ir daugiausia jų
+    rasta Kaune (1844 m.). Viename Jogailos ir Vytauto dokumen­
+    te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
+    dabriniais pinigais; matyt, grašiais arba denariukais. Vytau­
     tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­
     tei pašalpą, mokėjo jai lietuviškais grašiais (latorum gros-
     sorum^1 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-012
-- c-022
-  santrauka: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-020
-- c-023
-  santrauka: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+    - t-018
+
+- c-020
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    Kunigaikštis Kaributas buvo jau seniau
+    išsiųstas su kariuomenės būriu pas Jogailą. Vytautas dar davė
+    Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
+    Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
+    nėjo, nes palaikė Ordiną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-021
-- c-024
-  santrauka: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
+    - t-019
+
+- c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1922 m. spalio 1 d. Lietuvoje
+    įvestas litas. Jo aukso turinys buvo lygus 0,150462 g gryno aukso, t. y. litas
+    buvo prilygintas JAV doleriui santykiu 10:1. Per visą nepriklausomos Lie-
     tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
+    popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
+    sienio valstybėse.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-023
+
+- c-022
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo. Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-022
-- c-025
-  santrauka: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
+
+- c-023
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
+    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
+    mėsos produktų eksportas į užsienį.
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-020
+
+- c-024
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad išloštų laiką, Edyga pradėjo su Vy­
@@ -599,13 +541,11 @@ Nenurodyta
     Vytauto sąlygas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-023
-- c-026
-  santrauka: 'Viename Jogailos ir Vytauto dokumen­ te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­ dabriniais pinigais; matyt, grašiais arba denariukais.'
+    - t-024
+
+- c-025
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Viename Jogailos ir Vytauto dokumen­
@@ -618,26 +558,9 @@ Nenurodyta
     tribucijomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-024
-- c-027
-  santrauka: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas dar davė
-    Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
-    Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
-    nėjo, nes palaikė Ordiną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-025
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -661,7 +584,6 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/litas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/rublis]]
@@ -669,6 +591,7 @@ Nenurodyta
 - [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
 - [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]

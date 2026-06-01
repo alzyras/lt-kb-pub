@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Der Deutsche Orden im Zeitalter der polnisch-litauischen Union'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -13,19 +10,15 @@ datos:
   - '1561 m.'
   - '1953 m.'
   - '1958 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
-  - 'XX'
 date_start: '1382'
 date_end: '1958'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # Der Deutsche Orden im Zeitalter der polnisch-litauischen Union
 
@@ -34,18 +27,15 @@ tags:
 Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^162) **Pvz., K. D. Stammler :** **_Preussen und Livland in ihrem Verhältnis
@@ -55,10 +45,8 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
     **_Bibliographie der Geschichte von Ost- und Westpreussen._** **— Žymėtinas vei­
     kalas : J. Jacoby :** **_Boguslaus Radziwiłł, der Statthalter des Grossen Kurfür­
     sten in Ostpreussen_** **(1959).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

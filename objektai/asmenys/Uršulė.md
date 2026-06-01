@@ -47,7 +47,6 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/kahalas]]
 - [[objektai/zodynas/viderkaftas]]

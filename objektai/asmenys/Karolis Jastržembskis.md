@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Karolis Jastržembskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Karolio Jastržembskio, susikovė su gen.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1863-1864 m. sukilėlių vėliava
@@ -46,11 +36,9 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
     kautis nepatogioje vietovėje. Žuvo apie
 
     30 sukilėlių ir pats būrio vadas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

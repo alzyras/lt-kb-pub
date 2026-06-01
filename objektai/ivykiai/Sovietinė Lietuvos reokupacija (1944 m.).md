@@ -41,25 +41,25 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-004
   teiginys: 'L I E T U V O S I S T O R I J A 206 Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -76,9 +76,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių okupaciją keičia sovietinė
@@ -93,9 +93,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -116,7 +116,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-002
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių okupaciją keičia sovietinė
@@ -131,7 +131,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

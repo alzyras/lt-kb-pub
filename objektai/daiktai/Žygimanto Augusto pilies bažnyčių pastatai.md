@@ -47,19 +47,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.'
+  teiginys: 'O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Be kitų, Že­ mutinėje pilyje buvo pastatyta Šv.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
@@ -90,9 +90,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be kitų, Že­
@@ -112,7 +112,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

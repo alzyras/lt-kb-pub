@@ -1,28 +1,16 @@
 ---
 tipas: saltinis
-pavadinimas: "Haličo-Voluinės (Ipatijaus) metraštis"
-sukurta: '2026-05-14'
-variantai:
-  - "Haličo-Voluinės metraštis"
-  - "Ipatijaus metraštis"
-aliases: []
+pavadinimas: 'Haličo-Voluinės (Ipatijaus) metraštis'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-laikotarpis: "prie 1252 m. įrašo"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - "1252 m."
-periodas: ""
-periodo_grupes: []
+  - '1252 m.'
+date_start: '1252'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XIII"
-date_start: "1252"
-date_end: "1252"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-14'
-tags: []
+  - 'XIII'
 ---
 # Haličo-Voluinės (Ipatijaus) metraštis
 
@@ -36,30 +24,46 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 - Paminėjimo data: prie 1252 m.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai."
+  teiginys: 'Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Šis metraščio paminėjimas naudojamas lietuvių pagonybės panteono aiškinime."
+  teiginys: 'Šis metraščio paminėjimas naudojamas lietuvių pagonybės panteono aiškinime.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pagrindžia metraščio pavadinimą, datą ir keturių dievų paminėjimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aprašomas šių
+    dievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas
+    apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
     pais, iliustruotas piešiniais. Haličo-Voluinės (Ipatijaus) metraštyje prie
-  citata_rodoma: ""
+    1252 m. minimi keturi dievai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
+- c-002
+  santrauka: 'Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ilgainiui pasakojimas
+    apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
+    pais, iliustruotas piešiniais. Haličo-Voluinės (Ipatijaus) metraštyje prie
+    1252 m. minimi keturi dievai. Šią lietuvių pagonybės, kaip „pirminio gry-
+    nuolio“, idėją ir aukštąjį panteoną, kuriame keturi dievai, patvirtina lietu-
+    vių mitologinė geografija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

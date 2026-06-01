@@ -28,74 +28,74 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 
 ## Teiginiai
 
-- t-062
+- t-001
   teiginys: 'Gavęs šią žinią, Žygimantas Augustas net apsiverkė.'
   pagrindžia:
-    - c-062
+    - c-001
 
-- t-063
+- t-002
   teiginys: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
   pagrindžia:
-    - c-063
+    - c-002
 
-- t-064
+- t-003
   teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
   pagrindžia:
-    - c-064
+    - c-003
 
-- t-065
+- t-004
   teiginys: 'Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­ tas Augustas patvirtino.'
   pagrindžia:
-    - c-065
+    - c-004
 
-- t-066
+- t-005
   teiginys: 'Žygimanto Augusto laikais to mūrinio namo vie­ toje, kur buvo Jėzuitų, paskui Universiteto, o dabar Medici­ nos Akademijos vaistinė, stovėjo medinis namas su dideliu sklypu, apstatytu mažais nameliais, kampinis, sukant iš Šv.'
   pagrindžia:
-    - c-066
+    - c-005
 
-- t-067
+- t-006
   teiginys: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
   pagrindžia:
-    - c-067
+    - c-006
 
-- t-068
+- t-007
   teiginys: 'Ten visas laisvesnes akimirkas Augustas praleisdavo šalia Barboros, kol pagaliau su ja susituokė30.'
   pagrindžia:
-    - c-068
+    - c-007
 
-- t-069
+- t-008
   teiginys: 'Nepaprastas įvairaus maisto brangymetis 1547 me­ tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­ kių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą Žygimanto Augusto potvarkį, liečiantį supirkinėtojus, už miesto superkančius visus iš kaimų.'
   pagrindžia:
-    - c-069
+    - c-008
 
-- t-070
+- t-009
   teiginys: 'Bet Žygiman­ tas Augustas, matydamas Vilnių turint nemaža naudos iš naujojo amato ir baimindamasis, kad toks naudingas fabri­ kas nesužlugtų, po kelerių metų patvirtino dovanotą privilegiją.'
   pagrindžia:
-    - c-070
+    - c-009
 
-- t-071
+- t-010
   teiginys: 'Barboros bažnyčia, kurią Augustas nemažomis lėšomis pastatydino mylimos žmonos atminimui, po jos mirties visur ieškodamas paguodos savo skausmui numalšinti35.'
   pagrindžia:
-    - c-071
+    - c-010
 
-- t-072
+- t-011
   teiginys: 'Bet šis žygis greitai baigėsi dėl didžiojo magistro visiško nuolankumo Žygimantui Augustui ir pri­ pažinimo jam valdžios Livonijoje.'
   pagrindžia:
-    - c-072
+    - c-011
 
-- t-073
+- t-012
   teiginys: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
   pagrindžia:
-    - c-073
+    - c-012
 
-- t-074
+- t-013
   teiginys: 'Žygimantas Augustas paskutines mintis dar kreipė į savąją Lie­ tuvos sostinę: užbaigti pradėtą statyti Šv.'
   pagrindžia:
-    - c-074
+    - c-013
 
 ## Reikšmingi paminėjimai
 
-- c-062
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nors miestas didvyriškai gynėsi, po dviejų
@@ -109,9 +109,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-062
+    - t-001
 
-- c-063
+- c-002
   santrauka: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -124,9 +124,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-063
+    - t-002
 
-- c-064
+- c-003
   santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -140,9 +140,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-064
+    - t-003
 
-- c-065
+- c-004
   santrauka: 'Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­ tas Augustas patvirtino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -155,9 +155,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-065
+    - t-004
 
-- c-066
+- c-005
   santrauka: 'Žygimanto Augusto laikais to mūrinio namo vie­ toje, kur buvo Jėzuitų, paskui Universiteto, o dabar Medici­ nos Akademijos vaistinė, stovėjo medinis namas su dideliu sklypu, apstatytu mažais nameliais, kampinis, sukant iš Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -174,9 +174,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-066
+    - t-005
 
-- c-067
+- c-006
   santrauka: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -191,9 +191,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-067
+    - t-006
 
-- c-068
+- c-007
   santrauka: 'Ten visas laisvesnes akimirkas Augustas praleisdavo šalia Barboros, kol pagaliau su ja susituokė30.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -213,9 +213,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-068
+    - t-007
 
-- c-069
+- c-008
   santrauka: 'Nepaprastas įvairaus maisto brangymetis 1547 me­ tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­ kių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą Žygimanto Augusto potvarkį, liečiantį supirkinėtojus, už miesto superkančius visus iš kaimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -234,9 +234,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-069
+    - t-008
 
-- c-070
+- c-009
   santrauka: 'Bet Žygiman­ tas Augustas, matydamas Vilnių turint nemaža naudos iš naujojo amato ir baimindamasis, kad toks naudingas fabri­ kas nesužlugtų, po kelerių metų patvirtino dovanotą privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -258,9 +258,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-070
+    - t-009
 
-- c-071
+- c-010
   santrauka: 'Barboros bažnyčia, kurią Augustas nemažomis lėšomis pastatydino mylimos žmonos atminimui, po jos mirties visur ieškodamas paguodos savo skausmui numalšinti35.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -281,9 +281,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-071
+    - t-010
 
-- c-072
+- c-011
   santrauka: 'Bet šis žygis greitai baigėsi dėl didžiojo magistro visiško nuolankumo Žygimantui Augustui ir pri­ pažinimo jam valdžios Livonijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -302,9 +302,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-072
+    - t-011
 
-- c-073
+- c-012
   santrauka: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -327,9 +327,9 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-073
+    - t-012
 
-- c-074
+- c-013
   santrauka: 'Žygimantas Augustas paskutines mintis dar kreipė į savąją Lie­ tuvos sostinę: užbaigti pradėtą statyti Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -344,7 +344,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-074
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
@@ -366,7 +366,6 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
 - [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/paprociai/Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę]]
@@ -379,13 +378,15 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 - [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/grupes/Vilniaus akademijos kolegija]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
 - [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]
 - [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
 - [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
 - [[objektai/asmenys/Kotryna Jogailaitė]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
 - [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
 - [[objektai/zodynas/supirkinėtojai ir padienininkai]]
 - [[objektai/daiktai/Šakutė]]

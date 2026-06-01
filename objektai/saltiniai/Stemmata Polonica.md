@@ -16,12 +16,12 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
   pagrindžia:
     - c-001
@@ -58,7 +58,7 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -77,4 +77,4 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

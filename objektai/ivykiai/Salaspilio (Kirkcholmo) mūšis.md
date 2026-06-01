@@ -39,19 +39,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio.'
+  teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Besitraukiantys švedų pėstininkai bandė
@@ -63,9 +63,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karolis Chodkevičius pastebėjo, kad
@@ -85,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

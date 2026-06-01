@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Hugas Kolontajus'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - valdovas
@@ -19,25 +16,26 @@ tags:
 Kolontajus nebūtų parėmęs valdovo pozicijos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Hugas Kolontajus parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hugas Kolontajus parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kiekybiškai tai – nepaprastai maža persvara, ir
+    Karalius laikėsi pozicijos, kad
+    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą. Septyni ministrai palaikė karalių,
+    penki buvo prieš – siūlė priešintis ir toliau derėtis, siekiant kuo palan-
+    kesnių sąlygų valstybei. Kiekybiškai tai – nepaprastai maža persvara, ir
     tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
     vadų H. Kolontajus nebūtų parėmęs valdovo pozicijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

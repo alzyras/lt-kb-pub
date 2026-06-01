@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Adamus'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -24,28 +15,25 @@ tags:
 Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-Prawny, I t., 7 zesz., 1925; Państwo litewskie w latach 1386-1398 , žr. Adamus, J. Adamus : O tytule panującego, KH, 1930, 313-314 p. (^13) Plg.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'J. Adamus 1925 m. paskelbė darbą „Zastaw w prawie litewskiem XV i XVI wieku“.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'J. Adamus 1930 m. žurnale KH paskelbė darbą „O tytule panującego i państwa litewskiego“.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
+
+- t-002
   teiginys: 'J. Adamus 1930 m. paskelbė darbą „O tytule panującego“.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'J. Adamus 1925 m. paskelbė darbą „Zastaw w prawie litewskiem XV i XVI wieku“.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Adamus 1925 m. paskelbė darbą „Zastaw w prawie litewskiem XV i XVI wieku“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Zajączkowski :** **_Studia nad dziejami Żmudzi wieku XIII,_** **Lwów
@@ -55,15 +43,13 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     nik Historyczno-Prawny, I t., 7 zesz., 1925;** **_Państwo litewskie w latach
     1386-1398_** **, žr. Księga pamiątkowa ku uczczeniu 400-setnej rocznicy Statutu
     Litewskiego, Vilnius 1932.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'J. Adamus 1930 m. žurnale KH paskelbė darbą „O tytule panującego i państwa litewskiego“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
@@ -76,15 +62,13 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'J. Adamus 1930 m. paskelbė darbą „O tytule panującego“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik Algirdui vėl pasisekė (1353)
@@ -94,13 +78,11 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
     (^12) **LUB, VI, 140. Plg. J. Adamus :** **_O tytule panującego,_** **KH, 1930,
     313-314 p.**
     (^13) **Plg. Vcl.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Bulgarija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,34 +15,36 @@ tags:
 st.) ir lenkė Rumuniją, Bulgariją.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Sumanymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Su-
+    Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis
+    kylančios revoliucijos bangos visoje Rusijoje, išleido manifestą, kuriame
+    pažadėjo pripažinti pagrindines demokratines laisves ir organizuoti Vals-
+    tybės Dūmos – parlamento – rinkimus, lietuvių veikėjai sumanė Vilniuje
+    legaliai sušaukti didelį lietuvių iš visų Lietuvos vietovių suvažiavimą. Su-
     manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-
     čius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Sumanymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-
@@ -63,8 +56,6 @@ st.) ir lenkė Rumuniją, Bulgariją.
     Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

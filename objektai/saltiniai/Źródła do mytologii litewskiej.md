@@ -1,25 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Źródła do mytologii litewskiej'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1801 m.'
   - '1892 m.'
   - '1896 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1892'
-date_end: '1896'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Źródła do mytologii litewskiej
 
@@ -28,27 +24,22 @@ tags:
 = Mierzyński, Antoni, Dr., Źródła do mytologii litews­ kiej, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Antonio Mierzyńskio „Źródła do mytologii litewskiej“ I ir II tomai išleisti Varšuvoje 1892 ir 1896 m.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Antonio Mierzyńskio „Źródła do mytologii litewskiej“ I ir II tomai išleisti Varšuvoje 1892 ir 1896 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dvi dalys (vertimas), Vilnius, 1922.
     Mierz. = Mierzyński, Antoni, Dr., Źródła do mytologii litews­
     kiej, t. I, II, Warszawa 1892, 1896.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,17 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Divilino paliaubų sutartis (1618 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1618 m.'
+date_start: '1618'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - paliaubos
   - saltinis
   - sutartis
+amziai:
+  - 'XVII'
 ---
 # Divilino paliaubų sutartis (1618 m.)
 
@@ -20,24 +23,20 @@ tags:
 1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos. Paliaubų sutartis Lietuvai ir Lenkijai buvo naudinga: ja Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, kuri Maskvos valdžioje buvo nuo 1514 m. (žiūr.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maskva buvo pasiekta, tačiau jos paimti nepavyko,
@@ -46,15 +45,13 @@ tags:
     nebesivadintų caru, bet tas neatsisakė nuo titulo. Šitas klau-
     simas tuo būdu ir liko neišspręstas, bet sienų klausimas ir kiti
     reikalai buvo sutvarkyti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paliaubų sutartis Lietuvai ir Lenkijai buvo naudinga: ja
@@ -62,10 +59,8 @@ tags:
     tis, kuri Maskvos valdžioje buvo nuo 1514 m. (žiūr. 204 psl.),
     o prie Lenkijos buvo priskirti Černigovas ir Naugardas Sie-
     verskas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

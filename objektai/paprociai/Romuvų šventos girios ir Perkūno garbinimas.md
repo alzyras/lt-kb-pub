@@ -45,19 +45,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '8 Lietuvos istorijoje yra žinomos šven­ tos vietovės, senovės lietuvių vadin­ tos Romuvomis [ramovėmis], kur vidur šventų girių būdavo garbina­ mas Perkūnas ir kur gyveno vyriau­ siasis jų vaidila Krivių Krivaitis.'
+  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '8 Lietuvos istorijoje yra žinomos šven­ tos vietovės, senovės lietuvių vadin­ tos Romuvomis [ramovėmis], kur vidur šventų girių būdavo garbina­ mas Perkūnas ir kur gyveno vyriau­ siasis jų vaidila Krivių Krivaitis.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant to, kryžiuo­
@@ -89,9 +89,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie viso
@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

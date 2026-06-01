@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ottonas Luterbergas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -27,16 +18,15 @@ tags:
 Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino broliai (karo vadai).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kovoje buvo nukautas Livonijos ma-
@@ -47,11 +37,9 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
     vių būrių prasikirto, jiems į pagalbą sku-
     bėjo Tartu, Lealio vyskupai ir riteriai iš
     Talino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

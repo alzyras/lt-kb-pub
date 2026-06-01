@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1655 m.'
+date_start: '1655'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
+amziai:
+  - 'XVII'
 ---
 # Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)
 
@@ -31,22 +34,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rusai iš Vilniaus į Maskvą išvežė brangius ponų rūmų baldus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1655 m. rusams užėmus Vilnių, miestas buvo apiplėštas ir sudegintas, o gaisras jame siautė 17 dienų.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusai iš Vilniaus į Maskvą išvežė brangius ponų rūmų baldus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugelis brangeny-
@@ -56,15 +57,13 @@ Nenurodyta
     ros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
     vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
     šiandien.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1655 m. rusams užėmus Vilnių, miestas buvo apiplėštas ir sudegintas, o gaisras jame siautė 17 dienų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl suprantama, kad po visų karų krašto ūkis
@@ -72,11 +71,9 @@ Nenurodyta
     buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
     ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
     ir sudeginti, o jų valstiečiai išbėgioję.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

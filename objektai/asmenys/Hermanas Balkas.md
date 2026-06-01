@@ -28,29 +28,29 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1, 6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­ ta Nesavos pilis Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą.'
-  pagrindžia:
-    - c-004
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje Brolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų.'
+  teiginys: 'Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1, 6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­ ta Nesavos pilis Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje Brolis Hermanas, vadinamas Balkų, pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės ordino magistras Prūsijos žemėje, vadovavo dvylika metų.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     12 (10). Apie brolį Hermaną, pirmų Teutonų namų ordino magistrą Prūsijos žemėje
@@ -64,9 +64,9 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
@@ -87,9 +87,9 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     11 (9). Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
@@ -107,9 +107,9 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

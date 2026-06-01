@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Pr. Papée'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1904 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1904'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Pr. Papée
 
@@ -27,42 +23,25 @@ tags:
 Papée). Papée, Pr. i Papée, Fr.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Pr. Papée 1904 m. Krokuvoje paskelbė darbą Polska i Litwa na przełomie wieków średnich.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-001
+
+- t-002
+  teiginys: 'Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.'
+  pagrindžia:
+    - c-003
+
 - t-003
   teiginys: 'Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.'
   pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
-    kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
-    istorikų kartos (Al. Brückner, Fr. Papée).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Pr. Papée 1904 m. Krokuvoje paskelbė darbą Polska i Litwa na przełomie wieków średnich.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —
@@ -77,28 +56,36 @@ Papée). Papée, Pr. i Papée, Fr.
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr. : _Polska i Litwa
     na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V. : _Cho-
     ziajstvo i technika srednevekovoj Litvy_ , VIst, nr. 8, 1947, 74 sqq.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.'
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _Markward Salzbach,_ PH, t. 9, 1909, 12-28, 121-132 p. — Smolka,
     St. i Papée, Fr. : _Wladysław Jagiełło_ (Encyklopedja Polska, V, 1). —
     Sruogienė, V. : _Sofija Vytautaitė,_ LE, t. 28, 271-273 p. — _Vytautas,_
     MLTE, III, 811-813 p.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    XIII amž. pradžioje lietuviai nebuvo tokie vargšai ir skurdžiai,
+    kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
+    istorikų kartos (Al. Brückner, Fr. Papée).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

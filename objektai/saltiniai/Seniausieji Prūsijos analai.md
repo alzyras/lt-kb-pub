@@ -25,12 +25,12 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad „Pelplino analų“ teksto analizė leidžia manyti, kad „Seniausieji Prūsijos analai“, iš kurių padarytos mūsų minėtos išlikusios kopijos, pirmajame savo raidos etape apėmė iš esmės 1230—1293 m. įvykius101.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstybėje buvusi oficiali analistika.'
   pagrindžia:
     - c-001
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,4 +61,4 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

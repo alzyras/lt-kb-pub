@@ -30,81 +30,81 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - t-001
   teiginys: 'Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­ sėjus ten būta medinių namų gyvenvietės4.'
   pagrindžia:
-    - c-001
-
-- t-020
-  teiginys: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'''' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
-  pagrindžia:
-    - c-006
-
-- t-007
-  teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
-  pagrindžia:
     - c-007
 
-- t-013
-  teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
-  pagrindžia:
-    - c-013
-
-- t-015
-  teiginys: 'PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai.'
-  pagrindžia:
-    - c-015
-
-- t-008
-  teiginys: 'Dar niūrokas tuomet, bet visais laikais kerintis gražiu krašto­ vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvykusiems lenkams.'
-  pagrindžia:
-    - c-008
-
-- t-012
-  teiginys: 'Toji Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus, - prie kelio, iš­ einančio iš daubos ir vedančio iš da­ bartinio Markučių dvaro į namelį, va­ dintą Jeruzalimu, Paplaujoje.'
-  pagrindžia:
-    - c-012
-
 - t-002
-  teiginys: '17 ## Puslapis 34 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios.'
-  pagrindžia:
-    - c-002
-
-- t-010
-  teiginys: '4 Vilnia, arba Vilnelė, anuomet, atite­ kėjusi iš už Plikojo kalno, bėgo pro Pilies [gatvę], per senuosius roki tų mūrus, palei Pilies vartus, paskui per mažąjį turgų ir, apsukusi lankstu pi­ lies teritoriją, už dabartinės katedros įtekėjo į Viliją.'
-  pagrindžia:
-    - c-010
-
-- t-011
-  teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
+  teiginys: 'Šventaragio slėnyje Vilnia įteka į Viliją.'
   pagrindžia:
     - c-011
 
 - t-004
-  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
+  teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
   pagrindžia:
     - c-004
 
-- t-014
-  teiginys: 'Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­ vystę61.'
+- t-008
+  teiginys: 'PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai.'
   pagrindžia:
-    - c-014
-
-- t-003
-  teiginys: 'Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.'
-  pagrindžia:
-    - c-003
-
-- t-005
-  teiginys: 'Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir.'
-  pagrindžia:
-    - c-005
+    - c-015
 
 - t-009
-  teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
+  teiginys: 'Dar niūrokas tuomet, bet visais laikais kerintis gražiu krašto­ vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvykusiems lenkams.'
   pagrindžia:
     - c-009
 
+- t-010
+  teiginys: 'Toji Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus, - prie kelio, iš­ einančio iš daubos ir vedančio iš da­ bartinio Markučių dvaro į namelį, va­ dintą Jeruzalimu, Paplaujoje.'
+  pagrindžia:
+    - c-012
+
+- t-012
+  teiginys: 'Iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
+  pagrindžia:
+    - c-006
+
+- t-013
+  teiginys: '4 Vilnia, arba Vilnelė, anuomet, atite­ kėjusi iš už Plikojo kalno, bėgo pro Pilies [gatvę], per senuosius roki tų mūrus, palei Pilies vartus, paskui per mažąjį turgų ir, apsukusi lankstu pi­ lies teritoriją, už dabartinės katedros įtekėjo į Viliją.'
+  pagrindžia:
+    - c-013
+
+- t-014
+  teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
+  pagrindžia:
+    - c-014
+
+- t-015
+  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
+  pagrindžia:
+    - c-005
+
+- t-017
+  teiginys: 'Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­ vystę61.'
+  pagrindžia:
+    - c-010
+
+- t-020
+  teiginys: 'Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.'
+  pagrindžia:
+    - c-008
+
+- t-021
+  teiginys: 'Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir.'
+  pagrindžia:
+    - c-002
+
+- t-022
+  teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-007
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
@@ -127,9 +127,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
@@ -159,9 +159,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-021
 
-- c-009
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O pilies kalno pietų
@@ -177,9 +177,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-022
 
-- c-013
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Malūnas, iki mūsų laikų vadin­
@@ -197,9 +197,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-005
 
-- c-004
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
@@ -229,9 +229,10 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-015
 
-- c-002
+- c-006
+  santrauka: 'Iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     17
@@ -253,9 +254,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-012
 
-- c-001
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
@@ -276,7 +277,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   pagrindžia:
     - t-001
 
-- c-003
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet labai tikėtina, kad nuo
@@ -295,9 +296,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-020
 
-- c-008
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar
@@ -314,9 +315,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-009
 
-- c-014
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau čia, Vilniuje,
@@ -335,9 +336,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-017
 
-- c-006
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48
@@ -370,14 +371,14 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
-    - t-016
-    - t-017
-    - t-018
     - t-019
-    - t-020
-    - t-021
-    - t-022
+    - t-007
+    - t-016
+    - t-018
+    - t-006
+    - t-002
+    - t-003
+    - t-011
 
 - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -407,9 +408,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-010
 
-- c-010
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau nėra patikimų
@@ -429,9 +430,9 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-013
 
-- c-011
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -481,7 +482,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-014
 
 - c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -499,4 +500,4 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-008

@@ -17,19 +17,19 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjo Lietuvos žaliųjų
@@ -45,9 +45,9 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -60,4 +60,4 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

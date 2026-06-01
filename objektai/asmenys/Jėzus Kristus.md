@@ -19,29 +19,29 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad jėzus Kristus skelbti ir savo stebuklus, nes jie galingi.'
   pagrindžia:
-    - c-002
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei.'
-  pagrindžia:
     - c-001
 
 - t-003
+  teiginys: 'Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei.'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Dusburgietis teigia, kad septyni Teutonų ordino broliai su keliais ginklanešiais, įsirengę Kulmo žemėje, kaip jau esame sakę, kuorą aukštai ąžuole, ne tik iš karto išdrįso užpulti tokią turtingą, tokią nesuskaitomą gausybę pagonių [gentium], bet ilgainiui, per penkiasdešimt trejus.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šit
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   pagrindžia:
     - t-002
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     PRŪSIJOS ŽEMĖS
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,9 +97,9 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vokiečių ordino XIV amž. kronikos'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - saltinis
@@ -25,18 +16,15 @@ tags:
 Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę išvaroma arklių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę išvaroma arklių.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę išvaroma arklių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vokiečių ordino
@@ -45,10 +33,8 @@ Kronikos nuolat mini per karus didelius skaičius iš lietuvių sodybų pagrobia
     iš lietuvių sodybų pagrobiamų arklių ir raguočių ; ypač daug būdavę
     išvaroma arklių. Iš lietuvių auginamų paukščių yra žinomos vištos,
     žąsys ir antys.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

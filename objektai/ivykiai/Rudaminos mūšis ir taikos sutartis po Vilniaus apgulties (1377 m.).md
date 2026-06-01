@@ -1,28 +1,18 @@
 ---
 tipas: ivykis
-pavadinimas: "Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1377 m."
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1377 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: "1377"
-date_end: "1377"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
+  - '1377 m.'
+date_start: '1377'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
+amziai:
+  - 'XIV'
 ---
 # Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)
 
@@ -31,6 +21,7 @@ tags:
 Po 1377 m. Vilniaus apgulties septyni šimtai lietuvių raitelių ties Rudamina susirėmė su vokiečiais. Šis mūšis ir Vilniaus pilių atsilaikymas paskatino derybas su Algirdu ir Kęstučiu, o taikos sutartimi kryžiuočiai įsipareigojo neliesti nuo ugnies nenukentėjusios Vilniaus dalies.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1377 m.
 - datos:
   - 1377 m.
@@ -40,25 +31,27 @@ Po 1377 m. Vilniaus apgulties septyni šimtai lietuvių raitelių ties Rudamina 
 - date_end: 1377
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: "Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies."
+
+- t-001
+  teiginys: 'Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.'
   pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Taikos sutartis ir vokiečių riterių priėmimas pilyse.
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Susirėmė su jais vokiečiai
@@ -71,13 +64,11 @@ Nenurodyta
     pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų
     vokiečių riterių. Ten puikiai pavaišinti, dosniai apdovanoti,
     pagaliau paliko miestą ir šalį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

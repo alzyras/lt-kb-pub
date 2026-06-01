@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Karaliaus Uracho rinkimas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
@@ -32,16 +29,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdama Lietuvos valstybę išgelbėti iš tos
@@ -53,11 +49,9 @@ Nenurodyta
     tucinius principus, t. y. priėmė lietuvių pateiktas karaliavimo są-
     lygas. Kaip antrasis Lietuvos karalius, jis turėjo vadintis Min-
     daugu II.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

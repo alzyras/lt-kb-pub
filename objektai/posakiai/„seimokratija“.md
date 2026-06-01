@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„seimokratija“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - seimas
@@ -19,28 +16,28 @@ tags:
 Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).
 
 ## Teiginiai
+
 - t-001
   teiginys: '1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Bolševikų diktatūra
+    Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
+    pažino Lietuvos suverenitetą Vilniuje.
+    Lietuvos politines jėgas veikė bendrieji Europos procesai – parla-
+    mentarizmo krizės, diktatūrų įvedimai, perversmai. Bolševikų diktatūra
     SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
     perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

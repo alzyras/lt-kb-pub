@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Ks. Bauža'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - bajorija
@@ -21,38 +18,20 @@ tags:
 Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti savo kalba, kad nekurianti savos literatūros.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ks. Bauža 1806 m. paskelbė knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ks. Bauža 1806 m. paskelbė knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tokį pra-
-    nešimą Krokuvoje padarė Vilniaus universiteto garbės narys, uk-
-    mergiškis kunigas Ks. Bauža. Savo tyrinėjimus jis paskelbė
-    ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę"
-    (1806 m.), kurioje ragina gelbėti lietuvybę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Ks. Bauža savo knygoje kaltino Lietuvos bajoriją, kad ji nesirūpina savo kalba ir nekuria savos literatūros.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
@@ -60,13 +39,25 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
     tuviškai kalbėti net tie, kurie ir moką. Liaudis tebekalbanti lietu-
     viškai, tačiau turinti mokytis lenkiškai, kad galėtų susikalbėti su
     ponais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tokį pra-
+    nešimą Krokuvoje padarė Vilniaus universiteto garbės narys, uk-
+    mergiškis kunigas Ks. Bauža. Savo tyrinėjimus jis paskelbė
+    ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę"
+    (1806 m.), kurioje ragina gelbėti lietuvybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

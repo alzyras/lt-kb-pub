@@ -27,30 +27,30 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos kaimo (villa) esąs ežeras: Loza cum stagno (ten pat. Nr. 182, p. 133). 1248 m. vietovė jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251.'
-  pagrindžia:
-    - c-001
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje. 273 (266).'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie daugybės Kulmenzės miestiečių žūtį Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke, miestiečiai bėgdavo nuo pjūties darbų. Kai javai.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje. 273 (266).'
   pagrindžia:
     - c-004
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie daugybės Kulmenzės miestiečių žūtį Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke, miestiečiai bėgdavo nuo pjūties darbų. Kai javai.'
+  pagrindžia:
+    - c-005
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas. Kai po 9 dienų priėjo.'
+  pagrindžia:
+    - c-001
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad pailsęs nuo rūpesčių ir palaužtas negalės, ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje. 280 (273).'
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,9 +88,9 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Gyvenvietė minima 1222 m. dokumente
@@ -105,9 +105,9 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     272 (265). Apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą
@@ -123,9 +123,9 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     154 (149). Apie daugybės Kulmenzės miestiečių žūtį
@@ -139,7 +139,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

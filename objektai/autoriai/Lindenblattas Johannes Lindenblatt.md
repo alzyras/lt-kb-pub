@@ -29,39 +29,39 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 
 ## Teiginiai
 
-- t-006
+- t-001
   teiginys: 'Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Tas kunigaikštis, nepapras­ tai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų 53 jos išsaugotos Lindenblatt o, Visos tos smulkios aplinkybės mūp. 98-99, lietuvių istorijai nusipelsų metraštininkams nėra žinomos; niusio autoriaus.'
   pagrindžia:
     - c-006
 
-- t-005
-  teiginys: 'Tas kunigaikštis, nepapras­ tai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų 53 jos išsaugotos Lindenblatt o, Visos tos smulkios aplinkybės mūp. 98-99, lietuvių istorijai nusipelsų metraštininkams nėra žinomos; niusio autoriaus.'
-  pagrindžia:
-    - c-005
-
-- t-002
+- t-003
   teiginys: '33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių persikėlimą per Viliją nu­ rodo buvus per Šv.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: '45 Lindenblatto kronikos leidėjai Visevaldės pilį vadina Vižemais.'
   pagrindžia:
-    - c-004
+    - c-005
 
-- t-003
+- t-005
   teiginys: 'Mergelės Marijos bažnyčios Smėlynėje ir pran­ ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­ siruošusias tvirtoves, antra, numanydami, jog bus neįma- 43 Lindenblatto kronikoje yra - Boparthen, pagal panašų skambėji­ mą, regis, tarsi būtų.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-001
+- t-006
   teiginys: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
-    - c-001
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33
@@ -74,9 +74,9 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Olesnickis,
@@ -107,9 +107,9 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
-- c-006
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Privilegium ir kankinės, dieną, Viešp. metais
@@ -122,9 +122,9 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
-- c-001
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Upė Nerige, dažnai minima senovi­
@@ -140,9 +140,9 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-006
 
-- c-004
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     45
@@ -156,7 +156,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   pagrindžia:
     - t-004
 
-- c-005
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš­
@@ -175,7 +175,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

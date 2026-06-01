@@ -1,36 +1,21 @@
 ---
-tipas: 'saltinis'
+tipas: saltinis
 pavadinimas: 'Lietuvos metraštis (Bychovco kronika)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Lietuvos metraštis'
-  - 'Bychovco kronika'
-  - '„Lietuvos metraštis“'
-aliases: []
 saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1368 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIV'
-  - 'XVIII'
-  - 'XXI'
 date_start: '1368'
 date_end: '2026'
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Lietuvos metraštis (Bychovco kronika)
 
@@ -48,40 +33,71 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 - chunk_0026: antrinės bibliografinės nuorodos į Pabaisko mūšį, drąsią ataką ir grobio užgrobimą.
 
 ## Teiginiai
+
+- t-001
+  teiginys: '1368 m. žygis Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: '72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: '„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
+  pagrindžia:
+    - c-007
+
 - t-005
   teiginys: 'Ypač tai užak­ centuoja lietuviu metraštis šiais žodžiais: „Patariu tau kreiptis į ciesorių ir pačiam rūpintis, kad galėtum tapti karalium: o aš noriu tau padėti ir pas ciesorių ir pas popiežių“.'
   pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: '„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.'
-  pagrindžia:
     - c-002
-- t-007
-  teiginys: '72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.'
-  pagrindžia:
-    - c-003
-- t-009
+
+- t-006
   teiginys: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
   pagrindžia:
     - c-005
-- t-010
+
+- t-007
   teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
   pagrindžia:
     - c-006
-- t-011
-  teiginys: '1368 m. žygis Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
-  pagrindžia:
-    - c-007
-- t-012
-  teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    P. 72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-002
-  santrauka: '„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ypač tai užak­
+    centuoja lietuviu metraštis šiais žodžiais: „Patariu tau kreiptis į ciesorių ir
+    pačiam rūpintis, kad galėtum tapti karalium: o aš noriu tau padėti ir pas
+    ciesorių ir pas popiežių“. „Budučy korol Jogajlo u Vitolta u Vilnie, y
+    počnet movity bratu svojemu kniaziu velikomu Vitoltu: ražu tebe, abyś slal
+    do Cesara, y oto bys stal štoby iesi moh korolem byty, a ja tobie chocu
+    dopomocy u cesara y v papeža". (Pol. sobr., XVII, 525 p.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Lietuvos metraštis“ ypač vaizdžiai aprašo Maskvos didžiojo kunigaikščio Dmitrijaus
@@ -101,37 +117,39 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     tės surinkti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-003
-  santrauka: '72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.'
+    - t-003
+
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    P. 72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.
+    1368 m. žygis
+
+    Lietuvos metraštis (Bychovco kronika)
+    teigia, kad Maskvos didysis kunigaikš-
+    tis Dmitrijus pats sulaužė taiką, atsiųsda-
+    mas pas Algirdą „savo pasiuntinį su karo
+    paskelbimu“.
+
+    Algirdas atsitraukia nuo Maskvos. 1370 m. paveikslėlis iš iliustruoto XVI a. rusų metraščio
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
+
 - c-005
-  santrauka: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-006
+
 - c-006
-  santrauka: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kroni-
@@ -156,62 +174,19 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-007
+
 - c-007
-  santrauka: '1368 m. žygis Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1368 m. žygis
-
-    Lietuvos metraštis (Bychovco kronika)
-    teigia, kad Maskvos didysis kunigaikš-
-    tis Dmitrijus pats sulaužė taiką, atsiųsda-
-    mas pas Algirdą „savo pasiuntinį su karo
-    paskelbimu“.
-
-    Algirdas atsitraukia nuo Maskvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-008
-  santrauka: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
     kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
-    72).
+    72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,
+    Raštai, p. 441—442).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
-
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Ypač tai užak­ centuoja lietuviu metraštis šiais žodžiais: „Patariu tau kreiptis į ciesorių ir pačiam rūpintis, kad galėtum tapti karalium: o aš noriu tau padėti ir pas ciesorių ir pas popiežių“.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ypač tai užak­
-    centuoja lietuviu metraštis šiais žodžiais: „Patariu tau kreiptis į ciesorių ir
-    pačiam rūpintis, kad galėtum tapti karalium: o aš noriu tau padėti ir pas
-    ciesorių ir pas popiežių“. „Budučy korol Jogajlo u Vitolta u Vilnie, y
-    počnet movity bratu svojemu kniaziu velikomu Vitoltu: ražu tebe, abyś slal
-    do Cesara, y oto bys stal štoby iesi moh korolem byty, a ja tobie chocu
-    dopomocy u cesara y v papeža". (Pol. sobr., XVII, 525 p.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
+    - t-004

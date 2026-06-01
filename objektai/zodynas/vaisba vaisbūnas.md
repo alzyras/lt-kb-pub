@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vaisba vaisbūnas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -24,27 +15,24 @@ tags:
 Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą, vaisbūnas — pirklį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą, vaisbūnas — pirklį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą, vaisbūnas — pirklį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
     vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
     dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
     kybą, vaisbūnas — pirklį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

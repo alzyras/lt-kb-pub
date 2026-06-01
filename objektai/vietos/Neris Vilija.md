@@ -20,7 +20,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '51) ap. V o i g t, V, 542, apie jį pasakoja: Entre les Francois on doit remarquer Jean le Maingre dit Bouci- — • — 120 ## Puslapis 137 Il KNYGA ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su savo pajėgomis; o kitoje Vilijos pusėje driekėsi.'
+  teiginys: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai buvo ne garsusis prancūzų mar­

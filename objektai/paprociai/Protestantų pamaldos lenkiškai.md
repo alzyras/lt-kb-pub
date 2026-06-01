@@ -1,14 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Protestantų pamaldos lenkiškai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
 ---
@@ -19,64 +15,71 @@ tags:
 Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai. Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus tik tada, kai to griebėsi atsigavę katalikai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus tik tada, kai to griebėsi atsigavę katalikai.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
+- t-002
+  teiginys: 'Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jie kvietėsi į Lietuvą lenkų protestantų pamoksli-
+    Visas jų gyvenimas buvo
+    susijęs su Lenkija, kur tuo pat metu irgi buvo labai paplitęs pro-
+    testantizmas; todėl, platindami naująjį mokslą, jie neužmezgė
+    jokių ryšių su Mažosios Lietuvos protestantais, bet ėjo išvien
+    su lenkais. Jie kvietėsi į Lietuvą lenkų protestantų pamoksli-
     ninkų, ir visos pamaldos iš pradžių buvo atliekamos vien len-
     kiškai. Patsai M. Radvila Juodasis įkūrė Brastoje spaustuvę,
     kur buvo spausdinamos lenkiškos protestantų knygos ir buvo
     lenkiškai išspausdinta Biblija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus tik tada, kai to griebėsi atsigavę katalikai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
+    Lietuviškai protestantizmas tebuvo
+    skelbiamas žmonių, atėjusių iš Mažosios Lietuvos; bet tas judė-
+    jimas buvo labai silpnas ir trumpas. Jį labai greit nustelbė
+    lenkiškoji protestantų akcija. Lietuvos protestantai suskato
+    lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
     tik tada, kai to griebėsi atsigavę katalikai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

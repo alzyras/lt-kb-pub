@@ -27,25 +27,25 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Žygdarbį padarė krepšininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 177 Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-002
+- t-004
   teiginys: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais.'
   pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -61,9 +61,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O sava valstybė,
@@ -81,7 +81,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -95,9 +95,9 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O sava valstybė,
@@ -109,7 +109,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-005
   santrauka: 'Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lietuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m. Rygoje tapo Europos čempionais.'

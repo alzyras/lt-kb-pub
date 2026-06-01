@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1917 m.'
+date_start: '1917'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)
 
@@ -31,40 +34,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1917 m. rugsėjo 18 d. į Vilnių atvyko 214 asmenų, kurie uždaromis durimis posėdžiavo iki rugsėjo 22 d.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1917 m. rugsėjo 18 d. į Vilnių atvyko 214 asmenų, kurie uždaromis durimis posėdžiavo iki rugsėjo 22 d.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    darė konferencijos atstovų sąrašą, — maždaug po 5—8 atstovus
-    iš kiekvienos apskrities (šių buvo tuomet sudaryta 33). Iš 264
-    kviestųjų atstovų 1917 m. rugsėjo mėn. 18 d. į Vilnių atvažiavo
-    214 asmenų, kurie uždaromis durimis posėdžiavo ligi rugsėjo
-    22 d. Biuro mėginimai prieš tai susisiekti su lietuviais Rusijoj ir
-    santarvės šalyse buvo vokiečių sutrukdyti; visgi į pačią konfe-
-    renciją atvyko keletas atstovų ir iš užsienio.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti tautinių mažumų atstovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tautinėms mažumoms turėjo būti laiduotos kultūrinės teisės.
@@ -76,13 +59,27 @@ Nenurodyta
     Konferencijos sudarytai programai vykdyti buvo išrinkta
     Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
     tautinių mažumų atstovai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    darė konferencijos atstovų sąrašą, — maždaug po 5—8 atstovus
+    iš kiekvienos apskrities (šių buvo tuomet sudaryta 33). Iš 264
+    kviestųjų atstovų 1917 m. rugsėjo mėn. 18 d. į Vilnių atvažiavo
+    214 asmenų, kurie uždaromis durimis posėdžiavo ligi rugsėjo
+    22 d. Biuro mėginimai prieš tai susisiekti su lietuviais Rusijoj ir
+    santarvės šalyse buvo vokiečių sutrukdyti; visgi į pačią konfe-
+    renciją atvyko keletas atstovų ir iš užsienio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

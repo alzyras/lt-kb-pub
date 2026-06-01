@@ -19,12 +19,12 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės negriauname, naujovių neįvedame“ – jie palikdavo senąsias kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaikiniais terminais – autonomijas).'
   pagrindžia:
     - c-001
@@ -46,7 +46,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -63,7 +63,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'

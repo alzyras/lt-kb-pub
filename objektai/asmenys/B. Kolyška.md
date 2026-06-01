@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'B. Kolyška'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -25,55 +16,30 @@ tags:
 Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau to neleido vyriausiasis vadas Z.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.'
+  pagrindžia:
+    - c-004
+
+- t-002
   teiginys: 'B. Kolyškai buvo pavesta vadovauti vienai sukilėlių kolonai.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'B. Kolyška vadovavo pirmajai sukilėlių kolonai, pasiekusiai Medeikių kaimą.'
-  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: 'B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.'
+  teiginys: 'B. Kolyška vadovavo pirmajai sukilėlių kolonai, pasiekusiai Medeikių kaimą.'
   pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'B. Kolyškai buvo pavesta vadovauti vienai sukilėlių kolonai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Netrukus iš K. Maleckio žvalgy-
-    binio padalinio atėjo pranešimas apie
-    stambių priešo dalinių artėjimą. Siekda-
-    mas padidinti sukilėlių kariuomenės ju-
-    dėjimo greitį, Z. Sierakauskas savo pajėgas
-    padalino į tris kolonas. Vienai kolonai
-    pavedė vadovauti A. Mackevičių, kitą —
-    Genujos-Cuneo karo mokyklos, ruošusios
-    karininkus partizaninei kovai, absolven-
-    tui B. Kolyškai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'B. Kolyška vadovavo pirmajai sukilėlių kolonai, pasiekusiai Medeikių kaimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     160
@@ -89,15 +55,32 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     pajėgos. A. Mackevičiui teko žygiuoti ilges-
     niu keliu, tad buvo nutarta Medeikiuose
     stabtelėti ir sulaukti likusiųjų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Netrukus iš K. Maleckio žvalgy-
+    binio padalinio atėjo pranešimas apie
+    stambių priešo dalinių artėjimą. Siekda-
+    mas padidinti sukilėlių kariuomenės ju-
+    dėjimo greitį, Z. Sierakauskas savo pajėgas
+    padalino į tris kolonas. Vienai kolonai
+    pavedė vadovauti A. Mackevičių, kitą —
+    Genujos-Cuneo karo mokyklos, ruošusios
+    karininkus partizaninei kovai, absolven-
+    tui B. Kolyškai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Merlino pėstininkus. Bijodami
@@ -107,15 +90,13 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     kariais vytis priešą, tačiau to neleido vy-
     riausiasis vadas Z. Sierakauskas, nuspren-
     dęs palaukti A. Mackevičiaus batalionų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Oficialiai pa-
@@ -128,13 +109,11 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     linys. Į nelaisvę pakliuvo Z. Sierakauskas,
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

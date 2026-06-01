@@ -28,21 +28,21 @@ Dusburgietis teigia, kad chronologia początków Malborka.— ZHPB, 1979, t. Dus
 - t-001
   teiginys: 'Dusburgietis teigia, kad chronologia początków Malborka.— ZHPB, 1979, t.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad voigt J. Geschichte Marienburg.— Königsberg, 1824.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg i. Pr., 1929, Heft 2, S. 191—200.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
@@ -51,9 +51,9 @@ Dusburgietis teigia, kad chronologia początków Malborka.— ZHPB, 1979, t. Dus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Powierski J. Chronologia początków Malborka.— ZHPB, 1979, t. 44, z. 2, s. 5—31.
@@ -71,4 +71,4 @@ Dusburgietis teigia, kad chronologia początków Malborka.— ZHPB, 1979, t. Dus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

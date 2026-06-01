@@ -1,29 +1,10 @@
 ---
 tipas: posakis
-pavadinimas: "Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo"
-sukurta: '2026-05-27'
-variantai:
-  - "talem pacem ordinabimus ininuicem quod Christiani similem nunquam senciebant"
-aliases: []
+pavadinimas: 'Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos:
-  - "1323 m."
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo
 
@@ -48,22 +29,20 @@ Formulė vartojama kviečiant miestus siųsti patikimus pasiuntinius ir pasitik�
 Tai iškilminga ir hiperbolinė taikos pažado formulė.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo.'
+  pagrindžia:
+    - c-002
+
+- t-002
   teiginys: 'Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo."
-  pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -87,15 +66,13 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
     tum animarum et etiam unJe latrunculi exeunt in preceptis
     et mortificationem clericorum, Je talibus monacbis sibi unus­
     quisque caueat consulimus Jominorum.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: Lietuviška citata pateikia formulės vertimą ir antspaudo bei rašto patikimumo kontekstą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tenegąsdina jus tai, kas anksčiau buvo rašyta. Jei jie [se­
@@ -111,13 +88,11 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
     sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
     mingai prižadame jums visiems, kad nustatysime tokią tar­
     pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

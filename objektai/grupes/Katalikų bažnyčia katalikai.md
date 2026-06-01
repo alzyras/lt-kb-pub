@@ -18,12 +18,12 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.'
   pagrindžia:
     - c-001
@@ -31,7 +31,7 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 - t-003
   teiginys: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -49,9 +49,9 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mokykla išsiskiria dekoratyvių, kompozicinių ir
@@ -65,7 +65,7 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Steponas
@@ -79,7 +79,7 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

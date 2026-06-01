@@ -1,13 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: meldžionys
-sukurta: '2026-04-30'
-variantai:
-  - meldžionis
+tipas: zodyno_irasas
+pavadinimas: 'meldžionys'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # meldžionys
 
@@ -20,23 +17,25 @@ Vienuoliai, ordino nariai, krikščionys misionieriai. Žodis tiesiogiai aiškin
 Pagrindinė forma: `meldžionys`.
 Vartojamos formos: `meldžionis`.
 
+## Pastabos
+
+- Autorius terminu vadina konkrečią krikščionišką grupę, bet jo vartosena yra polemiška.
+
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: 'Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     meldžionis, paeina nuo melsti, kaipogi visiems yra žinoma, jog šiokie tokie pergalviai^850 ir
@@ -45,18 +44,12 @@ Vartojamos formos: `meldžionis`.
         randami tuose kapuose, bet ir raštai patys tą stigavoja. Lygia dalia ir tuos kapus, į kuriuos savo
         numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
         keleivių miegančių budinti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
-
-## Pastabos
-
-- Autorius terminu vadina konkrečią krikščionišką grupę, bet jo vartosena yra polemiška.
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

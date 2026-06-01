@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jurijus Orlovas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,26 +15,29 @@ tags:
 1976 m. gegužės 12 d. įkurta pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį panaši grupė įsikūrė Vilniuje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1976 m. gegužės 12 d. įkurta
+    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
+    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
+    tas valstybes apie žmogaus teisių pažeidimus. 1976 m. gegužės 12 d. įkurta
     pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-
-    naši grupė įsikūrė Vilniuje.
-  citata_rodoma: ""
+    naši grupė įsikūrė Vilniuje. Grupei priklausė kun. Karolis Garuckas, fizi-
+    kas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė,
+    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
+    ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
+    tinėmis grupėmis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -19,12 +19,12 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
   pagrindžia:
     - c-001
@@ -55,7 +55,7 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -82,4 +82,4 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

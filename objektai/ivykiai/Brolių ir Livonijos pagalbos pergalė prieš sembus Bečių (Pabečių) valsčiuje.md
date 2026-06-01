@@ -36,12 +36,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad įniršę sembai susibūrė, smarkiai užgriuvo brolių kariuomenę ir vos neprivertė jos bėgti, metę į kovą visas savo jėgas, bet atskubėjo Livonijos broliai su daugybe puikių ir didelių žirgų ir, kartu puldami netikėlius, kalavijais išnaikino visą sembų kariuomenę.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     atvykę į sutartą vietą, Livonijos kariams dar neatėjus, pradėjo siaubti minėtąjį valsčių,
@@ -56,7 +56,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     atvykę į sutartą vietą, Livonijos kariams dar neatėjus, pradėjo siaubti minėtąjį valsčių,

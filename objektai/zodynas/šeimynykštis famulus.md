@@ -19,19 +19,19 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
+  teiginys: 'Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     245 (238). Apie vieną nuostabų atsivertimą
@@ -49,9 +49,9 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

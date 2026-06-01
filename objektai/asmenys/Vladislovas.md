@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vladislovas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -26,16 +17,15 @@ tags:
 Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenorėjo paklusti karalystės didžiajam etmonui Stanislovui Liubomirskiui, tik karalaičiui Vladislovui įkalbėjus LDK kariuomenė sutiko jam laikinai paklusti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Visi įsa-
@@ -59,11 +49,9 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     kardus
 
     Venecijos Schiavona (tariasi skjavona).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -98,7 +86,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - [[objektai/grupes/Maloningosios Dievo Motinos brolija]]
 - [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Rygos, vokiečių ir rusų pirkliai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kazimieras'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - dokumentas
@@ -25,16 +16,15 @@ tags:
 Štai yra užsi­ likęs vienas dokumentas iš Kazimiero laikų (artimų Vytautui), kur vienas valstietis dėl imamų jų kaime mokesčių pasisako: „Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kuni­ gaikštį Vytautą, Tavo dėdę, o taip pat, Viešpatie, atmenu, kad.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu ypač paaštrėjo Lenkijos ir Kryžiuočių ordino santy-
@@ -44,11 +34,9 @@ tags:
     1200 savo raitelių ir bendromis pastangomis su lenkais ties Frank-
     furtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino
     valdų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -59,6 +47,7 @@ tags:
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
 - [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]
@@ -67,9 +56,7 @@ tags:
 - [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/grupes/Kardo rinktinė]]
-- [[objektai/grupes/Karijotaičiai]]
 - [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
-- [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kauno jėzuitų kolegija]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Kazimieras IV]]
@@ -93,8 +80,6 @@ tags:
 - [[objektai/daiktai/Mūro sienos]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
@@ -115,6 +100,7 @@ tags:
 - [[objektai/paprociai/Šv. Kazimiero kultas ir Kaziuko mugės tradicija]]
 - [[objektai/ivykiai/Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]
 - [[objektai/asmenys/Aldona Ona]]
 - [[objektai/zodynas/Aistuva]]
 - [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)]]

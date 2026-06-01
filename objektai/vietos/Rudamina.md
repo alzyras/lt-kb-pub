@@ -1,27 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Rudamina'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1440 m.'
   - '1571 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 date_start: '1440'
 date_end: '1571'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - vieta
+amziai:
+  - 'XV'
+  - 'XVI'
 ---
 # Rudamina
 
@@ -30,65 +25,98 @@ tags:
 Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš didesnių mūšių prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­ nės.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.'
+  teiginys: 'Vytautas, ne­ mažomis pajėgomis vedinas, pasitiko juos ties Rudamina, bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su pačiu magistru ir visa kariauna, skubiai atsitraukia.'
   pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
+    - c-004
+
+- t-002
   teiginys: 'Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.'
   pagrindžia:
     - c-003
+
+- t-003
+  teiginys: 'Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.'
+  pagrindžia:
+    - c-008
+
 - t-004
   teiginys: 'Vytautas ties Rudamina pasitiko kryžiuočius, bet per tirštą rūką klaidingai įvertino jų pajėgas ir atsitraukė.'
   pagrindžia:
-    - c-004
+    - c-002
+
 - t-005
-  teiginys: 'Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Vytautas, ne­ mažomis pajėgomis vedinas, pasitiko juos ties Rudamina, bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su pačiu magistru ir visa kariauna, skubiai atsitraukia.'
-  pagrindžia:
-    - c-008
-- t-009
   teiginys: 'Rudaminos bažnyčią atidavė ko­ legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa kita pavedė vyskupui.'
   pagrindžia:
-    - c-009
-- t-010
+    - c-005
+
+- t-006
   teiginys: 'Susirėmė su jais vokiečiai ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­ reiškė tokį norą25.'
   pagrindžia:
-    - c-010
+    - c-009
+
+- t-007
+  teiginys: 'Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras.'
+  pagrindžia:
+    - c-001
+
+- t-008
+  teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle.'
+  pagrindžia:
+    - c-007
+
+- t-009
+  teiginys: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Ypa­
-    tingai Vytautas puolė ir naikino išėjusius maisto ir pašaro ieš­
-    kotis Ordino kariuomenės būrius. Vienok kartą išėjusiems
-    pasiplėšti kryžiuočiams teko laimėti vieną iš didesnių mūšių
-    prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­
-    nės. Po to laimėjimo jie atgavo ūpą.
-  citata_rodoma: ""
+    Pa­
+    naikinęs ano titulą ir pareigas, įvedė nuolatinio vikaro pa­
+    reigybę su jam priskiriamais adjutoriais [pagalbininkais], in
+    cura animarum administranda [rūpintis sielovada]; o tiems pa­
+    tiems [šviesybėms vienuoliams] jėzuitams suteikė neribotą
+    teisę minėtąjį vikarą siūlyti. Rudaminos bažnyčią atidavė ko­
+    legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
+    ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
+    kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
+    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
+    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
+    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
+    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
+    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
+    privilegiją.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-007
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir vos tik magistras prie Vilniaus
+    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
+    goti daliniams, išleistiems parūpinti maisto. Vytautas, ne­
+    mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,
+    bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką
+    neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su
+    pačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­
+    traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
+    šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
+    ko ir keturių kariuomenės ženklų53.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-003
-  santrauka: 'Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bemaž tuo metu Vilniuje gerokai
@@ -115,98 +143,11 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     suteiktos Vilniui, atnaujinimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-004
-  santrauka: 'Vytautas ties Rudamina pasitiko kryžiuočius, bet per tirštą rūką klaidingai įvertino jų pajėgas ir atsitraukė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytautas, ne­
-    mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,
-    bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką
-    neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su
-    pačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­
-    traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
-    šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
-    ko ir keturių kariuomenės ženklų53.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rudaminos bažnyčią atidavė ko­
-    legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
-    ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
-    kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
-    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
-    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
-    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
-    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
-    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
-    privilegiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jaugi 1571 metų birželio 1 dieną Vil­
-    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
-    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
-    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
-    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
-    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
-    privilegiją.
-    1571 metų gruodžio 22 dieną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilniaus
-    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
-    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
-    jo lankytis tolimose provincijose, kur artimiau susipažino su
-    krikščioniškąja kultūra26. Bemaž tuo metu Vilniuje gerokai
-    25
-    V o i g t, V, 274, pasakodamas pagal
-    Vygandą, kad susirėmimas vykęs
-    prie didelio Rudminne kaimo (das
-    grosse dorf), mano, kad tai turėtų būti
-    dabartinis Parudaminys, esantis nuo
-    Vilniaus į pietvakarius. Betgi yra ir
-    Rudamina, miestelis, arba bažnyt­
-    kaimis, pietryčiuose, už pusantros
-    mylios nuo miesto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Vytautas, ne­ mažomis pajėgomis vedinas, pasitiko juos ties Rudamina, bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su pačiu magistru ir visa kariauna, skubiai atsitraukia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir vos tik magistras prie Vilniaus
@@ -221,13 +162,11 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     ko ir keturių kariuomenės ženklų53.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Rudaminos bažnyčią atidavė ko­ legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa kita pavedė vyskupui.'
+    - t-001
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa­
@@ -247,13 +186,70 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     privilegiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26. Bemaž tuo metu Vilniuje gerokai
+    25
+    V o i g t, V, 274, pasakodamas pagal
+    Vygandą, kad susirėmimas vykęs
+    prie didelio Rudminne kaimo (das
+    grosse dorf), mano, kad tai turėtų būti
+    dabartinis Parudaminys, esantis nuo
+    Vilniaus į pietvakarius. Betgi yra ir
+    Rudamina, miestelis, arba bažnyt­
+    kaimis, pietryčiuose, už pusantros
+    mylios nuo miesto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-009
-- c-010
-  santrauka: 'Susirėmė su jais vokiečiai ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­ reiškė tokį norą25.'
+
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Rudaminos bažnyčią atidavė ko­
+    legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
+    ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
+    kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
+    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
+    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
+    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
+    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
+    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
+    privilegiją.
+    1571 metų gruodžio 22 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-008
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ypa­
+    tingai Vytautas puolė ir naikino išėjusius maisto ir pašaro ieš­
+    kotis Ordino kariuomenės būrius. Vienok kartą išėjusiems
+    pasiplėšti kryžiuočiams teko laimėti vieną iš didesnių mūšių
+    prie Rudaminos: pasisekė paimti nelaisvėn lietuvių kariuome­
+    nės. Po to laimėjimo jie atgavo ūpą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo
@@ -293,8 +289,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     reiškė tokį norą25.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-006

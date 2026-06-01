@@ -21,21 +21,21 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
 - t-001
   teiginys: 'Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad pailsęs nuo rūpesčių ir palaužtas negalės, ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p..'
+  teiginys: 'Dusburgietis teigia, kad pailsęs nuo rūpesčių ir palaužtas negalės, ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p..'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė,
@@ -50,9 +50,9 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pailsęs nuo rūpesčių ir palaužtas negalės,
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     268 (261) Apie penkių kaimų apiplėšimą

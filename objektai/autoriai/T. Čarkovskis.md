@@ -1,13 +1,10 @@
 ---
-tipas: 'autorius'
+tipas: autorius
 pavadinimas: 'T. Čarkovskis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
@@ -19,15 +16,15 @@ tags:
 Čarkovskio (T.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'T. Čarkovskis parašė brošiūrą „Przenigdy“, kuri pablogino lenkų ir lietuvių santykius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1902 m. kun.
@@ -40,11 +37,9 @@ tags:
     mės druska. Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė
     dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
     lenkų ir lietuvių santykius pablogino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

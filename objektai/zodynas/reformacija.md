@@ -29,17 +29,17 @@ amziai:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
   pagrindžia:
     - c-002
@@ -62,7 +62,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,7 +81,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -102,7 +102,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

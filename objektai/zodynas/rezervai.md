@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'rezervai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - sąvoka
@@ -19,16 +16,15 @@ tags:
 Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu Vytautas atvedė paskutinius savo rezervus, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas į mūšį atvedė paskutinius rezervus, tai yra antrąsias kariuomenės eiles.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas į mūšį atvedė paskutinius rezervus, tai yra antrąsias kariuomenės eiles.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia dar 3 valandas ėjo
@@ -36,11 +32,9 @@ Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu
     juos sumušę, bet tuo momentu Vytautas atvedė paskutinius savo
     rezervus, t. y. antrąsias kariuomenės eiles. Mūšio įkaršty atsi-
     rado ir pasitraukę dešiniojo sparno lietuviai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

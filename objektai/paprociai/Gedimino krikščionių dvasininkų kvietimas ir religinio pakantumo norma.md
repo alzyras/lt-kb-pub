@@ -39,19 +39,20 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis!'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: '„Pageidautume, - rašo toliau, - savo krašte tu­ rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios teises, dvasininkus gerbsime, Dievo garbinimą maldomis plėtosime.'
+- t-002
+  teiginys: 'Gediminas pageidavo savo krašte turėti dvasininkų ir vyskupų, saugoti Bažnyčios teises ir gerbti dvasininkus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas pageidavo savo krašte turėti dvasininkų ir vyskupų, saugoti Bažnyčios teises ir gerbti dvasininkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Pageidautume, - rašo toliau, - savo krašte tu­
@@ -84,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -102,7 +103,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

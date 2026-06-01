@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '230 ## Puslapis 247 III KNYGA pavasario, kai Aleksandro motina karalienė Elžbieta su duk­ terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­ vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.'
+  teiginys: 'Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     _  .

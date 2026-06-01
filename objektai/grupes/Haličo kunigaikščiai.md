@@ -1,30 +1,16 @@
 ---
 tipas: grupe
-pavadinimas: "Haličo kunigaikščiai"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Haličo kunigaikščiai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1272 m."
-vaidmenys:
-  - "kunigaikščiai"
-  - "karinė grupė"
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1272 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1272'
 date_end: ''
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIII'
 ---
 # Haličo kunigaikščiai
 
@@ -41,25 +27,25 @@ Haličo kunigaikščiai minimi kaip 1272 m. Lietuvą puolusi grupė, veikusi kar
 Politinė ir karinė kunigaikščių grupė.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą."
+  teiginys: '1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Slonimas smarkiai pasipriešino 1272 m. Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: '8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino 1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu su Nogajaus mongolais.'
+  teiginys: '1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Haličo kunigaikščių ir Nogajaus mongolų puolimo kontekstas.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ĮVADAS
@@ -72,19 +58,18 @@ Politinė ir karinė kunigaikščių grupė.
     tuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,
     nevienodos galios feodalinių kunigaikščių ir bajorų gynybinės
     gyvenvietės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: '8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino 1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu su Nogajaus mongolais.'
+  santrauka: '1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    554.
+    T. 1, p. 554.
     8
 
     ## Puslapis 25
@@ -98,9 +83,7 @@ Politinė ir karinė kunigaikščių grupė.
     savo tvirtovėmis ir prekyba.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -28,24 +28,24 @@ amziai:
 
 ## Teiginiai
 
-- t-004
-  teiginys: 'Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Žodžiu, kraštas įgijo kultūrinę autonomiją.'
+  teiginys: 'Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.'
   pagrindžia:
     - c-001
 
 - t-002
+  teiginys: 'Žodžiu, kraštas įgijo kultūrinę autonomiją.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
@@ -59,7 +59,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -76,9 +76,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     krities administracijoje, žemutinėje teismų grandyje, švietimo sistemoje, o
@@ -91,9 +91,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-005
+- c-004
   santrauka: 'Žodžiu, kraštas įgijo kultūrinę autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -114,9 +114,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-006
+- c-005
   santrauka: 'Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -131,7 +131,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

@@ -41,13 +41,13 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad mstivojus, Pomeranijos kunigaikštis, anksčiau nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas, paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą tarp jo ir magistro bei brolių.'
   pagrindžia:
-    - c-002
     - c-003
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad tėvui mirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo eiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti ir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo.'
   pagrindžia:
     - c-001
@@ -69,9 +69,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau
@@ -82,9 +82,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     išsivarydami daug žmonių  ir gyvulių. Mstivojus, Pomeranijos kunigaikštis, anksčiau
@@ -100,7 +100,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

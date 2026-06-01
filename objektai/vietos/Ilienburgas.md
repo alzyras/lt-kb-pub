@@ -26,19 +26,19 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB, 3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351 m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab. Dąbrówno).'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
+  teiginys: 'Dusburgietis teigia, kad 595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB, 3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351 m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab. Dąbrówno).'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
@@ -51,9 +51,9 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
@@ -72,4 +72,4 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

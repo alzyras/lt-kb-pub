@@ -17,19 +17,19 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin.'
+  teiginys: 'Tos dienos vakare, nežiūrint itin atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui, pavyko užimti šią stotį, o taip pat ir senus Pirmojo pasaulinio karo laikų vokiečių apkasus.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Batalionui buvo įsakyta užimti svarbią
@@ -49,9 +49,9 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešiniąją koloną sudarė 1-ojo pės-
@@ -64,7 +64,7 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

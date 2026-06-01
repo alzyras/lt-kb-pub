@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Sobolevskij'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ežeras
@@ -27,16 +18,15 @@ tags:
 Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Archeologiniai radiniai, kalbiniai duomens (ypač žemės vardy­
@@ -49,11 +39,9 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
     džiaga, ypač upių ir ežerų vardų studijomis, K. Būga sukūrė teo­
     riją, jog rytiniai baltai dar pokristiniais amžiais yra gyvenę Dniepro
     aukštupio ir jo intakų Beržūnės ir Sožies plotuose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

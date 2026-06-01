@@ -32,54 +32,54 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad kimenavos puolimas datuojamas 1278 m. (Ewald A.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad traupis (Sch-K; VBK; Тоерреп M., HCGP; Ewald A.'
   pagrindžia:
     - c-004
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad aprašomas 1279—1280 m. žiemos puolimas (Ewald A.'
-  pagrindžia:
-    - c-006
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad 497 Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad traupis (Sch-K; VBK; Тоерреп M., HCGP; Ewald A.'
   pagrindžia:
     - c-007
 
-- t-008
+- t-003
+  teiginys: 'Dusburgietis teigia, kad aprašomas 1279—1280 m. žiemos puolimas (Ewald A.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad 497 Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A.'
+  pagrindžia:
+    - c-003
+
+- t-005
   teiginys: 'Dusburgietis teigia, kad vyslos krante, statyta 1283 m. pradžioje (Ewald A.'
   pagrindžia:
-    - c-008
+    - c-006
 
-- t-009
+- t-006
   teiginys: 'Dusburgietis teigia, kad zelionogradskas (Тоерреп М., HCGP, p. 215; Ewald A.'
   pagrindžia:
     - c-009
 
-- t-002
+- t-007
   teiginys: 'Dusburgietis teigia, kad 411 Herkus Mantas žuvo 1273 m. vasarą ar rudenį (Ewald A.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-008
   teiginys: 'Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A.'
   pagrindžia:
-    - c-001
+    - c-005
 
-- t-003
+- t-009
   teiginys: 'Dusburgietis teigia, kad pasarės krante,— vyskupų piliavietė (Sch-K; MGP, p. 49; Ewald A.'
   pagrindžia:
-    - c-003
+    - c-008
 
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -101,9 +101,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-007
 
-- c-007
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     497 Semba buvo puolama 1280 m. vėlyvą rudenį (Ewald A. L., Die Eroberung..., 4,
@@ -112,9 +112,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kimenavos puolimas datuojamas 1278 m. (Ewald A.  L., Die Eroberung..., 4, p.
@@ -123,9 +123,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-001
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     408 D.— forum, quod dicitur Gerkin, Jer.— markt zu Gerkin, vėliau — Goercken,
@@ -137,9 +137,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-008
 
-- c-008
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew),
@@ -149,9 +149,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-005
 
-- c-004
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     419 D.— Tranpere, Jer.— burc Traupeien; vėliau — Troopen, dab. Tropai (Tropy
@@ -162,9 +162,9 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-003
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     415 D.— Brunsbergk, Jer.— Brunsberc, Brunsberg, dab. Brancvas (Braniewo). Anksčiau
@@ -176,7 +176,7 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-009
 
 - c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -193,4 +193,4 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-006

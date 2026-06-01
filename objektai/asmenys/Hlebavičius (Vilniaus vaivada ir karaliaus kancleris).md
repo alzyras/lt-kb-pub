@@ -28,13 +28,14 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą.'
+  teiginys: 'Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota 1547 metų gegu­
@@ -63,5 +64,4 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 - [[objektai/grupes/Evangelikai reformatai Vilniuje]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
-- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
-- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
+- [[objektai/zodynas/vaivada]]

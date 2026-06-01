@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Karolis Carlsonas Gyllenhielmas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1574 m.'
   - '1650 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 date_start: '1574'
 date_end: '1650'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - pilis
+amziai:
+  - 'XVI'
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Karolis Carlsonas Gyllenhielmas
 
@@ -31,25 +27,25 @@ tags:
 Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllenhielm, 1574-1650 m.) Švedijos karaliaus Karolio 1x ir Karinos Nilsdotter nesantuokinis sūnus.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
+  pagrindžia:
+    - c-002
+
+- t-003
   teiginys: 'K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
-  pagrindžia:
-    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karolis Sudermanas
@@ -59,15 +55,28 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     paskirtas K. Carlsonas Gyllienhelmas. Ge-
     gužės 28 d. Lietuvos kariuomenė šį dalinį
     sumušė ir išsklaidė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    2500 švedų karių įsitvirtino mieste ir
+    pradėjo pilies apgultį. Karolis Sudermanas
+    pasiuntė 2400 karių, kurie turėjo prista-
+    tyti apsiautusiai švedų kariuomenei maistą
+    ir šaudmenis. Operacijai vadovauti buvo
+    paskirtas K. Carlsonas Gyllienhelmas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     £ sae.
@@ -87,29 +96,11 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     Švedijos feldmaršalas.
     1620 m. karališkojo lai- | // dee
     vyno admirolas. as
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Karolis Sudermanas
-    pasiuntė 2400 karių, kurie turėjo prista-
-    tyti apsiautusiai švedų kariuomenei maistą
-    ir šaudmenis. Operacijai vadovauti buvo
-    paskirtas K. Carlsonas Gyllienhelmas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

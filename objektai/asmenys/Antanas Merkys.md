@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Antanas Merkys'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1939 m.'
   - '1940 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1939'
 date_end: '1940'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - sutartis
   - tauta
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Antanas Merkys
 
@@ -30,111 +26,109 @@ tags:
 LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę. Merkį. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę.'
+  teiginys: 'Merkio paskirti artimą krikščionims demokratams gen.'
   pagrindžia:
-    - c-001
+    - c-004
+
 - t-002
   teiginys: 'Merkį.'
   pagrindžia:
-    - c-002
+    - c-003
+
 - t-003
+  teiginys: 'LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę.'
+  pagrindžia:
+    - c-001
+
+- t-004
   teiginys: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.'
   pagrindžia:
-    - c-003
-- t-004
+    - c-005
+
+- t-005
   teiginys: 'Merkys palūžo psichologiškai.'
   pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Merkio paskirti artimą krikščionims demokratams gen.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 187 ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais, nesama karine antisovietine sąjunga su Latvija ir.'
-  pagrindžia:
-    - c-006
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Antano Merkio vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    deleguotas ministras turėjo vykdyti jo užduotis. LVLS ir LKDP neparei-
     kalavo leisti atkurti savo partinių organizacijų ir sutiko deleguoti po du
+    savo atstovus į naują, 1939 m. lapkritį sudarytą taip pat tautininko Anta-
+    no Merkio vyriausybę. Tokią taktiką galima įvardyti kaip buvimą „tarp
+    valdžios ir opozicijos“, kaip „kompromisų politiką“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Merkį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Merkys palūžo psichologiškai.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
+    ninkus – vidaus reikalų ministrą gen. Kazį Skučą ir Saugumo departamen-
+    to direktorių Augustiną Povilaitį. Nuo V. Molotovo rėksmingų kaltinimų
+    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Merkio paskirti artimą krikščionims demokratams gen.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 187 ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais, nesama karine antisovietine sąjunga su Latvija ir.'
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
-    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    187
-    ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais,
-    nesama karine antisovietine sąjunga su Latvija ir Estija, užkliuvo antiso-
-    vietinė karikatūra Lietuvos laikraštyje, netgi paties A.
+    Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
+    neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“. Tai rodė,
+    jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
+    Lietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas
+    A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
+    1939 m. spalio 10 d. sutarties.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
+    ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
+    idėją stabdė tai, kad tokiu atveju būtų įstota į ateities Anglijos ir Pran-
+    cūzijos (ir JAV, gal ir SSRS) priešų bloką, o tokia Lietuva po karo būtų
+    skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
+    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai rodė,
+    jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
+    Lietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas
+    A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
+    1939 m. spalio 10 d. sutarties.
+    Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

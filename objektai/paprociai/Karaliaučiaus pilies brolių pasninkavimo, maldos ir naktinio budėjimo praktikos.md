@@ -38,16 +38,16 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.'
   pagrindžia:
     - c-001
-    - c-003
+    - c-002
     - c-004
 
 ## Reikšmingi paminėjimai
@@ -65,9 +65,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.
@@ -78,9 +78,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie kito brolio gyvenimą toje pačioje pilyje
@@ -97,7 +97,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,7 +114,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-005
   santrauka: 'Dusburgietis teigia, kad apie pagirtiną kai kurių brolių gyvenimą Karaliaučiaus pilyje Karaliaučiaus pilyje nuo pat jos įkūrimo gyveno narsūs vyrai: broliai ir įgudę kariai.'

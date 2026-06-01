@@ -34,29 +34,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Prieš pat rinkimus, liepos 11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-002
   teiginys: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   pagrindžia:
-    - c-001
+    - c-003
 
-- t-002
+- t-003
   teiginys: 'Per rinkimų agitaciją valdžia daug dėmesio skyrė A.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-004
   teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Viešai grasinama,
@@ -69,7 +69,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -85,9 +85,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pareigų atleisti
@@ -102,7 +102,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -119,7 +119,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 - c-005
   santrauka: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'

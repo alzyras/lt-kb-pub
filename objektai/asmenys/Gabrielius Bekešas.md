@@ -1,38 +1,21 @@
 ---
 tipas: asmuo
-pavadinimas: Gabrielius Bekešas
-sukurta: '2026-05-27'
-variantai:
-  - Gabrielis Bekešas
-  - Gabrielis Bekešas Skornatas
-  - Gabrielio Bekešo Skornato
-aliases:
-  - Gabrielis Bekešas
-  - Gabrielis Bekešas Skornatas
-  - Gabrielio Bekešo Skornato
+pavadinimas: 'Gabrielius Bekešas'
 saltiniai:
-  - Michał Baliński, Vilniaus miesto istorija (2007 m.)
-bukle: juodrastis
-laikotarpis: 1581 m. Stepono Batoro privilegijos ir karo su Maskvos kunigaikščiu kontekstas
-vaidmenys:
-  - vengrų pulkų vadas
-  - karvedys
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1581 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1581'
 date_end: ''
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajoras
   - karvedys
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Gabrielius Bekešas
 
@@ -41,11 +24,13 @@ tags:
 Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas už karinius nuopelnus valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei. Privilegijoje jam suteikiamas Alantos dvaras su priklausiniais, paveldėjimo teisėmis, ūkinės plėtros galimybėmis ir karinės tarnybos pareiga.
 
 ## Variantai
+
 - Gabrielis Bekešas
 - Gabrielis Bekešas Skornatas
 - Gabrielio Bekešo Skornato
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1581 m. Stepono Batoro privilegijos ir karo su Maskvos kunigaikščiu kontekstas
 - datos:
   - 1581 m. vasario 13 d.
@@ -58,55 +43,55 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - date_end: "1581"
 
 ## Vaidmenys
+
 - vengrų pulkų vadas
 - karvedys
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami."
+  teiginys: 'Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Bekešas kare prieš Maskvos kunigaikštį prie Polocko rizikavo gyvybe ir vėliau vadovavo vengrų riteriams ties Velikije Lūki."
+  teiginys: 'Bekešas kare prieš Maskvos kunigaikštį prie Polocko rizikavo gyvybe ir vėliau vadovavo vengrų riteriams ties Velikije Lūki.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais."
+  teiginys: 'Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: "Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas."
+  teiginys: 'Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas.'
   pagrindžia:
     - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-005
-  teiginys: "Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą."
+  teiginys: 'Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą.'
   pagrindžia:
     - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-006
   teiginys: 'Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63.'
   pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
-  pagrindžia:
     - c-007
-- t-008
+
+- t-007
   teiginys: 'Tai, kas tuose rejestruose išvardinta: bajorų, kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi su savo vaikais ir palikuonimis yra tikri pono Gabrielio Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­ mis, kurios tik nuo senų.'
   pagrindžia:
+    - c-006
+
+- t-008
+  teiginys: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
+  pagrindžia:
     - c-008
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Gabrielius Bekešas įvardijamas kaip vengrų pulkų vadas ir apdovanotas už nuopelnus.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     DATUOTA 1581 METŲ VASARIO 13 DIENĄ
@@ -126,16 +111,13 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     su nemažomis savo lėšomis ir pajamomis, negailėdamas sa­
     vo sveikatos prie mūsų, savo valdovo, būdamas, su noru,
     ištikimai ir narsiai visada rėmė ir nesiliauja rėmęs.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Privilegijoje aprašomi Bekešo kariniai veiksmai prie Polocko ir Velikije Lūki.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip ir
@@ -158,16 +140,13 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     sų riterija mūsų tarnystei, nemažai nuveikė ir nusipelnė ro­
     dydamas tikrą ir ryžtingą norą bei nuoširdumą mums, savo
     valdovui, ir Respublikai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Gabrieliui Bekešui už nuopelnus suteiktas Alantos dvaras su priklausiniais.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -201,16 +180,13 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     čiau išvardinti, po Grigaliaus Astiko, neseniai už ankstesnių
     laikų nusižengimus jį nubaudus mirties bausme, pagal vi­
     suotinę teisę atiteko mums, valdovui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: Bekešo palikuonims ir paveldėtojams leidžiama paveldimai naudotis dovanotomis valdomis.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O tuo laiku verti geradarybės ir naudingi tar­
@@ -246,16 +222,13 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     Slavenckio antspaudu ir asmeniniu parašu atiduoti mūsų
     iždui, o mes šių rejestrų nuorašą su to paties mūsų iždo
     --- • ---
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: Bekešui ir jo palikuonims leidžiama plėtoti valdas, o už jas privaloma karinė tarnyba.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir bus leista minėtam po­
@@ -279,16 +252,40 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     palikuonys privalės vykdyti krašto karinę tarnystę, kaip
     ir kiti Lietuvos Didžiosios Kunigaikštystės bajorai vykdo,
     tuomet kai bus šaukiama nereguliarioji kariuomenė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
-  santrauka: 'Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai, kas tuose rejestruose išvardinta: bajorų,
+    kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi
+    su savo vaikais ir palikuonimis yra tikri pono Gabrielio
+    Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­
+    mis, kurios tik nuo senų senovės priklausė šioms valdoms,
+    nors kartais Vaitiekaus Slavenckio į šiuos rejestrus kas nors
+    ir nebūtų įtraukta ar aprašyta. Ir bus leista minėtam po­
+    nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­
+    siems jo palikuonims, kaip aukščiau pasakyta, tose visose
+    išvardintose ir jam mūsų duotose valdose visą derlių, ku­
+    ris dabar ten yra ir po to būtų gautas ir galėtų būti suras­
+    tas, sau naudoti ir dauginti bei plėsti, bažnyčias ir mokyk­
+    las mokslų platinimui ir Dievo šventoves, kur tik manytų
+    esant reikalinga, statyti. Miestus, turgus juose funduoti ir
+    kaimus vėl apgyvendinti, smukles miestuose ir prie nak­
+    vynės namų deramose vietose, minėtų valdų žemėse sta­
+    tyti, daryti tvenkinius, malūnus statyti, visokeriopą nau­
+    dą tose valdose sau didinti ir plėsti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     61
@@ -308,13 +305,11 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
+
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Kopija iš originalo, esančio Radvilų archyve)
@@ -341,38 +336,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     Transiivanijos (vert.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Tai, kas tuose rejestruose išvardinta: bajorų, kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi su savo vaikais ir palikuonimis yra tikri pono Gabrielio Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­ mis, kurios tik nuo senų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai, kas tuose rejestruose išvardinta: bajorų,
-    kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi
-    su savo vaikais ir palikuonimis yra tikri pono Gabrielio
-    Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­
-    mis, kurios tik nuo senų senovės priklausė šioms valdoms,
-    nors kartais Vaitiekaus Slavenckio į šiuos rejestrus kas nors
-    ir nebūtų įtraukta ar aprašyta. Ir bus leista minėtam po­
-    nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­
-    siems jo palikuonims, kaip aukščiau pasakyta, tose visose
-    išvardintose ir jam mūsų duotose valdose visą derlių, ku­
-    ris dabar ten yra ir po to būtų gautas ir galėtų būti suras­
-    tas, sau naudoti ir dauginti bei plėsti, bažnyčias ir mokyk­
-    las mokslų platinimui ir Dievo šventoves, kur tik manytų
-    esant reikalinga, statyti. Miestus, turgus juose funduoti ir
-    kaimus vėl apgyvendinti, smukles miestuose ir prie nak­
-    vynės namų deramose vietose, minėtų valdų žemėse sta­
-    tyti, daryti tvenkinius, malūnus statyti, visokeriopą nau­
-    dą tose valdose sau didinti ir plėsti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-008
 

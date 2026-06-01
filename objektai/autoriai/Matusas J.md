@@ -32,10 +32,10 @@ Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

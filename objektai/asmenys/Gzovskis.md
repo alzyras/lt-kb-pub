@@ -19,13 +19,14 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
 ## Teiginiai
 
 - t-001
-  teiginys: 'Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik.'
+  teiginys: 'Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O atskirai jos didenybės Švedijos karalienės Kotrynos ir

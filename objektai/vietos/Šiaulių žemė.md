@@ -1,26 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Šiaulių žemė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1358 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1358'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - pilis
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Šiaulių žemė
 
@@ -29,16 +23,15 @@ tags:
 as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „puikiai pastatytą“ Dubysos pilį (Bubius), kur kronikininko Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     as
@@ -51,10 +44,8 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
     žuvo šimtas gynėjų. Tais metais didysis ir
     Livonijos magistrai iš dviejų pusių puolė
     Žemaitiją, padarydami daug žalos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

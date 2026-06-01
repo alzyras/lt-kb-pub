@@ -48,12 +48,12 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Mūšio pasekmės Kautynės Biržų girioje buvo didžiausios per visą 1863-1864 m. sukilimą.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Ganeckio rinktinė pasuko iš Medeikių į Biržų girią vedlio nurodyta kryptimi ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   pagrindžia:
     - c-002
@@ -98,7 +98,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -149,7 +149,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

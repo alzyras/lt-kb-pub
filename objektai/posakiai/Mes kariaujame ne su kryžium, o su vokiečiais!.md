@@ -1,35 +1,19 @@
 ---
 tipas: posakis
 pavadinimas: 'Mes kariaujame ne su kryžium, o su vokiečiais!'
-sukurta: '2026-05-05'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-bukle: juodrastis
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-05'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Mes kariaujame ne su kryžium, o su vokiečiais!
 
@@ -42,42 +26,30 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 - Pagrindinė forma: Mes kariaujame ne su kryžium, o su vokiečiais!
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Gediminas pirmas iš lie­ tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su vokiečiais!“ Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip minėta, jungėsi su Lenkais ir Mozūrais, ir tas sąjungas su­ tvirtino, išleisdamas už tų kraštų.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Lotyniškoje formulėje „nos christianos non impugnamus“ sakoma, kad krikščionys puolami ne dėl katalikų tikėjimo naikinimo.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Gediminas pirmas iš lie­
-    tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su
-    vokiečiais!“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+
+- t-002
+  teiginys: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Gediminas pirmas iš lie­ tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su vokiečiais!“ Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip minėta, jungėsi su Lenkais ir Mozūrais, ir tas sąjungas su­ tvirtino, išleisdamas už tų kraštų.'
+    - c-001
+
+- t-003
+  teiginys: 'Gediminas pirmas iš lie­ tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su vokiečiais!“ Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip minėta, jungėsi su Lenkais ir Mozūrais, ir tas sąjungas su­ tvirtino, išleisdamas už tų kraštų.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Gediminas pirmas iš lie­
+    Tai buvo pradžia tos
+    Ordinų demaskavimo bei diskreditavimo vakarų Europoje
+    politikos, kurią užbaigė tik Vytautas. Gediminas pirmas iš lie­
     tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su
     vokiečiais!“
     Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip
@@ -85,13 +57,28 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
     tvirtino, išleisdamas už tų kraštų valdovų savo dukteris.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tai buvo pradžia tos
+    Ordinų demaskavimo bei diskreditavimo vakarų Europoje
+    politikos, kurią užbaigė tik Vytautas. Gediminas pirmas iš lie­
+    tuvių pareiškė pasauliui: „Mes kariaujame ne su kryžium, o su
+    vokiečiais!“
+    Kad padidintų savo realią jėgą prieš Vokiečius, jis, kaip
+    minėta, jungėsi su Lenkais ir Mozūrais, ir tas sąjungas su­
+    tvirtino, išleisdamas už tų kraštų valdovų savo dukteris.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-003
-  santrauka: 'Lotyniškoje formulėje „nos christianos non impugnamus“ sakoma, kad krikščionys puolami ne dėl katalikų tikėjimo naikinimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -108,13 +95,11 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
     rati sumus vobis sicut ceteri Reges christiani in omnibus obe-
     dire et fidem catholicam recipere, dummodo tortoribus pre­
     dict!
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Šaltinyje pati laiško autorystė aptariama kritiškai, todėl ši citata patikima kaip Balińskio pateikta formulė, bet atsargiai vartotina kaip Gedimino tiesioginė pozicija."
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Andrejaus Vlasovo armija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -18,26 +15,26 @@ tags:
 Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Akcijose
+    Kiekvienoje zonderkomandoje buvo ne mažiau kaip 50–100 narių.
+    Kai kuriose žudynėse dalyvavo tik lietuvių pagalbinė policija ir policijos
+    savanoriai, tarp jų būta ir kriminalinio elemento, siekusio pasigrobti žydų
+    turto – namų, inventoriaus, brangenybių, patalynės, drabužių. Akcijose
     prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
     jos dalinius, ukrainiečių, latvių policijos batalionus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -48,3 +45,4 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/zonderkomanda]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/akcijos]]

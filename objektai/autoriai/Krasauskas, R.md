@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Krasauskas, R'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1898 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1898'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Krasauskas, R
 
@@ -27,16 +23,15 @@ tags:
 Krasauskas, R.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'R. Krasauskas Lietuvių enciklopedijos 18 tome paskelbė tekstą apie Medininkų diecezijos įsteigimą ir aprūpinimą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'R. Krasauskas Lietuvių enciklopedijos 18 tome paskelbė tekstą apie Medininkų diecezijos įsteigimą ir aprūpinimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     VII + 117 p.). — Krasauskas,
@@ -47,11 +42,9 @@ Krasauskas, R.
     przywileje fundacyjne Witolda dla Kościoła na Żmudzi , KH, t. 44, 1930,
     348-355 p. — Springmann, K. : Polen und der deutsche Orden zur Zeit
     des Koustanzer Konzils , Diss.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

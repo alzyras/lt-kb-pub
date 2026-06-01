@@ -1,11 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: gaspada
-sukurta: '2026-04-30'
+tipas: zodyno_irasas
+pavadinimas: 'gaspada'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: vidutinis
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # gaspada
 
@@ -18,36 +17,31 @@ Keleiviams ar maldininkams skirta pastogė, nakvynės vieta. Terminas siejamas s
 Pagrindinė forma: `gaspada`.
 Papildomos aiškios formos neišskirtos.
 
-## Teiginiai
-- t-003
-  teiginys: '`Gaspada` šiame tekste yra keleiviams skirta pastogė.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Ji priklauso žinyčios erdvei šalia kunigaikščio rūmų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '`Gaspada` šiame tekste yra keleiviams skirta pastogė.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    po kairės tos angos buvusi gaspada^773
-    keleiviams, atėjusiems dievų maldyti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-004
-
 ## Pastabos
 
 - Iš teksto aiški tik funkcinė paskirtis, o ne tiksli pastato rūšis.
+
+## Teiginiai
+
+- t-001
+  teiginys: '`Gaspada` šiame tekste yra keleiviams skirta pastogė.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Ji priklauso žinyčios erdvei šalia kunigaikščio rūmų.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    po kairės tos angos buvusi gaspada^773 keleiviams, atėjusiems dievų maldyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-002

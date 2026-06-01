@@ -1,36 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Sankt Peterburgas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1772 m.'
-  - '1773 m.'
   - '1775 m.'
-  - '1885 m.'
-  - '1907 m.'
-  - '1913 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVIII'
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1772'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XVIII'
+  - 'XXI'
 ---
 # Sankt Peterburgas
 
@@ -39,49 +26,91 @@ tags:
 Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai – Maskva ir Leningradas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Leningradas, dabar Sankt Peterburgas, buvo vienas pagrindinių iš Lietuvos išvežamų maisto produktų vartotojų.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'S.-Peterburg, 1907.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'S.-Peterburg, 1885.'
-  pagrindžia:
-    - c-003
-- t-004
   teiginys: 'S.-Peterburg, 1913.'
   pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+    - c-003
+
+- t-003
+  teiginys: 'S.-Peterburg, 1907.'
   pagrindžia:
     - c-005
 
+- t-004
+  teiginys: 'S.-Peterburg, 1885.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Leningradas, dabar Sankt Peterburgas, buvo vienas pagrindinių iš Lietuvos išvežamų maisto produktų vartotojų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nors pagal mėsos ir pieno
+    mą – jos gamino techninės paskirties, gana siauro profilio produkciją, ku-
+    ria dažniausiai aprūpindavo visą didžiulę šalį. Nors pagal mėsos ir pieno
     pramonės gamybą vienam gyventojui Lietuva užėmė pirmą vietą visoje
     SSRS, didžioji dalis Lietuvoje pagamintos produkcijos buvo išgabenama į
     kitus SSRS regionus (pagrindiniai išvežamų maisto produktų vartotojai –
     Maskva ir Leningradas (dabar Sankt Peterburgas), o įmonių gaunamos
     pajamos patekdavo į bendrą SSRS biudžetą.
-  citata_rodoma: ""
+    Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Mas-
+    kvą keliaudavo kyšiai (lagaminai rūkytų dešrų ir kumpių), ir dėl to, jog
+    čia nebūdavo „dolgostrojų“ (ilgus metus užsitęsusių statybų, kurios rei-
+    kalaudavo nesibaigiančio finansavimo), statybinės medžiagos nebūdavo
+    visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
+    laiku.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'S.-Peterburg, 1907.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ritorijas. Padalinimo sutartys buvo pasirašytos 1772 m.
+    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
+    seimas Varšuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Gruš. = Gruśewskij, M., Prof., Illiustrovannaja Istorija Ukrainy.
+    S.-Peterburg, 1913.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Barb. = Barbašev, A., Vitovt i jego politika do Griunvaldens­
+    koj bitwy. I t. S.-Peterburg, 1885.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pol. sobr. = Polnoje sobranije Russkich letopisej. Izdanije
@@ -89,48 +118,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     S.-Peterburg, 1907.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'S.-Peterburg, 1885.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Barb. = Barbašev, A., Vitovt i jego politika do Griunvaldens­
-    koj bitwy. I t. S.-Peterburg, 1885.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'S.-Peterburg, 1913.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Gruš. = Gruśewskij, M., Prof., Illiustrovannaja Istorija Ukrainy.
-    S.-Peterburg, 1913.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005

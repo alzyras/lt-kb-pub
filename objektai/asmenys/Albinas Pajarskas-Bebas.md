@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Albinas Pajarskas-Bebas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1949 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1949'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Albinas Pajarskas-Bebas
 
@@ -28,16 +24,15 @@ tags:
 Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus viršininkas Aleksas Matelis-Audenis, apygardos vadas Antanas Starkus-Montė ir apygardos štabo viršininkas Albinas Pajarskas-Bebas.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1949 m. Albinas Pajarskas-Bebas buvo Algimanto apygardos štabo viršininkas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1949 m. Albinas Pajarskas-Bebas buvo Algimanto apygardos štabo viršininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio sky-
@@ -52,10 +47,8 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
     zanų dislokacijos vietoje, Šimonių girios
     glūdumoje vienu metu telkėsi šeši būriai —
     iki 180 ginkluotų kovotojų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -46,19 +46,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­ metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­ tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­ vo.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Tąkart Vinrichas, vasario pradžioje kirtęs Lie­ tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­ binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių polaidžio.'
+  teiginys: 'Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­ metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­ tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­ vo.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Tąkart Vinrichas, vasario pradžioje kirtęs Lie­ tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­ binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių polaidžio.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau mūšio metu į me­
@@ -79,9 +79,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     30
@@ -100,7 +100,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

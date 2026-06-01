@@ -25,12 +25,12 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbiterio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su.'
   pagrindžia:
     - c-001
@@ -59,7 +59,7 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -82,4 +82,4 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

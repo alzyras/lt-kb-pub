@@ -1,34 +1,22 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: kapitula
-sukurta: '2026-04-25'
-variantai:
-  - kapitulai
-aliases: []
+pavadinimas: 'kapitula'
 saltiniai:
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1936 m.'
+  - '1655 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # kapitula
 
@@ -37,35 +25,40 @@ tags:
 XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: 'Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­ damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­ muno, žemiau Dubysos įtakos, Naują Marienburgo pilį.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Tuo pat vardu buvo ir jo krikš­
+    tatėvis, Ragainės komtūras.
     Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
     damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
     muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
     sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
+
 - c-002
-  santrauka: 'Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­ damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­ muno, žemiau Dubysos įtakos, Naują Marienburgo pilį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
@@ -76,15 +69,28 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
     kraustė ir Alšėnų kunigaikštis ir kiti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
+- c-003
+  santrauka: 'XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    XVII amžiuje
+    kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė ru-
+    sai. Tuomet iš katedros buvo išvežtos visos brangenybės ir paslėptos
+    nuo rusų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje]]
 - [[objektai/asmenys/Aaronas]]
 - [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis)]]
@@ -111,6 +117,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/asmenys/Henrikas Lankasteris]]
 - [[objektai/asmenys/Jonas Hlebavičius]]
 - [[objektai/asmenys/Jonas Hozijus]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
@@ -141,8 +148,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/posakiai/Praemissa er corde considerantes devoto]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
 - [[objektai/grupes/Rygos kapitula]]

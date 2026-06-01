@@ -1,27 +1,19 @@
 ---
 tipas: paprotys
-pavadinimas: "Tautos istorijos atminties saugojimas piliečių lūpose"
-sukurta: '2026-05-18'
-variantai:
-  - 'Kandidatas Tautos istorijos atminties saugojimas piliečių lūpose'
-aliases:
-  - 'Kandidatas Tautos istorijos atminties saugojimas piliečių lūpose'
+pavadinimas: 'Tautos istorijos atminties saugojimas piliečių lūpose'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1859 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1859'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tauta
+amziai:
+  - 'XIX'
 ---
 # Tautos istorijos atminties saugojimas piliečių lūpose
 
@@ -30,31 +22,35 @@ tags:
 Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesuvaidintas, dažnai pamokančias mūsų tautos istorines patirtis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas,
@@ -66,11 +62,9 @@ Nenurodyta
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

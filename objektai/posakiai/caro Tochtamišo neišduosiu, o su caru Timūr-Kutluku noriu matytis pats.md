@@ -1,24 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -33,22 +19,20 @@ tags:
 - Pagrindinė forma: caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats
 
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: 'Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Greičiausiai Vytauto
@@ -63,14 +47,12 @@ tags:
     Tochtamišą, jo priešą. O Vytautas atsakęs:
     „caro Tochtamišo neišduosiu, o su caru
     Timūr-Kutluku noriu matytis pats“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

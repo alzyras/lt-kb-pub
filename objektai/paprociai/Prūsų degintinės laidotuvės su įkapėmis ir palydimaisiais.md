@@ -41,7 +41,7 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad jie degino jo ginklus, žirgus, vergus ir tarnaites [servi et ancillae]209, drabužius, medžioklinius šunis bei sakalus ir visa kita, kas reikalinga kariams. Su nekilmingaisiais drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus, ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas nedvejodamas pasakydavo, kokie buvo.'
@@ -51,11 +51,11 @@ Nenurodyta
 - t-003
   teiginys: 'Dusburgietis teigia, kad rašo, jog prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį (III, 91), taip pat darę ir lietuviai (III, 338).'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Savo svečiams jie rodo nepaprastą lipšnumą, ir vargu ar kada
@@ -87,7 +87,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     jie degino  jo ginklus, žirgus, vergus  ir tarnaites  [servi et  ancillae]209, drabužius,

@@ -28,12 +28,12 @@ Dusburgietis teigia, kad 597; Perlbach M. Dusburgietis teigia, kad 1.23 popieži
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad 1.23 popiežiaus bulėmis (PUB 1, 1, Nr. 72, 87; Perlbach M.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad 597; Perlbach M.'
   pagrindžia:
     - c-001
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad 597; Perlbach M. Dusburgietis teigia, kad 1.23 popieži
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad 597; Perlbach M. Dusburgietis teigia, kad 1.23 popieži
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Litovskij Statut 1588 goda'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -11,19 +8,16 @@ datos:
   - '1934 m.'
   - '1936 m.'
   - '1938 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XX'
 date_start: '1588'
 date_end: '1938'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ritualas
   - saltinis
+amziai:
+  - 'XVI'
+  - 'XX'
 ---
 # Litovskij Statut 1588 goda
 
@@ -32,18 +26,15 @@ tags:
 Lappo : Litovskij Statut 1588 goda, I t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pažymėtini ukrainiečių rytų apeigų kata-
@@ -54,10 +45,8 @@ Lappo : Litovskij Statut 1588 goda, I t.
     baigoje_** **(Praeitis, I, 1930, 94-138 p.) ;** **_Iš vyriausiųjų Lietuvos suvažiavimų
     istorijos XVI a. 1577 metų suvažiavimas Rytų Vilkaviškyje_** **(1932) ;** **_Lietuva
     ir Lenkija po 1569 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

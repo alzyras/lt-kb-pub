@@ -32,13 +32,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
+  teiginys: 'Formule „Viešpaties vardu Amen“ prasideda Žygimanto Senojo raštas, kuriuo patvirtinta Trakų žydų privilegija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formule „Viešpaties vardu Amen“ prasideda Žygimanto Senojo raštas, kuriuo patvirtinta Trakų žydų privilegija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 210
@@ -102,7 +103,6 @@ Nenurodyta
 - [[objektai/asmenys/Jonas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Jonas Chojevskis]]
 - [[objektai/asmenys/Jurgis Radvila]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Trakų žydai]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/asmenys/Žygimantas Senasis]]

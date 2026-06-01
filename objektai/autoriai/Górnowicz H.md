@@ -27,24 +27,24 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100).'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13).'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab.'
+  teiginys: 'Dusburgietis teigia, kad górnowicz R., Średniowieczne..., p. 99—100; Nazwy miast Pomorza Gdańskiego, p. 199—202 (Górnowicz H.); Vanagas A., Lietuvių hidronimų..., p. 100).'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., Toponimia..., p. 85—86, 11, 13).'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad dzierzgoń — GAO, p. 158; Būga K., 3, p. 539; Górnowicz H., Średniowieczne..., p. 103; to paties, Toponimia..., p. 275) įteka į Drūzo (dab.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     232 Zirgūna (D.— Sirgune, XIII—XIV a. dokumentuose — Sirgun, Syrgen, plg. pr.
@@ -55,9 +55,9 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma, kad upėvardis Elbingas esąs baltiškas, tos pačios šaknies kaip ir lie. Elbentas
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     225 Kvedino (plg. pr. Quidin — GAO, p. 78) sala buvo Vyslos ir Senojo Nogato tėkmėje
@@ -84,7 +84,7 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

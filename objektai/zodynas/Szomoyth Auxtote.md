@@ -18,13 +18,14 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, kaip ir Lietu­ vos žemė: juk ta pati kalba ir tie pa­ tys žmonės; tik dėl to, kad žemaičių žemė yra žemesnė už Lietuvos že­ mę, todėl ir vadinama Szomoyth, kas lietuviškai reiškia -.'
+  teiginys: 'Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai reiškia:

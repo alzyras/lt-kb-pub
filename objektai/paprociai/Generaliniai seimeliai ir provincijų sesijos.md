@@ -1,13 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Generaliniai seimeliai ir provincijų sesijos'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - seimas
@@ -34,22 +31,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Provincijų sesijomis vadinti posėdžiai atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mat, anks-
@@ -60,15 +55,13 @@ Nenurodyta
     rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Provincijų sesijomis vadinti posėdžiai atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ten atskirai darydavo savo posė-
@@ -78,13 +71,11 @@ Nenurodyta
     dinamas visas parlamento veikimo metas tarp dviejų atostogų
     arba šiaip tarp dviejų pertraukų). Tos „sesijos" atlikdavo tą
     patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

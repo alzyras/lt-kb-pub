@@ -28,32 +28,32 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 
 ## Teiginiai
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
-  pagrindžia:
-    - c-006
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad kai pradėjo temti, penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino paprastus karius, kad šie nudūmė prie laivų, manydami.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: '1290 m. magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
-  pagrindžia:
-    - c-001
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
+  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
   pagrindžia:
     - c-005
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų.'
+  teiginys: 'Dusburgietis teigia, kad kai pradėjo temti, penki šimtai brolių raitelių, ėjusių sargybą tarp Lietuvos Žemės bei šios pilies ir pailsusių nuo ilgo budėjimo, patraukė atgal, keldami didelį šurmulį bei triukšmą, ir taip išgąsdino paprastus karius, kad šie nudūmė prie laivų, manydami.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: '1290 m. magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.'
+  pagrindžia:
+    - c-003
+
 - t-004
+  teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies užpuolimą 1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas, magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais pėstininkų.'
+  pagrindžia:
+    - c-006
+
+- t-006
   teiginys: 'Dusburgietis teigia, kad tiksliau kol kas nelokalizuota Kolainių pilis dažniausiai siejama su Kalnėnais į vak.'
   pagrindžia:
     - c-004
@@ -65,7 +65,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
@@ -83,9 +83,9 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai pradėjo temti,
@@ -99,9 +99,9 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vykstant kovoms prie
@@ -115,7 +115,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -135,9 +135,9 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
@@ -151,9 +151,9 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
-- c-002
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kolainių pilies užpuolimą
@@ -167,7 +167,7 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 - c-007
   santrauka: 'Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir didele kariuomene vėl puolė, ir būtent, už Bisenos esančią Kolainių (Co­ layne) pilį.'

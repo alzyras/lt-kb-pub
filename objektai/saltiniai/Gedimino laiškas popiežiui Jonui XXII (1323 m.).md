@@ -25,34 +25,34 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'IV, p. 393, jau esame išsakę nuo­ monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­ nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­ dimino, bet nei su jo žinia, nei jo valia parašyti.'
   pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominikonų ordinui, Mažesniesiems troliams kei Siaurės Vokietijos pajūrio miestams, klastotę.'
-  pagrindžia:
-    - c-001
-
 - t-002
-  teiginys: 'Užuot ėmę tą dalyką nagrinėti, manome esant naudinga su­ sipažinti su to valdovo laišku popiežiui, kuriame taip pasa­ kyta: ## Puslapis 100 VILNIAUS MIESTO ISTORIJA / TOMAS Excellentissimo patri domino Johanni Romane sedis sum­ mo Pontifici.'
-  pagrindžia:
-    - c-002
-
-- t-005
-  teiginys: 'Laiškų autorius, baimindamasis, kad neišaiškė­ tų, kaip yra iš tikrųjų, turėjo stengtis visoms dvejonėms už­ bėgti už akių, todėl radosi priedas, kad kryžiuočiai tikrąjį, jo paties, valdovo, antspaudą į ugnį įmetę; ar tikra, ar išgal­ vota būtų toji.'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­ kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­ vo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl bro­ lių iš teutonų namo magistro [daromų] žiaurių nuoskaudų ir nesuskaičiuojamų.'
+  teiginys: 'Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominikonų ordinui, Mažesniesiems troliams kei Siaurės Vokietijos pajūrio miestams, klastotę.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Gediminas laiške popiežiui Jonui XXII prisistatė lietuvių ir daugelio rusėnų karaliumi.'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Laiškų autorius, baimindamasis, kad neišaiškė­ tų, kaip yra iš tikrųjų, turėjo stengtis visoms dvejonėms už­ bėgti už akių, todėl radosi priedas, kad kryžiuočiai tikrąjį, jo paties, valdovo, antspaudą į ugnį įmetę; ar tikra, ar išgal­ vota būtų toji.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­ kiame, jog mūsų pirmtakas karalius Mindaugas su visa sa­ vo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl bro­ lių iš teutonų namo magistro [daromų] žiaurių nuoskaudų ir nesuskaičiuojamų.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laiškų autorius, baimindamasis, kad neišaiškė­
@@ -72,9 +72,9 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau seniai esame girdėję, kad visi krikščionių tikėjimo iš­
@@ -101,9 +101,9 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui
@@ -129,7 +129,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -155,9 +155,10 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-002
+- c-005
+  santrauka: 'Gediminas laiške popiežiui Jonui XXII prisistatė lietuvių ir daugelio rusėnų karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Užuot ėmę tą dalyką nagrinėti, manome esant naudinga su­
@@ -177,4 +178,4 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003

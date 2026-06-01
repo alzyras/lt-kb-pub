@@ -25,12 +25,12 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Municipaliniai nuostatai Kas­ tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­ lenkė Prancūzijos miestų teisėtvarką.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X.'
   pagrindžia:
     - c-001
@@ -55,7 +55,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -76,7 +76,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

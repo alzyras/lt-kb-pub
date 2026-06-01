@@ -19,19 +19,19 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad kaustros (D.— Caustere, Jer.— tiliz [...] Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  teiginys: 'Dusburgietis teigia, kad kaustros (D.— Caustere, Jer.— tiliz [...] Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aukštas piliakalnis su
@@ -42,9 +42,9 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
@@ -59,4 +59,4 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

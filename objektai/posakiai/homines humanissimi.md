@@ -1,24 +1,18 @@
 ---
 tipas: posakis
 pavadinimas: 'homines humanissimi'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1072 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 date_start: '1072'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XI'
 ---
 # homines humanissimi
 
@@ -27,16 +21,15 @@ tags:
 Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adalberto (Vaitiekaus) biografas Canaparius, kuris
@@ -48,11 +41,9 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
     su švedais. Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
     (« Sembi vėl Pruzzi »), kurie esą « homines humanissimi » ir vykstą
     gelbėti pavojaus ištiktųjų jūroje, ar piratų užpultųjų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

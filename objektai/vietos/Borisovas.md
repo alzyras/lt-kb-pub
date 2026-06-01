@@ -24,15 +24,15 @@ amziai:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '51 Karalius Aleksandras savo sprendi­ mu, datuotu Borisove 1500 m. (feria quinta in octava Visitationis Beatae Virginis Mariae - ketvirtadienį Švč.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-002
   teiginys: 'Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
@@ -41,7 +41,7 @@ amziai:
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios dominikonų baž­
@@ -68,9 +68,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kunigaikštystės, totorių kariuomenė
@@ -107,7 +107,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   santrauka: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'

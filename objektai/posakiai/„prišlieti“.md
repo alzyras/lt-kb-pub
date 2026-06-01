@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„prišlieti“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tikėjimas
@@ -25,36 +16,36 @@ tags:
 rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
+
+- t-002
   teiginys: 'Krėvos sutartyje Jogaila pažadėjo įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Su-
+    Lenkai,
+    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
+    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
     tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
     belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
+    - t-003
     - t-001
-    - t-002
+
 - c-002
-  santrauka: 'Krėvos sutartyje Jogaila pažadėjo įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-
@@ -66,11 +57,9 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

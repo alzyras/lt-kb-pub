@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Dr. Baptistos Cigalos atsakymas dėl Vytauto karūnacijos'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - karalius
@@ -27,24 +18,20 @@ tags:
 Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti nereikalingas popiežiaus patvirtinimas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Cigala antrame savo atsakyme gina, kad karūnacijai atlikti nereikalingas popiežiaus patvirtinimas.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Dr. Baptista Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę dėl karūnacijos teisės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Teisę karūnuot tetu­
@@ -54,15 +41,13 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     dinėjo, kad ir neapkarūnuotas ciesorius turįs teisę teikti inves­
     titūras į karalius; o Zigmanto valdžia paeinanti ne iš karūna­
     cijos fakto, bet iš elektorių rinkimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Cigala antrame savo atsakyme gina, kad karūnacijai atlikti nereikalingas popiežiaus patvirtinimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Krokuvos profesoriai Romos karalių teisę kitų karū­
@@ -75,10 +60,8 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
     pats Cigala atsako, kad pastaroji, būdama bažnytiniu aktu, ne­
     priduoda daugiau valdžios, o tiktai pašventina, padaro kilnesnį
     karūnacijos aktą^2 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

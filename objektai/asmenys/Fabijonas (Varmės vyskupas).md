@@ -26,13 +26,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.'
+  teiginys: 'Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1514.
@@ -67,6 +68,5 @@ periodo_grupes:
 - [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/Apaštalų Sostas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/ivykiai/Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)]]

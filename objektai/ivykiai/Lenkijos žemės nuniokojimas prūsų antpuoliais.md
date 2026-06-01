@@ -46,21 +46,21 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 163 Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J. Dlugošas žuvusio Mazovijos šaltinio pagrindu kalba ties 1222 m. Vis dėlto įvykių chronologija Dlugošo paankstinta keleriais metais, todėl aptariami įvykiai galėtų sietis su 1224 ar 1225 m..'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis perdeda: netiksliai interpretuoja savo šaltinį (SRP, 5, p. 159), matyt, norėdamas padidinti prūsų padarytų nuostolių mastą (PKD, p. 29; Powierski J.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     164 Rašydamas apie 250 sudegintų parapinių bažnyčių Konrado valdose. Dusburgietis
@@ -72,7 +72,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Lenkijos žemės nuniokojimą
@@ -94,7 +94,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     163  Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J. Dlugošas žuvusio

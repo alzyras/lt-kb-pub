@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'luominė diferenciacija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -11,21 +8,18 @@ datos:
   - '1413 m.'
   - '1434 m.'
   - '1447 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 date_start: '1387'
 date_end: '1447'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - didikas
   - sąvoka
   - valdovas
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # luominė diferenciacija
 
@@ -34,16 +28,15 @@ tags:
 Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomine diferenciacija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     _Socialiniu_ atžvilgiu ši epocha yra charakterizuojama išryškė­
@@ -54,11 +47,9 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
     damas juos ir teismo atžvilgiu pono valdžion ir šio labui juos
     paliuosuodamas nuo piniginės prievolės valstybei, Kazimieras savo
     privilegija (1447) padėjo pagrindą baudžiavinei epochai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -60,7 +60,6 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]
 - [[objektai/grupes/Gotai]]
 - [[objektai/grupes/Hanza]]

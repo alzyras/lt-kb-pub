@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Dlugošas Długosz'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
@@ -27,25 +18,25 @@ tags:
 Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad Vilna agmine silenti veniens et JagyelJonem ducem et castrum Vilnense comprehen­ dit [Į Vilnių su būriu slaptu atėjęs ir kunigaikštį Jogailą, ir Vilniaus pilį užėmė]. Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0. Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  pagrindžia:
+    - c-002
+
+- t-002
   teiginys: 'Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad Vilna agmine silenti veniens et JagyelJonem ducem et castrum Vilnense comprehen­ dit [Į Vilnių su būriu slaptu atėjęs ir kunigaikštį Jogailą, ir Vilniaus pilį užėmė].'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.'
-  pagrindžia:
-    - c-002
+
 - t-003
-  teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  teiginys: '29 Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'''' apie Vilniaus pilių sudeginimą, taMūsų istorikai, būtent Dlugošas, tai iki šiol dar nėra išaiškinta.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: '29 Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'' apie Vilniaus pilių sudeginimą, taMūsų istorikai, būtent Dlugošas, tai iki šiol dar nėra išaiškinta.'
-  pagrindžia:
-    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad Vilna agmine silenti veniens et JagyelJonem ducem et castrum Vilnense comprehen­ dit [Į Vilnių su būriu slaptu atėjęs ir kunigaikštį Jogailą, ir Vilniaus pilį užėmė].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, regis, toks stai­
@@ -63,37 +54,17 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     užėmė]. X. 63.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vis dėlto gal po ta genealogi­
-    nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip
-    anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­
-    tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas
-    bus valdęs, bet šito nei tvirtai teigti, nei išsiaiškinti iki šiol
-    neįmanoma. Dlugošas nurodo, jog Vilnius yra senovinis
-    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
-    vado Viliaus, kuris juos iš Italijos atvedęs0. Tačiau ta nuo-
-    c
-    Historya Państwa Rossyjsk.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Rau­
+    Nors Strijkovskis yra pasakęs, kad Gedimino pa­
+    laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
+    žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­
+    mino kalne, manytume greičiau jį esant čia palaidotą. Rau­
     donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
     Kai dėl rūšies ginklo, nuo kurio žuvo
     Gediminas: Dlugošas Lib. IX,
@@ -101,13 +72,11 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     strėlės pervertas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: '29 Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'' apie Vilniaus pilių sudeginimą, taMūsų istorikai, būtent Dlugošas, tai iki šiol dar nėra išaiškinta.'
+    - t-001
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     29
@@ -121,16 +90,12 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
     nai Naruševičiaus Proces ory- lies dvejus vartus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]

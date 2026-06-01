@@ -25,39 +25,39 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad 150 Maтyзoвa В. И. Apxeoгpaфнчccкие..., c. 19—21; tos pačios, «Xpoникa зeмли Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из пpoблeмaтнкк..., c. 69.'
   pagrindžia:
-    - c-003
+    - c-005
 
-- t-006
+- t-003
   teiginys: 'Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.'
   pagrindžia:
     - c-006
 
-- t-005
+- t-004
   teiginys: 'Dusburgietis teigia, kad romas Batūra datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
   pagrindžia:
-    - c-005
+    - c-003
 
-- t-007
+- t-005
   teiginys: 'Batūra rašė : XIII a.'
   pagrindžia:
-    - c-007
+    - c-001
 
-- t-004
+- t-006
   teiginys: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-007
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvių
@@ -69,7 +69,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -85,9 +85,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugy­
@@ -108,7 +108,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -126,9 +126,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     150 Maтyзoвa  В.  И.  Apxeoгpaфнчccкие...,  c. 19—21;  tos  pačios, «Xpoникa
@@ -138,7 +138,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -153,7 +153,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

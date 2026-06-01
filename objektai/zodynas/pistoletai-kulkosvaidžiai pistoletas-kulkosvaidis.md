@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - karas
@@ -26,16 +17,15 @@ tags:
 Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, patikimesniu, patogesniu ir pigiau bei paprasčiau pagaminamu pistoletukulkosvaidžiu nei PPS 41 Sovietų gamybos pistoletas-kulkosvaidis PPS (Pistolet-pulemiot Sudaeva).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pistoletas-kulkosvaidis PPS Antrojo pasaulinio karo metu rusų pradėtas kurti ir gaminti kaip paprastesnė PPS-41 alternatyva.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pistoletas-kulkosvaidis PPS Antrojo pasaulinio karo metu rusų pradėtas kurti ir gaminti kaip paprastesnė PPS-41 alternatyva.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sulenkta buožė
@@ -71,11 +61,9 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
 
     Lipdė laisvę ir lygybę
     ft sulūžusių tvorų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

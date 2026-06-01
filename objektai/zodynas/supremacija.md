@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'supremacija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
@@ -26,22 +17,20 @@ tags:
 Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremacijoje. Svarbesniuose atsitikimuose jis darydavo naują unijos aktą, visai mažai tebūdamas, kad kiekvienam atvejy uniją darą kontragentai nestoja į lygią platformą ir visuomet supremacija paliekama lenkams.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremacijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Sudarytuose unijos aktuose kontragentai nebuvo laikomi lygiais, o supremacija visada buvo paliekama lenkams.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremacijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje
@@ -51,15 +40,13 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
     daug pasižadėjimų ir priesaikų, bet jis tarytum vėlyvojo vidu­
     ramžio Italijos „princeps“ jais nė kiek nesivaržė, o skaitėsi
     tik su faktišku jėgų santykiavimu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Sudarytuose unijos aktuose kontragentai nebuvo laikomi lygiais, o supremacija visada buvo paliekama lenkams.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dėl to, kai pasitaikė reika­
@@ -71,13 +58,26 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
     supremacija paliekama lenkams. Ir jam mirus, kai nebuvo kam
     taip vikriai laviruoti tarp tų susipynusių santykių tinklo, Lie­
     tuva susilaukė nemaža bėdų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremacijoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet ir ji duota kartu su Vytautu.
+    Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje
+    jos supremacijoje. Ir tai buvo išdava vieno charakteringiau­
+    sių Vytauto kaip politiko bruožų, būtent rašytų pasižadėjimų
+    neįvertinimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

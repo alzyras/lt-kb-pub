@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pilėnai nuolatiniai karo tarnybininkai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - pilis
@@ -26,16 +17,15 @@ tags:
 Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
@@ -48,11 +38,9 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
     Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
     dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
     mongolus prie Mėlynųjų vandenų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -62,3 +50,4 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Mongolai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]

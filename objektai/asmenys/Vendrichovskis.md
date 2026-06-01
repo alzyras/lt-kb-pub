@@ -64,6 +64,5 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]

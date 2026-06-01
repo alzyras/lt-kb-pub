@@ -1,15 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1992 m.'
+date_start: '1992'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.)
 
@@ -18,38 +21,42 @@ tags:
 Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Paguodė pirmieji laimėjimai – disko
+    Tarptautinis olimpinis ko-
+    mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto
+    tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
+    šakų sporto varžybose už savo šalį. Paguodė pirmieji laimėjimai – disko
     metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-
     vojo pirmą aukso medalį nepriklausomai Lietuvai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

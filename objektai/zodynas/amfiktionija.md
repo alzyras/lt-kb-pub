@@ -34,11 +34,11 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - t-001
   teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio proceso ankstyvąja apraiška reikėtų laikyti
@@ -53,7 +53,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio proceso ankstyvąja apraiška reikėtų laikyti

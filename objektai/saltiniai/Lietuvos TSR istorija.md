@@ -23,19 +23,19 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad lietuvos TSR istorija.—T.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija.'
+  teiginys: 'Dusburgietis teigia, kad lietuvos TSR istorija.—T.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR istorija.—T. 1,—V., 1957.
@@ -43,9 +43,9 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
@@ -55,4 +55,4 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

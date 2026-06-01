@@ -45,16 +45,16 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
@@ -65,7 +65,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi

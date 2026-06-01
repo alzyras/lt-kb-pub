@@ -19,17 +19,17 @@ tags:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '[Dievobaimin­ ga širdimi apsvarstę pirmuosius veiksmus, Kristuje gerbiamam tėvui ponui Vilniaus vyskupui Motiejui ir jo įpėdiniams, Visagalio Dievo ir šlo­ vingosios Mergelės Marijos garbei ir t.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
-  pagrindžia:
-    - c-003
-
-- t-001
   teiginys: 'Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus.'
   pagrindžia:
     - c-001
@@ -62,9 +62,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -93,9 +93,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nusilpęs, nesėkmių pribaigtas prūsas lio­
@@ -122,7 +122,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -112,7 +112,6 @@ Nenurodyta
 - [[objektai/daiktai/Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai]]
 - [[objektai/grupes/Pomeranai]]
 - [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]
 - [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
 - [[objektai/grupes/Rusai]]

@@ -48,13 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '50 ## Puslapis 67 I KNYGA las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­ mus rengęs.'
+  teiginys: 'Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad
@@ -121,3 +122,4 @@ Nenurodyta
 - [[objektai/zodynas/Puslapis 67]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Šventaragis]]

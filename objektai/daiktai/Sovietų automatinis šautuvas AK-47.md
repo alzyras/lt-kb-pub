@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Sovietų automatinis šautuvas AK-47'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1947 m.'
   - '1959 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1947'
 date_end: '1959'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
   - miestas
+amziai:
+  - 'XX'
 ---
 # Sovietų automatinis šautuvas AK-47
 
@@ -30,41 +24,45 @@ tags:
 Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuvos atsikurimas ## Puslapis 258 KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI 1947 m. sovietų konstruktoriaus M. Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba, tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai paplito po visą pasaulį.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba, todėl buvo gausiai gaminamas ir paplito pasaulyje.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų snaiperiniuose šautuvuose ir kulkosvaidžiuose šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant automatine ugnimi.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba, todėl buvo gausiai gaminamas ir paplito pasaulyje.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Maistą taip pat aukojo gyventojai
@@ -81,15 +79,13 @@ Nenurodyta
 
     1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
     tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba, todėl buvo gausiai gaminamas ir paplito pasaulyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
@@ -101,15 +97,13 @@ Nenurodyta
     nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
     siją - AKM. 1974 m. buvo sukurtas naujas Kalašnikovo automato
     variantas — AK-74, kuris naudojo dar mažesnį šovinį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų snaiperiniuose šautuvuose ir kulkosvaidžiuose šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant automatine ugnimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų
@@ -125,14 +119,14 @@ Nenurodyta
     tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai
     paplito po visą pasaulį.
 
-    1959 m.
+    1959 m. sovietų ginkluotosios pajėgos pradėjo naudoti moder-
+    nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
+    siją - AKM.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

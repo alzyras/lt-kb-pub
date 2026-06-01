@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­ kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­ mas pilietinio ir kultūrinio ugdymo teises.'
+  teiginys: 'M. Balinskis rėmė lietuvių ir baltarusių švietėjų pastangas liaudies ugdymą paversti visuomeninių pertvarkymų dalimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Balinskis rėmė lietuvių ir baltarusių švietėjų pastangas liaudies ugdymą paversti visuomeninių pertvarkymų dalimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis atsakė į jo

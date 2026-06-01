@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vienos universiteto profesorių nuomonė dėl Vytauto karūnacijos'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - popiežius
@@ -26,18 +17,15 @@ tags:
 Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareiškti savo nuomonę. Bet Krokuvos profesoriai Romos karalių teisę kitų karū­ nuot pripažino nepakankama, nes tuo atveju ji esanti žemesnė už popiežiaus teises.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Zigmanto pakviesti Vienos universiteto profesoriai pareiškė nuomonę apie Romos karaliaus teisę karūnuoti kitus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Zigmanto pakviesti Vienos universiteto profesoriai pareiškė nuomonę apie Romos karaliaus teisę karūnuoti kitus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis įro­
@@ -47,10 +35,8 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
     universiteto profesoriai, pakviesti Zigmanto pareiškti savo
     nuomonę. Jie taip pat įrodinėjo, kad Romos karalius, turįs vi­
     sas ciesoriaus teises ir nekarūnuotas Romoj.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

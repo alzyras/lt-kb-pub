@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kafa'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - tauta
   - vieta
@@ -25,16 +16,15 @@ tags:
 Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje tarptautinės reikšmės uostas Kafa (Feodosija, totorių perleistas italų Genujos pirkliams, vykdęs prekybą net su Indija).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žygio metu buvo pasiektas pietinėje Krymo pakrantėje buvęs tarptautinės reikšmės uostas Kafa.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žygio metu buvo pasiektas pietinėje Krymo pakrantėje buvęs tarptautinės reikšmės uostas Kafa.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jono vardas.
@@ -47,10 +37,8 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
     pusę perėjusiam totorių caraičiui Musat-
     Chanui, taigi perėjo į tam tikrą Lietuvos
     kontrolę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

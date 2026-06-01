@@ -24,24 +24,24 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Landsbergio vadovaujamus konservatorius.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-002
   teiginys: 'Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi L I E T U V O S I S T O R I J A 250 socialdemokratine, LDDP (vėliau susivienys.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-003
   teiginys: 'Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yra pusiau prezidentinės ir parlamentinės valdymo sistemos kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes prezidentinei valdymo formai nepritarta.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     socialdemokratine, LDDP (vėliau susivienys su Lietuvos socialdemokra-
@@ -55,9 +55,9 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis šalies įstatymas garantuo-
@@ -82,7 +82,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis šalies įstatymas garantuo-
@@ -99,7 +99,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Benediktas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1387 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1387'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Benediktas
 
@@ -27,16 +23,15 @@ tags:
 Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene atimti Haličą iš Vengrijos kašteliono Benedikto.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1387 m. vasarą Jogaila pasiuntė kariuomenę atimti Haličą iš Vengrijos kašteliono Benedikto.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1387 m. vasarą Jogaila pasiuntė kariuomenę atimti Haličą iš Vengrijos kašteliono Benedikto.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, numalšinęs sukilimą, nebegrįžo į Krokuvą, bet
@@ -45,11 +40,9 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
     siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kariuomene
     atimti Haličą iš Vengrijos kašteliono Benedikto. Žygis buvo
     reikšmingas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

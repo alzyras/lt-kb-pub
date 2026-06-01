@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Saulius Kaubrys'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - žemėlapis
@@ -19,49 +16,55 @@ tags:
 dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių atrinkimo. Kaubrys S.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Saulius Kaubrys parašė 2000 m. Vilniuje išleistą veikalą „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Skaitytojui jie būtų neabejotinai įdomūs ir pravartūs, bet
+    tebūnie tai ta auka ir kaina, kurią šios knygos autoriai pasiryžo sumokėti,
+    kad pasakojime kuo geriau išryškintų esminius Lietuvos istorijos verpe-
+    tus, Lietuvos valstybės raidą, jos indėlį į regiono ir visos Europos istoriją
+    bei ilgametį, tvirtą – nemirtingą – Lietuvos žmonių ryžtą kurti, saugoti ir
+    puoselėti savo valstybę.
+    Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
+    istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
+    damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti
+    visą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-
+    kingu ir taupiu žvilgsniu.
     Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos
     nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip
     pat dr. Vytautui Žaliui, Romanui Judinui, labai ačiū recenzavusiems šią
     knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
     kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
     atrinkimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Saulius Kaubrys parašė 2000 m. Vilniuje išleistą veikalą „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilnius, 2010.
+    Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

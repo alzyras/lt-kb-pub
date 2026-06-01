@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Geležinėmis grandinėmis kaustyti vežimai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
@@ -27,37 +18,40 @@ tags:
 Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“. Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis grandinėmis, patrankas, patrankėles, arbaletus ir daug turto.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Timūr-Kutluko totoriai paėmė gurguolę, geležinėmis grandinėmis kaustytus vežimus, patrankas, patrankėles, arbaletus ir daug turto.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vytautas 5 dienas stovėjo kitoje Vorsklos
@@ -70,15 +64,13 @@ Nenurodyta
     vimą, pareikalavo Lietuvos pinigus žymėti
     Ordos ženklais. Tuomet Vytautas įsakė
     savo kariams ruoštis kautynėms.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Timūr-Kutluko totoriai paėmė gurguolę, geležinėmis grandinėmis kaustytus vežimus, patrankas, patrankėles, arbaletus ir daug turto.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     O Vytauto
@@ -94,11 +86,9 @@ Nenurodyta
     rių įkalbėtas nesiduoti priešo paimamas
     Vytautas ir jo brolis Žygimantas bėgo,
     persėsdami nuo žirgo ant žirgo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -114,4 +104,5 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/zodynas/gurguolė]]

@@ -1,27 +1,16 @@
 ---
 tipas: saltinis
-pavadinimas: "Kurier Litewski"
-sukurta: '2026-05-14'
-variantai:
-  - "„Kurier Litewski“"
-aliases: []
+pavadinimas: 'Kurier Litewski'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-laikotarpis: "pradėjo eiti 1760 m."
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - "1760 m."
-periodas: ""
-periodo_grupes: []
+  - '1760 m.'
+date_start: '1760'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XVIII"
-date_start: "1760"
-date_end: "1760"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-14'
-tags: []
+  - 'XVIII'
 ---
 # Kurier Litewski
 
@@ -35,46 +24,55 @@ tags: []
 - Data: pradėjo eiti 1760 m.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "„Kurier Litewski“ pradėjo eiti 1760 m."
+  teiginys: '„Kurier Litewski“ pradėjo eiti 1760 m.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
-  teiginys: "„Kurier Litewski“ priskiriamas pirmiesiems Lietuvos laikraščiams."
+  teiginys: '„Kurier Litewski“ priskiriamas pirmiesiems Lietuvos laikraščiams.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-003
   teiginys: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pagrindžia laikraščio pavadinimą, datą ir pirmųjų Lietuvos laikraščių statusą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
+    LLV valdovu buvo išrinktas Stanislo-
+    vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
+    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
+    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
+    nijos ir sunaikinimo epocha.
+    Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
+    išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pir-
     mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LLV valdovu buvo išrinktas Stanislo-
+    vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
+    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
+    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
+    nijos ir sunaikinimo epocha.
+    Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
+    išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pir-
+    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-002

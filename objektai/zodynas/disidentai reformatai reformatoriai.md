@@ -27,24 +27,24 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-003
   teiginys: 'Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     293
@@ -66,7 +66,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -90,7 +90,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
@@ -151,7 +151,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -168,4 +168,3 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/Puslapis 77]]

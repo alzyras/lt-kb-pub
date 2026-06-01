@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Apaštalų Sostas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - miestas
@@ -27,25 +18,25 @@ tags:
 No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenktų bažnyčios, kurios globėjas mes esame, padė­ čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­ me. O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių. Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenktų bažnyčios, kurios globėjas mes esame, padė­ čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­ me.'
   pagrindžia:
     - c-001
+
 - t-002
-  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Norime, kad ponai vyskupai turėtų įgalioji­ mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto neaprobuotas santuokas, o paklusti nenorinčius bausti baž­ nytinėmis bausmėmis.'
+
+- t-003
+  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   pagrindžia:
-    - c-004
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenktų bažnyčios, kurios globėjas mes esame, padė­ čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­ me.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     374
@@ -74,16 +65,17 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     tas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Savo ir minėto miesto vardu [ta­
+    IV KNYGA
+    duonos formos miesto tarnams ir pareigūnams grasino kal­
+    bomis apie ekskomunikaciją, pažeisdama seną paprotį ir
+    miestui duotas privilegijas. Savo ir minėto miesto vardu [ta­
     rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos
     jurisdikcijos būtų laisvi ir atleisti. O prelatai ir kanauninkai
     savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
@@ -104,13 +96,11 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     kapitulai, jos turtui bei valdiniams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
@@ -130,36 +120,9 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     pagal įstatymus mestas ir išplatintas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Norime, kad ponai vyskupai turėtų įgalioji­ mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto neaprobuotas santuokas, o paklusti nenorinčius bausti baž­ nytinėmis bausmėmis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Venceslao Mednicensi Episcopis, nec non
-    402
-
-    ## Puslapis 419
-
-    IV KNYGA
-    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
-    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
-    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
-    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
-    se, dominijose. Norime, kad ponai vyskupai turėtų įgalioji­
-    mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto
-    neaprobuotas santuokas, o paklusti nenorinčius bausti baž­
-    nytinėmis bausmėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -171,6 +134,4 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
-- [[objektai/zodynas/Puslapis 77]]
-- [[objektai/zodynas/dominija]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]

@@ -25,13 +25,14 @@ Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloning
 ## Teiginiai
 
 - t-001
-  teiginys: 'Toje pat Dievo Kūno koplyčioje 1589 metų liepos 29 d. buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­ rimas ir kunigo Petro Skargos suteikta promocija sujungta 175 ## Puslapis 192 VILNIAUS MIESTO ISTORIJA I TOMAS su Dievo Kūno arkibrolija; funduota.'
+  teiginys: '1589 m. liepos 29 d. Dievo Kūno koplyčioje paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas ir Petro Skargos promocija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1589 m. liepos 29 d. Dievo Kūno koplyčioje paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas ir Petro Skargos promocija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mūrinius namus, kurie buvo skirti tos koplyčios paja­

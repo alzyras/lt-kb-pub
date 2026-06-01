@@ -1,25 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Užvolgio totoriai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1424 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1424'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
+amziai:
+  - 'XV'
 ---
 # Užvolgio totoriai
 
@@ -28,16 +22,15 @@ tags:
 1424 m. Vytauto pa­ siųstoji kariuomenė smarkiai sumušė Užvolgio totorius, kurie, vedami jų chano Chudandacho, buvo užpuolę Riazaniaus ir Odo­ jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1424 m. Vytauto pa­
@@ -49,11 +42,9 @@ tags:
     gaikščiui davė paramos jo žygiams į Pskovą bei Naugardą, ir
     per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
     važiavime1 2).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

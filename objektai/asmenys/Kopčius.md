@@ -20,13 +20,14 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio raštininko Kopčiaus galvą, ją pamovė ant mieto ir ėmė įžūliai tyčiotis iš likusių gyvųjų.'
+  teiginys: 'Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totoriai, nukirtę
@@ -58,3 +59,4 @@ Jis buvo ypač parankus ginant miestų sienas bei pilis ## Puslapis 81 žuvusio 
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/daiktai/Kablinis šautuvas]]
+- [[objektai/grupes/Totoriai]]

@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vudrau Vilsonas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -19,26 +16,34 @@ tags:
 Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Amerikos lietuviai paprašė prezidentą Vudrau Vilsoną 1916 m. lapkričio 1 d. paskelbti specialia diena Lietuvos karo aukoms.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Amerikos lietuviai paprašė prezidentą Vudrau Vilsoną 1916 m. lapkričio 1 d. paskelbti specialia diena Lietuvos karo aukoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
+    Rusijos revoliucija,
+    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
+    tiškai jie skilo: kai 1917 m. kovą Petrograde susirinko Lietuvių seimas,
+    revoliucijos euforijos apimtai kairei pasisakius už Lietuvos ateitį Rusijos
+    laisvų tautų federacijoje, aiškiai nepriklausomybės siekianti koservaty-
+    vioji dauguma apleido seimą.
+    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
+    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
+    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
+    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
+    klausimą. Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
     dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
     karo aukoms, jos metu surinkta 200 tūkst. dolerių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

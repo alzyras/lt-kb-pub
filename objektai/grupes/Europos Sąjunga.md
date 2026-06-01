@@ -26,42 +26,42 @@ amziai:
 
 ## Teiginiai
 
-- t-010
+- t-001
   teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
   pagrindžia:
     - c-010
 
-- t-007
+- t-002
   teiginys: 'Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarlamente – 12 europarlamentarų.'
   pagrindžia:
     - c-007
 
-- t-005
+- t-003
   teiginys: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
   pagrindžia:
     - c-005
 
-- t-003
+- t-004
   teiginys: '1991 m. rugsėjo 17 d. Lietuva priimta į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuotas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-005
   teiginys: 'Lietuvos aukštosios moky- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 255 klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-006
   teiginys: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-007
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-001
 
-- t-006
+- t-008
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
     - c-006
@@ -71,7 +71,7 @@ amziai:
   pagrindžia:
     - c-009
 
-- t-008
+- t-010
   teiginys: 'Įvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 21 Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis atkurti Nepriklausomybę.'
   pagrindžia:
     - c-008
@@ -93,7 +93,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-007
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -108,7 +108,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -127,7 +127,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -148,7 +148,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -164,7 +164,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -176,7 +176,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-008
 
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -193,7 +193,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-002
 
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -207,7 +207,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-010
 
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -243,7 +243,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-001
 
 - c-011
   santrauka: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'

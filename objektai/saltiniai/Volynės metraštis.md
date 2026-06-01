@@ -25,19 +25,19 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis — Krismence (ПСРЛ, 2, стб.'
+  teiginys: 'Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, apaštališkojo sosto legatas, atsiųstas į Lenkijos žemę, ir brolis Konradas iš Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams skriaudų šiose trijose minėtosios.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis — Krismence (ПСРЛ, 2, стб.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus
@@ -51,9 +51,9 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     501 D.— territorium Sudowie [...] Crasimam, Jer.— Crasim; Volynės metraštis —
@@ -63,4 +63,4 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

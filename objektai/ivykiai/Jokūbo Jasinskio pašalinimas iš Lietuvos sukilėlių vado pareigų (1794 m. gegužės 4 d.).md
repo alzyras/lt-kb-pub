@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1794'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - karas
   - sukilimas
+amziai:
+  - 'XVIII'
 ---
 # Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)
 
@@ -30,28 +24,31 @@ tags:
 uniforma Lietuvos pajėgų vadovybė Pirmojoje fazėje visų Lietuvos sukilėlių veiksmams vadovavo Vilniaus karo inžinerijos mokyklos viršininkas, pulkininkas Jokūbas Jasinskis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     uniforma
@@ -78,11 +75,9 @@ Nenurodyta
     iš Lenkijos atsiųstas generolas leitenan-
 
     tas Mykolas Velhorskis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

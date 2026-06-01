@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Liudvikas (Vengrijos karalius)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1345 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1345'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Liudvikas (Vengrijos karalius)
 
@@ -30,16 +26,15 @@ tags:
 1345 m. sausį į Prūsiją atvyko Čekijos karalius Jonas su savo sūnumi, Moravijos markgrafu Karoliu, Vengrijos karalius Liudvikas, Olandijos, Švarcburgo, Burbonės, Niurnbergo grafai - 200 valdovų ir kilmingųjų.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1345 m. sausį į Prūsiją atvyko Čekijos
@@ -51,11 +46,9 @@ tags:
     riuomenė įsiveržė į Lietuvą prie Nemuno
     pulti Veliuonos ir Pieštvės pilių. Iškilo
     grėsmė ir vidinėms Lietuvos žemėms.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

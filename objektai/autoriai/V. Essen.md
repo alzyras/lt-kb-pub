@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'V. Essen'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1934 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1934'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # V. Essen
 
@@ -27,16 +23,15 @@ tags:
 Essen, V.: Die länd­ lichen Siedlungen in Litauen, SBRiga, 1934.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'V. Essen 1934 m. paskelbė darbą apie kaimo gyvenvietes Lietuvoje.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'V. Essen 1934 m. paskelbė darbą apie kaimo gyvenvietes Lietuvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     -—-
@@ -50,10 +45,8 @@ Essen, V.: Die länd­ lichen Siedlungen in Litauen, SBRiga, 1934.
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944. — Essen, V.: _Die länd­
     lichen Siedlungen in Litauen,_ SBRiga, 1934. — Gerullis, J.: _Zur Sprache
     der Sudauer-Jätwinger,_ Festschrift für Ad.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

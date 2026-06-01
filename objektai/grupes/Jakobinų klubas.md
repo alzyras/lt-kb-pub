@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Jakobinų klubas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - sukilimas
@@ -19,27 +16,27 @@ tags:
 Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir jame kilo sumanymas rengti egzekuciją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir jame kilo sumanymas rengti egzekuciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
     eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
     navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
     teismą paskelbti minėtus mirties nuosprendžius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -47,3 +44,6 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
 ### Susiję objektai
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/jakobinizmas jakobinų klubas]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]

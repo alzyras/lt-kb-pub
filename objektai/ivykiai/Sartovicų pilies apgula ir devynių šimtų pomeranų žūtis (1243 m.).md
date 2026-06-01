@@ -42,20 +42,20 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė Apaštališkojo sosto legatas, nuolatos rūpindamasis tikėjimo reikalais ir dėl jų sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos kunigaikščiui pakenkti.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį Kai apie šiuos įvykius išgirdo minėtasis kunigaikštis, jis, nepaprastai irzdamas ir apie nieką kita negalvodamas, tik apie nuodingą kerštą, sušaukė visus Prūsijos žemės naujakrikščius, atsimetusius.'
   pagrindžia:
-    - c-001
+    - c-002
     - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     38. Apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė
@@ -68,9 +68,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį
@@ -91,7 +91,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -112,7 +112,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

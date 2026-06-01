@@ -31,16 +31,16 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 - t-001
   teiginys: 'Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Valakijos kunigaikščiai jo globos sie­ kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­ narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­ siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį Žygimantą Kaributaitį, savo sūnėną.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto
@@ -60,7 +60,7 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vytauto pavaduotojais Lietuvos ka-

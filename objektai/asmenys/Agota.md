@@ -1,31 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Agota (kunigaikščio žmona, XIII a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'valdovė Agota'
-  - 'Agotos'
-  - 'Agota'
-aliases:
-  - 'Agota'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-vaidmenys:
-  - 'kunigaikščio žmona'
 datos:
   - '1224 m.'
   - '1225 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1224'
 date_end: '1225'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Agota (kunigaikščio žmona, XIII a.)
 
@@ -34,63 +24,29 @@ tags:
 Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino broliais ir pritarianti žemių atidavimui Ordinui.
 
 ## Vaidmenys
+
 - kunigaikščio žmona
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino broliais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Dusburgietis teigia, kad minėtieji broliai, valdovės Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą, tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti, minėtuosius brolius mirtinai sužeidė ir daugybę žmonių.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino broliais.'
+  pagrindžia:
+    - c-003
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
-    - c-003
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Agota įvardijama kaip kunigaikščio žmona ir po mūšio rūpinasi sužeistais broliais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
-    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais. Minėtieji broliai, valdovės
-    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
-    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
-    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
-    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
-    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad minėtieji broliai, valdovės Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą, tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti, minėtuosius brolius mirtinai sužeidė ir daugybę žmonių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Minėtieji broliai, valdovės
-    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
-    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
-    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
-    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
-    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai. Broliai pagydyti protingai
-    užbaigė jiems patikėtą reikalą.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
@@ -113,11 +69,41 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
     šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Minėtieji broliai, valdovės
+    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
+    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
+    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
+    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
+    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai. Broliai pagydyti protingai
+    užbaigė jiems patikėtą reikalą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
+    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais. Minėtieji broliai, valdovės
+    Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo  į kovą,
+    tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti,
+    minėtuosius brolius mirtinai sužeidė ir daugybę žmonių išžudė, o su savimi nusivedė
+    sugautą lenkų kariuomenės vadą. Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
+    likusius pusgyvius brolius ir patikėti juos gydytojų priežiūrai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

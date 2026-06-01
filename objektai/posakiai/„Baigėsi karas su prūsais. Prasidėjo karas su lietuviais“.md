@@ -27,12 +27,12 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '1283 m. Dusburgas žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
   pagrindžia:
     - c-001
 
-- t-001
+- t-002
   teiginys: '1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
   pagrindžia:
     - c-001
@@ -62,7 +62,7 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   santrauka: 'Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais.'

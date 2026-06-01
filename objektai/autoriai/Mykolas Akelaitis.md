@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Mykolas Akelaitis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -18,16 +15,15 @@ tags:
 Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir išleido keletą liaudžiai naudingų lietuviškų knygų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mykolas Akelaitis kartu su Antanu Tatare parašė eilių ir išleido kelias liaudžiai naudingas lietuviškas knygas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mykolas Akelaitis kartu su Antanu Tatare parašė eilių ir išleido kelias liaudžiai naudingas lietuviškas knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia dar reikia paminėti ir lietuviškų kalendorių lei-
@@ -36,10 +32,8 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
     taičių. Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.)
     ir Mykolas Akelaitis (1828—1857 m.) parašė eilių ir
     išleido keletą liaudžiai naudingų lietuviškų knygų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

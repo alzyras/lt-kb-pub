@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Gegužkalnis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - vieta
@@ -25,16 +16,15 @@ tags:
 Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­ kaimį).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šis žygis, kuriame buvo daug svečių iš
@@ -45,10 +35,8 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
     paėmę keturias pilis (Kvėdarną, Gedimino pilį, Gegužkalnį, Au­
     kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
     šui padegus pilį, turėję pasiduoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

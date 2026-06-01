@@ -36,18 +36,18 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių, vardu Pagraudė544, kur, surengęs pasalas, o keletą vyrų pasiuntęs plėšti apylinkės, nukovė visus jį besivejančius raitelius, išskyrus šešis.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti tiek raitelių, kiek galėjo anksčiau.'
   pagrindžia:
+    - c-003
     - c-001
-    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą
@@ -62,7 +62,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Romainiai, kuris pagal jų papročius buvo laikomas šventuoju543, o visus gyventojus paėmė
@@ -76,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu. Kitą

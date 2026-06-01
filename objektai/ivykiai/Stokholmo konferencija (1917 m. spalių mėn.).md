@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Stokholmo konferencija (1917 m. spalių mėn.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1917 m.'
+date_start: '1917'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Stokholmo konferencija (1917 m. spalių mėn.)
 
@@ -31,16 +34,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1917 m. spalį antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir Lietuvos Tarybą pripažino visos lietuvių tautos atstovybe.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1917 m. spalį antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir Lietuvos Tarybą pripažino visos lietuvių tautos atstovybe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Stokholme buvo Rusijos ir Šveica-
@@ -48,11 +50,9 @@ Nenurodyta
     Vėliau, 1917 m. spalių mėn., antroji Stokholmo konferencija pri-
     tarė Vilniaus konferencijos programai ir pripažino Lietuvos Ta-
     rybą visos lietuvių tautos atstovybe.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

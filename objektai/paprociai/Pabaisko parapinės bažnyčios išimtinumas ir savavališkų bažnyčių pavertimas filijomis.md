@@ -39,12 +39,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
   pagrindžia:
     - c-001
@@ -81,7 +81,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -113,7 +113,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -28,54 +28,54 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 
 ## Teiginiai
 
-- t-008
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie Gardino pilies sunaikinimą 1284 viešpaties metais tas pats magistras, kuriam niekad nebuvo gana karų su netikėliais, sutelkė stiprią kariuomenę ir vasarą su vadovu Skomantu patraukė prieš Gardino pilį520; persikėlęs per Nemuną, jis išdėstė savo šaulius.'
   pagrindžia:
-    - c-008
+    - c-009
 
-- t-009
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Skomanto mirtį Štai koks iš aukščiausiojo malonės nuostabus atsivertimas ir pasikeitimas, štai Skomantas, anksčiau be saiko persekiojęs dievo bažnyčią, dabar tapo karštu tikėjimo gynėju ir garbingu krikščionių tautos vadu.'
   pagrindžia:
-    - c-009
+    - c-007
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
   pagrindžia:
-    - c-003
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
-  pagrindžia:
-    - c-006
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį Po to Skomantas442, įsibrovęs su sūduviais į Kulmo žemę, padalijo savo kariuomenę 439 Sūduviai puolė tarp 1263 m. balandžio pradžios ir 1264 m. sausio mėn, D.'
-  pagrindžia:
-    - c-002
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481.'
-  pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
+- t-004
+  teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
   pagrindžia:
-    - c-001
+    - c-008
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad be kita ko, sudegino Skomanto, galingo vyro bei šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu grobiu sugrįžo namo.'
+  teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį Po to Skomantas442, įsibrovęs su sūduviais į Kulmo žemę, padalijo savo kariuomenę 439 Sūduviai puolė tarp 1263 m. balandžio pradžios ir 1264 m. sausio mėn, D.'
   pagrindžia:
     - c-005
 
+- t-006
+  teiginys: 'Dusburgietis teigia, kad įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481.'
+  pagrindžia:
+    - c-006
+
 - t-007
+  teiginys: 'Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.) vėl bandė sukilti prieš kryžiuočius, sūduvių kunigaikščio Skomanto vadovaujama galinga sūduvių ir lietuvių kariuomenė siaubė (1277 m.) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
+  pagrindžia:
+    - c-003
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad be kita ko, sudegino Skomanto, galingo vyro bei šio valsčiaus vado, sodybą502 ir, paėmęs į nelaisvę ar išžudęs 150 žmonių, su didžiausiu grobiu sugrįžo namo.'
+  pagrindžia:
+    - c-001
+
+- t-009
   teiginys: 'Dusburgietis teigia, kad skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams.'
   pagrindžia:
-    - c-007
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų
@@ -90,9 +90,9 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-008
 
-- c-007
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kurį metą ten pagyvenęs, sugrįžo, nepakeldamas
@@ -108,9 +108,9 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-009
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto Lietuva ir toliau liko pagrindinė,
@@ -123,9 +123,9 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-007
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
@@ -142,7 +142,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindžia:
     - t-003
 
-- c-002
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
@@ -166,9 +166,9 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-004
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     kelią, užpuldavo juos ir sumušdavo, daugybę išžudydamas, o kitus išsklaidydamas; jis tiek
@@ -184,9 +184,9 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-009
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     224 (219). Apie Skomanto mirtį
@@ -203,9 +203,9 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-002
 
-- c-006
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo
@@ -218,9 +218,9 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-008
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     223 (218). Apie Gardino pilies sunaikinimą
@@ -235,7 +235,7 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
 
 - c-010
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams, būtent: Eimsutis ir dar viena Galop Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene445 9 dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'

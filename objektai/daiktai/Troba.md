@@ -1,25 +1,10 @@
 ---
 tipas: daiktas
-pavadinimas: Troba
-sukurta: '2026-04-30'
-variantai:
-  - 'svetlyčia'
-aliases: []
+pavadinimas: 'Troba'
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Troba
 
@@ -32,41 +17,42 @@ Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti. Troboje bu
 - `svetlyčia`
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
   pagrindžia:
     - c-001
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.'
   pagrindžia:
     - c-002
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
   pagrindžia:
     - c-003
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ketvirtasis trobesys buvo trobos, arba svetlyčia, kame svečius žiemą vaišino, taip pat
         pailguotinas ketvirtainis, kurio gyvenamasis galas visados buvo į rytus ar pietus atsuktas; it pusėj
@@ -76,16 +62,14 @@ Nenurodyta
         didžiosioms; rūme pas mažąsias duris vadinos virenė, arba kuknė^221 , o rūme pas didžiąsias duris
         vadinos priemenė nuo žodžio pirma minti, kurioje buvo trejos durys be didžiųjų, beje; vienos į
         kuknę, antros į trobą, o trečiosios į priešininkę^222 , nuo žodžio prieš, jog prieš trobos duris buvo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Troboje, kurioje, kaip sakiau, žiemą tegyveno, turėjo tris keturis šalutinėj sienoj stiklo langus, o
         du trobos gale. Į saulėtekį buvo alkierius^223 , arba svečio troba, kursai užėmė pusę trobos
@@ -95,16 +79,14 @@ Nenurodyta
         išvesta, kuri buvo ant trobos lubų molio kaušu apgobta, idant kibirkštys į stogą nelėktų. Po ta
         skyle trobos asloj buvo apvalus ir slesnas^225 akmuo, ant trinkos ąžuolo padėtas, kurį išaušus į
         trobos kertę galėjo paristi ar laukan išnešti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Prie to žiburio
         motriškosios verpė, vyriškieji, liepas mižodami^227 , lunkus plėšė, virves vijo, tinklus mezgė žuvims
@@ -113,11 +95,9 @@ Nenurodyta
         veikalus savo tautos. Jei troboje stiklo langų nebuvo, tad galutinėj ir šalutinėj sienoje buvo į
         juostos mierą langelis, per uolektį rąste išpjautas ir iš vidaus su lentele užšaunamas; tokią trobą
         vadina Kalne seklyčia, arba sauklėčia, nuo žodžių sau ir klėsti, beje: kame žmonės save nuo
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -126,6 +106,4 @@ Nenurodyta
 - [[objektai/daiktai/Juostos]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]
 - [[objektai/paprociai/Kovų vietų neliečiamumas]]
-- [[objektai/daiktai/Žibintojas]]

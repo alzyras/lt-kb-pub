@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Brandskugeliai karkasai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1794'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - sąvoka
+amziai:
+  - 'XVIII'
 ---
 # Brandskugeliai karkasai
 
@@ -28,16 +22,15 @@ tags:
 Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais sviediniais (iki raudonumo įkaitinti metaliniai sviediniai arba iš ketaus pagaminti tuščiaviduriai sviediniai, užpildyti padegamuoju.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
@@ -68,11 +61,9 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
     niame maiše
 
     1794 m. balandis-liepa KOVOS DĖL VILNIAUS 151
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

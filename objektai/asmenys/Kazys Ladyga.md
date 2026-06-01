@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kazys Ladyga'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1893 m.'
   - '1941 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1893'
 date_end: '1941'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - karas
+amziai:
+  - 'XIX'
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Kazys Ladyga
 
@@ -31,16 +27,15 @@ tags:
 Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai, ginkluoti Mosin-Nagant šautuvais ## Puslapis 195 Kazys Ladyga (1893-1941) 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare, buvo du kartus sužeistas. Ladyga neturėjo vieningos nuomonės dėl priemonių, kurių reikėtų imtis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kazys Ladyga 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare ir buvo du kartus sužeistas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kazys Ladyga 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare ir buvo du kartus sužeistas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Paveiksle pavaizduoti
@@ -59,11 +54,9 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
     riuomenės dalinių organizavimo. Tapo 1-ojo pėsti- |
     ninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |
     1919 m. gegužę paskirtas Ukmergės grupės vadu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

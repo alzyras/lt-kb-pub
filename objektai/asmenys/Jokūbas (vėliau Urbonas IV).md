@@ -80,7 +80,6 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Prancūziškoji partija]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/zodynas/kultūrinė autonomija]]

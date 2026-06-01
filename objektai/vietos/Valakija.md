@@ -1,28 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Valakija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1431 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
 date_start: '1431'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - mūšis
   - vieta
+amziai:
+  - 'XV'
 ---
 # Valakija
 
@@ -31,20 +24,34 @@ tags:
 Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Bet tai nė akimirkai nesustab­
+    dė tarp Lenkijos ir Lietuvos prasidėjusių vaidų. Galingą są­
+    jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
+    vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
+    Lietuva ir valakais, o 1431 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lengvieji
@@ -62,26 +69,8 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
     dinių kovų draskomą Moldaviją ir Valakiją
     bei plėsti savo ekspansiją toliau į Lenkijai
     priklausiusios Ukrainos teritoriją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Bet tai nė akimirkai nesustab­
-    dė tarp Lenkijos ir Lietuvos prasidėjusių vaidų. Galingą są­
-    jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
-    vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
-    Lietuva ir valakais, o 1431 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

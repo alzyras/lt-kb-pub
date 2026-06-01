@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
+  teiginys: 'Anglų lankininkų narsa ir sumanumas mūšiuose prisidėjo prie didelių Lietuvos smūgių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Anglų lankininkų narsa ir sumanumas mūšiuose prisidėjo prie didelių Lietuvos smūgių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto visi

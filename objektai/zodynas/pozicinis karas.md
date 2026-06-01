@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '„Prasidėjo pozicinis karas.'
+  teiginys: 'Poziciniame kare kariai buvo įsitvirtinę apkasuose priešingose upelio pusėse ir šaudė vieni į kitus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Poziciniame kare kariai buvo įsitvirtinę apkasuose priešingose upelio pusėse ir šaudė vieni į kitus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Prasidėjo pozicinis karas. [...] Lenkai buvo įsitvirtinę anapus upelio aukštumoj, 0

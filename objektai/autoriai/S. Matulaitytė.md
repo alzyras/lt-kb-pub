@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'S. Matulaitytė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1969 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1969'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # S. Matulaitytė
 
@@ -28,16 +24,15 @@ tags:
 Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete XVIII a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     A. Šidlauskas
@@ -48,11 +43,9 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
     nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
     t. 29, 1969, 69-83 p.) ir astronomijos observatorijos įsteigimą (Ak­
     MD, t. 30, 1969, 121-129 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,29 +1,26 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vosylius I'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1389 m.'
   - '1425 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 date_start: '1389'
 date_end: '1425'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vosylius I
 
@@ -32,30 +29,66 @@ tags:
 Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I (1389-1425), su kuriuo oficialiai laikėsi taikos. Tokia Vosyliaus laikysena paskatino Vytautą pradėti prieš žentą karo veiksmus, kurie užsitęsė trejus metus (1406-1408).
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Vosyliaus I laikysena paskatino Vytautą pradėti prieš žentą karo veiksmus, trukusius 1406-1408 m.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: '(^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­ tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.'
+  pagrindžia:
     - c-003
-- t-004
+
+- t-003
   teiginys: 'Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­ lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun. Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­ tautui globoti.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Vosyliaus I laikysena paskatino Vytautą pradėti prieš žentą karo veiksmus, trukusius 1406-1408 m.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    (^1) ) L. E. K. U., VII, 222 nr.
+    (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
+    tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
+    sūnų (įpėdinį) Vosylių II, žmoną ir vaikus. Pirmą kartą jis tai padarė
+    prieš 1422 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Žinoma, nereikia tikėti, kad toks didelis lenkų pasiprieši­
+    nimas Liubičo klausime ir dėl atidavimo Ordinui Palangos rodė
+    jų tikrą susirūpinimą Lietuvos reikalais: jie visa tai darė to­
+    dėl, kad bijojo artimesnio Vytauto bendravimo su Ordinu, ku­
+    ris jau seniai varė agitaciją prieš uniją. Ta baimė ypač didėjo,
+    kai jo įtaka dar labiau ėmė stiprėti rytuose: tuo metu totoriai,
+    kurių chanai kėlė ginčus tarp savęs, kreipėsi į Vytautą pagal­
+    bos, nes paskutiniuoju dešimtmečiu Vytauto valdžia buvo
+    smarkiai sustiprėjusi^4 ). Tuo pačiu metu dar įvyko vienas svar­
+    bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­
+    lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.
+    Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­
+    tautui globoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
@@ -66,15 +99,13 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
     tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
     Tverės kunigaikštį Mykolą10 11.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vosyliaus I laikysena paskatino Vytautą pradėti prieš žentą karo veiksmus, trukusius 1406-1408 m.'
+    - t-002
+
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gavęs paramos iš
@@ -84,42 +115,9 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     žentą karo veiksmus, kurie užsitęsė trejus metus (1406-1408). Ir
     Kęstutaitis, kaip kitados jo dėdė Algirdas, tris kartus traukė prieš
     Maskvą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '(^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­ tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    (^2) ) Vosylius I (1389—1425), Dimitro Donskoj sūnus, Vytauto žen­
-    tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
-    sūnų (įpėdinį) Vosylių II, žmoną ir vaikus. Pirmą kartą jis tai padarė
-    prieš 1422 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­ lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun. Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­ tautui globoti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo pačiu metu dar įvyko vienas svar­
-    bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­
-    lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.
-    Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­
-    tautui globoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 

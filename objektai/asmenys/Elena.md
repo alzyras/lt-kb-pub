@@ -1,40 +1,22 @@
 ---
 tipas: asmuo
-pavadinimas: "Elena"
-sukurta: '2026-05-27'
-variantai:
-  - Elena
-  - Eleną
-  - Elenos
-  - karalienė Elena
-  - ponia Elena
-  - didžioji Lietuvos, Rusios, Žemaitijos kunigaikštienė
-aliases:
-  - karalienė Elena
+pavadinimas: 'Elena'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1495-1513 m. Aleksandro Jogailaičio ir Vilniaus istorijos kontekstas"
-vaidmenys:
-  - karalienė
-  - didžioji kunigaikštienė
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1494 m.'
   - '1513 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1494'
+date_end: '1513'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - karalienė
 amziai:
   - 'XV'
   - 'XVI'
-date_start: '1494'
-date_end: '1513'
-patikimumas: vidutinis
-atnaujinta: '2026-05-27'
-tags:
-  - karalienė
+periodo_grupes:
+  - 'LDK'
 ---
 # Elena
 
@@ -43,6 +25,7 @@ tags:
 Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro žmona. Ji atvyko į Vilnių, buvo sutuokta su Aleksandru, jos santuoka siejama su Vilniaus prekybos ryšių plėtra, o vėlesni dokumentai mini jai skirtas dovanas, globą ir mirtį Vilniuje.
 
 ## Variantai
+
 - Elena
 - Eleną
 - Elenos
@@ -51,6 +34,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - didžioji Lietuvos, Rusios, Žemaitijos kunigaikštienė
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1495-1513 m. Aleksandro Jogailaičio ir Vilniaus istorijos kontekstas
 - datos: 1495 m.; 1501 m.; 1503 m.; 1510 m.; 1513 m.
 - periodas: ankstyvieji_naujieji_laikai
@@ -59,93 +43,95 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - date_end: 1513
 
 ## Vaidmenys
+
 - karalienė
 - didžioji kunigaikštienė
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus."
+  teiginys: 'Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio."
+  teiginys: '1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena."
+  teiginys: 'Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais."
+  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.'
   pagrindžia:
     - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-005
-  teiginys: "Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių."
+  teiginys: 'Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.'
   pagrindžia:
     - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-006
-  teiginys: "Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams."
+  teiginys: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą Maskvos bojarinams ir pasiuntiniams.'
   pagrindžia:
     - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
+- t-007
+  teiginys: '1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises.'
+  pagrindžia:
+    - c-008
+
 - t-009
-  teiginys: "1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui."
-  pagrindžia:
-    - c-009
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
-  pagrindžia:
-    - c-010
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-011
   teiginys: 'Tarp jų kilo audringi vaidai ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­ tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­ džiąją kunigaikštytę Eleną.'
   pagrindžia:
-    - c-011
-- t-012
-  teiginys: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
-  pagrindžia:
-    - c-012
-- t-013
-  teiginys: 'Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42.'
-  pagrindžia:
     - c-013
-- t-014
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
-  pagrindžia:
-    - c-014
-- t-015
-  teiginys: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
-  pagrindžia:
-    - c-015
-- t-016
-  teiginys: 'Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­ sios ponios Elenos, Dievo malone didžiosios kunigaikštie­ nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­ kimybe, norėdami ją mūsų malone ir.'
-  pagrindžia:
-    - c-016
-- t-017
-  teiginys: 'Taigi visą minėtą turtą ir aiškiai išvardintus dvarus didžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­ siajai Elenai davėme, dovanojome ir šiuo raštu duodame, dovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­ sam laikui su visais žmonėmis ir.'
-  pagrindžia:
-    - c-017
-- t-018
+
+- t-010
   teiginys: 'Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­ damas į šviesiausiosios karalienės, mūsų brangiausiosios žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, jai.'
   pagrindžia:
-    - c-018
+    - c-016
+
+- t-011
+  teiginys: 'Taigi visą minėtą turtą ir aiškiai išvardintus dvarus didžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­ siajai Elenai davėme, dovanojome ir šiuo raštu duodame, dovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­ sam laikui su visais žmonėmis ir.'
+  pagrindžia:
+    - c-014
+
+- t-012
+  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  pagrindžia:
+    - c-012
+
+- t-013
+  teiginys: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
+  pagrindžia:
+    - c-011
+
+- t-014
+  teiginys: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
+  pagrindžia:
+    - c-009
+
+- t-015
+  teiginys: 'Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­ sios ponios Elenos, Dievo malone didžiosios kunigaikštie­ nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­ kimybe, norėdami ją mūsų malone ir.'
+  pagrindžia:
+    - c-015
+
+- t-016
+  teiginys: 'Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42.'
+  pagrindžia:
+    - c-010
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Elena identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro būsima žmona.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
@@ -158,16 +144,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Elenos atvykimas į Vilnių ir Aleksandro sutikimas prie Nemėžio.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
@@ -186,16 +169,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
     tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
     bėjo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Aleksandro ir Elenos sutuokimo scena.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
@@ -206,16 +186,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­
     tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­
     linę vyno42.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: Elenos santuoka su Aleksandru siejama su Vilniaus prekyba.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     III KNYGA
@@ -228,16 +205,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
     tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
     tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: Elena lydėjo paliegusį Aleksandrą į Vilnių.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
@@ -250,16 +224,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
     Laskis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
-  santrauka: Elenos namas Vilniaus pilyje Maskvos bojarinams ir pasiuntiniams.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet, kai totoriai didele
@@ -281,16 +252,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     dešimt kapų amžina teise", Vilniu­
     je, vasario 12-tą dieną, 12 indikte, su
     antspaudu. Raidė aa.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-006
-- c-009
-  santrauka: 1503 m. Mogiliavo pilies dovanojimas Elenai iki gyvos galvos.
+
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ponas
@@ -312,16 +280,13 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     rais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla-
     vimu, malūnais ir jų produktais, apskritai, su visais priklau-
     siniais, priedėliais ir visais priedais, kad ir kokiu vardu jie
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: Aleksandro testamente Elenos globa ir teisių apsauga pavedama Žygimantui ir tarėjams.
+    - t-007
+
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tą gyvasties dvasią ir sielą Die­
@@ -355,39 +320,20 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     šviesiausiąją kunigaikštienę ir mūsų žmoną ponią Eleną, di­
     džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
     mų bei teisių globą (protectio).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Tarp jų kilo audringi vaidai ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­ tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­ džiąją kunigaikštytę Eleną.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    229
-
-    ## Puslapis 246
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
-    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
-    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
-    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
-    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
+    - t-008
+
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
     O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
     terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
     tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
@@ -401,13 +347,11 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     bėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
-- c-013
-  santrauka: 'Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42.'
+    - t-014
+
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislovo katedrą. Ten Vaitiekus Taboras, Vilniaus
@@ -420,32 +364,11 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     42 daugelyje rusų metraščių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-014
-  santrauka: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ) anoji sutartis su caru
-    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
-- c-015
-  santrauka: 'Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės 48 Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė metais, palaidota graikų apeigų kopdalį Švč.'
+    - t-016
+
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
@@ -463,37 +386,52 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     jams, ir miestiečiai darėsi turtingesni.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-016
-  santrauka: 'Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­ sios ponios Elenos, Dievo malone didžiosios kunigaikštie­ nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­ kimybe, norėdami ją mūsų malone ir.'
+    - t-013
+
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Po­
-    nas ir tėvonis. Šiuo raštu skelbiame visiems, kam dabar ar
-    ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­
-    sios ponios Elenos, Dievo malone didžiosios kunigaikštie­
-    nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­
-    kimybe, norėdami ją mūsų malone ir geradarybe
-    pradžiuginti ir ja pasirūpinti, jai ir jos palikuonims [dova­
-    nojame] turtus ar dvarus su visomis žemėmis, vadinamus
-    Kniazičiai ir Teterinas, bei pilį, vadinamą Popova Hura, ku­
-    riuos anksčiau valdė Seisla vo* kunigaikštis Ivanas Jurgėvi-
-    čius, ir kitas valdas, nuo seno priklausančias tiems patiems
-    *
-    Mstislavlis (vert.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-017
-  santrauka: 'Taigi visą minėtą turtą ir aiškiai išvardintus dvarus didžiajai kunigaikštienei, mūsų brangiausiai žmonai švie­ siajai Elenai davėme, dovanojome ir šiuo raštu duodame, dovanojame, užrašome jai ir jos įpėdiniams amžinai ir vi­ sam laikui su visais žmonėmis ir.'
+    - t-012
+
+- c-013
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    229
+
+    ## Puslapis 246
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
+    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
+    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
+    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
+    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat [dovanojame] turtą, va­
@@ -533,19 +471,41 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     donandum, alienandum, et in suos, suorumque succesorum
     usus beneplacitos convertendum, prout sibi, et suis legitimis
     successoribus, melius, et utilius, consultiusque videbitur ex­
-    pedire.
+    pedire. In quorum omnium fidem, et robur praesentibus si­
+    gillum nostrum est subappensum.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-017
-- c-018
-  santrauka: 'Šiuo raštu skelbiame visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­ damas į šviesiausiosios karalienės, mūsų brangiausiosios žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė, jai.'
+    - t-011
+
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Amžinai dalykų atminčiai. Šiuo raštu skelbiame
+    Po­
+    nas ir tėvonis. Šiuo raštu skelbiame visiems, kam dabar ar
+    ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­
+    sios ponios Elenos, Dievo malone didžiosios kunigaikštie­
+    nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­
+    kimybe, norėdami ją mūsų malone ir geradarybe
+    pradžiuginti ir ja pasirūpinti, jai ir jos palikuonims [dova­
+    nojame] turtus ar dvarus su visomis žemėmis, vadinamus
+    Kniazičiai ir Teterinas, bei pilį, vadinamą Popova Hura, ku­
+    riuos anksčiau valdė Seisla vo* kunigaikštis Ivanas Jurgėvi-
+    čius, ir kitas valdas, nuo seno priklausančias tiems patiems
+    *
+    Mstislavlis (vert.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-016
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ponas
+    ir tėvonis. Amžinai dalykų atminčiai. Šiuo raštu skelbiame
     visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­
     damas į šviesiausiosios karalienės, mūsų brangiausiosios
     žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir
@@ -579,11 +539,9 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-018
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -621,7 +579,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - [[objektai/asmenys/Mendli Girėjus]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Nogajaus orda]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
 - [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
 - [[objektai/posakiai/Vendimus abscedimus, et resignamus]]

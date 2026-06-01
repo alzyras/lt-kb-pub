@@ -18,12 +18,12 @@ tags:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Pripažįstame šios Dievo apvaizdai padedant mūsų funduotos ir apdovanotos kolegijos administravimą, valdymą ir vadovavimą taip, kaip šventojo Tridento pasi­ tarimo dekrete ir nutarime mums yra pavesta, ir paminėtą administravimo būdą kuo tiksliausiai siekiame.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Šven­ tasis ekumeninis Tridento Sinodas nusprendė, kad norint išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­ vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai gyvuojančią.'
   pagrindžia:
     - c-001
@@ -51,7 +51,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -82,4 +82,4 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

@@ -1,19 +1,11 @@
 ---
 tipas: asmuo
 pavadinimas: 'Teodoras (Liubarto sūnus)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -25,60 +17,29 @@ tags:
 Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Kaip bėglys, prie jo pri­ sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis Teodoras Karijotaitis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.'
-  pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
+
+- t-002
   teiginys: 'Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Toje pietinėje valstybės dalyje buvo padaryta ir kitų žymių
-    atmainų. Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
-    Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet
-    Liubartaitis taip pat pabėgo Vengrijon^6.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
-    Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet
-    Liubartaitis taip pat pabėgo Vengrijon^6. Kaip bėglys, prie jo pri­
-    sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
-    Teodoras Karijotaitis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Pritariamas Jogailos, jis pirmiausia atėmė valdomą
+    Bet Vytautas su jais nedarė ilgų ce­
+    remonijų. Pritariamas Jogailos, jis pirmiausia atėmė valdomą
     Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
     Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
     štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
@@ -88,9 +49,34 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     stovos, jų valdžią silpnino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Toje pietinėje valstybės dalyje buvo padaryta ir kitų žymių
+    atmainų. Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
+    Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet
+    Liubartaitis taip pat pabėgo Vengrijon^6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos
+    Vladimirą, bet jį paskyrė vietininku į Naugardą - Sieverską. Bet
+    Liubartaitis taip pat pabėgo Vengrijon^6. Kaip bėglys, prie jo pri­
+    sijungė ir trečias Gedimino anūkas, buvęs Podolės kunigaikštis
+    Teodoras Karijotaitis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'K. Forstreuter, Die Entwicklung der Grenze zwischen Preussen und Litauen seit 1422'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1422 m.'
   - '1941 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1422'
+date_end: '1941'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XV'
   - 'XX'
-date_start: '1422'
-date_end: '1941'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - saltinis
 ---
 # K. Forstreuter, Die Entwicklung der Grenze zwischen Preussen und Litauen seit 1422
 
@@ -29,18 +23,15 @@ tags:
 Forstreuter, K.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Forstreuterio „Die Entwicklung der Grenze zwischen Preussen und Litauen seit 1422“ 1941 m. paskelbtas AF 18 tome, 50–70 puslapiuose.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'K. Forstreuterio „Die Entwicklung der Grenze zwischen Preussen und Litauen seit 1422“ 1941 m. paskelbtas AF 18 tome, 50–70 puslapiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^362) III skyrius: valstybės suklestėjimas
@@ -53,10 +44,8 @@ Forstreuter, K.
     — (”) _Melno taika_ , LE, t. 18, 172-175 p. — (”) _Russdorf Paul von,_ LE,
     t. 26, 170-171 p. — Krochnert, E.: _Die deutsch-russische Grenze von
     Eydtkuhnen bis Soldau.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

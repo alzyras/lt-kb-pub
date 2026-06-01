@@ -1,39 +1,25 @@
 ---
-tipas: "vieta"
-pavadinimas: "Žemaičių jūra"
-sukurta: '2026-04-30'
-variantai:
-  - "Žemaičių jūra"
-  - "Žemaičių jūros"
-  - "Rusų mare"
-  - "Žemaičių jūroje"
-  - "Žemaičių jūroj"
-aliases: []
+tipas: vieta
+pavadinimas: 'Žemaičių jūra'
 saltiniai:
-  - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
-bukle: "juodrastis"
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 datos:
   - '1561 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
 date_start: '1561'
 date_end: ''
-patikimumas: "aukstas"
-atnaujinta: '2026-04-30'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVI'
 ---
 # Žemaičių jūra
 
 ## Santrauka
+
 Žemaičių jūra per 1000 metų nuseko kelias uolektis. Į Žemaičių jūrą tekėjo šiaurinės upės.
 
 ## Pavadinimai šaltiniuose
+
 - Žemaičių jūra
 - Žemaičių jūros
 - Rusų mare
@@ -41,137 +27,119 @@ tags: []
 - Žemaičių jūroj
 
 ## Laikotarpis ir datos
+
 - datos: 1561 m.
 - tipas: jūra
 
 ## Kas tai
+
 Žemaičių jūra minima kaip svarbus jūrinis telkinys, kurio lygis per šimtmetį kito ir į kurį tekėjo šiaurinės upės. ; Žemaičių jūra minima kaip šiaurinė erdvė, kurioje vyko karės, audros ir prekybos judėjimas. ; Žemaičių jūra šiame gabale pateikiama kaip prekybos ir valdžios plotas tarp Narvos ir Oderio ribų.
 
+## Pastabos
+
+galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta kaip atskiras jūros vardas.
+
 ## Teiginiai
-- t-007
-  teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės upės.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
-  pagrindžia:
-    - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
-  pagrindžia:
-    - c-004
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-011
+
+- t-001
   teiginys: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
   pagrindžia:
     - c-005
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-012
-  teiginys: 'Per Žemaičių jūrą lietuvių prekyba padidėjo, o Lietuvos ūkės rėda ketino joje įkurti laivyną.'
+
+- t-002
+  teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės upės.'
   pagrindžia:
-    - c-006
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-013
+    - c-002
+
+- t-003
   teiginys: '- publicnote: - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean - vietasaltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.'
   pagrindžia:
-    - c-007
+    - c-006
+
+- t-004
+  teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
+  pagrindžia:
+    - c-004
+
+- t-006
+  teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
-    per 1000 metų yra per kelias uolektis nusekusi.
-  citata_rodoma: ""
+        per 1000 metų yra per kelias uolektis nusekusi.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+
 - c-002
-  santrauka: 'Į Žemaičių jūrą tekėjo šiaurinės upės.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
-    Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
-  citata_rodoma: ""
+        Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-002
+
 - c-003
-  santrauka: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    nuo ko ne vien pati sala Rusnės
-    vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
-    gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
-  citata_rodoma: ""
+    - status: unused
+    - claim_role: new_claim
+    - kategorija: vieta
+    - kandidatas: Parusis
+    - potencialus_teiginys: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: match: normalized_whitespace
+    - santrauka: Žemaičių kraštas tarp Išlos ir Nemuno buvo vadinamas Prūsais arba Parusais.
+    - pagrindzia:
+    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
+      citata_originali: |
+        Kiti vadino Žemaičių kraštą, pajūry esantį, tarp upės Išlos ir Nemuno, Prūsais, arba Parusais, nuo didžiai garsios žinyčios, senovėj Nemuno įtakos saloje
+        buvusios, kurioje žinyčioj amžina ugnis ant dievo garbės rusėjo, nuo ko ne vien pati sala Rusnės vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
+        gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-004
+
 - c-004
-  santrauka: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt
-    klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
-  citata_rodoma: ""
+    Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-005
+
 - c-005
-  santrauka: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms
-    kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
-  citata_rodoma: ""
+    Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-011
+    - t-001
+
 - c-006
-  santrauka: 'Per Žemaičių jūrą lietuvių prekyba padidėjo, o Lietuvos ūkės rėda ketino joje įkurti laivyną.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    pasidavus Padaugavio vokiečiams į lietuvių globą, jų prekyba per jūrą dar didinos taip, jog Lietuvos
-    ūkės rėdą^1452 ketėjo^1453 jau laivynę^1454 Žemaičių jūroj įkurti, nesgi nuo Narvos upės lig pat mažne
-    Oderio upės į valdžią visas pašalys Žemaičių jūros vėl pagrįžo lietuvių, kaip pirm 300 metų buvo
-    buvęs; todėl prekyba per Žemaičių jūrą pasididino: kaipogi leido tenai linus, javus, kanapes, kailius,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-- c-007
-  santrauka: '- publicnote: - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean - vietasaltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     ## customs-karinio-pasirengimo-ziemos-zygiams-tvarka-002
@@ -183,12 +151,9 @@ tags: []
     - public_note:
     - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
     - vieta_saltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.
+    - santrauka: Karo žygiai paprastai būdavo rengiami žiemą, kai versmės ir upės pašąla.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-## Pastabos
-galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta kaip atskiras jūros vardas.
+    - t-003

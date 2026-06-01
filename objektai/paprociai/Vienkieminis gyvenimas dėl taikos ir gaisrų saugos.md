@@ -1,24 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vienkieminis gyvenimas dėl taikos ir gaisrų saugos'
-sukurta: '2026-04-30'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Vienkieminis gyvenimas dėl taikos ir gaisrų saugos
 
@@ -30,6 +16,7 @@ Autorius teigia, kad ši vienkieminio gyvenimo praktika jo laiku dar tebebuvo gy
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: socialinė praktika
 
 ## Atlikimas
@@ -42,35 +29,31 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Kai kur Žemaičiuose, Kurše, Parusyje ir Kalne lietuviai dar gyveno atsiskyrę vienkiemiuose.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Kai kur Žemaičiuose, Kurše, Parusyje ir Kalne lietuviai dar gyveno atsiskyrę vienkiemiuose.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai kur Žemaičiuose, Kurše, Parusyje ir Kalne lietuviai dar gyveno atsiskyrę vienkiemiuose.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip šiandien dar daugioj vietoj tikrieji lietuviai tebgyvena atsikieminėję savo vienkiemiuose
         Žemaičiuose, Kurše, Parusy bei Kalne.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-002
-  santrauka: 'Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
@@ -80,13 +63,11 @@ Nenurodyta
         negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
         antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
         remti ar antram pagalbą duoti, jei to būt reikę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -22,21 +22,21 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 - t-001
   teiginys: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
+  pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
+  teiginys: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
   pagrindžia:
     - c-003
 
-- t-002
-  teiginys: '„Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sistemos keitimą, o tautiniu klausimu pasisakyta atsargiai.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
@@ -52,9 +52,9 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Giedrius Reimeris, Algimantas
@@ -73,7 +73,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
@@ -89,7 +89,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-004
   santrauka: 'Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.'

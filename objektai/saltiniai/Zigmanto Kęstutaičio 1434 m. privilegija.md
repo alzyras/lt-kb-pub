@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Zigmanto Kęstutaičio 1434 m. privilegija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - privilegija
   - saltinis
@@ -20,24 +17,20 @@ tags:
 Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr. Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naujų teisinių normų
@@ -47,24 +40,23 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
     Kazimiero privilegija (žiūr. 180 psl.). Pirmasis bandymas įstaty-
     mus kodifikuoti buvo padarytas 1468 m., išleidus vadinamąjį Ka-
     zimiero Teisyną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Zigmanto Kęstutaičio privilegija suly-
-    gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
-    vietų jie vis tiek negalėjo gauti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos valsty-
+    bės ribose buvo daug ir pravoslavų, kurių dvasininkai betgi neturėjo
+    jokių politinių teisių. 1387 ir 1413 m. privilegijos pravoslavams ne-
+    leido gauti valstybinių vietų. Zigmanto Kęstutaičio privilegija suly-
+    gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
+    vietų jie vis tiek negalėjo gauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

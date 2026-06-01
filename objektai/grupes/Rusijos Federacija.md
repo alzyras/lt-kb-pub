@@ -27,25 +27,25 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl nepriklausomybės.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru įstojo į SSRS ir kad SSRS dėl savo ano meto.'
   pagrindžia:
     - c-004
 
-- t-003
+- t-004
   teiginys: '1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 257 roje atskyrimo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -65,9 +65,9 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
@@ -78,9 +78,9 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Demokratinė Rusija, kaip ir
@@ -95,7 +95,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -109,7 +109,7 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-005
   santrauka: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'

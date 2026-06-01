@@ -1,39 +1,18 @@
 ---
 tipas: grupe
-pavadinimas: "Lietuvos laisvės kovos sąjūdis"
-sukurta: '2026-05-14'
-variantai:
-  - 'LLKS'
-  - 'Sąjūdis'
-  - 'Lietuvos laisvės kovų sąjūdis'
-aliases:
-  - 'LLKS Tarybos prezidiumas'
+pavadinimas: 'Lietuvos laisvės kovos sąjūdis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-bukle: juodrastis
-laikotarpis: "1948-1953 m."
-vaidmenys:
-  - 'centralizuota ginkluoto ir politinio pasipriešinimo organizacija'
-dalyviai: []
-susije_irasai: []
 datos:
   - '1945 m.'
-  - '1948 m.'
-  - '1949 m.'
-  - '1953 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1945'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1945'
-date_end: '2026'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-14'
-tags: []
 ---
 # Lietuvos laisvės kovos sąjūdis
 
@@ -72,135 +51,63 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
 - susiję įvykiai: visos Lietuvos partizanų vadų suvažiavimas; LLKS Vasario 16-osios deklaracija.
 - susijusios vietos: bunkeris tarp Radviliškio ir Baisogalos.
 
+## Šaltiniai ir įrodymai
+
+Nenurodyta
+
 ## Teiginiai
-- t-012
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-014
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-015
-  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-016
-  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatyta, kad atkurta Lietuva bus demokratinė respublika, kurios suvereni valdžia priklausys tautai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-018
+
+- t-001
   teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
   pagrindžia:
-    - c-004
-- t-019
-  teiginys: '1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J.'
-  pagrindžia:
-    - c-005
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLKS Tarybos prezidiumo pirmininku iš-
     rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
     karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
     rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
-    jam suteiktas aukščiausias – partizanų generolo laipsnis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-    - t-013
-    - t-014
-- c-002
-  santrauka: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bunkeryje pri-
-    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
-    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
-    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-015
-    - t-016
-- c-004
-  santrauka: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bunkeryje pri-
+    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
     imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
     atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
-    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
-    1945 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-018
-- c-005
-  santrauka: '1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1949 m. dalyvavo kuriant
-    vieningą pasipriešinimo judėjimo vadovybę, tapo
-    Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
-    pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
-    vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
-## Šaltiniai ir įrodymai
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
+- [[objektai/zodynas/organas]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/asmenys/Bronius Liesis-Naktis]]
 - [[objektai/grupes/Dainavos apygarda]]
 - [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
 - [[objektai/asmenys/Henrikas Danilevičius-Vidmantas]]
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/asmenys/Juozas Lapienis-Darius]]
+- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
 - [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
 - [[objektai/grupes/LLKS gynybos pajėgos]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]
 - [[objektai/grupes/Lietuvos laisvės armija]]
 - [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
 - [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Maironio rinktinė]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
+- [[objektai/asmenys/Povilas Morkūnas-Rimantas]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]
 - [[objektai/grupes/Tauro apygarda]]

@@ -18,12 +18,12 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kai, šitai išgirdęs, brolis Ernekė jo pasigailėjo ir priplaukė prie kranto, šis staiga nutvėrė laivą, stipriai į jį įsikibo ir, susišaukęs savo bendrus, užpuolė plaukusius laivu ir visus išžudė.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
   pagrindžia:
     - c-001
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,24 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Niekada nesitarsim, nesiderėsim!'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -33,16 +19,15 @@ tags:
 - Pagrindinė forma: Niekada nesitarsim, nesiderėsim!
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: '„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Štai, buvę skriaudėjai arba paveldėtojai, mūsų ištiesta taikos ir
@@ -50,10 +35,8 @@ tags:
 
     - Niekada nesitarsim, nesiderésim! - toks buvo ssrs valdovų
     atsakymas. - Atšaukit savo paskelbtą Nepriklausomybės aktą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

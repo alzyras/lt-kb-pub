@@ -1,35 +1,18 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Lojevo mūšis (1649 m. liepos 31 d.)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Lojevo mūšis'
-  - 'mūšis prie Lojevo'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1649 m. liepos 31 d.'
-vaidmenys: []
-dalyviai:
-  - 'Jonušas Radvila'
-  - 'Stanislovas (Michailas) Kričevskis'
-  - 'Simonas Podobaila'
-  - 'Vincentas Gosievskis'
-susije_irasai: []
 datos:
   - '1649 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1649'
 date_end: ''
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
+amziai:
+  - 'XVII'
 ---
 # Lojevo mūšis (1649 m. liepos 31 d.)
 
@@ -38,44 +21,46 @@ tags:
 Mūšis aprašomas nuo pasirengimo prie Lojevo iki lietuvių kontratakos, Kričevskio sužeidimo ir kazokų likučių išsisklaidymo. Čia pateikiamas ir platesnis J. Radvilos pergalės įvertinimas. J. Radvila 1649 m. liepos 21 d. atvedė kariuomenę prie Lojevo, o S. Podobaila sudegino miestą, kad priešininkas negalėtų įsitvirtinti Į Lojevo mūšį įsiterpusi lietuvių kavalerija atakavo kazokus iš užnugario ir nulėmė mūšio baigtį.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-001
   teiginys: 'Padariniai Lojevo mūšis - pirmoji kunigaikščio J.'
   pagrindžia:
     - c-004
 
+- t-002
+  teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1649 m. liepos 21 d. J. Radvila at-
@@ -97,15 +82,13 @@ Nenurodyta
     pylimus. Lojevo miestas, esantis kitoje
     (dešinėje) upės pusėje, buvo sudegintas,
     kad priešui nebūtų kur įsitvirtinti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-002
-  santrauka: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių pėstininkai
@@ -127,15 +110,13 @@ Nenurodyta
     versti atsitraukti į mišką, iš ten nusileido
     prie Dniepro ir įsitvirtino stovykloje netoli
     Bragino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
 - c-003
-  santrauka: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lojevo mūšis - pirmoji kunigaikščio J. Rad-
@@ -151,15 +132,13 @@ Nenurodyta
     (pikinieriai)
 
     apie ją pasklido ir visoje Europoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
+
 - c-004
-  santrauka: 'Padariniai Lojevo mūšis - pirmoji kunigaikščio J.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Padariniai
@@ -179,11 +158,9 @@ Nenurodyta
     apie ją pasklido ir visoje Europoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

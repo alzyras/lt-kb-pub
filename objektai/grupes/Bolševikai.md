@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Bolševikai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -19,22 +16,20 @@ tags:
 Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vokiečių valdžioje. Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vokiečių valdžioje.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vokiečių valdžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
@@ -44,26 +39,22 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
     vokiečių valdžioje. Latvių Tautos Taryba pareiškė dėl to pro-
     Latvijos laisvės paminklas Rygoje.
     testą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     sybė. Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
     kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės
     dalimis. Nuo jų apsigynus, Latvijai nebeliko jokių sunkių už-
     sienio politikos problemų, ir jos gyvenimas ėjo normalia vaga.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -152,6 +143,7 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
 - [[objektai/asmenys/Sidaravičius]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
+- [[objektai/grupes/Tautų Sąjunga]]
 - [[objektai/asmenys/Tigras]]
 - [[objektai/grupes/Ukmergės batalionas]]
 - [[objektai/grupes/Ukmergės rinktinė]]
@@ -173,6 +165,7 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
 - [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]
 - [[objektai/zodynas/šturmovcai]]
 - [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
+- [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]
 - [[objektai/posakiai/„nepriklausomybės stebuklas“]]
 - [[objektai/posakiai/„seimokratija“]]

@@ -41,24 +41,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad po to Karaliaučiaus komtūras negaišdamas sugrįžo su kariuomene iš Vonsdorfo [Unzatrapio] valsčiaus, norėdamas sutramdyti Notangos maištą.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją Tais 1295 metais Boleslovas, Mazovijos kunigaikštis, apie kurį jau kalbėta, sielodamasis Tacito minimus germanus lemovius (Lemonii ar Lemovii — Tacitas P.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau dievas, kuris neleidžia, kad juo įtikėjusios
@@ -73,9 +73,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto, kai
@@ -94,7 +94,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie penktąją atskalūnybę ir apie bausmę už ją
@@ -124,7 +124,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

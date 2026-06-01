@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'V. Daugudis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1961 m.'
   - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1961'
 date_end: '1966'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # V. Daugudis
 
@@ -28,22 +24,20 @@ tags:
 Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'V. Daugudis 1966 m. paskelbė darbą apie grublėtosios keramikos Lietuvoje kilmę ir chronologiją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'V. Daugudis 1966 m. paskelbė darbą apie grublėtosios keramikos Lietuvoje kilmę ir chronologiją.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'V. Daugudis 1966 m. paskelbė darbą apie grublėtosios keramikos Lietuvoje kilmę ir chronologiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     _Brūkšniuotosios keramikos išnykimo Lietuvoje klausimu_ , AkMD, t. 23,
@@ -51,15 +45,13 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
     keramikos Lietuvoje kilmę ir chronologiją_ , AkMD, t. 22, 1966, 55-66 p.
     (rus. k., su liet. santr.). — (”) _Seniausieji mediniai pastatai ir įrengimai
     Lietuvoje_ (1.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'V. Daugudis 1961 m. paskelbė darbą apie Mažulonių piliakalnį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bd. I, Riga 1931
@@ -69,13 +61,11 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
     Vakarų Lietuvos priešistorinės kultūros apžvalga_ , Mažoji Lietuva - Studia
     Lituanica, I, 1958, 9-121 p. — (”) _Vėlyvasis geležies amžius_ , LE, t. 15, 285-
     291 p. — Hoffmann, J. : _Die spätheidnische Kultur des Memellandes,_
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

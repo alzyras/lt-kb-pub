@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'aksominė imperija siuzerenitetas hegemonija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - sąvoka
@@ -19,28 +16,25 @@ tags:
 Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'LDK pakraščių priklausomybė svyravo tarp įvairaus laipsnio siuzereniteto ir hegemonijos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LDK pakraščių priklausomybė svyravo tarp įvairaus laipsnio siuzereniteto ir hegemonijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LDK
+    Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“. LDK
     pakraščių priklausomybė svyravo tarp įvairaus laipsnio siuzereniteto ir
     hegemonijos. Kuo toliau nuo centro – Vilniaus, tuo ten (o į šią kategoriją
     ir patenka visa Ukraina) valdę Gediminaičiai mažiau klausė Vilniaus bro-
     lių, pusbrolių ar dėdžių – didžiųjų kunigaikščių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

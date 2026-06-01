@@ -1,34 +1,20 @@
 ---
 tipas: daiktas
 pavadinimas: 'Du pliki kardai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '1978 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Du pliki kardai
 
@@ -37,79 +23,68 @@ tags:
 Du pliki kardai minimi kaip priešmūšinis iššūkis. Viename šaltinyje ordino magistras juos nusiunčia Vytautui ir Jogailai, kitame Ulrichas von Jungingenas pasiūlo tuoj pradėti mūšį.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-001
   teiginys: 'Ordino magistras prašė tuos du kardus priimti kaip pagalbą būsimam susirėmimui atvirame lauke.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
+
+- t-002
   teiginys: 'Įėjo Vengrijos ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem nuogais kardais nešini.'
   pagrindžia:
     - c-003
-- t-008
-  teiginys: 'Ordino magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­ viram lauke, bet nesislapstyti giriose, kaip iki šiol.'
+
+- t-003
+  teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
   pagrindžia:
-    - c-004
-- t-009
+    - c-001
+
+- t-004
   teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
     - c-005
 
+- t-005
+  teiginys: 'Ordino magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­ viram lauke, bet nesislapstyti giriose, kaip iki šiol.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Įėjo Vengrijos
+    Greitai liepė atvesti pasiuntinius. Įėjo Vengrijos
     ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
     nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
     kardus atnešė kryžiuočių didžiojo magistro liepiami.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
+
 - c-002
-  santrauka: 'Ordino magistras prašė tuos du kardus priimti kaip pagalbą būsimam susirėmimui atvirame lauke.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordino
-    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
-    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Įėjo Vengrijos ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem nuogais kardais nešini.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įėjo Vengrijos
@@ -121,30 +96,27 @@ Nenurodyta
     viram lauke, bet nesislapstyti giriose, kaip iki šiol.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'Ordino magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­ viram lauke, bet nesislapstyti giriose, kaip iki šiol.'
+    - t-001
+
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ordino
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
     magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
     susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
-    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
-    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
-    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-005
-  santrauka: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+    - t-002
+
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pasiuntiniai pareiškė, kad šituos du
@@ -156,11 +128,25 @@ Nenurodyta
     ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-005
+
+- c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
+    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
+    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

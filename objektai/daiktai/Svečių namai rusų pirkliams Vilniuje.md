@@ -39,12 +39,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
   pagrindžia:
     - c-001
@@ -66,7 +66,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

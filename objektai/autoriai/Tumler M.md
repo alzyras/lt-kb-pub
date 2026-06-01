@@ -28,16 +28,16 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
 - t-001
   teiginys: 'Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—1210?) (Tumler M.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad der Orden..., p. 462; Tumler M.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mirė greičiausiai 1239.III.5
@@ -49,7 +49,7 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     157  Trečias magistras — Henrikas Bartas (1209?—1210?) (Tumler M. Der Deutsche

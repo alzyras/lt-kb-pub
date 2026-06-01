@@ -20,16 +20,16 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 - t-001
   teiginys: 'Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė (literatūroje — Ungurupė arba Unguriškė, dab.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pritardami šiai nuomonei, broliai su kariuomene greitai patraukė į priekį, tačiau, jų

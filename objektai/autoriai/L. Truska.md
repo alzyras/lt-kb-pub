@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'L. Truska'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1868 m.'
   - '1961 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1868'
+date_end: '1961'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1868'
-date_end: '1961'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - autorius
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # L. Truska
 
@@ -29,16 +25,15 @@ tags:
 Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     S. Matulaitytė rašo apie astro­
@@ -52,11 +47,9 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
     Emigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;
     P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
     mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

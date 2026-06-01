@@ -56,4 +56,3 @@ Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­ demija neturi, išsk
 - [[objektai/daiktai/Duona]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/paprociai/Akademijos profesorių, studentų ir varguolių išlaikymas iš fundacinių pajamų]]
-- [[objektai/zodynas/Puslapis 77]]

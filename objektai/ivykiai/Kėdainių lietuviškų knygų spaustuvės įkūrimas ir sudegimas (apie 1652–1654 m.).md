@@ -1,16 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1652 m.'
+  - '1654 m.'
+date_start: '1652'
+date_end: '1654'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
+amziai:
+  - 'XVII'
 ---
 # Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)
 
@@ -31,22 +35,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apie 1652 m. Jonušas Radvila Kėdainiuose įkūrė lietuviškoms knygoms skirtą spaustuvę.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apie 1652 m. Jonušas Radvila Kėdainiuose įkūrė lietuviškoms knygoms skirtą spaustuvę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     testantiškąjį katekizmą (1598 m.); 1599 m. pasirodžius Daukšos
@@ -56,15 +58,13 @@ Nenurodyta
     Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms
     knygoms spaustuvę, čia buvo išspausdinta maldaknygių,
     giesmių rinkinys, katekizmas ir nauja postilė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik kai apie 1652 m. hetmonas
@@ -74,17 +74,16 @@ Nenurodyta
     veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
     Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
     galybę, ir nebebuvo kas įtaisytų spaustuvę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
+- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/zodynas/hetmonas]]

@@ -1,24 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Klušinas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1610 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1610'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XVII'
 ---
 # Klušinas
 
@@ -27,16 +21,15 @@ tags:
 Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino, užėmė Maskvą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino, užėmė Maskvą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino, užėmė Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dėl valdžios ėmė kovoti
@@ -50,10 +43,8 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 
     Dalis Rusijos bojarinų naujuoju caru iš-
     rinko Zigmanto Vazos sūnų Vladislovą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

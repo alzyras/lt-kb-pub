@@ -41,17 +41,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
   pagrindžia:
+    - c-002
     - c-001
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad neilgai trukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę į jų žemę grobio, nė vienas nebūtų išnešęs sveikos galvos. 332 (325).'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
@@ -68,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
@@ -90,7 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, vargais

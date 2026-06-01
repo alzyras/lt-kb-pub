@@ -1,18 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1918 m.'
+  - '1940 m.'
+  - '1990 m.'
+date_start: '1918'
+date_end: '1990'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)
 
@@ -21,36 +26,54 @@ tags:
 Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių. Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kovo 11 Aktas dvasia buvo artimas 1918 m. Vasario 16 Aktui, tačiau nebesirėmė tautų apsisprendimo teise.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Laikinasis Pagrindinis Įstatymas panaikino Lietuvos ir jos piliečių prievoles, neteisėtai nustatytas sovietų konstitucijos ir įstatymų.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kovo 11 Aktas dvasia buvo artimas 1918 m. Vasario 16 Aktui, tačiau nebesirėmė tautų apsisprendimo teise.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    44 min. absoliučia
+    balsų dauguma (124 deputatams
+    balsavus už, nė vienam nebalsavus
+    prieš ir šešiems susilaikius) priim-
+    tas Lietuvos nepriklausomybės at-
+    kūrimo Aktas, kuriame paskelbta,
+    „kad yra atstatomas 1940 metais
+    svetimos jėgos panaikintas Lietu-
+    vos Valstybės suverenių galių vyk-
+    dymas, ir nuo šiol Lietuva vėl yra
+    nepriklausoma valstybė“.
     Kovo 11 Aktas savo dvasia arti-
     mas Lietuvos Tarybos 1918 m. pa-
     skelbtam Vasario 16 Aktui, tačiau
@@ -62,32 +85,58 @@ Nenurodyta
     reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
     teritoriją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Laikinasis Pagrindinis Įstatymas panaikino Lietuvos ir jos piliečių prievoles, neteisėtai nustatytas sovietų konstitucijos ir įstatymų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau šios konstitucijos veikimas visa apim-
+    Tam reikė-
+    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
+    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
+    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą. Todėl
+    priimtas įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitu-
+    cijos galiojimo atstatymo“. Tačiau šios konstitucijos veikimas visa apim-
     timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
     kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
     susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
     bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
     teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
+- c-003
+  santrauka: 'Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad šalies teritorijoje neveikia jokios kitos valstybės konstitucija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta
+    Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad
+    šalies teritorijoje neveikia jokios kitos valstybės konstitucija. Tam reikė-
+    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
+    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
+    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą. Todėl
+    priimtas įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitu-
+    cijos galiojimo atstatymo“. Tačiau šios konstitucijos veikimas visa apim-
+    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
+    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
+    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
+    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

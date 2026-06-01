@@ -38,17 +38,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad lyginimas leidžia manyti, kad Ordinas klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo pagrindą147.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lyginant Dusburgiečio duomenis apie Gedimino krikštą, pastebėta ne tik
@@ -63,7 +63,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
@@ -77,7 +77,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pažymėjęs, jog kryžiuočiai 1328

@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '25“ LIETUVIAI SUTINKA SAVO KARIUOMENĘ 2-ojo pėstininkų pulko I bataliono puskarininkis Antanas Šukys prisimena bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą.'
+  teiginys: '2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     III. 25“

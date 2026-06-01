@@ -43,8 +43,8 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad tvirtindama savo pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru62.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė Frankfurtą prie Oderio (III, 361).'
@@ -53,7 +53,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1326 m. Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
@@ -66,7 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė

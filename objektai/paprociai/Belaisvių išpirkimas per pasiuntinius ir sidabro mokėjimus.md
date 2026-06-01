@@ -50,16 +50,16 @@ Nenurodyta
 - t-001
   teiginys: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Pskoviečiai
@@ -94,7 +94,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­

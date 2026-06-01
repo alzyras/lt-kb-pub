@@ -69,7 +69,6 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/vaitas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]

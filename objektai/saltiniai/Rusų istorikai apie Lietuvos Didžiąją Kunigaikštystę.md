@@ -1,25 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Rusų istorikai apie Lietuvos Didžiąją Kunigaikštystę'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1960 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XVIII'
-  - 'XX'
 date_start: '1960'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Rusų istorikai apie Lietuvos Didžiąją Kunigaikštystę
 
@@ -28,18 +21,15 @@ tags:
 ), Rusų istorikai apie Lietuvos Didžiąją Kunigaikštystę (AkMD, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: '), Rusų istorikai apie Lietuvos Didžiąją Kunigaikštystę (AkMD, t.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '), Rusų istorikai apie Lietuvos Didžiąją Kunigaikštystę (AkMD, t.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Žr. LE, t. 36, 384-385 p.**
@@ -57,10 +47,8 @@ tags:
     **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
     džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
     Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

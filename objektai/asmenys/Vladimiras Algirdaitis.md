@@ -1,26 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vladimiras Algirdaitis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1396 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1396'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - pinigai
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vladimiras Algirdaitis
 
@@ -29,27 +27,25 @@ tags:
 Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaikščiui Teodorui laidavus, Andrius buvo paleistas.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-004
   teiginys: 'Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius valsčius (« volosti »).'
   pagrindžia:
-    - c-004
-- t-005
+    - c-001
+
+- t-002
   teiginys: 'Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­ jevo pašalinti Algirdo sūnų Vladimirą.'
   pagrindžia:
-    - c-005
-- t-006
+    - c-002
+
+- t-003
   teiginys: 'Vladimiras Algirdaitis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­ jime) neramųjį Jogailos brolį Švitrigailą^2 ).'
   pagrindžia:
-    - c-006
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip bėglys, prie jo pri­
@@ -59,29 +55,13 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
     valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
     Polocką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-004
-  santrauka: 'Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius valsčius (« volosti »).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio
-    atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius
-    valsčius (« volosti »). Kijevas buvo atiduotas Skirgailai mainais už
-    Polocką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
+    - t-001
+
+- c-002
   santrauka: 'Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­ jevo pašalinti Algirdo sūnų Vladimirą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -93,12 +73,11 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     krašto viduje savarankiškumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
+    - t-002
+
+- c-003
   santrauka: 'Vladimiras Algirdaitis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­ jime) neramųjį Jogailos brolį Švitrigailą^2 ).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -113,13 +92,12 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     stovos, jų valdžią silpnino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]
 - [[objektai/zodynas/kunigaikštija]]

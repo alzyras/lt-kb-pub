@@ -1,18 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1949 m.'
+date_start: '1949'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)
 
@@ -21,41 +24,50 @@ tags:
 Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Bunkeryje pri-
+    Suvažiavime
+    aptarti svarbiausi partizanų veik-
+    lą reglamentuojantys dokumentai,
+    numatyta bendra kovos strategija ir taktikos kryptys, suformuota aukš-
+    čiausioji partizanų vadovybė. LLKS Tarybos prezidiumo pirmininku iš-
+    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
+    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
+    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
+    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
     imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
     atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

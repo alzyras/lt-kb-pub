@@ -1,26 +1,20 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vaškas'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1978 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1978'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1978'
-date_end: '2026'
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
-tags:
-  - daiktas
 ---
 # Vaškas
 
@@ -29,31 +23,35 @@ tags:
 Vaškas buvo vienas svarbiausių Lietuvos ūkio produktų užsieniui.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^296) II skyrius: valstybės iškilimas
@@ -61,11 +59,9 @@ Nenurodyta
     Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.
     Tuo tarpu grudų eksportas iki pat XVI amž. beveik visai nežino­
     mas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

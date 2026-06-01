@@ -32,34 +32,34 @@ amziai:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: '; Jo­ nas Kazimieras -1664 m. Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis.'
   pagrindžia:
     - c-003
 
-- t-005
+- t-002
   teiginys: 'Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskutinę valią pareikšdamas, užrašė Akademijos kolegijai, įpareigodamas, kad 25 metus činšo mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25 metų Akademijos kolegijai turėsiąs.'
   pagrindžia:
-    - c-005
+    - c-002
 
-- t-001
-  teiginys: '174 ## Puslapis 191 Il KNYGA B) Žinios apie Dievo Kūno koplyčios įkūrimą Patikimų pirminių žinių apie tos koplyčios būklę nėra galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­ jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­ tais per.'
+- t-003
+  teiginys: 'Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.'
   pagrindžia:
-    - c-001
+    - c-005
 
 - t-004
   teiginys: 'Tą koplyčią iš griuvėsių kėlė ir daug lėšų sudėjęs išpuo­ šė Trakų vaivada ponas Oginskis.'
   pagrindžia:
     - c-004
 
-- t-002
+- t-005
   teiginys: 'Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis nuo įvairių mūrinių namų, renkamas iš vietos didikų, ''''bet dėl pradangintų dokumentų pajamų dydis nėra žinomas; tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios priklauso; jais disponuoja.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1577 metų gruodžio 19 dienos, o pirmesne 1539
@@ -80,9 +80,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­
@@ -96,7 +96,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -114,7 +114,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -142,7 +142,8 @@ amziai:
   pagrindžia:
     - t-004
 
-- c-001
+- c-005
+  santrauka: 'Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apraeveniendo tad possessioni baž­
@@ -165,4 +166,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

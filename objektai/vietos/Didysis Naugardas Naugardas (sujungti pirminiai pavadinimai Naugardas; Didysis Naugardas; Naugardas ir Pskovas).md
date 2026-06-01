@@ -28,54 +28,54 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Pagaliau jūs jau perėjote per mūsų sienas be jokio tikrini­ mo, kad aplankytumėte Naugardą, Pskovą; visa tai jums leidome dėl busimosios naudos.'
   pagrindžia:
     - c-005
 
-- t-003
+- t-002
   teiginys: 'Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-004
 
-- t-002
-  teiginys: 'Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.'
+- t-003
+  teiginys: 'Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-002
 
-- t-009
+- t-004
+  teiginys: 'Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi.'
+  pagrindžia:
+    - c-006
+
+- t-005
   teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
+  pagrindžia:
+    - c-001
+
+- t-006
+  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+  pagrindžia:
+    - c-007
+
+- t-007
+  teiginys: 'Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.'
   pagrindžia:
     - c-009
 
 - t-008
-  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+  teiginys: 'Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­ vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­ keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų miestų tekdavo patirti.'
+  pagrindžia:
+    - c-003
+
+- t-009
+  teiginys: 'Juk tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­ bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­ va, o naudodamasi galingo monarcho parama, jau pasiekė ir tolimus.'
   pagrindžia:
     - c-008
 
-- t-001
-  teiginys: 'Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė D ## Puslapis 22 ĮVADAS Krokuva, Kališas ir Naugardas.'
-  pagrindžia:
-    - c-001
-
-- t-007
-  teiginys: 'Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­ vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­ keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų miestų tekdavo patirti.'
-  pagrindžia:
-    - c-007
-
-- t-006
-  teiginys: 'Juk tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­ bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­ va, o naudodamasi galingo monarcho parama, jau pasiekė ir tolimus.'
-  pagrindžia:
-    - c-006
-
 ## Reikšmingi paminėjimai
 
-- c-009
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -91,9 +91,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-005
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -109,9 +109,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-007
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
@@ -132,9 +132,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-008
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didžiulė politinė permaina, atėjusi per Jogailą
@@ -149,7 +149,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -183,9 +183,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-002
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išsi­
@@ -203,9 +203,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-008
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -225,9 +225,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
 
-- c-006
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
@@ -250,9 +250,10 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-009
 
-- c-001
+- c-009
+  santrauka: 'Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
@@ -268,4 +269,4 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-007

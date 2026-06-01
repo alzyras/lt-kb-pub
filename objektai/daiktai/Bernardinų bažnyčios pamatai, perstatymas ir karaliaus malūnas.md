@@ -46,16 +46,16 @@ Nenurodyta
 - t-001
   teiginys: 'Dva­ sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Mergelės Marijos Apsilankymo ok­ tavoje), bernardinų prašymu, prie vienuolyno esantį savo malūną įsa­ ko nugriauti, kadangi šis dėl drebė­ jimo malimo metu išjudino jau ir taip netvirtus bernardinų pastatų pamatus, o sklvpą, kuriame malū­ nas stovėjo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios dominikonų baž­
@@ -84,7 +84,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dva­

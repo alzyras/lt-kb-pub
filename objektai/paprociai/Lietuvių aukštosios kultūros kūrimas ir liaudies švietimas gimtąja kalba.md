@@ -1,32 +1,21 @@
 ---
 tipas: paprotys
-pavadinimas: "Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba"
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
+pavadinimas: 'Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1793 m.'
-  - '1799 m.'
-  - '1822 m.'
-  - '1848 m.'
-  - '1850 m.'
   - '1864 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 date_start: '1793'
 date_end: '1864'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tauta
+amziai:
+  - 'XVIII'
+  - 'XIX'
 ---
 # Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba
 
@@ -35,41 +24,50 @@ tags:
 Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karaliaučiuje žymaus
@@ -90,15 +88,13 @@ Nenurodyta
     etnosu, bet jie patys save laikė
     vieno dvilypio lietuvių-žemaičių
     etnoso dalimi).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Parašytas ir išleistas tiems lai-
@@ -124,11 +120,36 @@ Nenurodyta
     Būtent S.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-003
+  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
+    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi). Ši grupelė ir lai-
+    koma etninių lietuvių tautinio
+    kultūrinio sąjūdžio pradininkais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

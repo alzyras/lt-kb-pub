@@ -1,21 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)'
-sukurta: '2026-05-20'
-variantai:
-  - '„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“'
-aliases:
-  - '„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - posakis
@@ -27,16 +16,15 @@ tags:
 Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiaiškinti atsakė, kad įgyvendinąs seną etmonų teisę „įžengus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos didysis etmonas Mykolas Kazimieras Oginskis atsakė, kad įgyvendina seną etmonų teisę įžengus svetimai kariuomenei rinkti Respublikos kariuomenę.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos didysis etmonas Mykolas Kazimieras Oginskis atsakė, kad įgyvendina seną etmonų teisę įžengus svetimai kariuomenei rinkti Respublikos kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ir Rusijos genero-
@@ -64,11 +52,9 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
     nukreiptas prieš Rusiją ir jos pareigūnų sa-
     vivalę bei kišimąsi į Lietuvos kariuomenės
     reikalus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

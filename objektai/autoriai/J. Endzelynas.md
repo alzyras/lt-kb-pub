@@ -16,7 +16,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (Endzelins J.'
   pagrindžia:
     - c-003
@@ -26,7 +26,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   pagrindžia:
     - c-002
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus.'
   pagrindžia:
     - c-001
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

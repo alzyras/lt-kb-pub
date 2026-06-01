@@ -17,19 +17,19 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
@@ -43,9 +43,9 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -57,7 +57,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -34,12 +34,12 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
 - t-002
   teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau, tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;

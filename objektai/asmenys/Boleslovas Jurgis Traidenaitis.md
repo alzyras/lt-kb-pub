@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Boleslovas Jurgis Traidenaitis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1340 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1340'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Boleslovas Jurgis Traidenaitis
 
@@ -27,16 +23,15 @@ tags:
 pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai ir buvo vienas iš faktorių, vertusių Lenkijos ponus
@@ -49,11 +44,9 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
     Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
     mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
     nigaikščio vienturtę dukterį^4 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,46 +1,29 @@
 ---
-tipas: 'grupe'
+tipas: grupe
 pavadinimas: 'Krikščionys'
-sukurta: '2026-04-30'
-variantai:
-  - 'krikščionys'
-  - 'krikščionimis'
-  - 'nedori krikščionys'
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-bukle: 'juodrastis'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
 # Krikščionys
 
 ## Santrauka
+
 Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Užvis ilgainiui, kad nedori krikščionys,
@@ -51,13 +34,11 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
         brangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo
         žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
         belikdami po savęs akmenį ir vandenį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -109,6 +90,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/asmenys/Sventopelkas]]
+- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]
 - [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
 - [[objektai/ivykiai/Treniotos nužudymas (1264 m.)]]
 - [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.)]]

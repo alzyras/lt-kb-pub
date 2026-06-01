@@ -27,16 +27,16 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
 - t-001
   teiginys: 'susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine gatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas) L I E T U V O S I S T O R I J A 170 nių tautybę.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Nuo 1927 m. susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine gatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas) L I E T U V O S I S T O R I J A 170 nių tautybę.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau situaciją blogino Lenkijos vykdomi lietuvių kultūrinio
@@ -56,7 +56,7 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau situaciją blogino Lenkijos vykdomi lietuvių kultūrinio

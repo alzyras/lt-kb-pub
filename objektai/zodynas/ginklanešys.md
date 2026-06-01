@@ -29,26 +29,26 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - t-001
   teiginys: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
   pagrindžia:
-    - c-001
+    - c-003
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
   pagrindžia:
     - c-004
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
@@ -65,9 +65,9 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
@@ -85,9 +85,9 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sūduvių pabėgimą
@@ -124,7 +124,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-005
   santrauka: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'

@@ -27,19 +27,19 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
+  teiginys: 'Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai buvo ori-
@@ -54,9 +54,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
@@ -69,7 +69,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   santrauka: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'

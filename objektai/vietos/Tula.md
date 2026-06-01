@@ -25,15 +25,15 @@ amziai:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '163 Tula 125, 159, 321, 371 Tumas J.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-002
   teiginys: 'Žygio metu buvo pasiekta Tula.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
@@ -42,7 +42,7 @@ amziai:
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Trusas (Drausensee) 111
@@ -64,9 +64,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas
@@ -81,7 +81,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'

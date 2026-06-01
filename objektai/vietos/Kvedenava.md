@@ -25,19 +25,19 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, arba Tvankstės, pilies pastatymą Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas reikalinga pilių statybai, ir, pasitelkę jiems ištikimus prūsus, atžygiavo su didele kariuomene 1255 viešpaties metais ir.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir.'
+  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, arba Tvankstės, pilies pastatymą Valdovui Čekijos karaliui išvykus, magistras ir broliai netruko paruošti visa, kas reikalinga pilių statybai, ir, pasitelkę jiems ištikimus prūsus, atžygiavo su didele kariuomene 1255 viešpaties metais ir.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
@@ -54,9 +54,9 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
@@ -70,4 +70,4 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

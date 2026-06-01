@@ -45,19 +45,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Vytautas Vilniui suteikė (1424 metais) tam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami nuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­ kantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­ mos katalikų tikėjimą.'
+  teiginys: 'Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Vytautas Vilniui suteikė (1424 metais) tam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami nuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­ kantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­ mos katalikų tikėjimą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiaip ar taip,
@@ -82,9 +82,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  • —
@@ -122,7 +122,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

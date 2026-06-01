@@ -47,26 +47,26 @@ Nenurodyta
 - t-001
   teiginys: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Jo 1325 m. sutartis buvo pir­ masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­ čiamas Liublino unijos išvakarėse, t.'
-  pagrindžia:
-    - c-003
+    - c-004
 
 - t-002
-  teiginys: '1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.000 Lietuvoje buvusių lenkų karo belaisvių.'
+  teiginys: 'Jo 1325 m. sutartis buvo pir­ masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­ čiamas Liublino unijos išvakarėse, t.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: '1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.000 Lietuvoje buvusių lenkų karo belaisvių.'
+  pagrindžia:
+    - c-001
 
 - t-004
   teiginys: 'Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
@@ -81,9 +81,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
@@ -97,9 +97,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo
@@ -115,7 +115,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-001
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**

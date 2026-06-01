@@ -44,16 +44,16 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie maldininkus ir Kulmo pilies bei miesto įkūrimą Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai buvo pažadėta naujo karo dalyviams.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad čia, senajame piliakalnyje, buvęs pastatytas penkiakampis—pagal piliakalnio formą — konvento pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     223 Manoma, kad kryžiuočiai įsikūrė Starogrude (buv. Althausen). Čia, senajame
@@ -66,7 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie maldininkus ir Kulmo pilies bei miesto įkūrimą

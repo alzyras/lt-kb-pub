@@ -20,16 +20,16 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - t-001
   teiginys: 'Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę prie sienų kopėčias bei padarę visa kita, kas reikalinga pilims pulti, užkariavo Kapstetos pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kur buvo Kapstetos pilis, nėra aišku.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kur buvo Kapstetos  pilis, nėra aišku. Mūsų manymu, vertas dėmesio vietovardis
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     su sembų kariuomene, vedamas Tirsko, netikėtai įsibrovė į Vonsdorfo žemę332; pristatę

@@ -94,4 +94,3 @@ tags:
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
-- [[objektai/zodynas/Puslapis 77]]

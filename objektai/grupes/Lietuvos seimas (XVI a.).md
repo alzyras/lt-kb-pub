@@ -1,18 +1,22 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos seimas (XVI a.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1501 m.'
+  - '1600 m.'
+date_start: '1501'
+date_end: '1600'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kraštas
   - seimas
   - unija
+amziai:
+  - 'XVI'
 ---
 # Lietuvos seimas (XVI a.)
 
@@ -21,16 +25,15 @@ tags:
 Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau jame unijos klausimas nė kiek nepasistūmėjo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos sei-
@@ -41,11 +44,9 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
     tiksiąs su Lenkų reikalavimais ir su receso nuostatais. Ir iš tikro,
     Lietuvos delegacija, atvykusi į 1569 m. seimą, vėl siūlė naujus unijos
     projektus ir vėl reikalavo iš naujo pradėti derybas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

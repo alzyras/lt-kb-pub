@@ -1,31 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)'
-sukurta: '2026-04-28'
-variantai:
-  - 'Gedimino laiškai'
-  - 'Gedimino vardu išsiuntinėti laiškai'
-  - 'laiškai į Vakarų Europą'
-  - 'Gedimino laiškų išsiuntimo laikotarpis'
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-bukle: juodrastis
-laikotarpis: '1323–1325 m.'
 datos:
-  - '1323–1325 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
+  - '1323 m.'
+  - '1325 m.'
 date_start: '1323'
 date_end: '1325'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XIV'
 ---
 # Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)
 
@@ -34,55 +21,54 @@ tags: []
 1323–1325 m. Gedimino vardu į Vakarų Europą buvo išsiųsti šeši laiškai. Laiškuose buvo žadamas krikštas, prašoma popiežiaus tarpininkauti dėl taikos su ordinu, kviečiami amatininkai, pirkliai ir vienuoliai, o atvykėliams žadamos lengvatos bei privilegijos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-004
+
+- t-001
   teiginys: 'Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-002
   teiginys: 'Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-003
   teiginys: 'Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia
     kardo jis veikė ir diplomatija. Anų sunkių kovų metu yra atsiradę
     šeši laiškai, kurie Gedimino vardu buvo išsiuntinėti į Vakarų Europą
     įvairiems adresatams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-002
-  santrauka: 'Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Laiškų pagrindinė
@@ -91,15 +77,13 @@ Nenurodyta
     ketinęs, kiek du pranciškonai (Bertoldas ir Henrikas) laiške įrašė.
     Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
     popiežiaus tarpininkavimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-003
-  santrauka: 'Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo laiškuose Vokietijon Gediminas kvietė Lietuvon visokiau­
@@ -109,19 +93,18 @@ Nenurodyta
     ir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,
     pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
     tytos katalikų bažnyčios.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/autoriai/Dreyer]]
 - [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
@@ -129,7 +112,6 @@ Nenurodyta
 - [[objektai/grupes/Hanza]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/zodynas/Rygos miesto teisė]]
 - [[objektai/zodynas/dešimtinė]]

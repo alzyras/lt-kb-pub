@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1919 m.'
+date_start: '1919'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XX'
 ---
 # Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)
 
@@ -31,16 +34,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pradėję kariauti su bolševikais, lietuviai pirmą mūšį laimėjo prie Kėdainių, kur žuvo Povilas Lukšys.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pradėję kariauti su bolševikais, lietuviai pirmą mūšį laimėjo prie Kėdainių, kur žuvo Povilas Lukšys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sausio mėn. jie užėmė Šiau-
@@ -50,11 +52,9 @@ Nenurodyta
     riauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur
     žuvo pirmas fronto kareivis Povilas Lukšys (1919 m.
     vasario 7—9 d.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

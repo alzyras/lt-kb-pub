@@ -19,19 +19,19 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 
 ## Teiginiai
 
-- t-002
-  teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
+  teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     44
@@ -55,9 +55,9 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -73,7 +73,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

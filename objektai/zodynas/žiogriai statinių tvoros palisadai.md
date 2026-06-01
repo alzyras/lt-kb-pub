@@ -19,29 +19,29 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Vilniuje, vi­ dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­ tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­ juosta statinių tvoromis.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-004
   teiginys: 'Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­ mutinės pilies pastatai, daugiausia mediniai, bet aukštais bokštais ir palisadais apjuosti.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antakalnis yra pava­
@@ -72,7 +72,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -106,7 +106,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tolėliau, toje vietoje,
@@ -132,7 +132,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -153,7 +153,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -166,5 +166,4 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šventaragis]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]

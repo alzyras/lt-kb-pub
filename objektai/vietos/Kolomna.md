@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kolomna'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,16 +15,15 @@ tags:
 Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas Kolomnoj.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Spalio 1 d. Kolomnoje įvyko antras susivažiavimas, kuriame Vytautas siekė Smolensko paėmimo aprobavimo.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Spalio 1 d. Kolomnoje įvyko antras susivažiavimas, kuriame Vytautas siekė Smolensko paėmimo aprobavimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Brangūs kailiniai ir
@@ -44,10 +34,8 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
     įvyko antras susivažiavimas Kolomnoj. Čia Vytautas rūpinosi
     išgauti Smolensko paėmimo aprobaciją, bet iš tikro čia buvo
     aptarti ir kitokie reikalai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

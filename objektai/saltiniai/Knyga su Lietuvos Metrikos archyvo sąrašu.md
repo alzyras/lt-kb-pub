@@ -19,13 +19,14 @@ Knygoje, apimančioje Lietuvos Metrikos archyvo sąrašą, apie jį yra tokia ž
 ## Teiginiai
 
 - t-001
-  teiginys: 'Knygoje, apimančioje Lietuvos Metrikos archyvo sąrašą, apie jį yra tokia žinia: „Namui Vil­ niaus pilyje, kur Maskvą laiko, ger­ biamas Janas Filipovičius, daktaras, kustodas ir Vilniaus kanauninkas (Jan Philipowicz Doctor Custos i Canonik Wileński), pardavė.'
+  teiginys: 'Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet, kai totoriai didele

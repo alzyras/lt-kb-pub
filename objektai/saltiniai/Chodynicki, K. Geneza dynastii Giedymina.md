@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Chodynicki, K. Geneza dynastii Giedymina'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1926 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1926'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Chodynicki, K. Geneza dynastii Giedymina
 
@@ -27,18 +21,15 @@ tags:
 Chodynicki, K.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Chodynickio straipsnis „Geneza dynastii Giedymina“ paskelbtas 1926 m. KH 40 tome, 541-566 puslapiuose.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'K. Chodynickio straipsnis „Geneza dynastii Giedymina“ paskelbtas 1926 m. KH 40 tome, 541-566 puslapiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bauer, H. : _Peter von Dusburg und die Geschichtsschreibung des Deu­
@@ -52,10 +43,8 @@ Chodynicki, K.
     nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,29 +1,20 @@
 ---
 tipas: paprotys
-pavadinimas: "Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje"
-sukurta: '2026-05-18'
-variantai:
-  - 'Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje'
-aliases:
-  - 'Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje'
+pavadinimas: 'Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1422 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XIX'
 date_start: '1422'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - paprotys
   - valstybė
+amziai:
+  - 'XV'
 ---
 # Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje
 
@@ -32,31 +23,35 @@ tags:
 Būta ir kito Lietuvos vardo plitimo kelio.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būta ir kito Lietuvos vardo plitimo kelio. Į dykra paverstas jotvingių,
@@ -69,11 +64,9 @@ Nenurodyta
     ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
     va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
     Lietuvos vardu).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

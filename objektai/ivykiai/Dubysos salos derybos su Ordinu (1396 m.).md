@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Dubysos salos derybos su Ordinu (1396 m.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1396 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1396'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
   - ordinas
   - popiežius
+amziai:
+  - 'XIV'
 ---
 # Dubysos salos derybos su Ordinu (1396 m.)
 
@@ -30,28 +24,31 @@ tags:
 Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1396 m. Vytautas Dubysos saloje susitiko su Vokiečių Ordino magistru deryboms.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1396 m. Vytautas Dubysos saloje susitiko su Vokiečių Ordino magistru deryboms.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada jie griebėsi gudrybės.
@@ -62,11 +59,9 @@ Nenurodyta
     šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
     lis; duoti bajorų sūnų įkaitais ir 3) išpildyti seniau duotus Or­
     dinui pasižadėjimus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

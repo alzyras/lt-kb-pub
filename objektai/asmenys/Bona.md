@@ -24,29 +24,29 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Žygimantas Senasis paprastai gy­ vendavo viename, o karalienė Bona - antrame.'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje.'
-  pagrindžia:
-    - c-001
-
-- t-002
+- t-003
   teiginys: 'Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo paties, gyvenusio 85 Tiesa, šimtmečiu vėliau karalienė Bona pagerbė Vytauto atminimą antkapiniu marmuro paminklu di­ džiojo altoriaus dešinėje pusėje.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-004
   teiginys: '1536 metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­ tariant karalienei Bonai, paskelbti naujus miesto įstatymus.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Veiklus, santūrus, kilnus, my­
@@ -73,9 +73,9 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
@@ -91,7 +91,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   pagrindžia:
     - t-004
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji baž­
@@ -107,9 +107,9 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per kelis šimtus žingsnių, ant nedidelės aukštumė­
@@ -122,7 +122,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

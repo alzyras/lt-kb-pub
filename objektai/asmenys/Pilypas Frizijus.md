@@ -24,7 +24,7 @@ periodo_grupes: []
 ## Teiginiai
 
 - t-001
-  teiginys: '186 ## Puslapis 203 Il KNYGA 1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo žydams; nuo šios sumos kahalas iki 1763 metų.'
+  teiginys: '1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,7 @@ periodo_grupes: []
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
@@ -89,4 +90,6 @@ periodo_grupes: []
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/činšas]]

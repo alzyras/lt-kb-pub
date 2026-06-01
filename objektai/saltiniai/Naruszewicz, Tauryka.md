@@ -26,12 +26,12 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 m
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
   pagrindžia:
     - c-001
@@ -54,7 +54,7 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -68,4 +68,4 @@ Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 . Il, 1418- gos 1418 m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

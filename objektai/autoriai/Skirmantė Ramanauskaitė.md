@@ -1,26 +1,15 @@
 ---
 tipas: autorius
-pavadinimas: "Skirmantė Ramanauskaitė"
-sukurta: '2026-05-27'
-variantai:
-  - "Skirmantė Ramanauskaitė"
-aliases: []
+pavadinimas: 'Skirmantė Ramanauskaitė'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "2007 m. lietuviško leidimo redakcijos kontekstas"
-vaidmenys:
-  - redaktorė
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai: []
+periodo_grupes: []
 ---
 # Skirmantė Ramanauskaitė
 
@@ -29,19 +18,20 @@ tags: []
 Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Skirmantė Ramanauskaitė buvo 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė."
+  teiginys: 'Skirmantė Ramanauskaitė buvo 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Ramanauskaitė nurodyta leidinio metrikoje kaip redaktorė.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     UDK 947.45
@@ -70,18 +60,16 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
     © Vertimas į lietuvių kalbą,
     Jūratė Dalia Baronienė, 2007
     © Romas Dubonis, apipavidalinimas,
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Leidinio metrikoje tiesiogiai nurodytas redaktorės vaidmuo."
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    45
+    UDK 947.45
     Ba237
     Versta iš
     Michała Balińskiego
@@ -116,12 +104,11 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
     Mykolas Balinskis -
     Vilniaus miesto istorikas
     1*1 ykolo Balinskio (1794-1864) gyvenimas ir veikla atspindė­
-    jo plačią ir sudėtingą pirmosios XIX a.
+    jo plačią ir sudėtingą pirmosios XIX a. pusės Lietuvos istorijos
+    įvykių raidą. Šiuo atžvilgiu jam pasisekė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

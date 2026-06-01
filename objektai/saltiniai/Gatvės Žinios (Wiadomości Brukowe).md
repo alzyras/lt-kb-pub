@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Gatvės Žinios (Wiadomości Brukowe)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -18,18 +15,15 @@ tags:
 Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiadomości Brukowe); jame skaudžiai išplakdavo savo visuomenės nerangumą ir apsileidimą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nenaudėlių draugija savo idėjoms skleisti leido laikraštį „Gatvės Žinios“ (Wiadomości Brukowe).'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Nenaudėlių draugija savo idėjoms skleisti leido laikraštį „Gatvės Žinios“ (Wiadomości Brukowe).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui ji rengė visokius
@@ -42,10 +36,8 @@ Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiado
     ji turėjo net laikraštį — „Gatvės Žinias" _(Wiadomości
     Brukowe);_ jame skaudžiai išplakdavo savo visuomenės ne-
     rangumą ir apsileidimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

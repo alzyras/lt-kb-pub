@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Jaroszewicz'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1846 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1846'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # J. Jaroszewicz
 
@@ -27,41 +23,20 @@ tags:
 Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'J. Jaroszewiczius teigė, kad lietuviai daržoves pradėjo auginti artimiau susipažinę su slavais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išėjo Vilniuje 1846 m.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'J. Jaroszewiczius teigė, kad lietuviai daržoves pradėjo auginti artimiau susipažinę su slavais.'
+  pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Jaroszewiczius teigė, kad lietuviai daržoves pradėjo auginti artimiau susipažinę su slavais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ankštiniai
-    augalai (žirniai, pupos, vikiai) yra žymiai vėlybesni, ir jų kultūros
-    bus išplitusios tik priešistorinių laikų pabaigoje. Apie daržoves yra
-    teigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau
-    susipažinę su slavų tautomis (J. Jaroszewicz). Kas liečia kopūstus,
-    Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,
-    ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),
-    lyginę juos su arkliais ir mulais (SRP, I, 90).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išėjo Vilniuje 1846 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —Ivinskis,
@@ -74,11 +49,26 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
     t. 2, 1957, 51-67 p. — (”) _Arimo įrankių reikšmė žemdirbystės sistemoms,_
     ILKI, IV, 1964, 156-163 p. —Karys, J. K. : _Seniausieji lietuvių «pini­
     gai ».
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ankštiniai
+    augalai (žirniai, pupos, vikiai) yra žymiai vėlybesni, ir jų kultūros
+    bus išplitusios tik priešistorinių laikų pabaigoje. Apie daržoves yra
+    teigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau
+    susipažinę su slavų tautomis (J. Jaroszewicz). Kas liečia kopūstus,
+    Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,
+    ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),
+    lyginę juos su arkliais ir mulais (SRP, I, 90).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
 

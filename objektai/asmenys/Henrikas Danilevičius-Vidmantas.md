@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas Danilevičius-Vidmantas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir Šarūno rinkt.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po nelygios kovos su okupantų kariuomene nusišovė LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po nelygios kovos su okupantų kariuomene nusišovė LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žukauskas. Po nelygios kovos su okupantų
@@ -47,11 +37,9 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
     naikinti daugelis Rytų Lietuvos partizanų;
     ten pat suimta Elena Velavičiūtė-Nida iš-
     davė 30 partizanų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

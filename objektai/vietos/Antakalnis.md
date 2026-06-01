@@ -1,25 +1,11 @@
 ---
 tipas: vieta
 pavadinimas: 'Antakalnis'
-sukurta: '2026-04-25'
-variantai:
-  - 'Antakalnyje'
-  - 'Antakalnio'
-  - 'Antokolu'
-  - 'Antakalnį'
-  - 'Antakalnio priemiestis'
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -30,78 +16,55 @@ tags:
 Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pagonių šventyklos tradicija ir priemiesčio formavimosi užuomazgomis palei Viliją. Balińskio pasakojime Antakalnio vietovardis aiškinamas lietuviškais, ne lotyniškais, pagrindais.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Pagal vieną padavimą Goštautas Antakalnyje pastatydino Šv. Petro bažnyčią pagonių šventyklos vietoje.'
-  pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.'
-  pagrindžia:
-    - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Balińskis Antakalnio pavadinimą aiškina kaip nuo seno lietuvišką, siejamą su ant kalno arba ant pakalnės formomis.'
-  pagrindžia:
-    - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-005
   teiginys: 'Dabartinių Lukiškių ir Antakalnio užuomazgos siejamos su vienišomis trobomis palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   pagrindžia:
-    - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.'
-  pagrindžia:
-    - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-007
+    - c-004
+
+- t-002
   teiginys: 'Antakalnio pavadinimas, jeigu mes jį aiškintume taip, kaip to tūlas no­ rėtų, turėtų būti kilęs iš lotvniško žo­ džio ante - prieš ir collis - kalva, mat jis tarp kalnų išsidėstęs, bet vietovė, kur buvo lietuvių šventykla, turėjo būti nuo seno lietuviškai.'
   pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
-  pagrindžia:
     - c-008
-- t-009
-  teiginys: '8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­ mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų stokodami, neturėjo kuo teisme įrodyti nuosavybę.'
+
+- t-003
+  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
   pagrindžia:
     - c-009
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Už jų
-    pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-
-    cinio seimo, Boguslavas Radvila mirė (netoli Karaliaučiaus), ir
-    galingų konkurentų Pacams daugiau jau nebeliko Lietuvoje.
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
-    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
-    žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
-    kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
-    ir Povilo -bažnyčią Antakalny).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-004
+  teiginys: 'Balińskis Antakalnio pavadinimą aiškina kaip nuo seno lietuvišką, siejamą su ant kalno arba ant pakalnės formomis.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Padavimo tradicijoje Goštautas siejamas su Šv. Petro bažnyčia Antakalnyje.
+    - c-003
+
+- t-005
+  teiginys: '8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­ mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų stokodami, neturėjo kuo teisme įrodyti nuosavybę.'
+  pagrindžia:
+    - c-007
+
+- t-006
+  teiginys: 'Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
+  pagrindžia:
+    - c-006
+
+- t-008
+  teiginys: 'Pagal vieną padavimą Goštautas Antakalnyje pastatydino Šv. Petro bažnyčią pagonių šventyklos vietoje.'
+  pagrindžia:
+    - c-001
+
+- t-009
+  teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anot
@@ -111,13 +74,11 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     mini Strijkovskis (Sk. IV, 1.400).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Padavimo formuluotė; faktas patvirtina tradicijos buvimą, ne archeologinę tikrovę.'
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Antakalnis siejamas su medine pagonių šventove dabartinės Šv. Petro bažnyčios vietoje.
+    - t-008
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gausu buvo pagonių šventyklų, nes, be tų, ku­
@@ -129,13 +90,11 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     to į Lukiškes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Pasakojimas remiasi istorine tradicija ir autoriaus dėstymu.'
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Pateikiamas vietovardžio Antakalnis aiškinimas.
+    - t-009
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV, p. 400.
@@ -157,13 +116,11 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     dėje.
   citata_rodoma: ''
   teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tai autoriaus etimologinis aiškinimas, ne nepriklausomai patikrintas vietovardžio kilmės faktas.'
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: Antakalnio priemiesčio užuomazgos siejamos su trobomis palei Viliją.
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia buvo pats miesto centras - ten,
@@ -178,13 +135,11 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     rado.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: Antakalnis naudojamas Viršupio dvaro lokalizavimui.
+    - t-001
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bažny­
@@ -197,16 +152,49 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     kė senąjį vardą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
+
+- c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Už jų
+    pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-
+    cinio seimo, Boguslavas Radvila mirė (netoli Karaliaučiaus), ir
+    galingų konkurentų Pacams daugiau jau nebeliko Lietuvoje.
+    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
+    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
+    žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
+    kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
+    ir Povilo -bažnyčią Antakalny).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
 - c-007
-  santrauka: 'Antakalnio pavadinimas, jeigu mes jį aiškintume taip, kaip to tūlas no­ rėtų, turėtų būti kilęs iš lotvniško žo­ džio ante - prieš ir collis - kalva, mat jis tarp kalnų išsidėstęs, bet vietovė, kur buvo lietuvių šventykla, turėjo būti nuo seno lietuviškai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    400.
+    2do, kad tėvai jėzuitai didelę aikštę prie bažnyčios, sodą
+    ir 4 užvažiuojamus namus, pritaikę vaistinei, spaustuvei ir
+    mokyklai, prie kolegijos prijungė.
+    8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­
+    mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų
+    stokodami, neturėjo kuo teisme įrodyti nuosavybę.
+    4to, Virogorų ežerą su žeme, miškais, lankomis tie patys
+    tėvai jėzuitai pasisavino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-008
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    IV, p. 400.
     Antakalnio pavadinimas, jeigu mes
     jį aiškintume taip, kaip to tūlas no­
     rėtų, turėtų būti kilęs iš lotvniško žo­
@@ -225,16 +213,15 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     dėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
+    - t-002
+
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kazimiero bažnyčia; po Aukš­
+    Čia buvo pats miesto centras - ten,
+    kur dabar stovi Rotušė ir Šv. Kazimiero bažnyčia; po Aukš­
     tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
     kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
     trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
@@ -245,27 +232,6 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     rado.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: '8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­ mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų stokodami, neturėjo kuo teisme įrodyti nuosavybę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2do, kad tėvai jėzuitai didelę aikštę prie bažnyčios, sodą
-    ir 4 užvažiuojamus namus, pritaikę vaistinei, spaustuvei ir
-    mokyklai, prie kolegijos prijungė.
-    8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­
-    mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų
-    stokodami, neturėjo kuo teisme įrodyti nuosavybę.
-    4to, Virogorų ežerą su žeme, miškais, lankomis tie patys
-    tėvai jėzuitai pasisavino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
+    - t-003

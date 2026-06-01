@@ -1,14 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: liuosybė
-sukurta: '2026-04-30'
-variantai:
-  - liuosais
-  - liuosybę
+tipas: zodyno_irasas
+pavadinimas: 'liuosybė'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # liuosybė
 
@@ -21,59 +17,31 @@ Laisvė, nevaržomas gyvenimas. Vartojama kaip žmonių ir tautų laisvės būse
 Pagrindinė forma: `liuosybė`.
 Vartojamos formos: `liuosais`, `liuosybę`.
 
-## Teiginiai
-- t-003
-  teiginys: '`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Terminas vartojamas tiek žmonių būklei, tiek tautos išlikimui apibūdinti.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    pagal žmogaus būdą visi
-    žmonės liuosais^47 turėjo gyventi, vienok didžturčiai visados neturtinguosius vergė; todėl,
-    norėdami viens kitam jau savo tikėjimą antmesti^48 , jau liuosybę^49 išplėšti, tankiai tankesniai liejo
-    kraują latakais su tokiu įnirtimu, jog nuveiktieji palikini neprieteliams^50 savo turtingus namus,
-    vaisingus kraštus ir didelius lobius išsidangino jau į versmes ir balas, jau į tyrus dėl to vien, idant
-    tenai galėtų kaip tinkami dievą garbinti ir liuosais gyventi.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Terminas vartojamas tiek žmonių būklei, tiek tautos išlikimui apibūdinti.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    nuo nuožmių tautų, liuosybę savo taupydama,
-    įsitraukė į girias ir versmes to krašto, kuriame šiandien lietuviai, kalnėnai ir žemaičiai, gyvena,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-
 ## Pastabos
 
 - Forma archajiška; reikšmė išvedama iš priešpriešos su vergija ir iš laisvo gyvenimo motyvo.
 
+## Teiginiai
+
+- t-001
+  teiginys: '`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    pagal žmogaus būdą visi žmonės liuosais^47 turėjo gyventi, vienok didžturčiai visados neturtinguosius vergė; todėl, norėdami viens kitam jau savo tikėjimą antmesti^48 , jau liuosybę^49 išplėšti, tankiai tankesniai liejo kraują latakais su tokiu įnirtimu, jog nuveiktieji palikini neprieteliams^50 savo turtingus namus, vaisingus kraštus ir didelius lobius išsidangino jau į versmes ir balas, jau į tyrus dėl to vien, idant tenai galėtų kaip tinkami dievą garbinti ir liuosais gyventi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/paprociai/Karo grobio dalijimas į keturias dalis]]
 - [[objektai/paprociai/Kovų vietų neliečiamumas]]
 - [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]

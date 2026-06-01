@@ -1,13 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Pagoniškosios Lietuvos tikybinės apeigos'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - ritualas
@@ -34,16 +31,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ano
@@ -54,11 +50,9 @@ Nenurodyta
     Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
     jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
     nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

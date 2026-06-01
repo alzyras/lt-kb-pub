@@ -1,12 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Torno taika (1411 m.)'
-sukurta: '2026-05-05'
-variantai:
-  - 'Torno taikos sutartis'
-  - 'Torno taikos'
-  - 'Torno sutartis'
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -15,23 +9,13 @@ datos:
   - '1430 m.'
   - '1930 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-laikotarpis: '1411 m.'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-05'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Torno taika (1411 m.)
 
@@ -45,20 +29,20 @@ tags: []
 - Data / laikotarpis: 1411 m.
 
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai buvo grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.'
+
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vis tik, sako Halec­
@@ -71,26 +55,21 @@ tags: []
     nei savarankiškai politikai su Lenkija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai buvo grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vis tik, sako Halec­
+    Čia kyla klausimas: ar daug yra atsitikimu, kada norima ki­
+    tiems pakenkti, sau skriaudos nepadarius? Vis tik, sako Halec­
     kis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­
     imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
     ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
     grąžinta^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

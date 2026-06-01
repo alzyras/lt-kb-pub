@@ -1,14 +1,10 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Lietuvos ir Latvijos sienos išvedimas (1921 m.)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Lietuvos ir Latvijos sienos nustatymas (1921 m.)'
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
@@ -22,46 +18,46 @@ tags:
 Vedant Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie lietuviški valsčiai (ypač Alūkstos apskr.), o kai kur vienas kitas latviškas valsčius ar jo dalis atiteko Lietuvai. 1921 m. siena tarp Lietuvos ir Latvijos buvo išvesta maždaug buvusios Kuršo gubernijos riba, bet buvo padaryta mažų pakeitimų vienur Lietuvos, kitur Latvijos naudai (Latvija iš buvusios Kauno gubernijos gavo 290 kv.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vedant Lietuvos ir Latvijos sieną, dalis lietuviškų valsčių atiteko Latvijai, o kai kurie latviški valsčiai ar jų dalys - Lietuvai.'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.'
-  pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
+
+- t-002
   teiginys: 'Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.'
   pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: '1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.'
+  pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
@@ -74,15 +70,28 @@ Nenurodyta
     dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
     škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
     buvusios gubernijos sienos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-002
-  santrauka: 'Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1921 m. siena tarp
+    Lietuvos ir Latvijos buvo išvesta maždaug buvusios Kuršo gu-
+    bernijos riba, bet buvo padaryta mažų pakeitimų vienur Lietuvos,
+    kitur Latvijos naudai (Latvija iš buvusios Kauno gubernijos gavo
+    290 kv. km., o Lietuva iš Kuršo gub.— vos 83 kv. km.,— žiūr. 577
+    psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik Palangos pajūris (nuo Šven-
@@ -96,45 +105,24 @@ Nenurodyta
     ilgumo. Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-
     puoto Vilniaus krašto (netoli Turmanto stoties), buvo nukai-
     šiota gairėmis; tokia pat ji tebėra ir iki šiol.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'Vedant Lietuvos ir Latvijos sieną, dalis lietuviškų valsčių atiteko Latvijai, o kai kurie latviški valsčiai ar jų dalys - Lietuvai.'
+    - t-002
+
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po karo susikūrė nepriklausoma Latvių valstybė. Vedant
     Lietuvos Latvijos sieną, prie Latvijos buvo prijungti kai kurie
     lietuviški valsčiai (ypač Alūkstos apskr.), o kai kur vienas kitas
     latviškas valsčius ar jo dalis atiteko Lietuvai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-004
-  santrauka: '1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1921 m. siena tarp
-    Lietuvos ir Latvijos buvo išvesta maždaug buvusios Kuršo gu-
-    bernijos riba, bet buvo padaryta mažų pakeitimų vienur Lietuvos,
-    kitur Latvijos naudai (Latvija iš buvusios Kauno gubernijos gavo
-    290 kv. km., o Lietuva iš Kuršo gub.— vos 83 kv. km.,— žiūr. 577
-    psl.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

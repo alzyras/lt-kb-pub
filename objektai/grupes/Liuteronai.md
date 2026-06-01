@@ -1,9 +1,6 @@
 ---
 tipas: grupe
 pavadinimas: 'Liuteronai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -16,20 +13,16 @@ datos:
   - '1700 m.'
   - '1721 m.'
   - '1763 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1539'
 date_end: '1763'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - reforma
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Liuteronai
 
@@ -38,37 +31,41 @@ tags:
 Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų bendruomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų bendruomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų bendruomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
+    litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
+    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
     Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis
     Lietuvoje, vėliau ji vis labiau sutapo su vokiečiais, todėl liuteronų ben-
     druomenės buvo pradėtos vadinti „vokiečių bendruomenėmis“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Antra vertus,
+    Pagal liberum veto
+    teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami
+    vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis
+    santvarkomis ir trukdė stiprinti bei centralizuoti valstybę. Antra vertus,
     tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
     visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
     joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
@@ -84,9 +81,7 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

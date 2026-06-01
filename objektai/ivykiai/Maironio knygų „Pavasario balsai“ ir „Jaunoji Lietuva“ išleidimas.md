@@ -1,27 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1801 m.'
   - '1895 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1895'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - krikštas
   - kunigas
   - tauta
+amziai:
+  - 'XIX'
 ---
 # Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas
 
@@ -30,31 +26,37 @@ tags:
 Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jonas Basanavičius
+    Savo programoje ji buvo įrašiusi suverenios
+    Lietuvos, valstybės, sujungtos laisvos federacijos (t. y. konfederacijos) ry-
+    šiais su gretimomis valstybėmis, siekius.
+    Tautos patriarchas dr. Jonas Basanavičius
 
     L I E T U V O S  I S T O R I J A
     120
@@ -65,11 +67,9 @@ Nenurodyta
     savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
     ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
     ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

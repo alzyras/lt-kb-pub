@@ -44,21 +44,21 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį; maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad vis dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova, pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų. Kadangi tokia buvo dievo valia, krito galop nukautas pats valdovas [..?] iš.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų akivaizdoje, ir burtai abu kartus krito vienam Magdeburgo366 miestiečiui, kilmingam ir turtingam vyrui, vardu Hirtshalsas, kuris, patekęs į tokią bėdą, paprašė.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis
@@ -73,7 +73,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po šių skerdynių
@@ -90,7 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės

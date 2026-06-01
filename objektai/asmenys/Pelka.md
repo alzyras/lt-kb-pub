@@ -24,13 +24,14 @@ periodo_grupes: []
 ## Teiginiai
 
 - t-001
-  teiginys: 'į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais.'
+  teiginys: 'Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA

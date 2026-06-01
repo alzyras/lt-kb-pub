@@ -1,33 +1,27 @@
 ---
 tipas: daiktas
 pavadinimas: 'Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1262 m.'
   - '1348 m.'
+  - '1801 m.'
   - '1870 m.'
   - '1877 m.'
   - '1878 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XIX'
+  - '1900 m.'
 date_start: '1262'
-date_end: '1878'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
   - karas
+amziai:
+  - 'XIII'
+  - 'XIX'
 ---
 # Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2
 
@@ -36,31 +30,35 @@ tags:
 KĖDAINIŲ-ŠĖTOS KAUTYNES 169 ## Puslapis 172 Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2., užtaisomas vienu šoviniu. Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuomenė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuo-
@@ -74,11 +72,9 @@ Nenurodyta
     + ninkai, 1262 kareiviai, 420 šautuvų), hu- verbuoti savanorius (tai jiems pajėgas buvo +
     sarų eskadronas (13 karininkų, 163 kareiviai, nesisekė, Lietuvoje veikusioje gana plačiai iš-
     žirgų visiems raiteliams neužteko, 1 artile- | Raudonojoje armijoje tebuvo apie sklaidę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

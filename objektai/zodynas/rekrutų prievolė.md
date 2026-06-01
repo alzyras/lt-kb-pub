@@ -26,44 +26,29 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: '1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
+- t-003
+  teiginys: '1863–1864 metų sukilimas 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: '1863–1864 metų sukilimas 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
+  teiginys: 'Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo.'
   pagrindžia:
     - c-004
 
-- t-002
-  teiginys: 'Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
-    sios Vakarų valstybės – Krymo karo nugalėtojos.
-    1863–1864 metų sukilimas
-    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
-    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
-    dar nebuvo pasiruošta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
@@ -78,7 +63,22 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
+    sios Vakarų valstybės – Krymo karo nugalėtojos.
+    1863–1864 metų sukilimas
+    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
+    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
+    dar nebuvo pasiruošta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pastaroji oficialiai vadinta
@@ -92,9 +92,9 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
@@ -106,7 +106,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-005
   santrauka: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'

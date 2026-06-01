@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pravoslavija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
@@ -26,65 +16,63 @@ tags:
 pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr. 303 psl.). pravoslavija: valdžia norėjo viską surusinti: įstaigas, mokyklas ir net bažnyčias. Bet lietuviai nepanoro nei virsti pravoslavais nei išsižadėti savo kalbos, ir pirmą kartą stojo ginti savo tautinių teisių.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr. 303 psl.).'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'pravoslavija: valdžia norėjo viską surusinti: įstaigas, mokyklas ir net bažnyčias. Bet lietuviai nepanoro nei virsti pravoslavais nei išsižadėti savo kalbos, ir pirmą kartą stojo ginti savo tautinių teisių.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
-  teiginys: 'Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr. 303 psl.).'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr. 303 psl.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
+    Be to, buvo konfiskuoti ir visi dvasininkų dvarai (jiems
+    buvo palikti tik maži sklypeliai žemės). Dar smarkiau buvo
+    pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
     varu suvaryti į pravoslaviją (žiūr. 303 psl.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'pravoslavija: valdžia norėjo viską surusinti: įstaigas, mokyklas ir net bažnyčias. Bet lietuviai nepanoro nei virsti pravoslavais nei išsižadėti savo kalbos, ir pirmą kartą stojo ginti savo tautinių teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Be to, buvo konfiskuoti ir visi dvasininkų dvarai (jiems
+    buvo palikti tik maži sklypeliai žemės). Dar smarkiau buvo
+    pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
+    varu suvaryti į pravoslaviją (žiūr. 303 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet jo
+    pradėtoji rusinimo politika tuojau susidūrė ir su pačiais lietuviais.
     Valdžia norėjo viską surusinti: įstaigas, mokyklas ir net bažnyčias.
     Bet lietuviai nepanoro nei virsti pravoslavais nei išsižadėti savo
     kalbos, ir pirmą kartą stojo ginti savo tautinių teisių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dar smarkiau buvo
-    pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
-    varu suvaryti į pravoslaviją (žiūr. 303 psl.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

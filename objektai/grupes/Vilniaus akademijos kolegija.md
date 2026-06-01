@@ -27,7 +27,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­ nio vikaro pareigas, Vilniaus kapitula, Jus Patronatus teisės siūlyti į vikarus atsisako ir perleidžia Akademijos kolegijos Rektoriams tėvams jėzuitams, kas taip pat 1651 metų.'
   pagrindžia:
     - c-003
@@ -37,14 +37,15 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.'
+- t-003
+  teiginys: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono brolijai priklausantiems,
@@ -66,7 +67,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -96,15 +97,15 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Jus Patronatus]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]

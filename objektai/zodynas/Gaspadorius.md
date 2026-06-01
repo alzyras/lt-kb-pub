@@ -1,11 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: gaspadorius
-sukurta: '2026-04-30'
+tipas: zodyno_irasas
+pavadinimas: 'gaspadorius'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: vidutinis
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # gaspadorius
 
@@ -18,38 +17,34 @@ atnaujinta: '2026-04-30'
 Pagrindinė forma: `gaspadorius`.
 Papildomos aiškios formos neišskirtos.
 
-## Teiginiai
-- t-003
-  teiginys: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Gaspadorius gali raginti ir organizuoti ūkio darbus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-004
-
 ## Pastabos
 
 - Tekste nėra tiesioginio apibrėžimo, bet šeimininko ir darbo vadovo vaidmuo aiškus.
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Gaspadorius gali raginti ir organizuoti ūkio darbus.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

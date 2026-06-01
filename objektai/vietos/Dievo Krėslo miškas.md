@@ -1,24 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Dievo Krėslo miškas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1949 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1949'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Dievo Krėslo miškas
 
@@ -27,16 +21,15 @@ tags:
 Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų kuopos partizanų stovyklą, kurioje buvo vienuolika partizanų.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1949 m. gegužės 21 d. Dievo Krėslo miške MGB 32-asis šaulių pulkas aptiko Žarėnų kuopos partizanų stovyklą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1949 m. gegužės 21 d. Dievo Krėslo miške MGB 32-asis šaulių pulkas aptiko Žarėnų kuopos partizanų stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X. ŽARĖNŲ KAUTYNĖS
@@ -45,10 +38,8 @@ Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų ku
     aps. Žarėnų vls. Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno
     vadovaujamų Žarėnų kuopos partizanų stovyklą, kurioje buvo vienuolika
     partizanų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

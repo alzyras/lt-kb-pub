@@ -41,13 +41,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sako, jeigu jie būtų žinoję, kad lietuviai turi tokią stiprią gynybą, tai būtų bandę pulti keliose vietose ir vis tiek kur nors prasilaužę.“ ## Puslapis 213 KLAIPĖDOS SUKILIMAS 1923 LIETUVOS RESPUBLIKA Sukilimo priešistorė 1905 m.'
+  teiginys: '1905 m. Didžiajame Vilniaus seime buvo iškelta lietuviškų žemių, kuriose gyvena lietuviai, sujungimo į vieną valstybę idėja.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1905 m. Didžiajame Vilniaus seime buvo iškelta lietuviškų žemių, kuriose gyvena lietuviai, sujungimo į vieną valstybę idėja.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Šturmovcai“ tą savo nepasi-

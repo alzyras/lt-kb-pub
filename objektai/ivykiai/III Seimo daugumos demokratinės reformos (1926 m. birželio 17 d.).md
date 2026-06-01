@@ -1,29 +1,18 @@
 ---
 tipas: ivykis
-pavadinimas: "III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)"
-sukurta: '2026-05-14'
-variantai: ["karo padėties panaikinimas", "politinių kalinių amnestija", "spaudos apribojimų panaikinimas"]
-aliases: ["karo padėties panaikinimas", "politinių kalinių amnestija", "spaudos apribojimų panaikinimas"]
+pavadinimas: 'III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: paskelbta
-laikotarpis: "1926 m. birželio 17 d."
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1926 m.'
-periodas: 'siuolaikine_istorija'
-periodo_grupes:
-  - '[tarpukaris]'
-amziai:
-  - 'XX'
 date_start: '1926'
 date_end: ''
-patikimumas: vidutinis
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - reforma
+amziai:
+  - 'XX'
 ---
 # III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)
 
@@ -32,6 +21,7 @@ tags:
 1926 m. birželio 17 d. III Seimo naujoji dauguma panaikino karo padėtį, amnestavo politinius kalinius, panaikino spaudos apribojimus ir leido laisvai rengti susirinkimus.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1926 m. birželio 17 d.
 - datos: 1926 m. birželio 17 d.
 - periodas: siuolaikine_istorija
@@ -41,64 +31,60 @@ tags:
 - date_end: 1926-06-17
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1926 m. birželio 17 d. panaikinta karo padėtis."
+  teiginys: '1926 m. birželio 17 d. panaikinta karo padėtis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Tą pačią reformų bangą lydėjo politinių kalinių amnestija, spaudos apribojimų panaikinimas ir susirinkimų laisvės suteikimas."
+  teiginys: 'Tą pačią reformų bangą lydėjo politinių kalinių amnestija, spaudos apribojimų panaikinimas ir susirinkimų laisvės suteikimas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   pagrindžia:
-    - c-002
+    - c-003
+
 - t-004
   teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: III Seimo daugumos demokratinių reformų turinys.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
+    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
     naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-  citata_rodoma: ""
+    rengti susirinkimus. Naujoji valdžia, taupydama lėšas, mažino atlygini-
+    mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
+    likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
+    dvasininkams), ėmė mažinti karininkų skaičių.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -107,14 +93,32 @@ Nenurodyta
     demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
     ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
     naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-    rengti susirinkimus.
+    rengti susirinkimus. Naujoji valdžia, taupydama lėšas, mažino atlygini-
+    mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
+    likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
+    dvasininkams), ėmė mažinti karininkų skaičių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
+    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
+    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus. Naujoji valdžia, taupydama lėšas, mažino atlygini-
+    mus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis kata-
+    likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
+    dvasininkams), ėmė mažinti karininkų skaičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,15 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Varšuvos konfederacinis seimas (seimas)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Varšuvos konfederacinis seimas'
-aliases:
-  - 'Varšuvos konfederacinis seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -23,16 +18,15 @@ tags:
 Seimas buvo priverstas įvykdyti visus jo reikalavimus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimas buvo
@@ -45,11 +39,9 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
     teises su katalikais, ir t.t. Čartoriskių pradėtos reformos nuėjo
     vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
     teisė prižiūrėti Respublikos vidaus gyvenimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

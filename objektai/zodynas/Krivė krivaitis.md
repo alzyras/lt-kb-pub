@@ -1,12 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: krivė krivaitis
-sukurta: '2026-04-30'
+tipas: zodyno_irasas
+pavadinimas: 'krivė krivaitis'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # krivė krivaitis
 
@@ -19,53 +17,29 @@ Visų vyriausias kunigaikštis arba aukščiausias šventovės valdovas / žynys
 Pagrindinė forma: `krivė krivaitis`.
 Papildomos aiškios formos neišskirtos.
 
-## Teiginiai
-- t-003
-  teiginys: '`Krivė krivaitis` šiame tekste yra aukščiausias šventovės valdovas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Tam asmeniui priskiriama teisė kalbėti Perūno vardu.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '`Krivė krivaitis` šiame tekste yra aukščiausias šventovės valdovas.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Dešinėje pusėj buvę rūmai, kuriuose visų vyriausias kunigaikštis, nuo prašaleičių
-    vadinamas krivė krivaitis, arba kūrėjas, gyvenęs,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Tam asmeniui priskiriama teisė kalbėti Perūno vardu.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus
-    vardu Perūno klausiantiems.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-
 ## Pastabos
 
 - Tekstas šį vardą aiškina kaip vietinį prašaleičių pavadinimą, bet funkcija yra aiškiai religinė ir valdžios.
 
+## Teiginiai
+
+- t-001
+  teiginys: 'Tam asmeniui priskiriama teisė kalbėti Perūno vardu.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus vardu Perūno klausiantiems.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
-- [[objektai/zodynas/Šaldros|šaldros]]

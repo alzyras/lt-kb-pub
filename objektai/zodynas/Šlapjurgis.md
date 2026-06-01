@@ -1,13 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: šlapjurgis
-sukurta: '2026-04-30'
-variantai:
-  - šlapjurgiui
+tipas: zodyno_irasas
+pavadinimas: 'šlapjurgis'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # šlapjurgis
 
@@ -20,32 +17,29 @@ Lijundra, šlapdriba ar labai drėgnas šaltas oras. Vartojamas kaip oro sąlygo
 Pagrindinė forma: `šlapjurgis`.
 Vartojamos formos: `šlapjurgiui`.
 
+## Pastabos
+
+- Tiksli meteorologinė apimtis iš teksto aiškėja tik apytikriai.
+
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Šlapjurgis reiškia oro būseną, kai drėgmė ir šaltis stingdo drabužius.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šlapjurgis reiškia oro būseną, kai drėgmė ir šaltis stingdo drabužius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     puošė, nes idant, šlapjurgiui^332 esant, nuo šalčio ir drėgsmės^333 pastėrę sijonai blauzdų neplaktų,
         vyturo^334 sau staibius, vilnonomis, taip pat juodomis, auklėmis^335 nuo kulkšnių lig pat kelių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Pastabos
-
-- Tiksli meteorologinė apimtis iš teksto aiškėja tik apytikriai.
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

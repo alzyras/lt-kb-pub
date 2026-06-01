@@ -25,23 +25,23 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Šio antspaudo niekintojus šiuo savo laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios garbės neturinčius žmones.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­ gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­ sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl susivienijimo su dievo bažnyčia ir su neapsakomu nekan­ trumu.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Taip pat, be visa to, [ką suteikė] mūsų pirmta­ kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­ lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­ jamomis kiekvieną pagal jo.'
   pagrindžia:
-    - c-002
+    - c-004
 
-- t-003
-  teiginys: '## Puslapis 77 I KNYGA vaikais, žmonomis ir galvijais, tegu ateina ir išeina pagal savo norą visiškai be jokio trukdymo; tai šiuo savo laišku užtikrin­ dami, prižadame, kad jie bus saugūs ir neliečiami jokių netei­ sėtų mano pavaldinių pretenzijų.'
+- t-004
+  teiginys: 'Gediminas žemdirbiams, atvykstantiems į jo karalystę, žadėjo žemę ir dešimt metų laisvo bei nemokamo jos dirbimo.'
   pagrindžia:
     - c-003
 
@@ -74,9 +74,9 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
@@ -90,9 +90,10 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 - c-003
+  santrauka: 'Gediminas žemdirbiams, atvykstantiems į jo karalystę, žadėjo žemę ir dešimt metų laisvo bei nemokamo jos dirbimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 77
@@ -117,9 +118,9 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
@@ -156,4 +157,4 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003

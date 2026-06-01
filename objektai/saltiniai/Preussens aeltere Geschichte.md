@@ -30,16 +30,16 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 - t-001
   teiginys: 'Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­ nio valdovo pastangų ženklai pada­ ryti Lietuvą gausesne gyventojų ir pakelti jos gerovę atkviečiant iš sve­ tur įvairiais verslais besiverčiančius amatininkus, žemdirbius ir dvasi­.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il
@@ -58,7 +58,7 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     406, pri­

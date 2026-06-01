@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Vincas Krėvė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karalius
@@ -26,16 +17,15 @@ tags:
 Vinco Krėvės Raštai VIII t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vincas Krėvė buvo „Raštų“ VIII tomo, kuriame išspausdinta misterijos „Likimo keliais“ II dalis, autorius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vincas Krėvė buvo „Raštų“ VIII tomo, kuriame išspausdinta misterijos „Likimo keliais“ II dalis, autorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     8. Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
@@ -48,11 +38,9 @@ Vinco Krėvės Raštai VIII t.
     Vinco Višvilio sunkūs ieškojimai, klajonės, nuostabus nuotykiai ir il­
     ga kelionė — tai giliai prasmingas visos mūsų tautos kelias nuo pat
     pradžios ligi šių dienų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

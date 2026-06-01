@@ -30,13 +30,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 217 Il KNYGA VI VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS, PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ 1.'
+  teiginys: 'Vilniaus miesto planas Jogailos laikais žymėjo Aukštutinę pilį, Kreivąją pilį, Perkūno šventyklą, kelius, bažnyčias ir vienuolynus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus miesto planas Jogailos laikais žymėjo Aukštutinę pilį, Kreivąją pilį, Perkūno šventyklą, kelius, bažnyčias ir vienuolynus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 217

@@ -17,19 +17,20 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
 
 ## Teiginiai
 
-- t-002
-  teiginys: '(kuris nurodo užmuštų buvus 47 dvasininkus ir benedikti­ nus), dar du dokumentai Slapt.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės žemė ir kaimyninės Kulmo žemės] kentė­ jo per tą antpuolį.'
+  teiginys: 'Slaptojo archyvo dokumentai mini daugelio dvasininkų nužudymą per Dobrynės žemės nusiaubimą.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės žemė ir kaimyninės Kulmo žemės] kentė­ jo per tą antpuolį.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Slaptojo archyvo dokumentai mini daugelio dvasininkų nužudymą per Dobrynės žemės nusiaubimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     k
@@ -46,9 +47,9 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Grigaliaus šven­
@@ -77,10 +78,10 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
-  santrauka: '(kuris nurodo užmuštų buvus 47 dvasininkus ir benedikti­ nus), dar du dokumentai Slapt.'
+  santrauka: 'Slaptojo archyvo dokumentai mini daugelio dvasininkų nužudymą per Dobrynės žemės nusiaubimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie daugelio dva­

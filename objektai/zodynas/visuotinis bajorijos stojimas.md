@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'visuotinis bajorijos stojimas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - sąvoka
@@ -19,27 +16,24 @@ tags:
 Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Visuotiniu bajorijos stojimu buvo vadinamas šaukimas, kai sveiki bajorai turėjo eiti į karo tarnybą ir vestis tarnų.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Visuotiniu bajorijos stojimu buvo vadinamas šaukimas, kai sveiki bajorai turėjo eiti į karo tarnybą ir vestis tarnų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiekvienas toksai šaukimas buvo vadinamas visuotiniu
     bajorijos stojimu. Visi bajorai, kas sveikas galįs, turėjo
     ne tik patys eiti, bet dar ir vestis tam tikrą skaičių tarnų. Jei kas
     neidavo, galėdavo netekti žemės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,15 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis (sukilimas)'
-sukurta: '2026-04-25'
-variantai:
-  - 'lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis'
-aliases:
-  - 'lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - sukilimas
@@ -21,16 +16,15 @@ tags:
 Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokių buvo surasta 32, ir jos visos
@@ -38,10 +32,8 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
     lyčios: joms buvo prikišta, kad be leidimo buvusios pasta-
     tytos. Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-
     tyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

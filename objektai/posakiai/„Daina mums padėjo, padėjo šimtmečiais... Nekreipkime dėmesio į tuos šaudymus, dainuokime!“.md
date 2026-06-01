@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valstybė
@@ -25,16 +16,15 @@ tags:
 Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     sausio
@@ -51,11 +41,9 @@ Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taik
     šviesi ir laiminga! Nekreipkime dėmesio į tuos šaudymus, dainuokime!“
     Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po
     visą pasaulį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

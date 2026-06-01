@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'V. Kučius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1949 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1949'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # V. Kučius
 
@@ -27,16 +23,15 @@ tags:
 Kučiui panaudojus spec.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1949 m. spalio 24 d. MGB agentas V. Kučius panaudojo specialius preparatus „Neptun-20“ prieš partizanų suėmimą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1949 m. spalio 24 d. MGB agentas V. Kučius panaudojo specialius preparatus „Neptun-20“ prieš partizanų suėmimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš kautynes
@@ -54,11 +49,9 @@ Kučiui panaudojus spec.
     vienkiemio Jovaišų sodyboje. Rūgštymas
     buvo pristatytas prie pagrindinio įėjimo,
     o Vijoklis — prie atsarginio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

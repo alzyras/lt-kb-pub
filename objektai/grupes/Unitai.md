@@ -1,11 +1,9 @@
 ---
 tipas: grupe
 pavadinimas: 'Unitai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1587 m.'
   - '1654 m.'
@@ -15,22 +13,18 @@ datos:
   - '1700 m.'
   - '1721 m.'
   - '1763 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1587'
 date_end: '1763'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigas
   - ordinas
   - popiežius
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Unitai
 
@@ -39,60 +33,43 @@ tags:
 Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemaičiuose (Padubysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Unitai Vilniuje turėjo popiežiaus išlaikomą kunigų seminariją, o jų švietimu daugiausia rūpinosi bazilijonai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Unitų vienuolynų buvo net Žemaičiuose, Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   pagrindžia:
-    - c-003
+    - c-002
+
+- t-002
+  teiginys: 'Jų vienuolynų buvo net Žemaičiuose (Padubysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Unitai Vilniuje turėjo popiežiaus išlaikomą kunigų seminariją, o jų švietimu daugiausia rūpinosi bazilijonai.'
+  santrauka: 'Jų vienuolynų buvo net Žemaičiuose (Padubysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Daug geriau buvo sutvarkytas
-    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
+    Vilniuje šie turėjo net savą, popiežiaus iš-
     laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
     zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Unitų vienuolynų buvo net Žemaičiuose, Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jų vienuolynų buvo net Žemaičiuose (Padu-
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
     bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
     ir aukštesniųjų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Antra vertus,
+    Pagal liberum veto
+    teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami
+    vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis
+    santvarkomis ir trukdė stiprinti bei centralizuoti valstybę. Antra vertus,
     tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
     visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
     joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
@@ -108,11 +85,9 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -124,6 +99,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]
+- [[objektai/grupes/Pravoslavai]]
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia]]

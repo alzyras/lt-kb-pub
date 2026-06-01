@@ -20,16 +20,16 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - t-001
   teiginys: 'Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdninkuose smagiai leisdavo laiką medžiodami.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimieras pamėgo Rūdninkus ir dažnai juose
@@ -47,7 +47,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji baž­
@@ -71,5 +71,4 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - [[objektai/zodynas/klebonija]]
 - [[objektai/zodynas/pavietas]]
 - [[objektai/grupes/Maloningosios Dievo Motinos brolija]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus magistratas]]

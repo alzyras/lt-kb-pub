@@ -23,13 +23,14 @@ Daugel krito sūnų...
 ## Teiginiai
 
 - t-001
-  teiginys: 'Daugel krito sūnų...'
+  teiginys: 'A. Ramanausko-Vanago „Daugel krito sūnų...“ paskelbta leidinyje „Partizanų gretose“, išleistame Vilniuje 2007 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'A. Ramanausko-Vanago „Daugel krito sūnų...“ paskelbta leidinyje „Partizanų gretose“, išleistame Vilniuje 2007 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 226, „MŪŠIO DALYVIO ATSIMINIMAI, LGGRT centras, „Gyvosios atminties programa“.

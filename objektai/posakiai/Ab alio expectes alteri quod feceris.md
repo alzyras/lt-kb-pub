@@ -1,29 +1,10 @@
 ---
 tipas: posakis
-pavadinimas: "Ab alio expectes alteri quod feceris"
-sukurta: '2026-05-27'
-variantai:
-  - "Tai, ką padarei vienam, sulauksi iš kito"
-aliases: []
+pavadinimas: 'Ab alio expectes alteri quod feceris'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos:
-  - "1571 m. gegužės 6 d."
-periodas: "naujieji_laikai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XVI"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Ab alio expectes alteri quod feceris
 
@@ -48,28 +29,25 @@ Posakis vartojamas prašant ištikimai ir rūpestingai prisidėti prie testament
 Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Žygimanto Augusto testamento tekste frazė „Ab alio expectes alteri quod feceris“ aiškiai pristatoma kaip lotyniškas posakis."
+  teiginys: 'Žygimanto Augusto testamento tekste frazė „Ab alio expectes alteri quod feceris“ aiškiai pristatoma kaip lotyniškas posakis.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Lietuviškas skliaustinis vertimas pateikia reikšmę: „Tai, ką padarei vienam, sulauksi iš kito“."
+  teiginys: 'Lietuviškas skliaustinis vertimas pateikia reikšmę: „Tai, ką padarei vienam, sulauksi iš kito“.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Posakis vartojamas testamento vykdymo, ištikimybės ir atlygio už gerą elgesį kontekste."
+  teiginys: 'Posakis vartojamas testamento vykdymo, ištikimybės ir atlygio už gerą elgesį kontekste.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pateikia lotynišką posakį, jo vertimą ir testamento vykdymo kontekstą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
@@ -90,11 +68,9 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
     davome slaptus raštus, užantspaudavome ir, kad būtų tikriau
     ir patikimiau, savo ranka pasirašėme, būdami geros atmin­
     ties ir sveiko proto.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

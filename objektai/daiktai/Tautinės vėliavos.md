@@ -1,13 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Tautinės vėliavos'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - tauta
@@ -20,43 +17,48 @@ tags:
 Nuo septintojo dešimtmečio iki okupacijos pabaigos veikė apie 70 tokių grupių, jų nariai platino prieš sovietų santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbolius –.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos antisovietinių grupių nariai keldavo tautines vėliavas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nuo septintojo dešimtmečio iki okupacijos pabaigos antisovietinių grupių nariai keldavo tautines vėliavas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuo septintojo dešimtmečio iki oku-
+    Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
+    minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
+    R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-
+    formalių jaunimo grupių judėjimą. Nuo septintojo dešimtmečio iki oku-
     pacijos pabaigos veikė apie 70 tokių grupių, jų nariai platino prieš sovietų
     santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

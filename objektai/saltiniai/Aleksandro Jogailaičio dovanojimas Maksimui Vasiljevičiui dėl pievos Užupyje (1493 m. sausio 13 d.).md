@@ -28,18 +28,18 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
+  teiginys: '1493 m. Aleksandro Jogailaičio dovanojimo aktas Maksimui Vasiljevičiui buvo surašytas slavų kalba ir puikiai išsilaikęs.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PATS ALEKSANDRAS,
@@ -72,7 +72,8 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
+  santrauka: '1493 m. Aleksandro Jogailaičio dovanojimo aktas Maksimui Vasiljevičiui buvo surašytas slavų kalba ir puikiai išsilaikęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiame laiške po parašais yra penki antspaudai.

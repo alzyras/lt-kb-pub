@@ -18,29 +18,29 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad toliau Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo, kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  teiginys: 'Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems broliams.'
   pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dusburgietis daugybe pavyzdžių bando parodyti, kad dievas padedąs kovojantiems broliams.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -53,7 +53,24 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
+    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
+    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
+    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
+    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau
+    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
+    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
+    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -72,24 +89,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   pagrindžia:
     - t-003
 
-- c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
-    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
-    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
-    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
-    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“. Toliau
-    Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne
-    Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo,
-    kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toliau
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-005
   santrauka: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'

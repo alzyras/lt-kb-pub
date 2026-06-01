@@ -28,49 +28,49 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 
 ## Teiginiai
 
-- t-007
-  teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
-  pagrindžia:
-    - c-007
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72; Makarevičius A., Vilkijos..., p. 62).'
-  pagrindžia:
-    - c-003
-
-- t-008
-  teiginys: 'Dusburgietis teigia, kad zajączkowski S..'
-  pagrindžia:
-    - c-008
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; Łowmiański H., Studja..., 2, p. 97; Lietuvių karas..., p. 190), tačiau ten, Nemuno deš.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad nemuno kranto kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).'
-  pagrindžia:
-    - c-004
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad laukas, buvęs į vakarus nuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216).'
-  pagrindžia:
-    - c-006
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).'
+  teiginys: 'Dusburgietis teigia, kad čia lokalizuojama Bebirvaitės pilis (Zajączkowski S., Studya..., p. 35; SZM, p. 201; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 185).'
   pagrindžia:
     - c-005
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad iII, 347; Zajączkowski S., Studya..., p. 40—41; SZM, p. 229), ji buvusi Jaučakių piliakalnyje į rytus nuo Vilkijos (LAA, 2, p. 72; Makarevičius A., Vilkijos..., p. 62).'
+  pagrindžia:
+    - c-007
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad zajączkowski S..'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; Łowmiański H., Studja..., 2, p. 97; Lietuvių karas..., p. 190), tačiau ten, Nemuno deš.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad nemuno kranto kyšulyje, Seredžiaus vakariniame pakraštyje esančiame piliakalnyje prie Pieštvės upelio (Zajączkowski S., Studya..., p. 39—40; SZM, p. 230; LAA, 2, p. 151, Nr. 664).'
+  pagrindžia:
+    - c-003
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad laukas, buvęs į vakarus nuo Veliuonos (Zajączkowski S., Studya..., p. 37—38; SZM, p. 216).'
+  pagrindžia:
+    - c-008
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).'
+  pagrindžia:
+    - c-001
+
+- t-008
   teiginys: 'Dusburgietis teigia, kad iII, 244, 1); vėliau, kitose kronikose, jau Veliuona (Zajączkowski S., Studya..., p. 38— 39).'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Patikimesni atrodo bandymai ją
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-007
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -95,9 +95,9 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-008
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     541 D.— Pistam [...] impugnavit, Jer.— Pisten. Pieštvės pilis buvo deš. Nemuno kranto
@@ -107,9 +107,9 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-008
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordino pilis buvusi greičiausiai Maštaičių (Norkūnų) piliakalnyje kair. Nemuno krante
@@ -119,9 +119,9 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-003
 
-- c-007
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     561 D.— Scroneyte et Biverwate, Jer.— Scroneiten unde Bibberwaten. Kair. Šaltuonos
@@ -132,9 +132,9 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-001
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Ernekės, Ragainės pilies komtūro, žūtį
@@ -147,9 +147,9 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-003
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     536 D. — Pastovie, Jer.— Pastow. Paštuvos valsčius buvo deš. Nemuno krante žemiau
@@ -161,9 +161,9 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-006
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     560 D.— in campo Calsheim, ad campum Calsen, Jer. — zu Kalsem ûf daz velt,

@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'destalinizacija atšilimo laikotarpis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - sąvoka
@@ -20,36 +17,39 @@ tags:
 Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėtis kultūroje ėmė švelnėti tik šeštojo dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Likusius Lietuvoje gyventojus kaustė nuolatinė baimė dėl savo ir arti-
+    mųjų saugumo. Gyventojai turėjo prisitaikyti, kolaboruoti arba priešintis.
     Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Po J. Stalino mirties, atšilimo laikotarpiu, kultūriniame gyvenime imta nuolaidžiau vertinti tautinį kultūrinį palikimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietu-
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
+    kabinėta komunistinių šūkių. Padėtis kultūroje ėmė švelnėti tik šeštojo
+    dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
     Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
     pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
     tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
@@ -57,13 +57,24 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gyventojai turėjo prisitaikyti, kolaboruoti arba priešintis.
+    Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu.
+    Tačiau prieš tai vyko kruvina kova.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

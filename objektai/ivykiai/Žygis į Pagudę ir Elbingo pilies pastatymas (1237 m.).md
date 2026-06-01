@@ -44,18 +44,18 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
   pagrindžia:
-    - c-001
+    - c-002
     - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kiti pasakoja, kad ši pilis neilgai trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui išaugo miestas242. 17.'
   pagrindžia:
-    - c-002
+    - c-001
     - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
@@ -76,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą

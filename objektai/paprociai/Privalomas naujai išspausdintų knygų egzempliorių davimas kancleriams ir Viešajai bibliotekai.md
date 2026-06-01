@@ -45,13 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno koplyčios sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­ legija spaustuve pavertė.'
+  teiginys: 'Karališkosios spaustuvės privilegija įpareigojo nuo kiekvienos naujai išspausdintos knygos duoti po egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Karališkosios spaustuvės privilegija įpareigojo nuo kiekvienos naujai išspausdintos knygos duoti po egzempliorių Lietuvos kancleriams ir Viešajai bibliotekai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi:
@@ -81,5 +82,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/daiktai/Spaustuvės]]
 - [[objektai/asmenys/Augustas III]]
 - [[objektai/asmenys/Stanislovas Augustas]]

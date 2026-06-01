@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
   - '1941 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1940'
 date_end: '1941'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)
 
@@ -30,28 +24,31 @@ tags:
 Represijos ir 1941 metų Birželio sukilimas Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1940 m. liepos 6 d. Valstybės saugumo departamento direktorius A. Sniečkus leido suimti agituojančiuosius prieš Liaudies vyriausybę.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1940 m. liepos 6 d. Valstybės saugumo departamento direktorius A. Sniečkus leido suimti agituojančiuosius prieš Liaudies vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Represijos ir 1941 metų
@@ -66,11 +63,9 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     194
     turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

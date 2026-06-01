@@ -1,29 +1,25 @@
 ---
 tipas: grupe
 pavadinimas: 'Latviai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - ordinas
   - tauta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Latviai
 
@@ -34,65 +30,53 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
-- t-002
-  teiginys: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
+  teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
-- t-003
-  teiginys: 'Lietuviai ir latviai buvo laikomi baltais, mažiausiai keturis tūkstančius metų sėsliai gyvenusiais prie Baltijos jūros.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.'
+- t-002
+  teiginys: 'Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3).'
   pagrindžia:
     - c-004
 
-- t-005
-  teiginys: 'Pagal raštingumą etniniai lietuviai bemaž du kartus lenkė Rusijos vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai mokėsi gimtąja kalba.'
-  pagrindžia:
-    - c-005
-
-- t-006
-  teiginys: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet''gola.'
-  pagrindžia:
-    - c-006
-
-- t-007
+- t-003
   teiginys: 'Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.'
   pagrindžia:
     - c-007
 
-- t-008
+- t-004
+  teiginys: 'II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.'
+  pagrindžia:
+    - c-005
+
+- t-005
   teiginys: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
   pagrindžia:
-    - c-008
-- t-009
-  teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
-  pagrindžia:
     - c-009
-- t-010
+
+- t-006
   teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
   pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3).'
+    - c-003
+
+- t-007
+  teiginys: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet''''gola.'
   pagrindžia:
-    - c-011
+    - c-001
+
+- t-008
+  teiginys: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
+  pagrindžia:
+    - c-006
+
+- t-009
+  teiginys: 'Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
@@ -103,149 +87,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
     apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
     krauklės prie Dauguvos iki Burtnieko ežero.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
-    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
-    (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
-    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
-    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
-    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
-    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
-    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
-    kranto ruožą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Lietuviai ir latviai buvo laikomi baltais, mažiausiai keturis tūkstančius metų sėsliai gyvenusiais prie Baltijos jūros.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bal-
-    tai ir jų ainiai, lietuviai ir latviai, sėsliai prie Baltijos jūros gyvena mažiau-
-    siai 4 tūkstančius metų. Dėl to kartais sakoma, kad tai vienos sėsliausių ir
-    seniausių Europos tautų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių ir latvių tautos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    II tūkstantmečio pradžioje pradėjo formuotis prū-
-    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
-    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
-    vėliau įkūrė Prūsijos valstybę.
-    Sėslus baltų gyvenimas, matyt, nulėmė, kad baltų mitologijoje (jos ele-
-    mentų išliko tautosakoje) yra daug senųjų indoeuropiečių mitologijos bruo-
-    žų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Pagal raštingumą etniniai lietuviai bemaž du kartus lenkė Rusijos vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai mokėsi gimtąja kalba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pa-
-    gal raštingumą etniniai lietuviai
-    bemaž du kartus lenkė Rusijos
-    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
-    mokėsi gimtąja kalba. Beje, ekspertus apstulbino tai, kad Kauno guber-
-    nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
-    nei vyrų: atitinkamai 55 proc.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet''gola.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
-    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
-    mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
-    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
-    (X, 3). XII-XIII amž.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: 'Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ta lietuvių tauta, išsis­
-    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
-    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
-    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
-    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
-    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
-    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
-    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
-    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
-    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
-    išsaugojo gryniausius savo padermės bruožus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
 
-- c-008
-  santrauka: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai ir Lietuva
-
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -265,13 +113,11 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     išsaugojo gryniausius savo padermės bruožus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
+    - t-001
+
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvių ten atliktas asimiliacijos
@@ -284,16 +130,16 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     (X, 3).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli» (X, 3).'
+    - t-006
+
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
     _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
     (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
     kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
@@ -301,11 +147,102 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     krauklės prie Dauguvos iki Burtnieko ežero.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
+    - t-002
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
+    (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
+    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
+    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
+    krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
+    veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos
+    žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
+    kranto ruožą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola. Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
+    (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
+    kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
+    apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
+    krauklės prie Dauguvos iki Burtnieko ežero.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-009
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -340,6 +277,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/zodynas/Prūsijos žemė]]
 - [[objektai/grupes/Sėliai]]
 - [[objektai/zodynas/Vidivarijai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
 - [[objektai/asmenys/Daumantas]]
 - [[objektai/autoriai/Endzelins J]]
@@ -356,13 +295,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Nepriklausomosios Latvių valstybės įkūrimas (1918 m. lapkričio 18 d.)]]
 - [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
+- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
 - [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas]]
 - [[objektai/asmenys/Treniota]]
 - [[objektai/autoriai/V. Mažiulis]]
 - [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
+- [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/terrula žemelė]]
-- [[objektai/zodynas/unijinės pažiūros]]
 - [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/zodynas/akcijos]]
 - [[objektai/grupes/Žemaičiai]]

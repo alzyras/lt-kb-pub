@@ -27,19 +27,19 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 
 ## Teiginiai
 
-- t-002
-  teiginys: '14 Gedimino laiške Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino mies­ tams ir Gotlando salos gyventojams šis valdovas praneša, kad į Vilnių at­ vykę kolonistai galės vadovautis ci­ viline teise, kokia naudojasi Rygos miestas, kol teisėtvarkininkai nesu­ kurs.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyventojams teisės normas ir anų amžių neįmantriam protui vėliau parašytus įstatymus.'
+  teiginys: '14 Gedimino laiške Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino mies­ tams ir Gotlando salos gyventojams šis valdovas praneša, kad į Vilnių at­ vykę kolonistai galės vadovautis ci­ viline teise, kokia naudojasi Rygos miestas, kol teisėtvarkininkai nesu­ kurs.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyventojams teisės normas ir anų amžių neįmantriam protui vėliau parašytus įstatymus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
@@ -74,9 +74,9 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas
@@ -95,7 +95,7 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

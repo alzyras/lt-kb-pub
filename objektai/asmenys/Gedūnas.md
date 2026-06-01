@@ -22,21 +22,21 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 - t-001
   teiginys: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad gedūnas vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai karalius jį paklausė, rodydamas
@@ -52,9 +52,9 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žiemą ši kariuomenė atžygiavo  į Elbingą,
@@ -90,7 +90,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'

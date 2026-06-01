@@ -1,23 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: kaštelionas
-sukurta: '2026-04-25'
-variantai:
-  - kaštelionas
-  - kaštelionai
-  - castellanus
-aliases: []
+pavadinimas: 'kaštelionas'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - sąvoka
@@ -29,100 +17,95 @@ tags:
 Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: Kaštelionas šiame tekste yra lenkiško modelio pareigybė.
-  pagrindžia:
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 1413 m. kartu su vaivada numatomas naujas administracinis postas Lietuvoje.
+  teiginys: 'Kaštelionas šiame tekste yra lenkiško modelio pareigybė.'
   pagrindžia:
     - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: '„dignitorijas, kėdes ir urėdus, kokie yra įsteigti lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada ir kaštelionas, taip pat ir Trakuose...” 283 nlnkai, ne patarėjai, o aktą darą veiksniai^1 ).'
+
+- t-002
+  teiginys: '1413 m. kartu su vaivada numatomas naujas administracinis postas Lietuvoje.'
   pagrindžia:
-    - c-005
+    - c-001
+
+- t-003
+  teiginys: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
+    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
+    ir kaštelionas, taip pat ir Trakuose...”
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jiems karo reikaluose ir teismuose
+    Tik Vilniaus ir Trakų
+    sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vieti-
+    ninkais, bet vaivadomis. Tai buvo lenkiškojo tipo urėdai,
+    kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,
+    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
     tarsi padėjėjai buvo kaštelionai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vėliau Žemaitijai buvo paskirtas ir kaštelionas (1566 m.).'
+    - t-003
+
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vėliau Žemaitijai buvo paskirtas ir kaštelionas
+    Čia nuo Vytauto laikų buvo krašto
+    viršininkas, vadinamas seniūnu. Jis buvo lygus su vaiva-
+    domis. Vėliau Žemaitijai buvo paskirtas ir kaštelionas
     (1566 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Kaštelionas šiame tekste yra lenkiško modelio pareigybė.
+    - t-004
+
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
     „dignitates, sedes et officia, prout in regno Poloniae instituta
     sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
     tellanus vilnensis et demum in Trokky“...^2 ).
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 1413 m. kartu su vaivada numatomas naujas administracinis postas Lietuvoje.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
-    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
-    ir kaštelionas, taip pat ir Trakuose...”
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: '„dignitorijas, kėdes ir urėdus, kokie yra įsteigti lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada ir kaštelionas, taip pat ir Trakuose...” 283 nlnkai, ne patarėjai, o aktą darą veiksniai^1 ).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
-    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
-    ir kaštelionas, taip pat ir Trakuose...”
-
-
-    ```
-    283
-    ```
-    nlnkai, ne patarėjai, o aktą darą veiksniai^1 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-005
+  santrauka: 'Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tai buvo lenkiškojo tipo urėdai,
+    kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,
+    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
+    tarsi padėjėjai buvo kaštelionai. (Bet tose dviejose di-
+    džiulėse vaivadijose buvo taip pat ir vietininkų, valdančių di-
+    džiojo kunigaikščio dvarus su mažesnėmis apylinkėmis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-005
 
@@ -146,7 +129,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/asmenys/Jonas Karcanas]]
 - [[objektai/asmenys/Jonas iš Zabrežjės]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
-- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/asmenys/Kasparas Vilkovskis]]
 - [[objektai/zodynas/Kašteliono valdžia]]
@@ -159,7 +141,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Stanislovas Veenas]]
 - [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės]]
 - [[objektai/asmenys/Ulrikas Hozijus]]

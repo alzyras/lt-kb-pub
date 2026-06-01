@@ -1,28 +1,17 @@
 ---
 tipas: paprotys
-pavadinimas: "Vilniaus padienininkų rinkimasis prie rotušės"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Vilniaus padienininkų rinkimasis prie rotušės'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1547 m. Vilnius"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1547 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XVI"
-date_start: "1547"
-date_end: "1547"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
+  - '1547 m.'
+date_start: '1547'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XVI'
 ---
 # Vilniaus padienininkų rinkimasis prie rotušės
 
@@ -31,6 +20,7 @@ tags: []
 1547 m. brangymečio kontekste Vilniuje nustatyta padienių darbininkų rinkimosi prie rotušės tvarka. Ji turėjo palengvinti miesto gyventojams padienių darbininkų samdymą ir rėmėsi Krokuvoje įvestos tvarkos pavyzdžiu.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1547 m. Vilnius
 - datos: 1547 m.
 - periodas: ankstyvieji_naujieji_laikai
@@ -40,36 +30,38 @@ tags: []
 - date_end: 1547
 
 ## Kas tai
+
 - kategorija: teisinė-administracinė praktika
 
 ## Atlikimas
+
 - kas atlieka: Vilniaus padienininkai; tvarką nustato valdovas.
 - kada atliekama: nuo 1547 m. potvarkio.
 - kaip atliekama: padienininkams renkantis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1547 m. Vilniuje maisto brangymetis paskatino Žygimanto Augusto potvarkį dėl supirkinėtojų ir padienių darbininkų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '1547 m. Vilniuje maisto brangymetis paskatino Žygimanto Augusto potvarkį dėl supirkinėtojų ir padienių darbininkų.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: "1547 m. potvarkis nustatė padienininkų rinkimosi prie rotušės tvarką."
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios bažnyčią stovin­
@@ -83,14 +75,12 @@ Nenurodyta
     dienius darbininkus, visiems padienininkams nuo tol nu­
     rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
     vyzdžiu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -99,3 +89,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/supirkinėtojai ir padienininkai]]
+- [[objektai/asmenys/Žygimantas Augustas]]

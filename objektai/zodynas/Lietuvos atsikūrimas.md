@@ -70,7 +70,6 @@ amziai:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/1991 m. rugpjūčio Maskvos pučas]]
 - [[objektai/ivykiai/1991 m. sausio 13 d]]
 - [[objektai/autoriai/Albertas Daugirdas]]
 - [[objektai/autoriai/Andžej Geglis]]

@@ -17,19 +17,19 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 34, p. 107, 112; Remeika J., Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42; Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių gyvenvietė (Remeika J., Ką kalneliai..., p. 15).'
+  teiginys: 'Dusburgietis teigia, kad 34, p. 107, 112; Remeika J., Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42; Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose — tai laumių gyvenvietė (Remeika J., Ką kalneliai..., p. 15).'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pirmoje pusėje kalne išlikusį pylimą žmonės vadino
@@ -41,9 +41,9 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     99), liaudyje
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

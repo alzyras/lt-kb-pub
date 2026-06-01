@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '`rex` `bazileus`'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valdovas
@@ -19,26 +16,31 @@ tags:
 Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo rex, o Algirdas laiškuose Bizantijai – bazileus.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo rex, o Algirdas laiškuose Bizantijai – bazileus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Antra vertus, visi
+    LIETUVOS KRIKŠTAS
+    P
+    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
+    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
+    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
+    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
+    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
+    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
+    krikštas nebūtų išsprendęs ordinų agresijos problemos). Antra vertus, visi
     Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams
     rex; Algirdas laiškuose Bizantijos imperijai – bazileus).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

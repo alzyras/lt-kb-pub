@@ -1,29 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Kuršių marios'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - pilis
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Kuršių marios
 
@@ -33,73 +28,104 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 
 ## Teiginiai
 
+- t-001
+  teiginys: 'O Algirdas su Kęstučiu, teriodami Kuršių Marių pakraščiais, nužygiavo iki Dei­ menos^13.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.'
+  pagrindžia:
+    - c-006
+
 - t-003
-  teiginys: 'Dusburgietis teigia, kad traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama, vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos globojo, kai traukė per ploną Kuršių marių ledą (III, 285).'
+  teiginys: 'Dusburgietis teigia, kad 556 D.— per stagnum Curoniense, Jer.— daz kûrische hab.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.'
+  teiginys: 'Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.'
+  teiginys: 'Dusburgietis teigia, kad traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama, vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos globojo, kai traukė per ploną Kuršių marių ledą (III, 285).'
   pagrindžia:
     - c-005
 
 - t-006
-  teiginys: 'Dusburgietis teigia, kad 556 D.— per stagnum Curoniense, Jer.— daz kûrische hab.'
+  teiginys: 'Dusburgietis teigia, kad ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.'
   pagrindžia:
-    - c-006
-
-- t-001
-  teiginys: 'Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
-- t-002
-  teiginys: 'O Algirdas su Kęstučiu, teriodami Kuršių Marių pakraščiais, nužygiavo iki Dei­ menos^13.'
-  pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
 
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kniprodė smarkiai
+    teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus
+    polaidžio jis turėjo gana nuostolingą grįžimą^12. O Algirdas su
+    Kęstučiu, teriodami Kuršių Marių pakraščiais, nužygiavo iki Dei­
+    menos^13. Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
+    čioje Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, užėmus pajūrį, Livonijoje ir Prūsuose veikiančios ordino
+    šakos galėtų susisiekti sausuma. Tam tikslui 1252 m. Livo-
+    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
+    jungiasi su Baltija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama, vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos globojo, kai traukė per ploną Kuršių marių ledą (III, 285).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
-    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
-    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
-    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333).
+    556 D.— per stagnum Curoniense, Jer.— daz kûrische hab.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
 - c-004
-  santrauka: 'Dusburgietis teigia, kad ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgą laiką ir Kuršių marios iki Klaipėdos laikytos Nemuno tąsa.
       Dusburgietis Nemuną vadina Memela (plg.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
 - c-005
-  santrauka: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Broliai, paženklinę save šv.
+    kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
+    kariuomenę (III, 251). Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
+    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
+    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
+    plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai vėliau
@@ -110,52 +136,21 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     nenuskendo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Dusburgietis teigia, kad 556 D.— per stagnum Curoniense, Jer.— daz kûrische hab.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    556 D.— per stagnum Curoniense, Jer.— daz kûrische hab.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-
-- c-001
-  santrauka: 'Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tam tikslui 1252 m. Livo-
-    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
-    jungiasi su Baltija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'O Algirdas su Kęstučiu, teriodami Kuršių Marių pakraščiais, nužygiavo iki Dei­ menos^13.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O Algirdas su
-    Kęstučiu, teriodami Kuršių Marių pakraščiais, nužygiavo iki Dei­
-    menos^13. Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
-    čioje Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-007
+  santrauka: 'Dusburgietis teigia, kad kai vėliau traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
+    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse. Kai vėliau
+    traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką. Ledas
+    buvo toks minkštas, kad bangavo nelyginant vanduo audros metu, kai, stipriam vėjui
+    pučiant, jis kyla aukštyn ir krinta žemyn.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

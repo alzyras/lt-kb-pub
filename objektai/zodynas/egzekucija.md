@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'egzekucija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karalius
@@ -21,22 +18,25 @@ tags:
 Šita politika buvo vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija. Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Egzekucija buvo vadinama įstatymų vykdymo politika.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Egzekucija buvo vadinama įstatymų vykdymo politika.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu Lenkų valstybė stengėsi susigrąžinti sau visus bajo-
@@ -46,15 +46,13 @@ tags:
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šita politika buvo
@@ -65,13 +63,28 @@ tags:
     Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
     lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
     sianti vykdoma vadinamoji egzekucija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
+    ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
+    atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
+    Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
+    lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
+    sianti vykdoma vadinamoji egzekucija.
+    Lenkai šitokiu lietuvių siūlomu projektu pasipiktino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

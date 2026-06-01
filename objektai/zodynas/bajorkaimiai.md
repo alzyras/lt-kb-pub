@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bajorkaimiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - mokslininkas
@@ -26,16 +17,15 @@ tags:
 Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicose (Essen), net vietovardžiuose ir asmenvardžiuose.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Normanų įtakos pėdsakų Lietuvos bajorkaimiuose, okolicose, dar reikėjo gilesnio mokslinio pagrindimo.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Normanų įtakos pėdsakų Lietuvos bajorkaimiuose, okolicose, dar reikėjo gilesnio mokslinio pagrindimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Normanų įtakos pėdsakų reikią ieškoti
@@ -44,11 +34,9 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
     moksliško pagrindimo.
     Lietuvių ir normanų santykius šiek tiek pailiustruoja archeolo­
     giniai radiniai, Skandinavijos Sagos ir autentiškų šaltinių žinutės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

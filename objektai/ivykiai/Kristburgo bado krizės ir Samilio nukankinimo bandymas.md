@@ -37,22 +37,22 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų.'
   pagrindžia:
-    - c-001
-    - c-003
+    - c-002
+    - c-004
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad ilgainiui pilyje vėl kilo toks baisus badas, kad broliai, pristigę maisto, ėmė įkalbinėti ir įtikinėti jiems ištikimus pamedėnus, prie jų prisidėjusius, pasitraukti iš čia į kitas vietas, žadėdami palikti jiems visas teises bei laisves, kad galėtų ten.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad šitai sužinoję, prūsai įtūžo, pagavo Samilį, pripylė jam į gerklę verdančio vandens ir, nuogą padėję ant ugnies, tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams, ten jis, ilgesnį laiką pasirgęs, galop pagijo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgainiui pilyje vėl kilo toks baisus badas,
@@ -70,7 +70,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
@@ -90,7 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai sužinoję, prūsai
@@ -107,7 +107,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be

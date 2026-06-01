@@ -16,12 +16,12 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Petras Griškevičius pati ėmėsi iniciatyvos.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griškevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios vadžias.'
   pagrindžia:
     - c-001
@@ -56,7 +56,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -87,7 +87,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

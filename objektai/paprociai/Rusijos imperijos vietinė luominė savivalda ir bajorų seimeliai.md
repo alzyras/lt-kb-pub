@@ -1,33 +1,22 @@
 ---
 tipas: paprotys
-pavadinimas: "Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
-  - 'Kandidatas Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
-aliases:
-  - 'Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
-  - 'Kandidatas Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
+pavadinimas: 'Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1794 m.'
   - '1795 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
 date_start: '1794'
 date_end: '1795'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
   - paprotys
   - seimas
+amziai:
+  - 'XVIII'
 ---
 # Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai
 
@@ -36,41 +25,45 @@ tags:
 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų, savivalda. Bajorai turėjo savivaldą gubernijos ir apskrities lygmeniu, vadinamuosius seimelius, kurie vykdė pagalbines valdžios aparato funkcijas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apskrities bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus pareigūnus ir žemutinės teismų grandies teisėjus.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Apskrities bajorų susirinkimas rinko kai kuriuos viešosios tvarkos pareigūnus ir žemutinės teismų grandies teisėjus.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apskrities bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus pareigūnus ir žemutinės teismų grandies teisėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
@@ -80,15 +73,13 @@ Nenurodyta
     vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
     bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
     gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -104,9 +95,7 @@ Nenurodyta
     per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

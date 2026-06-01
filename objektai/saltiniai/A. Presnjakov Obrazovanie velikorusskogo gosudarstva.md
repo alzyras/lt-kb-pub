@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'A. Presnjakov Obrazovanie velikorusskogo gosudarstva'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1918 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # A. Presnjakov Obrazovanie velikorusskogo gosudarstva
 
@@ -27,18 +21,15 @@ tags:
 Presnjakov, A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ivinskis, Z. : Liubartas Gediminaitis , LE, t. 16, 318-320 p. — Kra­
@@ -51,10 +42,8 @@ Presnjakov, A.
     355-356 p. — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
     Petrograd 1918. — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

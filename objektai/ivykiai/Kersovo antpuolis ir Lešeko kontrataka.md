@@ -36,12 +36,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių žūtį Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės dalyje, kuri vadinama Kersovu, ir, išžudę daugybę krikščionių, pasitraukė su dideliu grobiu. Tuo metu, kai šitai dėjosi.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės
@@ -60,7 +60,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį

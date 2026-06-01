@@ -43,19 +43,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad čia Dusburgietis pateikia oficialią Ordino pradžios tradiciją (pagal Statutų prologą).'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos.'
+  teiginys: 'Dusburgietis teigia, kad čia Dusburgietis pateikia oficialią Ordino pradžios tradiciją (pagal Statutų prologą).'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Akono apgulos metu krikščionių kariuomenėje buvę „pamaldūs vyrai iŠ Bremeno ir Liubeko“ įrengė ligoninę, o ten buvusių vokiečių feodalų vardu Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį, Vokietijos.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Popiežius patvirtino
@@ -68,9 +68,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis iškreipia faktus dėl akivaizdžios tendencijos. Vokiečių ordino pradžią jis
@@ -84,7 +84,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

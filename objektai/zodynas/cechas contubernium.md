@@ -19,19 +19,20 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Nos cum Consiliariis nostris, lateri nostro tunc assi­ dentibus, audita beneque examinata partium controversia, 436 ## Puslapis 453 IV KNYGA pagal minėtos privilegijos nuostatus buvo įprasta laikytis, savą auksakalystės meną atskirai nuo cecho narių neapgal­.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro, mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­ to auksakalių cechui duotai ir mūsų patvirtintai privilegi­ jai, nebijodamas toje.'
+  teiginys: 'Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro, mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­ to auksakalių cechui duotai ir mūsų patvirtintai privilegi­ jai, nebijodamas toje.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Convento vero forum decli­
@@ -69,9 +70,9 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skel­
@@ -98,7 +99,7 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

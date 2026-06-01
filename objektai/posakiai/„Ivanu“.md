@@ -1,25 +1,19 @@
 ---
 tipas: posakis
 pavadinimas: '„Ivanu“'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1772 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1772'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valstybė
+amziai:
+  - 'XVIII'
 ---
 # „Ivanu“
 
@@ -28,19 +22,20 @@ tags:
 Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir Lietuva buvo beveik praradusi valstybingumą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir Lietuva buvo beveik praradusi valstybingumą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: '„amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m. Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir.'
+  teiginys: 'Laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą, amžininkai pavadino „Ivanu“.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir Lietuva buvo beveik praradusi valstybingumą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį
@@ -53,18 +48,19 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
     nės (šis reiškinys sukėlė nemenką pa-
     niką tarp abiejų kariuomenių karių).
     Apie 14 val.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '„amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m. Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžininkai pavadino „Ivanu“, nes pirmą kartą Lietuvos istorijoje beveik visą jos teritoriją buvo užėmusios priešų kariuomenės ir.'
+  santrauka: 'Laikotarpį, kai priešų kariuomenės buvo užėmusios beveik visą Lietuvą ir ji beveik prarado valstybingumą, amžininkai pavadino „Ivanu“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    „amžinąja
+    Rusija pasižadėjo
+    grąžinti pagrobtą turtą, Lietuva atgavo Latgalą, Polocką ir Vitebską.
+    Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja
     taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
 
     Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį
@@ -75,8 +71,6 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
     kariuomene stovėjo prie Šklovo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

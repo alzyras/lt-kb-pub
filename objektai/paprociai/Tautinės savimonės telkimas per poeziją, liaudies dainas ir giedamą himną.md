@@ -1,32 +1,21 @@
 ---
 tipas: paprotys
-pavadinimas: "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 64 Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
-  - 'Kandidatas Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
-aliases:
-  - 'Kandidatas 64 Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
-  - 'Kandidatas Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
+pavadinimas: 'Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1895 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1895'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigas
   - mokslininkas
   - paprotys
+amziai:
+  - 'XIX'
 ---
 # Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną
 
@@ -35,57 +24,60 @@ tags:
 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t. Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvių tautinę savimonę žadino V. Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
+  teiginys: 'Jurgis Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Tautinę savimonę žadino V. Kudirkos poezija, satyriniai apsakymai ir Julijos Žymantienės-Žemaitės realistinė socialinė proza.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: 'Jurgis Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-005
   teiginys: 'Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
   pagrindžia:
     - c-003
-- t-006
+
+- t-005
   teiginys: 'Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t.'
   pagrindžia:
     - c-004
 
+- t-006
+  teiginys: 'Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių tautinę savimonę žadino V. Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
@@ -98,15 +90,13 @@ Nenurodyta
     monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
     pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
     Žymantienės-Žemaitės sodri realistinė sociali proza.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis
@@ -121,15 +111,13 @@ Nenurodyta
     garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-006
+
 - c-003
-  santrauka: 'Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautos patriarchas dr. Jonas Basanavičius
@@ -148,16 +136,14 @@ Nenurodyta
     Žymantienės-Žemaitės sodri realistinė sociali proza.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+
 - c-004
-  santrauka: 'Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jonas Basanavičius
+    Tautos patriarchas dr. Jonas Basanavičius
 
     L I E T U V O S  I S T O R I J A
     120
@@ -173,11 +159,9 @@ Nenurodyta
     Žymantienės-Žemaitės sodri realistinė sociali proza.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

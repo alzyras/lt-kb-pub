@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'V. Urbanavičius, XIV-XVII amžių monetos Lietuvos kapinynuose'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1967 m.'
   - '1970 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1967'
 date_end: '1970'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # V. Urbanavičius, XIV-XVII amžių monetos Lietuvos kapinynuose
 
@@ -28,18 +22,15 @@ tags:
 Urbanavičius, V.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Urbanavičius, V.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Urbanavičius, V.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_
@@ -54,10 +45,8 @@ Urbanavičius, V.
     124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
     nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
     amžiais_ , Vilnius 1970.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,29 +1,18 @@
 ---
 tipas: daiktas
-pavadinimas: Skydas
-sukurta: '2026-04-30'
-variantai:
-  - Skydai
-aliases: []
+pavadinimas: 'Skydas'
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 datos:
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 date_start: '2026'
 date_end: ''
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XXI'
 ---
 # Skydas
 
@@ -36,75 +25,72 @@ Skydai buvo naudojami kaip apsauga nuo priešo smūgių. Baltos vėliavos skyde 
 - `Skydai`
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Skydai buvo naudojami kaip apsauga nuo priešo smūgių.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
-- t-004
+- t-002
   teiginys: 'Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
-  pagrindžia:
-    - c-004
-- t-007
+- t-003
   teiginys: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
   pagrindžia:
-    - c-005
+    - c-004
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Skydai buvo naudojami kaip apsauga nuo priešo smūgių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Paskesnėse gadynėse ginklais buvo: kalavijai, kardai ir kirviai, iš akmens dirbti, turėjo taip pat
-    skydus, kuriais dangstės nuo neprieteliaus siūčiu, kurie buvo pailguotinai^1325 apvalūs, jau iš žilvičių
-    nupinti, jau iš lentos ištašyti. Lietuviai, tokiu ginklu ginkluodamies, ilgą laiką gynės nuo neprietelių.
-  citata_rodoma: ""
+        skydus, kuriais dangstės nuo neprieteliaus siūčiu, kurie buvo pailguotinai^1325 apvalūs, jau iš žilvičių
+        nupinti, jau iš lentos ištašyti. Lietuviai, tokiu ginklu ginkluodamies, ilgą laiką gynės nuo neprietelių.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
+
 - c-002
-  santrauka: 'Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
-    perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
-    buvusi stati, o mėlynuosiuose aukštynoka^1334. Kartais turėję baltą vėliavą, kurios skyde buvęs žmogus
-    besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
-    pustytojų^1335 , užtik juos.“
-  citata_rodoma: ""
+        perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
+        buvusi stati, o mėlynuosiuose aukštynoka^1334. Kartais turėję baltą vėliavą, kurios skyde buvęs žmogus
+        besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
+        pustytojų^1335 , užtik juos.“
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
+    - t-006
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
@@ -124,13 +110,11 @@ Nenurodyta
                               199 (194).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-005
-  santrauka: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
+    - t-004
+
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pėstininkai galėdavo būti apsaugoti žieduočio šarvų,
@@ -140,11 +124,9 @@ Nenurodyta
     neretai jų kojos ir rankos būdavo neapsaugotos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -158,7 +140,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/daiktai/Šarvai]]
-- [[objektai/autoriai/Ščigelskis]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
 - [[objektai/daiktai/Skydai]]
 - [[objektai/asmenys/Aaronas]]

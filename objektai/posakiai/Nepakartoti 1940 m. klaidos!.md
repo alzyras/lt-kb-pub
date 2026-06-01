@@ -1,32 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: 'Nepakartoti 1940 m. klaidos!'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1940 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1940'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - posakis
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1940'
-date_end: '2026'
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
-tags:
-  - posakis
 ---
 # Nepakartoti 1940 m. klaidos!
 
@@ -39,20 +28,20 @@ tags:
 - Pagrindinė forma: Nepakartoti 1940 m. klaidos!
 
 ## Teiginiai
-- t-002
-  teiginys: 'Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+
+- t-001
   teiginys: 'Gynėjai išsikėlė nerašytą misiją - pasipriešinti bet kokiu atveju ir nepakartoti 1940 m. klaidos!'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
@@ -69,18 +58,21 @@ tags:
     stogo. Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-002
-  santrauka: 'Gynėjai išsikėlė nerašytą misiją - pasipriešinti bet kokiu atveju ir nepakartoti 1940 m. klaidos!'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Gynėjai išsikėlė nerašytą misiją - pa-
+    Tuo tikslu
+    dalis ginkluotų A. Pociaus vadovaujamų
+    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
+    toje Neries pusėje, dalis kovotojų išsidėstė
+    ant Nacionalinės M. Mažvydo bibliotekos
+    stogo. Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
 
@@ -89,11 +81,9 @@ tags:
     gamybos dirbtuvės bei šaudykla.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Koneczny'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - dokumentas
@@ -26,16 +17,15 @@ tags:
 Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip autentišką.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kiek vėliau padary­
@@ -45,10 +35,8 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
     torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
     tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
     autentišką.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

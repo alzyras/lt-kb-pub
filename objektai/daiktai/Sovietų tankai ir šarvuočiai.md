@@ -1,31 +1,18 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Sovietų tankai ir šarvuočiai"
-sukurta: '2026-05-13'
-variantai:
-  - "Sovietų tankai ir šarvuočiai"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Sovietų tankai ir šarvuočiai'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "1991 m. sausio įvykių kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1991 m.'
-periodas: 'siuolaikine_istorija'
-periodo_grupes:
-  - 'sąjūdis'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1991'
 date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-13'
+sukurta: ''
+atnaujinta: ''
 tags:
   - transportas
+amziai:
+  - 'XX'
 ---
 # Sovietų tankai ir šarvuočiai
 
@@ -34,11 +21,13 @@ tags:
 Sovietų tankai ir šarvuočiai šaltinyje minimi kaip karinė technika, judėjusi Vilniaus gatvėmis ir dalyvavusi Sausio 13-osios smurtiniuose veiksmuose prie televizijos bokšto ir Lietuvos radijo bei televizijos komiteto pastato.
 
 ## Pavadinimai šaltiniuose
+
 - kariniai šarvuočiai
 - sovietų tankai ir šarvuočiai
 - tankų vikšrai
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1991 m. sausio įvykių kontekstas
 - datos:
   - 1991 m. sausio 10-13 d.
@@ -57,123 +46,107 @@ Karinė technika, šaltinyje siejama su sovietų kariuomenės spaudimu ir Sausio
 Važinėjo Vilniaus gatvėmis, apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą; tankų vikšrai ir šūviai minimi kaip žalojimo kontekstas.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai."
+  teiginys: 'Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
-  teiginys: "Sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą."
+  teiginys: 'Sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-003
-  teiginys: "Loreta Asanavičiūtė pateko po tanko vikšrais, o daliai gynėjų klausa pažeista nuo tankų šūvių tuščiais šoviniais."
+  teiginys: 'Loreta Asanavičiūtė pateko po tanko vikšrais, o daliai gynėjų klausa pažeista nuo tankų šūvių tuščiais šoviniais.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-004
   teiginys: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Kariniai šarvuočiai minimi Vilniuje prieš Sausio 13-osios šturmą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
-    vuočiai.
-  citata_rodoma: ""
+    Aplink
+    AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie
+    12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
+    Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
+    daugiatūkstantinė taikių Lietuvos gyventojų minia. 1991 m. sausio 13-ąją,
+    sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos lais-
+    vės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji
+    pateko po tanko vikšrais ir mirė ligoninėje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nepaisant
+    didžiulio smūgio ekonomikai (trūko kuro, kurį laiką nedirbo Mažeikių
+    naftos perdirbimo įmonė, dėl žaliavų trūkumo užsidarė kai kurios ga-
+    myklos, atsirado pirmieji bedarbiai), Lietuva atsilaikė ir diplomatinėmis
+    priemonėmis pasiekė ekonominės blokados atšaukimo. Tačiau 1991 m.
+    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
+    mą. Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
+    vuočiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Tankai ir šarvuočiai dalyvavo televizijos bokšto ir LRT pastato apsuptyje.
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi-
+    nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
+    parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink
+    AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie
     12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
-  citata_rodoma: ""
+    Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
+    daugiatūkstantinė taikių Lietuvos gyventojų minia.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
     - t-003
-- c-003
-  santrauka: Iliustracijos antraštė tankų vikšrus sieja su taikių gynėjų traiškymu.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    pateko po tanko vikšrais ir mirė ligoninėje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvai
+    laikantis tik savų įstatymų, 1990 m. balandžio 18 d. SSRS pradėjo Lie-
+    tuvos ekonominę blokadą, kuri truko iki birželio 29-osios. Nepaisant
+    didžiulio smūgio ekonomikai (trūko kuro, kurį laiką nedirbo Mažeikių
+    naftos perdirbimo įmonė, dėl žaliavų trūkumo užsidarė kai kurios ga-
+    myklos, atsirado pirmieji bedarbiai), Lietuva atsilaikė ir diplomatinėmis
+    priemonėmis pasiekė ekonominės blokados atšaukimo. Tačiau 1991 m.
     sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
+    mą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus televizijos bokšto šturmas – sovietų tankų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    .
-    Vilniaus televizijos bokšto šturmas – sovietų tankų
-    vikšrai traiško taikius gynėjus
-
-    L I E T U V O S  I S T O R I J A
-    246
-    dainuoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

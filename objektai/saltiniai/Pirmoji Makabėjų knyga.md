@@ -17,12 +17,12 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš mus sunaikinti mūsų ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti mūsų tautos ir.'
   pagrindžia:
     - c-001
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -56,4 +56,4 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

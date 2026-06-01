@@ -1,36 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Vidivarijai"
-sukurta: '2026-05-27'
-variantai:
-  - "vidivarijai"
-  - "vidivarii"
-  - "nomen gentile"
-  - "nomen sociale"
-aliases:
-  - "Vidivarijai"
-  - "vidivarijai"
-  - "vidivarii"
-  - "nomen gentile"
-  - "nomen sociale"
+pavadinimas: 'Vidivarijai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "I"
-  - "X"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Vidivarijai
 
@@ -52,22 +26,20 @@ Kontekste `vidivarii` nėra vienos tautos giminės vardas, o įvairių tautų sa
 Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams."
+  teiginys: 'Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vidivarijų vardas aiškinamas ne kaip vienos tautos giminės vardas, bet kaip įvairių tautų sambūrio bendruomenės vardas.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata sieja vidivarijų vardą su skirtingų kilmių gyventojų maišymusi.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I  TOMAS
@@ -83,15 +55,13 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
     tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
     iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
     Nemuno ir Būgo žiočių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vidivarijų vardas aiškinamas ne kaip vienos tautos giminės vardas, bet kaip įvairių tautų sambūrio bendruomenės vardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kraštas, ku­
@@ -118,11 +88,9 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
     būrio nomen sociale [bendruomenės
     vardas], koks yra frankų pavadini­
     mas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
     - t-002
 

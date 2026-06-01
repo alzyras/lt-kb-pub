@@ -28,19 +28,19 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius namus, vieną Bernardinų gatvėje, o du Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise, užrašė Akademijai ir Collegio, nustatydamas sąlygas: lmo: kad keliems studentams.'
+  teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius namus, vieną Bernardinų gatvėje, o du Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise, užrašė Akademijai ir Collegio, nustatydamas sąlygas: lmo: kad keliems studentams.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
@@ -64,9 +64,9 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     lėšų, prie Akademijos aikštės dar kai kuriuos
@@ -81,4 +81,4 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

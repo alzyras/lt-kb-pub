@@ -1,14 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Didieji Lukai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - karas
@@ -22,46 +18,49 @@ tags:
 Didieji Lukai: lietuviai, matydami, kad karo sunkumus tenka nešti beveik jiems vieniems, įkalbinėjo karalių daryti taiką, net nepaėmus Didžiųjų Lukų tvirtovės, jei tik caras pasiūlytų priimtinesnes sąlygas. Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Didieji Lukai: lietuviai, matydami, kad karo sunkumus tenka nešti beveik jiems vieniems, įkalbinėjo karalių daryti taiką, net nepaėmus Didžiųjų Lukų tvirtovės, jei tik caras pasiūlytų priimtinesnes sąlygas.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
+- t-002
+  teiginys: 'Didieji Lukai: lietuviai, matydami, kad karo sunkumus tenka nešti beveik jiems vieniems, įkalbinėjo karalių daryti taiką, net nepaėmus Didžiųjų Lukų tvirtovės, jei tik caras pasiūlytų priimtinesnes sąlygas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Didieji Lukai: lietuviai, matydami, kad karo sunkumus tenka nešti beveik jiems vieniems, įkalbinėjo karalių daryti taiką, net nepaėmus Didžiųjų Lukų tvirtovės, jei tik caras pasiūlytų priimtinesnes sąlygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    lietuviai, matydami, kad karo sunkumus tenka nešti beveik
+    Bet kadangi nuo pagrindinių savo reikalavimų
+    jis vis dėlto neatsisakė, tai sujungtos Lietuvių ir Lenkų kariuo-
+    menės dabar paėmė labai svarbią caro Didžiųjų Lukų
+    tvirtovę ir daug aplinkinių miestų.
+    **Žygis į Pskovą ir 1582 m. paliaubos.** Jau 1580 m. žygio
+    metu lietuviai, matydami, kad karo sunkumus tenka nešti beveik
     jiems vieniems, įkalbinėjo karalių daryti taiką, net nepaėmus
     Didžiųjų Lukų tvirtovės, jei tik caras pasiūlytų priimtinesnes
     sąlygas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1582 m. sausio 15 d. buvo pasirašyta 10 metų karo
+    Ka-
+    ralius linko taikintis, nes užėjusi žiema labai trukdė kariauti,
+    be to, kariuomenė buvo išvargusi, joje prasidėjo ligos, o Pskovo
+    tvirtovė buvo gerai sustiprinta ir sunkiai paimama. Todėl po
+    ilgų derybų, 1582 m. sausio 15 d. buvo pasirašyta 10 metų karo
     paliaubos. Sutartyje caras atsisakė nuo Livonijos, Polocko ir
     Veližo; jam buvo grąžinti tik Didieji Lukai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

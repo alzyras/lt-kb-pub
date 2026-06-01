@@ -28,21 +28,21 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
 - t-001
   teiginys: 'Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad hartknochas, pirmas D.'
+  pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad hartknochas, pirmas D.'
+  teiginys: 'Dusburgietis teigia, kad 82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro Hartknoch.'
   pagrindžia:
     - c-003
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro Hartknoch.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ch. Hartknochas, pirmas D. kronikos leidėjas, galvojo, kad tuo vardu čia vadinami
@@ -53,9 +53,9 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     82 De Dusburg Petri [...] Chronłcon Prussiae / Auctore et collectore Christophoro
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

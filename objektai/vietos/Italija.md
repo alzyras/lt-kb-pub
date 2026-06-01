@@ -30,27 +30,27 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
   pagrindžia:
-    - c-007
+    - c-002
 
 - t-002
   teiginys: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
   pagrindžia:
-    - c-002
+    - c-006
 
-- t-004
+- t-003
   teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
   pagrindžia:
-    - c-004
+    - c-005
 
-- t-008
-  teiginys: '• — 275 ## Puslapis 292 VILNIAUS MIESTO ISTORIJA I I TOMAS de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo meno kūriniais.'
+- t-004
+  teiginys: 'Iš Italijos kilęs de Senis papuošė Vilnių nuostabaus darbo meno kūriniais.'
   pagrindžia:
-    - c-008
+    - c-007
 
-- t-001
+- t-005
   teiginys: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   pagrindžia:
     - c-001
@@ -58,22 +58,22 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - t-006
   teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
   pagrindžia:
-    - c-006
-
-- t-003
-  teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
-  pagrindžia:
     - c-003
 
-- t-009
+- t-007
+  teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
+  pagrindžia:
+    - c-004
+
+- t-008
   teiginys: 'Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau buvo Italijoj.'
   pagrindžia:
-    - c-009
+    - c-008
 
-- t-010
+- t-009
   teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   pagrindžia:
-    - c-010
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -90,9 +90,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-007
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Esą, istorijoje žinomas romėnų karvedys Publijas Li-
@@ -107,26 +107,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
-    kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
-    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
-    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
-    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
-    teris Paulius Rubensas).
-    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
-    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
-    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
-    Vidurio Europą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-006
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -145,9 +126,28 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
 - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    XVII–XVIII a. senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
+    kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
+    Vidurio Europą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1939 m. Kaune Lietuva antrą
@@ -159,9 +159,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-002
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Esą, istorijoje žinomas romėnų karvedys Publijas Li-
@@ -178,7 +178,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - t-002
 
-- c-008
+- c-007
+  santrauka: 'Iš Italijos kilęs de Senis papuošė Vilnių nuostabaus darbo meno kūriniais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     — • —
@@ -198,9 +199,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-004
 
-- c-009
+- c-008
   santrauka: 'Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau buvo Italijoj.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -213,9 +214,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-010
+- c-009
   santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -232,9 +233,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-011
+- c-010
   santrauka: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -247,4 +248,4 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010

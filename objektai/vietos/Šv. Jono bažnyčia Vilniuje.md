@@ -30,39 +30,39 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Protasevi­ čius šiam ordinui nupirko mūrinį namą netoli Švento Jono bažnyčios ir pritaikė jiems gyventi.'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.'
   pagrindžia:
     - c-003
 
-- t-006
-  teiginys: 'Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65.'
+- t-002
+  teiginys: '1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-006
 
-- t-002
+- t-003
+  teiginys: 'Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65.'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Jono bažnyčios Vilniuje įkūrimą ir jos prijungimą prie Akademijos kolegijos Vladislovo Jogailos valdymo laikais lietuvių tautos at­ vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta Šv.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-005
   teiginys: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv.'
   pagrindžia:
     - c-001
 
-- t-004
-  teiginys: 'Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv.'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
@@ -74,7 +74,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -97,9 +97,9 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-005
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų pastangos disputuoti su disidentais išties
@@ -112,9 +112,9 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-006
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
@@ -130,9 +130,9 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-001
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
@@ -151,9 +151,10 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-003
+- c-006
+  santrauka: '1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono brolijai priklausantiems,
@@ -175,4 +176,4 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

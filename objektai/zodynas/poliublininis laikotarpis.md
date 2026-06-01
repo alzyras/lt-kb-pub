@@ -1,34 +1,18 @@
 ---
-tipas: 'zodyno_irasas'
+tipas: zodyno_irasas
 pavadinimas: 'poliublininis laikotarpis'
-sukurta: '2026-04-28'
-variantai:
-  - 'pirmais poliublininiais dešimtmečiais'
-  - 'poliublininiame laikotarpyje'
-  - 'poliublininiais'
-  - 'poliublininius'
-  - 'poliublininių'
-  - 'poliublininiams'
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1569 m.'
   - '1572 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1569'
 date_end: '1572'
-laikotarpis: 'po `1569 m.'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XVI'
 ---
 # poliublininis laikotarpis
 
@@ -41,6 +25,7 @@ Laikotarpis po Liublino unijos; laikotarpis po Liublino unijos, kai Lietuvos ist
 Vartojamos formos: pirmais poliublininiais dešimtmečiais, poliublininiame laikotarpyje, poliublininiais, poliublininius, poliublininių, poliublininiams.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: po `1569 m.
 - datos:
   - po `1569 m.
@@ -53,129 +38,54 @@ laikotarpis po Liublino unijos; laikotarpis po Liublino unijos, kai Lietuvos ist
 
 Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskiros Lietuvos istorijos tęsimą.
 
+## Pastabos
+
+- šaltinyje terminas pavartotas aprašomai, o ne kaip atskirai apibrėžta periodizacijos sąvoka.
+
 ## Teiginiai
+
 - t-001
   teiginys: 'Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.'
   pagrindžia:
-    - c-001
-    - c-003
     - c-004
-    - c-005
     - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-008
+    - c-001
+    - c-005
+
 - t-002
   teiginys: 'Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-007
+
 - t-003
   teiginys: 'istorikai šį laikotarpį siejo su bendros respublikos Lietuvos istorija.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-004
   teiginys: 'keli autoriai prie šio laikotarpio specializavosi ir jį tyrė kaip atskirą temą.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-005
   teiginys: 'sąvoka vartojama kaip istorinės epochos pavadinimas, o ne kaip laisvas pasakymas.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-006
   teiginys: 'Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline.'
   pagrindžia:
-    - c-007
+    - c-002
+
 - t-007
   teiginys: 'Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
   pagrindžia:
-    - c-008
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tad naudojant vad. pir­
-    mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
-    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
-    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
-    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
-    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
-    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
-    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
-    Didžiosios Lietuvos Kunigaikštystės gyventojus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-003
-    - t-004
-    - t-005
-- c-002
-  santrauka: Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tai
-    matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
-    įkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­
-    tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi
-    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
-    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ant tautinio pa­
-    grindo atsistačiusioje Lietuvoje dar buvo gyvos XIX amžiaus an­
-    tros pusės tradicijos ieškoti lietuvių tautos didybės XIII-XV amž.
-    istorijoje. Istorikams tad, vystant savą istoriografiją, pirmiausia
-    rūpėjo « surasti lietuvius Lietuvos istorijoje »^86. Ypač jų reikėjo
-    ieškoti bendroje respublikoje poliublininiais amžiais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-004
-  santrauka: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tai parodė
-    jis savo paskaitose (nuo 1941 m. docentas) ir, palyginti, gausiuose
-    raštuose iš Lietuvos istorijos.
-    Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
-    relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­
-    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
-    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
-    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
-    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-005
-  santrauka: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Suprantama, dėmesingai buvo
@@ -188,35 +98,16 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     ir davė kruopščiai parašytą ir išsamų veikalą « Bajorai valstybi­
     niame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų
     studijų istorijos žurnaluose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-006
-  santrauka: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­
-    pio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,
-    Šapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1).
-    Šalia poliublininių laikų studijų, jis davė nesenstančių tyrinė­
-    jimų iš lietuvių ir čekų santykių XIII-XV arnž. (atspaudai iš
-    Praeities t. 1-3).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-007
-  santrauka: 'Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    pir­
+    Tad naudojant vad. pir­
     mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
     Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
     kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
@@ -227,29 +118,108 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     Didžiosios Lietuvos Kunigaikštystės gyventojus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-008
-  santrauka: 'Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
+
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Palyginti, objektyviai išdės­
+    Tai
+    matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
+    įkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­
     tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi
     (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
     liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
-## Pastabos
 
-- šaltinyje terminas pavartotas aprašomai, o ne kaip atskirai apibrėžta periodizacijos sąvoka.
+- c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad naudojant vad. pir­
+    mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
+    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
+    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
+    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
+    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
+    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
+    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
+    Didžiosios Lietuvos Kunigaikštystės gyventojus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-003
+    - t-004
+    - t-005
+
+- c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­
+    pio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,
+    Šapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1).
+    Šalia poliublininių laikų studijų, jis davė nesenstančių tyrinė­
+    jimų iš lietuvių ir čekų santykių XIII-XV arnž. (atspaudai iš
+    Praeities t. 1-3).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ant tautinio pa­
+    grindo atsistačiusioje Lietuvoje dar buvo gyvos XIX amžiaus an­
+    tros pusės tradicijos ieškoti lietuvių tautos didybės XIII-XV amž.
+    istorijoje. Istorikams tad, vystant savą istoriografiją, pirmiausia
+    rūpėjo « surasti lietuvius Lietuvos istorijoje »^86. Ypač jų reikėjo
+    ieškoti bendroje respublikoje poliublininiais amžiais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tai
+    matyti iš kovų su kryžiuočiais ir iš gražiai aprašytos Vilniaus
+    įkūrimo (Gedimino) sapno legendos^28. Palyginti, objektyviai išdės­
+    tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi
+    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
+    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tai parodė
+    jis savo paskaitose (nuo 1941 m. docentas) ir, palyginti, gausiuose
+    raštuose iš Lietuvos istorijos.
+    Atidavęs savo duoklę dviem straipsniais «jaunųjų istorikų bū­
+    relio » rinkinyje apie Vytautą D., labiausiai Šapoka tyrinėjo valsty­
+    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
+    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
+    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
+    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -257,6 +227,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/K. Avižonis]]

@@ -34,12 +34,12 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų gatve nuo Jo Didenybės Vil­ niaus vyskupo dvaro link prieglau­ dos ir Šv.'
+- t-002
+  teiginys: '1573 m. sutartyje Vyskupų gatvė nurodyta aprašant sklypą prie Skapo gatvės kampo, einant nuo Vilniaus vyskupo dvaro.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
   pagrindžia:
     - c-002
@@ -87,9 +87,10 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
+  santrauka: '1573 m. sutartyje Vyskupų gatvė nurodyta aprašant sklypą prie Skapo gatvės kampo, einant nuo Vilniaus vyskupo dvaro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau 1573 metais
@@ -106,4 +107,4 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

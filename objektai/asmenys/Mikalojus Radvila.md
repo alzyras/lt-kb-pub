@@ -28,34 +28,34 @@ periodo_grupes:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Be to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­ čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš totorius pasiektai pergalei atminti savo žemėje už miesto ant kalnelio.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus vaivadai Mikalojui Radvilai.'
   pagrindžia:
-    - c-002
-
-- t-001
-  teiginys: '„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną.'
-  pagrindžia:
-    - c-001
-
-- t-005
-  teiginys: 'PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai.'
-  pagrindžia:
     - c-005
 
+- t-003
+  teiginys: '„Visa, ką maniau būsiant reikalinga tėvynei ir ką man derėjo parašyti, nutariau išdėstyti jums, ket meldžiu įvertinti ne mano ketinimus, o pačią knygą, “ — Rotundas (Augustinas Mieleckis), Vilniaus vaitas, Mikalojui Radvilai 1560 m. vasario 12 dieną.'
+  pagrindžia:
+    - c-003
+
 - t-004
+  teiginys: 'PATS ALEKSANDRAS, DIEVO MALONE DIDYSIS LIETUVOS, RUSIOS, ŽEMAIČIŲ IR KITŲ KUNIGAIKŠTIS Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­ vilai.'
+  pagrindžia:
+    - c-002
+
+- t-005
   teiginys: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be
@@ -70,9 +70,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Uždėtas mažasis antspaudas, vaiz­
@@ -89,9 +89,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,
@@ -116,7 +116,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -137,9 +137,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-002
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sklypas tas ir mūrinis namas, kuriame yra spaustu­

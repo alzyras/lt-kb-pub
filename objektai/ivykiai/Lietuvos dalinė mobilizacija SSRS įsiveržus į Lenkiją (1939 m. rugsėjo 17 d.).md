@@ -1,27 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1939 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
+date_start: '1939'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - ivykis
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1939'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
-tags:
-  - ivykis
 ---
 # Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)
 
@@ -30,32 +23,36 @@ tags:
 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'L I E T U V O S I S T O R I J A 184 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -69,15 +66,13 @@ Nenurodyta
     Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'L I E T U V O S I S T O R I J A 184 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepatarė imti Vilniaus ir sovietai.
@@ -90,11 +85,9 @@ Nenurodyta
     kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -25,20 +25,20 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad mickevičius J.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės kaimu prie Akmenos (Jūros intako) į pietryčius nuo Šilalės, su ten buvusiu (upės nuplautu) arba gretimo Kreivių kaimo piliakalniu (SRP, 2, p. 673—675; SZM, p. 201; Biržiška V., Kryžiuočių keliai..., p. 32—33.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad kreiviai (anksčiau vadinti Kryvos vardu — Mickevičius J.) ir gretimas Romės Laukas, matyt, buvo susiję su pagonišku kultu (žr.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -56,9 +56,9 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mickevičius J. Putvės pilis XIV amžiuje.— Gimtasai kraštas, 1940, Nr. 3—4, p. 286—
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dab. Pūtvės kaimo žemėse, Akmenos
@@ -81,4 +81,4 @@ Dusburgietis teigia, kad pūtvės pilis ir laukas identifikuojami su Pūtvės ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003

@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '„Tad tenai Gedimi­ nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­ kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­ nės pašovė didžiulį taurą ir pribaigė jį ant to kalno.'
+  teiginys: 'Strijkovskio pasakojime Gediminas medžiojo girioje tarp kalnų, kurie vadinti Plikaisiais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Strijkovskio pasakojime Gediminas medžiojo girioje tarp kalnų, kurie vadinti Plikaisiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA

@@ -1,9 +1,6 @@
 ---
 tipas: posakis
 pavadinimas: '„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -13,23 +10,18 @@ datos:
   - '1953 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1251'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - krikštas
   - ordinas
   - posakis
+amziai:
+  - 'XIII'
+  - 'XXI'
 ---
 # „Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“
 
@@ -38,16 +30,15 @@ tags:
 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1251 m. Mindaugas krikštijosi, o 1253 m. liepos 6 d. buvo vainikuotas pirmuoju ir vieninteliu Lietuvos karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
@@ -63,11 +54,9 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
     tarsi užbaigia valstybės susikūrimą, nes Lietuvą pripažino to meto pasau-
     lis. Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai dau-
     giausia nusipelniusių asmenybių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

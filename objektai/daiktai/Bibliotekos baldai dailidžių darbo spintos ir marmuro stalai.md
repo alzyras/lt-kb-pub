@@ -43,13 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '1746 metais maloningieji tėvai Kazimieras ir Mykolas Vežbickiai, pirma apie 16 000 auksinų sumą dėję langams sutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams ir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus --• - - 184 ## Puslapis 201 Il.'
+  teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms ir marmuro stalams įsigyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms ir marmuro stalams įsigyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     F) Žinios apie Bibliotekai funduotus

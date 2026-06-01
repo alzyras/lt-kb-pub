@@ -1,27 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Rumšiškėnai XIV-XVI amžiais'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1929 m.'
   - '1970 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1929'
 date_end: '1970'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Rumšiškėnai XIV-XVI amžiais
 
@@ -30,18 +23,15 @@ tags:
 (”) Rumšiškėnai XIV-XVI amžiais , Vilnius 1970.
 
 ## Teiginiai
+
 - t-001
   teiginys: '(”) Rumšiškėnai XIV-XVI amžiais , Vilnius 1970.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '(”) Rumšiškėnai XIV-XVI amžiais , Vilnius 1970.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Semkowicz, W. : _Pierwsze przywileje
@@ -57,10 +47,8 @@ tags:
     Didžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —
     Salmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­
     fürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

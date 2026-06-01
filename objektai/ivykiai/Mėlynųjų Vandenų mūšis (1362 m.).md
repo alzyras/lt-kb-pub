@@ -1,56 +1,21 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Mėlynųjų Vandenų mūšis (1362 m.)'
-sukurta: '2026-04-28'
-variantai:
-  - 'Sine Wody'
-  - 'mūšis prie Būgo prieupio Mėlynųjų Vandenų'
-  - 'mūšis prie Mėlynųjų Vandenų'
-  - 'MUSIS PRIE MĖLYNŲJŲ VANDENU 1362/1363'
-  - 'Mėlynuosius Vandenis'
-  - 'Mėlynaisiais Vandenimis'
-  - 'Mėlynieji Vandenys'
-aliases:
-  - '[]'
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1362 m.'
-vaidmenys:
-  - '[]'
-dalyviai:
-  - '[]'
-  - 'Algirdas'
-  - 'Karijoto sūnūs Karijotaičiai'
-  - 'Chadžibėjus'
-  - 'Kutlugbuga'
-  - 'Dmitrijus'
-  - 'totoriai'
-  - 'Aukso orda'
-susije_irasai:
-  - '[]'
 datos:
   - '1362 m.'
-  - '1363 m.'
-  - '1978 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1362'
 date_end: '2026'
-patikimumas: 'aukstas'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Mėlynųjų Vandenų mūšis (1362 m.)
 
@@ -59,88 +24,51 @@ tags:
 1362 m. Algirdas prie Mėlynųjų Vandenų sumušė totorius. Šaltinyje šio mūšio padariniai siejami su Podolės, Dniepro žemupio ir Kijevo kunigaikštystės įjungimu į Lietuvos valstybės orbitą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-009
-  teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.'
+
+- t-001
+  teiginys: 'Pergalės tarptautinė reikšmė Algirdo pajėgų žygis prieš totorius ir pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: 'Tikėtina Mėlynųjų Vandenų mūšio vieta siejama su Siniuchos upe Pietų Ukrainoje ir Targovicos vietove prie jos žiočių.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: 'Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje, nusiaubė Podolę ir buvo pirmas toks didelis įsiveržimas į Ordos valdas.'
+
+- t-002
+  teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   pagrindžia:
     - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-015
-  teiginys: 'Rogožos metraštyje rašoma, kad 1363 m. rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+
+- t-003
+  teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
-    - c-007
-- t-016
+    - c-004
+
+- t-004
   teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
   pagrindžia:
-    - c-008
-- t-017
-  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+    - c-001
+
+- t-005
+  teiginys: 'Didžiausia tikimybė, kad Mėlynieji Vandenys, tai Siniuchos upė Pietų Ukrainoje, kairysis Pietinio Bugo intakas.'
   pagrindžia:
-    - c-009
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mėlynųjų Vandenų įvykių pagrindi-
-    niai šaltiniai: žinios xv a. pirmosios pusės
-    rusų Tverės sąvade - Rogožos metraštyje
-    prieš 6871 (1363) m. sakoma, kad rudenį
-    Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“. Tas pats aprašyta vė-
-    lesniame Maskvos- Tverės kilmės Nikono
-    metraštyje (susijusiame su Algirdo pali-
-    kuonimis Belskiais). Trumpojoje Lietuvos
-    metraščių redakcijoje (xv a. 4-5 de-
-    šimtmečiai) įrašytas „Pasakojimas apie
-    Podolę“ - plačiausiai kalbantis šaltinis
-    šia tema.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tas pats aprašyta vė-
@@ -155,33 +83,13 @@ Nenurodyta
     telkęs savo lietuvių pajėgas, žygiuoda-
     mas Padniepre pro Kanevą, Čerkasus, ties
     Mėlynaisiais Vandenimis sumušęs totorius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-003
-  santrauka: 'Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
-- c-004
-  santrauka: 'Tikėtina Mėlynųjų Vandenų mūšio vieta siejama su Siniuchos upe Pietų Ukrainoje ir Targovicos vietove prie jos žiočių.'
+    - t-004
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Didžiausia tikimybė, kad Mėlynieji Van-
@@ -200,15 +108,13 @@ Nenurodyta
     jėgas šešiais lenktais rikiuotės daliniais.
     Neišlaikę spaudimo totoriai bėgo“ žuvo
     daug murzy ir ulonų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-012
-- c-005
-  santrauka: 'Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje, nusiaubė Podolę ir buvo pirmas toks didelis įsiveržimas į Ordos valdas.'
+    - t-005
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi po mūšio buvo nusiaub-
@@ -228,15 +134,13 @@ Nenurodyta
     pirmas Rytų Europoje toks didelis įsiverži-
     mas į Ordos valdas, sudavęs jos įtakai di-
     delį smūgį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-007
-  santrauka: 'Rogožos metraštyje rašoma, kad 1363 m. rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+    - t-001
+
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
@@ -244,19 +148,27 @@ Nenurodyta
     rusų Tverės sąvade - Rogožos metraštyje
     prieš 6871 (1363) m. sakoma, kad rudenį
     Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“.
+    pakrantę nukariavo“. Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais). Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-008
-  santrauka: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+    - t-003
+
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Trumpojoje Lietuvos
+    Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais). Trumpojoje Lietuvos
     metraščių redakcijoje (xv a. 4-5 de-
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
@@ -267,38 +179,25 @@ Nenurodyta
     Mėlynaisiais Vandenimis sumušęs totorius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-009
-  santrauka: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ) teužvaldė
-    Vytautas.
-    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
-    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
-    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
-    Dniepro žemupį, kuris tada buvo tuščias^13.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/autoriai/Auksė Ūsienė]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/ulonai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]

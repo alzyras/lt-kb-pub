@@ -19,19 +19,19 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religinė viršenybė rusiškojo tikėjimo vyskupų Lietuvo­ je atžvilgiu.'
+  teiginys: 'Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religinė viršenybė rusiškojo tikėjimo vyskupų Lietuvo­ je atžvilgiu.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
@@ -55,9 +55,9 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vienas didžiausių
@@ -83,7 +83,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -94,4 +94,3 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/grupes/Maskvos metropolitai]]
-- [[objektai/zodynas/Puslapis 77]]

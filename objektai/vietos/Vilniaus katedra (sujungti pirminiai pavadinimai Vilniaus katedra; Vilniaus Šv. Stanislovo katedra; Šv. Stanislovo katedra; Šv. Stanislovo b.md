@@ -34,84 +34,84 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
 
 ## Teiginiai
 
-- t-015
-  teiginys: '-- • 418 ## Puslapis 435 IV KNYGA norime, kad po mūsų mirties keturis kartus per metus į mū­ sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­ čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­ tas, vieną tik to metų ketvirčio dieną.'
-  pagrindžia:
-    - c-015
-
-- t-005
-  teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
-  pagrindžia:
-    - c-005
-
-- t-013
-  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
-  pagrindžia:
-    - c-013
-
-- t-012
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  pagrindžia:
-    - c-012
-
-- t-007
-  teiginys: '12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv.'
-  pagrindžia:
-    - c-007
-
-- t-004
-  teiginys: '1 9 1 ## Puslapis 208 VILNIAUS MIESTO ISTORIJA / TOMAS 8.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
-  pagrindžia:
-    - c-001
-
-- t-010
-  teiginys: '• — 275 ## Puslapis 292 VILNIAUS MIESTO ISTORIJA I I TOMAS de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo meno kūriniais.'
-  pagrindžia:
-    - c-010
-
-- t-002
-  teiginys: 'Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių.'
+  teiginys: 'Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.'
   pagrindžia:
     - c-002
 
-- t-009
-  teiginys: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
-  pagrindžia:
-    - c-009
-
-- t-008
-  teiginys: 'Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje.'
-  pagrindžia:
-    - c-008
-
-- t-014
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
-  pagrindžia:
-    - c-014
-
-- t-006
-  teiginys: 'Stanislovo katedrą.'
+- t-002
+  teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
   pagrindžia:
     - c-006
 
 - t-003
-  teiginys: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
+  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   pagrindžia:
-    - c-003
+    - c-012
+
+- t-004
+  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  pagrindžia:
+    - c-015
+
+- t-005
+  teiginys: '12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv.'
+  pagrindžia:
+    - c-010
+
+- t-006
+  teiginys: 'Vilniaus katedroje vyskupas Jonas Lasavičius įrengė Vyskupų koplyčią.'
+  pagrindžia:
+    - c-014
+
+- t-007
+  teiginys: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
+  pagrindžia:
+    - c-008
+
+- t-008
+  teiginys: 'Šv. Stanislovo bažnyčioje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
+  pagrindžia:
+    - c-005
+
+- t-009
+  teiginys: 'Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių.'
+  pagrindžia:
+    - c-007
+
+- t-010
+  teiginys: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
+  pagrindžia:
+    - c-009
 
 - t-011
-  teiginys: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
+  teiginys: 'Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje.'
   pagrindžia:
     - c-011
 
+- t-012
+  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
+  pagrindžia:
+    - c-004
+
+- t-013
+  teiginys: 'Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
+  pagrindžia:
+    - c-013
+
+- t-014
+  teiginys: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
+  pagrindžia:
+    - c-001
+
+- t-015
+  teiginys: 'Vilniaus vyskupo Povilo poelgis privertė karalių atsisakyti ketinimo ir pasukti į katalikų katedrą.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos
@@ -147,9 +147,10 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-014
 
-- c-015
+- c-002
+  santrauka: 'Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Val erianus Episcopus Vilnen. manu propria.
@@ -175,9 +176,10 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-001
 
-- c-011
+- c-003
+  santrauka: 'Vilniaus vyskupo Povilo poelgis privertė karalių atsisakyti ketinimo ir pasukti į katalikų katedrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
@@ -194,9 +196,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-015
 
-- c-014
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
@@ -218,9 +220,10 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-012
 
-- c-010
+- c-005
+  santrauka: 'Šv. Stanislovo bažnyčioje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     — • —
@@ -240,9 +243,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-008
 
-- c-005
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila taip pat
@@ -258,9 +261,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-002
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
@@ -278,9 +281,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-009
 
-- c-001
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
@@ -298,7 +301,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-007
 
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -324,9 +327,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-010
 
-- c-007
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287.
@@ -341,9 +344,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-008
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai kurias
@@ -366,9 +369,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-011
 
-- c-013
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
@@ -401,9 +404,10 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-003
 
-- c-006
+- c-013
+  santrauka: 'Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
@@ -418,9 +422,10 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-013
 
-- c-004
+- c-014
+  santrauka: 'Vilniaus katedroje vyskupas Jonas Lasavičius įrengė Vyskupų koplyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1 9 1
@@ -436,9 +441,9 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-012
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
@@ -465,4 +470,4 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-004

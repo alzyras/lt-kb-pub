@@ -1,17 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: "Milenaristinės krikščioniškos misijos ir valdovų krikštai"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 10 Milenaristinės krikščioniškos misijos ir valdovų krikštai'
-  - 'Kandidatas Milenaristinės krikščioniškos misijos ir valdovų krikštai'
-aliases:
-  - 'Kandidatas 10 Milenaristinės krikščioniškos misijos ir valdovų krikštai'
-  - 'Kandidatas Milenaristinės krikščioniškos misijos ir valdovų krikštai'
+pavadinimas: 'Milenaristinės krikščioniškos misijos ir valdovų krikštai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - krikštas
@@ -25,37 +18,40 @@ tags:
 Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1009-ieji Lietuvai praneša ne tik apie kriminalą, bet ir kur kas dau-
@@ -63,11 +59,9 @@ Nenurodyta
     kuris įtikėjo ir krikštijosi. Šis pirmasis krikštas Lietuvoje tiesiogiai susijęs
     su krikščioniškosios Europos Millenniumo – tūkstantmečio idėja, kuri
     kildintina iš Šventojo Rašto Apreiškimo Jonui arba Apokalipsės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

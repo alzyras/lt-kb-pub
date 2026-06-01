@@ -28,26 +28,26 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 - t-001
   teiginys: 'Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato raštininkų namai ir butai kartą ir visiems laikams bu­ vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.'
   pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
-  pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
-  teiginys: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
+  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
   pagrindžia:
     - c-002
 
 - t-003
+  teiginys: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Nors ir yra pinigų, paimtų už Mask­ vos kalinius bei ką tik iš Gdansko atgabentų, vis dėlto pa­ tartume tą sumą dvarui sulaikyti iki Jų Malonybių ponų tarybos narių suvažiavimo.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nes, tarp kitko, mūsų mi­
@@ -74,9 +74,9 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  369-
@@ -109,9 +109,9 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaito,
@@ -131,7 +131,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   pagrindžia:
     - t-001
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gi tuo laiku
@@ -156,7 +156,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

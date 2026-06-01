@@ -1,14 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Mužikus nori padaryti bajorais, o mus — mužikais'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - posakis
@@ -21,22 +17,20 @@ tags:
 „Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija. Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
 - t-002
   teiginys: 'Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jame buvo nuostatų, palengvinančių valstiečių būklę
@@ -48,22 +42,21 @@ tags:
     bajorais, o mus — mužikais", — šaukė bajorija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jame buvo nuostatų, palengvinančių valstiečių būklę
+    Vienas artimiausiųjų jo
+    bendradarbių buvo Lietuvos vicekancleris Jokimas Chreptavi-
+    čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
+    tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

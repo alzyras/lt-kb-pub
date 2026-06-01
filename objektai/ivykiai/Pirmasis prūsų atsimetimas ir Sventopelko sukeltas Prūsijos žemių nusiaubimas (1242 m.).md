@@ -42,15 +42,15 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie žemutinių Prūsijos žemės dalių nusiaubimą Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė atskleisti iki šiol slėptą tūžmingą įgeidį persekioti, anksčiau padarytas nedorybes papildydamas naujomis.'
@@ -60,11 +60,11 @@ Nenurodyta
 - t-004
   teiginys: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus tas pats Sventopelkas, velnio išpera, iš naujo sutelkė nuo tikėjimo
@@ -82,9 +82,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
@@ -120,7 +120,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
@@ -144,7 +144,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-006
+- c-005
   santrauka: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -162,7 +162,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

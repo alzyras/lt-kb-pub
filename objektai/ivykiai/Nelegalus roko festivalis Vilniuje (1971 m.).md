@@ -1,15 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Nelegalus roko festivalis Vilniuje (1971 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1971 m.'
+date_start: '1971'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Nelegalus roko festivalis Vilniuje (1971 m.)
 
@@ -18,38 +21,43 @@ tags:
 Hipių judėjimo pakilimo laikotarpis siejamas su aštuntojo dešimt­ mečio pradžios įvykiais Vilniuje ir Kaune.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar net 300 SSRS hipių suvažiavimu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar net 300 SSRS hipių suvažiavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1971 m. viename iš Vilniaus
+    Dėl to jie persekioti, suėmus jiems nukerpami plaukai, su-
+    rašomas teisės pažeidimų protokolas, ne vienas jų išmestas iš aukštosios
+    mokyklos ar kitos mokymo įstaigos.
+    Hipių judėjimo pakilimo laikotarpis siejamas su aštuntojo dešimt­
+    mečio pradžios įvykiais Vilniuje ir Kaune. 1971 m. viename iš Vilniaus
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
     net 300 SSRS hipių suvažiavimu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

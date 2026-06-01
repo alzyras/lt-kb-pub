@@ -45,12 +45,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos kapitulos, Eželio vyskupo, Dorpato vyskupo ir paties miesto vyskupo, Danijos karaliaus ginkluoto būrio vado, Vokiečių ordinom ir Rygos miesto pusės ir be nurodymo žemių, kurias tos.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Mat atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­ nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant valdovo.'
   pagrindžia:
     - c-001
@@ -79,7 +79,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -112,7 +112,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -25,12 +25,12 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Laišką, kai perskaitys ministras ir kustodai, prašom pa­ siųsti į kitą provinciją, o visi broliai nuoširdžiai tepasimel­ džia už karalių, jo vaikus ir karalienes, o taip pat už visą kraštą, kad viešpats užbaigtų tą [darbą], kurį jis pradėjo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­ liškojo sosto aukščiausiajam kunigui, kad jis padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą.'
   pagrindžia:
     - c-001
@@ -65,7 +65,7 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -83,4 +83,4 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

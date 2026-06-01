@@ -49,16 +49,16 @@ Nenurodyta
 - t-001
   teiginys: 'Tad 1505 metais, kai tie barbarai buvo mažumėlę aprimę, karalius savo sprendimu atleido Vilniaus gyvento­ jus nuo karo tarnybos vieneriems metams, su sąlyga, kad apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų miestą mūro siena, kiekvienas pagal.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Miestiečiai prie jų dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė imti po vieną pinigą kas dveji metai, arba po vieną akmenį nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­ duktus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miestiečiai prie jų
@@ -77,7 +77,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę

@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'K. Avižonis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - bajorija
@@ -26,39 +17,20 @@ tags:
 Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyvenime Vazų lai­ kais, Kaunas 1940, naujai perspausdinta Romoje 1975. Avižonis: Chronicles, EnL, I, 519-523 p. (^2) JučM, 102; R.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Avižonis parašė Lietuvių enciklopedijos straipsnį „Vladimiras“.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'K. Avižonis tyrė poliublininius laikus, parašė veikalą apie bajorus Vazų laikų Lietuvoje ir kelias kritiškas istorijos studijas.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Avižonis parašė Lietuvių enciklopedijos straipsnį „Vladimiras“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^2) **Pvz., H. Paszkiewicz, J. Latkowski, H. Lowmiański.**
-    (^3) **Žr. žemiau skyrių « Lietuvos karalius Mindaugas ir jo palikimas ».**
-    (^4) **K. Avižoms:** **_Mieškas,_** **LE, t. 18, 384 p.**
-    (^5) **K. Avižonis :** **_Vladimiras,_** **LE, t. 34, 438 p.**
-    (^6) **Pvz., A. Juška :** **_Mindaugo krikštas,_** **Lux Christi 1951, 1 nr., 3-8 p. ;**
-    **_Mindaugas ir Lietuvos krikštas,_** **Laiškai Lietuviams 1951, 2 nr., 18-20 p.**
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'K. Avižonis tyrė poliublininius laikus, parašė veikalą apie bajorus Vazų laikų Lietuvoje ir kelias kritiškas istorijos studijas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
@@ -72,13 +44,26 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
     dėstė Europos istoriją J. A. V. Elono kolegijoje (N. C.)^88 ir parašė
     į LE daug gerų straipsnių iš Lietuvos ir rytų Europos (Rusijos)
     istorijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^2) **Pvz., H. Paszkiewicz, J. Latkowski, H. Lowmiański.**
+    (^3) **Žr. žemiau skyrių « Lietuvos karalius Mindaugas ir jo palikimas ».**
+    (^4) **K. Avižoms:** **_Mieškas,_** **LE, t. 18, 384 p.**
+    (^5) **K. Avižonis :** **_Vladimiras,_** **LE, t. 34, 438 p.**
+    (^6) **Pvz., A. Juška :** **_Mindaugo krikštas,_** **Lux Christi 1951, 1 nr., 3-8 p. ;**
+    **_Mindaugas ir Lietuvos krikštas,_** **Laiškai Lietuviams 1951, 2 nr., 18-20 p.**
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

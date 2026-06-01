@@ -110,7 +110,6 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
 - [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
 - [[objektai/grupes/Pskovo respublika]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
 - [[objektai/grupes/Rusijos kariuomenės korpusas]]

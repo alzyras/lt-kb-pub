@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Pažaislio vienuolynas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - vieta
@@ -19,25 +16,25 @@ tags:
 Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne – M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
+    Už-
+    darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-
+    taikytos uždarytos bažnyčios: Šv. Kazimiero bažnyčioje atidarytas Ateiz-
+    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

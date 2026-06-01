@@ -42,7 +42,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: '## Puslapis 165 Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šautuvų kiekis.'
+  teiginys: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.'
   pagrindžia:
     - c-002
 
@@ -65,7 +65,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: '## Puslapis 165 Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šautuvų kiekis.'
+  santrauka: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusų karinei vadovybei pavyko

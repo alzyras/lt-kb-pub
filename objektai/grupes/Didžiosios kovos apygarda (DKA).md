@@ -1,25 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Didžiosios kovos apygarda (DKA)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1946 m.'
   - '1947 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1946'
 date_end: '1947'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Didžiosios kovos apygarda (DKA)
 
@@ -28,22 +22,34 @@ tags:
 Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizanų apygardų vadus siekęs sunaikinti J.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: '1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa DKA buvo sunaikinta.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1946 m. Žalias Velnias pateko į viso Lietuvos išsivadavimo judėjimo vadu pasiskelbusio
+    MGB agento-provokatoriaus Juozo Markulio-Erelio pinkles. Dėl to beveik visa DKA buvo sunai-
+    kinta. O Žalias Velnias buvo suimtas ir 1947 m. sušaudytas Maskvoje. Visų partizanų apygardų
+    vadus siekęs sunaikinti J. Markulis sukvietė juos į susitikimą, tačiau buvo laiku demaskuotas
+    ir jo planas žlugo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Su savo maždaug 200 partizanų daliniu J. Misiūnas nuolat keliavo po Ukmergės
@@ -52,29 +58,11 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
     apygardą), tuomet Žalias Velnias ėjo šio junginio vado pavaduotojo pareigas, vadovavo Myko-
     las Kareckas-Serbentas, šiam žuvus, vėl vadu tapo J. Misiūnas, apygarda pavadinta Didžiosios
     kovos (DKA), įkurtos dvi rinktinės — „A“ (Trakų apskritis) ir „B“ (Ukmergės apskritis).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1946 m. Žaliam Velniui patekus į Juozo Markulio-Erelio pinkles, beveik visa DKA buvo sunaikinta.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1946 m. Žalias Velnias pateko į viso Lietuvos išsivadavimo judėjimo vadu pasiskelbusio
-    MGB agento-provokatoriaus Juozo Markulio-Erelio pinkles. Dėl to beveik visa DKA buvo sunai-
-    kinta. O Žalias Velnias buvo suimtas ir 1947 m. sušaudytas Maskvoje. Visų partizanų apygardų
-    vadus siekęs sunaikinti J. Markulis sukvietė juos į susitikimą, tačiau buvo laiku demaskuotas
-    ir jo planas žlugo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,28 +1,16 @@
 ---
 tipas: saltinis
 pavadinimas: 'Annales Minorum seu trium ordinum a S. Francisco institutorum'
-sukurta: '2026-05-27'
-variantai:
-  - 'Annales Minorum'
-  - 'Mažesniųjų brolių ordino istorija'
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-laikotarpis: ''
 datos:
   - '1733 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVIII'
 date_start: '1733'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVIII'
 ---
 # Annales Minorum seu trium ordinum a S. Francisco institutorum
 
@@ -41,21 +29,42 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
 - Balińskis nurodo, kad Lietuvos pranciškonų detalės yra šio rinkinio septintame tome.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.'
   pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Analų pasakojime minima 1341 m. gegužės 24 d. Vilniuje nužudytų 36 pranciškonų versija.'
   pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kry­
+    žiaus bažnyčios, sodyboje, vėliau ta­
+    pusioje Vyskupo rūmais. Jie visi,
+    regis, buvo nukankinti tais pačiais,
+    1333 metais, nušalinus Goštautą. To­
+    liau rašoma, jog, remiantis Baroni-
+    j a u s nuomone, 36 kiti pranciško­
+    nai 1341 metų gegužės 24 dieną bu­
+    vę Vilniuje nužudyti, tarp jų ir pats
+    Petras Goštautas, kuris, atsisakęs
+    vaivadystės, esą apsivilkęs pranciš­
+    kono abitą, o vėliau netgi tapęs pir­
+    muoju Vilniaus vyskupu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Waddyngas,  Mažesniųjų brolių
@@ -75,32 +84,6 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
     pusioje Vyskupo rūmais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Analų pasakojime, remiantis Baronijumi, minimas 36 pranciškonų nužudymas 1341 m.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kry­
-    žiaus bažnyčios, sodyboje, vėliau ta­
-    pusioje Vyskupo rūmais. Jie visi,
-    regis, buvo nukankinti tais pačiais,
-    1333 metais, nušalinus Goštautą. To­
-    liau rašoma, jog, remiantis Baroni-
-    j a u s nuomone, 36 kiti pranciško­
-    nai 1341 metų gegužės 24 dieną bu­
-    vę Vilniuje nužudyti, tarp jų ir pats
-    Petras Goštautas, kuris, atsisakęs
-    vaivadystės, esą apsivilkęs pranciš­
-    kono abitą, o vėliau netgi tapęs pir­
-    muoju Vilniaus vyskupu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

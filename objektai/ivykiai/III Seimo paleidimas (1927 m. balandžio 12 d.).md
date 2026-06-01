@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'III Seimo paleidimas (1927 m. balandžio 12 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1927 m.'
+date_start: '1927'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - ivykis
   - seimas
+amziai:
+  - 'XX'
 ---
 # III Seimo paleidimas (1927 m. balandžio 12 d.)
 
@@ -20,38 +23,45 @@ tags:
 Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prezidentas Antanas Smetona nuo valdžios nustūmė krikščionis demokratus, tuo metu stipriausią šalies politinę jėgą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prezidentas Antanas Smetona nuo valdžios nustūmė krikščionis demokratus, tuo metu stipriausią šalies politinę jėgą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taip pre-
+    Atsitokėjusi
+    kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
+    tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
+    susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo. Opozi-
+    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
+    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
+    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-
     zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
     šalies politinę jėgą – krikščionis demokratus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

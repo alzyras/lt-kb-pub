@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,16 +15,15 @@ tags:
 Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais, Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du priešai: šaltis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prie Dniepro Vytautas atrėmė siūlymą dėl šalčių mesti kovą su totoriais, sakydamas, kad kariauti reikia prieš šaltį ir totorius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prie Dniepro Vytautas atrėmė siūlymą dėl šalčių mesti kovą su totoriais, sakydamas, kad kariauti reikia prieš šaltį ir totorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas tuo at­
@@ -44,11 +34,9 @@ Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą 
     Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

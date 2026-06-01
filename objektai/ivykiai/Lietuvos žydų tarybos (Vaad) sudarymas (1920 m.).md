@@ -1,15 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1920 m.'
+date_start: '1920'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)
 
@@ -18,39 +21,44 @@ tags:
 Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1920 m. nacionali-
+    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją. Apskritai Lietu-
+    vos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje,
+    žydai savanoriai dalyvavo nepriklausomybės kovose. 1920 m. nacionali-
     nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

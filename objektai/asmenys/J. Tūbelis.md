@@ -16,12 +16,12 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -60,7 +60,7 @@ Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio minist
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

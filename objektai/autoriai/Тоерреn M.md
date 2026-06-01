@@ -31,21 +31,21 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
 - t-001
   teiginys: 'Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romene rytų Nadruvoje, į pietus nuo Pilkalnio (Тоерреn M., HCGP, p. 26—27 ir žemėlapis).'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die Bau.., 2, p. 17—18).'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad sembos pusiasalio pietvakarių kampas (Тоерреn M., Historisch.., p. 21).'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     385 D.— Wiclantsort, Jer.— Witlandisort. Turbūt Vitlando galas, t. y. Sembos pusiasalio
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ieškodamas centrinės baltų Romovės resp. Romuvos Nadruvoje, M. Pretorijus (1664—

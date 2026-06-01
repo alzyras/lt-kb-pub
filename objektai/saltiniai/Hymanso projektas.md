@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Hymanso projektas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - saltinis
@@ -21,30 +18,25 @@ tags:
 3 d. pateikė jau nebe diskusijų bazę, bet patį susitarimo projektą. Klaipėdos krašto klausimas buvo iškeltas ir Hymanso projekto svarstymuose, kurių metu paaiškėjo, kad krašto prijungimas prie Lietuvos galėjo būti viena iš to projekto priėmimo perspektyvų. 1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Hymansas rugsėjo 3 d. pateikė patį susitarimo projektą, o ne diskusijų bazę.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Klaipėdos krašto klausimas buvo iškeltas ir Hymanso projekto svarstymuose, kurių metu paaiškėjo, kad krašto prijungimas prie Lietuvos galėjo būti viena iš to projekto priėmimo perspektyvų.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Hymansas rugsėjo 3 d. pateikė patį susitarimo projektą, o ne diskusijų bazę.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: '1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Hymansas rugsėjo 3 d. pateikė patį susitarimo projektą, o ne diskusijų bazę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos vyriausybė sutiko tęsti derybas, bet tiktai sugrą-
@@ -63,39 +55,37 @@ tags:
     pridėtas protokolas, kurs, tarp kito ko, numatė, kad Vilniaus
     kantono seimas turės pasisakyti dėl to Lietuvos ir Lenkijos
     susitarimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Klaipėdos krašto klausimas buvo iškeltas ir Hymanso projekto svarstymuose, kurių metu paaiškėjo, kad krašto prijungimas prie Lietuvos galėjo būti viena iš to projekto priėmimo perspektyvų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Klaipėdos krašto klausimas buvo iškeltas ir Hymanso pro-
     jekto svarstymuose, kurių metu paaiškėjo, kad krašto prijun-
     gimas prie Lietuvos galėjo būti viena iš to projekto priėmimo
     perspektyvų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: '1922 metų rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė komisiją būsimam Klaipėdos krašto statutui svarstyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1922 metų
+    Klaipėdos krašto klausimas buvo iškeltas ir Hymanso pro-
+    jekto svarstymuose, kurių metu paaiškėjo, kad krašto prijun-
+    gimas prie Lietuvos galėjo būti viena iš to projekto priėmimo
+    perspektyvų.
+    **Klaipėdos krašto prisijungimas prie Lietuvos.** 1922 metų
     rudenį, Hymanso projektui žuvus, didžiosios valstybės sudarė
     komisiją būsimam Klaipėdos krašto statutui svarstyti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003

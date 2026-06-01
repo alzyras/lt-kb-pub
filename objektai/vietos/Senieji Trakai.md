@@ -1,134 +1,128 @@
 ---
 tipas: vieta
-pavadinimas: "Senieji Trakai"
-sukurta: '2026-04-28'
-variantai:
-  - "S. Trakai"
-  - "S. Trakuose"
-aliases: []
+pavadinimas: 'Senieji Trakai'
 saltiniai:
-  - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1978 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1978'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1978'
-date_end: '2026'
-bukle: juodrastis
-laikotarpis: "Vytauto laikai"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
-atnaujinta: '2026-04-28'
-tags: []
 ---
 # Senieji Trakai
 
 ## Santrauka
+
 Senieji Trakai šiame šaltinyje minimi kaip vieta, kur Vytautas įkurdino benediktinus, atkeldintus iš Mažosios Lenkijos Tynieco.
 
 ## Pavadinimai šaltiniuose
+
 - Senieji Trakai
 - S. Trakai
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Vytauto laikai
 - periodas: viduramziai
 - amziai: XV
 
 ## Kas tai
+
 Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 
 ## Geografinis ir istorinis kontekstas
+
 - tipas: vietovė
 - regionas: Trakų apylinkės
 - susiję žmonės: [[objektai/asmenys/Vytautas|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 
+## Šaltiniai ir įrodymai
+
+Nenurodyta
+
+## Pastabos
+
+Nenurodyta
+
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
+  pagrindžia:
+    - c-001
+
 - t-004
   teiginys: 'Trakai- [10] Rugpjūčio 26 d.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
-    juos iš Maž. Lenkijos (Tynieco).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
+    Camblakas.
     Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
     jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
     vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž. Lenkijos (Tynieco).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Camblakas.
     Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
     jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
     vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž. Lenkijos (Tynieco).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Trakai- [10] Rugpjūčio 26 d.'
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     [9] Rugpjūčio 25 d. Gel. li-
     nija Marcinkonys-Varėna-
     Valkininkai-Sen. Trakai-
 
-    [10] Rugpjūčio 26 d.
+    [10] Rugpjūčio 26 d. Vilnius
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 
-## Šaltiniai ir įrodymai
-
-## Pastabos
+- c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Camblakas.
+    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
+    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
+    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
+    juos iš Maž. Lenkijos (Tynieco).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

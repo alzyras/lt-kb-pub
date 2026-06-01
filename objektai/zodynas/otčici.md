@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'otčici'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1416 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1416'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
   - sąvoka
+amziai:
+  - 'XV'
 ---
 # otčici
 
@@ -29,16 +23,15 @@ tags:
 Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici) į savo val­ domas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­ jorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną Konstancijoj (1416)^1 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvių ir rusų kunigaikščiai tėvynainiai, arba otčici, turėjo visišką nuosavybės teisę į savo valdomas žemes.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių ir rusų kunigaikščiai tėvynainiai, arba otčici, turėjo visišką nuosavybės teisę į savo valdomas žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jau prieš Vytautą Didįjį Lietuvos valstybėje, kurios svar­
@@ -53,11 +46,9 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
     domas žemes turėjo visišką nuosavybės teisę ir Žemaitijos ba­
     jorai nuo senų laikų, ką mes sužinom iš jų skundo prieš Ordiną
     Konstancijoj (1416)^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

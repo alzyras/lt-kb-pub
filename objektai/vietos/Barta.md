@@ -28,30 +28,30 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad lenkijos—TSRS sienos; Bartos šiaurinė dalis aprėpė Girdavų, dab.'
   pagrindžia:
-    - c-005
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т.'
   pagrindžia:
-    - c-003
+    - c-004
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-004
   teiginys: 'Dusburgietis teigia, kad sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.'
   pagrindžia:
-    - c-002
+    - c-005
 
-- t-004
+- t-005
   teiginys: 'Dusburgietis teigia, kad 201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin, Plicke Bartin, grôz Bartin unde kleine.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -70,9 +70,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-005
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Teritorija  į šiaurę nuo Galindos, tarp Alnos (dab. Lynos)
@@ -83,9 +83,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     201 D.— Barta et Plicka Bartha, que nunc major et minor Bartka dicitur, Jer.— Bartin,
@@ -96,9 +96,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. 2 (1908), стб.
@@ -107,9 +107,9 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
@@ -121,4 +121,4 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004

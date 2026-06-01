@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Šiaulių ekonomijos valstiečių sukilimas (1769 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1769 m.'
+date_start: '1769'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
   - sukilimas
+amziai:
+  - 'XVIII'
 ---
 # Šiaulių ekonomijos valstiečių sukilimas (1769 m.)
 
@@ -32,37 +35,33 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1769 m. Šiaulių ekonomijos valstiečių sukilimas buvo ypač garsus valstiečių sukilimų atvejis.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '1769 m. Šiaulių ekonomijos valstiečių sukilimas buvo ypač garsus valstiečių sukilimų atvejis.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1769 m. Šiaulių ekonomijos valstiečių sukilimas buvo ypač garsus valstiečių sukilimų atvejis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Būdavo taip pat atsitikimų, kad valstiečiai kai kur net su-
     kildavo. Ypač garsus buvo 1769 m. Šiaulių ekonomijos vals-
     tiečių sukilimas. Tai buvo neramūs tik ką prasidėjusios Baro
     konfederacijos laikai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai buvo neramūs tik ką prasidėjusios Baro
@@ -70,13 +69,11 @@ Nenurodyta
     valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai
     buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi
     kariuomenė labai žiauriai numalšino jų sukilimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -26,12 +26,12 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
   pagrindžia:
     - c-001
@@ -68,7 +68,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -83,7 +83,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'

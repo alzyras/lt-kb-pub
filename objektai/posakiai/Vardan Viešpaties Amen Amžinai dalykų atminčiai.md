@@ -32,13 +32,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
+  teiginys: 'Formulė „Vardan Viešpaties Amen Amžinai dalykų atminčiai“ siejama su Žygimanto Senojo raštu, patvirtinusiu Trakų žydų privilegiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „Vardan Viešpaties Amen Amžinai dalykų atminčiai“ siejama su Žygimanto Senojo raštu, patvirtinusiu Trakų žydų privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 210

@@ -1,34 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis'
-  - 'Mikalojus Kristupas Radvila-Našlaitėlis'
-aliases:
-  - 'Mikalojus Kristupas Radvila-Našlaitėlis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-vaidmenys:
-  - 'didikas'
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1541 m.'
   - '1576 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1541'
 date_end: '1576'
-patikimumas: aukštas
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)
 
@@ -37,149 +25,68 @@ tags:
 Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Juodojo sūnus, grįžęs į katalikybę ir 1575 m. perkėlęs Brastos spaustuvę į Vilnių.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją jėzuitų universitetui.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-001
   teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams.'
   pagrindžia:
     - c-002
-- t-007
-  teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.'
+
+- t-002
+  teiginys: 'Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją jėzuitų universitetui.'
   pagrindžia:
-    - c-003
-- t-008
-  teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą.'
-  pagrindžia:
-    - c-004
-- t-009
-  teiginys: 'su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
-  pagrindžia:
-    - c-005
-- t-010
-  teiginys: 'Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­ vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas, vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­ muotą bažnyčią, buvusią savo namuose, uždarė, o savo spaustuvę, seniau skelbusią.'
-  pagrindžia:
-    - c-006
-- t-011
+    - c-001
+
+- t-003
   teiginys: 'O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo.'
   pagrindžia:
-    - c-007
-- t-012
+    - c-004
+
+- t-004
   teiginys: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą.'
+  pagrindžia:
+    - c-007
+
+- t-006
+  teiginys: 'Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­ vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas, vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­ muotą bažnyčią, buvusią savo namuose, uždarė, o savo spaustuvę, seniau skelbusią.'
   pagrindžia:
     - c-008
 
+- t-007
+  teiginys: 'su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
+  pagrindžia:
+    - c-005
+
+- t-008
+  teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
-    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
-    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
-    mas Lietuvoje virto nenutrūkstamu procesu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
-    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
-    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
-    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
-    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
-    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
-    zuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
-    vo disputais ir raštais spaudęs savo priešininkus, nekan­
-    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
-    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
-    jo atvesti į užsibrėžtą tikslą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O Jurgio brolis, kunigaikštis Mi­
-    kalojus Kristupas, Lietuvos Didžio­
-    sios Kunigaikštystės rūmų maršalka,
-    tapo savininku namų, vadintų Filipo-
-    vo namais, susidedančių iš keleto
-    medinių, moliu aplipdytų, pastatų,
-    užimančių dabartinį Kardinalijos
-    sparną nuo Didžiosios gatvės. Tą Fi-
-    lipovo namą kunigaikščio Kristupo
-    tėvas Mikalojus Radvila Juodasis,
-    Vilniaus vaivada, Lietuvos kancleris,
-    nuomojo iš kapitulos pagal sutartį
-    nuo 1541 metų ir kasmet mokėjo po
-    20 kapų lietuviškų grašių dėl to, kad
-    sujungęs su savo namu, turėtų erd­
-    vesnį būstą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šis činšas buvo mokamas
-    vienuolika metų, bet paskui liautasi
-    mokėti, ir kapitula su kunigaikščiu
-    Kristupu pradėjo teismo procesą dėl
-    Filipovo namo. Tačiau 1573 metais
-    kovo 26 dieną su kapitula įsigaliojo
-    sutartis. Kunigaikštis Kristupas jai
-    mainais atidavė savo sklypą, „einant
-    Vyskupų gatve nuo Jo Didenybės Vil­
-    niaus vyskupo dvaro link prieglau­
-    dos ir Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-005
-  santrauka: 'su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    su Radvilomis ėmė
+    Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
     konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
     pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
     jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
     katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
-    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
+    mas Lietuvoje virto nenutrūkstamu procesu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-006
-  santrauka: 'Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­ vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas, vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­ muotą bažnyčią, buvusią savo namuose, uždarė, o savo spaustuvę, seniau skelbusią.'
+    - t-002
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
@@ -197,13 +104,11 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     jo atvesti į užsibrėžtą tikslą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-007
-  santrauka: 'O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo.'
+    - t-001
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčią, visą mū­
@@ -225,13 +130,55 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     vesnį būstą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-008
-  santrauka: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+    - t-008
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jono bažnyčią, visą mū­
+    rinį. O Jurgio brolis, kunigaikštis Mi­
+    kalojus Kristupas, Lietuvos Didžio­
+    sios Kunigaikštystės rūmų maršalka,
+    tapo savininku namų, vadintų Filipo-
+    vo namais, susidedančių iš keleto
+    medinių, moliu aplipdytų, pastatų,
+    užimančių dabartinį Kardinalijos
+    sparną nuo Didžiosios gatvės. Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Po dešimtmečio čia pa-
+    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tą Fi-
@@ -251,11 +198,51 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     sutartis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-004
+
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šis činšas buvo mokamas
+    vienuolika metų, bet paskui liautasi
+    mokėti, ir kapitula su kunigaikščiu
+    Kristupu pradėjo teismo procesą dėl
+    Filipovo namo. Tačiau 1573 metais
+    kovo 26 dieną su kapitula įsigaliojo
+    sutartis. Kunigaikštis Kristupas jai
+    mainais atidavė savo sklypą, „einant
+    Vyskupų gatve nuo Jo Didenybės Vil­
+    niaus vyskupo dvaro link prieglau­
+    dos ir Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-008
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
+    uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
+    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
+    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
+    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
+    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
+    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
+    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
+    zuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
+    vo disputais ir raštais spaudęs savo priešininkus, nekan­
+    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
+    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
+    jo atvesti į užsibrėžtą tikslą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

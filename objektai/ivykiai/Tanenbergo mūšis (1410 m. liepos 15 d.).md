@@ -41,12 +41,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn.'
   pagrindžia:
     - c-001
@@ -72,7 +72,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -88,7 +88,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -29,19 +29,20 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'M unchas: Melancholija ir šviesa Stasys Šalkauskis Raštai, IX tomas Vincas Vyčinas Raštai, III tomas ## Puslapis 496 MYKOLAS BALINSKIS galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vilnių, 2001 Žygimantas Liauksminas Rinktiniai raštai, 2004 Teodoras Narbutas Lietuvių tautos istorija, I-V tomai, 1995-2001 Stasys Šalkauskis Raštai, I-VIII tomai, 1990-2005 Vincas.'
+  teiginys: 'Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antologija. I knyga
@@ -84,9 +85,10 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
+  santrauka: 'Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mykolas Balinskis
@@ -123,7 +125,7 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

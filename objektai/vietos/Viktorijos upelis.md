@@ -21,16 +21,16 @@ tags:
 - t-001
   teiginys: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Žemė derlinga, Viktorijos upelis, nors mažas, bet vertas gražaus vardo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Praėjusiais metais aplankę Pabaiską,
@@ -55,7 +55,7 @@ tags:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­

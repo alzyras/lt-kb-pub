@@ -46,13 +46,13 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
   pagrindžia:
-    - c-001
-    - c-002
     - c-003
+    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
@@ -81,7 +81,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių

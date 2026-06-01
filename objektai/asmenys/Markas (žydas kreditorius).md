@@ -19,16 +19,16 @@ tags:
 - t-001
   teiginys: 'Žydui Markui palūkanų nuo pustrečio šimto zlotų už 6 savaites, tai yra, a Die 17 maij ad diem 28 Junij [nuo gegužės 17-os dienos iki birželio 28 dienos] 15 florinų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­ statyta grandinė karališk.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Die 17 Augusti [rugpjūčio 17 dieną] pas žydą Marką už­
@@ -42,7 +42,7 @@ tags:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jiems

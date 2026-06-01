@@ -1,15 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pirmoji visam kraštui privilegija (privilegija)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Pirmoji visam kraštui privilegija'
-aliases:
-  - 'Pirmoji visam kraštui privilegija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
@@ -35,16 +30,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jogailos duotoje privilegijoje visos teisės buvo pripažintos tik katalikams, o rytų apeigų krikščionys suvaržyti.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogailos duotoje privilegijoje visos teisės buvo pripažintos tik katalikams, o rytų apeigų krikščionys suvaržyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta privi-
@@ -56,11 +50,9 @@ Nenurodyta
     draudžiamos jungtuvės su jais, jei šie nepriima katalikybės. Kata-
     likų bajorams pirmą kartą Lietuvoje raštu nusakomos teisės ir
     pareigos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

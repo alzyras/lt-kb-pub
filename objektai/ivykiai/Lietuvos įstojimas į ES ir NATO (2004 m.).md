@@ -44,52 +44,52 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-008
+- t-001
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
     - c-008
 
-- t-009
+- t-002
   teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 259 Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-009
 
-- t-007
+- t-003
   teiginys: 'Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
     - c-007
 
-- t-002
+- t-004
   teiginys: '2004 Lietuva tampa ES ir NATO nare.'
   pagrindžia:
     - c-002
 
-- t-006
+- t-005
   teiginys: '2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.'
   pagrindžia:
     - c-006
 
-- t-003
+- t-006
   teiginys: 'Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   pagrindžia:
     - c-003
 
-- t-005
+- t-007
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-005
 
-- t-001
+- t-008
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-001
 
-- t-010
+- t-009
   teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
   pagrindžia:
     - c-010
 
-- t-004
+- t-010
   teiginys: '1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.'
   pagrindžia:
     - c-004
@@ -111,7 +111,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-008
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -121,7 +121,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -136,7 +136,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -152,7 +152,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-010
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -165,7 +165,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-007
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -180,7 +180,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -196,7 +196,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -212,7 +212,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
 
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -229,7 +229,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-002
 
 - c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -247,7 +247,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

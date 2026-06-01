@@ -26,16 +26,16 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 - t-001
   teiginys: 'Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 241 nesilaikys SSRS konstitucijos.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai
@@ -54,7 +54,7 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau LKP pertvar-

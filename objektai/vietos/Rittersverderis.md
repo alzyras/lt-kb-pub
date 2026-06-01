@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Rittersverderis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1391 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1391'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - pilis
   - tauta
   - valdovas
+amziai:
+  - 'XIV'
 ---
 # Rittersverderis
 
@@ -30,28 +24,25 @@ tags:
 Šie pirma jį nusiuntė į Rittersverderį pas Vytautą. Dar 1391 m. pabaigoj, matyt, nujausdamas, kad santykiai su Ordi­ nu turės kada nors vėl pasikeisti, ėmė Vytautas savo šalininkus rankioti į Rittersverderį iš kitų Ordino pilių. Vytautą rado jis Rittersverdery, berengiantį planus toli­ mesniems žygiams.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą.'
+  teiginys: 'Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus.'
   pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: '1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus.'
-  pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tų pilių komtūrų klausiamas,
@@ -61,15 +52,27 @@ tags:
     Henrikas, pasinaudodamas proga, Jogailos vardu pasiūlė Vy­
     tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
     nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
+    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
+    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
+    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
+    Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių.'
+
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl reikėjo didelio slaptumo ir atsargumo, kad
@@ -80,26 +83,8 @@ tags:
     Po kiek laiko Vytautui pasisekė išlaisvinti savo žmoną, iš­
     randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
     Ordino naudai propagandos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
-    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
-    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
-    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
-    Lietuvą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003

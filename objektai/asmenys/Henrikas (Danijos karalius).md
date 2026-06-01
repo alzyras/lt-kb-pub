@@ -27,19 +27,19 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų pastatydinti bažnyčią, o tas šitaip ir padarė, būtent.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų naudos, todėl kitais metais jį nužudė frizai.'
+  teiginys: 'Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų kunigaikštis, kuris prieš 300 metų irgi taip buvo savo brolio nugalabytas, ir pasiūlė minėtajam karaliui Henrikui, kad savo vardui pagerbti pasirūpintų pastatydinti bažnyčią, o tas šitaip ir padarė, būtent.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų naudos, todėl kitais metais jį nužudė frizai.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
@@ -57,9 +57,9 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     35. Apie Henriko, Danijos karaliaus, žūtį
@@ -75,7 +75,7 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

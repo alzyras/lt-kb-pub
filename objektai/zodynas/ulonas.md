@@ -25,7 +25,7 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
     - c-001
 
 - t-002
-  teiginys: 'Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.'
+  teiginys: 'Algirdo pajėgoms spaudžiant totoriai pabėgo, o mūšyje žuvo daug murzų ir ulonų.'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
     - t-001
 
 - c-002
-  santrauka: 'Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.'
+  santrauka: 'Algirdo pajėgoms spaudžiant totoriai pabėgo, o mūšyje žuvo daug murzų ir ulonų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apie jį kai kurių

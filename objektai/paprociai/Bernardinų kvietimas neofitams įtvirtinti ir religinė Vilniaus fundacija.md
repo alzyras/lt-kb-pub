@@ -112,4 +112,3 @@ Nenurodyta
 - [[objektai/zodynas/neofitai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Bernardinų ordinas]]
-- [[objektai/zodynas/Puslapis 77]]

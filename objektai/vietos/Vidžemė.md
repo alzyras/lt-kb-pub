@@ -1,28 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Vidžemė'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - didikas
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Vidžemė
 
@@ -31,39 +26,25 @@ tags:
 Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
+  teiginys: 'XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero.'
+  teiginys: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuomet, iš vienos pusės, turėdamas savo ka-
-    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
-    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
-    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
-    džios.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
+    Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
+    _th_ igalli», kartą paaiškindamas « qui proprie dicuntur Lethigalli»
+    (X, 3). XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
     kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante,
     apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­
     krauklės prie Dauguvos iki Burtnieko ežero. Toliau į vakarus gy­
@@ -72,8 +53,23 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     kranto ruožą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Augustas irgi pasi-
+    ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
+    riauti sau Livoniją (Vidžemę). Čia jis ketino susikurti savo nuo-
+    savą kunigaikštiją. Tuomet, iš vienos pusės, turėdamas savo ka-
+    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
+    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
+    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
+    džios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002

@@ -1,31 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Laisvieji imperijos miestai"
-sukurta: '2026-05-27'
-variantai:
-  - "laisvieji imperijos miestai"
-  - "laisviesiems imperijos miestams"
-aliases:
-  - "Laisvieji imperijos miestai"
-  - "laisvieji imperijos miestai"
-  - "laisviesiems imperijos miestams"
+pavadinimas: 'Laisvieji imperijos miestai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XIII"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Laisvieji imperijos miestai
 
@@ -47,22 +26,20 @@ Sąvoka žymi imperijos privilegijuotus miestus, kurie ilgainiui dalyvavo imperi
 Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis."
-  pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Laisvieji imperijos miestai vėliau dalyvavo imperijos valdyme ir tapo galingi bei savarankiški.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata tiesiogiai aiškina laisvųjų imperijos miestų atsiradimą ir politinį vaidmenį.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dideli politinės padėties pokyčiai,
@@ -74,14 +51,12 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     jungininkais. Tai davė pradžią vadinamiesiems laisviesiems im­
     perijos miestams, vėliau jiems leido dalyvauti imperijos valdy­
     me ir padarė juos galingus ir savarankiškus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

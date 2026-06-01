@@ -27,17 +27,17 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
   pagrindžia:
     - c-002
@@ -61,7 +61,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -86,7 +86,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -110,7 +110,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -122,7 +122,6 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
 - [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]
 - [[objektai/daiktai/Romuva kaip Perkūno šventykla]]
 - [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas]]

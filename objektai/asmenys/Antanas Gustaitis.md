@@ -26,24 +26,24 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse pagamintas lengvasis bombonešis ANBO VIII (1939 m.).'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse pagamintas lengvasis bombonešis ANBO VIII (1939 m.) L I E T U V O S I S T O R I J A 176 remti.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per 20 metų iš
@@ -63,7 +63,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
@@ -77,9 +77,9 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per 20 metų iš
@@ -93,7 +93,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   santrauka: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'

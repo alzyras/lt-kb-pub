@@ -42,16 +42,16 @@ Nenurodyta
 - t-001
   teiginys: 'Tačiau per tą laisvai iš­ pažįstamų religijų įvairovę, palūžusios pagonybės akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą išpažįstančiųjų ir jų dvasininkų.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Ne kartą jau minoritai, apaš­ talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­ timu į tikėjimą, pasmerkė save skaudžioms kančioms.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne kartą jau minoritai, apaš­
@@ -71,7 +71,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau per tą laisvai iš­

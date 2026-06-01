@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Romėnai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kraštas
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Romėnai
 
@@ -30,34 +24,35 @@ tags:
 Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašytojas Tacitas savo veikale „Germania".
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Romėnų rašytojas Tacitas pirmojo amžiaus pabaigoje veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Romėnų rašytojas Tacitas pirmojo amžiaus pabaigoje veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Romėnų rašytojas Tacitas pirmojo amžiaus pabaigoje veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
     galo romėnų rašytojas Tacitas savo veikale „Germania".
-    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._
-  citata_rodoma: ""
+    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._ Kadan-
+    gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
+    pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
+    žiaus čia bus gyvenę tie patys aisčiai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Su
@@ -67,11 +62,9 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     nebent savo gražųjį gintarą).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

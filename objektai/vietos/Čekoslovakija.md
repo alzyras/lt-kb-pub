@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Čekoslovakija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sutartis
   - valstybė
@@ -20,16 +17,15 @@ tags:
 S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     klausimą atidėti, ligi sąlygos leis jį galutinai išspręsti, o tuo
@@ -45,10 +41,8 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
     sios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,
     o Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-
     fliktas su Lenkija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

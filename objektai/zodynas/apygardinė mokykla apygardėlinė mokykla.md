@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'apygardinė mokykla apygardėlinė mokykla'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - sąvoka
@@ -19,16 +16,15 @@ tags:
 Apygardinėse mokyklose mokslas buvo išeinamas per 7 m. (V kl.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apygardinėse mokyklose mokslas buvo išeinamas per 7 metus, o apygardėlinėse mokyklose trukdavo 6 metus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apygardinėse mokyklose mokslas buvo išeinamas per 7 metus, o apygardėlinėse mokyklose trukdavo 6 metus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
@@ -40,11 +36,9 @@ Apygardinėse mokyklose mokslas buvo išeinamas per 7 m. (V kl.
     buvo išeinamas per 7 m. (V kl. tekdavo būti 2 m.); apygardėlinėse
     mokyklose visos klasės buvo dvimetės, todėl mokslas jose trukdavo
     tik 6 metus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

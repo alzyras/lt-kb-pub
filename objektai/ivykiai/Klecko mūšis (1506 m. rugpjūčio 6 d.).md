@@ -1,41 +1,20 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Klecko mūšis (1506 m. rugpjūčio 6 d.)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Klecko mūšis'
-  - '1506 m. Klecko mūšis'
-  - 'KLECKO MŪŠIS'
-  - 'mūšis prie Klecko'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1506 m. rugpjūčio 6 d.; rugpjūčio 8 d. (paskutiniai totoriai išgaudyti)'
-vaidmenys: []
-dalyviai:
-  - 'Lietuvos kariuomenė'
-  - 'kunigaikštis Mykolas Glinskis'
-  - 'totoriai'
-  - 'chanaičiai'
-  - 'vietiniai gyventojai'
-susije_irasai: []
 datos:
   - '1500 m.'
-  - '1503 m.'
   - '1506 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes:
-  - 'LDK'
+date_start: '1500'
+date_end: '1506'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - mūšis
 amziai:
   - 'XV'
   - 'XVI'
-date_start: '1500'
-date_end: '1506'
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
-tags:
-  - mūšis
 ---
 # Klecko mūšis (1506 m. rugpjūčio 6 d.)
 
@@ -44,79 +23,74 @@ tags:
 Klecko mūšyje Lietuvos kariuomenė puolė totorius, juos sutriuškino, paėmė grobį ir pasiekė reikšmingą pergalę. Po mūšio totorių likučiai buvo persekiojami, dalis jų buvo išgaudyta rugpjūčio 8 d., o Mykolas Glinskis triumfuodamas grįžo į Vilnių. 1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį Kunigaikštis Mykolas su kairiuoju sparnu perskyrė totorių jėgas į dvi dalis; Lietuvos kariuomenė pradėjo lemiamą puolimą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-006
-  teiginys: '1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Kunigaikštis Mykolas su kairiuoju sparnu perskyrė totorių jėgas į dvi dalis; Lietuvos kariuomenė pradėjo lemiamą puolimą.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-001
   teiginys: 'Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė prieš Krymo totorius ir pirmoji tokia pergalė po Vedrošos kautynių.'
+
+- t-002
+  teiginys: 'Kunigaikštis Mykolas su kairiuoju sparnu perskyrė totorių jėgas į dvi dalis; Lietuvos kariuomenė pradėjo lemiamą puolimą.'
   pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-010
+    - c-002
+
+- t-003
+  teiginys: 'Bychoveco kronikos pasakojime Klecko mūšio pergalė prieš totorius vaizduota kaip Dievo gailestingumas Lietuvos Didžiajai Kunigaikštystei.'
+  pagrindžia:
+    - c-007
+
+- t-004
+  teiginys: '1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.'
+  pagrindžia:
+    - c-001
+
+- t-005
   teiginys: 'Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK.'
   pagrindžia:
     - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-012
+
+- t-006
   teiginys: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
   pagrindžia:
-    - c-007
-- t-013
-  teiginys: 'Be to, Bychoveco kronikoje esančiame pasakojime apie Klecko mūšį galima atpažinti krikščionių kovos su kitatikiais motyvus: totoriai — „pagonijos“ atstovai, o pati pergalė prieš juos reiškė „neapsakomą Dievo gailestingumą Lietuvos Didžiajai Kunigaikštystei ir.'
+    - c-006
+
+- t-007
+  teiginys: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė prieš Krymo totorius ir pirmoji tokia pergalė po Vedrošos kautynių.'
   pagrindžia:
-    - c-008
-- t-014
-  teiginys: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
-  pagrindžia:
-    - c-009
+    - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tą pačią dieną, antradienį, didikai su savo kariuomene (Lietuvos) nakvojo kaime
     prie Lipos, [...] anksti atsikėlę ir, kaip pridera prieš mūšį, sutvarkę būrius, nuėjo tiesiai
     į Klecką. [...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir
     Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
+
 - c-002
-  santrauka: 'Kunigaikštis Mykolas su kairiuoju sparnu perskyrė totorių jėgas į dvi dalis; Lietuvos kariuomenė pradėjo lemiamą puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėji-
@@ -124,29 +98,25 @@ Nenurodyta
     iš lankų [...]. Dešiniojo sparno kariuomenė paskubėjusi pirmoji įveikė perėją ir atsidūrė
     už upės. [...] O tada kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, perėjęs per
     upę, smogė visiems totorių pulkams ir perskėlė juos į dvi dalis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-002
+
 - c-003
-  santrauka: 'Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariuomenė [...] paėmė arba nukovė daugybę totorių, sugrįžo į kariuome-
     nės stovyklą prie Klecko, vesdamiesi su savimi daug belaisvių ir turėdami rankas pilnas
     aukso, ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
+
 - c-004
-  santrauka: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė prieš Krymo totorius ir pirmoji tokia pergalė po Vedrošos kautynių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kita vertus, Klecko mūšis buvo pirmoji
@@ -163,15 +133,13 @@ Nenurodyta
     nikos minimas „neapsakomas džiaugsmas
     ir linksmybė“ kaip tik ir perteikia tą ūpo pa-
     kilimą, kuris leido toliau kovoti ir nepalūžti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
+
 - c-005
-  santrauka: 'Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bychoveco kro-
@@ -191,15 +159,13 @@ Nenurodyta
     rašiusiam Mykolui Lietuviui tai buvo didis
     mūšis, kuriame esą tik 9000 lietuvių įveikė
     net 27000 totorių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-007
-  santrauka: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
+    - t-005
+
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kita vertus, Klecko mūšis buvo pirmoji
@@ -212,16 +178,18 @@ Nenurodyta
     kamavusius Krymo totorius apskritai. Ši
     pergalė buvo pasiekta po didelių teritorinių
     nuostolių, kuriuos Lietuva patyrė Rusijos
-    naudai 1500-1503 m. kare.
+    naudai 1500-1503 m. kare. Bychoveco kro-
+    nikos minimas „neapsakomas džiaugsmas
+    ir linksmybė“ kaip tik ir perteikia tą ūpo pa-
+    kilimą, kuris leido toliau kovoti ir nepalūžti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
-- c-008
-  santrauka: 'Be to, Bychoveco kronikoje esančiame pasakojime apie Klecko mūšį galima atpažinti krikščionių kovos su kitatikiais motyvus: totoriai — „pagonijos“ atstovai, o pati pergalė prieš juos reiškė „neapsakomą Dievo gailestingumą Lietuvos Didžiajai Kunigaikštystei ir.'
+    - t-006
+
+- c-007
+  santrauka: 'Bychoveco kronikos pasakojime Klecko mūšio pergalė prieš totorius vaizduota kaip Dievo gailestingumas Lietuvos Didžiajai Kunigaikštystei.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bychoveco kro-
@@ -237,29 +205,15 @@ Nenurodyta
     ir neišreiškiamą musulmonų giminės kraujo
     praliejimą.“ Vėlesnių kartų atmintyje Klec-
     ko mūšis išliko kaip sektinas pavyzdys, pa-
-    siekęs epinės kovos mastus.
+    siekęs epinės kovos mastus. xvI a. viduryje
+    rašiusiam Mykolui Lietuviui tai buvo didis
+    mūšis, kuriame esą tik 9000 lietuvių įveikė
+    net 27000 totorių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-009
-  santrauka: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ] Tą pačią dieną, antradienį, didikai su savo kariuomene (Lietuvos) nakvojo kaime
-    prie Lipos, [...] anksti atsikėlę ir, kaip pridera prieš mūšį, sutvarkę būrius, nuėjo tiesiai
-    į Klecką. [...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir
-    Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

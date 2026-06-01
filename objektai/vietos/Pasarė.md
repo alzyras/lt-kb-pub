@@ -19,19 +19,19 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­ buklą ir apie daugybės prūsų žūtį 414 D.— fluvii Sergie, Jer.— Serge; Pasarė, vėliau — Pasargė (GAO, p. 116; MPKP, 1, p. 16), dab.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus.'
+  teiginys: 'Dusburgietis teigia, kad apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­ buklą ir apie daugybės prūsų žūtį 414 D.— fluvii Sergie, Jer.— Serge; Pasarė, vėliau — Pasargė (GAO, p. 116; MPKP, 1, p. 16), dab.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­ lies bei miesto paėmimą Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­
@@ -44,9 +44,9 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
@@ -62,4 +62,4 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

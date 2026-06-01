@@ -27,39 +27,39 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 ## Teiginiai
 
-- t-006
+- t-001
   teiginys: 'Dusburgietis teigia, kad bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
   pagrindžia:
-    - c-006
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.'
   pagrindžia:
     - c-002
 
-- t-007
+- t-003
   teiginys: 'Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos virto kariaujančiųjų riterių ordinais.'
   pagrindžia:
-    - c-007
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
-  pagrindžia:
-    - c-003
+    - c-005
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
+  teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
   pagrindžia:
     - c-004
 
 - t-005
+  teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
+  pagrindžia:
+    - c-006
+
+- t-006
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart. p. 442).'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pr. Eylau, dab. Bagrationovskas)
@@ -78,7 +78,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,7 +114,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   pagrindžia:
     - t-002
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     103. Apie tai, kaip hospitaljerai užėmė Rodo salą
@@ -125,9 +125,9 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-006
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tad popiežius, išklausęs šią
@@ -147,9 +147,9 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-007
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš pradžių tokios brolijos
@@ -163,9 +163,9 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
-- c-004
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
@@ -179,7 +179,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

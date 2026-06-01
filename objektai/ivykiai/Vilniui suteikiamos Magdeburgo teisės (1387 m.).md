@@ -1,27 +1,17 @@
 ---
 tipas: ivykis
-pavadinimas: "Vilniui suteikiamos Magdeburgo teisės (1387 m.)"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Vilniui suteikiamos Magdeburgo teisės (1387 m.)'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1387 m."
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1387 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: "1387"
-date_end: "1387"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
+  - '1387 m.'
+date_start: '1387'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XIV'
 ---
 # Vilniui suteikiamos Magdeburgo teisės (1387 m.)
 
@@ -30,6 +20,7 @@ tags: []
 1387 m. Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises. Šaltinis šį sprendimą sieja su Vilniaus gyventojų ištikimybe, siekiu stabilizuoti miesto valdžią ir noru pritraukti svetimtaučius kurtis Vilniuje.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1387 m.
 - datos:
   - 1387 m.
@@ -39,51 +30,32 @@ tags: []
 - date_end: 1387
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Valdovas Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
   pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui."
-  pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Valdovas Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
-    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
-    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
-    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
-    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
-    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
-    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
-    tės, valdovas Vilniui suteikė Magdeburgo teises15.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Privilegijos tikslas ir ribojimas dėl seniūno valdžios.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atmindamas Vilniaus
@@ -99,13 +71,29 @@ Nenurodyta
     sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
     niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
     vališkos valdžios perlenkimais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
+    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
+    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
+    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
+    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
+    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
+    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
+    tės, valdovas Vilniui suteikė Magdeburgo teises15.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

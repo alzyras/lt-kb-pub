@@ -24,34 +24,34 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 
 ## Teiginiai
 
-- t-005
-  teiginys: 'Dusburgietis teigia, kad taigi įtikimiau jį būtų lokalizuoti į rytus nuo Viduklės, kur, kaip rašoma kryžiuočių kelių aprašymuose, buvęs lant Wayke (Weg.'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad pabaigoje kryžiuočių kelių į Lietuvą aprašymuose vadinamas Sessow, Sassow ir pan.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683).'
+  teiginys: 'Dusburgietis teigia, kad taigi įtikimiau jį būtų lokalizuoti į rytus nuo Viduklės, kur, kaip rašoma kryžiuočių kelių aprašymuose, buvęs lant Wayke (Weg.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad vokiškuose kryžiuočių kelių aprašymuose — Rangith (Weg.'
+  teiginys: 'Dusburgietis teigia, kad pabaigoje kryžiuočių kelių į Lietuvą aprašymuose vadinamas Sessow, Sassow ir pan.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn, Romayn (SRP, 2, p. 695); Romainiai, kair.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kauno) aprašyme figūruoja vedlys iš Nerwekiten, o toliau minimas kelias czu Kattow (SRP, 2, p. 683).'
   pagrindžia:
     - c-004
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad vokiškuose kryžiuočių kelių aprašymuose — Rangith (Weg.'
+  pagrindžia:
+    - c-005
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn, Romayn (SRP, 2, p. 695); Romainiai, kair.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     545 D.— contra territorium [...] Wayken, intraverunt territorium Waykinam, Jer.—
@@ -64,9 +64,9 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     543 D. — Romene, Jer. — Rômein; kryžiuočių kelių aprašymuose (1384 m.) — Romeyn,
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,9 +90,9 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Norkyčiai minimi 1376—
@@ -105,9 +105,9 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vokiškuose kryžiuočių kelių aprašymuose
@@ -117,4 +117,4 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004

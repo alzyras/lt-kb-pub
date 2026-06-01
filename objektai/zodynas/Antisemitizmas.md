@@ -21,12 +21,12 @@ tags:
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
     - c-002
@@ -68,7 +68,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,7 +90,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

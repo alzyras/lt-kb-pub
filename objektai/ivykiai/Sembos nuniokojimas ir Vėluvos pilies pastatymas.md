@@ -35,16 +35,16 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad mat dievas palietė ir minėtojo Tirsko, pilies vado, ir kitų su juo buvusių vyrų širdis, ir jie, išsižadėję stabmeldystės, suartėjo su Kristaus tikėjimu bei broliais ir pasidarė uolūs Kristaus tikėjimo gynėjai.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
   pagrindžia:
     - c-001
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -65,9 +65,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
@@ -85,9 +85,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
@@ -101,7 +101,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Kęstutis buvo vyras karingas ir tiesiakalbis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - posakis
@@ -25,19 +16,20 @@ tags:
 Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kunigaikščius ištaria gerą žodį, yra pažymėjęs : « Kęstutis, nors ir pagonis, buvo šaunus vyras.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dlugošas Kęstutį apibūdino kaip šaunų, išmintingą, veiklų, išlavintą, žmonišką ir pažadams ištikimą vyrą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dlugošas Kęstutį apibūdino kaip šaunų, išmintingą, veiklų, išlavintą, žmonišką ir pažadams ištikimą vyrą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie
@@ -47,15 +39,13 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
     bės, jis buvo išlavintas, žmoniškas ir ištikimas pažaduose »^7.
     XIX amž. istorikai, žavėdamiesi Kęstučio asmeniu, labiausiai
     domėjosi jo žygiais prieš ordiną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuolatiniai susidūrimai karuose su vakarų Europos
@@ -67,9 +57,7 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
     bės, jis buvo išlavintas, žmoniškas ir ištikimas pažaduose »^7.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -19,12 +19,12 @@ tags:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-001
@@ -47,7 +47,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

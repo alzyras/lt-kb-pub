@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Benediktas Makras'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
   - kraštas
   - ordinas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Benediktas Makras
 
@@ -30,19 +26,20 @@ tags:
 patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą savo komisarą Benediktą Makrą, kad tas ištirtų Žemaitijos sienas ir išspręstų kilusį dėl jų Vytauto ir Ordino ginčą. Vytautas Didysis, sulaukęs Makro Lietuvoje, pirmiausia pasistengė patraukti jį į savo pusę: jis gražiai Makrą priėmė, gausiai jį apdovanojo ir pakėlė į savo riterius.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas Didysis priėmė Benediktą Makrą, gausiai jį apdovanojo ir pakėlė į savo riterius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '12 d. patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą savo komisarą Benediktą Makrą, kad tas ištirtų Žemaitijos sienas ir išspręstų kilusį dėl jų Vytauto ir Ordino ginčą.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas Didysis priėmė Benediktą Makrą, gausiai jį apdovanojo ir pakėlė į savo riterius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mat, Vokiečių Ordinas,
@@ -56,15 +53,13 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
     (1413), kuriame, neskaitant Vytauto ir Makro, dalyvavo dar
     Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
     lenkų bajorai, Ordino riteriai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '12 d. patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą savo komisarą Benediktą Makrą, kad tas ištirtų Žemaitijos sienas ir išspręstų kilusį dėl jų Vytauto ir Ordino ginčą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     12 d. patvirtino Torno taiką,
@@ -76,9 +71,7 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
     tvirtinimus ir nesutiko su Vytautu dėl šio krašto ribų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

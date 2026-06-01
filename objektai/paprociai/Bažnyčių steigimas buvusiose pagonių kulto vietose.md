@@ -42,16 +42,16 @@ Nenurodyta
 - t-001
   teiginys: 'Stanislovo katedra, ką, be kronikų liudijimų, patvirtina auten­ tiška Urbono VI bulė, katedros pa­ šventinimo proga išleista, bet mano­ me, jog ir kitos Vilniaus bažnyčios, įkurtos Vladislovo Jogailos, kaip an­ tai: Šv.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar­ ba šiaip vietovė kokiam nors dievai­ čiui pašvęsta.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie to dar prisidėjo pareiga,
@@ -90,7 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     479: „Dabar, kaip ma­

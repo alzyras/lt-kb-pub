@@ -1,35 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: 'Viskas yra viena, viena žemė ir tie patys žmonės'
-sukurta: '2026-04-28'
-variantai:
-  - 'viskas yra viena - ir žemė, ir žmonės'
-  - 'quia totum unum est, terra una et homines uni'
-  - 'totum unum est, terra una et homines uni'
-aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1978 m.'
   - '2026 m.'
-  - '1420 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1978'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags: []
 amziai:
   - 'XX'
   - 'XXI'
-  - 'XV'
-date_start: '1978'
-date_end: '2026'
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
-tags: []
 ---
 # Viskas yra viena, viena žemė ir tie patys žmonės
 
@@ -48,68 +33,30 @@ tags: []
 - totum unum est, terra una et homines uni
 
 ## Teiginiai
-- t-002
-  teiginys: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
+
+- t-001
+  teiginys: 'Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.'
+  pagrindžia:
+    - c-001
+
 - t-003
+  teiginys: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
+  pagrindžia:
+    - c-003
+
+- t-004
   teiginys: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
   pagrindžia:
-    - c-002
-- t-004
-  teiginys: "Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis."
-  pagrindžia:
-    - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: "Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“."
-  pagrindžia:
-    - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pus­
-    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
-    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
-    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
-    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
-    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
-    gaikščių esą valdomi paveldėjimo teise.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-002
-  santrauka: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pus­
-    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
-    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
-    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
-    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
-    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
-    gaikščių esą valdomi paveldėjimo teise.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: Lietuviškas vertimas formulę pateikia kaip „viskas yra viena - ir žemė, ir žmonės“.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai reiškia:
@@ -128,14 +75,44 @@ tags: []
     patumo mes mūsų titule nerašome
     Žemaitijos vardo, nes viskas yra vie­
     na - ir žemė, ir žmonės/'
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-002
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pus­
+    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
+    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
+    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
+    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
+    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
+    gaikščių esą valdomi paveldėjimo teise.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-004
-    - t-005
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pus­
+    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
+    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
+    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
+    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
+    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
+    gaikščių esą valdomi paveldėjimo teise.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vosylius (Maskvos kunigaikštis)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1425 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1425'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - tauta
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vosylius (Maskvos kunigaikštis)
 
@@ -29,16 +25,15 @@ tags:
 Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­ lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun. Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­ tautui globoti.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1425 m. mirdamas Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1425 m. mirdamas Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žinoma, nereikia tikėti, kad toks didelis lenkų pasiprieši­
@@ -54,11 +49,9 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
     lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun.
     Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­
     tautui globoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

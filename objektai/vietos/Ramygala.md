@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Ramygala'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - papuošalas
   - vieta
@@ -25,22 +16,20 @@ tags:
 Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. - Ramygaloje, 4 val. Po pietų išžygiavome Ramygalos kryptimi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     M. Katche. Rinktinės pajėgos gegužės 13 d.
@@ -52,15 +41,13 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
     tinės vadui vokiečių priskirtoms pajėgoms
     remiant žygiuoti Panevėžio link ir atakuoti
     bolševikų pajėgas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     mosios kuopos, pusės 2-ojo pėst. pulko
@@ -71,10 +58,8 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
     Kiekviena kolona turėjo užsitikrinti
     šonines saugas ir palaikyti tarpusa-
     vio ryšį bei ryšį su rinktinės štabu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

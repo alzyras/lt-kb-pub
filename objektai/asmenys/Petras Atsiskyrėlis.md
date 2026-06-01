@@ -19,22 +19,22 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti) tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis sunkiai maldininkų kelionei į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo kalbomis teikiant [kryžininkams] visokeriopų malonių.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę ir, nuo ilgo budėjimo pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus dėl šventosios žemės išvadavimo.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad petras Atsiskyrėlis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę ir, nuo ilgo budėjimo pavargęs, snūstelėjo ant bažnyčios grindų, sapne jam pasirodė mūsų viešpats Jėzus Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus dėl šventosios žemės išvadavimo.'
-  pagrindžia:
-    - c-004
-
-- t-001
   teiginys: 'Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas.'
   pagrindžia:
     - c-001
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -80,9 +80,9 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai vieną naktį
@@ -102,9 +102,9 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
@@ -120,7 +120,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-005
   santrauka: 'Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų atsiskyręs, todėl jį vadino Petru Atsiskyrėliu, ragindamas jį aplankyti viešpaties kapą bei kitas šventąsias vietas.'

@@ -1,18 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Želigovskio smurtas (1920 m. spalio 8–9 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1920 m.'
+date_start: '1920'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - paliaubos
   - sukilimas
+amziai:
+  - 'XX'
 ---
 # Želigovskio smurtas (1920 m. spalio 8–9 d.)
 
@@ -33,28 +36,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.'
+  pagrindžia:
+    - c-003
+
+- t-002
   teiginys: 'Per derybas lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Lenkija teigė, kad generolas Želigovskis savavališkai užėmė Vilnių, tačiau šaltinis šį aiškinimą vadino pramanu.'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Per derybas lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pati sutartis
@@ -63,35 +63,13 @@ Nenurodyta
     **Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos,
     nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų
     buvę rusų bolševikų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Suvalkų sutarties parašai.
-    govskio vedamos, puolė Vilnių nuo Lydos pusės ir jį užėmė
-    (9 d.), lietuviams visai to nelaukiant ir neturint ten pakankamai
-    jėgų atsilaikyti (lietuvių Vilniuje tebuvo vos 3 batalijonai). Tuo
-    būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-
-    laužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį
-    Lietuvių ir Lenkų santykių tvarkymą. Lenkija, nebegalėdama
-    niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
-    saką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Lenkija teigė, kad generolas Želigovskis savavališkai užėmė Vilnių, tačiau šaltinis šį aiškinimą vadino pramanu.'
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkija, nebegalėdama
@@ -105,13 +83,29 @@ Nenurodyta
     teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos
     savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
     kalavimų klausančios Lenkų vyriausybės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Suvalkų sutarties parašai.
+    govskio vedamos, puolė Vilnių nuo Lydos pusės ir jį užėmė
+    (9 d.), lietuviams visai to nelaukiant ir neturint ten pakankamai
+    jėgų atsilaikyti (lietuvių Vilniuje tebuvo vos 3 batalijonai). Tuo
+    būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-
+    laužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį
+    Lietuvių ir Lenkų santykių tvarkymą. Lenkija, nebegalėdama
+    niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
+    saką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

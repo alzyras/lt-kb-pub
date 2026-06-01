@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Baltische Geschichte 1180-1918'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1180 m.'
   - '1918 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
+date_start: '1180'
+date_end: '1918'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XII'
   - 'XX'
-date_start: '1180'
-date_end: '1918'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - saltinis
 ---
 # Baltische Geschichte 1180-1918
 
@@ -29,28 +23,23 @@ tags:
 Wittram : Baltische Geschichte 1180-1918 (WiBG).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — G. von Rauch :** **_Ge­
     schichte der baltischen Staaten_** **(1970). — R. Wittram :** **_Baltische Geschichte
     1180-1918_** **(WiBG).**
     (^168) **Pvz., joje t. 5, 1969, yra W. Nöbel :** **_Michael Küchmeister.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

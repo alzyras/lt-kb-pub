@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvių tautos plotai ir gyventojai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1957 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1957'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Lietuvių tautos plotai ir gyventojai
 
@@ -28,18 +22,15 @@ tags:
 : Lietuvių tautos plotai ir gyventojai , Aidai, nr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Pakšto „Lietuvių tautos plotai ir gyventojai“ paskelbta „Aidų“ 3 numeryje 1957 m., 97-107 puslapiuose.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'K. Pakšto „Lietuvių tautos plotai ir gyventojai“ paskelbta „Aidų“ 3 numeryje 1957 m., 97-107 puslapiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —Matusas, J. : _Odų ir kailių
@@ -57,10 +48,8 @@ tags:
     143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,
     ILKI, IV, 1964, 188-196 p. — Pakštas, K. : _Lietuvių tautos plotai ir
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

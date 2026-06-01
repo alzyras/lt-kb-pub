@@ -41,12 +41,12 @@ Nenurodyta
 - t-002
   teiginys: 'Jau pirmame jos numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Vakarų radijo stotims „Kronika“ tapo pagrindiniu medžiagos apie Lietuvą šaltiniu.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +63,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vakarų radijo stotims „Kronika“ tapo pagrindiniu
@@ -79,7 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Leidinys aprašė sovietų antireliginę

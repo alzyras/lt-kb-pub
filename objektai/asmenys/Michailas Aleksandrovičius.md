@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Michailas Aleksandrovičius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1368 m.'
   - '1370 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1368'
 date_end: '1370'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Michailas Aleksandrovičius
 
@@ -30,49 +26,25 @@ tags:
 Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
+
+- t-002
+  teiginys: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
+  pagrindžia:
+    - c-003
+
 - t-003
   teiginys: '1370 m. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.'
   pagrindžia:
-    - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žygių išvakarėse
+    - c-002
 
-    Maskvos didysis kunigaikštis Dmitrijus
-    Ivanovičius, siekdamas plėsti savo valdžią,
-    remiamas Ordos, puolė Tverę. Jos kuni-
-    gaikštis Michailas Aleksandrovičius pa-
-    bėgo į Lietuvą ir Lietuvos valdovo Algirdo
-    (jo žmona Julijona Tverietė) prašė „pagal-
-    bos ir apginti“, kvietė žygiuoti į Maskvą.
-    Siekdamas neprarasti pozicijų rytuose
-    (nors tuo metu vyko sunki kova su kry-
-    žiuočiais prie Nemuno vidupio), Algirdas
-    1368 m. rudenį ryžosi smogti Maskvai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.'
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1370 m. žygis
@@ -104,15 +76,13 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
     „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
     Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,
     ir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1370 m. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.'
+    - t-001
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1370 m. žygis
@@ -139,18 +109,69 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 
     IETIES ATRĖMIMAS
 
-    Algirdo žodžiai ir simbolinis poelgis 1368 m.
+    Algirdo žodžiai ir simbolinis poelgis 1368 m. žygiui baigiantis prie Maskvos vartų, jau
+    po susitarimo su Maskvos didžiuoju kunigaikščiu.
+    „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
+    Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,
+    ir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Žygių išvakarėse
+
+    Maskvos didysis kunigaikštis Dmitrijus
+    Ivanovičius, siekdamas plėsti savo valdžią,
+    remiamas Ordos, puolė Tverę. Jos kuni-
+    gaikštis Michailas Aleksandrovičius pa-
+    bėgo į Lietuvą ir Lietuvos valdovo Algirdo
+    (jo žmona Julijona Tverietė) prašė „pagal-
+    bos ir apginti“, kvietė žygiuoti į Maskvą.
+    Siekdamas neprarasti pozicijų rytuose
+    (nors tuo metu vyko sunki kova su kry-
+    žiuočiais prie Nemuno vidupio), Algirdas
+    1368 m. rudenį ryžosi smogti Maskvai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  santrauka: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rytuose
+    (senose baltų žemėse), kur vis stiprėjo
+    Lietuvai priešiška Maskvos ir Bizantijos
+    Konstantinopolio valdžia, remdamas su
+    Maskva konkuravusią Tverę, Algirdas su-
+    rengė tris žygius į Maskvą.
+
+    Žygių išvakarėse
+
+    Maskvos didysis kunigaikštis Dmitrijus
+    Ivanovičius, siekdamas plėsti savo valdžią,
+    remiamas Ordos, puolė Tverę. Jos kuni-
+    gaikštis Michailas Aleksandrovičius pa-
+    bėgo į Lietuvą ir Lietuvos valdovo Algirdo
+    (jo žmona Julijona Tverietė) prašė „pagal-
+    bos ir apginti“, kvietė žygiuoti į Maskvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Julijona]]

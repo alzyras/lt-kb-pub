@@ -1,24 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Rokiškis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1881 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1881'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XIX'
 ---
 # Rokiškis
 
@@ -27,16 +21,15 @@ tags:
 Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Panevėžio rinktinė turėjo veržtis Kėdainių–Panevėžio–Rokiškio kryptimi.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Panevėžio rinktinė turėjo veržtis Kėdainių–Panevėžio–Rokiškio kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvo sukurtas
@@ -52,10 +45,8 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
     ## Puslapis 181
 
     | 1881 m. jstojo į Rusijos kariuomenę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

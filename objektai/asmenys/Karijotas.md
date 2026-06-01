@@ -20,19 +20,19 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
@@ -45,9 +45,9 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -78,7 +78,7 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

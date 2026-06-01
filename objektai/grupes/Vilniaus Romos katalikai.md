@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '• — 153 ## Puslapis 170 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai dėl pernelyg didelės galios monarcho, kurio sostinė buvo, ėmė iš tiesų lygiuotis į didesniuosius anų laikų miestus ir pelnė deramą.'
+  teiginys: '1424 m. Vytauto Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1424 m. Vytauto Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  • —

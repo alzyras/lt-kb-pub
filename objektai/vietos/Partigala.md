@@ -18,24 +18,24 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen (Parteiniai) į pietryčius nuo Balgos. Išliko pilies kalnas (HE, p. 110; GAO, p. 131, 116); plg. Bateinen (Bateiniai—Weber L., Preussen..., p. 491; dėl pastarojo vardo žr. GAO, p..'
+  teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen (Parteiniai) į pietryčius nuo Balgos. Išliko pilies kalnas (HE, p. 110; GAO, p. 131, 116); plg. Bateinen (Bateiniai—Weber L., Preussen..., p. 491; dėl pastarojo vardo žr. GAO, p..'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     250 D.— castrum dictum Partegal, Jer.— hûs [...] Partegal. Vėliau — Partheinen
@@ -46,9 +46,9 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
@@ -64,9 +64,9 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
@@ -79,4 +79,4 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

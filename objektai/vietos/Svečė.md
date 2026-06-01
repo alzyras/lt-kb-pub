@@ -22,21 +22,21 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - t-001
   teiginys: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
-  pagrindžia:
     - c-003
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi

@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Arimo įrankiai Lietuvoje feodalizmo laikotarpyje'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1955 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1955'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - įrankis
+amziai:
+  - 'XX'
 ---
 # Arimo įrankiai Lietuvoje feodalizmo laikotarpyje
 
@@ -28,18 +22,15 @@ tags:
 : Arimo įrankiai Lietuvoje feodalizmo laikotarpyje, VUMD, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Brückner, A. : _Dzieje
@@ -50,10 +41,8 @@ tags:
     — Dundulienė, P. : _Arimo įrankiai Lietuvoje feodalizmo laikotarpyje,_
     VUMD, t. 2, 1955, 148-168 p. — (”) _Zemledelie v Litve v epochų feoda­
     lizma,_ Baltijskij Etnografičeskij Sbornik, Trudy Inst.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

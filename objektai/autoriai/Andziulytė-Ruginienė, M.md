@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Andziulytė-Ruginienė, M'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1937 m.'
   - '1965 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1937'
 date_end: '1965'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Andziulytė-Ruginienė, M
 
@@ -28,16 +24,15 @@ tags:
 Andziulytė-Ruginienė, M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'M. Andziulytė-Ruginienė 1937 m. Kaune paskelbė darbą „Žemaičių christianizacijos pradžia“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'M. Andziulytė-Ruginienė 1937 m. Kaune paskelbė darbą „Žemaičių christianizacijos pradžia“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Andziulytė-Ruginienė, M. : _Žemaičių christianizacijos pradžia,_
@@ -46,11 +41,9 @@ Andziulytė-Ruginienė, M.
     and his Doctrine concerning International Law and Politics_ , I-II, London
 
     1965.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

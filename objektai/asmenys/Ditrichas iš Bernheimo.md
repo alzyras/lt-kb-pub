@@ -28,34 +28,34 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie tai sužinoję, Kulmo pilies broliai pasekė juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti išžudyta anksčiau, nei kiti.'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą.'
   pagrindžia:
     - c-003
 
-- t-004
+- t-002
+  teiginys: 'Dusburgietis teigia, kad po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą.'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad jį pasitiko brolis Ditrichas, maršalas, su nedidele kariuomene; pasitikėdamas gailestingumu dievo, kuriam lengva susidoroti ir su keliais kariais, ir su didele kariauna, 1243 stojo į kovą ir kirto jiems stiprų smūgį.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-004
   teiginys: 'Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir.'
   pagrindžia:
-    - c-001
+    - c-005
 
-- t-002
+- t-005
   teiginys: 'Dusburgietis teigia, kad vienas jų, būtent brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,9 +90,9 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to patraukė iki
@@ -107,7 +107,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,9 +123,9 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-001
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
@@ -143,7 +143,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 - c-006
   santrauka: 'Dusburgietis teigia, kad po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą.'

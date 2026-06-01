@@ -43,12 +43,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
+- t-001
+  teiginys: 'Aleksandro laikų Vilniaus kalyklos išlaidose buvo minimi sidabras, varis, darbas ir kiti kalyklai priklausę dalykai.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
   pagrindžia:
     - c-001
@@ -72,9 +72,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: 'Aleksandro laikų Vilniaus kalyklos išlaidose buvo minimi sidabras, varis, darbas ir kiti kalyklai priklausę dalykai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pan Litawor Chrebtowicz, Marszałok
@@ -101,7 +102,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

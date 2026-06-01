@@ -28,8 +28,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to priešai priartėjo prie Marienverderio miesto ir po ilgų bei sunkių grumtynių vėl jį iš pagrindų sugriovė; vieni miestiečiai išvengė žūties, pabėgdami į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji buvo arba paimti į nelaisvę, arba.'
   pagrindžia:
-    - c-002
     - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   pagrindžia:
     - t-001
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   pagrindžia:
     - t-001
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš šios pilies išėjo brolis Konradas Švabas iš

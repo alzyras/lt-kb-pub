@@ -1,16 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Kodeksas (statutas) (1780 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1780 m.'
+date_start: '1780'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - seimas
+amziai:
+  - 'XVIII'
 ---
 # Kodeksas (statutas) (1780 m.)
 
@@ -19,18 +22,15 @@ tags:
 Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vienas artimiausiųjų jo
@@ -38,10 +38,8 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.
     čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
     tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

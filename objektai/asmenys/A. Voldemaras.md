@@ -28,49 +28,49 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos.'
   pagrindžia:
-    - c-003
+    - c-005
 
-- t-004
+- t-002
   teiginys: 'Voldemaras užsienio politiką stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesikeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-007
+- t-003
   teiginys: 'Voldemaras liko be nieko, nes neapdairiai atsisakė tapti užsienio reikalų ministru.'
   pagrindžia:
     - c-007
 
-- t-001
+- t-004
   teiginys: 'Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai.'
   pagrindžia:
-    - c-001
+    - c-008
 
 - t-005
   teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
   pagrindžia:
-    - c-005
+    - c-001
 
 - t-006
   teiginys: 'Voldemaras nieko negalėjo pakeisti.'
   pagrindžia:
-    - c-006
+    - c-003
 
-- t-002
+- t-007
   teiginys: 'Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus.'
   pagrindžia:
-    - c-002
+    - c-006
 
 - t-008
   teiginys: 'Kariuomenėje įtakingi nacionalistai voldemarininkai vis bandė pučų keliu grąžinti į valdžią A.'
   pagrindžia:
-    - c-008
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
@@ -86,7 +86,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   pagrindžia:
     - t-005
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
@@ -101,9 +101,9 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-006
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
@@ -118,7 +118,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   pagrindžia:
     - t-006
 
-- c-008
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kariuomenėje įtakingi nacionalistai voldemari-
@@ -133,7 +133,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   pagrindžia:
     - t-008
 
-- c-003
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kol kas viešojoje erdvėje dominuoja ekstrava-
@@ -155,9 +155,9 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentas A. Smetona ir
@@ -174,7 +174,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-007
 
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -193,9 +193,9 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
-- c-001
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
@@ -223,7 +223,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

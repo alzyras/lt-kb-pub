@@ -1,33 +1,16 @@
 ---
 tipas: grupe
-pavadinimas: "Valerijono Bursos studentų bendrija"
-sukurta: '2026-05-27'
-variantai:
-  - "Bursos studentų bendrija"
-  - "studentų bendrija"
-  - "Congregatio Studiosorum"
-  - "Studiosi Bursae"
-aliases: []
+pavadinimas: 'Valerijono Bursos studentų bendrija'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1579 m. fundacijos kontekstas"
-vaidmenys:
-  - "studentų bendruomenė"
-  - "akademinė bendrija"
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1579 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVI'
 date_start: '1579'
 date_end: ''
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVI'
 ---
 # Valerijono Bursos studentų bendrija
 
@@ -47,43 +30,40 @@ Valerijono Bursos studentų bendrija buvo neturtingiems, studijas baigti siekian
 Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Bursa buvo skirta sunkios padėties studentams, turintiems tikslą pabaigti studijas."
+  teiginys: 'Bursa buvo skirta sunkios padėties studentams, turintiems tikslą pabaigti studijas.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Valerijono Bursos studentų bendrijoje galėjo gyventi studentai nepriklausomai nuo tautybės.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Studentų bendrijoje turėjo būti prefektas arba senjoras, prižiūrintis pamaldumo, garbingumo ir broliškos santarvės laikymąsi."
+  teiginys: 'Studentų bendrijoje turėjo būti prefektas arba senjoras, prižiūrintis pamaldumo, garbingumo ir broliškos santarvės laikymąsi.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'Studentų bendriją ir jos namą buvo norima pavadinti Valerijono Bursa.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-005
-  teiginys: "Namų ir rūsio nuomos pajamos turėjo būti skiriamos Bursos studentų būtinoms reikmėms."
+  teiginys: 'Namų ir rūsio nuomos pajamos turėjo būti skiriamos Bursos studentų būtinoms reikmėms.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-006
-  teiginys: 'Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.'
+  teiginys: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nesvarbu, kokios tautybės jie būtų.'
   pagrindžia:
     - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Paramos tikslas vargstantiems studentams.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad Geriausias Didžiausias Dievas ne už kokius nors
@@ -108,15 +88,13 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     davėme ir dovanojome, ir šiuo mūsų raštu duodame ir dova­
     nojame amžiną ir neatšaukiamą dovaną - minėtų vargstan­
     čių dėl sunkios padėties, bet turinčių tikslą pabaigti studijas
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Priėmimo sąlygos ir vidaus priežiūra studentų bendrijoje.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -149,16 +127,14 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     su šiuo reikalu susijusiais dokumentais įteikėme, o kitą iš
     kitos to paties mūsų siuvėjo Tomo namo pusės nuo seno
     tuščiame sklype panašiai savo lėšomis pastatėme.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
     - t-003
+
 - c-003
-  santrauka: Bendrijos pavadinimas ir pajamų skyrimas studentams.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -171,19 +147,28 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     sakytų. Šio pobūdžio studentų bendriją (congregatio) ir mi­
     nėtą namą troškome ir labai norime pavadinti Valerijono
     Bursa.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
     - t-005
+
 - c-004
-  santrauka: 'Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.'
+  santrauka: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nesvarbu, kokios tautybės jie būtų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Alteram vero ex altera
+    Praeterea ut iidem studiosi, qui
+    pro tempore in Bursa supra nominata habitabunt, aliquod
+    inopiae suae sublevamen haberent, ad ligna nimirum, legu­
+    mina, et alias res necessarias comparandas, dedimus et hisce
+    literis nostris damus, duas domus de integro sumptibus nost­
+    ris erectas, cum areis et aliis omnibus aedificiis, unam quam
+    a certo quodam eiusdem domus herede emimus, inter Colle­
+    gium ex una, et domum sartoris nostri Thomae, ex altera
+    partibus sitam, quod evidentius emptionis literae, quas ad ma­
+    nus Reverendi Patris Rectoris, cum aliis ad idem negotium
+    pertinen. literis dedimus, declarant. Alteram vero ex altera
     parte domus eiusdem Sartoris nostri Tbomae, similiter impen­
     sis nostris, in area antiquitus deserta extruximus, utramque in
     414
@@ -210,9 +195,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     tins stropumui, o geruosius apgaubs tėviška meile.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
 
@@ -224,6 +207,5 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]

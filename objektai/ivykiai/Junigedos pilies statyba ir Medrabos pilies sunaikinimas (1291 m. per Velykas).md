@@ -39,12 +39,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą Tais pačiais metais per velykas lietuviai pastatė Junigedos valsčiuje pilį533, kurią 531 Žr.'
   pagrindžia:
     - c-001
@@ -73,7 +73,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'

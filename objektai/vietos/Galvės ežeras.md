@@ -1,58 +1,81 @@
 ---
 tipas: vieta
 pavadinimas: 'Galvės ežeras'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1409 m.'
-  - '1936 m.'
-  - '1978 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1409'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - pilis
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Galvės ežeras
 
 ## Santrauka
+
 Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Šiame šaltinyje Galvės ežeras taip pat minimas kaip Trakų salos pilies vieta.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Iš trijų pusių pilį supa Galvės ežeras.'
+  teiginys: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
+
+- t-002
+  teiginys: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Iš trijų pusių pilį supa Galvės ežeras.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pilį saugojo 11 gynybinių bokštų. Iš trijų pusių pilį
+    supa Galvės ežeras. Priešais centrinius vartus buvo
+    iškastas gynybinis griovys, susijungiantis su ežeru.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Priešais centrinius vartus buvo
+    iškastas gynybinis griovys, susijungiantis su ežeru.
+    Antrame plane matyti Trakų salos pilis. Baigta
+    statyti 1409m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar iš tikrųjų Vytauto epochai gali
@@ -71,39 +94,24 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
     ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
     lebert de Lannoy.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Iš trijų pusių pilį supa Galvės ežeras.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš trijų pusių pilį
-    supa Galvės ežeras. Priešais centrinius vartus buvo
-    iškastas gynybinis griovys, susijungiantis su ežeru.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+
+- c-004
+  santrauka: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Priešais centrinius vartus buvo
-    iškastas gynybinis griovys, susijungiantis su ežeru.
-    Antrame plane matyti Trakų salos pilis. Baigta
-    statyti 1409m.
+    Todėl čia greit išaugo didelis miestas, kurs tapo amžinąja
+    Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės
+    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
+    laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Jo
+    sūnus [[Kęstutis]] vėliau pastatė kitą didingą mūro pilį to paties
+    ežero saloje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-004

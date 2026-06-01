@@ -60,8 +60,6 @@ amziai:
 - [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
 - [[objektai/asmenys/Jurgis Astikaitis]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
 - [[objektai/asmenys/Vaclovas (Medininkų vyskupas)]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]

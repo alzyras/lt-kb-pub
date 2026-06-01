@@ -32,13 +32,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
+  teiginys: 'Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ten pat dalyvaujant Vilniaus vyskupui di­

@@ -25,35 +25,35 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-002
   teiginys: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
   pagrindžia:
-    - c-001
+    - c-003
 
-- t-004
+- t-003
   teiginys: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
   pagrindžia:
     - c-005
 
-- t-005
+- t-004
   teiginys: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
   pagrindžia:
     - c-006
 
-- t-002
+- t-005
   teiginys: 'Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.'
   pagrindžia:
-    - c-003
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-
@@ -69,9 +69,9 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-003
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1913 m. į Ameriką atvyko dr. J. Basanavičius ir M.
@@ -84,9 +84,9 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-001
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po 1905 m. revoliucijos palengvėjo
@@ -103,7 +103,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -121,7 +121,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -139,7 +139,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -157,7 +157,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

@@ -27,29 +27,29 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
+  teiginys: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
   pagrindžia:
     - c-001
 
-- t-004
-  teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
+- t-002
+  teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
+  teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
   pagrindžia:
     - c-003
 
+- t-004
+  teiginys: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jeigu upei Vili­
@@ -73,9 +73,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anksčiau kitaip
@@ -97,9 +97,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau gali būti dar vie­
@@ -123,9 +123,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-001
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Studija apie Vilniaus
@@ -144,7 +144,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

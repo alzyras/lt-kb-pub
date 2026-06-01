@@ -26,24 +26,24 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'In Anno 1572 ad Diem 17 Aprilis [1572 metais iki balandžio 17 dienos] A die 1 Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9 dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­ tas į lenkiškus pinigus - 164 zl., 36 gr.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
-  teiginys: 'Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv.'
+- t-002
+  teiginys: '1570 m. sudarytas nuostolių sąrašas fiksavo lietuviškų monetų keitimą į lenkiškus pinigus.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Fol. —  369-
@@ -75,7 +75,8 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
+  santrauka: '1570 m. sudarytas nuostolių sąrašas fiksavo lietuviškų monetų keitimą į lenkiškus pinigus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Gardine
@@ -100,9 +101,9 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     In Anno 1572 ad Diem 17 Aprilis
@@ -118,7 +119,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -130,5 +131,4 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 - [[objektai/zodynas/suma]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/kalykla, ediktas ir konstitucija pinigų potvarkyje]]

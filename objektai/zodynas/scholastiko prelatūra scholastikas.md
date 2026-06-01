@@ -27,13 +27,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '270 ## Puslapis 287 IV KNYGA ko papročiu, veikiančių mieste prie vienuolynų, skaičius iš­ augo, Vilniaus vyskupui Jonui iš Lietuvos kunigaikščių 1522 metais prie katedros įkūrus penktąją scholastiko prelatūrą, kadangi pagrindinė scholastiko pareiga buvo.'
+  teiginys: '1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai kurias
@@ -63,4 +64,4 @@ amziai:
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Jokūbas Babičius]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/asmenys/Jonas]]

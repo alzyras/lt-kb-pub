@@ -25,44 +25,44 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] circa Wildenbergk; Jer.— vestin) turėjo būti greta vėlesnės kryžiuočių Marienburgo pilies, o gal ir jos vietoje (plg.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] circa Wildenbergk; Jer.— vestin) turėjo būti greta vėlesnės kryžiuočių Marienburgo pilies, o gal ir jos vietoje (plg.'
-  pagrindžia:
-    - c-001
-
-- t-007
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo, kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo šventenybes.'
-  pagrindžia:
-    - c-007
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
-  pagrindžia:
-    - c-006
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   pagrindžia:
     - c-005
 
 - t-004
+  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
+  pagrindžia:
+    - c-006
+
+- t-006
   teiginys: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-008
+- t-007
   teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   pagrindžia:
-    - c-008
+    - c-007
 
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bartenšteino pilies puolimą
@@ -76,9 +76,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
@@ -91,9 +91,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     239 D. — Wildenbergk, Jer.— Wildinberc; vėliau Willenberg, dab. Vilbarkas — pietinis
@@ -106,9 +106,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
@@ -124,9 +124,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-007
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
@@ -142,9 +142,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
-- c-005
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
@@ -166,7 +166,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   pagrindžia:
     - t-005
 
-- c-008
+- c-007
   santrauka: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -180,9 +180,9 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-009
+- c-008
   santrauka: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -195,7 +195,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

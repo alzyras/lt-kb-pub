@@ -28,12 +28,12 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę, išsivarė į nelaisvę moteris ir vaikus.'
   pagrindžia:
-    - c-005
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis.'
   pagrindžia:
     - c-001
@@ -41,42 +41,42 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
   pagrindžia:
-    - c-003
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui, Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279.'
-  pagrindžia:
-    - c-007
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
-  pagrindžia:
-    - c-006
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie Sasavos pilies užkariavimą Sužinojęs apie tai, brolis Konradas iš Tirbergo, magistras, labai susijaudino ir, subūręs tūkstantį penkis šimtus raitelių, o kitiems išplaukus į priekį su 15 laivų, atitraukė prie Sasavos, skalvių pilies475, kurią pradėjo.'
-  pagrindžia:
     - c-004
 
-- t-008
-  teiginys: 'Dusburgietis teigia, kad šis brolis Konradas buvo minėtojo Konrado iš Tirbergo, magistro, tikrasis brolis, juodu garsėjo kaip ryžtingi vyrai, pelnę didelę šlovę ir karo žygiais, ir kitokiais darbais; jiems vadovaujant, taip sėkmingai kariauta su netikėliais, kad rodėsi, jog viskas.'
-  pagrindžia:
-    - c-008
-
-- t-009
-  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+- t-004
+  teiginys: 'Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui, Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279.'
   pagrindžia:
     - c-009
 
-- t-002
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie Sasavos pilies užkariavimą Sužinojęs apie tai, brolis Konradas iš Tirbergo, magistras, labai susijaudino ir, subūręs tūkstantį penkis šimtus raitelių, o kitiems išplaukus į priekį su 15 laivų, atitraukė prie Sasavos, skalvių pilies475, kurią pradėjo.'
+  pagrindžia:
+    - c-003
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad šis brolis Konradas buvo minėtojo Konrado iš Tirbergo, magistro, tikrasis brolis, juodu garsėjo kaip ryžtingi vyrai, pelnę didelę šlovę ir karo žygiais, ir kitokiais darbais; jiems vadovaujant, taip sėkmingai kariauta su netikėliais, kad rodėsi, jog viskas.'
+  pagrindžia:
+    - c-010
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  pagrindžia:
+    - c-006
+
+- t-009
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, devintą Prūsijos magistrą Brolis Konradas iš Tirbergo Vyresnysis, devintas Prūsijos žemės magistras, vadovavo šešerius metus nuo 1273 viešpaties metų409.'
   pagrindžia:
-    - c-002
+    - c-007
 
 - t-010
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
   pagrindžia:
-    - c-010
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -95,9 +95,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-005
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės
@@ -111,9 +111,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sasavos pilies užkariavimą
@@ -127,9 +127,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   pagrindžia:
     - t-003
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     194 (189). Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
@@ -162,9 +162,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-009
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
@@ -178,9 +178,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-002
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Konradą, devintą Prūsijos magistrą
@@ -197,9 +197,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-009
 
-- c-010
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     214 (209). Apie brolį Konradą iš Tirbergo, Prūsijos magistrą
@@ -215,7 +215,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   pagrindžia:
     - t-010
 
-- c-007
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
@@ -227,9 +227,9 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-008
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Konradas  iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo
@@ -241,7 +241,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-011
   santrauka: 'Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis.'

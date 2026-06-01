@@ -1,24 +1,16 @@
 ---
 tipas: paprotys
 pavadinimas: 'Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: '1260 m. birželio 5 d.'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1260 m.'
+date_start: '1260'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIII'
 ---
 # Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas
 
@@ -30,6 +22,7 @@ Prieš puolimą prieš Lietuvą Ordinas stiprino ryšius su lenkų kunigaikšči
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: politinė praktika
 
 ## Atlikimas
@@ -42,22 +35,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Prieš puolimą prieš Lietuvą Ordinas stiprino ryšius su lenkų kunigaikščiais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: '1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Prieš puolimą prieš Lietuvą Ordinas stiprino ryšius su lenkų kunigaikščiais.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prieš puolimą prieš Lietuvą Ordinas stiprino ryšius su lenkų kunigaikščiais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimo prieš Lietuvą išvakarėse Ordi-
@@ -66,14 +57,12 @@ Nenurodyta
     gaikštis Zemovitas sudarė eilinę dar ne-
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

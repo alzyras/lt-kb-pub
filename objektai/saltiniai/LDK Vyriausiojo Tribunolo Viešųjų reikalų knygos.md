@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
+  teiginys: '1785 m. kovo 14 d. LDK Vyriausiajam Tribunolui Vilniuje buvo pateikta Pabaisko bažnyčios ir klebonijos fundacijos privilegija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1785 m. kovo 14 d. LDK Vyriausiajam Tribunolui Vilniuje buvo pateikta Pabaisko bažnyčios ir klebonijos fundacijos privilegija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­

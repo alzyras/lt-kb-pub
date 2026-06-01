@@ -30,21 +30,21 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
 - t-001
   teiginys: 'Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
-  pagrindžia:
     - c-003
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad pirmosios žinios apie Dobrynės ordiną išliko 1228 m. dokumentuose, todėl istoriografijoje šie metai pateikiami kaip Ordino įkūrimo data (CDP, Nr. 19—21; Regesta historico-diplomatica Ordinis..., Nr. 38—40; Benninghoven F.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     159 D. — Wurcza. Burcos žemė Transilvanijoje. Joje Vengrijos karalius Andrius 11

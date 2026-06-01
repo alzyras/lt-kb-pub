@@ -1,17 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Pasvalio sutartis (1557 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1557 m.'
+date_start: '1557'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - saltinis
   - sutartis
+amziai:
+  - 'XVI'
 ---
 # Pasvalio sutartis (1557 m.)
 
@@ -20,18 +23,15 @@ tags:
 Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau paskelbė Livonijai karą; 1559 m. Livonijai pasidavus Zigmantui Augustui, Lietuva stojo jos ginti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po 1557 m. Pasvalio sutarties Jonas IV paskelbė karą Livonijai, o 1559 m. Lietuva stojo ginti Zigmantui Augustui pasidavusios Livonijos.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Po 1557 m. Pasvalio sutarties Jonas IV paskelbė karą Livonijai, o 1559 m. Lietuva stojo ginti Zigmantui Augustui pasidavusios Livonijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.),
@@ -39,10 +39,8 @@ Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau pask
     davus Zigmantui Augustui, Lietuva stojo jos ginti. 1560 m. pra-
     sidėjęs karas dėl Livonijos nesisekė ir užtraukė didelių nelaimių
     visai Lietuvai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

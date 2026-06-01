@@ -25,29 +25,29 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams. Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
+  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).'
   pagrindžia:
     - c-001
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams. Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti. Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
+  pagrindžia:
+    - c-003
+
+- t-004
   teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     17. Apie vieną stebuklą
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -76,9 +76,9 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
@@ -88,7 +88,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,4 +103,4 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002

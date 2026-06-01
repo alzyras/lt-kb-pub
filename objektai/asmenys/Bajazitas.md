@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Bajazitas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1396 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1396'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Bajazitas
 
@@ -28,16 +24,15 @@ tags:
 Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vorsklos katastrofa pakirto Vytauto
@@ -53,16 +48,15 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
     kiti), kovoję be vieningos vadovybės, buvo
     sutriuškinti Osmanų imperijos sultono
     Bajazito kariuomenės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Turkai]]
 - [[objektai/ivykiai/Vorsklos katastrofa]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Čekai]]

@@ -1,29 +1,25 @@
 ---
 tipas: autorius
 pavadinimas: 'Hermanas Vartbergė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1236 m.'
   - '1329 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1236'
 date_end: '1329'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karalius
   - ordinas
   - pilis
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Hermanas Vartbergė
 
@@ -32,19 +28,15 @@ tags:
 balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie 1236 m. Saulės mūšį ir jo pasekmes Kalavijuočių ordinui. “ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį. p. 48, „LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS, Latvis H., Vartbergė H., p. 192- 193.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '.“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
-  pagrindžia:
-    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvoje karių
@@ -66,32 +58,11 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
     „Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene
     žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir
     ten Saulės žemėje (terram Sauleorum) šv.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '.“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    .“
-
-    LIETUVIAI PRIE RYGOS
-
-    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
-    šinomis sunaikina Piltenės pilį.
-
-    „1329 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

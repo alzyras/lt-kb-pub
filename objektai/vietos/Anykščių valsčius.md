@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Anykščių valsčius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,16 +15,15 @@ tags:
 Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d. atvedė čekistus prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiaus, Butkiškio vienkiemio Jovaišų sodyboje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Spalio 28 d. po tardymų bendradarbiauti sutikę asmenys atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Spalio 28 d. po tardymų bendradarbiauti sutikę asmenys atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1949 m. spalio 24 d. MGB agentui V. Kučiui
@@ -49,10 +39,8 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
     vienkiemio Jovaišų sodyboje. Rūgštymas
     buvo pristatytas prie pagrindinio įėjimo,
     o Vijoklis — prie atsarginio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

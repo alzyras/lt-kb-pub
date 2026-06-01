@@ -29,27 +29,27 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-005
+- t-002
   teiginys: 'P. Pakarklis dar parašė : Lietuvos Didžiųjų Kunigaikščių metraštis (AkMD, t.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad 5 Pakarklis P.'
   pagrindžia:
-    - c-003
+    - c-005
 
-- t-002
+- t-004
   teiginys: 'Dusburgietis teigia, kad tautiniai santykiai..., p. 24—27; Pakarklis P.'
   pagrindžia:
-    - c-002
+    - c-004
 
-- t-001
+- t-005
   teiginys: 'Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą buv.'
   pagrindžia:
     - c-001
@@ -71,9 +71,9 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sventopelko karą su Teutonų ordino broliais
@@ -89,9 +89,9 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-005
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Žr. LE, t. 36, 384-385 p.**
@@ -113,9 +113,9 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4 Pierson W. Über die Nationalität..., S. 10, 16; Weber L. Preussen..., S. 18; Vileišis
@@ -125,9 +125,9 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     5 Pakarklis P. Kryžiuočių..., p. 15—23.

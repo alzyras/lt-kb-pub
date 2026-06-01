@@ -28,94 +28,94 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 
 ## Teiginiai
 
-- t-018
+- t-001
   teiginys: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
-  pagrindžia:
-    - c-018
-
-- t-003
-  teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
-  pagrindžia:
-    - c-003
-
-- t-006
-  teiginys: 'Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.'
-  pagrindžia:
-    - c-006
-
-- t-012
-  teiginys: 'Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato.'
-  pagrindžia:
-    - c-012
-
-- t-002
-  teiginys: 'Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a.'
   pagrindžia:
     - c-002
 
-- t-014
-  teiginys: 'Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai didėjo.'
+- t-002
+  teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
   pagrindžia:
-    - c-014
+    - c-001
+
+- t-003
+  teiginys: 'Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.'
+  pagrindžia:
+    - c-012
+
+- t-004
+  teiginys: 'Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato.'
+  pagrindžia:
+    - c-011
 
 - t-005
+  teiginys: 'Valstybė – Lietuvos Didžioji Kunigaikštija – buvo sukurta XIII a.'
+  pagrindžia:
+    - c-006
+
+- t-006
+  teiginys: 'Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai didėjo.'
+  pagrindžia:
+    - c-007
+
+- t-007
   teiginys: 'Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga Vidurio ir Rytų Europos jėga.'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-015
+- t-008
   teiginys: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   pagrindžia:
-    - c-015
+    - c-003
 
 - t-009
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-009
 
-- t-008
+- t-010
   teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
+  pagrindžia:
+    - c-014
+
+- t-011
+  teiginys: 'Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
+  pagrindžia:
+    - c-015
+
+- t-012
+  teiginys: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   pagrindžia:
     - c-008
 
-- t-010
-  teiginys: 'Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
-  pagrindžia:
-    - c-010
-
-- t-007
-  teiginys: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
-  pagrindžia:
-    - c-007
-
-- t-004
-  teiginys: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
-  pagrindžia:
-    - c-004
-
 - t-013
-  teiginys: 'Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio raštijos modelio), XVI a.'
+  teiginys: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   pagrindžia:
     - c-013
 
-- t-016
+- t-014
+  teiginys: 'Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio raštijos modelio), XVI a.'
+  pagrindžia:
+    - c-010
+
+- t-015
   teiginys: 'Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
+  pagrindžia:
+    - c-017
+
+- t-016
+  teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
+  pagrindžia:
+    - c-005
+
+- t-017
+  teiginys: 'Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.'
   pagrindžia:
     - c-016
 
-- t-011
-  teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
-  pagrindžia:
-    - c-011
-
-- t-001
-  teiginys: 'Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kalavijuočių ordinas tapo
@@ -130,9 +130,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-018
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po dešimt
@@ -146,9 +146,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-001
 
-- c-015
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
@@ -159,9 +159,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-008
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugo laikais
@@ -177,9 +177,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-007
 
-- c-011
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
@@ -198,9 +198,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-016
 
-- c-002
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo I a. po
@@ -214,9 +214,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-014
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Raštija
@@ -232,9 +232,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-006
 
-- c-007
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienuolynuose rašoma bulgarų kilmės slavų
@@ -247,7 +247,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-012
 
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -264,7 +264,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindžia:
     - t-009
 
-- c-013
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
@@ -278,9 +278,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-014
 
-- c-012
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Enėjas Silvijus Pikolominis (Enea Silvio Picco-
@@ -306,9 +306,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-004
 
-- c-006
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“. LDK
@@ -320,9 +320,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-004
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kalavijuočių ordinas tapo
@@ -337,9 +337,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-013
 
-- c-008
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
@@ -358,9 +358,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-010
 
-- c-010
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387 m.
@@ -376,9 +376,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-011
 
-- c-001
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
@@ -389,9 +389,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-017
 
-- c-016
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLV sąjungininkę Prūsiją išgąsdino gali-
@@ -406,9 +406,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-015
 
-- c-019
+- c-018
   santrauka: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -423,7 +423,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai

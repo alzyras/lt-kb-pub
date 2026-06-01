@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Virginijus Česnulevičius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1991 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1991'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - seimas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Virginijus Česnulevičius
 
@@ -28,33 +24,33 @@ tags:
 Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas TELEVIZIJOS LAIDA oa AT Profsąjungų tarybų rūmų (dabar - 111 Seimo rūmai) apsaugos grupės vadas, vėliau SKAT štabo. p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'sausio įvykių ir rugpjūčio pučo metu 254 AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m. Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas TELEVIZIJOS LAIDA oa AT Profsąjungų tarybų rūmų (dabar.'
+  teiginys: 'Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
     Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'sausio įvykių ir rugpjūčio pučo metu 254 AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m. Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas TELEVIZIJOS LAIDA oa AT Profsąjungų tarybų rūmų (dabar.'
+  santrauka: 'Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     sausio įvykių ir rugpjūčio pučo metu
@@ -72,9 +68,7 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
     „E.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

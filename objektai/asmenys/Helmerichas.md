@@ -29,12 +29,12 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o palaidotas Kulmenzės bažnyčioje.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai apie tai išgirdo magistras brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     96 (91). Apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais

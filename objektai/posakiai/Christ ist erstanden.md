@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Christ ist erstanden'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - posakis
@@ -25,16 +16,15 @@ tags:
 Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“^1 ) ir pakilusia nuotaika kovojo toliau.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ordino kariuomenė užtraukė pergalės giesmę „Christ ist erstanden“ ir pakilusia nuotaika kovojo toliau.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ordino kariuomenė užtraukė pergalės giesmę „Christ ist erstanden“ ir pakilusia nuotaika kovojo toliau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkų tik
@@ -43,11 +33,9 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
     den“^1 ) ir pakilusia nuotaika kovojo toliau. Keletas Ordino vėlia­
     vų (ją buvo devynios) metėsi vytis besitraukiančią lietuvių ka­
     riuomenę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -56,3 +44,4 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vytis]]
+- [[objektai/daiktai/Vėliavos]]

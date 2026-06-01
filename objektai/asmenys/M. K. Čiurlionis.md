@@ -19,17 +19,17 @@ tags:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
   pagrindžia:
     - c-001
@@ -52,7 +52,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,7 +73,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -88,7 +88,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

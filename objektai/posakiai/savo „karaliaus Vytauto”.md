@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'savo „karaliaus Vytauto”'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - posakis
@@ -25,19 +16,20 @@ tags:
 Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo jis jau ne tik pabėgėlis, bet ir Žemaičių karalius.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo jis jau ne tik pabėgėlis, bet ir Žemaičių karalius.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Gegužės 26 d. jie pasižadėjo laiky­ tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo bei prekybos sutartį, garantuodami kryžiuočiams savo krašte visišką prekybos laisvę.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo jis jau ne tik pabėgėlis, bet ir Žemaičių karalius.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo jis jau ne tik pabėgėlis, bet ir Žemaičių karalius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš šitos sutar­
@@ -47,28 +39,27 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
     bet ir Žemaičių karalius. Dabar vokiečiai iš tikro galėjo tikėtis,
     kad Žemaitijos klausimas, dėl kurio jie tiek daug buvo kovoję,
     galutinai bus išspręstas jų naudai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Gegužės 26 d. jie pasižadėjo laiky­ tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo bei prekybos sutartį, garantuodami kryžiuočiams savo krašte visišką prekybos laisvę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Gegužės 26 d. jie pasižadėjo laiky­
+    Žemaičiai jam
+    pritarė ir rėmė jo planus. Apie Sekmines (1390 m.) iš
+    įvairių Žemaitijos vietų pas Vytautą į Karaliaučių atvy­
+    ko trisdešimt atstovų. Gegužės 26 d. jie pasižadėjo laiky­
     tis savo „karaliaus Vytauto” ir su Ordino atstovais sudarė karo
     bei prekybos sutartį, garantuodami kryžiuočiams savo krašte
     visišką prekybos laisvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

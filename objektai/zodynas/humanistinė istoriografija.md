@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'humanistinė istoriografija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -24,16 +15,15 @@ tags:
 Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūriniams humanistinės istoriografijos kriteri­ jams »^17 , ir Lietuvoje dabar jo veikale randama renesanso kultūros apraiškų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stryjkovskio istorija neatitiko visų humanistinės istoriografijos mokslinių ir literatūrinių kriterijų.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stryjkovskio istorija neatitiko visų humanistinės istoriografijos mokslinių ir literatūrinių kriterijų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     mas jo darbą pagrindan M. J. Tichomirovo mokinys A. Rogovas
@@ -44,11 +34,9 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
     apraiškų.
     Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
     nebuvo tikslus šaltinių atžvilgiu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

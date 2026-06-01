@@ -1,28 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'maršalas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1348 m.'
   - '1355 m.'
   - '1356 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1348'
 date_end: '1356'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - ordinas
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # maršalas
 
@@ -31,38 +25,25 @@ tags:
 „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio priešistorė Tesiantis Lietuvos karui su Vokiečių ordinu, 1355 m. pradžioje didelė Kryžiuočių kariuomenė, vadovaujama maršalo, įsiveržusi penketą dienų niokojo centrinę Žemaitijos.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: '1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės.'
+  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: '1348 m. Ordino maršalas Zygfridas iš Dahnfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
-    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
-    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
-    tas ugnimi išdegintas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     S
@@ -98,13 +79,38 @@ tags:
     tines žemes veržėsi Lenkijos ir Vengrijos
     jėgos, nuo 1356 m. santykiai su tomis šali-
     mis kuriam laikui normalizavosi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
+    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
+    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
+    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
+    tas ugnimi išdegintas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: '1348 m. Ordino maršalas Zygfridas iš Dahnfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Strėvos mūšį.
+    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
+    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -190,7 +196,6 @@ tags:
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
 - [[objektai/ivykiai/Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Redigeris Elneris]]
 - [[objektai/asmenys/Reinoldas]]
 - [[objektai/asmenys/Rudolfas (Tiberiados valdovas)]]
@@ -225,5 +230,7 @@ tags:
 - [[objektai/asmenys/B. P. Sapiega]]
 - [[objektai/asmenys/Frydrichas fon Valenrodas]]
 - [[objektai/asmenys/J. P. Sapiega]]
+- [[objektai/asmenys/Kerskorfas]]
+- [[objektai/asmenys/Kunas fon Lichtenšteinas]]
 - [[objektai/asmenys/Nesselrodė]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Eufimėjus'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -25,16 +16,15 @@ tags:
 Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui pristatė Polocko vysk.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Konstantinopolio patriarchas Eufimėjus nepatvirtino Vytauto siūlyto Polocko vyskupo Teodozijaus Kijevo metropolitu.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Konstantinopolio patriarchas Eufimėjus nepatvirtino Vytauto siūlyto Polocko vyskupo Teodozijaus Kijevo metropolitu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet kai Ciprijonas mirė (1406), tai Vytautas,
@@ -48,11 +38,9 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
     čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
     tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
     se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

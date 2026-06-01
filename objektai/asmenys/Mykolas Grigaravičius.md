@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '23 Paveldėtojų parduodamų Svečių na­ mų pardavimo kopija: Vilniaus ar­ klininko Mykolo Grigaravičiaus 269 ## Puslapis 286 VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe.'
+  teiginys: 'Mykolas Grigaravičius buvo Vilniaus arklininkas, minimas Svečių namų pardavimo kopijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mykolas Grigaravičius buvo Vilniaus arklininkas, minimas Svečių namų pardavimo kopijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     23

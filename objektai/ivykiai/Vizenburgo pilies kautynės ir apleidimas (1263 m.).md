@@ -44,23 +44,23 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto buvo susitarę. Šitai matydami, broliai sulipo į šalimais buvusį kalnelį ir ten ilgai narsiai gynėsi, o.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.'
-  pagrindžia:
-    - c-003
     - c-004
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.'
+  pagrindžia:
+    - c-003
+    - c-002
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
   pagrindžia:
+    - c-001
     - c-002
-    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
@@ -74,9 +74,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
@@ -92,8 +92,8 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
     - t-003
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,9 +110,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391

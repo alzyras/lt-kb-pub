@@ -27,29 +27,29 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 
 ## Teiginiai
 
-- t-004
-  teiginys: '5 Kojelavičius ir Nar a movsk i s klysta tą vyskupą Mikalojų va­ dindami Borkovskiu, tai buvo Gož­ kovskis, lenkas.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 't.; antra, kad nuo 1417 m. iki 1453 m., tai yra 36 metus, kiek jam Kojelavičius ir kiti istori­ jas rašę buvo davę, būtų buvęs per ilgas tarpsnis vyskupu išbūti.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotekoje, kuriame trumpos panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­ čiaus, jėzuito2.'
+  teiginys: '5 Kojelavičius ir Nar a movsk i s klysta tą vyskupą Mikalojų va­ dindami Borkovskiu, tai buvo Gož­ kovskis, lenkas.'
   pagrindžia:
     - c-001
 
 - t-002
+  teiginys: 'Petras Kojelavičius vyskupui Motiejui priskyrė 1417-1453 m. vyskupavimo laikotarpį.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotekoje, kuriame trumpos panegirikos Vilniaus vyskupams, rašytos Petro Kojelavi­ čiaus, jėzuito2.'
+  pagrindžia:
+    - c-003
+
+- t-004
   teiginys: 'Petro Wiiuk Koja- łowicz, Societatis Jesu, in alma Uni­ versitate Vilnensi eiusdem Societatis tunc Eloquentiae deinde Logices ordi­ nario professore.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ant­
@@ -74,7 +74,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -92,9 +92,9 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad nu­
@@ -111,9 +111,10 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-004
+  santrauka: 'Petras Kojelavičius vyskupui Motiejui priskyrė 1417-1453 m. vyskupavimo laikotarpį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Turbūt todėl 1427 m. šventinant Šv. Jono bažnyčią Vilniaus
@@ -127,7 +128,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

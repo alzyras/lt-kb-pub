@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'rekrūtas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
@@ -19,16 +16,15 @@ tags:
 Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuomenę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuomenę.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuomenę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, buvo nustatyta, kad
@@ -37,10 +33,8 @@ Rekrūtus rinkti Lietuvoje buvo galima tik į Lietuvos, o Lenkijoje tik į Lenki
     palikta atskira kiekvienoje valstybėje. Rekrūtus rinkti Lietuvoje
     buvo galima tik į Lietuvos, o Lenkijoje tik į Lenkijos kariuo-
     menę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

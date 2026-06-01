@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'SSRS siūlyta sutartis dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - saltinis
@@ -20,27 +17,25 @@ tags:
 Urbšį pasirašyti savitarpio pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartį dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šis išvyko spalio 2 dieną. Jo kelionės išvakarėse
+    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
+    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
     Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
     pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
     dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -67,7 +67,6 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
 - [[objektai/grupes/Radvilos]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]

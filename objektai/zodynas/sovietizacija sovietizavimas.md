@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'sovietizacija sovietizavimas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1941 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1941'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - seimas
   - sąvoka
   - valstybė
+amziai:
+  - 'XX'
 ---
 # sovietizacija sovietizavimas
 
@@ -29,21 +23,25 @@ tags:
 Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    gandai privertė įtikinėti gyventojus, kad žemės nuosavybė nebus liečiama
+    ir kad „Lietuvos kariuomenė pasilieka ir toliau. Prireikus ji gins Lietuvos
+    Nepriklausomybę ir laisvę“.
     Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
     Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
     tus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas
@@ -52,15 +50,13 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     So-
@@ -73,11 +69,9 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     bolševikų vykdytos politikos dalis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

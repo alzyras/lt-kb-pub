@@ -26,19 +26,19 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Taigi lietuvių kalbą, nesuspėjant kurti naujadarų pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
@@ -51,9 +51,9 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -71,7 +71,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

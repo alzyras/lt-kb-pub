@@ -1,9 +1,6 @@
 ---
 tipas: grupe
 pavadinimas: 'Vytauto apygarda'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -11,19 +8,16 @@ datos:
   - '1949 m.'
   - '1950 m.'
   - '1951 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1947'
 date_end: '1951'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
   - mūšis
+amziai:
+  - 'XX'
 ---
 # Vytauto apygarda
 
@@ -32,22 +26,36 @@ tags:
 PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius ra VYTAUTO APYGARDA rinktiné N = MOS» Pabradė Aavovers 1 PAGAIGALĖS KAUTYNĖS Lu ka | š sii apygarda A ŠA 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo = AR 3 Kada UN Paberdė. “ ## Puslapis 245 ŠIMONIŲ GIRIOS APGULTIS 1949 X OKUPUOTOJI LIETUVA Mūšio priešistorė Algimanto apygarda įkurta 1947 m. gegužės 1 d. Rytų Lietuvos srities partizanų vadų sprendimu iš Panevėžio ir Rokiškio apskrityse veikusių partizanų junginių, kurie. 1950 m. lapkričio 25 d. srities vado įsakymu Algimanto apygarda buvo panaikinta.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1951 m. kovo 19 d. MGB kariuomenei puolant dvi žemines žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '1950 m. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo įtraukti į Vytauto apygardą.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: '1951 m. kovo 19 d. MGB kariuomenei puolant dvi žemines žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
+  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1951 m. kovo 19 d. MGB kariuomenei puolant dvi žemines žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    praktiškai žuvo visa apygardos vadovybė.
+    1950 m. lapkričio 25 d. srities vado įsakymu
+    Algimanto apygarda buvo panaikinta. Likę
+    Šarūno ir Kunigaikščio Margio rinktinių
+    kovotojai sujungti į vieną - Tumo Vaižganto
+    rinktinę ir įtraukti į Vytauto, o Žaliosios
+    rinktinės kovotojai - į Vyčio apygardas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     PASTOVIAIO)
@@ -66,29 +74,9 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
     | ee "semeikės AN LBA Gerveca> L Winivas PRISIKĖLIMO APYGARDA
     PRIENAPĖSSJ — demas Aukštadvoris -——4 ners OAstravas SN PADAUGYVENES KAUTYNES
     Bisétonas Cea o ae 1 ORudamina pr = DanušavaO | Vaistamkas 1949 m. sausio 25 d. Smilgių vIsč.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1950 m. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo įtraukti į Vytauto apygardą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    praktiškai žuvo visa apygardos vadovybė.
-    1950 m. lapkričio 25 d. srities vado įsakymu
-    Algimanto apygarda buvo panaikinta. Likę
-    Šarūno ir Kunigaikščio Margio rinktinių
-    kovotojai sujungti į vieną - Tumo Vaižganto
-    rinktinę ir įtraukti į Vytauto, o Žaliosios
-    rinktinės kovotojai - į Vyčio apygardas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

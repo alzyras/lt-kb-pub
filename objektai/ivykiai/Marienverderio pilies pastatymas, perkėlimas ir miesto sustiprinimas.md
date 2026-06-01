@@ -43,24 +43,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie Marienverderio miesto pastatymą Kol Magdeburgo burggrafas užsilaikė Kulme, nes dar nebuvo davęs taip didžiai trokštamų įžadų, atvyko daug kunigaikščių iš Lenkijos: kunigaikštis Konradas227, Kujavijos kunigaikštis228, Krokuvos kunigaikštis ir Vroclavo.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir.'
+  teiginys: 'Dusburgietis teigia, kad apie Marienverderio miesto pastatymą Kol Magdeburgo burggrafas užsilaikė Kulme, nes dar nebuvo davęs taip didžiai trokštamų įžadų, atvyko daug kunigaikščių iš Lenkijos: kunigaikštis Konradas227, Kujavijos kunigaikštis228, Krokuvos kunigaikštis ir Vroclavo.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis, jis per vienus metus, kuriuos ten praleido, atplaukė čia ir perkėlė su magistru bei.'
+  teiginys: 'Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenės ir ginklanešių lydimas kilnusis vyras ir kariauti įgudęs Saksonijos karys Magdeburgo burggrafas224, pravarde Trumparankis, jis per vienus metus, kuriuos ten praleido, atplaukė čia ir perkėlė su magistru bei.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Marienverderio miesto pastatymą
@@ -101,9 +101,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     9. Apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae
@@ -124,9 +124,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo
@@ -149,7 +149,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

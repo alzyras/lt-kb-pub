@@ -1,34 +1,23 @@
 ---
 tipas: grupe
 pavadinimas: 'Rusėnai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1490 m.'
-  - '1517 m.'
-  - '1519 m.'
-  - '1522 m.'
   - '1541 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
 date_start: '1490'
 date_end: '1541'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - kunigaikštis
   - tauta
+amziai:
+  - 'XV'
+  - 'XVI'
 ---
 # Rusėnai
 
@@ -37,152 +26,189 @@ tags:
 Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos. Jose pamažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos. Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.'
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.'
-  pagrindžia:
-    - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'LDK slavai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
-  pagrindžia:
-    - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-006
   teiginys: 'Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.'
   pagrindžia:
     - c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'LDK slavai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
+  pagrindžia:
+    - c-005
+
+- t-003
+  teiginys: 'LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  pagrindžia:
+    - c-001
+
+- t-006
+  teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
+  pagrindžia:
+    - c-007
+
 - t-007
   teiginys: 'Pastarųjų erdvėje toliau į rytus (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių ūkis).'
   pagrindžia:
-    - c-007
+    - c-009
+
 - t-008
+  teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir Lenkijos valstybėse gyvenusius rytų slavus.'
+  pagrindžia:
+    - c-010
+
+- t-009
   teiginys: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir Lenkijos valstybėse gyvenusius rytų slavus.'
-  pagrindžia:
-    - c-009
+
 - t-010
-  teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
+  teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.'
   pagrindžia:
-    - c-010
+    - c-004
+
+- t-011
+  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  pagrindžia:
+    - c-011
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Grindžiama
+    Šie argumentai nuginčija paplitusią versiją, bet nepaaiškina, iš kur kilęs
+    Lietuvos vardas. Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
+    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
+    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
     mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
     žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
     Lietuvos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
+
 - c-002
-  santrauka: 'LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jose pa-
+    Valdant Ldk
+    Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
+    savo teritoriją nuo Baltijos iki Juodosios jūros. Tai nulėmė, kad Lietuva
+    pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
+    teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes. Jose pa-
     mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš
     kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Vienuolynuose rašoma bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vienuolynuose rašoma bulgarų kilmės slavų
+    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
+    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
     bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
     kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
     tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
     tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
+
 - c-004
-  santrauka: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
+    Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis). Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
     neatsitiktinai į XV–XVI a. Lietuvos Metrikos rusėnų kalbą pateko ir buvo
     vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dal-
     gio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“),
     kluonas („klunia“), aruodas („orud“), priemenė („primen“).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-010
+
 - c-005
-  santrauka: 'LDK slavai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Patys LDK slavai save
+    XVI a. rusėnai pasijuto visai atskira tauta, kitokia nei Mas-
+    kvos valstybės rusai. LDK rytų slavai Rusijos žmones vadino maskvėnais, o
+    maskvėnai savo ruožtu LDK rytų slavus – lietuviais. Patys LDK slavai save
     vadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė
     savu valdovu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-006
-  santrauka: 'Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
+    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
     vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
     Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
-    dicinos daktaro laipsnį, 1517–1519 m.
-  citata_rodoma: ""
+    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
+    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
+    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Pastarųjų erdvėje toliau į rytus (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių ūkis).'
+
+- c-008
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
+    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
+    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
+    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pastarųjų erdvėje toliau į rytus
@@ -197,29 +223,11 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     lietuviškos „gerovės“ žodžiai: kumpis („kompa“) ar skilandis („skilond“).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
-- c-008
-  santrauka: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
-    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
-    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
-    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
-    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir Lenkijos valstybėse gyvenusius rytų slavus.'
+
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Filologų manymu, LDK raštinėse
@@ -235,28 +243,27 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
+    - t-008
+
+- c-011
+  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
-    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
-    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
-    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
-    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
-    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
+    Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
+    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
+    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -316,3 +323,5 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/grupes/Tiškevičiai]]
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]

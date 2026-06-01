@@ -23,19 +23,19 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: '8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo J.'
+  teiginys: '8 Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '1968 m. išleistos Vilniaus miesto istorijos autoriai pažymėjo J.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     V., 1999, p. 1.
@@ -45,9 +45,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prasidėjo Vilniaus miesto istorijos mokslinės istoriog­
@@ -62,4 +62,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

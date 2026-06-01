@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Dieboldo Schillingo'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1430 m.'
   - '1486 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1430'
 date_end: '1486'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ginklas
   - mūšis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Dieboldo Schillingo
 
@@ -30,16 +26,15 @@ tags:
 (apie 1430-1486) iš šveicarų Dieboldo Schillingo Berno kronikos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dieboldo Schillingo Berno kronikoje yra vienas ankstyviausių Žalgirio mūšį vaizduojančių piešinių.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dieboldo Schillingo Berno kronikoje yra vienas ankstyviausių Žalgirio mūšį vaizduojančių piešinių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš kovą
@@ -49,11 +44,9 @@ tags:
 
     palijus, sudrėko parakas, todėl patrankų
     vaidmuo mūšyje buvo menkas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

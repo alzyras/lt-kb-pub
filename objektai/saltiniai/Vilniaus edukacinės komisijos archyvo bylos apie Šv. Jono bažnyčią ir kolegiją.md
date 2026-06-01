@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '171 ## Puslapis 188 VILNIAUS MIESTO ISTORIJA / TOMAS III APIE ŠV.'
+  teiginys: 'Vilniaus edukacinės komisijos archyvo bylose buvo istoriniai-topografiniai duomenys apie Šv. Jono bažnyčią ir to paties vardo kolegiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus edukacinės komisijos archyvo bylose buvo istoriniai-topografiniai duomenys apie Šv. Jono bažnyčią ir to paties vardo kolegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gloss, to gaisro metu Vilniuje nebuvo.

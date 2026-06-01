@@ -43,29 +43,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-004
-  teiginys: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
+  teiginys: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+  teiginys: 'Vis dėlto šiandien į tokį vaidmenį pretenduoja ir 1988–1990 m. Lietuvos Sąjūdžio, Baltijos kelio ir Lietuvos Nepriklausomybės kūrėjai, taip pat Sausio 13-osios (1991) herojai, kurie sugebėjo įveikti pusamžį trukusią Vienas žymiausių M.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ją sudarė 35 visoje Lietuvoje žinomi inte-
@@ -77,9 +77,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Persitvarkymo Sąjūdis
@@ -96,9 +96,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pergyvenusi
@@ -116,9 +116,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     susikuria Helsinkio grupė.
@@ -131,7 +131,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-005
   santrauka: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'

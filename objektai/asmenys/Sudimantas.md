@@ -27,12 +27,12 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Vienas tik Sudimantas, lietuvių vadas, sučiuptas per puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­ das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė nuteisdami jį pakarti kaip išdaviką.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
   pagrindžia:
     - c-001
@@ -60,7 +60,7 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -80,7 +80,7 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

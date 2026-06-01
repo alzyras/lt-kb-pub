@@ -28,13 +28,14 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdintas išlaisvino karalius nuo varginančio 57 Visas Vilniaus universiteto fundaci­ jos privilegijas kartu su atitinkama popiežiaus bule galima perskaityti veikale „Stepono Batoro.'
+  teiginys: '1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Protasevičiaus pėdomis sekė ir

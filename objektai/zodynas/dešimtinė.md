@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'dešimtinė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - popiežius
@@ -27,29 +18,21 @@ tags:
 72 ## Puslapis 89 I KNYGA bo prievolių, tam laikui praėjus, turės, priklausomai nuo žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­ sė, nebent teisės žinovų potvarkiu kita nustatyta. 77 ## Puslapis 94 VILNIAUS MIESTO ISTORIJA I TOMAS Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­ niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl dešimtinės ir šv. Skelbiame, kad Pabaisko baž­ nyčiai privaloma dešimtinę mokėti tokia tvarka: visų pirma iš Liepūnų, mūsų dvaro, atiduoti dešimtą grūdą nuo visų tiek laukuose, tiek daržuose augančių javų, neišskiriant jo­ kio pasėlio ar daržovių, išskyrus avižas, ir.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '72 ## Puslapis 89 I KNYGA bo prievolių, tam laikui praėjus, turės, priklausomai nuo žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­ sė, nebent teisės žinovų potvarkiu kita nustatyta.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: '77 ## Puslapis 94 VILNIAUS MIESTO ISTORIJA I TOMAS Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­ niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl dešimtinės ir šv.'
+  teiginys: 'Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Skelbiame, kad Pabaisko baž­ nyčiai privaloma dešimtinę mokėti tokia tvarka: visų pirma iš Liepūnų, mūsų dvaro, atiduoti dešimtą grūdą nuo visų tiek laukuose, tiek daržuose augančių javų, neišskiriant jo­ kio pasėlio ar daržovių, išskyrus avižas, ir.'
+
+- t-002
+  teiginys: 'Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.'
   pagrindžia:
-    - c-003
-- t-004
-  teiginys: '.žemių su Martynu Špingučiu, iš kurių anksčiau visada dešimtinė būdavo mokama.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Įprastą dešimtinę privalo mokė­ ti ir visi, gyvenantys minėtos bažnyčios teritorijoje, su visa Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę duodavo.'
-  pagrindžia:
-    - c-005
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '72 ## Puslapis 89 I KNYGA bo prievolių, tam laikui praėjus, turės, priklausomai nuo žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­ sė, nebent teisės žinovų potvarkiu kita nustatyta.'
+  santrauka: 'Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žemdirbiams, kurie norėtų
@@ -71,13 +54,12 @@ tags:
     resnė atrodytų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: '77 ## Puslapis 94 VILNIAUS MIESTO ISTORIJA I TOMAS Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­ niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl dešimtinės ir šv.'
+  santrauka: 'Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3 baigiamas
@@ -112,89 +94,9 @@ tags:
     rendį įnirtingo pykčio apimtoms pusėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Skelbiame, kad Pabaisko baž­ nyčiai privaloma dešimtinę mokėti tokia tvarka: visų pirma iš Liepūnų, mūsų dvaro, atiduoti dešimtą grūdą nuo visų tiek laukuose, tiek daržuose augančių javų, neišskiriant jo­ kio pasėlio ar daržovių, išskyrus avižas, ir.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mūsų valia yra tokia: Jono Jurgeravičiaus,
-    Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­
-    me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos
-    ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo
-    atšaukiame ir norime, kad būtų atimtos visiems laikams, ir
-    skelbiame jas negaliojančiomis, nes buvo išprašytos dėl ne­
-    žinojimo šios privilegijos, kurios atšaukti ir vėlesnėmis mū­
-    sų privilegijomis negalima. Skelbiame, kad Pabaisko baž­
-    nyčiai privaloma dešimtinę mokėti tokia tvarka: visų pirma
-    iš Liepūnų, mūsų dvaro, atiduoti dešimtą grūdą nuo visų
-    tiek laukuose, tiek daržuose augančių javų, neišskiriant jo­
-    kio pasėlio ar daržovių, išskyrus avižas, ir [dešimtinę] nuo
-    visų naminių gyvulių. Taip pat dešimtinė nuo visų garbin­
-    gojo Stanislovo Skopo gėrybių, kurias tik turi minėtos Pa­
-    baisko parapijos ribose ar natūralaus paveldėjimo teise, kaip
-    po Petro Skopo mirties, ar pagal kokį nors susitikimą pri­
-    klausančias
-    .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: '.žemių su Martynu Špingučiu, iš kurių anksčiau visada dešimtinė būdavo mokama.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    .žemių su Martynu Špingučiu, iš
-    kurių anksčiau visada dešimtinė būdavo mokama. Taip pat
-    norime, kad ir Vepriuose pagal senąjį paprotį Pabaisko kle­
-    bonui būtų atiduodamas dešimtas grūdas nuo visų javų,
-    ~  • -
-    245
-
-    ## Puslapis 262
-
-    VILNIAUS MIESTO ISTORIJA // TOMAS
-    more antiquo Plebano Poboyscensi dari Volumus Item Nobi­
-    les Isti intra Limites Parocbiales Existentes Decimas more
-    Antiquo Plebanis dabunt: Joannes Stanczykowicz, Stanis­
-    laus Mil inowicz, Stanislaus Piotrasowicz, Matkias cum
-    Fratre Casparo, Januschowiczy, Alexander Bartbol omieje-
-    wicz, Fel icia Vid ua Ossczilowna, Paulus Juriewicz, Juriewa
-    Maresckalkowa; Item Joannes Wacławowicz, Czyżewicz De­
-    cimam debent Eidem Ecclesiae solvere ex Bonis omnibus .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Įprastą dešimtinę privalo mokė­ ti ir visi, gyvenantys minėtos bažnyčios teritorijoje, su visa Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę duodavo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Įprastą dešimtinę privalo mokė­
-    ti ir visi, gyvenantys minėtos bažnyčios teritorijoje, su visa
-    Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę
-    duodavo. Norime, kad taip pat šiam dabartiniam parapijos
-    valdytojui ir jo įpėdiniams pagal senąjį registrą, jokiu įsta­
-    tymu ............................................................ duotus,
-    [ne]kliudant duotų ir pateiktų patys, o vėliau, teisėti jų tur­
-    to paveldėtojai, ir norime, kad jie čia visi būtų surašyti ir
-    paminėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -202,13 +104,9 @@ tags:
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/paprociai/Pabaisko bažnyčios dešimtinės, duoklių ir tarnybinių prievolių mokėjimo tvarka]]
 - [[objektai/asmenys/Petras Skopas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Stanislovas Skopas]]
+- [[objektai/asmenys/Stanislovas Vaitkavičius]]
 - [[objektai/zodynas/Rygos miesto teisė]]
 - [[objektai/zodynas/šv. Petro skatiko rinkliava]]

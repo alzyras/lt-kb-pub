@@ -1,28 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1000 m.'
   - '1382 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'X'
-  - 'XIV'
 date_start: '1000'
 date_end: '1382'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - pilis
+amziai:
+  - 'X'
+  - 'XIV'
 ---
 # Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)
 
@@ -31,34 +24,54 @@ tags:
 1382 m. birželio 12 d., Jogaila su ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­ gos pirklys Hanulo įteikė jam pilies raktus^1 ). Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos, Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos, Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: '1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.'
+  pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
+    Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos,
+    Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula. Iš
+    abiejų pusių krito per 1000 žmonių, bet Vilniaus Vytautas neat­
+    gavo^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nepatenkinti
@@ -71,31 +84,9 @@ Nenurodyta
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos, Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
-    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
-    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
-    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
-    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-    Manydamas, kad Jogailos jėgos Vilniuje tėra gana silpnos,
-    Vytautas tuojau panoro jį atsiimti ir atvyko su Trakų įgula. Iš
-    abiejų pusių krito per 1000 žmonių, bet Vilniaus Vytautas neat­
-    gavo^2 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

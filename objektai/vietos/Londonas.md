@@ -1,33 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Londonas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1390 m.'
-  - '1569 m.'
-  - '1963 m.'
-  - '2013 m.'
+  - '1928 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'XX a.'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIV'
-  - 'XVI'
-  - 'XX'
-  - 'XXI'
 date_start: '1390'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Londonas
 
@@ -36,100 +26,71 @@ tags:
 Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine. Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją. Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Zigmantą Sierakauską, ginklų ir savanorių iš Londono.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: ': The Balts, London 1963.'
+  pagrindžia:
+    - c-004
+
+- t-003
   teiginys: 'Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
+
+- t-004
   teiginys: '1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: ': The Balts, London 1963.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Londone.'
-  pagrindžia:
-    - c-004
+
 - t-005
-  teiginys: 'Zigmantą Sierakauską, ginklų ir savanorių iš Londono.'
+  teiginys: 'Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Įvairiais duomenimis, nuo 1990 m. iš
+    Pirmąjį privatizacijos dešimtmetį daugelis stambių įmonių subankru-
+    tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-
+    sinę Lietuvos gyventojų emigraciją. Įvairiais duomenimis, nuo 1990 m. iš
     Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
     Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
-    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
-    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: ': The Balts, London 1963.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    GiB = Gimbutas, M. : The Balts, London 1963.
-    GrL = Gramoty Velikich Kniazej Litovskich 1390-1569, išl.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Londone.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    SEER = The Slavonic and East European Review, žurn. Londone.**
-
-    ```
-    14
-    ```
-
-    ```
-    SANTRUMPOS 15
-    ```
-    **Senovė = Senovė, Humanitarinių Mokslų fakulteto Istorijos skyriaus
-    darbai, red.
+    nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
+    Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
+    O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
+    tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison
+    ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir
+    Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
+    Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
+    ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Zigmantą Sierakauską, ginklų ir savanorių iš Londono.'
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    pavasarį paskyrė Peterburge tarnavusį
+    Lietuvos sukilėlių vadovybė vyriausiuoju
+    sukilėlių ginkluotojų pajėgų vadu 1863
+    m. pavasarį paskyrė Peterburge tarnavusį
 
     Rusijos kariuomenės Generalinio štabo
     karininką, kpt. Zigmantą Sierakauską,
@@ -139,8 +100,34 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     tus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
+    1863-1888.
+    GiB = Gimbutas, M. : The Balts, London 1963.
+    GrL = Gramoty Velikich Kniazej Litovskich 1390-1569, išl.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-005
+  santrauka: 'Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Santykiai su britais ir prancūzais pablogėjo A. Voldemarui 1928 m.
+    gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos
+    konstituciją, kuri deklaravo Vilnių Lietuvos sostine. Taip tarsi pademons-
+    truota, kad ir Londonas yra įsitraukęs į disputą dėl Vilniaus. Londonas
+    pašėlo dėl tokio svečio elgesio ir Lietuvos tarptautinė izoliacija tęsėsi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-005

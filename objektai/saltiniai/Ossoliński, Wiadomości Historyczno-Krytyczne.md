@@ -20,16 +20,16 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
 - t-001
   teiginys: 'Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda­ mas žymiausius ano laiko ponus, taip pat šlovino ir Rotundą, kaip pa­ tvirtina Ossolinskis vertingame vei­ kale Wiadomości Hist.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Goslickio gyvenimą ap­ rašė mokslininkas Ossoliński.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Goslickio gyvenimą ap­
@@ -41,7 +41,7 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bandymo pabėgti atveju būtų ištremtas,

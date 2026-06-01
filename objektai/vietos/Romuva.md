@@ -17,25 +17,25 @@ tags:
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė).'
   pagrindžia:
-    - c-004
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-004
   teiginys: 'Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.'
   pagrindžia:
-    - c-003
+    - c-004
 
 - t-005
   teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
@@ -56,7 +56,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -70,9 +70,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaikių krašte buvo šventoji giria, ku­
@@ -87,9 +87,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Baigusi kruvinus darbus, ginkluota palyda kitą die­
@@ -103,7 +103,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-005
   santrauka: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'

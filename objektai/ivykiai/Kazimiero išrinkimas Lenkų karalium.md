@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kazimiero išrinkimas Lenkų karalium'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
@@ -31,16 +28,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vladislovui 1444 m. žuvus, po trejų metų derybų lenkai išsirinko Kazimierą savo karaliumi.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vladislovui 1444 m. žuvus, po trejų metų derybų lenkai išsirinko Kazimierą savo karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir ne-
@@ -50,11 +46,9 @@ Nenurodyta
     būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mo-
     zūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto
     mirties buvo užėmęs.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

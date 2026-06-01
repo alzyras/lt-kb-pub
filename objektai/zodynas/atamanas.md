@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'atamanas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - sąvoka
@@ -25,37 +16,33 @@ tags:
 Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams. Jie susidraugavę su vietiniais atamanais, ėmė ginti Podolės žemę, neduoti duoklės jų baskakams.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Podolės žemės tėvonys bei paveldėtojai“.
     Podolėje veikė jų paskirti atamanai, kurie
     nuo Podolės žemės duodavo duoklę at-
     vykstantiems Ordos baskakams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į vakarus nuo minėtos mūšio
@@ -73,13 +60,11 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
     —
 
     valdė visą šią žemę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

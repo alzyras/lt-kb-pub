@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'valstybingumo sąmonė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - didikas
@@ -27,42 +18,20 @@ tags:
 Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline. Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo pastebimas savos valstybingumo sąmonės apsilpimas^29.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą Lietuvos valstybinę sąmonę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Kojalavičiaus laikais Lietuvos bajorijoje buvo pastebimas savos valstybingumo sąmonės silpnėjimas.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą Lietuvos valstybinę sąmonę.'
+  pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą Lietuvos valstybinę sąmonę.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
-    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
-    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
-    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
-    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
-    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
-    Didžiosios Lietuvos Kunigaikštystės gyventojus. Stryjkovskis ne­
-    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
-    teišsivystė XIX amžiuje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kojalavičiaus laikais Lietuvos bajorijoje buvo pastebimas savos valstybingumo sąmonės silpnėjimas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais
@@ -74,11 +43,27 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     unijoje «įvykusia santaika»^30. Kojalavičiui, išleidusiam I-jį tomą
     beveik 70 metų po Stryjkovskio, Lietuvos ir Lenkijos skirtumai
     gerokai buvo niveliavęsi^31.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
+    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
+    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
+    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
+    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
+    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
+    Didžiosios Lietuvos Kunigaikštystės gyventojus. Stryjkovskis ne­
+    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
+    teišsivystė XIX amžiuje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
 

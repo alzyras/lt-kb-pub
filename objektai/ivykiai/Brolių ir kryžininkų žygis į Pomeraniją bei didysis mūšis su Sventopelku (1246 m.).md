@@ -43,24 +43,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad šitaip broliai ir maldininkai sugrįžo namo, parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško 293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
+  teiginys: 'Dusburgietis teigia, kad šitaip broliai ir maldininkai sugrįžo namo, parsivarydami tūkstantį šešis šimtus priešo žirgų, parsiveždami daugybę kitoniško 293 Popiežiaus legatu Prūsijoje Opicas iš Mesanos, dab.'
   pagrindžia:
     - c-001
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip broliai ir maldininkai sugrįžo namo,
@@ -81,7 +81,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,9 +114,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
@@ -135,7 +135,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

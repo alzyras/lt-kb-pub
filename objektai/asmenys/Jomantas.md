@@ -1,26 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jomantas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1389 m.'
   - '1425 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1389'
+date_end: '1425'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIV'
   - 'XV'
-date_start: '1389'
-date_end: '1425'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - asmuo
+periodo_grupes:
+  - 'LDK'
 ---
 # Jomantas
 
@@ -29,20 +26,39 @@ tags:
 Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius.'
+  teiginys: 'Sustojęs prie Smolensko, vesdamas derybas su smolenskiečiais, jį užėmė, pasodino ten savo vietininką kunigaikštį Jomantą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Sustojęs prie Smolensko, vesdamas derybas su smolenskiečiais, jį užėmė, pasodino ten savo vietininką kunigaikštį Jomantą.'
+  teiginys: 'Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos valdovas Vytautas,
+    surinkęs didelę kariuomenę, pa-
+    skelbęs su ja einąs prieš Timūr-
+    Aksaką. Sustojęs prie Smolensko,
+    vesdamas derybas su smolenskie-
+    čiais, jį užėmė, pasodino ten savo
+    vietininką kunigaikštį Jomantą.
+    Taip Vytautas sustiprino Lietuvos
+    pozicijas saugodamasis galimos
+    grėsmės iš pietryčių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Remdamasis giminyste,
@@ -54,29 +70,9 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
     Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
     (1389-1425), su kuriuo oficialiai laikėsi taikos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Sustojęs prie Smolensko, vesdamas derybas su smolenskiečiais, jį užėmė, pasodino ten savo vietininką kunigaikštį Jomantą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sustojęs prie Smolensko,
-    vesdamas derybas su smolenskie-
-    čiais, jį užėmė, pasodino ten savo
-    vietininką kunigaikštį Jomantą.
-    Taip Vytautas sustiprino Lietuvos
-    pozicijas saugodamasis galimos
-    grėsmės iš pietryčių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

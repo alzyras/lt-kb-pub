@@ -44,16 +44,16 @@ Nenurodyta
 - t-001
   teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ją sudarė 35 visoje Lietuvoje žinomi inte-
@@ -67,7 +67,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kritiškai mąstantys

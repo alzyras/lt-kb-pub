@@ -20,13 +20,14 @@ Stanislovo katedrą.
 ## Teiginiai
 
 - t-001
-  teiginys: 'Stanislovo katedrą.'
+  teiginys: 'Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­

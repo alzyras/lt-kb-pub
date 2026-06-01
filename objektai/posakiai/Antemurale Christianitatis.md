@@ -1,32 +1,19 @@
 ---
 tipas: posakis
 pavadinimas: 'Antemurale Christianitatis'
-sukurta: '2026-05-02'
-variantai:
-  - 'antemurale Christianitatis'
-  - 'Europos forpostas prieš „schizmatikus“ maskvėnus'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1410 m.'
   - '1429 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1410'
 date_end: '1429'
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XV'
 ---
 # Antemurale Christianitatis
 
@@ -44,49 +31,47 @@ tags:
 - Europos forpostas prieš „schizmatikus“ maskvėnus
 
 ## Teiginiai
-- t-004
+
+- t-001
   teiginys: '„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
+    - c-004
+
+- t-002
+  teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Pirmieji krikščioniški Lietuvos valdovai formavo „antemurale Christianitatis“ ideologiją.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-004
   teiginys: 'Po Oršos mūšio Lenkija ir Lietuva buvo vaizduojamos kaip Europos forpostas prieš „schizmatikus“ maskvėnus.'
   pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
-  pagrindžia:
-    - c-004
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    „Antemurale Christianitatis“! Lietuvos kova Vakarų civiliza-
-    cijos vertybių pusėje turi gilią tradiciją. Pirmiausia prisiminkime
-    šiandien labai populiarų S. Huntingtono Vakarų civilizacijos po-
-    žymių išvardijimą: klasikinės (antikinės) civilizacijos paveldas,
-    Vakarų (o ne Rytų) krikščionybė, kalbų daugybiškumas, dvasinės
-    ir pasaulietinės valdžios atskirumas, teisės primatas, socialinis
-    pliuralizmas, politinis atstovavimas, individualizmas.
-  citata_rodoma: ""
+    Propagandos kampanija po mūšio leido
+    Žygimantui spręsti tarptautinius klausi-
+    mus. Kai kurie žymesni belaisviai buvo
+    išsiuntinėti į Europos valdovų dvarus
+    demonstruojant lietuvių ginklo pergalę
+    ir maskvėnų egzotiką. Lenkija ir Lietuva
+    buvo vaizduojamos kaip Europos forpostas
+    prieš „schizmatikus“ maskvėnus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-002
-  santrauka: 'Pirmieji krikščioniški Lietuvos valdovai formavo „antemurale Christianitatis“ ideologiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
@@ -98,34 +83,13 @@ tags:
     Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
     Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
     imperijos keliamo pavojaus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
+
 - c-003
-  santrauka: 'Po Oršos mūšio Lenkija ir Lietuva buvo vaizduojamos kaip Europos forpostas prieš „schizmatikus“ maskvėnus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Propagandos kampanija po mūšio leido
-    Žygimantui spręsti tarptautinius klausi-
-    mus. Kai kurie žymesni belaisviai buvo
-    išsiuntinėti į Europos valdovų dvarus
-    demonstruojant lietuvių ginklo pergalę
-    ir maskvėnų egzotiką. Lenkija ir Lietuva
-    buvo vaizduojamos kaip Europos forpostas
-    prieš „schizmatikus“ maskvėnus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-004
-  santrauka: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
@@ -137,14 +101,30 @@ tags:
     Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
     tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
     formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
-    Lucko suvažiavime 1429 m.
+    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
+    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
+    imperijos keliamo pavojaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-002
+
+- c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „Antemurale Christianitatis“! Lietuvos kova Vakarų civiliza-
+    cijos vertybių pusėje turi gilią tradiciją. Pirmiausia prisiminkime
+    šiandien labai populiarų S. Huntingtono Vakarų civilizacijos po-
+    žymių išvardijimą: klasikinės (antikinės) civilizacijos paveldas,
+    Vakarų (o ne Rytų) krikščionybė, kalbų daugybiškumas, dvasinės
+    ir pasaulietinės valdžios atskirumas, teisės primatas, socialinis
+    pliuralizmas, politinis atstovavimas, individualizmas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

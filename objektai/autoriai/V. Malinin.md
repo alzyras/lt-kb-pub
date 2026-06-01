@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'V. Malinin'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1901 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1901'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # V. Malinin
 
@@ -27,26 +23,23 @@ tags:
 Malinin: Starec Eleazarova monastyrja Filofej, Kiev 1901, Priloženija 45p.).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'V. Malinin parašė 1901 m. Kijeve išleistą darbą „Starec Eleazarova monastyrja Filofej“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'V. Malinin parašė 1901 m. Kijeve išleistą darbą „Starec Eleazarova monastyrja Filofej“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Žr. A. Lazar :** **_Maskva_** **-** **_treci Rim,_** **žur­
     nale Božym Šlacham, 1948, 9-10 nr., 5-8 p. ; A. Ammann:** **_Abriß der ost­
     slawischen Kirchengeschichte,_** **Wien 1950, 165p. (eit. iš V. Malinin:** **_Starec
     Eleazarova monastyrja Filofej,_** **Kiev 1901, Priloženija 45p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

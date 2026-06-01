@@ -51,7 +51,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Foe- [Amžinosios vienybės ir santarvės dus perpetuae pacis unionis et concortaikos sutartis tarp Lenkijos karaliaus dine inter Vladislaum Regem Poloniae Vladislovo ir Lietuvos kunigaikščio 151 ## Puslapis 168 VILNIAUS MIESTO ISTORIJA / TOMAS Lietuvos.'
+  teiginys: 'Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.'
   pagrindžia:
     - c-002
 
@@ -80,6 +80,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV Į1O. Foe- [Amžinosios vienybės ir santarvės
@@ -118,3 +119,4 @@ Nenurodyta
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/miestiečių luomas]]

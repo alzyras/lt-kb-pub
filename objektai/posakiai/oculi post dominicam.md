@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1380.feria proxima qua cantatur „ oculi post dominicam" [Pa­ liaubos tarp Livonijos magistro ir di­ džiojo Lietuvos kunigaikščio Jogai­ los, nušalinus kunigaikštį Kęstutį ir Žemaitijos žemę.'
+  teiginys: 'Formulė „oculi post dominicam“ 1380 m. paliaubų dokumente žymėjo artimiausią šiokiadienį, tai yra kovo 26-ąją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Formulė „oculi post dominicam“ 1380 m. paliaubų dokumente žymėjo artimiausią šiokiadienį, tai yra kovo 26-ąją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     29

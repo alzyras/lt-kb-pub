@@ -37,19 +37,19 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   santrauka: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -65,9 +65,9 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1819 m. nuo Vilniaus
@@ -83,9 +83,9 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bet rytiniai ir pietrytiniai šio ploto pakraš-
@@ -100,7 +100,7 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -27,24 +27,24 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-004
+- t-002
   teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,
@@ -66,9 +66,9 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -83,7 +83,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Redakcinė kolegija:
@@ -119,7 +119,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

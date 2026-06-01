@@ -1,44 +1,21 @@
 ---
-tipas: 'ivykis'
-pavadinimas: "Oršos mūšis (1514 m.)"
-sukurta: '2026-04-25'
-variantai:
-  - '[]'
-  - 'Oršos mūšis'
-  - 'pergalė prie Oršos'
-  - 'Oršos mūšis (1514 m. rugsėjo 8 d.)'
-aliases:
-  - '[]'
-  - 'Oršos mūšis (1514 m. rugsėjo 8 d.)'
-  - 'Oršos mūšis'
+tipas: ivykis
+pavadinimas: 'Oršos mūšis (1514 m.)'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-patikimumas: 'žemas'
 datos:
-  - '1514 m. rugsėjo 8 d.'
-vaidmenys: []
-dalyviai:
-  - 'Konstantinas Ostrogiškis'
-  - 'Vasilijus III'
-  - 'Žygimantas Senasis'
-  - 'Mykolas Lietuvis'
-  - 'Maskvos karvedžiai'
-  - 'maskvėnų kariai'
-susije_irasai: []
-periodo_grupes: []
-amziai:
-  - 'XVI'
-laikotarpis: '1514 m. rugsėjo 8 d.'
+  - '1514 m.'
 date_start: '1514'
-date_end: '1514'
-periodas: 'ankstyvieji_naujieji_laikai'
-atnaujinta: '2026-04-25'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
   - karas
   - mūšis
+amziai:
+  - 'XVI'
 ---
 # Oršos mūšis (1514 m.)
 
@@ -47,46 +24,46 @@ tags:
 Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša. Turėdamas 30.000 kariuomenės, jis sumušė priešo 80.000 kariuomenės; iš jų 30.000 krito karo lauke, o pats vadas su 1.500 bajorų ir daugybe karių pateko į nelaisvę.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: 'Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
+
+- t-001
   teiginys: 'Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-002
+  teiginys: 'Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.'
+  pagrindžia:
+    - c-002
+
+- t-004
   teiginys: 'Po Oršos mūšio kilmingi žuvusieji buvo palaidoti Vilniuje, o per triumfo iškilmes eisenoje vesti belaisviai Maskvos karvedžiai ir kariai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
@@ -97,15 +74,13 @@ Nenurodyta
     vėliavos. (Kaip liudija Mykolas Lietuvis,
     jos su kitomis čia saugotomis sudegė per
     1530 m. gaisrą).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-002
-  santrauka: 'Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po mūšio pasikeitė karo eiga.
@@ -115,15 +90,13 @@ Nenurodyta
 
     vėl atiteko Mstislavlis, Dubrovnos,
     Kryčevo pilys.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
 - c-003
-  santrauka: 'Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Propagandos kampanija po mūšio leido
@@ -134,13 +107,11 @@ Nenurodyta
     ir maskvėnų egzotiką. Lenkija ir Lietuva
     buvo vaizduojamos kaip Europos forpostas
     prieš „schizmatikus“ maskvėnus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

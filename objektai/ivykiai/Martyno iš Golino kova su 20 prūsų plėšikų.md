@@ -38,17 +38,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad dar apie Martyną iš Golino ir jo nuostabią kovą Tuo pat metu 20 prūsų plėšikavo Lenkijoje.'
   pagrindžia:
+    - c-002
     - c-001
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai galop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą, bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
@@ -62,7 +62,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie Martyną iš Golino ir jo nuostabią kovą
@@ -78,7 +78,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vieni ir kiti šitaip įnirtingai grūmėsi, kad, abiem šalims pavargus, susitarė

@@ -1,68 +1,49 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: kontrevoliucija
-sukurta: '2026-05-05'
-variantai:
-  - kontrevoliucijos
-aliases: []
+pavadinimas: 'kontrevoliucija'
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
   - '1382 m.'
   - '1430 m.'
   - '1930 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-laikotarpis: 1382 m.
-patikimumas: vidutinis
-atnaujinta: '2026-05-05'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # kontrevoliucija
 
+## Santrauka
+
+Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui. Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi. Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.
+
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Paminėtina tai, kad Jogailos kontrevoliucijos pasi­ sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada varė gyvą ir didelę prekybą su Vilniaus miestu.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
-    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
-    varė gyvą ir didelę prekybą su Vilniaus miestu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-002
+  teiginys: 'Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi.'
   pagrindžia:
-    - t-003
-    - t-004
-- c-002
-  santrauka: 'Paminėtina tai, kad Jogailos kontrevoliucijos pasi­ sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada varė gyvą ir didelę prekybą su Vilniaus miestu.'
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
+    Tuo tarpu Vilniuje, dar sti­
+    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
+    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
+    užėmė pilį. Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
     sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
     varė gyvą ir didelę prekybą su Vilniaus miestu. Nepatenkinti
     lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
@@ -70,11 +51,26 @@ tags: []
     kurio jie anksčiau buvo stipriai palaikomi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš Jogailos pažadėtos pagalbos negavęs, jis ne tik Dimitro ne­
+    nuveikė, bet dar turėjo nuostolių. Tuo tarpu Vilniuje, dar sti­
+    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
+    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
+    užėmė pilį. Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
+    sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
+    varė gyvą ir didelę prekybą su Vilniaus miestu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

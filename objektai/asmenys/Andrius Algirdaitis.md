@@ -1,35 +1,21 @@
 ---
 tipas: asmuo
-pavadinimas: Andrius Algirdaitis
-sukurta: '2026-05-27'
-variantai:
-  - Andrius Algirdaitis
-  - Andrius
-  - Andrių
-aliases:
-  - Andrius
+pavadinimas: 'Andrius Algirdaitis'
 saltiniai:
-  - Michał Baliński, Vilniaus miesto istorija (2007 m.)
-bukle: juodrastis
-laikotarpis: XIV a.; 1380-1399 m. politinių ir karinių įvykių kontekstas
-vaidmenys:
-  - Polocko kunigaikštis
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1380 m.'
   - '1399 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1380'
 date_end: '1399'
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Andrius Algirdaitis
 
@@ -38,11 +24,13 @@ tags:
 Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jogailos įbrolis ir Polocko kunigaikštis. Jis siejamas su Kęstučio šalininkų kryptimi, Dmitrijaus Doniškio karo žygiais, Kulikovo mūšiu ir žūtimi prie Vorsklos 1399 m.
 
 ## Variantai
+
 - Andrius Algirdaitis
 - Andrius
 - Andrių
 
 ## Laikotarpis ir datos
+
 - laikotarpis: XIV a.; 1380-1399 m. politinių ir karinių įvykių kontekstas
 - datos: 1380 m. rugsėjo 8 d.; 1399 m.
 - periodas: viduramziai
@@ -51,45 +39,45 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - date_end: 1399
 
 ## Vaidmenys
+
 - Polocko kunigaikštis
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis."
+  teiginys: 'Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.'
   pagrindžia:
     - c-001
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Andrius buvo Algirdo ir Julijonos sūnus, gimęs iš antros Algirdo santuokos su Vitebsko kunigaikštyte Julijona."
+  teiginys: 'Andrius buvo Algirdo ir Julijonos sūnus, gimęs iš antros Algirdo santuokos su Vitebsko kunigaikštyte Julijona.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Andrius buvo nuolatinis Dmitrijaus Doniškio bendražygis ir dalyvavo kovose prieš totorius, prisidėdamas prie pergalės Kulikovo lauke."
+  teiginys: 'Andrius buvo nuolatinis Dmitrijaus Doniškio bendražygis ir dalyvavo kovose prieš totorius, prisidėdamas prie pergalės Kulikovo lauke.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: "Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m."
+  teiginys: 'Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
   pagrindžia:
     - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-006
   teiginys: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
-  pagrindžia:
-    - c-006
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Andrius Algirdaitis minimas kaip Kęstučiui palankus Jogailos įbrolis Polocke.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
@@ -101,16 +89,13 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
     driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
     tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Andriaus kilmė, Polocko kunigaikščio statusas ir politinė orientacija.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai Andrius, Jogailai pavaldaus
@@ -131,18 +116,15 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     (1380 metų rugsėjo 8-ą) prie perga­
     lės daugiausia prisidėjęs, dalyvavo
     mūšiuose, - Skirgaila užsibuvo Po-
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: adjacent_named_context
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
     - t-003
-- c-004
-  santrauka: Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; nurodoma jo žūtis prie Vorsklos.
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau miestiečių išvytas, nu­
@@ -162,23 +144,15 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     Polocko kunigaikštis - visai išgalvo­
     tas. Andrius žuvo prie Vorsklos 1399
     metais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Duota Viešpaties
-    metais 1380 artimiausią šiokiadienį,
-    kurį giedama „oculi post domini­
-    cam"], tai yra kovo 26-ą.
-    30
     Tasai Andrius, Jogailai pavaldaus
     Polocko kunigaikštis, Algirdo sū­
     nus, gimęs iš antros jo santuokos su
@@ -187,21 +161,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     kiau linkęs į Kęstučio pusę; tad Jo­
     gaila nusprendė jį išvyti iš jo dalinės
     valdos. Dėl to sudarė slaptą, be
-    Kęstučio žinios, sutartį su Livoni­
-    jos magistru, kad anas padėtų jam
-    vykdyti tuos kėslus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dėl to sudarė slaptą, be
     Kęstučio žinios, sutartį su Livoni­
     jos magistru, kad anas padėtų jam
     vykdyti tuos kėslus. Tuo metu, kai
@@ -225,9 +184,32 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     Vilnių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Duota Viešpaties
+    metais 1380 artimiausią šiokiadienį,
+    kurį giedama „oculi post domini­
+    cam"], tai yra kovo 26-ą.
+    30
+    Tasai Andrius, Jogailai pavaldaus
+    Polocko kunigaikštis, Algirdo sū­
+    nus, gimęs iš antros jo santuokos su
+    Julijona, Vitebsko kunigaikštyte, ta­
+    čiau nebuvo palankus Jogailai, vei­
+    kiau linkęs į Kęstučio pusę; tad Jo­
+    gaila nusprendė jį išvyti iš jo dalinės
+    valdos. Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-006
 

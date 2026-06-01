@@ -40,20 +40,20 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad todėl, įsibrovę į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to broliai,
@@ -69,9 +69,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis
@@ -87,9 +87,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     247 (240). Apie Aukaimio valsčiaus nusiaubimą
@@ -106,7 +106,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

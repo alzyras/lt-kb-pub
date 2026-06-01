@@ -31,7 +31,7 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
     - c-001
 
 - t-002
-  teiginys: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
+  teiginys: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.'
   pagrindžia:
     - c-002
 
@@ -62,6 +62,7 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. VII, p. 370-374. Re­
@@ -91,5 +92,4 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/asmenys/Hanulas, arba Hanka]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

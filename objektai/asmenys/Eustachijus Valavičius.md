@@ -17,13 +17,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '[manu proprio - savo ranka] Eustachijus Valavičius, Vilniaus kaštelionas.'
+  teiginys: 'Eustachijus Valavičius buvo Vilniaus kaštelionas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Eustachijus Valavičius buvo Vilniaus kaštelionas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [manu proprio -
@@ -40,4 +41,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Valavičiai]]
 - [[objektai/zodynas/kaštelionas]]

@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Pripetės pelkės'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - tauta
   - vieta
@@ -25,19 +16,20 @@ tags:
 ) baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip sunkiai pereinama gamtinė kliūtis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
@@ -50,29 +42,27 @@ tags:
     Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
     liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
     amžiuje, baltai išlaikė ją aukštame laipsnyje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
+    **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
         **tykiai su kaimynais**
 
     Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
     (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
     Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
     vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
-    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami.
+    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
+    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
+    amžiuje, baltai išlaikė ją aukštame laipsnyje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

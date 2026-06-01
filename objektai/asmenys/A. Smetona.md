@@ -28,110 +28,110 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią šalies politinę jėgą – krikščionis demokratus.'
   pagrindžia:
-    - c-007
+    - c-006
 
-- t-010
+- t-002
   teiginys: 'Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.'
+  pagrindžia:
+    - c-011
+
+- t-003
+  teiginys: 'Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   pagrindžia:
     - c-010
 
-- t-019
-  teiginys: 'Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų 1939 m. spalio 10 d. sutarties.'
-  pagrindžia:
-    - c-019
-
-- t-017
+- t-004
   teiginys: 'Smetonai artimas asmuo – kun. Vladas Mironas.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą premjerą, nors S.'
+  pagrindžia:
+    - c-002
+
+- t-006
+  teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
   pagrindžia:
     - c-017
 
-- t-020
-  teiginys: 'Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą premjerą, nors S.'
-  pagrindžia:
-    - c-020
-
-- t-009
-  teiginys: 'Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabineto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo viršenybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus (įsteigta Valstybės Taryba turėjo teisę tik.'
-  pagrindžia:
-    - c-009
-
-- t-016
+- t-007
   teiginys: 'Smetona užvėrė duris kompromisui.'
   pagrindžia:
-    - c-016
+    - c-007
 
-- t-013
+- t-008
   teiginys: 'Smetonos valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės įgyvendintas.'
   pagrindžia:
-    - c-013
+    - c-019
 
-- t-005
+- t-009
   teiginys: 'Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas.'
   pagrindžia:
-    - c-005
+    - c-003
 
-- t-001
+- t-010
   teiginys: 'Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.'
   pagrindžia:
     - c-001
 
-- t-015
+- t-011
   teiginys: 'Smetonos portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų gatvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.'
   pagrindžia:
-    - c-015
+    - c-021
 
 - t-012
   teiginys: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   pagrindžia:
-    - c-012
+    - c-015
 
-- t-006
+- t-013
   teiginys: 'Smetona, kuris prisiekė laikytis šalies konstitucijos.'
   pagrindžia:
-    - c-006
+    - c-016
 
-- t-011
+- t-014
   teiginys: 'Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.'
-  pagrindžia:
-    - c-011
-
-- t-021
-  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
-  pagrindžia:
-    - c-021
-
-- t-008
-  teiginys: 'Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.'
-  pagrindžia:
-    - c-008
-
-- t-018
-  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
   pagrindžia:
     - c-018
 
-- t-014
-  teiginys: 'Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.'
+- t-015
+  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  pagrindžia:
+    - c-012
+
+- t-016
+  teiginys: 'Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.'
+  pagrindžia:
+    - c-005
+
+- t-017
+  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
   pagrindžia:
     - c-014
 
-- t-002
+- t-018
+  teiginys: 'Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors ir nemažai kalbėta apie lietuvių tautinės kultūros kūrimą.'
+  pagrindžia:
+    - c-008
+
+- t-019
   teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
   pagrindžia:
-    - c-002
+    - c-009
 
-- t-004
+- t-020
   teiginys: 'Smetona iš balkono sveikino minias.'
   pagrindžia:
-    - c-004
+    - c-020
 
-- t-003
+- t-021
   teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
   pagrindžia:
-    - c-003
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -148,9 +148,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-010
 
-- c-020
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
@@ -169,9 +169,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-005
 
-- c-005
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1926 m. rudens opozicija Seime
@@ -193,9 +193,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-009
 
-- c-017
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
@@ -210,9 +210,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-004
 
-- c-008
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
@@ -231,9 +231,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-016
 
-- c-007
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsitokėjusi
@@ -249,9 +249,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-016
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karinėje srityje
@@ -266,9 +266,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-007
 
-- c-014
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Architektas V. Landsbergis-Žemkalnis, 1938
@@ -284,9 +284,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-018
 
-- c-002
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nauja Lietuvos valstybė turėjo
@@ -304,9 +304,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-019
 
-- c-019
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
@@ -319,9 +319,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-003
 
-- c-010
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, Vytautas įkūnijo kiekvienam
@@ -338,9 +338,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-002
 
-- c-021
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
@@ -352,9 +352,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-015
 
-- c-003
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
@@ -367,9 +367,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-021
 
-- c-018
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,
@@ -390,9 +390,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017
 
-- c-012
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daug žydų buvo laisvųjų profesijų
@@ -412,7 +412,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   pagrindžia:
     - t-012
 
-- c-006
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautininkai, susitarę su krikščionių demokratų bloku,
@@ -425,9 +425,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-013
 
-- c-009
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -444,9 +444,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-006
 
-- c-011
+- c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Konstitucija sergėjo valstybinį lietuvių
@@ -463,9 +463,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-014
 
-- c-013
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
@@ -479,9 +479,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-008
 
-- c-004
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
@@ -499,9 +499,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-020
 
-- c-015
+- c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atmi-
@@ -520,7 +520,7 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,30 +1,16 @@
 ---
 tipas: ivykis
-pavadinimas: "Romainių šventvietės sunaikinimas (1294 m.)"
-sukurta: '2026-05-27'
-variantai:
-  - "Romuvos prie Kauno sunaikinimas"
-  - "Romainių pilies užėmimas"
-aliases: []
+pavadinimas: 'Romainių šventvietės sunaikinimas (1294 m.)'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1294 m."
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1294 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1294'
 date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIII'
 ---
 # Romainių šventvietės sunaikinimas (1294 m.)
 
@@ -33,6 +19,7 @@ tags: []
 1294 m. kryžiuočiai užėmė prie Kauno, Romainiuose, buvusią pilį, pasiėmė turtą ir išžudė žynius. Pasakojime šis smūgis siejamas su hipoteze, kad Perkūno tikėjimo relikvijos ir Krivių Krivaitis galėjo būti perkelti į Vilnių.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1294 m.
 - datos:
   - 1294 m.
@@ -42,36 +29,38 @@ tags: []
 - date_end: 1294
 
 ## Dalyviai ir vaidmenys
+
 - Kryžiuočiai: užėmė pilį, pasiėmė turtą ir išžudė žynius.
 - Krivių Krivaitis: minimas kaip Romuvų religinės tradicijos figūra.
 
 ## Eiga
+
 Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė jos pilį.
 
 ## Rezultatas
+
 Šaltinio pasakojime pilies užėmimas baigėsi turto paėmimu ir žynių išžudymu; autorius svarsto, ar po šio smūgio religinės relikvijos nebuvo perkeltos į Vilnių.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius."
+  teiginys: '1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Tas Romuvas sunaikino kryžiuočiai, už­ ėmę Prūsiją; tačiau nežinia, ar kitos, ar tos pačios iš anos žemės perkel­ tos, buvo pačioje Lietuvoje, prie Kauno, ant Nevėžio kranto, .būtent toj vietoj, kur dabar Romainiai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Romainių pilies užėmimas, žynių išžudymas ir autoriaus hipotezė apie relikvijų perkėlimą į Vilnių.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos istorijoje yra žinomos šven­
@@ -103,16 +92,14 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
     buvo perkelti į Vilnių, taigi Vilnius
     XIII amžiaus gale jau galėjo būti tan­
     kiai gvvenama ir svarbi gyvenvietė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Išnašos pasakojimas konkrečiai nurodo 1294 m. veiksmą; perkėlimo dalis yra autoriaus hipotezė."
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Tas Romuvas sunaikino kryžiuočiai, už­ ėmę Prūsiją; tačiau nežinia, ar kitos, ar tos pačios iš anos žemės perkel­ tos, buvo pačioje Lietuvoje, prie Kauno, ant Nevėžio kranto, .būtent toj vietoj, kur dabar Romainiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     8
@@ -147,9 +134,7 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
     kiai gvvenama ir svarbi gyvenvietė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

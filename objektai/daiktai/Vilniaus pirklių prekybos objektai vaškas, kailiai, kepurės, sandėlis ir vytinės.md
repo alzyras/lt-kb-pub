@@ -48,21 +48,21 @@ Nenurodyta
 - t-001
   teiginys: '19 Žaliaminės odos ir ypač vaškas tuo laiku buvo svarbiausios išvežamo­ sios prekės.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Nauji svečių namai toje vietoje, kur iki šiol sto­ vi, buvo pastatyti miesto lėšomis, taip pat ir kailiadirbių na­ mai prie mūrinių krautuvių turguje, - juose ant sienų par­ davimui iškabintos kepurės ir kailiai teikė patogumą pirkliams ir pirkėjams, o.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau savo kai­
@@ -82,7 +82,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau
@@ -154,7 +154,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     243,

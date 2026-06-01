@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'L. Želigovskio pajėgos'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -24,16 +15,15 @@ tags:
 Želigovskio pajėgoms užgrobus Vilnių, 6-asis pėstininkų pulkas nedelsiant išžygiavo į Aukštadvarį. Prieš kautynes Sutelkęs stambias pajėgas, gen.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gen. L. Želigovskis lapkričio 17 d. auštant pradėjo didžiąją ofenzyvą prieš lietuvių 1-osios pėstininkų divizijos barą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gen. L. Želigovskis lapkričio 17 d. auštant pradėjo didžiąją ofenzyvą prieš lietuvių 1-osios pėstininkų divizijos barą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš kautynes
@@ -46,11 +36,9 @@ tags:
     Puolimas buvo staigus ir stiprus. Lenkų
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

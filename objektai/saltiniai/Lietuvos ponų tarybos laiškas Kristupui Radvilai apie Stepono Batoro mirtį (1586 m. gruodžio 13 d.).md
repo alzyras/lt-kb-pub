@@ -29,29 +29,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: '## Puslapis 367 IV KNYGA IX A) LIETUVOS PONŲ TARYBOS LAIŠKAS, RAŠYTAS IŠ GARDINO 1586 METŲ GRUODŽIO MĖNESIO 13 DIENĄ KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI, PRANEŠANTIS APIE KARALIAUS STEPONO BATORO MIRTĮ IR ĮSPĖJANTIS.'
+  teiginys: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­ tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų neįspėjo.'
+  teiginys: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: '1586 m. gruodžio 13 d. Gardine rašytas Lietuvos ponų tarybos laiškas Kristupui Radvilai pranešė apie Stepono Batoro mirtį ir galimą maištą dėl neišmokėtos algos.'
   pagrindžia:
     - c-002
 
+- t-004
+  teiginys: 'Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­ tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų neįspėjo.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gi tuo laiku
@@ -105,9 +105,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
+  santrauka: '1586 m. gruodžio 13 d. Gardine rašytas Lietuvos ponų tarybos laiškas Kristupui Radvilai pranešė apie Stepono Batoro mirtį ir galimą maištą dėl neišmokėtos algos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Norėdami, kad šis mūsų valios pareiški­
@@ -140,9 +141,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau į tai dėmesio nekreip­
@@ -181,9 +182,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pareiškiame Jūsų Malonybei apie mus visus ištikusį ben­
@@ -208,4 +209,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004

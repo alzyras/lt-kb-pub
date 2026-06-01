@@ -63,7 +63,6 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/zodynas/trečias grūdas]]

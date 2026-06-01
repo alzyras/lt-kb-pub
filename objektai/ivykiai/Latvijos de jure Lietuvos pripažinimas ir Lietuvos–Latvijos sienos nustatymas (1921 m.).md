@@ -1,15 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1921 m.'
+date_start: '1921'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)
 
@@ -18,38 +21,44 @@ tags:
 Tiesa, Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė parama.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure, suteikdama paramą tarptautinės izoliacijos metu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure, suteikdama paramą tarptautinės izoliacijos metu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tiesa, Latvija 1921 m. vasario 16 d. pripaži-
+    Latvija ir Es-
+    tija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo
+    į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus
+    regioninio darinio su Lenkija priešakyje. Išnaudodama lietuvių ir lenkų
+    konfliktą savo tikslams Maskva žaidė savo naudai, o tai kenkė ir Baltijos
+    šalių, ir Lenkijos interesams. Tiesa, Latvija 1921 m. vasario 16 d. pripaži-
     no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
     parama.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

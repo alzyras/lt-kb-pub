@@ -25,34 +25,34 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad pailsęs nuo rūpesčių ir palaužtas negalės, ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.'
   pagrindžia:
-    - c-005
+    - c-002
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės magistrą Brolis Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, vadovavo vienus metus, o 1299 metais miręs palaidotas Kulmenzės katedros bažnyčioje.'
   pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433.'
-  pagrindžia:
-    - c-001
-
 - t-003
-  teiginys: 'Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.'
+  teiginys: 'Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-004
+  teiginys: 'Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.'
+  pagrindžia:
+    - c-001
+
+- t-005
   teiginys: 'Dusburgietis teigia, kad apie daugybės Kulmenzės miestiečių žūtį Per javapjūtę434 atėjo prūsų kariuomenė ir 13 dienų slapstėsi miške apie tą vietą, kuri vadinama Fogelzangu; kadangi kiekvieną dieną bent keli prūsai pasirodydavo lauke, miestiečiai bėgdavo nuo pjūties darbų.'
   pagrindžia:
-    - c-002
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo užimtos dvi pilys, priklausiusios Kulmo žemės vasalams,
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-005
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pailsęs nuo rūpesčių ir palaužtas negalės,
@@ -84,9 +84,9 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     153 (148). Apie Kulmenzės miesto apgulą
@@ -98,7 +98,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -116,9 +116,9 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     154 (149). Apie daugybės Kulmenzės miestiečių žūtį
@@ -132,7 +132,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 - c-006
   santrauka: 'Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš Lenkijos, vardu Ninerikas, įsigavo į šį miestą pasižadėjęs jį išduoti Skomantui.'

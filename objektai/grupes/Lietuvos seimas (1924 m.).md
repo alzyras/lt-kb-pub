@@ -1,16 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos seimas (1924 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1924 m.'
+date_start: '1924'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - seimas
+amziai:
+  - 'XX'
 ---
 # Lietuvos seimas (1924 m.)
 
@@ -19,16 +22,15 @@ tags:
 Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ket-
@@ -36,11 +38,9 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
     teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

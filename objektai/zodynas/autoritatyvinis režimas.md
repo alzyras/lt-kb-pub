@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'autoritatyvinis režimas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -11,18 +8,15 @@ datos:
   - '1926 m.'
   - '1930 m.'
   - '1940 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: '1940'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - seimas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # autoritatyvinis režimas
 
@@ -31,16 +25,15 @@ tags:
 Šis staigus posūkis iš demokratinių laikų vėžių į naują, įstatymais nenumatytą kelią, išstatė Lietuvos gyvenimą autoritatyvinio režimo eksperimentui.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1926 m. gruodžio 17 d. perversmas pradėjo Lietuvos autoritatyvinio režimo eksperimentą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1926 m. gruodžio 17 d. perversmas pradėjo Lietuvos autoritatyvinio režimo eksperimentą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo 1918-jų metų pradėtą visai naują Lietuvos istorijos epochą
@@ -51,11 +44,9 @@ tags:
     Tą nuo šeiminių metų skirtingą laikotarpį charakterizuoja buv.
     didžiųjų seimo partijų ir po 1930 m. voldemarininkų opozicija,
     pasireiškusi įvairiomis formomis iki pat 1940 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

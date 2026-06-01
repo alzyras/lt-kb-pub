@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Birka (Švedijos uostas)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,16 +15,15 @@ tags:
 Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laivais ten nuplaukdami.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sembai palaikė ryšius su Švedijos uostu Birka ir patys savo laivais ten nuplaukdavo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adomas, tiesa, kalbėjo apie «sembus arba prūsus»
@@ -45,10 +35,8 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
     ir sidabrą mažai vertindami, Sembai turį daug kailių. Su Švedijos
     uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laivais
     ten nuplaukdami.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

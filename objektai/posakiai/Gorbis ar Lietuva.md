@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Gorbis ar Lietuva'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - reforma
@@ -20,27 +17,27 @@ tags:
 Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vakarams pasirinkimas „Gorbis ar Lietuva“ buvo nelengvas, nes jie baiminosi pakenkti M. Gorbačiovo reformoms.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vakarams pasirinkimas „Gorbis ar Lietuva“ buvo nelengvas, nes jie baiminosi pakenkti M. Gorbačiovo reformoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po šios ap-
+    klausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-
+    tuva yra Nepriklausoma Demokratinė Respublika.
     Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
     Lietuva Vakarams buvo nelengvas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

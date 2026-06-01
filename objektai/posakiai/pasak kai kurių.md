@@ -50,7 +50,6 @@ Dusburgietis teigia, kad kai kuriose vietose Dusburgietis kartais prasitaria ra�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/prūsiškos grivenos]]

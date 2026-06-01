@@ -1,106 +1,99 @@
 ---
-tipas: 'zodyno_irasas'
+tipas: zodyno_irasas
 pavadinimas: 'činšas'
-sukurta: '2026-04-25'
-variantai:
-  - 'činšą mokančių'
-  - 'činšininkas'
-  - 'činšininkų'
-  - 'duoklininkas'
-  - 'eygene'
-  - 'czinshaftige'
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1398-1404 m. kontekstas; 1401 m. sukilimų kontekstas'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1398 m.'
   - '1541 m.'
-  - '1573 m.'
   - '1632 m.'
-  - '1670 m.'
   - '1763 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1398'
 date_end: '1763'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIV'
+  - 'XVIII'
 ---
 # činšas
 
 ## Santrauka
+
 Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).
 
 ## Teiginiai
-- t-005
-  teiginys: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
-  pagrindžia:
-    - c-001
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-001
   teiginys: 'Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis.'
   pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
+  pagrindžia:
+    - c-007
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-007
+
+- t-003
+  teiginys: '1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400.'
+  pagrindžia:
+    - c-006
+
+- t-004
   teiginys: 'Vytautas Ordinui aiškino, kad vadinamieji „czinshaftige“ buvo asmenys, mokėję duokles bajorams.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Karalienė teigė, kad Lietuva jai turi mokėti činšą, nes Jogaila kraštą jai atidavė kaip vestuvinę dovaną.'
-  pagrindžia:
-    - c-005
-- t-009
+
+- t-005
   teiginys: '1632 m. Akademijos rektorius Frizijus iš 800 auksinų metinio činšo Valerijono bursai mokėjo 400 auksinų.'
   pagrindžia:
-    - c-006
-- t-010
+    - c-001
+
+- t-006
   teiginys: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
-  pagrindžia:
-    - c-007
-- t-011
-  teiginys: '1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400.'
   pagrindžia:
     - c-008
 
+- t-007
+  teiginys: 'Karalienė teigė, kad Lietuva jai turi mokėti činšą, nes Jogaila kraštą jai atidavė kaip vestuvinę dovaną.'
+  pagrindžia:
+    - c-005
+
+- t-008
+  teiginys: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
+  pagrindžia:
+    - c-009
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
-    sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­
-    nimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392
-    m. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,
-    kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
-    ir nelaisvu valstiečių.
-  citata_rodoma: ""
+    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
+    šimčius, kas metinių pajamų tesudaro 165 auksinus.
+    1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš
+    Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį
+    quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­
+    dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų,
+    pusę to činšo, 400 auksinų, Valerijono bursai moka, kas iki
+    šiol būdavo punktualiai atiduodama Valerijono konvikto gy­
+    ventojams.
+    Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
+    vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­
+    šo puolimo metu, kaip ir visas miestas, buvo apiplėšti ir su­
+    deginti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-002
-  santrauka: 'Vytautas Ordinui aiškino, kad vadinamieji „czinshaftige“ buvo asmenys, mokėję duokles bajorams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     tas aiškino, jog kryžiuočiai prie valstiečių (« gebuwer ») yra priskaitę
@@ -110,29 +103,13 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     grąžinti tik tuos, kurie anksčiau buvo priklausę bajorams, buvę jų
     « eygene » — baudžiauninkai, arba jiems mokėję duokles — vadi­
     namieji « czinshaftige ».
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
+
 - c-003
-  santrauka: 'Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    c. _Žemaičių sukilimai._ — Ilgas ir įkyrus aiškinimasis su Vy­
-    tautu, kas Žemaičiuose yra laisvas ir kas činšininkas — duoklinin­
-    kas, nieko gera nedavė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-004
-  santrauka: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Grįžęs iš laimingai baig­
@@ -142,15 +119,25 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     savo žymiųjų didikų, kurie patvirtino susitarimus su Konradu
     Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
     ordino žemių (Žemaičių) činšininkų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
+- c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    c. _Žemaičių sukilimai._ — Ilgas ir įkyrus aiškinimasis su Vy­
+    tautu, kas Žemaičiuose yra laisvas ir kas činšininkas — duoklinin­
+    kas, nieko gera nedavė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-005
-  santrauka: 'Karalienė teigė, kad Lietuva jai turi mokėti činšą, nes Jogaila kraštą jai atidavė kaip vestuvinę dovaną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     144
@@ -168,15 +155,15 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     naus Vytauto klausimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
+
 - c-006
-  santrauka: '1632 m. Akademijos rektorius Frizijus iš 800 auksinų metinio činšo Valerijono bursai mokėjo 400 auksinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
+    šimčius, kas metinių pajamų tesudaro 165 auksinus.
     1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš
     Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį
     quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­
@@ -190,13 +177,26 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     deginti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-003
+
 - c-007
-  santrauka: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
+    sutiko ten jam pastatyti dvi naujas pilis. Jos turėjo reikšti atlygi­
+    nimą už Vytauto sunaikintąsias ordino pilis prie Nemuno per 1392
+    m. atsimetimą. Ordino ir Vytauto santykiams buvo reikšminga,
+    kai abi pusi pasižadėjo iš kito krašto nepriiminėti činšą mokančių
+    ir nelaisvu valstiečių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tą Fi-
@@ -216,35 +216,57 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     sutartis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-008
-  santrauka: '1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+    - t-006
+
+- c-009
+  santrauka: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
-    šimčius, kas metinių pajamų tesudaro 165 auksinus.
-    1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš
-    Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį
-    quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­
-    dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų,
-    pusę to činšo, 400 auksinų, Valerijono bursai moka, kas iki
-    šiol būdavo punktualiai atiduodama Valerijono konvikto gy­
-    ventojams.
-    Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
-    vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­
-    šo puolimo metu, kaip ir visas miestas, buvo apiplėšti ir su­
-    deginti.
+    Tik po sukilimo konfiskuotose ba-
+    jorų ir dvasininkų žemėse valstiečių būklė žymiai pagerėjo.
+    Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės
+    sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama
+    mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė
+    buvo daug sunkesnė). Tuo buvo norima atkreipti valstiečių
+    akis į carą, duodant jiems suprasti, kad tik iš jo tegalima laukti
+    malonių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
+    - t-008
+
+- c-010
+  santrauka: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O Jurgio brolis, kunigaikštis Mi­
+    kalojus Kristupas, Lietuvos Didžio­
+    sios Kunigaikštystės rūmų maršalka,
+    tapo savininku namų, vadintų Filipo-
+    vo namais, susidedančių iš keleto
+    medinių, moliu aplipdytų, pastatų,
+    užimančių dabartinį Kardinalijos
+    sparną nuo Didžiosios gatvės. Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą. Šis činšas buvo mokamas
+    vienuolika metų, bet paskui liautasi
+    mokėti, ir kapitula su kunigaikščiu
+    Kristupu pradėjo teismo procesą dėl
+    Filipovo namo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -255,7 +277,6 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Radvila (maršalka)]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/kapitula]]
@@ -276,4 +297,3 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 - [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]]
 - [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
 - [[objektai/asmenys/Pilypas Frizijus]]
-- [[objektai/zodynas/Puslapis 77]]

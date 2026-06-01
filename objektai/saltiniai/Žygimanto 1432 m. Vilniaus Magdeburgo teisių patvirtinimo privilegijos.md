@@ -30,26 +30,26 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
 - t-001
   teiginys: 'Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, midaus ir alaus smuklių, tačiau už šią privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­ dui, kadangi pagal seną paprotį miestas privalėjo kasmet jį surinkti.'
   pagrindžia:
     - c-004
 
-- t-003
+- t-004
   teiginys: 'Taigi vaitui buvo suteikta tokia galia, kad niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­ tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­ dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­ sakyti ir aiškintis dėl.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš vaivadų ir visų karališ­
@@ -69,7 +69,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -89,7 +89,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, po ketu­
@@ -150,4 +150,4 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003

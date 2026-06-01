@@ -1,30 +1,18 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Bomba"
-sukurta: '2026-05-13'
-variantai:
-  - "Bomba"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Bomba'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "Himanso plano krizės kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1921 m.'
-periodas: 'siuolaikine_istorija'
-periodo_grupes:
-  - 'tarpukaris'
-amziai:
-  - 'XX'
 date_start: '1921'
 date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-13'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
+amziai:
+  - 'XX'
 ---
 # Bomba
 
@@ -33,9 +21,11 @@ tags:
 Bomba minima kaip sprogmuo, padėtas ant E. Galvanausko miegamojo palangės Himanso plano krizės metu. Sprogimas sužeidė E. Galvanauską, bet jis išgyveno.
 
 ## Pavadinimai šaltiniuose
+
 - bomba
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Himanso plano krizės kontekstas
 - datos:
   - lapkričio 15 d.
@@ -54,63 +44,29 @@ Sprogmuo, šaltinyje minimas kaip atentato priemonė.
 Padėta ant E. Galvanausko miegamojo palangės; sprogimas sužeidė derybininką.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-007
-  teiginys: 'Lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-001
   teiginys: 'Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+
+- t-002
+  teiginys: 'Lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
-    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
-    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
-    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
-    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
-    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
-    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'Lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lapkričio
-    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
-    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
-    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-    - t-008
-- c-003
-  santrauka: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
@@ -124,17 +80,50 @@ Nenurodyta
     įvertinusi kaip patį didžiausią savo diplomatijos laimėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
+    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
+    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
+    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
+    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
+    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
+    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/diplomatija]]
-- [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]

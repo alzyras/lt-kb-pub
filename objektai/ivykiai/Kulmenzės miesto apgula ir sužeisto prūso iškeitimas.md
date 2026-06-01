@@ -37,12 +37,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to atžygiavo prūsų kariuomenė ir apsiautė Kulmenzės miestą433. Susirūpinęs dėl šio
@@ -59,7 +59,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmenzės miesto apgulą

@@ -36,12 +36,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
@@ -58,7 +58,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį

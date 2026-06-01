@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1934 m.'
+date_start: '1934'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
+amziai:
+  - 'XX'
 ---
 # ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)
 
@@ -19,39 +22,43 @@ tags:
 Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas sudarytas iš žodžių „Antanas nori būti ore“ pirmųjų raidžių.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas sudarytas iš žodžių „Antanas nori būti ore“ pirmųjų raidžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
+    1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
+    liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
+    Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
+    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
     buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

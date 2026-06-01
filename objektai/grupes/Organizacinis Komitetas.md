@@ -1,15 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Organizacinis Komitetas (institucija)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Organizacinis Komitetas'
-aliases:
-  - 'Organizacinis Komitetas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -20,16 +15,15 @@ tags:
 Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo politinės veiklos, ir todėl šiek tiek atsižvelgė į tą atšiaurų reikalavimą — pareiškė, jog būsią galima glaudžiau santykiauti su Vokietija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Organizacinis Komitetas, norėdamas tęsti politinę veiklą, pareiškė, kad bus galima glaudžiau santykiauti su Vokietija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Organizacinis Komitetas, norėdamas tęsti politinę veiklą, pareiškė, kad bus galima glaudžiau santykiauti su Vokietija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susirinkimas, pasivadinęs Organizaciniu Komitetu,
@@ -44,10 +38,8 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
 
     darė konferencijos atstovų sąrašą, — maždaug po 5—8 atstovus
     iš kiekvienos apskrities (šių buvo tuomet sudaryta 33).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

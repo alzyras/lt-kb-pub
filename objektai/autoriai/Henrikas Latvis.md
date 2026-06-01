@@ -1,26 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Henrikas Latvis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1207 m.'
   - '1236 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1207'
 date_end: '1236'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Henrikas Latvis
 
@@ -29,52 +26,26 @@ tags:
 Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami gerą pagonių apsiginklavimą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami gerą pagonių apsiginklavimą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti „Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek krikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'p. 48, „LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS, Latvis H., Vartbergė H., p. 192- 193.'
-  pagrindžia:
-    - c-004
-- t-005
   teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
   pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Kova tęsėsi ir prieš vėliau čia Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“ apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m. „[.'
+    - c-003
+
+- t-002
+  teiginys: 'Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami gerą pagonių apsiginklavimą.'
   pagrindžia:
-    - c-006
+    - c-002
+
+- t-003
+  teiginys: 'Henrikas Latvis „Livonijos kronikoje“ aprašė Lietuvos valdžios siekį valdyti vietos krikščionių ir pagonių gentis.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami gerą pagonių apsiginklavimą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Aukšta papuošalų apdirbimo technika parodo, jog Lietuvoje
-    būta nagingų amatninkų. Amato išsivystymą pas lietuvius patvir­
-    tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas
-    Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami
-    gerą pagonių apsiginklavimą. Nors Eiliuotinės Livonijos kronikos
-    autorius nevengia pasikartojančių stilistinių forminių ir poetinių
-    pagražinimų, tačiau, pvz., verti dėmesio lieka jo palyginimai, kad
-    lietuvių ginklai buvę sidabro spalvos, žibėję kaip veidrodis; jie
-    turėję paauksuotų šalmų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: 'Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti „Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek krikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje.'
+  santrauka: 'Henrikas Latvis „Livonijos kronikoje“ aprašė Lietuvos valdžios siekį valdyti vietos krikščionių ir pagonių gentis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
@@ -88,75 +59,61 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     džiotojo, o lyviai ir lettai klusniai tarnavo lettonams, davė maistą ir pašarą, kaip avys, be
     ganytojo patekusios į vilkų gaują.“
 
-    1236 m.
+    1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MUSIS 21
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'p. 48, „LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS, Latvis H., Vartbergė H., p. 192- 193.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    p. 48, „LYGIAGREČIOS KOVOS SU KRYŽIUOČIAIS*, Latvis H., Vartbergė H., p. 192- 193.
+    Aukšta papuošalų apdirbimo technika parodo, jog Lietuvoje
+    būta nagingų amatninkų. Amato išsivystymą pas lietuvius patvir­
+    tina ir rašytieji XIII amž. kaimynų šaltiniai (Livonijoje Henrikas
+    Latvis, Eiliuotinė kronika; Volinijoje Ipatijaus kronika), iškeldami
+    gerą pagonių apsiginklavimą. Nors Eiliuotinės Livonijos kronikos
+    autorius nevengia pasikartojančių stilistinių forminių ir poetinių
+    pagražinimų, tačiau, pvz., verti dėmesio lieka jo palyginimai, kad
+    lietuvių ginklai buvę sidabro spalvos, žibėję kaip veidrodis; jie
+    turėję paauksuotų šalmų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
+    - t-002
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
     karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
+    Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
+    daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
+    jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
+      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
+    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
+    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
+    klausimai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Kova tęsėsi ir prieš vėliau čia Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“ apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m. „[.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau tai negalėjo
-    sutrukdyti vis stiprėjančios vokiškosios
-    ekspansijos plėtros šiaurinėse baltų že-
-    mėse, pradėjusios įgauti vis grėsminges-
-    nes formas. Kova tęsėsi ir prieš vėliau čia
-
-    Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
-    apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.
-
-    „[.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Papuošalai]]
 - [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Hermanas iš Vartbergės]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/autoriai/Vygandas iš Marburgo]]

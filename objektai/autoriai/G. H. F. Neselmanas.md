@@ -25,22 +25,22 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin, 1845.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad neselmanu, baigiant J.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.'
+  teiginys: 'Dusburgietis teigia, kad nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin, 1845.'
   pagrindžia:
     - c-004
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad neselmanu, baigiant J.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.'
+  pagrindžia:
+    - c-003
+
+- t-004
   teiginys: 'Dusburgietis teigia, kad 6 Bopp F. Über die Sprache...; Nesselmann G. Die Sprache...; to paties, Thesaurus...; Endzelīns J. Senprūšu valoda; Būga K. Rinktiniai raštai, t. 1, 3; Mikalauskaitė E. Priešreformacinių...,.p. 102—106; Matusevičiūtė I. Kiek naujos medžiagos..., p. 10—18.'
   pagrindžia:
     - c-002
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -80,9 +80,9 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nesselmann G. H. F. Thesaurus linguae prussicae.— Berlin, 1873.
@@ -90,9 +90,9 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten.—Berlin,
@@ -101,7 +101,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

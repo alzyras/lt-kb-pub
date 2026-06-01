@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Pirčiupiai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,27 +15,26 @@ tags:
 Įtariami pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami ištisi kaimai (Pirčiupiai).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vokietijoje išvežti dirbo apie 60 000
+    Lietuvos gyventojų.
     Savo valdymą Lietuvoje naciai tvirtino represijomis, teroru, žudė po-
     litiškai nepatikimus, nepaklusnius valdžiai gyventojus, ūkininkus, ne-
     sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami
     pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami
     ištisi kaimai (Pirčiupiai).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

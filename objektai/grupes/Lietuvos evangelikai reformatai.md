@@ -1,9 +1,6 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos evangelikai reformatai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -18,22 +15,18 @@ datos:
   - '1700 m.'
   - '1721 m.'
   - '1763 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1515'
 date_end: '1763'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - grupe
   - kunigaikštis
   - reforma
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Lietuvos evangelikai reformatai
 
@@ -42,38 +35,42 @@ tags:
 Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibliją“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
+    Lietuvos reformacijos ryškiausia ir įtakin-
+    giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
+    Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
+    ją“. XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
     perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
     sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
     iki šių dienų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Antra vertus,
+    Pagal liberum veto
+    teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami
+    vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis
+    santvarkomis ir trukdė stiprinti bei centralizuoti valstybę. Antra vertus,
     tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
     visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
     joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
@@ -89,9 +86,7 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

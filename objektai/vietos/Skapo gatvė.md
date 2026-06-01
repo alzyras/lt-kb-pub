@@ -26,13 +26,14 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų gatve nuo Jo Didenybės Vil­ niaus vyskupo dvaro link prieglau­ dos ir Šv.'
+  teiginys: '1573 m. kunigaikštis Kristupas kapitulos sutartimi mainais atidavė sklypą Skapo gatvės kampe.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1573 m. kunigaikštis Kristupas kapitulos sutartimi mainais atidavė sklypą Skapo gatvės kampe.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau 1573 metais

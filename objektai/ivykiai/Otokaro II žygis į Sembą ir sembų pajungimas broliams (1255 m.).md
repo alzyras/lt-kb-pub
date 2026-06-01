@@ -45,31 +45,31 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
   pagrindžia:
-    - c-001
+    - c-005
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
   pagrindžia:
-    - c-002
+    - c-006
 
-- t-004
+- t-003
   teiginys: 'Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į nelaisvę ir išžudęs, ten pat ir pernakvojo.'
   pagrindžia:
     - c-004
 
-- t-005
+- t-004
   teiginys: 'Dusburgietis teigia, kad viską tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai.'
   pagrindžia:
-    - c-005
+    - c-001
 
-- t-003
+- t-005
   teiginys: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viską
@@ -88,9 +88,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
@@ -108,9 +108,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
@@ -168,9 +168,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-001
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
@@ -185,7 +185,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sembų pavergimą

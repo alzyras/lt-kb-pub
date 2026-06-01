@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'prof. kunigas Dr. J. Fijalek'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1415 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1415'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigas
   - ordinas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # prof. kunigas Dr. J. Fijalek
 
@@ -29,16 +25,15 @@ tags:
 gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­ joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­ sitio Samaytarum” kurio dėl graudingumo, kaip sako prof. kunigas Dr. (^3) ) Fijalek 79—30.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prieš Ordiną toliau Vytautas kartu su Lenkija
@@ -51,11 +46,9 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
     sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
     kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
     skaityti^3 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

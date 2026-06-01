@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Werminghoee, A'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1914 m.'
   - '1940 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1914'
 date_end: '1940'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Werminghoee, A
 
@@ -28,16 +24,15 @@ tags:
 — Werminghoee, A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Werminghoee 1914 m. paskelbė darbą apie Ludwigo Bavariečio dokumentą Vokiečių ordino magistrui.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'A. Werminghoee 1914 m. paskelbė darbą apie Ludwigo Bavariečio dokumentą Vokiečių ordino magistrui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Prioult, A. : _Un poete voyageur_ : _Guillaume de Machaut et
@@ -48,11 +43,9 @@ tags:
     _Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens,_
     Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

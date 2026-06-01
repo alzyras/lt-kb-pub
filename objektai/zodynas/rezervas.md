@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'rezervas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1410 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1410'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - sąvoka
+amziai:
+  - 'XV'
 ---
 # rezervas
 
@@ -28,22 +22,20 @@ tags:
 Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą. Tuo momentu buvo aktyvuotas lenkų rezervas, kuris pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Tuo momentu buvo aktyvuotas lenkų rezervas, kuris pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūšį metė rezervą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu len
@@ -53,15 +45,13 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
     rezervą. Kryžiuočiai mėgino apeiti lenkų
 
     64 ŽALGIRIO (GRIUNVALDO) MŪŠIS 1410 m. liepos 15 d.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tuo momentu buvo aktyvuotas lenkų rezervas, kuris pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočiai, pamanę, jog mūšis laimė-
@@ -75,11 +65,9 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
     ## Puslapis 67
 
     pajėgos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

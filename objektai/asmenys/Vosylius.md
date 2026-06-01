@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vosylius'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1425 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1425'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vosylius
 
@@ -28,26 +24,25 @@ tags:
 Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija. Vosylius jau buvo tapęs kunigaikščiu ir norėjo vesti savo sužadėtinę, Vytauto dukterį Sofiją.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.'
   pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-002
+  teiginys: 'Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų.'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     tėj, kuri turėjo dekoruoti „šviesiausius, tikruosius, garbinguo­
@@ -58,15 +53,13 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     mažesnių chanų.
     Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
     gabenančių karūnas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo pat metu jis praplėtė savo valdžią Okos
@@ -77,18 +70,17 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
     nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
     sūnus Vosylius, atsparumo nerodė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Į iškilmes buvo pa­
+    tėj, kuri turėjo dekoruoti „šviesiausius, tikruosius, garbinguo­
+    sius ir laisvuosius“ Lietuvos karalius^1 ). Į iškilmes buvo pa­
     kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­
     to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­
     nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug
@@ -97,11 +89,9 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     gabenančių karūnas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -110,6 +100,7 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/grupes/Krimo totoriai]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Vosylius I]]
 - [[objektai/zodynas/regencija]]

@@ -19,17 +19,17 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad todėl turbūt galima manyti, jog vyriausieji žyniai tikrai buvo, šalia jų egzistavo, matyt, ir žemesnio rango žyniai, atliekantys, pvz., pagoniškąsias laidotuvių apeigas ir kt. (Łowmiański H., Studja..., 2, p. 205; apie „nepaprastus” žmones, vaidilas ir kt.—.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad 63— tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apieras darydavo ir degindavo dievams Krivaičiai; Perkūnas gerbiamas buvo ant Rudaminos piliakalnio (Dovydaitis Pr., Biržiška M., Auka, p. 153—154).'
   pagrindžia:
     - c-001
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -20,13 +20,14 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
 ## Teiginiai
 
 - t-001
-  teiginys: 'i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos kilmę, kol kas to dar neketinu šia­ me veikale aptarti; vis dėlto turiu pripažinti, kad švedų mokslininko Thunmano tyrinėjimai ir prie­ laidos panašiausios į tiesą.'
+  teiginys: 'Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Thunmano tyrinėjimus ir prielaidas apie lietuvių tautos kilmę Balinskis laikė panašiausiais į tiesą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prūsai - apie jų kalbą pasakytina,

@@ -17,12 +17,12 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Ne veltui sklido gandai, kad visi Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   pagrindžia:
     - c-001
@@ -45,7 +45,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -58,4 +58,4 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '-- • 418 ## Puslapis 435 IV KNYGA norime, kad po mūsų mirties keturis kartus per metus į mū­ sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­ čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­ tas, vieną tik to metų ketvirčio dieną.'
+  teiginys: 'Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Val erianus Episcopus Vilnen. manu propria.

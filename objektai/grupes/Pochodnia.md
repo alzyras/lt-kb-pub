@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Pochodnia'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - pinigai
@@ -19,26 +16,27 @@ tags:
 Švietimui padėjo lenkų kultūros organizacijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“), gaudavusios pinigų iš Lenkijos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pochodnia („Deglas“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pochodnia („Deglas“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Švietimui padėjo lenkų kultūros organiza-
+    Prezidentas A. Smetona manė, kad
+    jeigu lietuvis kažkada virto lenku, tai kodėl jis negali vėl atvirsti lietuviu?
+    Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mo-
+    kyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių
+    1935 m. priskaičiuota apie 40. Švietimui padėjo lenkų kultūros organiza-
     cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
     gaudavusios pinigų iš Lenkijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

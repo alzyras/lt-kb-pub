@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Petrakava'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - seimas
@@ -20,16 +17,15 @@ tags:
 Šitokioj dėtoj karalius 1453 m. buvo priverstas Petrakavos seime patvirtinti lenkų privilegijas, bet žemių jiems prisiekė grąžinti tik tas, kurios neteisingai esančios kitų užgrobtos.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1453 m. Petrakavos seime karalius buvo priverstas patvirtinti lenkų privilegijas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1453 m. Petrakavos seime karalius buvo priverstas patvirtinti lenkų privilegijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Švitrigaila mirdamas (1452 m.)
@@ -40,10 +36,8 @@ tags:
     1453 m. buvo priverstas Petrakavos seime patvirtinti lenkų pri-
     vilegijas, bet žemių jiems prisiekė grąžinti tik tas, kurios ne-
     teisingai esančios kitų užgrobtos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

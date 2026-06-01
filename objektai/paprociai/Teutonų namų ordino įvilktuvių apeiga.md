@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Teutonų namų ordino įvilktuvių apeiga'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigas
   - ordinas
@@ -27,33 +18,35 @@ tags:
 Dusburgietis teigia, kad po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge, kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš altorių, o.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge, kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš altorių, o.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad “ Šis atsakė: „Atėjau pas jus, pasitikėdamas jūsų nepaprastu maloningumu ir atlaidumu, nes kaip ir jūs tvirtai iš grynos širdies pasiryžau stoti į Teutonų namų ordiną“.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge, kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš altorių, o.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdęs
@@ -69,32 +62,9 @@ Nenurodyta
     buvo susitepęs paleistuvystės nuodėme.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad “ Šis atsakė: „Atėjau pas jus, pasitikėdamas jūsų nepaprastu maloningumu ir atlaidumu, nes kaip ir jūs tvirtai iš grynos širdies pasiryžau stoti į Teutonų namų ordiną“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    “
-    Šis atsakė: „Atėjau pas jus, pasitikėdamas jūsų nepaprastu maloningumu ir atlaidumu,
-    nes kaip ir jūs tvirtai iš grynos širdies pasiryžau stoti į Teutonų namų ordiną“. Išgirdęs
-    šiuos žodžius, landgrafas taip nudžiugo, kad, puolęs iš džiaugsmo jam  į glėbį, atleido
-    nusikaltimą. Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
-    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
-    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
-    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
-    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
-    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

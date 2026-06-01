@@ -31,16 +31,16 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
 - t-001
   teiginys: 'Valstybinė santvarka po Liublino unijos.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Šapoka, Senosios Lietuvos valstybės santvarkos bruožai (atsp. iš Židinio, 1935, Nr. 1—2); W.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     prava (1893); A. Šapoka,
@@ -53,7 +53,7 @@ Valstybinė santvarka po Liublino unijos. Šapoka, Senosios Lietuvos valstybės 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XVIII. Valstybinė santvarka po Liublino unijos. 1. I. Lappo, Lietuva

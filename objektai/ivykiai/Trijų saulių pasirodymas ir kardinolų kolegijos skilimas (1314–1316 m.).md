@@ -45,17 +45,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad sitai ir buvo ženklas bei požymis, rodantis, kad mirsiąs popiežius, o po jo mirties suskilsianti kolegija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai ir buvo ženklas bei požymis,
@@ -69,7 +69,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija,
@@ -85,7 +85,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     115. Apie tris saulės spindulius ir kolegijos suskilimą

@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'karyba'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ordinas
@@ -26,22 +17,25 @@ tags:
 Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą. Stengtasi pateikti daug kontekstinės informacijos, nupasakojančios kiekvieno laikotarpio karybos, ginkluotės raidos tendencijas bei regiono geopolitinį kontekstą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Karybos raida leidinyje aptariama kartu su to meto politiniais, kariniais įvykiais ir ginkluotės raida.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Karybos raidos tendencijos leidinyje aptariamos kartu su ginkluotės raida ir regiono geopolitiniu kontekstu.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karybos raida leidinyje aptariama kartu su to meto politiniais, kariniais įvykiais ir ginkluotės raida.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     niai blokai (įrėminti straipsniai). Juose rasite papildomos
@@ -63,15 +57,13 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
     kronikos“ apie Ordino brolių sumušimą prie
 
     Karusės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Karybos raidos tendencijos leidinyje aptariamos kartu su ginkluotės raida ir regiono geopolitiniu kontekstu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Knygą stengtasi gausiai iliustruoti, kad skaity-
@@ -84,13 +76,46 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
     skaitytojams pamatyti Lietuvos istoriją ir Lietuvos kary-
     bos raidą nauju kampu ir paskatins papildyti Lietuvos ka-
     rybos istorijos tyrinėtojų gretas naujais jaunais istorikais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Aukštomis trajektorijomis Minosvaidžiai - lengvi
+
+    nuo galvos iki kojų šarvuoti raiteliai
+
+    Greta pagrindinio teksto pateikiami įvairūs informaci-
+
+    niai blokai (įrėminti straipsniai). Juose rasite papildomos
+    informacijos apie to meto politinius, karinius įvykius, karybos
+    ir ginkluotės raidą.
+
+    Blokeliuose su skyriaus spalvos
+    juostele pateikiamos įvykių
+    liudininkų, amžininkų ar tų
+    laikų dokumentų citatos
+
+    Ryškesniu šriftu
+
+    išskirtos citatoje
+    aptariamų įvykių
+    aplinkybės
+
+    Ištrauka iš Hermano Vartbergės „Livonijos
+    kronikos“ apie Ordino brolių sumušimą prie
+
+    Karusės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

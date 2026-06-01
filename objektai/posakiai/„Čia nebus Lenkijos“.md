@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„Čia nebus Lenkijos“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 date_start: '2013'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - posakis
   - sukilimas
+amziai:
+  - 'XXI'
 ---
 # „Čia nebus Lenkijos“
 
@@ -30,19 +24,20 @@ tags:
 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Rudenį, traukdamasi į Lenkijos gilumą, ji susirgo ir mirė.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -56,15 +51,13 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
     dą. Atseit LDK iki jos pagoniškosios dalies katalikiško krikšto ir Krėvos
     unijos su Lenkija buvo viena iš stipriausių rusų valstybių, konkuravusi su
     Maskva dėl rusų žemių suvienijimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Rudenį, traukdamasi į Lenkijos gilumą, ji susirgo ir mirė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rudenį, traukdamasi į Lenkijos gilumą, ji susirgo ir mirė.
@@ -80,11 +73,9 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
     dą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

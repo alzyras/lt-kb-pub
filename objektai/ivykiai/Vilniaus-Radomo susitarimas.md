@@ -40,16 +40,16 @@ Nenurodyta
 - t-001
   teiginys: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Po Vorsklos pralaimėjimo 1401 m. Vilniaus ir Radomo suvažiavimuose buvo aiškiau nustatyti Vytauto ir Karūnos santykiai.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vis dėlto norėtųsi manyti, kad toks dokumentas
@@ -63,7 +63,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų derybų, 1401 m. buvo pa-
@@ -80,7 +80,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vorsklos pralaimėjimas tačiau Vytautui nešė nuostolius kituose

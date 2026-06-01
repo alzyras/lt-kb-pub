@@ -1,14 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'D. Naugardas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - ordinas
@@ -22,42 +18,43 @@ tags:
 Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Naugardo miestiečių valstybė.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
+- t-002
+  teiginys: 'Naugardo miestiečių valstybė.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Naugardo miestiečių valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Padarę taiką pietuose, jie pradėjo
+    žiauriai siaubti kalavijuočių ordino pavergtas sritis, naikinti jo
+    pilis. Šitiems žygiams jie rado ir talkininkų. Tai buvo galinga
     D. Naugardo miestiečių valstybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Mindaugas tuo metu buvo labai nusivylęs
+    santykiais su ordinu, nes neturėjo iš to jokios naudos. Tiesa,
+    ordinas jo žemių nebepuolė, bet užtat jo akivaizdoje vergė že-
+    maičius. Todėl Mindaugas priėmė pasiūlymą ir, sudaręs są-
     jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino
     žemę net iki Cėsio (Vendeno).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

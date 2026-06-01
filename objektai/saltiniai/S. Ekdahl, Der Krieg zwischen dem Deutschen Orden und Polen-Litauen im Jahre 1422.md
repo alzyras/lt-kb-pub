@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'S. Ekdahl, Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1422 m.'
   - '1964 m.'
   - '1973 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1422'
+date_end: '1973'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XV'
   - 'XX'
-date_start: '1422'
-date_end: '1973'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - saltinis
 ---
 # S. Ekdahl, Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422
 
@@ -30,18 +24,15 @@ tags:
 Ekdahl, S.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Peterburg 1891. —Dundulis, B. : _Lietuvos kova del valstybinio sava­
@@ -53,10 +44,8 @@ Ekdahl, S.
     1938, 323-340 p. — Končius, J. : _Vytautas the Great, Grand Duke of
     Lithuania_ , Miami, Florida 1964, 171-184 p. — Łowmiański, H. : _Witold
     wielki książę Litwy_ , Vilnius 1930.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

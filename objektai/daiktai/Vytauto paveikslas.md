@@ -57,12 +57,12 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Patiko Vytautas ir Katalikų bažnyčiai, nes jis – Lietuvos krikštytojas, pastatęs 33 bažnyčias; tvirta ranka valdęs valstybę jis patiko tautininkams; sportininkai šlovino Vytauto fizinę stiprybę, blaivininkai aiškino, kad Vytautas niekuomet L I E T U V O S I S.'
   pagrindžia:
     - c-003
 
-- t-003
+- t-004
   teiginys: 'Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m.'
   pagrindžia:
     - c-001
@@ -100,7 +100,7 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-    - t-003
+    - t-004
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -120,7 +120,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

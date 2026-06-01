@@ -37,3 +37,4 @@ Vis dėlto Jaunutis išsigelbėjo pabėgda­ mas kartu su jam palankiu broliu Na
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Simonas Lengvenis]]
 - [[objektai/asmenys/Vasilijus Čartoriskis]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]

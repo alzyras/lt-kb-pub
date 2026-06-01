@@ -1,34 +1,21 @@
 ---
-tipas: 'saltinis'
+tipas: saltinis
 pavadinimas: 'Pirmoji spausdinta Lietuvos istorija (1582 m.)'
-sukurta: '2026-04-24'
-variantai:
-  - 'pirmoji spausdinta Lietuvos istorija'
-  - 'Strikauskio veikalas'
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-laikotarpis: 'XVI amž. gale (1582 m.)'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1326 m.'
   - '1582 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
 date_start: '1326'
 date_end: '1582'
-patikimumas: ""
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - vyskupas
+amziai:
+  - 'XIV'
+  - 'XVI'
 ---
 # Pirmoji spausdinta Lietuvos istorija (1582 m.)
 
@@ -45,22 +32,14 @@ tags:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą.'
   pagrindžia:
-    - c-002
-
-- t-002
-  teiginys: '1582 m. pasirodė pirmoji spausdinta Lietuvos istorija, lenkiškai parašyta Merkelio Giedraičio globojamo Strikauskio.'
-  pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
-## Bibliografiniai įrodymai
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Dusburgietis teigia, kad sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį
@@ -69,8 +48,6 @@ tags:
     faktus į lituanistinę istorinę literatūrą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

@@ -28,39 +28,39 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 
 ## Teiginiai
 
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300 Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.'
-  pagrindžia:
-    - c-005
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.'
+  teiginys: 'Dusburgietis teigia, kad apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300 Tuo metu brolis Liudvikas iš Libencelės buvo Ragainės komtūru, su savo broliais bei ginklanešiais jis daug kartų šlovingai kariavo su lietuviais.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę Brolis Liudvikas iš Libencelės, kilmingas vyras ir iš jaunų dienų įgudęs kariauti, savo gyvenime, kaip vėliau matysime, padarė nuostabių žygdarbių.'
+  pagrindžia:
+    - c-006
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markvardas iš Revelingės su dviem kitais broliais ir 26 ginklanešiais juos pasekę užpuolė viename lauke ir 25 iš jų nukovė.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.'
   pagrindžia:
     - c-004
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.'
-  pagrindžia:
-    - c-002
-
-- t-003
+- t-005
   teiginys: 'Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie Kimelio pilies sunaikinimą 1296 metais Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir 200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją praėjo; kai begrįždami atitiko.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     259 (252). Apie brolį Liudviką iš Libencelės ir jo karus su lietuviais 1294—1300
@@ -73,9 +73,9 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
@@ -89,9 +89,9 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo
@@ -109,9 +109,9 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
@@ -128,9 +128,9 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kimelio pilies sunaikinimą 1296 metais
@@ -151,7 +151,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   pagrindžia:
     - t-006
 
-- c-001
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     210 (205). Apie tai, kaip brolis Liudvikas iš Libencelės pirmą kartą pakliuvo į nelaisvę
@@ -165,7 +165,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-007
   santrauka: 'Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių.'

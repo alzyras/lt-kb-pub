@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'chanas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - pinigai
@@ -26,25 +17,42 @@ tags:
 Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu. Tada į mūšį įsijungė Aukso ordos chanas Timūr-Kutlukas „su didele Totorių jėga“ ir „apsupo juos (Lietuvos kariuomenę) aplink, pašovė raitelių žirgus.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Prieš mūšį Vytautas pokalbyje su chanu tarsi reikalavo pavaldumo ir Ordos pinigus žymėti Vytauto ženklu.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Aukso ordos chanas Timūr-Kutlukas įsijungė į mūšį su didele totorių jėga ir nugalėjo Vytautą bei Lietuvos kariuomenę.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Prieš mūšį Vytautas pokalbyje su chanu tarsi reikalavo pavaldumo ir Ordos pinigus žymėti Vytauto ženklu.'
+  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prieš mūšį Vytautas pokalbyje su chanu tarsi reikalavo pavaldumo ir Ordos pinigus žymėti Vytauto ženklu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tada į mūšį įsijungė
+    Aukso ordos chanas Timūr-Kutlukas
+    „su didele Totorių jėga“ ir „apsupo juos
+    (Lietuvos kariuomenę) aplink, pašovė rai-
+    telių žirgus. Ilgai tarpusavy vyko atkakli,
+    žiauri kova, ir ėmė pergalėti totoriai“. „Ir
+    nugalėjo caras Timūr-Kutlukas, nugalėjo
+    Vytautą ir visą Lietuvos jėgą“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -56,34 +64,13 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį. Taip buvo delsiama, kol atvyko
     visoje Ordoje garsus kunigaikštis - emyras
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Aukso ordos chanas Timūr-Kutlukas įsijungė į mūšį su didele totorių jėga ir nugalėjo Vytautą bei Lietuvos kariuomenę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tada į mūšį įsijungė
-    Aukso ordos chanas Timūr-Kutlukas
-    „su didele Totorių jėga“ ir „apsupo juos
-    (Lietuvos kariuomenę) aplink, pašovė rai-
-    telių žirgus. Ilgai tarpusavy vyko atkakli,
-    žiauri kova, ir ėmė pergalėti totoriai“. „Ir
-    nugalėjo caras Timūr-Kutlukas, nugalėjo
-    Vytautą ir visą Lietuvos jėgą“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių pajėgos
@@ -100,9 +87,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
     sveikino jį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -163,7 +148,6 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 - [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
 - [[objektai/asmenys/Petras (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Petras Białas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/asmenys/Saladinas]]
 - [[objektai/ivykiai/Salyno taika]]

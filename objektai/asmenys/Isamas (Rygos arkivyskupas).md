@@ -22,16 +22,16 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
 - t-001
   teiginys: 'Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­ riai nužudyti.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­ daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­ vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo metu, kai jis, kaip.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai ir yra priežastis, kad jūsų kilnybei šiuo laišku pareiš­
@@ -61,7 +61,7 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas

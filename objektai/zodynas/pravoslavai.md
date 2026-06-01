@@ -1,46 +1,39 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: pravoslavai
-sukurta: '2026-05-05'
-variantai:
-  - pravoslavai
-  - pravoslavams
-  - pravoslavų
-aliases: []
+pavadinimas: 'pravoslavai'
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
-laikotarpis: 1387 m., 1415 m., 1432 m., 1439 m.
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
-  - 1387 m., 1415 m., 1432 m., 1439 m.
-patikimumas: aukštas
-atnaujinta: '2026-05-05'
-tags: []
+  - '1387 m.'
+date_start: '1387'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
 ---
 # pravoslavai
 
 ## Teiginiai
-- t-004
-  teiginys: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: 'Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-002
   teiginys: 'Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apie pusę tų laikų didž. Lietuvos kunigaikštijos gyventojų
@@ -48,16 +41,14 @@ tags: []
     žiais pradėta vadinti, pravoslavai. Jie priklausė Konstantino­
     polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
     polito.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-    - t-005
+    - t-003
+    - t-001
+
 - c-002
-  santrauka: 'Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­
@@ -66,13 +57,11 @@ tags: []
     voslavų teises, kaip tai darė jo brolis Zigmantas, bet suprasda­
     mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
     ir vakarų bažnyčių unijos idėją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

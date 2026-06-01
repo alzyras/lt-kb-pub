@@ -17,17 +17,17 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'O Rūdninkų miškuose nieko panašaus ir neįmanoma būtų surasti.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­ se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­ se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - nenuginčijami žmonių gyvenimo nuo.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-003
   teiginys: 'Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso ir Rūdninkų medžionė, buvo nežmoniškai nuniokotas, išliko šiame žvėryne iki šiol yra likę puikaus miško pėdsakų.'
   pagrindžia:
     - c-001
@@ -49,9 +49,9 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Rūdninkų miškuose nieko panašaus ir neįmanoma
@@ -63,9 +63,9 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pati vietovė, su­

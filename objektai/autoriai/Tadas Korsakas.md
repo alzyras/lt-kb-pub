@@ -1,33 +1,22 @@
 ---
 tipas: autorius
-pavadinimas: "Tadas Korsakas"
-sukurta: '2026-05-14'
-variantai:
-  - "T. Korsakas"
-aliases: []
+pavadinimas: 'Tadas Korsakas'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1791 m.; 1794 m."
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1791 m.'
   - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1791'
 date_end: '1794'
-vaidmenys:
-  - "konstitucijos pataisos autorius"
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - bajoras
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Tadas Korsakas
 
@@ -41,85 +30,116 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - Gegužės trečiosios konstitucijos pataisa
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius."
+  teiginys: 'Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-002
-  teiginys: "T. Korsakas vadinamas Gegužės trečiosios konstitucijos pataisos autoriumi."
+  teiginys: 'T. Korsakas vadinamas Gegužės trečiosios konstitucijos pataisos autoriumi.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-003
-  teiginys: "T. Korsakas žuvo ginant Varšuvą."
+  teiginys: 'T. Korsakas žuvo ginant Varšuvą.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-004
   teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
   pagrindžia:
-    - c-003
+    - c-001
+
 - t-005
   teiginys: 'Korsakas.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Remiantis šiuo
+    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
+    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
+    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
     turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Korsakas įvardijamas kaip konstitucijos pataisos autorius ir žuvęs ginant Varšuvą.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-    - t-003
-- c-003
-  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
+    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
     Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-004
-  santrauka: 'Korsakas.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vasarą rusų ir prūsų kariuomenės per-
+    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
+    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+    T. Korsakas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
+    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
+    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
+    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
+    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
+    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
+    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vasarą rusų ir prūsų kariuomenės per-
+    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
+    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
+    lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
+    T. Korsakas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+    - t-003
+
+- c-005
+  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
+    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
+    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
+    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
+    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
+    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
+    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
+    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
+    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
+    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -134,4 +154,7 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
+- [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
 - [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

@@ -17,12 +17,12 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį: išsivarė daug žmonių ir išsivežė.'
   pagrindžia:
     - c-001
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi.'

@@ -29,7 +29,7 @@ amziai:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: '3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria di­ dysis kunigaikštis Vytautas, atsi­ liepdamas į vyskupo Mikalojaus ir Vilniaus kapitulos pareiškimus mainais už dvasininkijos Vechatnicos kaimą Volkovisko paviete, esantį kapitulai netinkamoje.'
   pagrindžia:
     - c-003
@@ -37,14 +37,14 @@ amziai:
 - t-002
   teiginys: '2-ąja yra ap­ rūpinama Vilniaus katedros klebo­ nija, ja Vytautas, save tituluodamas: Magnus Dux Lithvaniae et Russiae [didysis Lietuvos ir Rusios kuni­ gaikštis], katedrai skiria: viliam in di­ strictu Drogyminensi, etiam ab eodem districtu Drogyminischkij.'
   pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: '1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.'
+  pagrindžia:
     - c-002
 
 - t-004
-  teiginys: '- 4-oji privilegija, 1412,feria tertia proxima ante festum Corporis Christi [artimiausią antradienį prieš Kristaus Kūno šventę], Trakuose rašyta, joje sakoma, kad Vytautas tam pačiam vvskupui Mikalojui ir jo įpė- 148 ## Puslapis 165 Il KNYGA karaliui.'
-  pagrindžia:
-    - c-004
-
-- t-001
   teiginys: '1413 metais, 70 Tai keturios privilegijos, iki šiol išli­ kusios Vilniaus kapitulos archyve: 1- oji, rašyta Vilniuje, sabbato in festo Sancti Barnabae Apostoli, anno D-ni 1407 [šeštadienį Šv.'
   pagrindžia:
     - c-001
@@ -78,9 +78,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-002
+  santrauka: '1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3-oji privilegija rašyta
@@ -124,7 +125,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -156,9 +157,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2-ąja yra ap­

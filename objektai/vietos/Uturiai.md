@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Uturiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - vieta
@@ -25,16 +16,15 @@ tags:
 148 Uturiai, prie Betygalos 177 Uzbekas, chanas 183, 241, 242 Užnemunė 61, 78, 95, 96, 105, 108, 254, 326 Užpaliai 118 Užsienio Lietuvių Spaudos Metraštis 17 Vaclovas, Čekijos karalius 336, 356, žr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Uturiai buvo prie Betygalos.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Uturiai buvo prie Betygalos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tvirbutas, bajoras 368
@@ -84,10 +74,8 @@ tags:
     Valančius M., vysk. 51-53, 60, 66,
     70, 71, 74, 81
     Valdemaras IV, Danijos karalius
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

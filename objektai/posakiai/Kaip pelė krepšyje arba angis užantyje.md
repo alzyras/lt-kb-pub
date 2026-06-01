@@ -1,31 +1,18 @@
 ---
 tipas: posakis
-pavadinimas: "Kaip pelė krepšyje arba angis užantyje"
-sukurta: '2026-05-27'
-variantai:
-  - "Tie velnio sūnūs"
-aliases: []
+pavadinimas: 'Kaip pelė krepšyje arba angis užantyje'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
   - '1894 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
+date_start: '1323'
+date_end: '1894'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XIX'
-date_start: '1323'
-date_end: '1894'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
 ---
 # Kaip pelė krepšyje arba angis užantyje
 
@@ -50,25 +37,25 @@ Palyginimas pateiktas poleminiame laiške prieš Gedimino taikos sutartį ir jos
 Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Prūsijos vyskupų laiške sutartis vadinama velnio žabangomis ir krikščioniškojo pasaulio gėda."
+  teiginys: 'Prūsijos vyskupų laiške sutartis vadinama velnio žabangomis ir krikščioniškojo pasaulio gėda.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: 'Jie rašo: „Tie velnio sūnūs savo suk­ tybėmis klastingai sandėriais taikosi jus ir mus pražudytip. Ir kaip pelė krepšyje arba angis užantyje pirmiau mus ir mūsų žemes su kaimyniniais kraštais, vėliau taip pat jus, jūsų provincijas ir jūsų valdinius.'
+  teiginys: 'Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pateikia poleminį palyginimą ir platesnį laiško prieš sutartį kontekstą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
@@ -88,16 +75,15 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
     mūsų žemes su kaimyniniais kraštais, vėliau taip pat jus,
     jūsų provincijas ir jūsų valdinius, sunaikins, baisią pražūtį
     visai krikščionybei užtraukdami, juk laukiniai storžieviai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiksliai liudija poleminį laiško vertinimą, bet pati charakteristika yra priešiškos pusės retorika."
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Jie rašo: „Tie velnio sūnūs savo suk­ tybėmis klastingai sandėriais taikosi jus ir mus pražudytip. Ir kaip pelė krepšyje arba angis užantyje pirmiau mus ir mūsų žemes su kaimyniniais kraštais, vėliau taip pat jus, jūsų provincijas ir jūsų valdinius.'
+  santrauka: 'Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
@@ -150,9 +136,7 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
     aiškiai įtikina.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

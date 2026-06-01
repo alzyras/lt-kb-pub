@@ -28,29 +28,29 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
   pagrindžia:
-    - c-002
+    - c-004
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti, 494 Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko į Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras, ir, išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir paguodė.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   pagrindžia:
     - t-004
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
@@ -84,7 +84,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     86 (82). Apie tą patį
@@ -97,9 +97,9 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
@@ -115,7 +115,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-005
   santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'

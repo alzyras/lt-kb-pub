@@ -28,16 +28,16 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 - t-001
   teiginys: 'Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą Kaišiadorių ir Alytaus kryptimis.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokiečių okupacijos metais buvo geležinkelių apsaugos polici-
@@ -50,7 +50,7 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     2 d.) sustabdyti kraujo praliejimą ir susitarti

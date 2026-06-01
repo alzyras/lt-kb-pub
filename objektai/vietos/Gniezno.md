@@ -1,19 +1,11 @@
 ---
 tipas: vieta
 pavadinimas: 'Gniezno'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,72 +16,49 @@ tags:
 Jis tai atliko per lenkų Gniezno arkivyskupą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jis tai atliko per lenkų Gniezno arkivyskupą.'
   pagrindžia:
     - c-003
     - c-002
-    - c-001
+
 - t-002
   teiginys: 'Jono, Gniezno arkivysk.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jis tai atliko per lenkų Gniezno arkivyskupą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jis tai atliko per lenkų Gniezno arkivyskupą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Gniezno papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  citata_originali: |
-    vežė didžiomis upėmis, beje: Isla, Nemunu,
-    Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą
-    per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų
-    (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: Gniezno papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  citata_originali: |
-    vežė didžiomis upėmis, beje: Isla, Nemunu,
-    Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą
-    per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų
-    (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-004
-  santrauka: 'Jono, Gniezno arkivysk.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    į Konstanciją buvo išsiųsta Lietuvos
+    Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
     ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
     po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
     ir Breslavo vysk. Jono.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    vežė didžiomis upėmis, beje: Isla, Nemunu, Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    vežė didžiomis upėmis, beje: Isla, Nemunu, Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

@@ -1,29 +1,23 @@
 ---
 tipas: paprotys
 pavadinimas: 'Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
   - '1920 m.'
   - '1922 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: '1922'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime
 
@@ -32,33 +26,35 @@ tags:
 Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
@@ -82,30 +78,9 @@ Nenurodyta
     dar nebuvo...
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    .
-    Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant
-    1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei auto-
-    nomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad
-
-    L I E T U V O S  I S T O R I J A
-    168
-    nesusidarytų valstybė valstybėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -119,6 +94,3 @@ Nenurodyta
 - [[objektai/asmenys/S. Rozenbaumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Tautinės mažumos]]
-- [[objektai/zodynas/kultūrinė autonomija]]
-- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

@@ -1,16 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: lėnas
-sukurta: '2026-04-25'
-variantai:
-  - lėną
-aliases: []
+pavadinimas: 'lėnas'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
-tags: []
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # lėnas
 
@@ -19,40 +13,39 @@ tags: []
 Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje taip apibūdinama Podolės dalies valda, perduota Spytkui iš Melštyno, o kitame Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.
 
 ## Teiginiai
-- t-004
+
+- t-001
   teiginys: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-002
   teiginys: 'Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytautas,
+    Ordinui
+    akys nušvito ir visos viltys nukrypo į jo pusę. Iš jo, kryžiuo­
+    čių akimis žiūrint, buvo galima gerokai pasipelnyti. Vytautas,
     pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
     są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
     ją atgauti^2 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-    - t-005
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/tėviškė]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/lenas]]

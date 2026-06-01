@@ -1,31 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: '„Lietuvos Jeruzalė“ „Jerušalaim de Lite“'
-sukurta: '2026-05-18'
-variantai:
-  - 'Lietuvos Jeruzalė'
-  - 'Jerušalaim de Lite'
-  - 'Šiaurės Jeruzalė'
-aliases: []
-datos:
-  - 'XVII–XVIII a.'
-  - 'XVIII a.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
-  - 'XVIII'
-  - 'XIX'
-  - 'XVI'
-date_start: '1600'
-date_end: '1899'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-18'
+datos:
+  - '1600 m.'
+  - '1899 m.'
+date_start: '1600'
+date_end: '1899'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XVI'
+  - 'XIX'
 ---
 # „Lietuvos Jeruzalė“ „Jerušalaim de Lite“
 
@@ -34,28 +23,25 @@ tags:
 „Lietuvos Jeruzalė“ yra Vilniaus žydų kultūrinį statusą nusakanti formulė. Ištraukoje ji siejama su XVII–XVIII a. Vilniaus konkuravimu su Krokuva, Liublinu ir Lvovu, o XVIII a. Vilnius pavadinamas „Lietuvos Jeruzale“ (Jerušalaim de Lite) kaip žydų gyvenimo pastovumo ir kultūros klestėjimo simbolis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Šis pavadinimas ištraukoje aiškinamas kaip žydų gyvenimo pastovumo ir kultūros klestėjimo simbolis.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Pirmoji ištrauka pagrindžia „Lietuvos Jeruzalės“ idėją žydų kultūros centrų konkurencijos kontekste.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aišku,
@@ -68,13 +54,11 @@ tags:
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Antroji ištrauka pateikia pavadinimą ir jo variantą „Jerušalaim de Lite“ bei paaiškina simbolinę reikšmę.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau kartu litvakais imta vadinti žydus, kuriems
@@ -86,9 +70,7 @@ tags:
     no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
     - t-003

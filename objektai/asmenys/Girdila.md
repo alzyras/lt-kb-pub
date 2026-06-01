@@ -26,12 +26,12 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad girdila ir patraukė su jais prie Aukaimio pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių.'
   pagrindžia:
     - c-001
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

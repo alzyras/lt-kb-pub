@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Bresto taika'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -18,47 +15,74 @@ tags:
 Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta. 1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Bresto taikos derybose Vokietijai pravertė rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Bresto taikos derybose Vokietijai pravertė rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Bresto taikos derybose Vokietijai pravertė rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Žinoma, Vokietijai ši rezoliucija praver-
+    Tačiau kitoje dalyje
+    Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą
+    Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta
+    keturiomis konvencijomis (karinė, transporto, finansų, muitų). Nebeliko
+    nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-
     tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
     Lietuvos Tarybos delegacija net nebuvo pakviesta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su
-    Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
-    tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kabinetas
+    pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
+    Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
+    cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
+    metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
+    kariuomenę. 1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su
+    Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
+    tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nebeliko
+    nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-
+    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
+    Lietuvos Tarybos delegacija net nebuvo pakviesta.
+    Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
+    11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
+    skilo ir pati Taryba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

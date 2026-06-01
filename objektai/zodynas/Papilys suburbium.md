@@ -28,16 +28,16 @@ amziai:
 - t-001
   teiginys: '387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Tho­ mas de Aldenburg Commendator de Raganita et 44 fratres cum 400 viris de Sambia et Nattangia improvise intra­ verunt in ortu diei suburbium Castri Gedemini, et incendio destruxerunt etc.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai­
@@ -59,7 +59,7 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitai vyko viešpataujant Lie­

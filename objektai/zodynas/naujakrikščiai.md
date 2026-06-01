@@ -20,13 +20,14 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 ## Teiginiai
 
 - t-001
-  teiginys: 'Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbaigė taip: „Bažnyčios tarnams trukdo skleisti tarp pagonių Evangelijos šviesą ir atsako jiems reikalingo sau­ gumo keliaujant per anų žemes, kad naujakrikščius apdeda nepakeliama prievolių.'
+  teiginys: 'Rygos arkivyskupas skundėsi, kad kryžiuočiai naujakrikščius apkrovė nepakeliama prievolių našta.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rygos arkivyskupas skundėsi, kad kryžiuočiai naujakrikščius apkrovė nepakeliama prievolių našta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po slapto jų pokal­
@@ -84,6 +85,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
 - [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
 - [[objektai/zodynas/konsistorija]]
-- [[objektai/autoriai/Łukasz Dawid]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/naujakrikštis]]

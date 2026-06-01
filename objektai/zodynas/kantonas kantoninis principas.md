@@ -18,34 +18,34 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'
-  pagrindžia:
-    - c-003
-
-- t-005
-  teiginys: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Tikėtiniau, kad kantoninė Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
+  teiginys: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'
   pagrindžia:
     - c-001
 
 - t-002
+  teiginys: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Tikėtiniau, kad kantoninė Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
+  pagrindžia:
+    - c-003
+
+- t-005
   teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
@@ -60,7 +60,7 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -74,9 +74,9 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per tris savaites P. Himansas Šveicarijos pavyzdžiu paruošė Lietuvos
@@ -88,9 +88,9 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai federacijos
@@ -106,9 +106,9 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-004
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
@@ -122,7 +122,7 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-006
   santrauka: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'

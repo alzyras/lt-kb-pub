@@ -1,13 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - kunigas
@@ -36,16 +33,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.
@@ -55,11 +51,9 @@ Nenurodyta
     bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
     džiauninkai). Labai maža tuomet buvo belikę katalikų kunigų,
     o dar mažiau jų mokėjo lietuviškai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

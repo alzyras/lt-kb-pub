@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Berno konferencija (1916 m. kovo 1–5 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1916 m.'
+date_start: '1916'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Berno konferencija (1916 m. kovo 1–5 d.)
 
@@ -31,16 +34,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1916 m. kovo 1–5 d. Berno konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1916 m. kovo 1–5 d. Berno konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypačiai Amerikos lietuvių
@@ -50,11 +52,9 @@ Nenurodyta
     mėn. 1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų
     propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepri-
     klausomybės šūkį ir lietuvių tautos savarankiškumą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

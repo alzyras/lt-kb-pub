@@ -27,29 +27,29 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varmės vyskupas, brolio Fridricho iš Libencelės, savo fogto, pastangomis pastatydino pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes, netgi vyskupų valdas (žr.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie 80 lietuvių žūtį 1316 metais Tuo metu brolis Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų nužygiavo link Lietuvos tuo metu, kai 80 lietuvių, išskirtų saugoti Bisenės pilies, turėjo iš čia pasitraukti, o į jų vietą ateiti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad antra kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150 vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-004
   teiginys: 'Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina, Stanta, Trinta, Misinas ir daug kitų, vertų amžinos užmaršties, kurie, ryžęsi šiai piktadarystei, taip pasitvarkė, kad minėtasis Stanta su savo bendrais slaptai bei klastingai įsibrovė į Bartenšteino pilį ir.'
   pagrindžia:
-    - c-001
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   pagrindžia:
     - t-002
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais ir tuo pat laiku Eberhardas,
@@ -92,7 +92,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   pagrindžia:
     - t-003
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose
@@ -130,7 +130,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

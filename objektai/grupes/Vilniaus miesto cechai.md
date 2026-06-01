@@ -1,30 +1,16 @@
 ---
 tipas: grupe
-pavadinimas: "Vilniaus miesto cechai"
-sukurta: '2026-05-27'
-variantai:
-  - "Vilniaus miesto cechų"
-  - "Contuberniis Civitatis nostrae Vilnen."
-aliases: []
+pavadinimas: 'Vilniaus miesto cechai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1584 m. Stepono Batoro dekreto kontekstas"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1584 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
+  - '1584 m.'
+date_start: '1584'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XVI"
-date_start: "1584"
-date_end: "1584"
-vaidmenys:
-  - "miesto amatų cechų visuma"
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'XVI'
 ---
 # Vilniaus miesto cechai
 
@@ -42,16 +28,15 @@ Vilniaus miesto cechai minimi 1584 m. dekrete kaip miesto amatų cechų visuma, 
 Vilniaus miesto amatų cechų visuma.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1584 m. Steponas Batoras paskelbė Steponą Genserį ir kitus Vilniaus vyskupijos jurisdikcijai priklausančius asmenis laisvus nuo Vilniaus miesto cechų."
+  teiginys: '1584 m. Steponas Batoras paskelbė Steponą Genserį ir kitus Vilniaus vyskupijos jurisdikcijai priklausančius asmenis laisvus nuo Vilniaus miesto cechų.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Dekretas dėl atleidimo nuo Vilniaus miesto cechų.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes su
@@ -70,11 +55,9 @@ Vilniaus miesto amatų cechų visuma.
     šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
     sų karaliavimo devintaisiais.
     Karalius Steponas
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -84,7 +67,6 @@ Vilniaus miesto amatų cechų visuma.
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/Cechas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Steponas Genseris]]
 - [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]]

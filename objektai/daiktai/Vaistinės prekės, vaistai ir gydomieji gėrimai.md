@@ -1,36 +1,18 @@
 ---
 tipas: daiktas
-pavadinimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai"
-sukurta: '2026-05-27'
-variantai:
-  - vaistinės prekės
-  - medikamentai
-  - preparatai
-  - gydomieji gėrimai
-  - vaistai
-aliases: []
+pavadinimas: 'Vaistinės prekės, vaistai ir gydomieji gėrimai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1426-1780 m. gydymo ir vaistinių kontekstai"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1426 m.'
-  - '1772 m.'
   - '1780 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1426'
+date_end: '1780'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVIII'
-date_start: '1426'
-date_end: '1780'
-patikimumas: vidutinis
-atnaujinta: '2026-05-27'
-tags: []
 ---
 # Vaistinės prekės, vaistai ir gydomieji gėrimai
 
@@ -39,6 +21,7 @@ tags: []
 Vaistinės prekės apima žaliavas, užjūrio ir vietinius preparatus, medikamentus, degtinę, vaistus ir gydomuosius gėrimus. Šie objektai šaltinyje siejami su vaistinės atsargų apskaita, pajamomis, draudimu pardavinėti degtinę ir gydymu be užmokesčio.
 
 ## Pavadinimai šaltiniuose
+
 - Medžiagų in crudo
 - preparatų
 - medikamentų
@@ -47,62 +30,58 @@ Vaistinės prekės apima žaliavas, užjūrio ir vietinius preparatus, medikamen
 - gydomuosius gėrimus
 
 ## Laikotarpis ir datos
+
 - 1426 m.
 - 1772-1773 m.
 - 1780 m.
 
 ## Kas tai
+
 Gydymui, vaistinių apyvartai ir sergančiųjų priežiūrai naudoti materialūs preparatai, žaliavos ir gėrimai.
 
 ## Naudojimas
+
 Naudoti pardavimui, gydymui ir nemokamam sergančiųjų aprūpinimui.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos."
+  teiginys: 'Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo."
+  teiginys: 'Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų."
+  teiginys: 'Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
+  teiginys: 'Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­ nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­ miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
+  pagrindžia:
+    - c-006
+
+- t-005
   teiginys: 'Betgi pastaraisiais laikais, kelių vaisti­ ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip dabar (1780 metais).'
   pagrindžia:
     - c-004
-- t-007
-  teiginys: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
+
+- t-006
+  teiginys: 'Aleksandro laikais Vilnius pirmą kartą pažino gydytoją ir vaistinę.'
   pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­ nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­ miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: 'Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­ žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei­ kia tenebantur be užmokesčio gydyti ir duoti vaistų.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
-  pagrindžia:
-    - c-010
+    - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Vaistinės medžiagos ir medikamentai buvo apskaityti, persverti ir įvertinti.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -118,15 +97,13 @@ Nenurodyta
     medžiagų surašymo, kiek sugebėta, persverta ir įvertinta, ir
     tų visų medikamentų bei medžiagų vertė buvo mažesnė 28
     707 auksinais ir 12 grašių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Degtinės laikymas ir pardavinėjimas siejamas su vaistinės pajamomis.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Medžiagų in crudo [žaliavų], užjūrio ir vietinių prepara­
@@ -145,15 +122,13 @@ Nenurodyta
     vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
     sorte krito. Dabar pajamos priklauso vien tik nuo medika­
     mentų, žmonių sveikatos ar ligų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Medikamentai buvo duodami kolegijoje sergantiems asmenims.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kas sudaro puri lucri [gryno pelno] 3 170 auk. 2 gr.
@@ -161,15 +136,13 @@ Nenurodyta
     žymėtina], kad nemaža medikamentų dalis buvo išleista in
     Collegio sergantiems asmenims, kuriuos vaistininkams rei­
     kia tenebantur be užmokesčio gydyti ir duoti vaistų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Betgi pastaraisiais laikais, kelių vaisti­ ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip dabar (1780 metais).'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi pastaraisiais laikais, kelių vaisti­
@@ -192,16 +165,19 @@ Nenurodyta
     sorte krito.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-007
-  santrauka: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
+    - t-005
+
+- c-005
+  santrauka: 'Aleksandro laikais Vilnius pirmą kartą pažino gydytoją ir vaistinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    A liteho
+    A
+    za srebro i za robotu i za mied' i za wsi
+    rzeczy, szto k mincy prisłuchaiut,
+    wyszło 50 tysiacz kop i szest tysiacz kop.
+    a 40 kop. i kopa i 26 hroszej. A liteho
     236
 
     ## Puslapis 253
@@ -221,13 +197,11 @@ Nenurodyta
     diena, 2 indiktas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­ nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­ miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
+    - t-006
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik kai Aleksandrą kelerius metus nuolat ka­
@@ -245,65 +219,9 @@ Nenurodyta
     nebuvo matyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­ žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei­ kia tenebantur be užmokesčio gydyti ir duoti vaistų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2 gr.
-    Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­
-    žymėtina], kad nemaža medikamentų dalis buvo išleista in
-    Collegio sergantiems asmenims, kuriuos vaistininkams rei­
-    kia tenebantur be užmokesčio gydyti ir duoti vaistų. O Colle­
-    gium, imdama iš vaistinės kas mėnesį po 100 auks.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    678.
-    46
-    Aleksandras iš Balino Balinskis, Kro­
-    kuvos bajoraitis nuo Olkušo, pa­
-    skendęs alchemijoje, ėmė taip gar­
-    sėti savo gydymo sėkme, kad, nors
-    vargšus ir Krokuvos miestiečius vel­
-    tui gelbėjęs patarimais bei vaistais,
-    tačiau, kai ir turtingieji pradėjo prie
-    jo skverbtis, nevengdamas prisi­
-    kimšti kišenes, ėmęs nuo jų po 100
-    dukatų. Miechovita, Bielskis, o ypač
-    Strijkovskis savo metraščiuose, su­
-    pykę už karaliaus Aleksandro gydy­
-    mą Vilniuje, kuris vos neužduso per
-    ilgai laikomas stiprių žolių garo vo­
-    nioje, savo metraščiuose vadino jį
-    233
-
-    ## Puslapis 250
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    banga vėl plūstelėjo į Lietuvą, karalius Aleksandras, nors
-    ir nusilpęs, kad sutaikytų susipykusius bajorus su Glins­
-    kiu, savo numylėtiniu, ir paakintų juos atremti pagonis, pa­
-    judėjo iš Vilniaus į Lydą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -317,12 +235,10 @@ Nenurodyta
 - [[objektai/zodynas/deficitas talonai]]
 - [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]
 - [[objektai/asmenys/Aleksandras]]
-- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/asmenys/Rusdorfas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/magistras]]
@@ -333,7 +249,6 @@ Nenurodyta
 - [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
 - [[objektai/zodynas/špitolė prieglauda]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Paulius Rusdorfas]]

@@ -1,41 +1,18 @@
 ---
-tipas: 'ivykis'
-pavadinimas: "Biržų (Medeikių) mūšis (1863 m.)"
-sukurta: '2026-05-02'
-variantai:
-  - 'Biržų kautynės'
-  - 'Biržų girios kautynės'
-  - 'Medeikių mūšis'
-  - 'Biržų (Medeikių) mūšis'
-aliases:
-  - 'Biržų (Medeikių) mūšis'
+tipas: ivykis
+pavadinimas: 'Biržų (Medeikių) mūšis (1863 m.)'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1863 m. gegužės 7–9 d.'
 datos:
-  - '1863 m. gegužės 7–9 d.'
-periodas: 'naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XIX'
+  - '1863 m.'
 date_start: '1863'
-date_end: '1863'
-vaidmenys: []
-dalyviai:
-  - 'Zigmantas Sierakauskas'
-  - 'Antanas Mackevičius'
-  - 'Boleslovas Kolyška'
-  - 'Petras Vivulskis'
-  - 'I. Ganeckis'
-  - 'mjr. Merlinas'
-  - 'gen. mjr. I. Ganeckio rusų pajėgos'
-  - 'sukilėliai'
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
+amziai:
+  - 'XIX'
 ---
 # Biržų (Medeikių) mūšis (1863 m.)
 
@@ -44,104 +21,56 @@ tags:
 Šiame gabale mūšis aprašomas keliais etapais: Medeikiuose, Biržų girioje, prie Šniurkiškių palivarko ir mūšio pasekmėse. 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti 1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: '1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: '1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Gegužės 8 d. gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-001
   teiginys: 'Biržų girios kautynės buvo didžiausios per 1863–1864 m. sukilimą, jose dalyvavo apie 1500 sukilėlių.'
   pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-009
+    - c-002
+
+- t-002
   teiginys: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   pagrindžia:
     - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
+
+- t-003
+  teiginys: '1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-004
+  teiginys: '1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
+  pagrindžia:
+    - c-001
+
+- t-006
+  teiginys: 'Gegužės 8 d. gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    @ Gegužės 7 d. atvykę į Medeikius rusų
-    pėstininkai tris valandas atakavo lietu-
-    vių gynybines pozicijas.
-
-    © Sukilėliams pamėginus apeiti rusus iš
-    flangų, šie vengdami apsupimo buvo
-    priversti atsitraukti.
-
-    © Lietuvių pajėgos persikėlė į Biržų gi-
-    rios pakraštį.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: '1863 m. gegužės 8 d. atvykusios gausesnės rusų pajėgos užpuolė stovyklavusius sukilėlius; Z. Sierakauskas buvo sužeistas; pasipriešinimas ėmė silpti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    @ Gegužės 8 d. atvykusios naujos ir gau-
-    sesnės gen. mjr. I. Ganeckio rusų pajė-
-    gos užpuolė stovyklavusius sukilėlius.
-
-    © Rusai stipriausiai smogė silpniausiam
-    sukilėlių sparnui, išsklaidė P. Vivulskio
-    sukilėlius ir apėjo likusias lietuvių
-    pajėgas.
-
-    (G) Buvo sužeistas sukilėlių vadas
-
-    Z. Sierakauskas, po dviejų valandų
-
-    kovos pasipriešinimas ėmė silpti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Gegužės 8 d. gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešimtą valandą ryto gen. mjr.
@@ -152,15 +81,13 @@ Nenurodyta
     tinkamai išdėstyti gynybai savo šaulių,
     klampioje vietovėje sukilėlių kavalerija
     buvo neveiksminga.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'Biržų girios kautynės buvo didžiausios per 1863–1864 m. sukilimą, jose dalyvavo apie 1500 sukilėlių.'
+    - t-006
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kautynės Biržų girioje buvo didžiau-
@@ -181,15 +108,55 @@ Nenurodyta
     1863 m. pabaigoje sukilėlių kovos ėmė
     silpti. Rusų karinei vadovybei pavyko
     suimti daugelį žymių sukilėlių vadų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
+
+- c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    @ Gegužės 7 d. atvykę į Medeikius rusų
+    pėstininkai tris valandas atakavo lietu-
+    vių gynybines pozicijas.
+
+    © Sukilėliams pamėginus apeiti rusus iš
+    flangų, šie vengdami apsupimo buvo
+    priversti atsitraukti.
+
+    © Lietuvių pajėgos persikėlė į Biržų gi-
+    rios pakraštį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    @ Gegužės 8 d. atvykusios naujos ir gau-
+    sesnės gen. mjr. I. Ganeckio rusų pajė-
+    gos užpuolė stovyklavusius sukilėlius.
+
+    © Rusai stipriausiai smogė silpniausiam
+    sukilėlių sparnui, išsklaidė P. Vivulskio
+    sukilėlius ir apėjo likusias lietuvių
+    pajėgas.
+
+    (G) Buvo sužeistas sukilėlių vadas
+
+    Z. Sierakauskas, po dviejų valandų
+
+    kovos pasipriešinimas ėmė silpti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-005
-  santrauka: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos
@@ -206,13 +173,11 @@ Nenurodyta
 
     © Lietuvių pajėgos persikėlė į Biržų gi-
     rios pakraštį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

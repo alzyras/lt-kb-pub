@@ -1,34 +1,24 @@
 ---
 tipas: grupe
 pavadinimas: 'Radvilų giminė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1493 m.'
-  - '1541 m.'
-  - '1547 m.'
-  - '1576 m.'
   - '1586 m.'
   - '1828 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
-  - 'XIX'
 date_start: '1493'
 date_end: '1828'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XV'
+  - 'XIX'
 ---
 # Radvilų giminė
 
@@ -37,37 +27,75 @@ tags:
 Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net ir prie visiško sunykimo ribos, po tiek amžių trukusios val­ džios ir pasisekimo, stebina savo didybe. Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį. Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net ir prie visiško sunykimo ribos, po tiek amžių trukusios val­ džios ir pasisekimo, stebina savo didybe.'
+  teiginys: 'Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.'
   pagrindžia:
-    - c-001
+    - c-006
+
 - t-002
   teiginys: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
   pagrindžia:
-    - c-002
+    - c-005
+
 - t-003
-  teiginys: 'Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.'
+  teiginys: 'Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net ir prie visiško sunykimo ribos, po tiek amžių trukusios val­ džios ir pasisekimo, stebina savo didybe.'
   pagrindžia:
-    - c-003
+    - c-002
+
 - t-004
-  teiginys: 'Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS VII DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ, RAŠYTŲ RADVILOMS, TURINYS: APIE MUITUS IR MOKESČIUS VILNIAUS PIRKLIAMS IR MIESTIEČIAMS Autentiškų karaliaus Stepono laiškų, rašytų.'
+  teiginys: '1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.'
   pagrindžia:
     - c-004
+
 - t-005
+  teiginys: 'Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų.'
+  pagrindžia:
+    - c-001
+
+- t-006
   teiginys: 'Reg­ ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad neprieštarauja šių padidintų muitų išreikalavimui, bet sa­ vuoju senatoriaus autoritetu ir savo giminės iškilumu bei kilmingumu kad netgi panorėtų ir kitus priversti paklusti šiam sprendimui.'
   pagrindžia:
-    - c-005
-- t-007
-  teiginys: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
-  pagrindžia:
-    - c-008
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net ir prie visiško sunykimo ribos, po tiek amžių trukusios val­ džios ir pasisekimo, stebina savo didybe.'
+  santrauka: 'Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
+    šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­
+    dešimtaisiais.
+    Karalius ŽYGIMANTAS AUGUSTAS
+
+    ## Puslapis 344
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    VII
+    DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,
+    RAŠYTŲ RADVILOMS, TURINYS:
+    APIE MUITUS IR MOKESČIUS
+    VILNIAUS PIRKLIAMS IR MIESTIEČIAMS
+    Autentiškų karaliaus Stepono laiškų, rašytų Radviloms,
+    rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra
+    du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai
+    ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­
+    jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­
+    statyto muito mokesčio.
+    Viename tų laiškų, rašytame iš Marienburgo 1576 metų
+    rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­
+    lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
+    to tarybos, prie jo esančios ir žinančios skubiausiai
+    tvarkytinus Respublikos reikalus, sutikimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų
@@ -130,13 +158,58 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     pavydą ar panieką32.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+    - t-003
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Anno D-ni M. D. LXXVI. Reg­
+    ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad
+    neprieštarauja šių padidintų muitų išreikalavimui, bet sa­
+    vuoju senatoriaus autoritetu ir savo giminės iškilumu bei
+    kilmingumu kad netgi panorėtų ir kitus priversti paklusti
+    šiam sprendimui, nes tai neprieštarauja kitados karaliaus
+    Žygimanto Augusto priimtam nutarimui, taip pat mūsų at­
+    naujintų ir pataisytų nustatytų mokesčių išieškojimui. O la­
+    biausiai [pageidaujame], kad Jūsų Didenybė Vilniaus mies­
+    te pagal savo pareigą įsakytų Vilniaus miestiečiams ir
+    pirkliams neprieštaraujant apskaičiuoti ir sumokėti šiuos
+    muitus, be to, ir vadinamuosius Czopowe i Szosowe mokes­
+    čius taip, kaip šiais metais visi mūsų miestai sumokėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-004
+  santrauka: '1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Teodoras Sku­
+    minas, LDK iždininkas.
+    Šiame laiške po parašais yra penki antspaudai.
+    356
+
+    ## Puslapis 373
+
+    IV KNYGA
+    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
+    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
+    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
+    1493 METAIS
+    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
+    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
+    4to, puikiausiai išsilaikęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčią, visą mū­
@@ -158,13 +231,11 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     vesnį būstą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.'
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Praesentibus Reverendis illustribus
@@ -201,156 +272,9 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     tos ir atgaivintos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS VII DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ, RAŠYTŲ RADVILOMS, TURINYS: APIE MUITUS IR MOKESČIUS VILNIAUS PIRKLIAMS IR MIESTIEČIAMS Autentiškų karaliaus Stepono laiškų, rašytų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
-    šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­
-    dešimtaisiais.
-    Karalius ŽYGIMANTAS AUGUSTAS
-
-    ## Puslapis 344
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    VII
-    DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,
-    RAŠYTŲ RADVILOMS, TURINYS:
-    APIE MUITUS IR MOKESČIUS
-    VILNIAUS PIRKLIAMS IR MIESTIEČIAMS
-    Autentiškų karaliaus Stepono laiškų, rašytų Radviloms,
-    rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra
-    du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai
-    ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­
-    jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­
-    statyto muito mokesčio.
-    Viename tų laiškų, rašytame iš Marienburgo 1576 metų
-    rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­
-    tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­
-    lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
-    to tarybos, prie jo esančios ir žinančios skubiausiai
-    tvarkytinus Respublikos reikalus, sutikimu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Reg­ ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad neprieštarauja šių padidintų muitų išreikalavimui, bet sa­ vuoju senatoriaus autoritetu ir savo giminės iškilumu bei kilmingumu kad netgi panorėtų ir kitus priversti paklusti šiam sprendimui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    LXXVI. Reg­
-    ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad
-    neprieštarauja šių padidintų muitų išreikalavimui, bet sa­
-    vuoju senatoriaus autoritetu ir savo giminės iškilumu bei
-    kilmingumu kad netgi panorėtų ir kitus priversti paklusti
-    šiam sprendimui, nes tai neprieštarauja kitados karaliaus
-    Žygimanto Augusto priimtam nutarimui, taip pat mūsų at­
-    naujintų ir pataisytų nustatytų mokesčių išieškojimui. O la­
-    biausiai [pageidaujame], kad Jūsų Didenybė Vilniaus mies­
-    te pagal savo pareigą įsakytų Vilniaus miestiečiams ir
-    pirkliams neprieštaraujant apskaičiuoti ir sumokėti šiuos
-    muitus, be to, ir vadinamuosius Czopowe i Szosowe mokes­
-    čius taip, kaip šiais metais visi mūsų miestai sumokėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-007
-  santrauka: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiame laiške po parašais yra penki antspaudai.
-    356
-
-    ## Puslapis 373
-
-    IV KNYGA
-    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
-    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
-    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
-    1493 METAIS
-    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
-    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
-    4to, puikiausiai išsilaikęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Apie tai norėjome Jūsų Malonybei pranešti.
-    Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks
-    užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­
-    bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­
-    monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­
-    loningam bičiuliui.
-    354
-
-    ## Puslapis 371
-
-    IV KNYGA
-    B) ATVIRAS LIETUVOS PONŲ
-    TARYBOS LAIŠKAS
-    DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ
-    TURKIJOS ČLAUŠUI IBRAHIMUI,
-    SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
-    VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T,
-    O JO NESANT VILNIUJE, VAIVADIJOS VIETININKUI
-    KUNIGAIKŠČIUI JONUI BOLESLAVOVIČIUI SVIRSKIUI IR
-    VILNIAUS VAITUI STANISLOVUI SABINAI,
-    ĮPAREIGOJANTIS VILNIAUS MIESTE PARINKTI
-    GERUS NAMUS APSISTOTI TAM ČIAUŠUI IR
-    ATITINKAMAM LAIKUI GARANTUOTI SAUGŲ GYVENIMĄ
-    (Iš originalo)
-    Šviesiajam dauggaliui ponui Jo Malonybei Kristupui Rad­
-    vilai, Dubingių ir Biržų kunigaikščiui, Vilniaus vaivadai, Lie­
-    tuvos Didžiosios Kunigaikštystės lauko etmonui, Solecko, Ūž-
-    endovo ir Borisovo seniūnui, Eustachijus Valavičius, Vilniaus
-    kaštelionas, Lietuvos Didžiosios kunigaikštystės kancleris, Be-
-    restos ir Kobrino seniūnas, Mikalojus Manvydas Dorohostais-
-    kis, Polocko vaivada, Lepelio seniūnas, Šerešovo valdytojas
-    ir Veliuonos tėvonis Žemaičių Gondingos ir Baisogalos že­
-    mėje, Mikalojus Tolvaišas, Žemaičių kaštelionas, Rodūnios
-    seniūnas, Leonas Sapiega, Lietuvos Didžiosios Kunigaikštys­
-    tės pakancleris, Slonimo, Markovo ir Medilo seniūnas, Teodo­
-    ras Skuminas, Krašto iždininkas ir Lietuvos Didžiosios Kuni­
-    gaikštystės raštininkas, Breslaujos ir Alytaus seniūnas, - o jo
-    malonybės nesant, tuo laiku - ponui Vilniaus vaivadai, Vil­
-    niaus vietininkui Jo Malonybei tenykščiam kunigaikščiui
-    355
-
-    ## Puslapis 372
-
-    VILNIAUS MIESTO ISTORIJA // TOMAS
-    Jonui Boleslavovičiui Svirskiui, jo karališkosios malonybės
-    maršalkai, Maišiagalos valdytojui ir taip pat gerbiamam Sta­
-    nislovui Sabinai, Jo Malonybės karaliaus sekretoriui, Vilniaus
-    vaitui, kad tuo laiku Turkijos imperatoriaus čiaušas Ibrahi-
-    mas, atvažiavęs nuo didžiojo Maskvos kunigaikščio, turėda­
-    mas tam
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -358,16 +282,12 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/zodynas/Czopowe]]
-- [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Manvydas]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Skyrai]]
 - [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/zodynas/Szosowe]]
 - [[objektai/asmenys/Teodoras]]
@@ -375,12 +295,9 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 - [[objektai/zodynas/imunitetai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/muitas thelonea]]

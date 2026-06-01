@@ -25,13 +25,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '45 Bohusz Summaryusz Aktów Kapi­ tuły Wileń, MSS., p. 5 pasakoja, kad „kapitula, gavusi žinių apie kažko­ kias naujas sektas: Liuterio, Cvinglio ir naujosios krikščionybės, kad jie 283 ## Puslapis 300 VILNIAUS MIESTO ISTORIJA// TOMAS 1556 metų tapo visų.'
+  teiginys: 'Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jesu, Pars I, p. 5.

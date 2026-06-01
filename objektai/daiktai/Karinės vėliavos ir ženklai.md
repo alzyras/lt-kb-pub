@@ -42,21 +42,21 @@ Nenurodyta
 - t-001
   teiginys: 'Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Gynėjai iškėlė vėliavas su kryžiais, kaip ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­ vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie lio skundų ir ginčų tarp Jogailos ir Ordino priežastis; pastarasis smar­ kiai gynėsi.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Atsi­ traukdamas Vytautas prarado nemaža saviškių, tarp jų Alšėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­ ko ir keturių kariuomenės ženklų53.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, ne­
@@ -74,7 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     39
@@ -92,7 +92,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­

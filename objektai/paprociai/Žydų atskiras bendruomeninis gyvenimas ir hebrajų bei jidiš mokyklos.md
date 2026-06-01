@@ -38,12 +38,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Apskritai žydai gyveno atskirą bendruomeninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas kėlė Lietuvos žydus gyventi į Palestiną.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
   pagrindžia:
     - c-001
@@ -70,7 +70,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -85,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

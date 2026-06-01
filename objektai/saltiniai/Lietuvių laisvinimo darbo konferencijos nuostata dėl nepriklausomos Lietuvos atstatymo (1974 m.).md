@@ -1,16 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvių laisvinimo darbo konferencijos nuostata dėl nepriklausomos Lietuvos atstatymo (1974 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1974 m.'
+date_start: '1974'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Lietuvių laisvinimo darbo konferencijos nuostata dėl nepriklausomos Lietuvos atstatymo (1974 m.)
 
@@ -19,18 +22,15 @@ tags:
 Jos siekė veikti išvien ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1974 m. lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo, remiantis lietuvių tautos valia.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1974 m. lietuvių laisvinimo darbo konferencija patvirtino nuostatą siekti nepriklausomos Lietuvos atstatymo, remiantis lietuvių tautos valia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios
@@ -41,10 +41,8 @@ Jos siekė veikti išvien ir pasitarnauti Lietuvos laisvės bylai tarptautiniu m
     1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios lietuvių lais-
     vinimo darbo konferencijos patvirtinta nuostata „siekti nepriklausomos
     Lietuvos atstatymo, remiantis nekintama lietuvių tautos valia“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

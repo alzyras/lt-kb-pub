@@ -1,9 +1,6 @@
 ---
 tipas: posakis
 pavadinimas: 'Drang nach Osten'
-sukurta: '2026-05-05'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -12,24 +9,13 @@ datos:
   - '1430 m.'
   - '1930 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-bukle: juodrastis
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-05'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Drang nach Osten
 
@@ -42,38 +28,38 @@ tags: []
 - Pagrindinė forma: Drang nach Osten
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Bet kaip ten bebūtų, vis dėlto mes tu­ rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­ duotas smūgis vokiečių siekimui — „Drang nach Osten“ — veržtis į Rytus.'
+  teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bet kaip ten bebūtų, vis dėlto mes tu­
+    Jogaila taip pat IX. 20 pasitraukė, ir tokiu būdu Marien­
+    burgas nebuvo paimtas. Bet kaip ten bebūtų, vis dėlto mes tu­
     rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
     duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
     veržtis į Rytus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Bet kaip ten bebūtų, vis dėlto mes tu­ rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­ duotas smūgis vokiečių siekimui — „Drang nach Osten“ — veržtis į Rytus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bet kaip ten bebūtų, vis dėlto mes tu­
+    20 pasitraukė, ir tokiu būdu Marien­
+    burgas nebuvo paimtas. Bet kaip ten bebūtų, vis dėlto mes tu­
     rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
     duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
     veržtis į Rytus.
@@ -81,9 +67,7 @@ tags: []
     stabas apie mūšio organizaciją, vadovybę ir vietą istorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

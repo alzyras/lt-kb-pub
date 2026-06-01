@@ -28,26 +28,27 @@ amziai:
 - t-001
   teiginys: '1396-ieji me­ tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties bei alpių karščių.'
   pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Bet tik kalną griūtis palietė, mūrai išliko sveiki.'
-  pagrindžia:
-    - c-004
-
-- t-002
-  teiginys: 'Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.'
-  pagrindžia:
     - c-002
 
-- t-003
-  teiginys: '- Praneša man vėliau, kad įvyko griū­ tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki" priežasties.'
+- t-002
+  teiginys: 'Bet tik kalną griūtis palietė, mūrai išliko sveiki.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
+  santrauka: 'Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
@@ -63,9 +64,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitais metais jis buvo išvaduotas dviejų jam palan­
@@ -80,7 +81,7 @@ amziai:
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - Patsai būtų lygiai taip pat
@@ -92,9 +93,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Plg. Ind. cod. kist. dipt. Livoniae)
@@ -108,4 +109,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003

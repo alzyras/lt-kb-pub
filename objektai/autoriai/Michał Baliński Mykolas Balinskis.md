@@ -28,69 +28,70 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis).'
-  pagrindžia:
-    - c-007
-
-- t-010
-  teiginys: 'Balinskio veikalo vertimą.'
   pagrindžia:
     - c-010
 
 - t-002
-  teiginys: 'Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose.'
-  pagrindžia:
-    - c-002
-
-- t-001
-  teiginys: 'Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus.'
-  pagrindžia:
-    - c-001
-
-- t-011
-  teiginys: '45 ## Puslapis 494 Mykolas Balinskis VILNIAUS MIESTO ISTORIJA Iš lenkų kalbos vertė Ona Slavėnaitė, Irena Katilienė Iš lotynų kalbos vertė Jūratė Dalia Baronienė Redaktorė Skirmantė Ramanauskaitė Meninis redaktorius Romas Dubonis Maketuotoja Danutė Navickienė.'
-  pagrindžia:
-    - c-011
-
-- t-005
-  teiginys: 'Balinskio Vilniaus miesto istorijos dalis.'
-  pagrindžia:
-    - c-005
-
-- t-009
-  teiginys: 'w fUUnie/, ## Puslapis 222 206 ## Puslapis 223 MYKOLAS B A L I N S K I S n i a u s MIESTO ISTORIJA Haec omnia, quae credidi esse patriae necessaria, quae scribere mihi fas erat, vobis exponere arbitror: vestrum judicium, non de mea voluntate, sed de opere.'
-  pagrindžia:
-    - c-009
-
-- t-012
-  teiginys: 'M unchas: Melancholija ir šviesa Stasys Šalkauskis Raštai, IX tomas Vincas Vyčinas Raštai, III tomas ## Puslapis 496 MYKOLAS BALINSKIS galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios.'
-  pagrindžia:
-    - c-012
-
-- t-006
-  teiginys: 'Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos.'
-  pagrindžia:
-    - c-006
-
-- t-004
-  teiginys: 'Michał Baliński Mykolas Balinskis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.'
+  teiginys: 'Balinskio veikalo vertimą.'
   pagrindžia:
     - c-004
 
 - t-003
+  teiginys: 'Balinskis pa­ liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­ čiuose.'
+  pagrindžia:
+    - c-007
+
+- t-004
+  teiginys: 'Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus.'
+  pagrindžia:
+    - c-011
+
+- t-005
+  teiginys: 'Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė.'
+  pagrindžia:
+    - c-001
+
+- t-006
+  teiginys: 'Balinskio Vilniaus miesto istorijos dalis.'
+  pagrindžia:
+    - c-002
+
+- t-007
+  teiginys: 'Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.'
+  pagrindžia:
+    - c-006
+
+- t-008
+  teiginys: 'Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.'
+  pagrindžia:
+    - c-008
+
+- t-009
+  teiginys: 'Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui Malevskiui už gausius išrašus iš Lietuvos Metrikos.'
+  pagrindžia:
+    - c-005
+
+- t-010
+  teiginys: 'Michał Baliński Mykolas Balinskis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.'
+  pagrindžia:
+    - c-009
+
+- t-011
   teiginys: 'Balinskis prisipažįsta, kad Vilniaus miesto is­ torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje.'
   pagrindžia:
     - c-003
 
-- t-013
+- t-012
   teiginys: 'Michał Baliński Mykolas Balinskis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
   pagrindžia:
-    - c-013
+    - c-012
 
 ## Reikšmingi paminėjimai
 
-- c-011
+- c-001
+  santrauka: 'Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­
@@ -116,9 +117,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-005
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
@@ -132,7 +133,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-006
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -147,9 +148,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-011
 
-- c-010
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anastazija, Dobrynės kunigaikštie­
@@ -172,9 +173,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-002
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
@@ -188,9 +189,10 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-009
 
-- c-009
+- c-006
+  santrauka: 'Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     w fUUnie/,
@@ -253,9 +255,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-007
 
-- c-002
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
@@ -269,9 +271,10 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-012
+- c-008
+  santrauka: 'Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antologija. I knyga
@@ -314,9 +317,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-008
 
-- c-004
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šie vie­
@@ -332,9 +335,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-010
 
-- c-007
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
@@ -349,9 +352,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-001
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gimęs Lenkijos-Lie­
@@ -370,9 +373,9 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-013
+- c-012
   santrauka: 'Michał Baliński Mykolas Balinskis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -393,7 +396,7 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-012
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -428,3 +431,4 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

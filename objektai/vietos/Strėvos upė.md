@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Strėvos upė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - ordinas
@@ -27,22 +18,20 @@ tags:
 Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Niokotos galbūt plačiosios
@@ -58,15 +47,13 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
     Vitebsko, Smolensko, Polocko daliniai, su-
     telkti greičiausiai anksčiau suplanuotam
     Ordino puolimui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     O [lietuvių] karalius sušaukė didelę kariuomenę, kurioje dalyvauti
@@ -77,10 +64,8 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
     t. t. O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent
     Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
     vos penkios dešimtys nukauta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

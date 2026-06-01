@@ -29,29 +29,29 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad čia, pasak vietos žmonių, buvę du žuvingi ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183).'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 34, p. 107, 112; Remeika J., Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42; Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 34, p. 107, 112; Remeika J., Ką kalneliai.., p. 88; Matusas J., Senovės prūsų..., p. 54; LAA, 2, p. 143—144, 42; Lietuvininkai, p. 229—230; Basanavičius J., Iš gyvenimo vėlių..., p. 181—2).'
-  pagrindžia:
-    - c-003
-
-- t-004
   teiginys: 'Dusburgietis teigia, kad per 2 km į vakarus nuo Šereitlaukio yra apskrita kalva, kurioje kartais lokalizuojama minėta pilis, tačiau, iš paviršiaus žiūrint, ryškesnių įtvirtinimų pėdsakų kalvoje nepastebima (Basanavičius J., Iš gyvenimo vėlių..., p. 182; SZM, p. 288—289; Remeika J..'
-  pagrindžia:
-    - c-004
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
   pagrindžia:
     - c-001
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1344 m. čia minima  pilis — huse Sareibe
@@ -63,9 +63,9 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Didelė kalvos dalis, Nemuno paplauta,
@@ -78,9 +78,9 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į rytus nuo Įsruties (dab. Černiachovskas), deš. Vangrapės krante,
@@ -90,9 +90,9 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia, pasak vietos žmonių, buvę du žuvingi
@@ -102,4 +102,4 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

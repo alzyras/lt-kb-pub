@@ -1,24 +1,20 @@
 ---
-tipas: 'autorius'
+tipas: autorius
 pavadinimas: 'Antanas Klementas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1794'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Antanas Klementas
 
@@ -27,15 +23,15 @@ tags:
 Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Antanas Klementas 1794 m. revoliucijos laikais parašė „Žemaitišką dainelę“.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antanas Klementas 1794 m. revoliucijos laikais parašė „Žemaitišką dainelę“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vokiečių
@@ -45,11 +41,9 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
     Antanas Klementas. Žemaitiška
     dainelė, revoliucijos laikais
     rašyta... 1794 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

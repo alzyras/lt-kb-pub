@@ -24,12 +24,12 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad 599 D.— Dunemunde; vėliau vok. Dünemünde, dab. Veca Daugavgryva; XIII a. Ordino statytas įtvirtintas vienuolynas buvo XIV a. pradžioje perstatytas į pilį (Tuulse A., Die Burgen..., p. 268—270). Vienuolyno ir įtvirtinimų griuvėsiai išlikę prie senųjų Dauguvos.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 viešpaties metais, kitą dieną po švento Jokūbo, apaštalo (liepos 26), Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį599.'
   pagrindžia:
     - c-001
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -64,4 +64,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

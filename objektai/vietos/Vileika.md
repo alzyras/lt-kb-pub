@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vileika'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
@@ -26,16 +17,15 @@ tags:
 Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Ašmenos paviete.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vileikos miestelio apylinkės Ašmenos paviete buvo paskirtos mobilizacijos vieta.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vileikos miestelio apylinkės Ašmenos paviete buvo paskirtos mobilizacijos vieta.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1700 m. į respublikonų judėjimą
@@ -52,10 +42,8 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
     se - Bresto vaivadijoje, pasitelkę ir savo
     šalininkus, tarnus bei rekrūtus iš savo dvarų
     Lenkijoje - Voluinėje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

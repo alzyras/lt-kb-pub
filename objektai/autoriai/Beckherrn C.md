@@ -24,12 +24,12 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad ši pilaitė prie įėjimo į Notangą buvusi, kaip manoma, prie gyvenvietės Pilzen (Beckherrn C., Das „propugnaculum.., p. 299—300), kiek į šiaurę nuo jos, Knivitės aukštupio deš.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber.'
   pagrindžia:
     - c-002
@@ -65,7 +65,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

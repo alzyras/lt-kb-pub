@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Olesnickio'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vainiko klausimą tik į jo asmeninius interesus ir ambicijas ; tai kritiškai yra įrodyta^10.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Olesnickis buvo Dlugošo mokytojas, kurio įtakoje Dlugošas Vytauto vainiko klausimą neteisingai siejo su asmeniniais interesais.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Olesnickis buvo Dlugošo mokytojas, kurio įtakoje Dlugošas Vytauto vainiko klausimą neteisingai siejo su asmeniniais interesais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gausus ir platus laiškai^9 rodo, jog Vytautas prieš lenkų
@@ -44,11 +34,9 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
     yra įrodyta^10. Vytautui užgaunanti pasirodė Jogailos laikysena,
     kuris, pradžioje pritaręs Vytauto vainikavimuisi^11 , paskui atsistojo
     skersai kelio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

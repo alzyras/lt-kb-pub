@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'H. Łowmiański, Witold wielki książę Litwy'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1927 m.'
   - '1930 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1927'
 date_end: '1930'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # H. Łowmiański, Witold wielki książę Litwy
 
@@ -28,18 +22,15 @@ tags:
 Łowmiański, H.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Łowmiański, H.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Łowmiański, H.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Ekdahl, S. : _Der Krieg zwischen
@@ -52,10 +43,8 @@ tags:
     wielki książę Litwy_ , Vilnius 1930. — PfiW. — Platonov, S. F. : _Geschich­
     te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
     Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

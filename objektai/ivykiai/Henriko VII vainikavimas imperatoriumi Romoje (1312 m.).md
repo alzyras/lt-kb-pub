@@ -44,13 +44,13 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie karaliaus Henriko vainikavimą imperatoriumi Tais metais Henrikas VII, Romos karalius, buvo vainikuotas Romoje, Laterano bažnyčioje, imperatoriumi po 62 metų nuo imperatoriaus Fridricho II mirties (Mart.'
   pagrindžia:
+    - c-003
     - c-001
     - c-002
-    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais Henrikas  VII, Romos  karalius, buvo vainikuotas Romoje, Laterano
@@ -61,7 +61,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais Henrikas  VII, Romos  karalius, buvo vainikuotas Romoje, Laterano
@@ -74,7 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     110. Apie karaliaus Henriko vainikavimą imperatoriumi

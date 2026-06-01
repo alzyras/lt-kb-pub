@@ -25,12 +25,12 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Kilmingasai ir malonusis magistrė, žinokite, kad buvau pasiun­ tęs iš Liksnos į Lietuvą Petrą viską susižinoti.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -72,4 +72,4 @@ Rašyta: Liksnoje, antrą savaitę po Viešpaties Prisikėlimo. Kilmingasai ir m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

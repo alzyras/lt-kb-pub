@@ -32,7 +32,7 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
     - c-001
 
 - t-002
-  teiginys: '183 ## Puslapis 200 VILNIAUS MIESTO ISTORIJA / TOMAS O po to, norėdamas gauti bent kiek žinių apie vaistinės pajamas, post praestitum juramentum [po prisaikdinimo] po­ no Renkielio, supra realem comportationem [dėl tikresnio pa­ lyginimo] senesniųjų metų.'
+  teiginys: 'Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.'
   pagrindžia:
     - c-002
 
@@ -69,6 +69,7 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
     - t-001
 
 - c-002
+  santrauka: 'Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip kad paaiškėjo iš maloningojo Necelu

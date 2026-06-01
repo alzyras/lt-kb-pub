@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„lenkų Trojos arklys“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - posakis
@@ -19,27 +16,26 @@ tags:
 Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Himanso planas Lietuvoje vertintas kaip „lenkų Trojos arklys“, jam priešinosi partijos, kariuomenės vadovybė ir Šaulių sąjunga.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Himanso planas Lietuvoje vertintas kaip „lenkų Trojos arklys“, jam priešinosi partijos, kariuomenės vadovybė ir Šaulių sąjunga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dabar abi derybų šalys stengėsi, kad susitarimas neį-
+    vyktų, tik kad ne jos liktų dėl to kaltos.
     Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
     matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
     vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -47,3 +43,4 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Šaulių sąjunga]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]

@@ -1,18 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1283 m.'
+date_start: '1283'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - ordinas
   - valstybė
+amziai:
+  - 'XIII'
 ---
 # Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)
 
@@ -33,27 +36,24 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1283 m. kryžiuočiai jau buvo įsitvirtinę Nemuno pakrantėje ir pradėjo karą su Lietuvos valstybe.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1283 m. kryžiuočiai jau buvo įsitvirtinę Nemuno pakrantėje ir pradėjo karą su Lietuvos valstybe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1283 m. kryžiuočiai jau buvo įsitvirtinę Nemuno pakran-
     tėje ir pradėjo karą su Lietuvos valstybe. Pirmasis jų atsparos
     punktas čia buvo Ragainė. Vėliau jie stūmėsi Nemuno pakrante
     vis gilyn į Lietuvą ir žūt būt stengėsi nukariauti žemaičius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

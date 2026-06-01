@@ -1,25 +1,19 @@
 ---
 tipas: daiktas
 pavadinimas: 'Artilerija'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1920 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1920'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Artilerija
 
@@ -28,33 +22,42 @@ tags:
 Lietuvių artilerija prieš lenkų dalinius 1920 m. kovose prie Giedraičių 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 145 Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lietuvą buferine valstybe, kuri drauge su Latvija.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
+    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
+    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
+    Širvintų ir Giedraičių.
     Lietuvių artilerija prieš lenkų dalinius
     1920 m. kovose prie Giedraičių
 
@@ -63,11 +66,9 @@ Nenurodyta
     Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -100,6 +101,7 @@ Nenurodyta
 - [[objektai/asmenys/J. Kubilius]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/asmenys/J. Motiejūnas-Valevičius]]
+- [[objektai/grupes/Jaunieji tautininkai]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/paprociai/Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema]]
@@ -109,6 +111,7 @@ Nenurodyta
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/asmenys/Kazimieras Sapiega]]
+- [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/asmenys/Kazimieras Simanavičius]]
 - [[objektai/asmenys/Kioleris]]
 - [[objektai/grupes/Kėdainių įgula]]
@@ -169,10 +172,10 @@ Nenurodyta
 - [[objektai/grupes/ojo fuzilierių regimento]]
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
+- [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]
 - [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]
 - [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/M. Pečiulionis]]

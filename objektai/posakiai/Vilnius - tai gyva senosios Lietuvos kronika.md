@@ -1,28 +1,10 @@
 ---
 tipas: posakis
-pavadinimas: "Vilnius - tai gyva senosios Lietuvos kronika"
-sukurta: '2026-05-27'
-variantai:
-  - "Vilnius - tai gyva senosios Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas"
-aliases: []
+pavadinimas: 'Vilnius - tai gyva senosios Lietuvos kronika'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos:
-  - "1859 m."
-periodas: "naujieji_laikai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIX"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 tags: []
 ---
 # Vilnius - tai gyva senosios Lietuvos kronika
@@ -48,22 +30,20 @@ Frazė pateikta Balińskio pasakojime kaip įsimintina istorinė arba istoriogra
 Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio paliudijimo.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika."
-  pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Adomas Honorijus Kirkoras Vilnių apibūdino kaip senosios Lietuvos buvusios šlovės ir nuosmukių liudytoją.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pagrindžia formulės formą ir jos vartojimo kontekstą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
@@ -73,14 +53,12 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
     aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
     Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

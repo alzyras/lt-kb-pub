@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1991 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1991'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - reforma
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)
 
@@ -29,72 +23,82 @@ tags:
 Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripažinimą tapo laisvas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po šios ap-
+    klausos Lietuvos AS priėmė konstitucinį įstatymą, kuris skelbė, kad Lie-
+    tuva yra Nepriklausoma Demokratinė Respublika.
     Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
     Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
     Lietuva Vakarams buvo nelengvas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
+    Pagalba atėjo iš Islandijos – 1991 m.
+    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+    somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
     susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
     žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
     Sausio agresijos aukų laidotuvės – visos Lietuvos
     protestas prieš SSRS politiką
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+    Pagalba atėjo iš Islandijos – 1991 m.
+    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
     somybę. Rugpjūtį, žlugus Maskvos pučui, kurio metu komunistai mėgino
     susigrąžinti valdžią Sovietų Sąjungoje, kelias į nepriklausomybės pripa-
     žinimą tapo laisvas. Per keletą dienų Lietuvą pripažino visos didžiausios
@@ -103,14 +107,29 @@ Nenurodyta
 
     L I E T U V O S  I S T O R I J A
     248
-    pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.
+    pasaulio valstybės, tarp jų Prancūzija (rugpjūčio 25 d.), Didžioji Britanija
+    (rugpjūčio 27 d.), JAV (rugsėjo 3 d.) ir pagaliau rugsėjo 6 d. – SSRS.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-004
+  santrauka: 'Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti – Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
+    Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
+    bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
+    Lietuva Vakarams buvo nelengvas. Pagalba atėjo iš Islandijos – 1991 m.
+    vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklau-
+    somybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

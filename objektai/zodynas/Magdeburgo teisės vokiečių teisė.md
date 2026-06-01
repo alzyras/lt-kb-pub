@@ -28,18 +28,18 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '— • - 152 ## Puslapis 169 Il KNYGA Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­ burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­ mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­ mo žmonės; pagaliau Vilniaus, pralobusio per.'
+  teiginys: 'Magdeburgo teisių išdava buvo aukštesnė miestiečių luomo padėtis negu nelaisvų kaimo žmonių.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Vytauto viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­ lydžio neišvengiantis tam tikros trinties su feodaline valdžia, nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų; Taigi Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto
@@ -65,7 +65,8 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
+  santrauka: 'Magdeburgo teisių išdava buvo aukštesnė miestiečių luomo padėtis negu nelaisvų kaimo žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar tik kai

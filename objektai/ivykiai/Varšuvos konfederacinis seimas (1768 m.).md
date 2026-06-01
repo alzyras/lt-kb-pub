@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Varšuvos konfederacinis seimas (1768 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1768 m.'
+date_start: '1768'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
+amziai:
+  - 'XVIII'
 ---
 # Varšuvos konfederacinis seimas (1768 m.)
 
@@ -31,16 +34,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Varšuvos konfederacinis seimas (1768 m.) turėjo patvirtinti viską, ko reikalavo Repninas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Varšuvos konfederacinis seimas (1768 m.) turėjo patvirtinti viską, ko reikalavo Repninas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Noroms nenoroms konfederatai turėjo pasirašyti aktą.
@@ -48,11 +50,9 @@ Nenurodyta
     gyveno patsai Repninas.
     **Varšuvos konfederacinis seimas (1768 m.)** turėjo patvirtinti
     viską, ko reikalavo Repninas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pasaulio lietuvių kongresas Kaune (1935 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1935 m.'
+date_start: '1935'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Pasaulio lietuvių kongresas Kaune (1935 m.)
 
@@ -19,28 +22,31 @@ tags:
 Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1935 m. Pasaulio lietuvių kongresas Kaune sulaukė 3 000 delegatų ir svečių iš 19 valstybių.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1935 m. Pasaulio lietuvių kongresas Kaune sulaukė 3 000 delegatų ir svečių iš 19 valstybių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su stipriausiais finansiškai ir
@@ -50,11 +56,9 @@ Nenurodyta
     iš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai,
     rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems
     politiniams suvaržymams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

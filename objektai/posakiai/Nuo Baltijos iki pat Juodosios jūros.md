@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '134 ## Puslapis 151 Il KNYGA Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­ rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o vakaruose atitolinę rytų link tarp Lenkijos iki.'
+  teiginys: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros, bet Vilniui tai dar nebuvo gražiausia epocha.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros, bet Vilniui tai dar nebuvo gražiausia epocha.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Warsz.
@@ -63,3 +64,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/posakiai/„nuo jūros iki jūros“]]

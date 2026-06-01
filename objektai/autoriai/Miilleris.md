@@ -26,13 +26,14 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
 ## Teiginiai
 
 - t-001
-  teiginys: 'kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, sudarytą pagal Maskvos archyvo torius, turėdamas pasitikėjimą, gavedėjo Miillerio Rusijos genealogivo iš Miillerio ir įdėjo į savo svarbų nes knygas.'
+  teiginys: 'Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau teisus

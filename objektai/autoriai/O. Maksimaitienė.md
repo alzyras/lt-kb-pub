@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'O. Maksimaitienė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1863 m.'
   - '1966 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1863'
+date_end: '1966'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1863'
-date_end: '1966'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - autorius
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # O. Maksimaitienė
 
@@ -29,16 +25,15 @@ tags:
 Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje (AkMD, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1831 m. sukilimą liečia F. Sliesoriūno
@@ -52,11 +47,9 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
     veiksmus 1863 m. Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
     166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;
     apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

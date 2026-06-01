@@ -1,15 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba'
-aliases:
-  - 'Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -21,16 +16,15 @@ tags:
 Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Voroneže sukurta Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba skleidė nepriklausomybės šūkį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Voroneže sukurta Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba skleidė nepriklausomybės šūkį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nepriklausomybės šūkį
@@ -41,11 +35,9 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
     (nedalyvavo tik socialdemokratai). Greitai įvykęs komunistų
     perversmas pertraukė ne tik Komiteto, bet ir šios Tarybos
     veikimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

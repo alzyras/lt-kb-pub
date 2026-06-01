@@ -25,27 +25,27 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
-  pagrindžia:
-    - c-004
-
 - t-002
-  teiginys: 'Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo.'
-  pagrindžia:
-    - c-002
-
-- t-006
-  teiginys: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
+  teiginys: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
   pagrindžia:
     - c-006
 
-- t-001
+- t-003
+  teiginys: 'Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo.'
+  pagrindžia:
+    - c-005
+
+- t-005
+  teiginys: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
+  pagrindžia:
+    - c-004
+
+- t-006
   teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
   pagrindžia:
     - c-001
@@ -68,52 +68,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
-
-- c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Lietuviais esame mes gimę!“
-    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
-    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
-    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
-    nės krašto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-005
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kulminacinis suvažiavimo įvykis buvo rezoliucijos
-    dėl politinės autonomijos Lietuvai suteikimo priėmimas. Joje reikalauta
-    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
-    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
-    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
-    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
-
-- c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Joje reikalauta
-    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
-    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
-    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
-    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
-    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
-    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
-    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-006
 
 - c-002
@@ -128,9 +82,55 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kulminacinis suvažiavimo įvykis buvo rezoliucijos
+    dėl politinės autonomijos Lietuvai suteikimo priėmimas. Joje reikalauta
+    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
+    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
+    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
+    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Joje reikalauta
+    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
+    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
+    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
+    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
+    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
+    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
+    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Lietuviais esame mes gimę!“
+    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
+    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
+    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
+    nės krašto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepasikeitė ir vietinio valdymo modelis. Lietu-
@@ -144,7 +144,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-007
   santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'

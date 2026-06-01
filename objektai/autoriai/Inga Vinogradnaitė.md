@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Inga Vinogradnaitė'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 date_start: '2013'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Inga Vinogradnaitė
 
@@ -27,16 +23,15 @@ tags:
 Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dr. Inga Vinogradnaitė buvo knygos „Lietuvos istorija“ redakcinės kolegijos narė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Alfonsas Eidintas, Alfredas Bumblauskas,
@@ -67,12 +62,19 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
     Redaktoriaus žodis  9
     Į v a d a s
     LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
-  citata_rodoma: ""
+    Geografinis Europos centras? 12;  Lietuvos vardo kilmė ir sampratos likimas 13;
+    Pagrindiniai Lietuvos istorijos metmenys 16;  Svarbiausios Lietuvos
+    istorijos datos 21
+    I s k y r i u s
+    SENOJI LIETUVA  22
+    SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS 22
+    Pagonybė ir Lietuvos vardo paminėjimas 1009 metais 23;
+    Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
+    Gediminaičių dinastijos iškilimas 31
+    PAGONIŲ VALSTYBĖ.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

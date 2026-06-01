@@ -1,24 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: '1940-1950 m.; apie 1948 m.; 1949 m. lapkričio 1-2 d.'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika
 
@@ -27,43 +13,45 @@ tags: []
 MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje. Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: politinė praktika
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-005
+
+- t-001
   teiginys: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-002
+  teiginys: 'Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Agentai-smogikai infiltruodavosi į partizanų gretas ir net į jų vadovybę.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-
@@ -80,15 +68,13 @@ Nenurodyta
     naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
     bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
     „kompromatas“ būtų pamestas tikriesiems partizanams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
 - c-002
-  santrauka: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
@@ -108,15 +94,14 @@ Nenurodyta
     Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
     kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
     jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
 - c-003
-  santrauka: 'Agentai-smogikai infiltruodavosi į partizanų gretas ir net į jų vadovybę.'
+  santrauka: 'Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šimonių girios operacija gerai atspindi
@@ -137,13 +122,11 @@ Nenurodyta
     priemonės galiausiai leido okupacinėms
     pajėgoms galutinai palaužti partizaninį ju-
     dėjimą Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

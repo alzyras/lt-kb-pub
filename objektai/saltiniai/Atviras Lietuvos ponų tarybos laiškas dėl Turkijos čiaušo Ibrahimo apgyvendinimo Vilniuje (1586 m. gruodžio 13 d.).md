@@ -26,7 +26,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE.'
+  teiginys: '1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.'
   pagrindžia:
     - c-001
 
@@ -38,6 +38,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     354

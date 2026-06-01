@@ -31,184 +31,179 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 
 ## Teiginiai
 
-- t-009
+- t-001
   teiginys: 'Stepono Batoro paradinis kalavijas buvo pagamintas jo pergalingoms kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
   pagrindžia:
-    - c-009
+    - c-004
 
-- t-010
+- t-002
   teiginys: 'Karaliaus Stepono Batoro surengtos kampanijos leido laimėti Livonijos karą ir ilgam laikui pašalinti Rusijos pavojų bei atkurti pusiausvyrą regione.'
   pagrindžia:
-    - c-010
+    - c-005
 
-- t-033
-  teiginys: '67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.'
+- t-003
+  teiginys: 'Steponas Batoras 1586 m. liepos 11 d. įsakė Vilniaus gyventojams įprastas šventes švęsti pagal naują kalendorių.'
   pagrindžia:
-    - c-033
+    - c-018
 
-- t-006
+- t-004
   teiginys: 'Stepono Batoro herbas buvo pavaizduotas tarp aštuonių herbų aplink Vytį.'
   pagrindžia:
-    - c-006
+    - c-002
 
-- t-019
+- t-005
   teiginys: 'Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.'
-  pagrindžia:
-    - c-019
-
-- t-030
-  teiginys: 'Batoras, čia pagamintus pabūklus jis plačiai naudojo karuose su Maskva 1581 m.'
-  pagrindžia:
-    - c-030
-
-- t-037
-  teiginys: '(Kopija iš originalo, esančio Radvilų archyve) Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­ tuvos, Rusios, Prūsijos, Žemaitijos, Mazovijos, Livonijos ku­ nigaikštis, Siedmigrodo ir kitų kunigaikštis.'
-  pagrindžia:
-    - c-037
-
-- t-040
-  teiginys: 'atminties karaliaus Vladislovo duotas ir leistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­ pui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje paliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­ tus, priklausančius Vilniaus vyskupijos.'
-  pagrindžia:
-    - c-040
-
-- t-015
-  teiginys: 'Michałas Balińskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.'
   pagrindžia:
     - c-015
 
-- t-017
-  teiginys: 'Steponas Batoras patvirtino Vilniui suteiktas privilegijas ir prižiūrėjo, kaip vykdomi jo sprendimai.'
-  pagrindžia:
-    - c-017
-
-- t-013
-  teiginys: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
+- t-006
+  teiginys: 'Batoras, čia pagamintus pabūklus jis plačiai naudojo karuose su Maskva 1581 m.'
   pagrindžia:
     - c-013
 
-- t-028
-  teiginys: 'Lietuvos ir Lenkijos valdovo Stepono Batoro paradinis kalavijas, pagamintas pergalingoms Lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu (1558-1582) atminti.'
+- t-007
+  teiginys: '(Kopija iš originalo, esančio Radvilų archyve) Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­ tuvos, Rusios, Prūsijos, Žemaitijos, Mazovijos, Livonijos ku­ nigaikštis, Siedmigrodo ir kitų kunigaikštis.'
   pagrindžia:
-    - c-028
+    - c-007
 
-- t-025
-  teiginys: '1576 m. rugsėjo 23 d. laiške Steponas Batoras pareiškė, kad muito nenustatys be Senato tarybos sutikimo.'
+- t-008
+  teiginys: 'Steponas Batoras 1584 m. Gardine atleido Steponą Genserį nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
+  pagrindžia:
+    - c-014
+
+- t-009
+  teiginys: 'Michałas Balińskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.'
   pagrindžia:
     - c-025
 
-- t-024
+- t-010
+  teiginys: 'Steponas Batoras patvirtino Vilniui suteiktas privilegijas ir prižiūrėjo, kaip vykdomi jo sprendimai.'
+  pagrindžia:
+    - c-026
+
+- t-011
+  teiginys: 'Tačiau Steponas Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus universiteto – kūrimu.'
+  pagrindžia:
+    - c-022
+
+- t-012
+  teiginys: 'Lietuvos ir Lenkijos valdovo Stepono Batoro paradinis kalavijas, pagamintas pergalingoms Lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu (1558-1582) atminti.'
+  pagrindžia:
+    - c-027
+
+- t-013
+  teiginys: '1576 m. rugsėjo 23 d. laiške Steponas Batoras pareiškė, kad muito nenustatys be Senato tarybos sutikimo.'
+  pagrindžia:
+    - c-009
+
+- t-014
   teiginys: 'Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.'
   pagrindžia:
     - c-024
 
-- t-031
+- t-015
   teiginys: 'Balinskis miesto istorinę apžvalgą užbaigia Stepono Batoro valdymo metais 1586 m.'
   pagrindžia:
-    - c-031
+    - c-016
 
-- t-034
+- t-016
   teiginys: 'Miestiečių luomas, dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­ liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­ menyje neteko tokio globėjo, kokiu paskui netapo nė vienas iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš.'
   pagrindžia:
     - c-034
 
-- t-035
-  teiginys: 'Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS VII DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ, RAŠYTŲ RADVILOMS, TURINYS: APIE MUITUS IR MOKESČIUS VILNIAUS PIRKLIAMS IR MIESTIEČIAMS Autentiškų karaliaus Stepono laiškų, rašytų.'
+- t-017
+  teiginys: 'Steponas Batoras 1576 m. rugsėjo 23 d. pareiškė, kad muitų nenustatys be Senato tarybos sutikimo.'
   pagrindžia:
-    - c-035
+    - c-010
 
-- t-039
+- t-018
   teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
   pagrindžia:
-    - c-039
+    - c-017
 
-- t-021
+- t-019
   teiginys: '1586 m. liepos 11 d. Steponas Batoras paskelbė sprendimą dėl kai kurių Vilniaus pirklių ir Vilniaus vaito ginčo.'
+  pagrindžia:
+    - c-033
+
+- t-020
+  teiginys: 'Steponas Batoras mirė 1586 m. gruodžio 12 d., penktąją jį paguldžiusios ligos dieną.'
   pagrindžia:
     - c-021
 
-- t-036
-  teiginys: '## Puslapis 367 IV KNYGA IX A) LIETUVOS PONŲ TARYBOS LAIŠKAS, RAŠYTAS IŠ GARDINO 1586 METŲ GRUODŽIO MĖNESIO 13 DIENĄ KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI, PRANEŠANTIS APIE KARALIAUS STEPONO BATORO MIRTĮ IR ĮSPĖJANTIS.'
-  pagrindžia:
-    - c-036
-
-- t-027
+- t-021
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
-    - c-027
+    - c-031
 
 - t-022
   teiginys: 'Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.'
   pagrindžia:
-    - c-022
+    - c-019
 
-- t-004
+- t-023
   teiginys: 'Steponas Batoras buvo sudaręs 500 raitelių vėliavą.'
   pagrindžia:
-    - c-004
+    - c-001
 
-- t-038
-  teiginys: '(pasirašyta) Stephanus Rex [Karalius Steponas] (prikabintas antspaudas) Jonas Hlebavičius - Dubrovnoje Minsko kaštelionas, krašto paiždininkis ir raštininkas 424 ## Puslapis 441 IV KNYGA VYSKUPO SEMINARIJOS JSTEIGIMAS IŠ VYSKUPŲ STALO DVARO, VADINAMO.'
-  pagrindžia:
-    - c-038
-
-- t-011
+- t-024
   teiginys: 'Steponas Batoras rūpinosi Vilniaus patrankų liejykla ir 1581 m. plačiai naudojo jos pabūklus karuose su Maskva.'
   pagrindžia:
-    - c-011
+    - c-006
 
-- t-032
+- t-025
   teiginys: '1578 metais Karalius Steponas Batoras, šias funduotas mo­ kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­ mijoms, o išskirtinai Krokuvos, prilygino.'
+  pagrindžia:
+    - c-030
+
+- t-026
+  teiginys: 'Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.'
+  pagrindžia:
+    - c-020
+
+- t-027
+  teiginys: '1576 m. Steponas Batoras buvo 43 metų amžiaus, silpnokos sveikatos, bet laikytas protingu ir energingu valdovu.'
+  pagrindžia:
+    - c-003
+
+- t-028
+  teiginys: 'Ankstyva ir netikėta Stepono Batoro mirtis Gardine (1586 metų gruodžio 12 die­ ną) Vilnių, o ir visą šalį didžiai nuliūdino.'
   pagrindžia:
     - c-032
 
-- t-042
-  teiginys: 'Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodžio 20 dieną, paaiškėja, 328 ## Puslapis 345 IV KNYGA jog, kai karalius Steponas, perėmęs valdžią, nuvažiavo į Knišiną, Lietuvos senatoriai, įsitikinę, kad Lietuvos Didžiosios.'
-  pagrindžia:
-    - c-042
-
-- t-008
-  teiginys: '1576 m. Steponas Batoras buvo 43 metų amžiaus, silpnokos sveikatos, bet laikytas protingu ir energingu valdovu.'
-  pagrindžia:
-    - c-008
-
-- t-023
-  teiginys: 'Ankstyva ir netikėta Stepono Batoro mirtis Gardine (1586 metų gruodžio 12 die­ ną) Vilnių, o ir visą šalį didžiai nuliūdino.'
-  pagrindžia:
-    - c-023
-
-- t-016
+- t-029
   teiginys: '1578 m. Steponas Batoras patvirtino funduotas mokyklas, suteikė joms Akademijos vardą ir prilygino kitoms akademijoms.'
   pagrindžia:
-    - c-016
+    - c-029
 
-- t-012
+- t-030
   teiginys: 'Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare prieš Maskvą buvo pasiektos lemiamos pergalės.'
   pagrindžia:
     - c-012
 
-- t-018
+- t-031
   teiginys: 'Steponas Batoras globojo Vilniaus pirklius, kurie buvo išplėtoję prekybą kailiais iki Gniezno ir kitų Didžiosios Lenkijos miestų.'
   pagrindžia:
-    - c-018
+    - c-011
 
-- t-020
+- t-032
   teiginys: '1581 m. Steponas Batoras skubiai sustabdė neleistiną reformatų maldos namų ir spaustuvės užpuolimą.'
   pagrindžia:
-    - c-020
+    - c-028
 
-- t-029
+- t-033
   teiginys: 'Tokiomis aplinkybėmis laus varianto ir nebeplėtoti Kitos Batoro kampanijų metu užgrobtos Ivanas IV suvokė, kad teks galimo tolimesnio veržirusų teritorijos (Didieji Lukai, Zavoločė, Sebežas, Nevelis, Voronežas) buvo sugrąžintos Rusijai.'
   pagrindžia:
-    - c-029
+    - c-023
 
-- t-041
+- t-034
   teiginys: 'Bet teisingas ir santūrus Steponas Batoras sugebė­ jo skubiai nutraukti neleistinus ketinimus.'
   pagrindžia:
-    - c-041
+    - c-008
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po Liublino unijos visos dabartinės Ukrainos
@@ -220,9 +215,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-023
 
-- c-006
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Aplink Vytį—dar 8 kiti herbai:
@@ -233,9 +228,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-008
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1576 m. Steponas Batoras turėjo 43 m. amžiaus. Jis buvo
@@ -246,9 +241,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-027
 
-- c-009
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
@@ -263,9 +258,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-001
 
-- c-010
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karaliaus Stepono Batoro surengtos
@@ -282,9 +277,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-002
 
-- c-011
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     REX POLO MAG. DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564). Žygimanto Au-
@@ -295,9 +290,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-024
 
-- c-037
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     DATUOTA 1581 METŲ VASARIO 13 DIENĄ
@@ -321,9 +316,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-037
+    - t-007
 
-- c-041
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis vyskupo žingsnis 1581 metais padrąsino
@@ -344,9 +339,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-041
+    - t-034
 
-- c-025
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
@@ -378,9 +373,10 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-013
 
-- c-035
+- c-010
+  santrauka: 'Steponas Batoras 1576 m. rugsėjo 23 d. pareiškė, kad muitų nenustatys be Senato tarybos sutikimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
@@ -412,9 +408,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-035
+    - t-017
 
-- c-018
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     287
@@ -440,7 +436,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-031
 
 - c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -458,9 +454,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-030
 
-- c-030
+- c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     REX POLO MAG. DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564). Žygimanto Au-
@@ -471,9 +467,10 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-006
 
-- c-040
+- c-014
+  santrauka: 'Steponas Batoras 1584 m. Gardine atleido Steponą Genserį nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes su
@@ -504,9 +501,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-040
+    - t-008
 
-- c-019
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
@@ -526,9 +523,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-005
 
-- c-031
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau didžiausia nuostaba ano meto skaitytojui, verčiant
@@ -549,9 +546,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-031
+    - t-015
 
-- c-039
+- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Decimo Pontificatus S-mi D. N. Gregorii
@@ -577,49 +574,10 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-039
+    - t-018
 
-- c-038
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
-    — • —
-    423
-
-    ## Puslapis 440
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­
-    tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio
-    tryliktą dieną.
-    (pasirašyta) Stephanus Rex
-    [Karalius Steponas]
-    (prikabintas antspaudas) Jonas Hlebavičius
-    - Dubrovnoje Minsko
-    kaštelionas, krašto
-    paiždininkis ir raštininkas
-    424
-
-    ## Puslapis 441
-
-    IV KNYGA
-    VYSKUPO SEMINARIJOS JSTEIGIMAS
-    IŠ VYSKUPŲ STALO DVARO,
-    VADINAMO VOZGĖLIŠKĖMIS
-    1582 METAI
-    (Kapitulos archyvas)
-
-    ## Puslapis 442
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    In Ckristi nomine Amen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-038
-
-- c-033
+- c-018
+  santrauka: 'Steponas Batoras 1586 m. liepos 11 d. įsakė Vilniaus gyventojams įprastas šventes švęsti pagal naują kalendorių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O s i ń s k i, O życiu i pismach X. Piot­
@@ -652,9 +610,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-033
+    - t-003
 
-- c-022
+- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau vaitas
@@ -679,7 +637,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   pagrindžia:
     - t-022
 
-- c-042
+- c-020
+  santrauka: 'Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš antrojo laiško, rašyto tik vienam
@@ -718,9 +677,10 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-042
+    - t-026
 
-- c-036
+- c-021
+  santrauka: 'Steponas Batoras mirė 1586 m. gruodžio 12 d., penktąją jį paguldžiusios ligos dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 367
@@ -752,9 +712,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-036
+    - t-020
 
-- c-013
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino
@@ -773,9 +733,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-011
 
-- c-029
+- c-023
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Batoras savo 10 metų paliaubų sutartis, Lietuva atgavo
@@ -800,7 +760,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-033
 
 - c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -825,9 +785,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-014
 
-- c-015
+- c-025
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus miesto istorijos pratarmėje istorikas rašė: „Mums
@@ -845,9 +805,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-009
 
-- c-017
+- c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šios rykštės pėdsakus mieste netruko užlyginti šlovin­
@@ -863,9 +823,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-010
 
-- c-028
+- c-027
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Knyga įpareigoja šios dienos Lietuvos karius suprasti, ko-
@@ -888,9 +848,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-012
 
-- c-020
+- c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis vyskupo žingsnis 1581 metais padrąsino
@@ -911,9 +871,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-032
 
-- c-016
+- c-029
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
@@ -928,9 +888,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-029
 
-- c-032
+- c-030
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     G) Apie kai kuriuos Akademijai ir
@@ -951,9 +911,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-032
+    - t-025
 
-- c-027
+- c-031
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau svarbiausia buvo valdovo
@@ -965,9 +925,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-021
 
-- c-023
+- c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimiero bažnyčia71. Ankstyva ir netikėta
@@ -979,9 +939,9 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-028
 
-- c-021
+- c-033
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     21.
@@ -1025,7 +985,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-019
 
 - c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1050,7 +1010,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-034
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
@@ -1103,7 +1063,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - [[objektai/grupes/Lietuvos senatoriai]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Raudonoji armija]]
 - [[objektai/grupes/Vilniaus reformatai ir disidentai]]
@@ -1119,10 +1078,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/miestiečių luomas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
-- [[objektai/paprociai/Akademijos profesorių ir studentų jurisdikcinės bei mokestinės privilegijos]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
-- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
-- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
-- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
+- [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/zodynas/reliacinis sprendimas]]
+- [[objektai/paprociai/Akademijos profesorių ir studentų jurisdikcinės bei mokestinės privilegijos]]
+- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]

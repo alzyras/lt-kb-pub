@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
@@ -21,82 +18,81 @@ tags:
 Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. Kadangi projektas buvo iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net nesvarstę. (Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: '1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.'
+  pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
-    tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
-    ir paimančių juos įstatymo globon.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi projektas buvo
-    iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar
-    seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net ne-
-    svarstę. Atmetė jį svarbiausia dėl valstiečiams
-    duodamųjų palengvinimų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    „Mužikus nori padaryti
+    Atmetė jį svarbiausia dėl valstiečiams
+    duodamųjų palengvinimų. „Mužikus nori padaryti
     bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vienas artimiausiųjų jo
+    bendradarbių buvo Lietuvos vicekancleris Jokimas Chreptavi-
+    čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
+    tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
+    ir paimančių juos įstatymo globon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jame buvo nuostatų, palengvinančių valstiečių būklę
+    ir paimančių juos įstatymo globon. Kadangi projektas buvo
+    iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar
+    seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net ne-
+    svarstę. Atmetė jį svarbiausia dėl valstiečiams
+    duodamųjų palengvinimų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
 

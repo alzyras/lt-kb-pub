@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'ratukinė-kibirkštinė spyna'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - sąvoka
@@ -26,16 +16,15 @@ tags:
 pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XVI a. pradžioje sukurta ratukinė-kibirkštinė spyna veikė be rusenančios dagties.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XVI a. pradžioje sukurta ratukinė-kibirkštinė spyna veikė be rusenančios dagties.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Siekdamas atsivi-
@@ -47,11 +36,9 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
     spynų atsiradimas davė postūmį trumpų šaunamųjų ginklų - pis-
     toletų raidai. Jie buvo labai patogūs kavaleristams ir laikui bėgant
     tapo svarbiausiais Europos raitelių ginklais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

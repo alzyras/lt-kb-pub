@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: ') visiems Lietuvos žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­ sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­ rią vėliau patvirtino Kazimieras Didysis68.'
+  teiginys: 'Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA

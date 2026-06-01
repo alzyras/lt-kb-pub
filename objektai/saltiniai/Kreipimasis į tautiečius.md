@@ -18,13 +18,14 @@ Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­ kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­ mas pilietinio ir kultūrinio ugdymo teises.'
+  teiginys: 'Mikalojus Akelaitis laiške „Kreipimasis į tautiečius“ reikalavo lietuvių liaudžiai suteikti pilietinio ir kultūrinio ugdymo teises.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mikalojus Akelaitis laiške „Kreipimasis į tautiečius“ reikalavo lietuvių liaudžiai suteikti pilietinio ir kultūrinio ugdymo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Eustachijaus Tiškevičiaus inicia­

@@ -29,21 +29,21 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
 - t-001
   teiginys: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Kaip pasiuntinys nuvykęs į Prūsiją, Vai­ dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­ dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­ žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Galop buvo sudaryta taikos sutartis, ku­ ria kryžiuočiai įsipareigojo palikti neliestą Vilniaus dalį, dar nenukentėjusią nuo ugnies; į Vilniaus ir Trakų pilis buvo pakviestas maršalas, arkikomtūras ir daugelis aukštesniųjų vokiečių riterių.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Susirėmė su jais vokiečiai
@@ -60,9 +60,9 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
@@ -96,7 +96,7 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

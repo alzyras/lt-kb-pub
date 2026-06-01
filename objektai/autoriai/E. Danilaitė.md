@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'E. Danilaitė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1964 m.'
   - '1968 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1964'
 date_end: '1968'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # E. Danilaitė
 
@@ -28,22 +24,20 @@ tags:
 Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė domėjosi ir Aukštadvario pilia­ kalniu (AkMD, t. Danilaitė, E.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'E. Danilaitė 1964 m. paskelbė darbą „Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje“.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
@@ -53,15 +47,13 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
     1968, 47-55 p.). E. Danilaitė domėjosi brūkšniuotąja keramika
     Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
     t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'E. Danilaitė 1964 m. paskelbė darbą „Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
@@ -72,13 +64,11 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
     AkMD, t. 17, 1964, 23-39 p. — (”) _Ankstyvosios brūkšniuotosios kerami­
     kos kilmės klausimu_ , AkMD, t. 21, 1966, 111-125 p. — (”) _Lietuvos brūkš­
     niuotosios keramikos ornamentas_ , AkMD, t. 26, 1968, 41-57 p. — (”)
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

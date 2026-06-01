@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Seeburgas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - vieta
@@ -25,16 +16,15 @@ tags:
 VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė Apuolės pilį (prie Skuodo).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Archeolo­
@@ -43,10 +33,8 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
     kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė
     Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
     (prie Durbės).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

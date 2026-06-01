@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'šiuolaikinė tautos (nacijos) samprata'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
@@ -20,30 +17,30 @@ tags:
 pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tautos (nacijos) sampratą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinę žmonės, bet ir visi valstybės piliečiai ar valdiniai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinę žmonės, bet ir visi valstybės piliečiai ar valdiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pagal ją tautą kaip politinę
+    Vyskupo M. Valančiaus
+    „kunigaikštystė“
+    XVIII a. pabaigoje Prancūzijos didžioji revoliucija pagim-
+    dė naują šiuolaikinę tautos (nacijos) sampratą. Pagal ją tautą kaip politinę
     kultūrinę bendruomenę sudaro ne tik aukštuomenė ir išsilavinę, vadi-
     namosios aukštosios kultūros lygį pasiekę žmonės, bet ir visi valstybės
     piliečiai ar valdiniai; liaudis yra tautos pagrindas ir turi per švietimą pri-
     eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,
     siekiant, kad ji taptų tautos dalimi – tos tautos gimtąja ar aukštuomenės
     kalba.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

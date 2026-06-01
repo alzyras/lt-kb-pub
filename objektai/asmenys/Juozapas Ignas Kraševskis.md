@@ -22,24 +22,24 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Balins­ kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me­ džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ veik tuo pat metu rašė savo Vilniaus miesto istoriją.'
+  teiginys: 'Balins­ kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me­ džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Kraševskio ir M.'
+  teiginys: 'Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ veik tuo pat metu rašė savo Vilniaus miesto istoriją.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Juozapo Igno Kraševskio darbai laikyti senosios Vilniaus istoriografijos pagrindo dalimi.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant gana kritiško požiūrio į
@@ -53,9 +53,10 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
+  santrauka: 'Juozapo Igno Kraševskio darbai laikyti senosios Vilniaus istoriografijos pagrindo dalimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prasidėjo Vilniaus miesto istorijos mokslinės istoriog­
@@ -70,9 +71,9 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis buvo kruopštus, pedantiškas istorikas,
@@ -88,7 +89,7 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

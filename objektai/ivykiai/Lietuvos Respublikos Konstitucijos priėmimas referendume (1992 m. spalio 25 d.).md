@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1992 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1992'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)
 
@@ -30,68 +24,83 @@ tags:
 Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį. Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta, suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   pagrindžia:
     - c-003
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1992 m. spa-
-    lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-002
+  teiginys: 'Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.'
+    - c-002
+
+- t-003
+  teiginys: '1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
+  pagrindžia:
+    - c-004
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pagrindinės Konstitucijos nuostatos skelbė,
+    Tačiau
+    Baltijos sesėms dabar jau reikėjo ne kovoti už nepriklausomybę, o kurti
+    naują ekonomiką, spręsti energetinės nepriklausomybės klausimus, ieš-
+    koti naujų rinkų ir savo vietos Europoje, pasaulyje.
+    Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-
+    daus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spa-
+    lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Konstitucijos preambulėje glaustai įtvirtinti pagrindiniai principai – atvi-
+    ra, teisinga, darni pilietinė visuomenė ir teisinė valstybė, puoselėjanti
+    tautinę santarvę ir teisę laisvai gyventi ir kurti savo tėvų bei protėvių že-
+    mėje. Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
+    jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės
+    pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos
+    Respublikos konstitucijomis. Pagrindinės Konstitucijos nuostatos skelbė,
     kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,
     suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo
     tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
@@ -108,11 +117,26 @@ Nenurodyta
     čius; tautinėms bendrijoms valstybė teikia paramą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-004
+  santrauka: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-
+    daus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spa-
+    lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
+    Konstitucijos preambulėje glaustai įtvirtinti pagrindiniai principai – atvi-
+    ra, teisinga, darni pilietinė visuomenė ir teisinė valstybė, puoselėjanti
+    tautinę santarvę ir teisę laisvai gyventi ir kurti savo tėvų bei protėvių že-
+    mėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

@@ -42,16 +42,16 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų bendradarbiavimas26.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
@@ -65,7 +65,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
@@ -79,7 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė

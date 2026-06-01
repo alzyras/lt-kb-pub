@@ -1,30 +1,24 @@
 ---
 tipas: saltinis
 pavadinimas: 'Salaspilio mūšis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1560 m.'
   - '1619 m.'
   - '1621 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 date_start: '1560'
 date_end: '1621'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ginklas
   - mūšis
   - saltinis
+amziai:
+  - 'XVI'
+  - 'XVII'
 ---
 # Salaspilio mūšis
 
@@ -33,24 +27,25 @@ tags:
 Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragmentas. 2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir E ž Salaspilio mūšio schemų viršus suorentuotas neįšiaurę, bet į pietus, siekiant jas sutapatinti su P. Snayerso paveikslo „Salaspilio mūšis“ fragmente matyti upės pakrante besiveržiantys Lietuvos kariuomenės raitarai, sudaryti iš Livonijos bajorų.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: '2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir E ž Salaspilio mūšio schemų viršus suorentuotas neįšiaurę, bet į pietus, siekiant jas sutapatinti su P.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apie 1619 m. nutapyto Pieterio
@@ -70,15 +65,13 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     1605-1621 m., vienas žymiausių Europos
     karvedžių. 1595-1596 m. dalyvavo kari-
     niuose veiksmuose prieš Ukrainos kazokus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ė 3 “ tuoti atsitraukimą.
@@ -100,10 +93,39 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     tuviy kariuomenės dešinįjį
     sparną, išeiti jiems į užnu-
     garį ir nustumti į Dauguvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+- c-003
+  santrauka: '2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir E ž Salaspilio mūšio schemų viršus suorentuotas neįšiaurę, bet į pietus, siekiant jas sutapatinti su P.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    A
+
+    Ė 3 “ tuoti atsitraukimą.
+    2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir
+    E ž
+
+    *Salaspilio mūšio schemų viršus suorentuotas
+    neįšiaurę, bet į pietus, siekiant jas sutapatinti
+    su P. Snayerso paveikslu „Salaspilio mūšis“
+
+    te
+    Brandtas
+    tates
+
+    7,
+    =
+    a de
+
+    tuviy kariuomenės dešinįjį
+    sparną, išeiti jiems į užnu-
+    garį ir nustumti į Dauguvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

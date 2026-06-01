@@ -52,7 +52,6 @@ Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]
 - [[objektai/grupes/Vilniaus kapitula]]

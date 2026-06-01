@@ -1,14 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Gintaro ir stiklo karoliai'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-patikimumas: 'vidutinis'
-periodas: priesistore
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - papuošalas
@@ -20,68 +16,73 @@ tags:
 Buvo mėgiami gintaro ir stiklo karoliai.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Buvo mėgiami gintaro ir stiklo karoliai.'
   pagrindžia:
-    - c-003
-    - c-002
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Buvo mėgiami gintaro ir stiklo karoliai.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
     Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
     liai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Gintaro ir stiklo karoliai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
     Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
     liai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
-  santrauka: Gintaro ir stiklo karoliai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
     Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
     liai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

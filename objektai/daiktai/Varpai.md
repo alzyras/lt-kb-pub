@@ -1,21 +1,13 @@
 ---
 tipas: daiktas
 pavadinimas: 'Varpai'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: 'viduramziai'
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
 ---
@@ -26,113 +18,94 @@ tags:
 Nuo Vytauto laikų Lietuvoje buvo liejami varpai.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami varpai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
-- t-002
   teiginys: 'Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.'
+  pagrindžia:
+    - c-003
 
 - t-003
   teiginys: '1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.'
   pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
-  pagrindžia:
     - c-004
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.'
+- t-004
+  teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami varpai.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Nuo Vytauto laikų Lietuvoje buvo liejami varpai.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pagaliau pasibaigus karams su kryžiuo­
-    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
-    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
-    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
-    netos, liejami pabūklai, varpai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-001
-    - t-001
 
-- c-002
-  santrauka: Varpų skambesys pateikiamas kaip Lietuvos sukatalikėjimo ženklas.
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jeigu prasidedant Vytauto Didžiojo laikams Lietuva buvo
     dar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir
     tebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­
     tuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo
-    bažnyčių varpai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+    bažnyčių varpai. Vytautas tai pasiekė ne iš karto, bet po visos
+    eilės tų didžių ir nelengvų katalikybės skleidimo žygių, apie ku­
+    riuos iki šiol kalbėjom. Jais Vytautas seną religinę Lietuvos
+    būklę bent oficialiai pakeitė nauja, kurioje viso religinio gyveni­
+    mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
+    ta, bet pats jos Kūrėjas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+    - t-001
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
+    Lietuvos
+    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
+    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
+    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
+    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
+    netos, liejami pabūklai, varpai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.'
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
@@ -144,11 +117,43 @@ Nenurodyta
     Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1962 m. beliko vos 55 klierikai, nors bažnyčiose kunigų trūko.
+    J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-
+    kai, ištremti, bažnyčias paversti sandėliais, o N. Chruščiovo laikais bažny-
+    čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
+    130 kunigų. 1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-
+    mo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti
+    varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas
+    Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli Raseinių, kurį valdžia
+    blokuodavo atlaidų metu, paskelbdama neva „kiaulių marą“), tikintieji
+    pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
+    sustabdyta naujos bažnyčios statyba Klaipėdoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nekreipkime dėmesio į tuos šaudymus, dainuokime!“
+    Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po
+    visą pasaulį. Laidojant sausio 13-osios aukas, solidarumo su Lietuva
+    varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
+    kitose Europos šalyse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

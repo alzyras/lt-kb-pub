@@ -28,54 +28,54 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Nuo to laiko Podolijoj įsigalėjo Algirdo gimi­ naičiai Karijotai, Gedimino sūnaus sūnūs.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Todėl nenuostabu, kad po Torno taikos įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­ čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­ damas gyvo lenkų.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Lietuvos valstybės pietuose buvo plati Podolija, nusitęsusi link Juodosios jūros srities stepių.'
+  pagrindžia:
+    - c-006
+
 - t-005
-  teiginys: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  teiginys: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
   pagrindžia:
     - c-005
 
 - t-006
-  teiginys: 'Todėl nenuostabu, kad po Torno taikos įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­ čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­ damas gyvo lenkų.'
+  teiginys: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
   pagrindžia:
-    - c-006
+    - c-008
 
-- t-001
-  teiginys: 'Lietuvos valstybės pietuose buvo plati Podolija, nusitęsusi link Juodosios jūros srities stepių.'
+- t-007
+  teiginys: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Ilgai ir sunkiai teko Vytautui kovoti dėl Podolijos, į kurią be vengrą ir totorią, reiškė pretenziją ir lenkai.'
   pagrindžia:
     - c-001
 
 - t-009
-  teiginys: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
+  teiginys: 'Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
   pagrindžia:
     - c-009
 
-- t-004
-  teiginys: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
-  pagrindžia:
-    - c-004
-
-- t-008
-  teiginys: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
-  pagrindžia:
-    - c-008
-
-- t-002
-  teiginys: 'Ilgai ir sunkiai teko Vytautui kovoti dėl Podolijos, į kurią be vengrą ir totorią, reiškė pretenziją ir lenkai.'
-  pagrindžia:
-    - c-002
-
-- t-010
-  teiginys: 'Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
-  pagrindžia:
-    - c-010
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Beliko
@@ -87,9 +87,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-008
 
-- c-003
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo laiku tą sritį valdė trys broliai emirai. Bet jie buvo Algirdo
@@ -100,9 +100,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-005
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Net
@@ -120,9 +120,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-006
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     biau jai rodydamas savo reikalingumą, o artindamasis į Ordiną,
@@ -138,9 +138,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-009
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
@@ -154,9 +154,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-005
 
-- c-001
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Lenkijos pakraščio, nuo
@@ -169,9 +169,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-008
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalbant dar apie tiesiogines vilniškės unijos priežastis, ten­
@@ -187,9 +187,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-004
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.
@@ -202,9 +202,9 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-010
+- c-009
   santrauka: 'Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jūros srityje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -218,4 +218,4 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009

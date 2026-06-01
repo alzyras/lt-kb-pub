@@ -19,19 +19,19 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap­ saugoti miesto archyvą nuo sunyki­ mo, už tą, kaip Radvilų archyvą Kar­ dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di­ džiai prityręs Lietuvos istorijos ži­ novas Mikalojus.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
+  teiginys: 'Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap­ saugoti miesto archyvą nuo sunyki­ mo, už tą, kaip Radvilų archyvą Kar­ dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di­ džiai prityręs Lietuvos istorijos ži­ novas Mikalojus.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neabejotina, kad tai nega­
@@ -59,9 +59,9 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     P. Malev-
@@ -75,7 +75,7 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

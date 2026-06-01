@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1539 m.'
   - '1559 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1539'
 date_end: '1559'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - kunigas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)
 
@@ -31,104 +27,83 @@ tags:
 Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų................... Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14. 14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
+  teiginys: 'Taigi mes jo teisėtam prašymui pritardami ir, norėdami sustiprinti Die­ vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­ riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­ čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje.'
   pagrindžia:
     - c-001
+
 - t-002
-  teiginys: 'Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: '14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Petras Roizijus, 281 ## Puslapis 298 VILNIAUS MIESTO ISTORIJA// TOMAS Šitaip klestint miestui, iki tol ramiai besiilsėjusius jo gy­ ventojų protus sujaudino nauji ir netikėti įvykiai.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
-  pagrindžia:
-    - c-005
-- t-006
   teiginys: 'Ir nors ponas vyskupas pagal savo pareigas ir valdžią, mūsų pirmtakų ir mūsų suteiktą, rem­ damasis kanonine teise ir mūsų duotais raštais, pats turėjo tei­ sę šį eretiką nubausti, tačiau, gerbdamas mūsų autoritetą ir ma­ tydamas mus esant šioje.'
   pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Duota Vilniuje, penktadienį, rytojaus dieną po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­ lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­ dešimt šeštaisiais.'
-  pagrindžia:
-    - c-007
-- t-008
+    - c-004
+
+- t-003
   teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
   pagrindžia:
     - c-008
-- t-010
-  teiginys: 'Taigi mes jo teisėtam prašymui pritardami ir, norėdami sustiprinti Die­ vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­ riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­ čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje.'
+
+- t-004
+  teiginys: '1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.'
   pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
+    - c-002
+
+- t-005
+  teiginys: 'Duota Vilniuje, penktadienį, rytojaus dieną po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­ lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­ dešimt šeštaisiais.'
   pagrindžia:
-    - c-011
+    - c-009
+
+- t-006
+  teiginys: '14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
+  pagrindžia:
+    - c-005
+
+- t-008
+  teiginys: 'Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14.'
+  pagrindžia:
+    - c-003
+
+- t-009
+  teiginys: 'Vilniaus vyskupas Povilas sustabdė karalių ir privertė jį atsisakyti ketinimo eiti kitur, nukreipdamas į katalikų katedrą.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Dalyvaujant didžiai
-    gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
-    kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­
-    pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
-    ................Jonui, Jurgiui Astikaičiui, Trakų...................
+    Taigi mes jo
+    teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
+    vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­
+    riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­
+    čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje,
+    kuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­
+    vių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­
+    sos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas
+    turėjo ir valdė. Tam pačiam ponui dabartiniam vyskupui ir
+    jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­
+    są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.
+    Leidžiame jas mėsininkams, kuriems tik norėtų, savo nuo­
+    žiūra, išnuomoti ar juos samdyti, taip pat tose pačiose mėsi­
+    nėse galvijus, gyvulius, laukinius gyvūnus ir visokių rūšių
+    nupenėtus naminius gyvūnus pirkti, parduoti, skersti, mė­
+    są laisvai išdėstyti ir ja prekiauti, nekliudant mūsų Vilniaus
+    piliečiams ir bet kokiems kitiems, bet kokios padėties, luo­
+    mo ir kilmės žmonėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­ vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­ tydino nedidukę oratoriją, arba koplyčią14.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mikalojaus bažnyčią. O po dvi­
-    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
-    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
-    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
-    tydino nedidukę oratoriją, arba koplyčią14.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '14 Šios koplyčios fundacijos akte, 1543 metais išleistame to paties vyskupo (žr.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    14
-    Šios koplyčios fundacijos akte, 1543
-    metais išleistame to paties vyskupo
-    (žr. Grzybowski, 1. 40), matyti,
-    266
-
-    ## Puslapis 283
-
-    IV KNYGA
-    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
-    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
-    gai ir sumaniai valdant kraštą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Petras Roizijus, 281 ## Puslapis 298 VILNIAUS MIESTO ISTORIJA// TOMAS Šitaip klestint miestui, iki tol ramiai besiilsėjusius jo gy­ ventojų protus sujaudino nauji ir netikėti įvykiai.'
+  santrauka: '1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Petras Roizijus,
@@ -151,34 +126,28 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     tu paremtų gynybai besirengiančią dvasininkiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Apie tai sužinojęs Vilniaus vysku­
-    pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
-    tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­
-    lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių,
-    tarė: „Tai ne tas kelias, Maloningasis Pone, kuriuo Tavo pro­
-    tėviai ėjo Dievui garbės atiduoti, bet šitas! - ir parodė į ka­
-    tedros bažnyčią pilyje. - Apleidi, Karaliau, motiną, kuri ta­
-    ve pagimdė ir į šias garbingas pareigas iškėlė, o išeini pas
-    pamotę!" Šis drąsus vyskupo poelgis taip nustebino kara­
-    lių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46.
+    Mikalojaus bažnyčią. O po dvi­
+    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
+    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
+    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
+    tydino nedidukę oratoriją, arba koplyčią14.
+    leidžiamos raketos, vyko įvairūs
+    šaudymai bei deginamos kitos ar­
+    tilerijos užtaisų ugnys".
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Ir nors ponas vyskupas pagal savo pareigas ir valdžią, mūsų pirmtakų ir mūsų suteiktą, rem­ damasis kanonine teise ir mūsų duotais raštais, pats turėjo tei­ sę šį eretiką nubausti, tačiau, gerbdamas mūsų autoritetą ir ma­ tydamas mus esant šioje.'
+    - t-008
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ubi
@@ -212,13 +181,93 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     no, visi skendėjo tamsybėse.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dalyvaujant didžiai
+    gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
+    kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­
+    pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
+    ................Jonui, Jurgiui Astikaičiui, Trakų...................
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    3.
+    14
+    Šios koplyčios fundacijos akte, 1543
+    metais išleistame to paties vyskupo
+    (žr. Grzybowski, 1. 40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-006
+
 - c-007
-  santrauka: 'Duota Vilniuje, penktadienį, rytojaus dieną po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­ lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­ dešimt šeštaisiais.'
+  santrauka: 'Vilniaus vyskupas Povilas sustabdė karalių ir privertė jį atsisakyti ketinimo eiti kitur, nukreipdamas į katalikų katedrą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Apie tai sužinojęs Vilniaus vysku­
+    pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­
+    tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­
+    lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių,
+    tarė: „Tai ne tas kelias, Maloningasis Pone, kuriuo Tavo pro­
+    tėviai ėjo Dievui garbės atiduoti, bet šitas! - ir parodė į ka­
+    tedros bažnyčią pilyje. - Apleidi, Karaliau, motiną, kuri ta­
+    ve pagimdė ir į šias garbingas pareigas iškėlė, o išeini pas
+    pamotę!" Šis drąsus vyskupo poelgis taip nustebino kara­
+    lių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-008
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiuo raštu skelbiame visiems ir
+    kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
+    yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai
+    gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Al-
+    šėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­
+    siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš
+    kitos pusės, dėl turguje ir Vilniaus aikštėje esančių pačio po­
+    no vyskupo, jo Vilniaus bažnyčios ir miestiečių mėsinių. Mat
+    vaitas ir patys Vilniaus tarėjai matydami, jog miesto aikštė
+    ar turgavietė yra perpildyta mėsos prekyvietėmis, užiman­
+    čiomis nemažą turgaus plotą, ir norėdami pačią turgavietę
+    ir aikštę praplėsti bei padidinti, visas toje turgavietėje seno­
+    je vietoje įrengtas mėsos prekyvietes, tiek savas, miestiečių,
+    tiek ir bažnyčios, be pačio pono vyskupo sutikimo nugriovė
+    ir kitas, naujas mėsines iš degintų plytų įtaisė kitoje miesto
+    vietoje vien tik minėto miesto reikmėms, tuo atsiskirdami
+    nuo minėto pono Vilniaus vyskupo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Vilniuje, penktadienį, rytojaus dieną po
@@ -250,103 +299,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     Dux Lituaniae, Russiae, Prussiae, Masoviae, Samogitiae, etc.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiuo raštu skelbiame visiems ir
-    kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
-    yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai
-    gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Al-
-    šėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­
-    siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš
-    kitos pusės, dėl turguje ir Vilniaus aikštėje esančių pačio po­
-    no vyskupo, jo Vilniaus bažnyčios ir miestiečių mėsinių. Mat
-    vaitas ir patys Vilniaus tarėjai matydami, jog miesto aikštė
-    ar turgavietė yra perpildyta mėsos prekyvietėmis, užiman­
-    čiomis nemažą turgaus plotą, ir norėdami pačią turgavietę
-    ir aikštę praplėsti bei padidinti, visas toje turgavietėje seno­
-    je vietoje įrengtas mėsos prekyvietes, tiek savas, miestiečių,
-    tiek ir bažnyčios, be pačio pono vyskupo sutikimo nugriovė
-    ir kitas, naujas mėsines iš degintų plytų įtaisė kitoje miesto
-    vietoje vien tik minėto miesto reikmėms, tuo atsiskirdami
-    nuo minėto pono Vilniaus vyskupo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-010
-  santrauka: 'Taigi mes jo teisėtam prašymui pritardami ir, norėdami sustiprinti Die­ vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­ riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­ čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taigi mes jo
-    teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
-    vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­
-    riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­
-    čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje,
-    kuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­
-    vių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­
-    sos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas
-    turėjo ir valdė. Tam pačiam ponui dabartiniam vyskupui ir
-    jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­
-    są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.
-    Leidžiame jas mėsininkams, kuriems tik norėtų, savo nuo­
-    žiūra, išnuomoti ar juos samdyti, taip pat tose pačiose mėsi­
-    nėse galvijus, gyvulius, laukinius gyvūnus ir visokių rūšių
-    nupenėtus naminius gyvūnus pirkti, parduoti, skersti, mė­
-    są laisvai išdėstyti ir ja prekiauti, nekliudant mūsų Vilniaus
-    piliečiams ir bet kokiems kitiems, bet kokios padėties, luo­
-    mo ir kilmės žmonėms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , sive illi sint nostri proprij, sive etiam aliorum quorum­
-    cunque Dominorum sukditi, et alij omnes, tam incolae ipsius
-    408
-
-    ## Puslapis 425
-
-    IV  KNYGA
-    ir katedros bažnyčios tarnams, giedantiems joje psalmyną,
-    buvo mokamas kasmetinis nustatytas činšas. Taigi, kai šis
-    ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­
-    rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­
-    dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­
-    klausančioje jam ir jo katedros bažnyčiai, savo ir savo
-    įpėdinių bei bažnyčios reikmėms įsteigti ir pastatyti kiek nors
-    naujų mėsinių, iš kurių reikėtų sumokėti mokestį psalteris-
-    tams, mes manėme, kad verta sutikti ir leisti. Taigi mes jo
-    teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
-    vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­
-    riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­
-    čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje,
-    kuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­
-    vių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­
-    sos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas
-    turėjo ir valdė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -364,7 +319,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]
-- [[objektai/asmenys/Absalomas Mžiglodas]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
@@ -389,7 +343,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/posakiai/Tai ne tas kelias, Maloningasis Pone]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
@@ -402,6 +355,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
 - [[objektai/zodynas/bažnytinės cenzūros ir pasaulietinė valdžia]]
 - [[objektai/zodynas/generaliniai tarėjai]]
+- [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
 - [[objektai/zodynas/oratorija]]
 - [[objektai/zodynas/saikas uolektis sprindis]]
 - [[objektai/zodynas/sufraganas kleras arkipresbiteris]]

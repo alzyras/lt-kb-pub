@@ -1,24 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Šventųjų šaltinių ir lieknų neprileidimas'
-sukurta: '2026-04-30'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Šventųjų šaltinių ir lieknų neprileidimas
 
@@ -30,6 +16,7 @@ tags: []
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: socialinė norma
 
 ## Atlikimas
@@ -42,28 +29,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     „Lig šiai dienai žemaičiai būtinai su mumis (krikščionimis) vienokią nuomonę visame turi, tiktai neleidžia artintis
         krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir
         nesumaitotų.“
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

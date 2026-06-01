@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Milkė'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - valstybė
@@ -19,16 +16,15 @@ tags:
 1800 m., savo prakalboje Milkės žodynui, tą pareiškė ir garsusis Karaliaučiaus filosofas Kantas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Milkės žodynui prakalbą 1800 m. parašė Karaliaučiaus filosofas Kantas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Milkės žodynui prakalbą 1800 m. parašė Karaliaučiaus filosofas Kantas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pačioje Mažojoje Lietuvoje XIX amžiaus pradžioje atsi-
@@ -38,11 +34,9 @@ tags:
     sofas Kantas. Anot jo, valstybė esanti reikalinga tokių kilnių,
     padorių žmonių, kaip lietuviai, todėl jų kultūrinės teisės pa-
     laikytinos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

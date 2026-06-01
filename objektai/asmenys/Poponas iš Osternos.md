@@ -31,31 +31,31 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius metus, o atsisakęs pareigų 1241, sugrįžo į Vokietijos kraštą, kur vėliau buvo išrinktas didžiuoju magistru265.'
   pagrindžia:
-    - c-001
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.'
-  pagrindžia:
     - c-005
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą Tuo metu Teutonų namų ordino VI didžiuoju magistru buvo brolis Poponas iš Osternos.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad kai šitai buvo padaryta, 1244 atvyko brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo.'
-  pagrindžia:
-    - c-003
-
 - t-004
-  teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
+  teiginys: 'Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo.'
   pagrindžia:
     - c-004
 
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     53 (52). Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -85,9 +85,9 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Poponą, šeštą Teutonų namų ordino didįjį magistrą
@@ -104,9 +104,9 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     50 (49). Apie laivų kautynes
@@ -122,9 +122,9 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     29. Apie brolį Poponą, antrą Prūsijos žemės magistrą

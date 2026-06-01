@@ -1,29 +1,23 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos Konstitucija (1938 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
   - '1938 m.'
   - '1940 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: '1940'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - saltinis
   - sutartis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Lietuvos Konstitucija (1938 m.)
 
@@ -32,38 +26,59 @@ tags:
 Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė. Merkys teisėtai tapo prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituciją neturėjo teisės skirti naujo vyriausybės vadovo.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1938 m. Konstitucija suteikė prezidentui teisę leisti įstatymus, sudaryti ir ratifikuoti sutartis bei skirti aukščiausius pareigūnus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Pagal Lietuvos konstituciją laikinai pareigas einantis prezidentas neturėjo teisės skirti naujo vyriausybės vadovo.'
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
   teiginys: 'Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją.'
   pagrindžia:
-    - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-005
+    - c-002
+
+- t-002
   teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
   pagrindžia:
-    - c-005
+    - c-003
+
+- t-003
+  teiginys: '1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
+    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
+    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
+    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
+    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
+    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
+    teritoriją. Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta
+    Atkuriamuoju Seimu, toliau – AT-AS) ėmė įgyvendinti nuostatą, kad
+    šalies teritorijoje neveikia jokios kitos valstybės konstitucija. Tam reikė-
+    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
+    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
+    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam reikė-
@@ -79,70 +94,6 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: '1938 m. Konstitucija suteikė prezidentui teisę leisti įstatymus, sudaryti ir ratifikuoti sutartis bei skirti aukščiausius pareigūnus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prezi-
-    dentas gali leisti įstatymus, sudaryti ir ratifikuoti sutartis, atleisti ir skirti
-    aukščiausius pareigūnus, kaip vyriausiasis ginkluotųjų pajėgų vadas jis
-    skiria ir atleidžia kariuomenės vadą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
-    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
-    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
-    Vilnius yra Lietuvos sostinė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Pagal Lietuvos konstituciją laikinai pareigas einantis prezidentas neturėjo teisės skirti naujo vyriausybės vadovo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    V. Dekanozovo paliepimu A. Smetonos išvykimas paaiškintas kaip prezi-
-    dento atsistatydinimas ir sudarytas įspūdis, kad A. Merkys teisėtai tapo
-    prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituci-
-    ją neturėjo teisės skirti naujo vyriausybės vadovo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tam reikė-
-    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
-    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
-    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004

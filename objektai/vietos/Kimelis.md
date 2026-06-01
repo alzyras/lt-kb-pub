@@ -21,16 +21,16 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
 - t-001
   teiginys: 'Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui, taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der Mimel).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     548 D.— Kymel, Jer.— Kimel, nurodydamas, kad pilis buvusi prie Nemuno (bî der
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vis dėlto

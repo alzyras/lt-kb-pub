@@ -1,24 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Minaičių kaimas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1949 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1949'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Minaičių kaimas
 
@@ -27,16 +21,15 @@ tags:
 Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     partizanų vadovybę, pagrindiniu kovos tikslu buvo nurodytas siekis
@@ -64,10 +57,8 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
     nuoliktas - Vakarų Lietuvos srities
     Agitacijos ir propagandos skyriaus
     viršininkas Antanas Liesys-Idenas
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

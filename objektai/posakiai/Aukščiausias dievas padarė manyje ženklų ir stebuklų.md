@@ -17,24 +17,24 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus ir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė skelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženklų ir stebuklų.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kadangi yra parašyta (Mt 5, 16): „...kad jie matytų jūsų gerus darbus ir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė skelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženklų ir stebuklų.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau tinka tie žodžiai ir šios knygos autoriui,
@@ -50,9 +50,9 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pratarmė
@@ -63,9 +63,9 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

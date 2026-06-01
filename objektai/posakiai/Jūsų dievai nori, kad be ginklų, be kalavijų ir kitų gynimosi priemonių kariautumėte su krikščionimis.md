@@ -17,17 +17,17 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad kai traukėsi atgal, kai kuriems belaisviams pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos įkalbinėti drąsiai leistis iš.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
   pagrindžia:
     - c-001
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'

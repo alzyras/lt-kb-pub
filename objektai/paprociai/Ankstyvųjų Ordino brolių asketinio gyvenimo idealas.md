@@ -39,19 +39,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  teiginys: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai tokių didžiulių
@@ -64,9 +64,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -79,7 +79,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

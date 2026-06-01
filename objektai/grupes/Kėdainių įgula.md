@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Kėdainių įgula'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - krikštas
@@ -25,19 +16,20 @@ tags:
 Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą Kėdainių link.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kėdainių įgulos savanoriai pirmąjį kovos krikštą patyrė sulaikydami bolševikų puolimą Kėdainių link.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kėdainių įgulos savanoriai pirmąjį kovos krikštą patyrė sulaikydami bolševikų puolimą Kėdainių link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Neturintys kovos patirties savanoriai, drą-
@@ -49,18 +41,18 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
     šautuvų ugnimi juos sulaikyti. Toks buvo
     pirmasis Kėdainių įgulos sava-
     norių kovos krikštas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Vasario 7 d. anksti
+    Tai pakėlė ūpą ir pasijutę stipresni, savano-
+    riai vėl grįžo į Kėdainius, pasiryžę iš jų ne-
+    sitraukti nė žingsnio. Vasario 7 d. anksti
     ryte Kėdainių įgula iš Kauno gavo šau-
     tuvų, šovinių ir rankinių granatų.
     Nors kulkosvaidžių įgula dar ne-
@@ -71,9 +63,7 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
     Vokiškas kulkosvaidis Maxim MGo8.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

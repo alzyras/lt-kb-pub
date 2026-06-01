@@ -25,7 +25,7 @@ tags:
     - c-001
 
 - t-002
-  teiginys: '„Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir ten Saulės žemėje (terram Sauleorum) šv.'
+  teiginys: 'Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir pasiekė Saulės žemę.'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: '„Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir ten Saulės žemėje (terram Sauleorum) šv.'
+  santrauka: 'Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir pasiekė Saulės žemę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Saulės mūšį ir jo

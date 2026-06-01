@@ -26,24 +26,25 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Pasak Prūsijos metrašti­ ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai 102 ## Puslapis 119 I KNYGA vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs jam pilies užėmimą.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš raudonų plytų.'
+  teiginys: 'Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.'
+  pagrindžia:
+    - c-003
 
 - t-003
   teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Gediminas 1337 m. birželio 15 d. su kariuomene sustojo ties Bajerburgu, siekdamas išvyti priešais Veliuoną įsikūrusius kryžiuočius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pilies kieme kadaise buvo gilus šulinys, gau­
@@ -66,9 +67,9 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rau­
@@ -126,7 +127,8 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
+  santrauka: 'Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar Veliuona priklauso dvari­
@@ -143,4 +145,4 @@ Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

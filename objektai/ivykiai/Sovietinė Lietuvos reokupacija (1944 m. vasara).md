@@ -43,12 +43,12 @@ Nenurodyta
 - t-001
   teiginys: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'L I E T U V O S I S T O R I J A 206 Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
@@ -57,7 +57,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių okupaciją keičia sovietinė
@@ -74,7 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nacių okupaciją keičia sovietinė

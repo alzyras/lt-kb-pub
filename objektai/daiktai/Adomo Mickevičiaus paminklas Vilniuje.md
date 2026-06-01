@@ -1,31 +1,18 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Adomo Mickevičiaus paminklas Vilniuje"
-sukurta: '2026-05-14'
-variantai:
-  - "Adomo Mickevičiaus paminklas Vilniuje"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Adomo Mickevičiaus paminklas Vilniuje'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "1987 m. rugpjūčio 23 d. protesto mitingo kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1987 m.'
-periodas: 'siuolaikine_istorija'
-periodo_grupes:
-  - 'XX a.'
-  - 'sovietmetis'
-amziai:
-  - 'XX'
 date_start: '1987'
 date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - simbolis
+amziai:
+  - 'XX'
 ---
 # Adomo Mickevičiaus paminklas Vilniuje
 
@@ -34,9 +21,11 @@ tags:
 Adomo Mickevičiaus paminklas Vilniuje minimas kaip konkreti protesto mitingo vieta ir materialus orientyras, prie kurio LLL iniciatyva 1987 m. rugpjūčio 23 d. surengtas mitingas.
 
 ## Pavadinimai šaltiniuose
+
 - Adomo Mickevičiaus paminklas Vilniuje
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
@@ -48,55 +37,55 @@ Paminklas Vilniuje.
 Naudotas kaip protesto mitingo susibūrimo vietos orientyras.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-005
+
+- t-001
   teiginys: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-007
+
+- t-002
   teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LLL apie save ypač drą-
+    Nors nuolat persekiojama, LLL – vienintelė pogrindžio organizacija,
+    sulaukusi atgimimo laikų. Kaip tik tuo metu iš įkalinimo vietų buvo pa-
+    leisti jos aktyvieji nariai, organizacija tapo legali. LLL apie save ypač drą-
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
 - c-002
-  santrauka: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LLL apie save ypač drą-
+    Kaip tik tuo metu iš įkalinimo vietų buvo pa-
+    leisti jos aktyvieji nariai, organizacija tapo legali. LLL apie save ypač drą-
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas. Nepalūžę dvasininkai ir
     disidentai skatino Lietuvos visuomenę kovoti už tikėjimo ir žmogaus lais-
     ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
     savo nepriklausomybės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
-    - t-007
+    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

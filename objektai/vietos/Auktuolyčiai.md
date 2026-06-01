@@ -26,16 +26,16 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų, kurie plaukė laivais, ir, išdėstęs tinkamose.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos (Katinavos) valsčiaus centras (HGAPW).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     177 (172). Apie Auktuolyčių pilies užkariavimą

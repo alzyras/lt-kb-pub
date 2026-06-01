@@ -1,68 +1,63 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: apsikarūnavimas
-sukurta: '2026-05-05'
-variantai:
-  - apsikarūnavime
-  - karūnacija
-aliases: []
+pavadinimas: 'apsikarūnavimas'
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
   - '1398 m.'
   - '1430 m.'
   - '1930 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-laikotarpis: 1398 m.
-patikimumas: aukštas
-atnaujinta: '2026-05-05'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # apsikarūnavimas
 
+## Santrauka
+
+Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui. Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.
+
 ## Teiginiai
-- t-003
-  teiginys: 'Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Vieni ieško to priežasčių jo nepasiseku­ siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi gauti sutikimą Romoj.'
+
+- t-001
+  teiginys: 'Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vieni ieško to priežasčių jo nepasiseku­
+    Bet vis tik kyla klausimas, kam Vytautui buvo rei­
+    kalinga užvaldyti visa Rusija ir Totoriai? Už tai daug kas jį ir
+    kaltina, kad, verždamasis vis toliau į rytus, mažai tesirūpinęs
+    lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
     siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
     gauti sutikimą Romoj.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-002
-  santrauka: 'Vieni ieško to priežasčių jo nepasiseku­ siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi gauti sutikimą Romoj.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vieni ieško to priežasčių jo nepasiseku­
+    Už tai daug kas jį ir
+    kaltina, kad, verždamasis vis toliau į rytus, mažai tesirūpinęs
+    lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
     siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
     gauti sutikimą Romoj. Kita priežastis, tai jo noras sukurti to­
     kią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai
@@ -70,11 +65,9 @@ tags: []
     tas tiek su Ordinu, tiek ir su lenkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -110,6 +103,7 @@ tags: []
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
 - [[objektai/asmenys/Tacitas]]
+- [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
@@ -124,6 +118,7 @@ tags: []
 - [[objektai/zodynas/konversija christianizacija europeizacija]]
 - [[objektai/zodynas/konvokaciniai seimai]]
 - [[objektai/zodynas/protektorium]]
+- [[objektai/posakiai/„švento valdovo“ įvaizdis]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]

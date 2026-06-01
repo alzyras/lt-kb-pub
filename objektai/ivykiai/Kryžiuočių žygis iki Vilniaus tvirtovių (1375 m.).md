@@ -1,28 +1,18 @@
 ---
 tipas: ivykis
-pavadinimas: "Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1375 m."
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1375 m.'
-periodas: 'viduramziai'
-periodo_grupes: []
-amziai:
-  - 'XIV'
 date_start: '1375'
 date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
+amziai:
+  - 'XIV'
 ---
 # Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)
 
@@ -31,6 +21,7 @@ tags:
 1375 m. kryžiuočių ekspedicija sukėlė Vilniui naują grėsmę. Vinrichas turėjo trauktis dėl atodrėkio ir upių polaidžio, tačiau Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir pasiekė Vilniaus tvirtoves, nors staiga užimti ginamo miesto nepavyko.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1375 m.
 - datos:
   - 1375 m.
@@ -40,35 +31,37 @@ tags:
 - date_end: 1375
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1375 m. Vinricho ekspedicija į Lietuvą nutrūko dėl staigaus atodrėkio ir upių polaidžio."
+  teiginys: '1375 m. Vinricho ekspedicija į Lietuvą nutrūko dėl staigaus atodrėkio ir upių polaidžio.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet staiga užimti miesto nepavyko."
+  teiginys: 'Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet staiga užimti miesto nepavyko.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 1375 m. ekspedicijos grėsmė Vilniui ir Vinricho pasitraukimas.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -79,15 +72,13 @@ Nenurodyta
     bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
     binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
     polaidžio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Gotfrido Lindeno žygis iki Vilniaus tvirtovių.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kita ekspe­
@@ -101,15 +92,13 @@ Nenurodyta
     meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­
     pavykus staiga užimti gerai ginamo miesto, grįžo atgalios
     plėšti aplinkinių žemių23.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
@@ -124,9 +113,7 @@ Nenurodyta
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -136,3 +123,4 @@ Nenurodyta
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gotfridas Lindenas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/komtūras]]

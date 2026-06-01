@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Stanislovo Leščinskio išrinkimas karalium (1704 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1704 m.'
+date_start: '1704'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - ivykis
   - seimas
+amziai:
+  - 'XVIII'
 ---
 # Stanislovo Leščinskio išrinkimas karalium (1704 m.)
 
@@ -32,16 +35,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl visuotinio sukilimo
@@ -54,11 +56,9 @@ Nenurodyta
     lium Poznanės vaivadą
     Stanislovą Leščin-
     skį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

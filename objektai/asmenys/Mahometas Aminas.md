@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mahometas Aminas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - valdovas
@@ -25,16 +16,15 @@ tags:
 Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mengli-Girėjus, gavęs žinią apie toto-
@@ -53,11 +43,9 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
     valias, todėl sąjunga su Krymu buvo patvir-
 
     tinta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

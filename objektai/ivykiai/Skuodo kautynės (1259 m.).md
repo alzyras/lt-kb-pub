@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Skuodo kautynės (1259 m.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1259 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1259'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - paliaubos
+amziai:
+  - 'XIII'
 ---
 # Skuodo kautynės (1259 m.)
 
@@ -28,39 +22,40 @@ tags:
 Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo kelią, šie persekiotojus sumušė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai
     narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su
     gausiu grobiu grįžtantiems žemaičiams Skuodo laukuose pastojo
     kelią, šie persekiotojus sumušė. Žuvo 33 riteriai^162.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

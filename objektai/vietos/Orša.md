@@ -1,28 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Orša'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
 datos:
   - '1509 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1509'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karalius
   - kunigaikštis
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Orša
 
@@ -31,81 +24,53 @@ tags:
 Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis. Ostrogiškis smarkiai sumušė Mas- kvos kariuomenę ties Orša.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
-  teiginys: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
-  teiginys: 'Ostrogiškis smarkiai sumušė Mas- kvos kariuomenę ties Orša.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-004
-  teiginys: 'Orša: tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-005
   teiginys: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
   pagrindžia:
     - c-005
 
+- t-002
+  teiginys: 'Orša: tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Ostrogiškis smarkiai sumušė Mas- kvos kariuomenę ties Orša.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Maskvos kariuomenė net tris kartus buvo
-    apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet tuo tarpu atvykęs Lietuvos hetmonas
-    kunigaikštis Konstantinas Ostrogiškis ties Orša
-    sumušė priešą ir privertė jį trauktis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Ostrogiškis smarkiai sumušė Mas- kvos kariuomenę ties Orša.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
+    Visos Maskvos jėgos buvo nu-
+    kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,
+    Glinskiui sukėlus viduje sąmokslą, buvo paimtas (1514 m.).
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Orša: tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig- manto fundacija), Smolenske (klebono Lempickio ir kt. fun- dacija), Kaune.'
+    - t-004
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
     Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
     vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
     manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
@@ -119,22 +84,46 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     piegos f-ja).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
+    - t-002
+
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    ).
+    Alek-
+    sandras iš tikro gavo karūną, tačiau Lenkija nieko nepadėjo
+    Lietuvai. Besirūpinant karaliaus karūna apleisti karo reikalai
+    dar labiau pablogėjo. Maskvos kariuomenė net tris kartus buvo
+    apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet tuo tarpu atvykęs Lietuvos hetmonas
+    kunigaikštis Konstantinas Ostrogiškis ties Orša
+    sumušė priešą ir privertė jį trauktis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visos Maskvos jėgos buvo nu-
+    kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,
+    Glinskiui sukėlus viduje sąmokslą, buvo paimtas (1514 m.).
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001

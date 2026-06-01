@@ -29,34 +29,34 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie popiežiaus mirtį Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo tos dienos, kai ėmė rodytis kometa (Ptol.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
   pagrindžia:
     - c-005
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
-  pagrindžia:
-    - c-003
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
-  pagrindžia:
-    - c-002
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą 1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.'
   pagrindžia:
     - c-004
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą 1313 viešpaties metais, gegužės 5 dieną, popiežius Klemensas V kanonizavo šventą Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     116. Apie popiežiaus mirtį
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
@@ -81,9 +81,9 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     111. Apie švento Petro, kadaise Celestino V, popiežiaus, kanonizavimą
@@ -95,9 +95,9 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
@@ -111,9 +111,9 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     109. Apie tamplierių ordino panaikinimą
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

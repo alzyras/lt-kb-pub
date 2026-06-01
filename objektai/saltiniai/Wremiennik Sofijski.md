@@ -1,33 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Wremiennik Sofijski'
-sukurta: '2026-05-27'
-variantai:
-  - 'Sofijski Wremiennik'
-  - 'V\lremiennik Sofijski'
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1347 m.'
-  - '1430 m.'
   - '1827 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XIX'
 date_start: '1347'
 date_end: '1827'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Wremiennik Sofijski
 
@@ -45,37 +30,35 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 - Cituojami Jaunučio, Vilniaus bažnyčios, genealogijos, Vilniaus puolimo ir 1430 m. suvažiavimo epizodai.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Wremiennik Sofijski nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje egzistavimo 1347 m.'
   pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-003
+    - c-001
+
+- t-002
   teiginys: 'Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde.'
   pagrindžia:
-    - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-004
+    - c-002
+
+- t-003
   teiginys: 'Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti.'
   pagrindžia:
-    - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-005
+    - c-003
+
+- t-004
   teiginys: 'Sofijski Wremiennik pateikia 1430 m. Trakų-Vilniaus suvažiavimo pas Vytautą dalyvių sąrašą.'
   pagrindžia:
-    - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-006
+    - c-004
+
+- t-005
   teiginys: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p. 334.'
   pagrindžia:
-    - c-006
+    - c-005
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Wremiennik Sofijski nurodomas dėl Šv. Mikalojaus bažnyčios Vilniuje egzistavimo 1347 m.'
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wremiennik Sofijski, p. 334. Žr.
@@ -86,13 +69,11 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     bame čia apie Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde.'
+    - t-001
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bent jau apie Narimantą kal­
@@ -113,13 +94,11 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     nik, p. 382.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti.'
+    - t-002
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV, p. 273 rašo: Boleslaus autem
@@ -148,13 +127,11 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     Lietuva laimėjo].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Sofijski Wremiennik pateikia 1430 m. Trakų-Vilniaus suvažiavimo dalyvių sąrašą.'
+    - t-003
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočių Slaptajame
@@ -182,16 +159,18 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     byli u neho.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p. 334.'
+    - t-004
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tas galingas didikas, paėmęs už žmoną
+    Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
     Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
     18
     Wremiennik Sofijski, p. 334. Žr.
@@ -201,8 +180,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     je egzistavimą jau 1347 metais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-005

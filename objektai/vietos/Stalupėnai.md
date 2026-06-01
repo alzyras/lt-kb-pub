@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Stalupėnai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
+date_start: '1936'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1936'
-date_end: '2026'
-patikimumas: 'žemas'
-atnaujinta: '2026-04-25'
-tags:
-  - vieta
 ---
 # Stalupėnai
 
@@ -31,36 +25,31 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad stalupėnai (dab.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 
-- c-002
-  santrauka: 'Dusburgietis teigia, kad stalupėnai (dab.'
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    Kamienne) ež.
     Stalupėnai (dab. Nesterovas)
     Stanaičiai (dab.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
-  santrauka: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1914 m. rugpiūčio mėnesį
@@ -70,10 +59,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     ties, Gumbinės, Stalupėnų. Tačiau veikiai vokiečiai išstūmė ru-
     sų kariuomenę ir įsiveržė į dabartinės Lietuvos teritoriją, ypa-
     čiai į Suvalkų kraštą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

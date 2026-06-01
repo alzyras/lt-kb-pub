@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bajorija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -21,33 +18,32 @@ tags:
 Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštesniuoju visuomenės sluoksniu, arba bajorija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iškilus kunigaikščiams, senieji apylinkių vadai rikiai tapo aukštesniuoju visuomenės sluoksniu, vadinamu bajorija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iškilus kunigaikščiams, senieji apylinkių vadai rikiai tapo aukštesniuoju visuomenės sluoksniu, vadinamu bajorija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Visuomenės sluoksniai.** Iškilus didesnių sričių valdovams
     —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštes-
     niuoju visuomenės sluoksniu, arba bajorija. Be jų, buvo
     dar kitų, žemesnių sluoksnių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/asmenys/A. Suvorovas]]
 - [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
 - [[objektai/asmenys/Aleksandras I]]
@@ -116,6 +112,7 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/jakobinizmas jakobinų klubas]]
+- [[objektai/zodynas/kaduko teisė]]
 - [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/kitatikiai]]
@@ -123,12 +120,14 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/zodynas/memorialas]]
 - [[objektai/zodynas/oficialusis kultūros modelis]]
 - [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]
+- [[objektai/zodynas/pacta conventa]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/zodynas/polonizacija integracinė kalba]]
 - [[objektai/zodynas/pulka polka campus laukas]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/tribunolas]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/valstybingumo sąmonė]]
 - [[objektai/zodynas/visuotinis bajorijos stojimas]]
 - [[objektai/zodynas/činšininkai]]
@@ -136,12 +135,12 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
 - [[objektai/asmenys/Šv. Kazimieras]]
 - [[objektai/grupes/Žemaitijos vyriausybė]]
+- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]
 - [[objektai/zodynas/žemės santykiais pagrįsta periodizacija]]
 - [[objektai/posakiai/„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/paprociai/Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose]]
 - [[objektai/paprociai/Bajorijos karo prievolės vengimas ir samdytinė kariuomenė]]
+- [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai]]
 - [[objektai/asmenys/Motiejus Strijkovskis]]
-- [[objektai/zodynas/pacta conventa]]
 - [[objektai/zodynas/regimentorius]]
 - [[objektai/zodynas/sankcija]]

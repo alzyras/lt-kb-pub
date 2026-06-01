@@ -1,70 +1,50 @@
 ---
-tipas: 'grupe'
+tipas: grupe
 pavadinimas: 'Aušrėnai'
-sukurta: '2026-04-30'
-variantai:
-  - 'aušrėnai'
-  - 'aestii'
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-bukle: 'juodrastis'
-laikotarpis: 'I amžius po Kristaus'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
 # Aušrėnai
 
 ## Santrauka
+
 Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
   pagrindžia:
-    - c-001
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antras rašytojas, gyvenąs pirmajame amžiuje gimus Kristui, savo garbingame rašte „Girionų
         būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,
         beje, javus ir vaisius steigiai^1174 veisiantys.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-002
-  santrauka: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

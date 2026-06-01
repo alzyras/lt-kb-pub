@@ -28,54 +28,54 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
   pagrindžia:
     - c-003
 
-- t-009
+- t-002
   teiginys: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
-  pagrindžia:
-    - c-009
-
-- t-004
-  teiginys: 'Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.'
   pagrindžia:
     - c-004
 
-- t-007
-  teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
-  pagrindžia:
-    - c-007
-
-- t-010
-  teiginys: 'Pilsudskis uždavė A.'
-  pagrindžia:
-    - c-010
-
-- t-002
-  teiginys: 'Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.'
+- t-003
+  teiginys: 'Pilsudskio sumanymą miestą užėmė ne Lenkijos kariuomenė, o neva nepaklususio Lenkijos valdžiai „maištininko“ L.'
   pagrindžia:
     - c-002
 
-- t-006
-  teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
+- t-004
+  teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Pilsudskis uždavė A.'
   pagrindžia:
     - c-006
 
-- t-005
+- t-006
+  teiginys: 'Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.'
+  pagrindžia:
+    - c-008
+
+- t-007
+  teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
+  pagrindžia:
+    - c-007
+
+- t-008
   teiginys: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
   pagrindžia:
     - c-005
 
-- t-001
+- t-009
   teiginys: 'Pilsudskis, pokario.'
   pagrindžia:
-    - c-001
+    - c-009
 
 ## Reikšmingi paminėjimai
 
-- c-007
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
@@ -90,9 +90,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai atmetė
@@ -111,7 +111,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -128,9 +128,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-009
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviakalbės Lietuvos
@@ -149,7 +149,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-002
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -162,9 +162,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-008
 
-- c-010
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
@@ -179,9 +179,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-005
 
-- c-006
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
@@ -195,9 +195,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-007
 
-- c-002
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Delegacija
@@ -217,9 +217,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-006
 
-- c-001
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kadangi Lenkijos ir Lietu-
@@ -235,9 +235,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-009
 
-- c-011
+- c-010
   santrauka: 'Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -253,7 +253,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

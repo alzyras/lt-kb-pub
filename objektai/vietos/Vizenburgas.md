@@ -25,29 +25,29 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
-  pagrindžia:
-    - c-004
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 390 D.— Walewona, Jer.— Walewon (GAO, p. 193); Valevona, pilis, lokalizuojama Gubros—Alnos santakoje, Sempopolio piliakalnyje (VBK; HE, p.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  teiginys: 'Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 390 D.— Walewona, Jer.— Walewon (GAO, p. 193); Valevona, pilis, lokalizuojama Gubros—Alnos santakoje, Sempopolio piliakalnyje (VBK; HE, p.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
@@ -63,9 +63,9 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
@@ -80,9 +80,9 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo palikta Vizenburgo pilis
@@ -100,9 +100,9 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     390 D.— Walewona, Jer.— Walewon (GAO, p. 193); Valevona, pilis, lokalizuojama
@@ -111,7 +111,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-005
   santrauka: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'

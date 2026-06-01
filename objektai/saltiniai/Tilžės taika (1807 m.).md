@@ -1,16 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Tilžės taika (1807 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1807 m.'
+date_start: '1807'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Tilžės taika (1807 m.)
 
@@ -19,18 +22,15 @@ tags:
 Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų viltis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų viltis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų viltis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tikslu pas Napoleoną į Tilžę
@@ -38,10 +38,8 @@ Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų vi
     nieko neišėjo, nes Napoleonas nenorėjo kariauti su caru Alek-
     sandru I (1801—1825 m.). Tilžėje padaryta su Aleksandru I taika
     (1807 m.) palaidojo Lietuvos bajorų viltis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

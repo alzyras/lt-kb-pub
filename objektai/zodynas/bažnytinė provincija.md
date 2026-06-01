@@ -1,32 +1,21 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: bažnytinė provincija
-sukurta: '2026-04-25'
-variantai:
-  - bažnytinę provinciją
-aliases: []
+pavadinimas: 'bažnytinė provincija'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1936 m.'
+  - '1925 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # bažnytinė provincija
 
@@ -35,33 +24,44 @@ tags: []
 Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas. Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Ši provincija turėjo užbaigti bažnytinį Lietuvos gyvenimo tvarkymą ir suteikti daugiau savarankiškumo.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Iš pirmųjų trijų vysku­ pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­ tuvos bažnytinę provinciją.'
-  pagrindžia:
-    - c-003
-- t-008
+
+- t-001
   teiginys: 'Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias, Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­ ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­ sirinkimo eigą ir dažnai susirašinėjo su popiež.'
   pagrindžia:
     - c-004
 
+- t-002
+  teiginys: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Iš pirmųjų trijų vysku­ pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­ tuvos bažnytinę provinciją.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Ši provincija turėjo užbaigti bažnytinį Lietuvos gyvenimo tvarkymą ir suteikti daugiau savarankiškumo.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
+  pagrindžia:
+    - c-006
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Iš pirmųjų trijų vysku­
+    Šią paskutinę Vytautas įsteigė
+    tik pabaigoj savo gyvenimo (po 1424). Iš pirmųjų trijų vysku­
     pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­
     tuvos bažnytinę provinciją. Tai būtų buvęs Vytauto vaini­
     kas, uždėtas visam Lietuvos christanizacijos darbui, nes su Lie­
@@ -69,30 +69,29 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     tinio Lietuvos gyvenimo tvarkymas, ko Vytautas karštai siekė
     ir kas butų turėjęs didelės reikšmės, valstybei ir tautiniam gy­
     venimui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-002
-  santrauka: 'Ši provincija turėjo užbaigti bažnytinį Lietuvos gyvenimo tvarkymą ir suteikti daugiau savarankiškumo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
+    tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
     Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias,
     Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­
     ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­
-    sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė
-  citata_rodoma: ""
+    sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė­
+    mė pirklių ir amatininkų reikalus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
+
 - c-003
-  santrauka: 'Iš pirmųjų trijų vysku­ pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­ tuvos bažnytinę provinciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš pirmųjų trijų vysku­
@@ -106,15 +105,15 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     nepavyko iškovoti visiškos laisvės, tikro savarankiškumo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
+
 - c-004
-  santrauka: 'Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias, Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­ ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­ sirinkimo eigą ir dažnai susirašinėjo su popiež.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
+    tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
     Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias,
     Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­
     ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­
@@ -122,11 +121,45 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     mė pirklių ir amatininkų reikalus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
+
+- c-005
+  santrauka: 'Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    10).
+
+    Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės
+    provincijos klausimas. Senosios Lietuvos valstybės laikais, nuo
+    pat krikšto, visa etnografinė Lietuva priklausė Lenkijos Gniezno
+    arkivyskupijai, o rusų valdymo laikais ji buvo įterpta į naujai
+    sudarytą Mogilevo arkivyskupiją, kurios arkivyskupas buvo
+    perkeltas į Petrapilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada kilo pavojus, kad bent okupuo-
+    tosios Lietuvos Bažnyčia vėl gali būti surišta su Lenkijos arki-
+    vyskupijomis. Todėl, užmezgus oficialinius santykius su Vati-
+    kanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lie-
+    tuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuo-
+    tasis Vilniaus kraštas. Tačiau Vatikanas 1925 metais sudarė
+    konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
+    nepabaigtame ginče su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -134,6 +167,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 
 ### Susiję objektai
 - [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/savarankiškumas]]

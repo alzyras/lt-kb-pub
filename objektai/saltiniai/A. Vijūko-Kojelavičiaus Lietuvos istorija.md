@@ -1,31 +1,17 @@
 ---
 tipas: saltinis
 pavadinimas: 'A. Vijūko-Kojelavičiaus Lietuvos istorija'
-sukurta: '2026-05-27'
-variantai:
-  - 'Kojałowicz, Hist. Lithu.'
-  - 'Kojalowicz, Pars I'
-  - 'Historiae Lituanae'
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1323 m.'
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: '1324'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
 ---
 # A. Vijūko-Kojelavičiaus Lietuvos istorija
 
@@ -39,25 +25,25 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
 - Autorius / redaktorius: A. Vijūkas-Kojelavičius / Kojałowicz.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Kojelavičius sekė Strijkovskiu pasakojime apie Kęstučio gudrybes puolant Vilnių.'
   pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-003
+    - c-001
+
+- t-002
   teiginys: 'Kojelavičius ir Dlugošas palaikė versiją, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.'
   pagrindžia:
-    - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.'
+    - c-002
+
+- t-003
+  teiginys: 'A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.'
   pagrindžia:
-    - c-004
+    - c-003
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Kojelavičius sekė Strijkovskiu pasakojime apie Kęstučio Vilniaus puolimo gudrybes.'
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
@@ -82,13 +68,11 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     bei jos vyru.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kojelavičius ir Dlugošas palaikė versiją, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.'
+    - t-001
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'
@@ -101,16 +85,21 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     nai Naruševičiaus Proces ory- lies dvejus vartus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.'
+    - t-002
+
+- c-003
+  santrauka: 'A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tačiau Gediminas, jei galiu taip
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
     sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
     1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
     97
@@ -130,8 +119,6 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
     lor evidenter!
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003

@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Mažalenkiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - unija
@@ -25,16 +16,15 @@ tags:
 Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Lenkija neišsižadės ir dabar tos naudos, kurią jai galėjo suteikti Lietuvos susilpnėjimas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Susitikimas su mažalenkiais galėjo Vytautą įtikinti, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susitikimas su mažalenkiais galėjo Vytautą įtikinti, kad Lenkija neišsižadės naudos iš Lietuvos susilpnėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šitas jo skubus sugrįži­
@@ -46,11 +36,9 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
     suardytų uniją, jų siekimų tikslą, nes netikėjo, kad Jogaila, bū­
     damas Lietuvoj d. kunigaikščiu, paklustų kokiam nors kitam jų
     karaliui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

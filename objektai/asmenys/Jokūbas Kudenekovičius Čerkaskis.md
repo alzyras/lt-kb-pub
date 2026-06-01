@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jokūbas Kudenekovičius Čerkaskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1660 m.'
   - '1665 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1660'
 date_end: '1665'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
   - kunigaikštis
   - miestas
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jokūbas Kudenekovičius Čerkaskis
 
@@ -31,22 +27,40 @@ tags:
 Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais. Čerkaskis dalyvavo užimant Gardiną, Vilnių, kur sumušė J.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių, kur sumušė J. Radvilos ir V. Gosievskio pajėgas.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
+
+- t-003
+  teiginys: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    J. Čerkaskis dalyvavo užimant
+    Gardiną, Vilnių, kur sumušė J. Radvilos
+    ir V. Gosievskio pajėgas. „Tvano“ metu
+    1660 m. dalyvavo kovose su švedais. Žuvo
+    1665 metais prie Mogiliavo, kai miestą buvo
+    apgulę lauko etmono M. K. Paco kariai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusijos pajėgos
@@ -58,31 +72,39 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
     pasižymėjęs kovose su totoriais. Karo su
     Lenkijos-Lietuvos valstybe metu veikė da-
     bartinėje Baltarusijos teritorijoje. 1655 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių, kur sumušė J. Radvilos ir V. Gosievskio pajėgas.'
+
+- c-003
+  santrauka: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    J. Čerkaskis dalyvavo užimant
-    Gardiną, Vilnių, kur sumušė J. Radvilos
-    ir V. Gosievskio pajėgas. „Tvano“ metu
-    1660 m. dalyvavo kovose su švedais. Žuvo
-    1665 metais prie Mogiliavo, kai miestą buvo
-    apgulę lauko etmono M. K. Paco kariai.
-  citata_rodoma: ""
+    Lenkijos pagrindines
+    pajėgas visiškai sukaustė jungtinės rusų ir
+    kazokų pajėgos, tad su pagrindine rusų ka-
+    rine jėga kovojo vien LDK kariuomenė.
+
+    Rusijos pajėgos
+
+    Rusijos kariuomenei iš tikrųjų (oficialiai —
+    pats caras Aleksejus Michailovičius) vado-
+    vavo kunigaikštis Jokūbas Kudenekovičius
+    Čerkaskis (iki krikšto — Uruskan-Murza),
+    pasižymėjęs kovose su totoriais. Karo su
+    Lenkijos-Lietuvos valstybe metu veikė da-
+    bartinėje Baltarusijos teritorijoje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]

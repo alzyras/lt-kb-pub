@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Kučinskas, A'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1934 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1934'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - dinastija
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Kučinskas, A
 
@@ -28,16 +24,15 @@ tags:
 Kučinskas, A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Kučinskas nurodomas 1934 m. Kaune paskelbto teksto „Gedimino dinastijos kilmė“ autoriumi.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'A. Kučinskas nurodomas 1934 m. Kaune paskelbto teksto „Gedimino dinastijos kilmė“ autoriumi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jh. in Preusseu,_ Historische Studien, Heft 272,
@@ -53,11 +48,9 @@ Kučinskas, A.
     A. : _Gedimino dinastijos kilmė,_ atsp. iš Mūsų Žinyno, nr. 107-108, Kaunas
     1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę
     iš Žemaičių).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

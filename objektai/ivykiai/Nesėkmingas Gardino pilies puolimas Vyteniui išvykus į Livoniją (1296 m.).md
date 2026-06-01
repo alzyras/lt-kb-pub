@@ -44,17 +44,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad šis, bemaž priėjęs prie karaliaus žemių, kažkodėl pasuko atgal ir, sugalvojęs pulti Gardino pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada, kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs.'
   pagrindžia:
     - c-002
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
@@ -96,7 +96,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį

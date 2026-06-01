@@ -29,29 +29,29 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad argi jo troškimai atnešė 155 Pirmas Ordino magistras Henrikas Valpotas (1198—1200) Dusburgiečio šaltinyje („Pasakojime apie Vokiečių ordino pradžią”) vadinamas Hermanu (SRP, t.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kronikininkas visa tai nutyli, kaip ir pirminį Vokiečių ordino priklausomumą nuo joanitų141.'
   pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad iš „Pasakojimo...” žinome, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę, o ją iš pradžių valdė kapelionas Konradas ir kamerarijus Burhardas, kurie po Akono paėmimo pastatė ir bažnyčią.'
+  pagrindžia:
     - c-002
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad iš „Pasakojimo...” žinome, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę, o ją iš pradžių valdė kapelionas Konradas ir kamerarijus Burhardas, kurie po Akono paėmimo pastatė ir bažnyčią.'
+  teiginys: 'Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs Akone greičiausiai 1204—1211 m. ankstesnių (XII a.'
   pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs Akone greičiausiai 1204—1211 m. ankstesnių (XII a.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išrinktas
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš „Pasakojimo...” žinome,
@@ -82,9 +82,9 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia Dusburgietis pateikia oficialią
@@ -98,7 +98,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   pagrindžia:
     - t-002
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą, atsiradęs
@@ -108,4 +108,4 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004

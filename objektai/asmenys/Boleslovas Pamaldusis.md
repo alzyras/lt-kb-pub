@@ -28,13 +28,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '146 ## Puslapis 163 Il KNYGA nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­ nėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­ sios Lenkijos kunigaikščio Boleslovo.'
+  teiginys: 'Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilno ipso die Sanctae Priscae Virginis 67

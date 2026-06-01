@@ -1,27 +1,10 @@
 ---
 tipas: daiktas
-pavadinimas: "Vaišių stalai"
-sukurta: '2026-05-27'
-variantai:
-  - vaišių stalai
-  - stalai
-aliases: []
+pavadinimas: 'Vaišių stalai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "Boleslovo Didžiojo miestų kūrimo pasakojimas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: vidutinis
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Vaišių stalai
 
@@ -30,37 +13,42 @@ tags: []
 Vaišių stalai minimi kaip socialiai reikšmingi materialūs objektai, kuriais Boleslovas Didysis viliojo žmones kurtis miestuose. Išnašos liudijimas papildo šį vaizdą nurodydamas didelį parengtų stalų skaičių.
 
 ## Pavadinimai šaltiniuose
+
 - vaišių stalais
 - stalą
 - stalų
 
 ## Laikotarpis ir datos
+
 Aiškus vartojimo laikas nenurodytas.
 
 ## Kas tai
+
 Padengti stalai, naudoti vaišėms ir žmonių telkimui.
 
 ## Naudojimas
+
 Naudoti kaip svetingumo ir miestų kūrimo politikos priemonė.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais."
+  teiginys: 'Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Vaišių stalai siejami su žmonių viliojimu kurtis miestuose.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
@@ -75,15 +63,13 @@ Nenurodyta
     gyvendami netoli pono rūmų; jis telkė aplinkinius žmones kur­
     tis miestuose, viliodamas nuolat padengtais vaišių stalais ir da­
     lindamas dovanasb).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
@@ -104,9 +90,7 @@ Nenurodyta
     giems jo pulkams teikėc).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

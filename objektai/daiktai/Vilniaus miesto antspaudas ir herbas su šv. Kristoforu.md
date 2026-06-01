@@ -44,24 +44,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-003
+- t-002
   teiginys: 'Bet to negalime dovanoti die­ vobaimingiems Vilniaus miestie­ čiams, kad jie 1548 metais, kaip teigia straipsnio apie Vilniaus ant­ spaudą autorius, turėdami herbe šv.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Tas pats Gardino seimas Vilniaus miesto gyventojams buvo labai įsimintinas dėl suteiktos privilegi­ jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­ rate, su palikuonimis buvo visiems.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
@@ -112,9 +112,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
@@ -165,7 +165,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -203,7 +203,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

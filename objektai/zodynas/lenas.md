@@ -1,15 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: lenas
-sukurta: '2026-04-25'
-variantai:
-  - lėną
-aliases: []
+pavadinimas: 'lenas'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - sąvoka
@@ -22,54 +18,75 @@ tags:
 Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.'
   pagrindžia:
-    - c-001
+    - c-002
+
 - t-002
-  teiginys: Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.
+  teiginys: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-001
+
 - t-003
-  teiginys: Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.
+  teiginys: 'Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordinui
+    akys nušvito ir visos viltys nukrypo į jo pusę. Iš jo, kryžiuo­
+    čių akimis žiūrint, buvo galima gerokai pasipelnyti. Vytautas,
+    pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
+    są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
+    ją atgauti^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+    - t-003
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pašalinus Karijotaitį,
+    Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
+    viena iš stambiausiųjų kunigaikštysčių. Iš visų čia suminėtų sri-
+    čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
+    iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
     ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
     kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
     tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
     tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+
+- c-003
+  santrauka: 'Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytautas,
-    pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
-    są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
-    ją atgauti^2 ).
+    Iš visų čia suminėtų sri-
+    čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
+    iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
+    ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
+    kijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vy-
+    tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
+    tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
+    Šitais Vytauto žygiais buvo panaikintos visos stambiausios
+    kunigaikštystės.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+  statusas: verified
   pagrindžia:
-    - t-002
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -78,6 +95,7 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/autoriai/J. G. Vachteris Wächter]]
 - [[objektai/autoriai/Jacobas Schrenckas]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Jomantas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

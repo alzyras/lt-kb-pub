@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'regula'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - pilis
@@ -26,35 +17,15 @@ tags:
 Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuostabaus santūrumo bei kuo griežčiausios regulos prisilaikymo sekėjai, be to, tokie puikūs kariai karo metu, kad iš tiesų apie juos galima sakyti, kad namuose jie laikėsi kaip tikri vienuoliai, o kovos. Dusburgietis teigia, kad buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta. 65 (64).
 
 ## Teiginiai
-- t-002
-  teiginys: 'Dusburgietis teigia, kad buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta. 65 (64).'
-  pagrindžia:
-    - c-002
-- t-003
+
+- t-001
   teiginys: 'Nukankintuosius palaidojęs, tos pa­ čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­ nuolyną pastatydino naujoje vietoje, savo.'
   pagrindžia:
-    - c-003
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Dusburgietis teigia, kad buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta. 65 (64).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Buvo dar vienas brolis, kuris ant pliko kūno kasdien iki mirties juosėjo
-    sunkią geležinę grandinę toje vietoje, kur paprastai juosiama naktinė juosta.
 
-
-
-
-                   65 (64).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Nukankintuosius palaidojęs, tos pa­ čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi liūdni atminimai, gal dėl saugumo, mūrinę bažnyčią ir vie­ nuolyną pastatydino naujoje vietoje, savo.'
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Algirdas viešai nubaudė to žiauraus poelgio vadei­
@@ -68,13 +39,18 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
     nuolyną pastatydino naujoje vietoje, savo naujų medinių rū­
     mų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­
     vadino Mergelės Marijos vardu20.
+    lyno archyvas, išskyrus nuplėštus
+    nuo įvairių senų pergamentų ant­
+    spaudus, per 1812 metų karą yra be­
+    veik visai praradęs vertingiausius
+    dokumentus, kurie galėtų ano meto
+    įvykius iš tamsos į ryškią šviesą iš­
+    kelti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -83,7 +59,6 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - [[objektai/autoriai/Antoni Melissanius de Macro]]
 - [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
 - [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/autoriai/Waddyngas Luca Vaddingo]]
 - [[objektai/zodynas/vaitas ir tarėjai]]

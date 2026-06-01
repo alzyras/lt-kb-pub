@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kryžiuočių ordino atsikraustymas į Prūsus'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
@@ -33,28 +30,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
+  pagrindžia:
+    - c-002
+
+- t-003
   teiginys: 'Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet riterių buvo ne-
@@ -66,32 +60,13 @@ Nenurodyta
     vadovybė ir daugumas brolių persikėlė į Europą ir neturėjo ko
     veikti. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
     paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
-    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
-    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
-    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
-    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes. Nebe-
-    turėdamas vilties jų atgauti, ordinas mielai priėmė kvietimą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
@@ -103,13 +78,26 @@ Nenurodyta
     savo sodybų jie pradėjo
     nuolatinį karą su aisčių
     kiltimis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
+    lančiais pagonimis kumanais. Bet Vengrijos karalius, pamatęs, kad or-
+    dinas čia ne jam tarnauja, bet ruošiasi sukurti savo valstybę, jį išvijo
+    (1224 m.). Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis
+    bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes. Nebe-
+    turėdamas vilties jų atgauti, ordinas mielai priėmė kvietimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

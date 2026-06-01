@@ -30,16 +30,16 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 - t-001
   teiginys: 'Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios neteisybės, nei kantrios teisybės.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad mat jie pakluso šiems išganingos Jeronimo paskatos žodžiams, bylojantiems: „Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk, pamynęs po kojomis tėvą, skubėk, pamynęs po.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,

@@ -1,9 +1,6 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -13,19 +10,16 @@ datos:
   - '1132 m.'
   - '1203 m.'
   - '1205 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIII'
 date_start: '1112'
 date_end: '1205'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kraštas
+amziai:
+  - 'XII'
+  - 'XIII'
 ---
 # Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)
 
@@ -34,52 +28,36 @@ tags:
 Lietuvos vardas vėl minimas po 87 metų, kai esą dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į Lietuvą («na Litvu»). Gal būt, vienų ar poros metų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš jotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra buvęs tik vienas darytas žygis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kijevo Mstislavas 1131 m. grįžo iš žygio į Lietuvą su daug belaisvių, o 1132 m. jo žygis baigėsi pralaimėjimu.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Metraščiuose 1131–1132 m. minimi Kijevo Mstislavo žygiai į Lietuvą galėjo būti vienas ir tas pats žygis.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kijevo Mstislavas 1131 m. grįžo iš žygio į Lietuvą su daug belaisvių, o 1132 m. jo žygis baigėsi pralaimėjimu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
-    Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą
-    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
-    Lietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,
-    o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
-    didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
-    sumuštas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Metraščiuose 1131–1132 m. minimi Kijevo Mstislavo žygiai į Lietuvą galėjo būti vienas ir tas pats žygis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1131 m. jis esąs grįžęs su daug belaisvių,
@@ -91,13 +69,27 @@ Nenurodyta
     metų skirtumu dviem atvejais kronikose minimi žygiai, pvz., prieš
     jotvingius (1112 ir 1113 m.), prieš lietuvius (1203 ir 1205 m.), yra
     buvęs tik vienas darytas žygis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
+    Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą
+    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
+    Lietuvą («na Litvu»). 1131 m. jis esąs grįžęs su daug belaisvių,
+    o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
+    didele kariuomene, kraštą gaisrais naikinęs, bet pats buvęs lietuvių
+    sumuštas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -25,13 +25,14 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
 ## Teiginiai
 
 - t-001
-  teiginys: 'Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodžio 20 dieną, paaiškėja, 328 ## Puslapis 345 IV KNYGA jog, kai karalius Steponas, perėmęs valdžią, nuvažiavo į Knišiną, Lietuvos senatoriai, įsitikinę, kad Lietuvos Didžiosios.'
+  teiginys: '1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     V-rae Aegestati aerarii totum id imputent [Tačiau, jeigu
@@ -64,4 +65,3 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/Puslapis 77]]

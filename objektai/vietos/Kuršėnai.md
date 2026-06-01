@@ -28,17 +28,17 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 - t-001
   teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji bermontininkai, vadovaujami plk.'
+  teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji bermontininkai, vadovaujami plk.'
+  pagrindžia:
+    - c-001
 
 - t-004
   teiginys: 'Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia tarp jų nesantarvė: vieni kitiems prikaišiojo, kiekvienas norėjo vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.'
@@ -47,7 +47,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bermonto ėmė
@@ -63,9 +63,9 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Virgoličiaus,
@@ -79,9 +79,9 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdami sukilėlių

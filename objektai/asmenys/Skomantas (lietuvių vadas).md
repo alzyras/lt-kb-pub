@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Skomantas (lietuvių vadas)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ežeras
@@ -26,16 +17,15 @@ tags:
 Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kronikoje Skomantas vadinamas tiesiog „lietuvių vadu“) su didele sūduvių ir kitų Lietuvai pavaldžių žemių kariuomene siaubė Kulmo teritoriją, puolė patį Kulmą, sunaikino Eimsučio (Heimsoto).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kulmo
@@ -53,11 +43,9 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
     kitais prūsais, „subūrę stiprią kariuomenę“,
     puolė Elbingą, paėmė papilį, sunaikino dvi
     pilis į rytus nuo Drūsinės ežero.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

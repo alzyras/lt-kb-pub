@@ -28,24 +28,24 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko į Prūsijos žemę šie kilmingi vyrai: valdovas Jonas iš Španheimo, grafas Adolfas iš Vintimelio, jaunesnysis bei vyresnysis Ditrichai iš Elnerio su savo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
@@ -84,9 +84,9 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie maldininkų atvykimą
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'

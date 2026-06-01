@@ -1,28 +1,10 @@
 ---
 tipas: daiktas
-pavadinimas: Akademijos teatro įranga
-sukurta: '2026-05-27'
-variantai:
-  - pakyla
-  - avanscenos
-  - paravanai
-  - scenos rykai
-aliases: []
+pavadinimas: 'Akademijos teatro įranga'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-bukle: juodrastis
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - įrankis
 ---
@@ -33,6 +15,7 @@ tags:
 Akademijos teatro įranga apima scenos pakylą, ant audinio pieštas dekoracijas, paravanus, sėdimąsias vietas, balkonus ir podėlį scenos rykams laikyti. Aprašymas yra inventoriškas ir tiesiogiai nurodo įrangos medžiagas, kiekį bei laikymo vietą.
 
 ## Pavadinimai šaltiniuose
+
 - pakyla
 - Avanscenų dvi
 - paravanų
@@ -41,38 +24,41 @@ Akademijos teatro įranga apima scenos pakylą, ant audinio pieštas dekoracijas
 - scenos rykams
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Akademijos teatro scenos, dekoracijų, sėdėjimo ir scenos reikmenų visuma.
 
 ## Naudojimas
+
 Naudota teatro vaidinimams, auditorijos išdėstymui ir scenos reikmenų laikymui.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Akademijos teatre buvo lentomis išklota nuožulni aktorių pakyla, ant audinio pieštos dekoracijos, paravanai, kėdės, suolai ir balkonai.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Prie teatro buvo podėlis scenos rykams laikyti su užrakinamomis durimis, pakopomis, plytelių grindimis, dūmtraukiu ir švino rėmų langu.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Aprašoma teatro pakyla, tapytos dekoracijos, paravanai, sėdimos vietos ir balkonai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aktoriams
@@ -87,15 +73,13 @@ Nenurodyta
     nai frontone su baliustrada, į kuriuos įėjimas iš kolegijos,
     pastogėje, kur durys geležinės, su geležies vyriais, vidiniu
     prancūzišku užraktu, be rakto.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Aprašomas podėlis scenos rykams laikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada orkestrinė
@@ -116,15 +100,13 @@ Nenurodyta
     rys į kolegijos koridorių, langas virš durų, su visais rėmais iš
     švino, pusė jo įleista į pertvarą, pastarosios durys su vyriais
     ir rankena.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po kaire ranka irgi yra prie­
@@ -141,9 +123,7 @@ Nenurodyta
     ir rankena. Skliautai sutvirtinti geležiniu pastapu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

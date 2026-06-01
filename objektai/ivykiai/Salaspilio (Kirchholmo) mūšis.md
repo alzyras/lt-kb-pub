@@ -45,17 +45,17 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: '1605 m. mūšyje prie Kirchholmo netoli Rygos J.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   pagrindžia:
     - c-002
@@ -76,7 +76,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,7 +90,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,7 +103,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

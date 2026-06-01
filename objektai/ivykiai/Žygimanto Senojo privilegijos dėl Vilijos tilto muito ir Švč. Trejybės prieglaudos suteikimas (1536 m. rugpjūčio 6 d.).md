@@ -44,36 +44,36 @@ Nenurodyta
 - t-001
   teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
   pagrindžia:
-    - c-002
-
-- t-005
-  teiginys: 'Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.'
-  pagrindžia:
-    - c-005
+    - c-006
 
 - t-003
-  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  teiginys: 'Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-004
-  teiginys: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
+  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
   pagrindžia:
     - c-004
+
+- t-005
+  teiginys: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
+  pagrindžia:
+    - c-003
 
 - t-006
   teiginys: 'Dėl to taip pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­ nėtąjį Jo šv.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Paskui, kai minėtą prieglaudą pastatys ir tin­
@@ -98,9 +98,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes į jo vietą garbingąjį
@@ -137,7 +137,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­
@@ -166,9 +166,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nederėtų, be
@@ -192,9 +192,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to taip
@@ -220,7 +220,7 @@ Nenurodyta
   pagrindžia:
     - t-006
 
-- c-002
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus

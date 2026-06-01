@@ -17,7 +17,7 @@ tags:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   pagrindžia:
     - c-003
@@ -27,7 +27,7 @@ tags:
   pagrindžia:
     - c-002
 
-- t-001
+- t-003
   teiginys: '1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,7 +73,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

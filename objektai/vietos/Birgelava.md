@@ -19,24 +19,24 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą brolių ir tų žmonių, kurie buvo subėgę į pilį.'
+  teiginys: 'Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
+  teiginys: 'Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų piktybių, ten pridarytų, paėmė Birgelavos pilį438, pagrobdami gyvulius bei visą mantą brolių ir tų žmonių, kurie buvo subėgę į pilį.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Birgelavos pilies sugriovimą
@@ -52,9 +52,9 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas,
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     į dvi dalis, kurių viena patraukė prieš Torunę, o kita prieš Kulmo miestą, žudydamos,
@@ -83,4 +83,4 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003

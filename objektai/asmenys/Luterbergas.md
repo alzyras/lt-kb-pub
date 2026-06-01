@@ -22,16 +22,16 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 - t-001
   teiginys: 'Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas, Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589, o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo

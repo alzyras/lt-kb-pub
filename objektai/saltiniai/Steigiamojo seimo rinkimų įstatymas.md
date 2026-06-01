@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Steigiamojo seimo rinkimų įstatymas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - karas
@@ -21,18 +18,15 @@ tags:
 Įstatymas buvo paskelbtas 1919 metų lapkričio mėn.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Steigiamojo seimo rinkimų įstatymas buvo paskelbtas 1919 m. lapkričio 20 d.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Steigiamojo seimo rinkimų įstatymas buvo paskelbtas 1919 m. lapkričio 20 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įstatymas buvo paskelbtas
@@ -44,10 +38,8 @@ tags:
     visuotiniu, tiesioginiu, lygiu ir slaptu balsavimu, „laikantis pro-
     porcingumo sistemos". Kandidatų sąrašus teikė partijos arba
     kuopos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

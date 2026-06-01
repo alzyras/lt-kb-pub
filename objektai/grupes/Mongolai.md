@@ -29,18 +29,18 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: '8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino 1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu su Nogajaus mongolais.'
+- t-001
+  teiginys: '1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus.'
   pagrindžia:
     - c-001
 
 - t-003
-  teiginys: '## Puslapis 21 Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos valdovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius mongolus prie Mėlynųjų vandenų.'
+  teiginys: 'Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo.'
   pagrindžia:
     - c-003
 
@@ -64,9 +64,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: '1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Naugardukas jau buvo garsiojo Min­
@@ -86,10 +87,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
-  santrauka: '## Puslapis 21 Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos valdovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius mongolus prie Mėlynųjų vandenų.'
+  santrauka: 'Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gedimino laikais Lie-

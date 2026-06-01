@@ -1,19 +1,11 @@
 ---
 tipas: asmuo
 pavadinimas: 'Zigmantas Sierakauskas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -26,68 +18,76 @@ tags:
 Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno gubernijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo galimybę. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu.'
+  teiginys: 'Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-006
+
 - t-002
+  teiginys: 'Sierakauską jau mūšio pradžioje pavyko išvežti ir paslėpti Biržų girioje esančiame Skrebiškio palivarke.'
+  pagrindžia:
+    - c-005
+
+- t-003
   teiginys: 'Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Sierakauskas parengė sukilėlių kovos planą.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Sierakauskas, po dviejų valandų kovos pasipriešinimas ėmė silpti.'
   pagrindžia:
     - c-004
+
 - t-005
-  teiginys: 'Sierakauską jau mūšio pradžioje pavyko išvežti ir paslėpti Biržų girioje esančiame Skrebiškio palivarke.'
+  teiginys: 'Sierakauskas parengė sukilėlių kovos planą.'
   pagrindžia:
-    - c-005
+    - c-003
+
 - t-006
-  teiginys: 'Sierakauskas, B.'
+  teiginys: 'Pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu.'
   pagrindžia:
-    - c-006
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pavasarį paskirtas vyriausiuoju Lietu-
+    Šį kartą valdžia sukilimo
+    slopinimui pasirengė – Vilniaus karinėje apygardoje buvo sutelkta šimta-
+    tūkstantinė Rusijos armija, kuri per 1863 m. padidinta dar 1,5 karto – po
+    Krymo karo caro valdžia nebuvo tikra, kad buvę jos priešininkai nesiims
+    karo veiksmų Baltijos pakrantėse. Sukilėlių būriai neturėjo jokių galimy-
+    bių kontroliuoti didesnių teritorijų. Pavasarį paskirtas vyriausiuoju Lietu-
     vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
     Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
     nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
     mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-006
+
 - c-002
-  santrauka: 'Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Gegužės pradžioje
+    Sukilėlių būriai neturėjo jokių galimy-
+    bių kontroliuoti didesnių teritorijų. Pavasarį paskirtas vyriausiuoju Lietu-
+    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
+    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
+    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
+    mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
     prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
     vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Sierakauskas parengė sukilėlių kovos planą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Plk. Z. Sierakauskas parengė sukilė-
@@ -100,13 +100,11 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     punktą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
+
 - c-004
-  santrauka: 'Sierakauskas, po dviejų valandų kovos pasipriešinimas ėmė silpti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     (G) Buvo sužeistas sukilėlių vadas
@@ -115,37 +113,40 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 
     kovos pasipriešinimas ėmė silpti.
 
-    Ruoliškioež.
+    Ruoliškioež. @ Pasinaudodami tamsa sukilėliai ėmė
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: 'Sierakauską jau mūšio pradžioje pavyko išvežti ir paslėpti Biržų girioje esančiame Skrebiškio palivarke.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Stovykloje buvusį sužeistą
+    Sukilėliams
+    teko skubiai trauktis palikus karinę gur-
+    guolę ir žirgus. Stovykloje buvusį sužeistą
 
     Z. Sierakauską jau mūšio pradžioje pavyko
     išvežti ir paslėpti Biržų girioje esančiame
     Skrebiškio palivarke. Trijų dienų mūšio
     iškamuoti sukilėliai prarado budrumą ir
 
-    Nuo xvii a.
+    Nuo xvii a. pabaigos iki xIx a. pradžios titnaginiai šaunamieji
+    ginklai iš esmės nesikeitė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-006
-  santrauka: 'Sierakauskas, B.'
+  santrauka: 'Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Oficialiai pa-
+    teikiami Rusijos kariuomenės nuos-
+    toliai akivaizdžiai neatitinka tikrovės.
     Vilniaus karo apygardos Karo veiksmų
 
     juos miegančius gegužės 10 naktį apsupo ir
@@ -155,14 +156,13 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     karininkų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]

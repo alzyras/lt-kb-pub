@@ -17,13 +17,14 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
 ## Teiginiai
 
 - t-001
-  teiginys: 'Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbationem 244 ## Puslapis 261 III KNYGA būtų nukelta arba taptų filija ir priklausytų Pabaisko baž­ nyčiai, kaip kad yra Vronove ir Viešėje stovinčios bažny­ čios.'
+  teiginys: 'Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Terrarum cum Martino Szpinguczys, ex quibus
@@ -51,5 +52,4 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
 ### Susiję objektai
 - [[objektai/zodynas/fundacija]]
 - [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/karčema smuklininkas gėrimų pilstymas]]

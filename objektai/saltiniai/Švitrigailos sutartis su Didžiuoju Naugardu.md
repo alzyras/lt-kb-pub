@@ -22,16 +22,16 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
 - t-001
   teiginys: 'Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­ tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­ nėtinai sėkmingas, taigi.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Nors šiuo 6 Šios sutarties originalas (kaip tvirti­ na K a r a m z i n a s, V, L 144, prieraš.) yra Užsienio reikalų kolegijos archyve, bet toks senas, kad pavyko įskaityti tik kai kurias ir tai ne išti­ sas eilutes.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors šiuo
@@ -49,7 +49,7 @@ Volumes gyventojai, jausdami karaliui anti­ patiją dėl trukdymo laisvai išpa
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­

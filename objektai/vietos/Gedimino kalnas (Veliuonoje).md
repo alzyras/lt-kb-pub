@@ -21,16 +21,16 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 - t-001
   teiginys: 'Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ant pilkapio nuo neatme­
@@ -47,7 +47,7 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visas kalnas parko dalyje nusėtas nuolaužomis, bet ki-

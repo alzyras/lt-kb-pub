@@ -1,45 +1,24 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: Magdeburgo teisės
-sukurta: '2026-04-25'
-variantai:
-  - magdeburginės teisės
-  - magdeburgijos
-  - Magdeburgo teises
-aliases: []
+pavadinimas: 'Magdeburgo teisės'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1330 m.'
-  - '1350 m.'
   - '1387 m.'
-  - '1388 m.'
-  - '1408 m.'
-  - '1426 m.'
-  - '1429 m.'
-  - '1430 m.'
   - '1432 m.'
-  - '1441 m.'
   - '1492 m.'
   - '1827 m.'
-  - '1930 m.'
-  - '1936 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1330'
 date_end: '2026'
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Magdeburgo teisės
 
@@ -48,70 +27,85 @@ tags: []
 Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pirmas Magdeburgo teises gavo Vilnius (1387 m.), vėliau Brasta (1390 m.), Gardinas (1391 m.), o dar vėliau Kaunas ir kt.
 
 ## Teiginiai
-- t-006
-  teiginys: 'Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drohičinui 1429 m. ir Bielskui 1430 m.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-009
+
+- t-001
   teiginys: 'Po Šv. Benedikto, abato, šventės valdovas Vilniui suteikė Magdeburgo teises Merkinėje rašytu aktu.'
   pagrindžia:
+    - c-010
+
+- t-002
+  teiginys: 'Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.'
+  pagrindžia:
+    - c-015
+
+- t-003
+  teiginys: '1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius.'
+  pagrindžia:
+    - c-012
+
+- t-004
+  teiginys: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
+  pagrindžia:
     - c-004
+
+- t-005
+  teiginys: 'Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.'
+  pagrindžia:
+    - c-014
+
+- t-006
+  teiginys: 'Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du didžiuosius prekymečius, o kas savaitę - įprastus turgus, garantavo miestui didesnes pajamas, dovanodamas jam ne­ mažą žemės plotą, nusidriekusį.'
+  pagrindžia:
+    - c-007
+
+- t-007
+  teiginys: 'O Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430 metais^4 ).'
+  pagrindžia:
+    - c-009
+
+- t-008
+  teiginys: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
+  pagrindžia:
+    - c-011
+
+- t-009
+  teiginys: 'Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.'
+  pagrindžia:
+    - c-008
+
 - t-010
   teiginys: 'Pirmosios Lietuvoje Magdeburgo teisės būtų pagerinusios Vilniaus būklę, jei vidaus karas nebūtų sukėlęs naujos audros šalyje.'
   pagrindžia:
-    - c-005
-- t-012
-  teiginys: 'Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.'
-  pagrindžia:
-    - c-007
-- t-014
-  teiginys: '1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius.'
-  pagrindžia:
-    - c-009
-- t-016
-  teiginys: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
-  pagrindžia:
-    - c-011
-- t-017
-  teiginys: '12 Iš kryžiuočių laiškų, išsaugotų Slap­ tajame Karaliaučiaus archyve, aiškiai matyti, kad Švitrigaila, įžengęs į Lie­ tuvos sostą, niekam dovanojimų, pa­ remtų Magdeburgo teise, nepatvir­ tino.'
-  pagrindžia:
-    - c-012
-- t-018
-  teiginys: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
-  pagrindžia:
-    - c-013
-- t-019
-  teiginys: 'Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du didžiuosius prekymečius, o kas savaitę - įprastus turgus, garantavo miestui didesnes pajamas, dovanodamas jam ne­ mažą žemės plotą, nusidriekusį.'
-  pagrindžia:
-    - c-014
-- t-020
-  teiginys: 'O Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430 metais^4 ).'
-  pagrindžia:
-    - c-015
-- t-021
-  teiginys: '-- • — 115 ## Puslapis 132 VILNIAUS MIESTO ISTORIJA / TOMAS toks karinis valdymas, ir dažni kryžiuočių antpuoliai bei miesto apgultys, žinia, anaiptol nepadėjo įtvirtinti naujų Magdeburgo teisių tarp miestiečių.'
-  pagrindžia:
-    - c-016
-- t-022
+    - c-006
+
+- t-011
   teiginys: 'Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist.'
   pagrindžia:
-    - c-017
-- t-023
-  teiginys: 'Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.'
+    - c-005
+
+- t-012
+  teiginys: '12 Iš kryžiuočių laiškų, išsaugotų Slap­ tajame Karaliaučiaus archyve, aiškiai matyti, kad Švitrigaila, įžengęs į Lie­ tuvos sostą, niekam dovanojimų, pa­ remtų Magdeburgo teise, nepatvir­ tino.'
   pagrindžia:
-    - c-018
+    - c-013
+
+- t-013
+  teiginys: 'Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius.'
+  pagrindžia:
+    - c-001
+
+- t-014
+  teiginys: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drohičinui 1429 m. ir Bielskui 1430 m.'
+  pagrindžia:
+    - c-002
+
+- t-015
+  teiginys: 'Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės).'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Miestelėnų luomo susikūrimui irgi Vytauto laikais buvo pa­
@@ -119,169 +113,40 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     bės arba taip vad. magdeburgijos. Pirmasis miestas gavęs Mag­
     deburgo teises buvo Vilnius. Tas teises jis gavo 1387 met. iš
     Jogailos^3 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-013
+
 - c-002
-  santrauka: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drohičinui 1429 m. ir Bielskui 1430 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    O Vytautas Magdeburgo teises suteikė Brastai ir
+    Pirmasis miestas gavęs Mag­
+    deburgo teises buvo Vilnius. Tas teises jis gavo 1387 met. iš
+    Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
     Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
     metais^4 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-014
+
 - c-003
-  santrauka: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drohičinui 1429 m. ir Bielskui 1430 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    O Vytautas Magdeburgo teises suteikė Brastai ir
+    Tas teises jis gavo 1387 met. iš
+    Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
     Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
     metais^4 ).
     Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
     tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+  statusas: verified
+
 - c-004
-  santrauka: 'Po Šv. Benedikto, abato, šventės valdovas Vilniui suteikė Magdeburgo teises Merkinėje rašytu aktu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Buvo juk to­
-    kia visuotinė pirmykščių krikščionių
-    bažnyčios taisyklė - pagonis atver­
-    čiant į tikrąjį tikėjimą bažnyčias
-    113
-
-    ## Puslapis 130
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
-    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
-    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
-    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
-    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
-    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
-    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
-    tės, valdovas Vilniui suteikė Magdeburgo teises15. Prisižiū­
-    rėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­
-    lioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs
-    tos privilegijos padariniai sumenko per išlygą, jog nepai­
-    sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
-    niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
-    vališkos valdžios perlenkimais. Prie to dar prisidėjo pareiga,
-    nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai
-    steigti ten, kur anksčiau stovėjusios
-    pagonių šventyklos arba augusios
-    giraitės, medžiai, buvęs akmuo ar­
-    ba šiaip vietovė kokiam nors dievai­
-    čiui pašvęsta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-005
-  santrauka: 'Pirmosios Lietuvoje Magdeburgo teisės būtų pagerinusios Vilniaus būklę, jei vidaus karas nebūtų sukėlęs naujos audros šalyje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    114
-
-    ## Puslapis 131
-
-    Il KNYGA
-    savo lėšomis turėjo ją vykdyti tol, kol visas miestas nebuvo
-    aptvertas mūro siena. Tos pirmosios Lietuvoj teisės būtų ge­
-    rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį
-    netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­
-    ros. Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
-    čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
-    tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­
-    jusius bruzdėjimus, pargrįžo į Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-007
-  santrauka: 'Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    12
-    Iš kryžiuočių laiškų, išsaugotų Slap­
-    tajame Karaliaučiaus archyve, aiškiai
-    matyti, kad Švitrigaila, įžengęs į Lie­
-    tuvos sostą, niekam dovanojimų, pa­
-    remtų Magdeburgo teise, nepatvir­
-    tino. Kai rinkau žinias apie daugybę
-    dekretų, susijusių su Lietuvos isto­
-    rija, niekur, jokiame archyve, man
-    nepasisekė aptikti nė menkiausio
-    ženklo, kad Švitrigaila būtų suteikęs
-    ar patvirtinęs bent kokios rūšies vo­
-    kišką teisę Lietuvoje. Nepaisant to,
-    ne tik Vilnius, bet ir kiti Lietuvos
-    miestai dar nebuvo praradę savo
-    reikšmės, kadangi net prieš patį Švit­
-    rigailos nuopuolį, 1432 metais, Lie­
-    tuvos ir lietuviškos Rusios kuni­
-    gaikščiai, bajorai ir miestai raštu
-    prisiekė Prūsijos ordinui tiksliai lai­
-    kytis su juo sudarytos didžiojo ku­
-    nigaikščio Švitrigailos sutarties.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-009
-  santrauka: '1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kadangi pilietinis karas po Vytauto Didžiojo mir­
-    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
-    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
-    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
-    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
-    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
-    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
-    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
-    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
-    garantavo miestui didesnes pajamas, dovanodamas jam ne­
-    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
-    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
-    dien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­
-    vilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­
-    29
-    Žr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
-- c-011
-  santrauka: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius šią privilegiją
@@ -299,151 +164,11 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     ros.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-012
-  santrauka: '12 Iš kryžiuočių laiškų, išsaugotų Slap­ tajame Karaliaučiaus archyve, aiškiai matyti, kad Švitrigaila, įžengęs į Lie­ tuvos sostą, niekam dovanojimų, pa­ remtų Magdeburgo teise, nepatvir­ tino.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Aplink Polianų dvarą prie
-    Ašmenos buvo rasta daug kartų.
-    12
-    Iš kryžiuočių laiškų, išsaugotų Slap­
-    tajame Karaliaučiaus archyve, aiškiai
-    matyti, kad Švitrigaila, įžengęs į Lie­
-    tuvos sostą, niekam dovanojimų, pa­
-    remtų Magdeburgo teise, nepatvir­
-    tino. Kai rinkau žinias apie daugybę
-    dekretų, susijusių su Lietuvos isto­
-    rija, niekur, jokiame archyve, man
-    nepasisekė aptikti nė menkiausio
-    ženklo, kad Švitrigaila būtų suteikęs
-    ar patvirtinęs bent kokios rūšies vo­
-    kišką teisę Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-013
-  santrauka: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Privilegijose Žygimantas pareiškė, kad
-    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
-    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
-    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
-    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
-    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
-    sė spręsti ir bausti už miestiečių padarytus kriminalinius
-    nusikaltimus. Taigi vaitui buvo suteikta tokia galia, kad
-    niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­
-    tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­
-    dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
-    sakyti ir aiškintis dėl pateiktų priekaištų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
-- c-014
-  santrauka: 'Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du didžiuosius prekymečius, o kas savaitę - įprastus turgus, garantavo miestui didesnes pajamas, dovanodamas jam ne­ mažą žemės plotą, nusidriekusį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau dėl gyvenančių pasiturin­
-    čiųjų ir taikos šalyje buvo atstatomi sunykę pastatai, gyvėjo
-    prekyba, o dėl suteiktų laisvių miestiečiams gausėjo žmonių
-    skaičius. Kadangi pilietinis karas po Vytauto Didžiojo mir­
-    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
-    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
-    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
-    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
-    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
-    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
-    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
-    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
-    garantavo miestui didesnes pajamas, dovanodamas jam ne­
-    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
-    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
-    dien vadinamo Tauro, kalno30.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
-- c-015
-  santrauka: 'O Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430 metais^4 ).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    iš
-    Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
-    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
-    metais^4 ).
-    Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
-    tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
-- c-016
-  santrauka: '-- • — 115 ## Puslapis 132 VILNIAUS MIESTO ISTORIJA / TOMAS toks karinis valdymas, ir dažni kryžiuočių antpuoliai bei miesto apgultys, žinia, anaiptol nepadėjo įtvirtinti naujų Magdeburgo teisių tarp miestiečių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
-    lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
-    16
-    Skirgaila ne anksčiau kaip 1388 me­
-    tais tapo didžiuoju kunigaikščiu, nes
-    1387 metais visuose dokumentuose
-    visur vadinamas Skargalo Dux Tro-
-    censis, bet niekur nėra Dux Lithua-
-    niae. Tik taikos sutartyje tarp Ordi­
-    no maršalo Engelhardo Rabės ir
-    Lietuvos, apie kurią užsimena F o i g-
-    t a s, V, 507, sudarytoje ties Kaunu
-    1388 metais, Scriptum prope Cowno in
-    crastino b. Martini Fpi^copi et confes.
-    an. dom. 1388 [pasirašyta ties Kaunu
-    rytojaus dieną po Šv. Martyno, vys­
-    kupo ir išpažinėjo, Viešpaties metais
-    1388], Skirgaila save vadina: Schir-
-    galo Dei gratia dux lithuanie et domi­
-    nus Tracensis et Polocensis [Skirgaila -
-    didysis Lietuvos kunigaikštis ir Tra­
-    kų bei Polocko valdovas].
-    17
-    Latopisiec Litwy, paskelbtas D a ni­
-    to w i c z, Wilno, 1827, 8vo, 1. 44.
-    -- • —
-    115
+    - t-004
 
-    ## Puslapis 132
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    toks karinis valdymas, ir dažni kryžiuočių antpuoliai bei
-    miesto apgultys, žinia, anaiptol nepadėjo įtvirtinti naujų
-    Magdeburgo teisių tarp miestiečių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-021
-- c-017
-  santrauka: 'Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist.'
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, po ketu­
@@ -484,13 +209,230 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     Krokuvos naudojamą nuo seno.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-022
-- c-018
-  santrauka: 'Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.'
+    - t-011
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    114
+
+    ## Puslapis 131
+
+    Il KNYGA
+    savo lėšomis turėjo ją vykdyti tol, kol visas miestas nebuvo
+    aptvertas mūro siena. Tos pirmosios Lietuvoj teisės būtų ge­
+    rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį
+    netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­
+    ros. Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
+    čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
+    tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­
+    jusius bruzdėjimus, pargrįžo į Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau dėl gyvenančių pasiturin­
+    čiųjų ir taikos šalyje buvo atstatomi sunykę pastatai, gyvėjo
+    prekyba, o dėl suteiktų laisvių miestiečiams gausėjo žmonių
+    skaičius. Kadangi pilietinis karas po Vytauto Didžiojo mir­
+    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
+    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
+    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
+    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
+    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
+    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
+    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
+    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
+    garantavo miestui didesnes pajamas, dovanodamas jam ne­
+    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
+    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
+    dien vadinamo Tauro, kalno30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-008
+  santrauka: 'Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
+    lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
+    16
+    Skirgaila ne anksčiau kaip 1388 me­
+    tais tapo didžiuoju kunigaikščiu, nes
+    1387 metais visuose dokumentuose
+    visur vadinamas Skargalo Dux Tro-
+    censis, bet niekur nėra Dux Lithua-
+    niae. Tik taikos sutartyje tarp Ordi­
+    no maršalo Engelhardo Rabės ir
+    Lietuvos, apie kurią užsimena F o i g-
+    t a s, V, 507, sudarytoje ties Kaunu
+    1388 metais, Scriptum prope Cowno in
+    crastino b. Martini Fpi^copi et confes.
+    an. dom. 1388 [pasirašyta ties Kaunu
+    rytojaus dieną po Šv. Martyno, vys­
+    kupo ir išpažinėjo, Viešpaties metais
+    1388], Skirgaila save vadina: Schir-
+    galo Dei gratia dux lithuanie et domi­
+    nus Tracensis et Polocensis [Skirgaila -
+    didysis Lietuvos kunigaikštis ir Tra­
+    kų bei Polocko valdovas].
+    17
+    Latopisiec Litwy, paskelbtas D a ni­
+    to w i c z, Wilno, 1827, 8vo, 1. 44.
+    -- • —
+    115
+
+    ## Puslapis 132
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    toks karinis valdymas, ir dažni kryžiuočių antpuoliai bei
+    miesto apgultys, žinia, anaiptol nepadėjo įtvirtinti naujų
+    Magdeburgo teisių tarp miestiečių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-009
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tas teises jis gavo 1387 met. iš
+    Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
+    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
+    metais^4 ).
+    Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
+    tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-010
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Buvo juk to­
+    kia visuotinė pirmykščių krikščionių
+    bažnyčios taisyklė - pagonis atver­
+    čiant į tikrąjį tikėjimą bažnyčias
+    113
+
+    ## Puslapis 130
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
+    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
+    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
+    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
+    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
+    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
+    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
+    tės, valdovas Vilniui suteikė Magdeburgo teises15. Prisižiū­
+    rėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vi­
+    lioti svetimtaučius kurdintis Vilniaus mieste, tačiau palankūs
+    tos privilegijos padariniai sumenko per išlygą, jog nepai­
+    sant naujų nuostatų, visi miestiečiai pavaldūs Vilniaus se­
+    niūnui, dėl ko jiems kilo pavojus ne kartą susidurti su sava­
+    vališkos valdžios perlenkimais. Prie to dar prisidėjo pareiga,
+    nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai
+    steigti ten, kur anksčiau stovėjusios
+    pagonių šventyklos arba augusios
+    giraitės, medžiai, buvęs akmuo ar­
+    ba šiaip vietovė kokiam nors dievai­
+    čiui pašvęsta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-011
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Privilegijose Žygimantas pareiškė, kad
+    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
+    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
+    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
+    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
+    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
+    sė spręsti ir bausti už miestiečių padarytus kriminalinius
+    nusikaltimus. Taigi vaitui buvo suteikta tokia galia, kad
+    niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­
+    tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­
+    dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
+    sakyti ir aiškintis dėl pateiktų priekaištų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-012
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kadangi pilietinis karas po Vytauto Didžiojo mir­
+    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
+    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
+    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
+    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
+    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
+    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
+    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
+    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
+    garantavo miestui didesnes pajamas, dovanodamas jam ne­
+    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
+    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
+    dien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­
+    vilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­
+    29
+    Žr. Il priede išsamią žinią apie Lie- je, kur aiškiai pasakyta: ius Teutoni-
+    tuvos didžiųjų kunigaikščių me- cum quod Magdeburiense dicitur denuo
+    džioklės namus Rūdninkuose. darnus (teutoniškąją teisę, kuri vadi-
+    30 narna Magdeburgo, naujai duoda-
+    Ši svarbi privilegija yra Vilniaus rne).
+    miesto teisių D n b i n s k i o rinkinv-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-013
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Aplink Polianų dvarą prie
+    Ašmenos buvo rasta daug kartų.
+    12
+    Iš kryžiuočių laiškų, išsaugotų Slap­
+    tajame Karaliaučiaus archyve, aiškiai
+    matyti, kad Švitrigaila, įžengęs į Lie­
+    tuvos sostą, niekam dovanojimų, pa­
+    remtų Magdeburgo teise, nepatvir­
+    tino. Kai rinkau žinias apie daugybę
+    dekretų, susijusių su Lietuvos isto­
+    rija, niekur, jokiame archyve, man
+    nepasisekė aptikti nė menkiausio
+    ženklo, kad Švitrigaila būtų suteikęs
+    ar patvirtinęs bent kokios rūšies vo­
+    kišką teisę Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     228
@@ -510,11 +452,55 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     mazijos ir kitų bet kokios rūšies vynų propinaciją40.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-023
+    - t-005
+
+- c-015
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    12
+    Iš kryžiuočių laiškų, išsaugotų Slap­
+    tajame Karaliaučiaus archyve, aiškiai
+    matyti, kad Švitrigaila, įžengęs į Lie­
+    tuvos sostą, niekam dovanojimų, pa­
+    remtų Magdeburgo teise, nepatvir­
+    tino. Kai rinkau žinias apie daugybę
+    dekretų, susijusių su Lietuvos isto­
+    rija, niekur, jokiame archyve, man
+    nepasisekė aptikti nė menkiausio
+    ženklo, kad Švitrigaila būtų suteikęs
+    ar patvirtinęs bent kokios rūšies vo­
+    kišką teisę Lietuvoje. Nepaisant to,
+    ne tik Vilnius, bet ir kiti Lietuvos
+    miestai dar nebuvo praradę savo
+    reikšmės, kadangi net prieš patį Švit­
+    rigailos nuopuolį, 1432 metais, Lie­
+    tuvos ir lietuviškos Rusios kuni­
+    gaikščiai, bajorai ir miestai raštu
+    prisiekė Prūsijos ordinui tiksliai lai­
+    kytis su juo sudarytos didžiojo ku­
+    nigaikščio Švitrigailos sutarties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-016
+  santrauka: 'Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl
+    tik Vytauto laikais daugiau iškilo Vilnius, Trakai, Brasta, Gardi-
+    nas, Kaunas. Kai kuriems jų buvo duotos savivaldybės (vadina-
+    mosios Magdeburgo teisės). Tačiau tai buvo tik pati miestų kili-
+    mo pradžia; jie įsigalėjo daug vėliau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
@@ -556,6 +542,10 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 - [[objektai/grupes/Šlėktų luomas]]
 - [[objektai/zodynas/šlėktų luomas Magdeburgo teisės]]
 - [[objektai/zodynas/Magdeburgo teisės vokiečių teisės normos]]
+- [[objektai/grupes/Vilniaus gyventojai]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose]]
+- [[objektai/zodynas/miestiečių luomas]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, pavaldumas seniūnui ir pilies saugojimo prievolė]]

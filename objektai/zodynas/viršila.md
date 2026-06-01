@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'viršila'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -24,16 +15,15 @@ tags:
 “ | | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisimena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyvavusį to paties pulko I batalioną Vidugirių kaime.
 
 ## Teiginiai
+
 - t-001
   teiginys: '6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1 batalionas irgi
@@ -44,11 +34,9 @@ tags:
     vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
     vusį to paties pulko I batalioną Vidugirių kaime.
     „Vidugirių kaimą pasiekėme po pietų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

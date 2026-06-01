@@ -42,12 +42,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kimelio pilies sunaikinimą 1296 metais Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir 200 vyrų, ketindamas užpulti vieną pilį, tačiau vedlys išklydo iš kelio ir kariuomenė ją praėjo; kai begrįždami atitiko.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Neilgai trukus po to brolis Liudvikas iš Libencelės patraukė į žygį su kitais broliais ir
@@ -66,7 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kimelio pilies sunaikinimą 1296 metais

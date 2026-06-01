@@ -29,20 +29,20 @@ amziai:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Po Paleckių mirties jų sūnūs turėjo privilegijas atiduoti miestui su teise per dvidešimt savai­ čių išparduoti visą likusį stiklą ir stiklines.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-001
+- t-002
   teiginys: '1619 m. 56 Miesto aktuose yra: karaliaus Stepo­ no patvirtinimas sutarties tarp po­ no Martyno Paleckio ir jo žmonos, dabar ponios Rainos Sluščiankos, ir miesto dėl stiklo liejyklos ir stiklo su­ pirkimo.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Bandė keletą kartu, būtent jau prie karaliaus Stepono, pasikvietę Palec­ kį į seimą 1582 metais, bet tai nepa­ vyko.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -67,9 +67,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Paleckių mirties jų
@@ -85,9 +85,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bandė keletą kartu, būtent jau prie
@@ -127,4 +127,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003

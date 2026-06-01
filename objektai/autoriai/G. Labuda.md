@@ -22,41 +22,41 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
 - t-001
   teiginys: 'Dusburgietis teigia, kad 64 Labuda G.'
   pagrindžia:
-    - c-001
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad (1339 m.) lenkų tradicija (Lites..., 1, p. 253, 304; Labuda G.'
-  pagrindžia:
     - c-005
 
-- t-008
-  teiginys: 'Dusburgietis teigia, kad dirsovė — prūsiškas vardas (GAO, p. 28; Labuda G., Zagadnienie.., p. 24; Топоров B.'
-  pagrindžia:
-    - c-008
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad jučas); Labuda G.'
-  pagrindžia:
-    - c-003
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad (1339 m.) lenkų tradicija (Lites..., 1, p. 253, 304; Labuda G.'
   pagrindžia:
     - c-007
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad dirsovė — prūsiškas vardas (GAO, p. 28; Labuda G., Zagadnienie.., p. 24; Топоров B.'
+  pagrindžia:
+    - c-003
+
 - t-004
+  teiginys: 'Dusburgietis teigia, kad jučas); Labuda G.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).'
+  pagrindžia:
+    - c-002
+
+- t-006
   teiginys: 'Dusburgietis teigia, kad labuda G.'
   pagrindžia:
     - c-004
 
-- t-006
+- t-007
   teiginys: 'Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m..'
   pagrindžia:
     - c-006
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
@@ -71,9 +71,9 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-007
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. šaltiniuose Vitlando (Withlandia)
@@ -84,9 +84,9 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-- c-008
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     krante žemiau Nogato atsišakojimo. Dirsovė — prūsiškas vardas (GAO, p. 28; Labuda
@@ -96,7 +96,7 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-003
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -111,9 +111,9 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-001
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     64 Labuda G. O źródłach..., s. 229.
@@ -138,9 +138,9 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-007
 
-- c-005
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasirėmus XIV a. (1339 m.)
@@ -152,7 +152,7 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

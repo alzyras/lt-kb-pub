@@ -1,27 +1,18 @@
 ---
 tipas: ivykis
-pavadinimas: "Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)"
-sukurta: '2026-05-14'
-variantai: ["pagrindinio Žemės reformos įstatymo priėmimas", "1922 m. žemės reforma"]
-aliases: ["pagrindinio Žemės reformos įstatymo priėmimas", "1922 m. žemės reforma"]
+pavadinimas: 'Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: paskelbta
-laikotarpis: "1922 m. vasario 15 d."
-datos: ["1922 m. vasario 15 d."]
-periodas: siuolaikine_istorija
-periodo_grupes: [tarpukaris]
-amziai:
-  - 'XX'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1922 m.'
 date_start: '1922'
-date_end: '1922'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: vidutinis
-atnaujinta: '2026-05-14'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - reforma
+amziai:
+  - 'XX'
 ---
 # Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)
 
@@ -30,6 +21,7 @@ tags:
 1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą, kuris apibrėžė žemės paėmimą į Valstybinį žemės fondą ir pirmenybę žemės gavėjams.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1922 m. vasario 15 d.
 - datos: 1922 m. vasario 15 d.
 - periodas: siuolaikine_istorija
@@ -39,92 +31,126 @@ tags:
 - date_end: 1922-02-15
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą."
+  teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą."
+  teiginys: 'Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms."
+  teiginys: 'Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
-    - c-003
+    - c-001
+
 - t-005
   teiginys: 'Pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai, kai kurios valstybinės ir visuomeninės įstaigos.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Žemės reformos įstatymo priėmimas ir į Valstybinį žemės fondą paimamos žemės.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tik išdalijusi dvarų žemę valdžia galėjo
+    tikėtis plačių valstietijos sluoksnių paramos.
+    1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų
     balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
-  citata_rodoma: ""
+    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
+    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
+    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
+    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
+    80 ha.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: Pirmieji žemės reformos gavėjai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Į Valstybinį žemės
+    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
+    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
+    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
+    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
+    80 ha. Tokia žemės riba pasirinkta neatsitiktinai – tai skiriamoji riba tarp
+    sulenkėjusių dvarininkų ūkių ir tų stambių ūkių, kuriuos XIX a. pabaigo-
+    je–XX a. pradžioje įsigijo prakutę lietuvių valstiečiai ar negausūs to meto
+    lietuvių inteligentai, pramonininkai ir prekybininkai (dar radikaliau elg-
+    tasi Estijoje ir Latvijoje, ten žemė paimta iš vokiečių baronų ir neliesti iki
+    50 ha dydžio dvarai). Pirmiausia žemės gavo kariai savanoriai, bežemiai
     ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
-  citata_rodoma: ""
+    kai kurios valstybinės ir visuomeninės įstaigos.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-003
-  santrauka: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai, kai kurios valstybinės ir visuomeninės įstaigos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
+    Į Valstybinį žemės
+    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
+    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
+    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
+    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
+    80 ha. Tokia žemės riba pasirinkta neatsitiktinai – tai skiriamoji riba tarp
+    sulenkėjusių dvarininkų ūkių ir tų stambių ūkių, kuriuos XIX a. pabaigo-
+    je–XX a. pradžioje įsigijo prakutę lietuvių valstiečiai ar negausūs to meto
+    lietuvių inteligentai, pramonininkai ir prekybininkai (dar radikaliau elg-
+    tasi Estijoje ir Latvijoje, ten žemė paimta iš vokiečių baronų ir neliesti iki
+    50 ha dydžio dvarai). Pirmiausia žemės gavo kariai savanoriai, bežemiai
     ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
+    kai kurios valstybinės ir visuomeninės įstaigos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tik išdalijusi dvarų žemę valdžia galėjo
+    tikėtis plačių valstietijos sluoksnių paramos.
+    1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų
+    balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
+    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
+    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
+    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
+    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
+    80 ha.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

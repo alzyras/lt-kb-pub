@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Andrusavos sutarties patvirtinimas (1686 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1686 m.'
+date_start: '1686'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - sutartis
+amziai:
+  - 'XVII'
 ---
 # Andrusavos sutarties patvirtinimas (1686 m.)
 
@@ -32,16 +35,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1686 m. Andrusavos sutartis buvo patvirtinta su didelėmis nuolaidomis Maskvai, tačiau caras neprisidėjo prie karo su turkais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1686 m. Andrusavos sutartis buvo patvirtinta su didelėmis nuolaidomis Maskvai, tačiau caras neprisidėjo prie karo su turkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ruošdamasis koalicijai prieš Turkus, Sobieskis padarė am-
@@ -49,14 +51,13 @@ Nenurodyta
     Andrusavos sutartis su didelėmis nuolaidomis Maskvai, tačiau
     caras prie karo su Turkais neprisidėjo. Daug dirbęs, daug ka-
     riavęs, Jonas Sobieskis mirė 1696 m., nieko nepasiekęs.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Turkai]]

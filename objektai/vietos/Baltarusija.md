@@ -24,17 +24,17 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
   pagrindžia:
     - c-003
 
-- t-006
+- t-002
   teiginys: 'Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Baltarusija, su ja 1991 m. spalį pasirašė Deklaraciją dėl geros kaimynystės santykių principų, o po ketverių metų – sutartį dėl geros kaimynystės, Sutarties pasirašymas su Rusija – centre.'
   pagrindžia:
     - c-006
 
-- t-001
+- t-003
   teiginys: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'
   pagrindžia:
     - c-001
@@ -44,12 +44,12 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   pagrindžia:
     - c-004
 
-- t-002
+- t-005
   teiginys: 'Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-006
   teiginys: 'Visa tai buvo ne kas Įvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 19 kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietuvos, Baltarusijos, Ukrainos ir Lenkijos – žydai.'
   pagrindžia:
     - c-005
@@ -72,7 +72,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -87,7 +87,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -105,7 +105,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -137,7 +137,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-006
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -157,7 +157,7 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
 
 - c-007
   santrauka: 'Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti Lietuva, o šiandien ją vadiname istorine Lietuva.'

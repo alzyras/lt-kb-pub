@@ -26,13 +26,14 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vroclavo vyskupą, mylimą brolį, pa­ geidaudamas, kad didysis magistras lieptų jį palydėti į Kistriną ir pasi­ teirauti kunigaikščio Štolpenskio, ar minėtasis vyskupas turįs ar neturįs dėl ko.'
+  teiginys: 'Švitrigaila prašė, kad didysis magistras palydėtų Vroclavo vyskupą Konradą į Kistriną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Švitrigaila prašė, kad didysis magistras palydėtų Vroclavo vyskupą Konradą į Kistriną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mergelės Marijos ėmimą į dangų, tai

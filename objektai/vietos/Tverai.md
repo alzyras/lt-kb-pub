@@ -1,29 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Tverai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - mūšis
   - tauta
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Tverai
 
@@ -32,46 +27,50 @@ tags:
 Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: '91, 167, 169, 210 Tureiskas 201 Turkija 23 Turovas 225, 242, 245, 297 Tverai Žemaičiuose, 171 Tverca, upė 158 Tverė (Kalininas), kng-ja ir kng.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kunigaikštis Vykintas netrukus ties Tverais buvo nu-
-    galėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '91, 167, 169, 210 Tureiskas 201 Turkija 23 Turovas 225, 242, 245, 297 Tverai Žemaičiuose, 171 Tverca, upė 158 Tverė (Kalininas), kng-ja ir kng.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    91, 167, 169, 210
+    Trusas (Drausensee) 111
+    Truska L. 81
+    Tucze (Dutze), kng. 163
+    Tula 125, 159, 321, 371
+    Tumas J. 52, 53
+    Tumler M. 91, 167, 169, 210
     Tureiskas 201
     Turkija 23
     Turovas 225, 242, 245, 297
     Tverai Žemaičiuose, 171
     Tverca, upė 158
-    Tverė (Kalininas), kng-ja ir kng.
+    Tverė (Kalininas), kng-ja ir kng. 21,
+    125, 159, 198, 213, 225, 239-242,
+    263-266, 313, 321 ; Tverės kautynės
+    184 ; Tverės metraščiai 168
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kunigaikštis Vykintas netrukus ties Tverais buvo nu-
+    galėtas; jis pats žuvo mūšyje, o Tautvilas su Erdvilu pabėgo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

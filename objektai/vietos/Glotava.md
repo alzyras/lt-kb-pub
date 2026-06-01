@@ -25,19 +25,19 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H., Studia..., 2, p. 16, 25; MGP, p. 54).'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar pagrobė viską, ką ten rado gyvą.'
+  teiginys: 'Dusburgietis teigia, kad manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H., Studia..., 2, p. 16, 25; MGP, p. 54).'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro laikais, būtent 1300 viešpaties metais, rudenį, 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių553, sudegino vieną kaimą, kur išžudė ar pagrobė viską, ką ten rado gyvą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
@@ -50,9 +50,9 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     275 (268). Apie 72 lietuvius, nukautus Notangoje
@@ -67,4 +67,4 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bendrasis rezervas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1919 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1919'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # bendrasis rezervas
 
@@ -28,22 +22,20 @@ tags:
 BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėmė šią koloną, o vadovavimą perėmė karin.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Rezervas parėmė koloną, o vadovavimą perėmė karininkas J. Reikala.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin.
@@ -58,26 +50,22 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
     tųjų žvalgų iki gegužės 18 d. turėjo būti:
     2val. - Ramygaloje, 4 val. vykti į šiaurę
     vieškeliu Ramygala-Panevėžys.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Rezervas parėmė koloną, o vadovavimą perėmė karininkas J. Reikala.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. Nastopka. Rezervas parėmė šią koloną,
     o vadovavimą perėmė karin. J. Reikala.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

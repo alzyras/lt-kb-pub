@@ -1,38 +1,21 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: vaivada
-sukurta: '2026-04-25'
-variantai:
-  - vaivados
-  - Krokuvos vaivada
-  - Vilniaus vaivada
-  - palatinus
-aliases: []
+pavadinimas: 'vaivada'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
   - '1413 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # vaivada
 
@@ -41,99 +24,32 @@ tags: []
 Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame šaltinyje vaivados apibrėžti kaip Vilniaus ir Trakų sričių lenkiškojo tipo urėdai, o šiame šaltinyje terminas vartojamas ir bendram Lietuvos, Rusios, lenkų bei vokiečių vaivadų sluoksniui, ir konkrečiam Krokuvos vaivadai įvardyti.
 
 ## Teiginiai
-- t-006
-  teiginys: 'Vilniaus vaivada buvo numatytas kaip Vilniuje steigiamas urėdas pagal Lenkijos karalystės pavyzdį.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: '1413 m. Vilniuje ir Trakuose numatyti lenkiško modelio administraciniai postai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Vilniuje buvo numatyta įsteigti Vilniaus vaivados ir kašteliono pareigybes, kokios veikė Lenkijos karalystėje.'
-  pagrindžia:
-    - c-003
-- t-009
-  teiginys: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
-  pagrindžia:
-    - c-004
-- t-010
+
+- t-001
   teiginys: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
   pagrindžia:
-    - c-005
+    - c-003
+
+- t-002
+  teiginys: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1413 m. Vilniuje ir Trakuose numatyti lenkiško modelio administraciniai postai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    „dignitates, sedes et officia, prout in regno Poloniae instituta
-    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
-    tellanus vilnensis et demum in Trokky“...^2 ).
-  citata_rodoma: ""
+    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
+    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
+    ir kaštelionas, taip pat ir Trakuose...”
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-002
+
 - c-002
-  santrauka: 'Vilniaus vaivada buvo numatytas kaip Vilniuje steigiamas urėdas pagal Lenkijos karalystės pavyzdį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
-    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
-    ir kaštelionas, taip pat ir Trakuose...”
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Vilniuje buvo numatyta įsteigti Vilniaus vaivados ir kašteliono pareigybes, kokios veikė Lenkijos karalystėje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
-    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
-    ir kaštelionas, taip pat ir Trakuose...”
-
-
-    ```
-    283
-    ```
-    nlnkai, ne patarėjai, o aktą darą veiksniai^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-004
-  santrauka: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Čia buvo ir
-    Tochtamišo totoriai (keli tūkstančiai), 400
-    pavienių lenkų riterių, tokių kaip Spytekas
-    iš Melštyno, Krokuvos vaivada ir Podolės
-    valdytojas bei kiti. Buvo valakai, kryžiuo-
-    čių dalinys (100 riterių), vadovaujamas
-    Ragainės komtūro Markvardo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-005
   santrauka: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -145,11 +61,22 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     tarsi padėjėjai buvo kaštelionai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-003
+
+- c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
+    „dignitates, sedes et officia, prout in regno Poloniae instituta
+    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
+    tellanus vilnensis et demum in Trokky“...^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -157,7 +84,10 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 
 ### Susiję objektai
 - [[objektai/zodynas/kaštelionas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Albertas Janavičius]]
@@ -172,7 +102,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
 - [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
 - [[objektai/grupes/Bernardinų ordinas]]
-- [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Cvinglis]]
 - [[objektai/zodynas/Czopowe]]
@@ -197,6 +126,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Jurgis Geldgaudas]]
 - [[objektai/asmenys/Jurgis Radvila]]
 - [[objektai/autoriai/Karamzin]]
+- [[objektai/grupes/Karmelitų ordinas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
@@ -205,7 +135,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
 - [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkijos senatas]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
@@ -223,12 +152,12 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/grupes/Maskvos pasiuntiniai]]
 - [[objektai/asmenys/Mathias Ziindt]]
 - [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/asmenys/Mendli Girėjus]]
 - [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Mikalojus Michalovskis]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila II]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Milonas]]
 - [[objektai/asmenys/Mingaila]]
 - [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]]
@@ -240,9 +169,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Petrašu Montgirdaitis]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
+- [[objektai/asmenys/Rumbaudas]]
 - [[objektai/asmenys/Rumbautas]]
 - [[objektai/asmenys/Sebastijonas Vitinskis]]
 - [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
@@ -257,6 +185,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/zodynas/Szosowe]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
+- [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
@@ -277,7 +206,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignevas Olesnickis]]
-- [[objektai/asmenys/Zigmantas (Vytauto brolis)]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]
 - [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]
@@ -286,6 +214,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/zodynas/muitas thelonea]]
+- [[objektai/zodynas/neofitai]]
 - [[objektai/zodynas/pataurininkas]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/tenuta laikytojas]]
@@ -302,4 +231,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
+- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
 - [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/asmenys/Zyndramas iš Moškovicų]]

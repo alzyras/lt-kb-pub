@@ -45,16 +45,16 @@ Nenurodyta
 - t-001
   teiginys: 'Tuo me­ tu Vilnius, kaip ir visa Lietuva, buvo patekusi prancūzų val­ džion, ir krašto bajorai, užgniaužę kvapą, laukdavo žinių apie Napoleono karo kampaniją Rusijos imperijos gilumoje.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas visuomeninio gyvenimo pagyvėjimas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas
@@ -68,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sūnaus brendimo ir mokslo metai praėjo Vil­

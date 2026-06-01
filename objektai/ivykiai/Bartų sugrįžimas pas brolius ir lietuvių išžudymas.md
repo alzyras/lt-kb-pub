@@ -34,19 +34,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie bartų sugrįžimą ir daugybės lietuvių žūtį Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai, pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė prieš Lenkiją, iš kur, neskaitant kitų ten.'
+  teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie bartų sugrįžimą ir daugybės lietuvių žūtį Kai broliai rengėsi pulti anksčiau minėtąją Gardino pilį, kurie ne kurie bartai, pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė prieš Lenkiją, iš kur, neskaitant kitų ten.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
@@ -69,9 +69,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     225 (220). Apie bartų sugrįžimą ir daugybės lietuvių žūtį
@@ -89,7 +89,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

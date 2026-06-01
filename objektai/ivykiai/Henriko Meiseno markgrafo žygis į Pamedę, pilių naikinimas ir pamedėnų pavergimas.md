@@ -43,24 +43,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad 234 Atvyko į Prūsiją ir niokojo Pamedę 1236 m. (Ewald A.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
@@ -92,7 +92,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     234 Atvyko į Prūsiją ir niokojo Pamedę 1236 m. (Ewald A. L., Die Eroberung..., 1, p.
@@ -101,9 +101,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Meiseno markgrafo atvykimą
@@ -121,7 +121,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'

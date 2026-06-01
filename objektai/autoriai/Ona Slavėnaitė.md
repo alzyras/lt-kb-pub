@@ -1,30 +1,20 @@
 ---
 tipas: autorius
-pavadinimas: "Ona Slavėnaitė"
-sukurta: '2026-05-27'
-variantai:
-  - "Ona Slavėnaitė"
-aliases: []
+pavadinimas: 'Ona Slavėnaitė'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "2007 m. lietuviško leidimo vertimo kontekstas"
-vaidmenys:
-  - vertėja
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '2007 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 date_start: '2007'
 date_end: ''
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Ona Slavėnaitė
 
@@ -33,19 +23,15 @@ tags:
 Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėjų iš lenkų kalbos į lietuvių kalbą 2007 m. leidime.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ona Slavėnaitė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '2007.LT ## Puslapis 1 [tuščias arba OCR reikalingas puslapis] ## Puslapis 2 [tuščias arba OCR reikalingas puslapis] ## Puslapis 3 Iš lenkų kalbos vertė Ona Slavėnaitė, Irena Katilienė Iš lotynų kalbos vertė Jūratė Dalia Baronienė MINTIS ## Puslapis 4 UDK 947.'
-  pagrindžia:
-    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ona Slavėnaitė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     UDK 947.45
@@ -74,52 +60,15 @@ Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
     © Vertimas į lietuvių kalbą,
     Jūratė Dalia Baronienė, 2007
     © Romas Dubonis, apipavidalinimas,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Leidinio teisių įrašas tiesiogiai patvirtina vertimą ir metus."
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '2007.LT ## Puslapis 1 [tuščias arba OCR reikalingas puslapis] ## Puslapis 2 [tuščias arba OCR reikalingas puslapis] ## Puslapis 3 Iš lenkų kalbos vertė Ona Slavėnaitė, Irena Katilienė Iš lotynų kalbos vertė Jūratė Dalia Baronienė MINTIS ## Puslapis 4 UDK 947.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2007.LT
-
-    ## Puslapis 1
-
-    [tuščias arba OCR reikalingas puslapis]
-
-    ## Puslapis 2
-
-    [tuščias arba OCR reikalingas puslapis]
-
-    ## Puslapis 3
-
-    Iš lenkų kalbos vertė
-    Ona Slavėnaitė,
-    Irena Katilienė
-    Iš lotynų kalbos vertė
-    Jūratė Dalia Baronienė
-    MINTIS
-
-    ## Puslapis 4
-
-    UDK 947.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
-- [[objektai/grupes/Lotynai]]

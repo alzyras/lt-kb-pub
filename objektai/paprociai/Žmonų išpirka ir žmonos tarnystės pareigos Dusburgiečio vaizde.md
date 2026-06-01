@@ -38,25 +38,25 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad išpirktų žmoną.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad pagal seną paprotį, kurį prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211.'
   pagrindžia:
-    - c-001
+    - c-002
     - c-004
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad lietuvių kalboje žodžiai moteris ir žmona XVI a.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
@@ -69,7 +69,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pagal seną paprotį, kurį
@@ -82,9 +82,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
@@ -97,7 +97,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -113,7 +113,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

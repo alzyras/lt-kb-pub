@@ -26,13 +26,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.'
+  teiginys: '1586 m. liepos 11 d. Steponas Batoras įsakė Vilniaus gyventojams įprastas šventes švęsti pagal naują kalendorių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1586 m. liepos 11 d. Steponas Batoras įsakė Vilniaus gyventojams įprastas šventes švęsti pagal naują kalendorių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O s i ń s k i, O życiu i pismach X. Piot­

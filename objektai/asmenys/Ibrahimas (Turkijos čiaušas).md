@@ -27,19 +27,20 @@ periodo_grupes:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: '354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE.'
+- t-002
+  teiginys: 'Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     354
@@ -98,7 +99,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -118,7 +119,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

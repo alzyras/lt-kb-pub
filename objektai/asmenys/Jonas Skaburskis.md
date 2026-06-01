@@ -17,13 +17,14 @@ Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis Jonas Skaburskis: „Mus aplankė kariuomenės vadas gen.'
+  teiginys: 'Jonas Skaburskis buvo 4-ojo pėstininkų pulko eilinis, savo prisiminimuose aprašęs generolo Žukausko apsilankymą fronte.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas Skaburskis buvo 4-ojo pėstininkų pulko eilinis, savo prisiminimuose aprašęs generolo Žukausko apsilankymą fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis

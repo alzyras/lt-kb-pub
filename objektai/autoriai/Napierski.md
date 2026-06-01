@@ -24,24 +24,25 @@ periodo_grupes: []
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Napierskio veikale, aukščiau ne sykį cituotame Index Codicis Hist.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Napierskis ## Puslapis 184 VILNIAUS MIESTO ISTORIJA / TOMAS II (Plg.'
-  pagrindžia:
-    - c-002
-
-- t-001
-  teiginys: '161 ## Puslapis 178 VILNIAUS MIESTO ISTORIJA II KNYGOS PRIEDAI I šio dokumento ir kito, po jo, nuorašą gavome iš daktaro Napierskio, labai veHingos nuorodos Livonijos dokumentų rinkinyje autoriaus.'
+  teiginys: 'Dr. Napierskis patvirtino nuorašo perrašymo teisingumą.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Dr. Napierskis patvirtino nuorašo perrašymo teisingumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dinaburgo komtūras
@@ -63,7 +64,8 @@ periodo_grupes: []
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
+  santrauka: 'Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     161
@@ -90,7 +92,7 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -106,7 +108,7 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

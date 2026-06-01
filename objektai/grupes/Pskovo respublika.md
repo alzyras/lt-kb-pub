@@ -1,34 +1,27 @@
 ---
 tipas: grupe
 pavadinimas: 'Pskovo respublika'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1427 m.'
   - '1429 m.'
   - '1432 m.'
-  - '1978 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'XX a.'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1427'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karas
   - kunigas
   - valstybė
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Pskovo respublika
 
@@ -37,67 +30,57 @@ tags:
 Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo XII amž. antros pusės yra žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų prekybos respublikų (Pskovo, Novgorodo) šiaurėje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.'
   pagrindžia:
-    - c-002
+    - c-005
+
+- t-002
+  teiginys: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
+  pagrindžia:
+    - c-006
+
 - t-003
   teiginys: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
   pagrindžia:
-    - c-003
-- t-006
-  teiginys: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
-  pagrindžia:
-    - c-006
-- t-007
+    - c-002
+
+- t-004
   teiginys: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
   pagrindžia:
-    - c-007
-- t-008
+    - c-003
+
+- t-005
+  teiginys: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
+  pagrindžia:
+    - c-001
+
+- t-006
   teiginys: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
   pagrindžia:
-    - c-008
+    - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^122) I SKYRIUS: LIETUVOS PROISTORĖ
-    kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana
-    toli, kur buvo daugiau ko grobti. Jie pasiekdavo plotus turtingųjų
-    Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
-    į tolimus Dniepro plotus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
+    Al­
+    girdo užkariautųjų Rusijos kraštų plotą Vytautas buvo jau per­
+    žengęs prieš Žalgirio mūšį, bet tolimesnį jo įsigalėjimą sutrukdė
+    ilga nesantaika su Vok. Ordinu ir kultūros darbas pačioje Lie­
+    tuvoje. Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
     respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
     Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
     galėjimui Rytuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
+    - t-005
+
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Naugardo ir Pskovo
@@ -108,30 +91,16 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     kius (1427).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-006
-  santrauka: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
-    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
-    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
-    galėjimui Rytuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
+    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
+    gaišti dėl nesvarbių reikalų.
     Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
     vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
     keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
@@ -145,13 +114,11 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
+    - t-004
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Palenkdamas rusų bojari-
@@ -166,11 +133,40 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     laikais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-006
+
+- c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Al­
+    girdo užkariautųjų Rusijos kraštų plotą Vytautas buvo jau per­
+    žengęs prieš Žalgirio mūšį, bet tolimesnį jo įsigalėjimą sutrukdė
+    ilga nesantaika su Vok. Ordinu ir kultūros darbas pačioje Lie­
+    tuvoje. Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
+    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
+    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
+    galėjimui Rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^122) I SKYRIUS: LIETUVOS PROISTORĖ
+    kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana
+    toli, kur buvo daugiau ko grobti. Jie pasiekdavo plotus turtingųjų
+    Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
+    į tolimus Dniepro plotus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

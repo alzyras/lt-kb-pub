@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henne'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
@@ -25,22 +16,39 @@ tags:
 Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
+  pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo,
+    sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo
+    Henne, drauge ir vokiečių agentas. Vytautas čia yra tų laikų
+    vaikas.
+    Maža žinome apie Vytauto šeimyninius santykius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pasidavimo sąlygas
@@ -52,29 +60,27 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­
     dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu
     su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Henne buvo įžymiausias Vytauto juokdarys ir kartu vokiečių agentas.'
+    - t-002
+
+- c-003
+  santrauka: 'Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo, sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo Henne, drauge ir vokiečių agentas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Žiaurumų ir dabar juk pasaulyje yra kiek reik,
+    tik jie dabar dažniausiai ne vieno asmens užsigeidimų išdava.
     Daug ir kitų Vytauto savybių mums šiandien keistokos atrodo,
     sakysim, jo pamėgimas juokdarių, kurių įžymiausias buvo
     Henne, drauge ir vokiečių agentas. Vytautas čia yra tų laikų
     vaikas.
-    Maža žinome apie Vytauto šeimyninius santykius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

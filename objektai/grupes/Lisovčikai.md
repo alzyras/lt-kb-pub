@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lisovčikai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -24,16 +15,15 @@ tags:
 Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontrataką.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. K. Chodkevičius pasiuntė kelias lisovčikų vėliavas į kontrataką.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. K. Chodkevičius pasiuntė kelias lisovčikų vėliavas į kontrataką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. K. Chodkevičius pasiuntė ke-
@@ -45,11 +35,9 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
     tilerijos baterijų pozicijas, išžudė
     jų tarnybas ir sugadino pabūk-
     lus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -57,5 +45,6 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Janičarai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/raitarai]]

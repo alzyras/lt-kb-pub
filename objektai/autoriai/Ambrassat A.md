@@ -19,34 +19,34 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
 
 ## Teiginiai
 
-- t-005
-  teiginys: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad 33, 1—2, p. 278; Ambrassat A., Die Provinz..., p. 336; Gause F., Geschichte..., 1, p. 3—15; IIP, 1, 1, p. 450, 463; Powierski J., Sambia, p. 38; MPKP, 2, p. 241; Кириллова Ю.'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad pabaigos, vėliau perstatyta ir paversta kalėjimu (GAO, p. 181; Bonk H., Die Städte..., p 107—108; Boetticher A., Die Bau..., 2, p. 180— 182; Ambrassat A., Die Provinz..., p. 330—331; CV, t.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365).'
+  teiginys: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
   pagrindžia:
     - c-001
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389).'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 33, 1—2, p. 278; Ambrassat A., Die Provinz..., p. 336; Gause F., Geschichte..., 1, p. 3—15; IIP, 1, 1, p. 450, 463; Powierski J., Sambia, p. 38; MPKP, 2, p. 241; Кириллова Ю.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad pabaigos, vėliau perstatyta ir paversta kalėjimu (GAO, p. 181; Bonk H., Die Städte..., p 107—108; Boetticher A., Die Bau..., 2, p. 180— 182; Ambrassat A., Die Provinz..., p. 330—331; CV, t.'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365).'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389).'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
@@ -61,9 +61,9 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaliningrado centrinės aikštės, prie dab.
@@ -74,9 +74,9 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
@@ -87,9 +87,9 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
@@ -105,9 +105,9 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     čia pastatė savo Tepliavos pilį (prūsų pilies ieškota ir kiek toliau
@@ -119,7 +119,7 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

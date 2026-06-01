@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„Jūs norite man išplėšti tėvų palikimą...“'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ordinas
   - pilis
   - posakis
+amziai:
+  - 'XV'
 ---
 # „Jūs norite man išplėšti tėvų palikimą...“
 
@@ -30,16 +24,15 @@ tags:
 Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų, kad turėtų sugriauti Veliuonos pilį ir šią žemę grąžinti Ordinui, Vytautas atkirtęs: „Jūs norite man išplėšti tėvų palikimą ir Veliuonos pilį atimti; bet kol aš jums atiduosiu, ne.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1413 m. sausio 28 d. Vytautas Ordino pasiuntinybei pareiškė, kad Veliuonos pilies neatiduos be kovos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1413 m. sausio 28 d. Vytautas Ordino pasiuntinybei pareiškė, kad Veliuonos pilies neatiduos be kovos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagrindinis konfliktas su Vokiečių ordinu vyko dėl Žemaitijos. Šio
@@ -60,11 +53,9 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
     50
     nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
     dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

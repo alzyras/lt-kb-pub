@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mathias Ziindt'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1564 m.'
   - '1568 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1564'
 date_end: '1568'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - seimas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mathias Ziindt
 
@@ -29,16 +25,15 @@ tags:
 1568 m. Mathias Ziindt (fragmentas).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
@@ -53,11 +48,9 @@ tags:
     pavaizduoti Lietuvos kariuomenės raiteliai
 
     1564 m. sausio 23 d. ULOS (ČAŠNIKŲ) MŪŠIS 87
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

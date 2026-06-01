@@ -20,13 +20,14 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
 ## Teiginiai
 
 - t-001
-  teiginys: 'Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur gana ilgai buvo saugomas sargybos, kol, atkakliai prašant ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo 139 ## Puslapis 156 VILNIAUS MIESTO ISTORIJA /.'
+  teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Paminėsime tad tik
@@ -60,5 +61,6 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
+- [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Dmitrijus Kaributas]]
+- [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]

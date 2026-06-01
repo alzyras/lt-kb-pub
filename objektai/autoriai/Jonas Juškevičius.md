@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Jonas Juškevičius'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -18,16 +15,15 @@ tags:
 Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiškomis raidėmis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiškomis raidėmis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiškomis raidėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip tik tuo metu rusų slavofilų tarpe buvo kilęs sumany-
@@ -38,11 +34,9 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
     ratoriui Kornilovui išspausdinti savo rusiškai parašytą lietuvišką
     gramatiką, jis gavo pasiūlymą lietuviškąjį tekstą perrašyti rusiš-
     komis raidėmis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

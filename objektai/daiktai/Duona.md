@@ -93,7 +93,6 @@ Nenurodyta
 - [[objektai/asmenys/Melchizedekas|Melchizedekas (kunigas)]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
 - [[objektai/zodynas/Olia Charitatis]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Puzinienė iš Oginskių]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]

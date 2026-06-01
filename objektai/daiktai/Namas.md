@@ -1,24 +1,10 @@
 ---
 tipas: daiktas
-pavadinimas: Namas
-sukurta: '2026-04-30'
-variantai: []
-aliases: []
+pavadinimas: 'Namas'
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Namas
 
@@ -27,38 +13,41 @@ tags: []
 Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis. Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.'
   pagrindžia:
     - c-001
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
   pagrindžia:
     - c-002
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
         prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys. Tas trobesys, kurį
@@ -70,16 +59,14 @@ Nenurodyta
         per augumą nuo žemės dėl šviesos iškirstas; po tuo langeliu namo pusėj duobė iškasta, į kurią
         pylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai
         išvestas buvo namo pasieniu lauko pusėj pakalniui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Senovėj kalnėnai ir žemaičiai tame trobesy visus namų darbus atliko: alų, midų darė, žlugtį
         žlugino, namo asloj dirbo ratus, tekinius, važius, roges, šlėdes^206 , arba šlajas, kubilus ir kitus indus,
@@ -88,11 +75,9 @@ Nenurodyta
         brūzti, kokį noris išsiėmęs knebinį, nesgi tenai visados ugnis kūrinos, prie kurios pablaka susėdę
         šildės ir permerkti nuo lytaus ar krušos džiovinos, vasarą tenai valgė, rudenį ir žiemą stotkus arba
         baldus ir kitą namų padarynę, beje, žambius, akėčias, ant sulos kamaros sukeltus, laikė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -139,14 +124,17 @@ Nenurodyta
 - [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
 - [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
 - [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės]]
+- [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]
 - [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
 - [[objektai/asmenys/Kristupas Zalivskis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kūtė]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Mangoldas [iš Šternbergo]]]
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
 - [[objektai/asmenys/Mauricijus]]
@@ -170,7 +158,6 @@ Nenurodyta
 - [[objektai/asmenys/Povilas Piestavičius]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Pranciškus (popiežiaus legatas)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Radvilų prokuratorija]]
 - [[objektai/grupes/Raudonoji armija]]
@@ -205,6 +192,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/grupes/Zalivskiai]]
 - [[objektai/asmenys/Zanka Ivanovičius]]
+- [[objektai/zodynas/buožės darbo valstiečiai]]
 - [[objektai/zodynas/dausos]]
 - [[objektai/zodynas/grabnyčių diena]]
 - [[objektai/zodynas/jurisdikcija]]
@@ -225,6 +213,7 @@ Nenurodyta
 - [[objektai/asmenys/Šventoji Barbora]]
 - [[objektai/paprociai/Žiemos kelionės upeliais šunis užkinkius]]
 - [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]
+- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
 - [[objektai/asmenys/Jurgis Radvila]]

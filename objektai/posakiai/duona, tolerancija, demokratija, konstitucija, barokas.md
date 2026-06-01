@@ -1,27 +1,18 @@
 ---
 tipas: posakis
-pavadinimas: "duona, tolerancija, demokratija, konstitucija, barokas"
-sukurta: '2026-05-13'
-variantai: []
-aliases: []
+pavadinimas: 'duona, tolerancija, demokratija, konstitucija, barokas'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "XVII–XVIII a. Abiejų Tautų Respublikos civilizacinių fenomenų kontekstas."
-datos: []
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1601 m.'
+  - '1800 m.'
+date_start: '1601'
+date_end: '1800'
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XVII"
-  - "XVIII"
-date_start: "1601"
-date_end: "1800"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-13'
-tags: []
+  - 'XVII'
+  - 'XVIII'
 ---
 # duona, tolerancija, demokratija, konstitucija, barokas
 
@@ -30,31 +21,34 @@ tags: []
 Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVIII a. civilizacinius fenomenus.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“."
+  teiginys: 'Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku."
+  teiginys: 'Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pateikia formulę ir išskleidžia jos elementus.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    duona, toleran-
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
+    ryšius su Lenkija, o XV–XVI a. perėmė
+    krikščionišką Vakarų kultūrą. XVI a. vidu-
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
+    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
+    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

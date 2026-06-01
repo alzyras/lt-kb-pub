@@ -19,12 +19,12 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 
 ## Teiginiai
 
-- t-002
-  teiginys: '41 Miesto archyve yra Aleksandro Jogailaičio, Lietuvos didžiojo kunigaikš­ čio, tokio turinio laiškas: „Vaitas, ta­ rybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, Vilniaus vaivados ir valstybės kanclerio Mi­ kalojaus Radvilos vietininką, kad tas.'
+- t-001
+  teiginys: 'Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į miesto reikalus, ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­ sė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
   pagrindžia:
     - c-001
@@ -50,9 +50,10 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: 'Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     D u b i ń s k i, 1.10.
@@ -82,7 +83,7 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -121,8 +122,6 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Povilas Mieleckis]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/autoriai/Puslapis 206]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Raina Sluščianka]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/asmenys/Steponas Batoras]]
@@ -144,4 +143,5 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - [[objektai/zodynas/činšas]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
 - [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
+- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/zodynas/vietininkas]]

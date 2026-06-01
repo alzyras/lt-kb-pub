@@ -21,16 +21,16 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 - t-001
   teiginys: 'Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­ ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­ čius.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Vestra in Urbė Vilnensi, ex officio suo civibus et mercatoribus Vilnensibus haec thelonea, nec non et exactiones Czopowe et Szosowe nuncu­ patas, perinde quemadmodum anno praesenti ex omnibus Oppi­ dis nostris solvebant, pendere et solvere irrecusabiliter.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     329
@@ -52,7 +52,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl Vilniaus Batoras pareikalavo
@@ -79,7 +79,6 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Vilniaus pirkliai]]

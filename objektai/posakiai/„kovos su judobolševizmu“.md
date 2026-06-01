@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„kovos su judobolševizmu“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -18,27 +15,32 @@ tags:
 Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai ypač su-
+    stiprino antisemitines nuotaikas, daugeliui lietuvių atrodė, kad visi žydai
+    išdavė nepriklausomą Lietuvą ir jos idealus. Staigus antižydiškų nuotai-
+    kų sustiprėjimas vertė rūpintis ir Maskvos statytinius: 1940 m. birželio
+    27 d. Maskvos sudarytos Liaudies vyriausybės premjero pareigas einantis
+    V. Krėvė-Mickevičius skundėsi L. Berijos pavaduotojui V. Merkulovui,
+    kad gyventojai pasipiktinę žydų, ignoruojančių Lietuvos valstybingumą,
+    elgesiu.
     Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
     leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina
     mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių
     antisovietinėmis nuotaikomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -31,16 +31,17 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
 - t-001
   teiginys: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: '60 Laurynas Goslickis, pirmiausia ka­ raliaus Stepono sekretorius, galiau­ siai Poznanės vyskupas, išgarsėjo ypatingais sugebėjimais spręsti vie­ šuosius reikalus bei įvairiose pasiun­ tinybėse, bet labiausiai lotynų kalba parašęs puikią knygą „De optimo.'
+  teiginys: 'Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau Poznanės vyskupas ir lotyniškos knygos „De optimo Senatore“ autorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. tarp dekretų.
@@ -61,7 +62,7 @@ Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS

@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ivanas IV Rūstusis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1558 m.'
   - '1559 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1558'
 date_end: '1559'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - dinastija
   - tauta
   - valdovas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Ivanas IV Rūstusis
 
@@ -31,36 +27,32 @@ tags:
 1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis. pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija ir šią šalį ištiko gili krizė.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė gilesnes Livonijos sritis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pasvalyje su ja sudarė karinę sąjungą
     gynybai nuo Maskvos. 1558 m. Ivanas IV Rūstusis užpuolė Livoniją ir užėmė dalį jos žemių, 1559 m. rusai siaubė
     gilesnes Livonijos sritis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Proga atsiimti Smolenską atsirado
@@ -75,13 +67,11 @@ tags:
     pretendentai į Rusijos sostą ir kai kurių
     rusų bojarinų giminių atstovai. Lenkų ka-
     riuomenė šios sumaišties metu 1610 m. su-
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

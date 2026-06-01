@@ -33,12 +33,12 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
 - t-002
   teiginys: 'Dusburgietis teigia, kad poterbergas — prie Kalduso, į pietvakarius nuo Kulmo (SZCh, p 101).'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad todėl 1283 viešpaties metais broliai perkėlė iš Kulmo žemės Poterbergo pilį bei visus kitus pastatus ir įkūrė Mevės pilį prie Vyslos toje vietoje, kur ji po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išklausęs abiejų šalių įrodymų,
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     iš didelės baimės perbalo, paskui, garsiai šaukdamas

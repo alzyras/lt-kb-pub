@@ -44,18 +44,18 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
   pagrindžia:
-    - c-001
+    - c-002
     - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
   pagrindžia:
-    - c-002
+    - c-001
     - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -78,7 +78,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą

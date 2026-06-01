@@ -31,12 +31,12 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie brolį Helvigą, Prūsijos žemės magistrą (1300 metai) Brolis Helvigas iš Goldbacho iš Tiuringijos, penkioliktas Prūsijos žemės magistras, vadovavo vienus metus; vėliau, atsisakęs pareigų, grįžo į Vokietiją, kur mirė ir palaidotas.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
   pagrindžia:
     - c-002
@@ -75,7 +75,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -93,7 +93,7 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

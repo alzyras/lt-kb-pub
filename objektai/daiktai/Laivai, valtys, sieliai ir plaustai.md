@@ -49,39 +49,39 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-006
+- t-001
   teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
-  pagrindžia:
-    - c-006
-
-- t-003
-  teiginys: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
+- t-002
+  teiginys: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
   pagrindžia:
     - c-001
 
-- t-005
-  teiginys: 'J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Ar­ ba, priešingai, po vandeniu slypin­ čiais rifais klastingai prigaudavo pir­ 16 ## Puslapis 33 I KNYGA klius, išdrįsusius, Lietuvai su Prūsi­ ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.'
+- t-003
+  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
   pagrindžia:
     - c-004
 
+- t-004
+  teiginys: 'Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.'
+  pagrindžia:
+    - c-003
+
+- t-006
+  teiginys: 'Prasidėjus Lietuvos ir Prūsijos prekybai, pirkliai į pirmąją kelionę leisdavosi sieliais.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man vis dėlto atrodo,
@@ -106,9 +106,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-006
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lindenblatt Jahrbücher, p. 9 4 .
@@ -126,9 +126,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
-- c-005
+- c-003
+  santrauka: 'Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Energingas Garteno (Gar­
@@ -187,7 +188,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
@@ -216,9 +217,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-004
+- c-005
+  santrauka: 'Prasidėjus Lietuvos ir Prūsijos prekybai, pirkliai į pirmąją kelionę leisdavosi sieliais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5
@@ -245,9 +247,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-001
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -268,7 +270,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

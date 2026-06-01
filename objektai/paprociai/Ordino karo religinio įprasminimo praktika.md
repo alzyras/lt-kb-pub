@@ -45,27 +45,27 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz., Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi.'
   pagrindžia:
     - c-002
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus ginklus“).'
-  pagrindžia:
-    - c-004
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9). Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis.'
   pagrindžia:
     - c-005
 
 - t-003
+  teiginys: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9). Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis.'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-005
   teiginys: 'Dusburgietis teigia, kad kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87)..'
   pagrindžia:
     - c-001
@@ -84,7 +84,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -98,7 +98,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -122,9 +122,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
@@ -138,9 +138,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-004
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
@@ -153,7 +153,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,28 +1,18 @@
 ---
 tipas: paprotys
-pavadinimas: "Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "XIX a. pirmoji pusė"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1835 m."
-  - "1836 m."
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XIX"
-date_start: "1835"
-date_end: "1836"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
+  - '1835 m.'
+  - '1836 m.'
+date_start: '1835'
+date_end: '1836'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XIX'
 ---
 # Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas
 
@@ -31,6 +21,7 @@ tags: []
 XIX a. pirmojoje pusėje susidomėjimas Lietuvos praeitimi reiškėsi istorikų darbų aptarinėjimu bajorų pobūviuose ir privačių archeologinių bei meno kolekcijų kaupimu. Praktika susieta su 1835-1836 m. istorinių veikalų pasirodymu.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: XIX a. pirmoji pusė
 - datos: 1835 m., 1836 m.
 - periodas: naujieji_laikai
@@ -39,36 +30,38 @@ XIX a. pirmojoje pusėje susidomėjimas Lietuvos praeitimi reiškėsi istorikų 
 - date_end: 1836
 
 ## Kas tai
+
 - kategorija: kultūrinė praktika
 
 ## Atlikimas
+
 - kas atlieka: Lietuvos visuomenė, bajorų pobūvių dalyviai ir privatūs kolekcininkai.
 - kada atliekama: XIX a. pirmojoje pusėje, 1835-1836 m. istorinių veikalų kontekste.
 - kaip atliekama: aptariant istorikų darbus pobūviuose ir kaupiant privačias kolekcijas.
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Istorikų darbai buvo aptarinėjami bajorų pobūviuose."
+  teiginys: 'Istorikų darbai buvo aptarinėjami bajorų pobūviuose.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai."
+  teiginys: 'Privačiose kolekcijose buvo kaupiami archeologiniai radiniai ir meno objektai.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: "Citata sieja Lietuvos praeities domėjimąsi su pobūviais ir kolekcijomis."
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš
@@ -84,11 +77,9 @@ Nenurodyta
     tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
     aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
     cheologinių radinių ir meno kolekcijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

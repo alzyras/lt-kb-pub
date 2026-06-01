@@ -41,21 +41,21 @@ Nenurodyta
 - t-001
   teiginys: 'Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
+  teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Berlynas ir Mas-
@@ -70,9 +70,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Berlynas ir Mas-
@@ -93,9 +93,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Berlynas ir Mas-

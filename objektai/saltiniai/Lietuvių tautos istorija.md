@@ -25,24 +25,24 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Narbuto istorijos pirmasis tomas, kitais metais - pirmoji M.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo.'
+  teiginys: 'Narbuto istorijos pirmasis tomas, kitais metais - pirmoji M.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: 'Narbuto istorijos atžvilgiu, kurią galima vertinti kaip romantinės istori­ jos rašymo kritiką: „<..'
+- t-002
+  teiginys: 'Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Balinskio rašiniuose T. Narbuto „Lietuvių tautos istorija“ pateikiama kaip pavyzdys, kaip nereikia rašyti istorijos.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
@@ -56,9 +56,10 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
+  santrauka: 'Balinskio rašiniuose T. Narbuto „Lietuvių tautos istorija“ pateikiama kaip pavyzdys, kaip nereikia rašyti istorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tyrinėtoja parodo M. Balinskio kritiką T.
@@ -72,7 +73,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš
@@ -88,4 +89,4 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

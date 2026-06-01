@@ -1,39 +1,19 @@
 ---
 tipas: grupe
-pavadinimas: "NKGB"
-sukurta: '2026-05-18'
-variantai:
-  - "Valstybės saugumo liaudies komisariatas"
-  - "Valstybės saugumo liaudies komisariatas (SSRS)"
-aliases:
-  - "NKGB ir NKVD struktūros"
-  - "NKVD ir NKGB skyriai"
+pavadinimas: 'NKGB'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1944 m.'
-  - '1945 m.'
-  - '1946 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1944'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1944'
-date_end: '2026'
-bukle: juodrastis
-laikotarpis: "1944-1946 m. Lietuvos okupacijos kontekstas"
-vaidmenys:
-  - "saugumo institucija"
-  - "represinė struktūra"
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-18'
-tags: []
 ---
 # NKGB
 
@@ -70,30 +50,30 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - susijusios vietos:
 
 ## Teiginiai
-- t-006
-  teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-007
+
+- t-001
   teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
-  pagrindžia:
-    - c-003
-- t-009
+
+- t-002
   teiginys: 'Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė tris NKGB dalinio buvusius vadus: kpt.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau bėda ta, kad lygia greta, kone tuo pat metu
@@ -104,15 +84,13 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     ros, sovietų valdininkai ir okupacinė kariuomenė. Iki 1945 m. pavasario
     į Lietuvą buvo atsiųsta 6 tūkst. rusakalbių į svarbiausius kuriamos admi-
     nistracijos postus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
 - c-002
-  santrauka: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
@@ -123,15 +101,13 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
     vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
     jus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
+
 - c-003
-  santrauka: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
@@ -139,13 +115,11 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     paliko Tigro milinėje, nė viena nepasiekdama kūno.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-004
+
 - c-004
-  santrauka: 'Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė tris NKGB dalinio buvusius vadus: kpt.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
@@ -156,11 +130,9 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     1945 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -170,3 +142,5 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - [[objektai/grupes/NKVD]]
 - [[objektai/asmenys/Tigras]]
 - [[objektai/asmenys/Arkadij Kruglov]]
+- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
+- [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]

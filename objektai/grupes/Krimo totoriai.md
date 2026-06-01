@@ -26,7 +26,7 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
 - t-001
   teiginys: 'Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva tikėjosi pasinaudoti, — juo labiau, kad Zigmantas buvo patraukęs į savo pusę Krimo totorius, apsiėmęs jiems kasmet mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės pavojus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-002
   teiginys: 'Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo totorius.'
@@ -35,7 +35,7 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pereskopo
@@ -48,7 +48,7 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1533 m. mirė Vosylius III, Maskvos

@@ -22,12 +22,12 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.'
   pagrindžia:
     - c-002
@@ -65,7 +65,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -80,4 +80,4 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

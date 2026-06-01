@@ -1,11 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: karmūšų
-sukurta: '2026-04-30'
+tipas: zodyno_irasas
+pavadinimas: 'karmūšų'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # karmūšų
 
@@ -18,23 +17,25 @@ Kovų, mūšių vietos, mūšio laukai. Vartojama kaip šventų vietų grupės p
 Pagrindinė forma: `karmūšų`.
 Papildomos aiškios formos neišskirtos.
 
+## Pastabos
+
+- Forma archajiška, bet reikšmė iš paties aprašymo gana aiški.
+
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: 'Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
@@ -47,18 +48,12 @@ Papildomos aiškios formos neišskirtos.
         manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
-
-## Pastabos
-
-- Forma archajiška, bet reikšmė iš paties aprašymo gana aiški.
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Petras Suchenwirt'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '2000 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '2000'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Petras Suchenwirt
 
@@ -28,22 +24,20 @@ tags:
 Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vadovavo pats magistras, daug įdomių smulkmenų. Stipriai šarvuoti riteriai sunkiai susidorodavo Lietuvos miškuose ir raistuose, kurių teikiamus pavojus ir kliūtis taip vaizdingai savo eilėse iškėlė Suchenwirtas.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Petras Suchenwirtas savo eilėse vaizdingai iškėlė Lietuvos miškų ir raistų pavojus riteriams.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^21) **SRP, II, 96, 565-568 p. ; III, 596 p.**
@@ -60,15 +54,13 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
     švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami,
     kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis
     buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Petras Suchenwirtas savo eilėse vaizdingai iškėlė Lietuvos miškų ir raistų pavojus riteriams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Eilė rūpestingai pa­
@@ -78,13 +70,11 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
     taip vaizdingai savo eilėse iškėlė Suchenwirtas. Jis pateikė gyvą
     Lietuvos XIV amž. dykrų bei miškų paveikslą^28 , rodantį, kaip
     žmogus tada dažnai priklausė nuo gamtos stichijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

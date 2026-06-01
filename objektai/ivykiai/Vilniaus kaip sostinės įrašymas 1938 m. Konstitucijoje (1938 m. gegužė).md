@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus kaip sostinės įrašymas 1938 m. Konstitucijoje (1938 m. gegužė)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1938 m.'
+date_start: '1938'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Vilniaus kaip sostinės įrašymas 1938 m. Konstitucijoje (1938 m. gegužė)
 
@@ -19,39 +22,44 @@ tags:
 Lietuva tai laikė taktiniu atsitraukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad Vilnius yra Lietuvos sostinė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1938 m. gegužę priimtoje naujoje konstitucijoje Lietuva vėl įrašė, kad Vilnius yra jos sostinė.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1938 m. gegužę priimtoje naujoje konstitucijoje Lietuva vėl įrašė, kad Vilnius yra jos sostinė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
+    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
+    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
+    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
+    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
     Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
     Vilnius yra Lietuvos sostinė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

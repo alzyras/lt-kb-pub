@@ -29,19 +29,19 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės sklypas (sklypelis).'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose matome terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).'
+  teiginys: 'Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės sklypas (sklypelis).'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose matome terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Plg. Codex Justinianus
@@ -61,9 +61,9 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1257.IV.14 Sembos vyskupo  ir vicemagistro valdų dalybų dokumentuose matome
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,17 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1639 m.'
+  - '1640 m.'
+date_start: '1639'
+date_end: '1640'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
   - seimas
+amziai:
+  - 'XVII'
 ---
 # Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)
 
@@ -32,38 +36,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus į pranciškonių bažnyčią Vilniaus minia apgriovė kalvinų bažnyčią.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus į pranciškonių bažnyčią Vilniaus minia apgriovė kalvinų bažnyčią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-    1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
-    kas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Mieste
-    tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-
-    nyčią, ir minia už tai apgriovė jų bažnyčią.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mieste
@@ -72,13 +58,25 @@ Nenurodyta
     ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
     niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
     miesto (1640 m.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+    1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
+    kas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Mieste
+    tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-
+    nyčią, ir minia už tai apgriovė jų bažnyčią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

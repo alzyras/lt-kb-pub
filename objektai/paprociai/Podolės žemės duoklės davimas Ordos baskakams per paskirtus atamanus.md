@@ -1,24 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: 'Podolėje; Mėlynųjų Vandenų mūšio padarinių kontekste; atvykstantiems Ordos baskakams'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus
 
@@ -30,6 +16,7 @@ Podolės žemės paskirti atamanai duodavo duoklę atvykstantiems Ordos baskakam
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: teisinė-administracinė praktika
 
 ## Atlikimas
@@ -42,37 +29,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Karijotaičiai su vietiniais atamanais ėmė ginti Podolės žemę ir nebeduoti duoklės baskakams.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Podolės žemės tėvonys bei paveldėtojai“.
-    Podolėje veikė jų paskirti atamanai, kurie
-    nuo Podolės žemės duodavo duoklę at-
-    vykstantiems Ordos baskakams.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Karijotaičiai su vietiniais atamanais ėmė ginti Podolės žemę ir nebeduoti duoklės baskakams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į vakarus nuo minėtos mūšio
@@ -84,13 +54,24 @@ Nenurodyta
     lės jų baskakams. Karijotaičiai
     Podolėje pastatė Smotričo,
     Bakotos, Kameneco pilis, už-
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Podolės žemės tėvonys bei paveldėtojai“.
+    Podolėje veikė jų paskirti atamanai, kurie
+    nuo Podolės žemės duodavo duoklę at-
+    vykstantiems Ordos baskakams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

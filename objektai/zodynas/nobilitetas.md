@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'nobilitetas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - sąvoka
+amziai:
+  - 'XV'
 ---
 # nobilitetas
 
@@ -28,16 +22,15 @@ tags:
 Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­ siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto luomu. Lietuvos bajorija apie taurumą (nobilitetą) nežinojusi nieko^5 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų vietą
@@ -50,11 +43,9 @@ Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva �
     siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
     luomu.
     Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

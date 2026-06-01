@@ -1,24 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Kaimieti (Rustice), tu čia karalium nebūsi'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -33,36 +19,32 @@ tags:
 - Pagrindinė forma: Kaimieti (Rustice), tu čia karalium nebūsi
 
 ## Teiginiai
-- t-003
-  teiginys: 'Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Posakis nuskamba po atsakymo, kad jie išvarys visus vokiečius, ir po jo karalius liepia nukirsti pašnekovui galvą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tasai atsakė, kad jie apskritai
     visus vokiečius (Almanis) išvarys. Bet karalius tarė: ,,Kaimieti (Rustice), tu čia karalium
 
     nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

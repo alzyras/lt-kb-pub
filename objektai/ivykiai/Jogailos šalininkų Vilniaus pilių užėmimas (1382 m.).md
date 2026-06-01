@@ -48,7 +48,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
+  teiginys: 'Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir abi Vilniaus pilis atidavė Jogailai.'
   pagrindžia:
     - c-002
 
@@ -98,6 +98,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir abi Vilniaus pilis atidavė Jogailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Re­
@@ -128,4 +129,5 @@ Nenurodyta
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Pilininkas]]
 - [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]

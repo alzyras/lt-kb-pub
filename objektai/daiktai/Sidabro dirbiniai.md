@@ -1,10 +1,6 @@
 ---
 tipas: daiktas
 pavadinimas: 'Sidabro dirbiniai'
-sukurta: '2026-04-28'
-variantai:
-  - 'sidabro dirbinius'
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -13,19 +9,15 @@ datos:
   - '1968 m.'
   - '1978 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1964'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Sidabro dirbiniai
 
@@ -34,31 +26,35 @@ tags:
 Sidabro dirbiniai ir auksakalystė Lietuvoje iki XIII a. paminėti kaip atskira tyrimų sritis.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'L. Nakaitė rašė apie sidabro naudojimą, sidabrą kaip vertės matą ir sidabro dirbinius Lietuvoje iki XIII a.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'L. Nakaitė rašė apie sidabro naudojimą, sidabrą kaip vertės matą ir sidabro dirbinius Lietuvoje iki XIII a.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Rudaičių ir Veliuonos
@@ -72,18 +68,17 @@ Nenurodyta
     matą (AkMD, t. 20, 1966, 33-45 p.), apie sidabro dirbinius ir auk­
     sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
     1968, 47-55 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/M. Michelbertas]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/daiktai/Brūkšniuotoji keramika]]
 - [[objektai/autoriai/E. Danilaitė]]
 - [[objektai/autoriai/E. Radzvilovaitė]]

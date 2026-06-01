@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'dragūnai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1618 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1618'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - reforma
   - sąvoka
+amziai:
+  - 'XVII'
 ---
 # dragūnai
 
@@ -29,22 +23,20 @@ tags:
 Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti. Dragūnus buvo galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Dragūnus buvo galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstinin-
@@ -52,15 +44,13 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     jie neatsilikdavo nuo kavalerijos dalinių, o susidūrus su priešu pa-
     remdavo kavalerijos veiksmus kaip pėstininkai. Dragūnus buvo
     galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Dragūnus buvo galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dragūnus buvo
@@ -68,17 +58,33 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     kartą dragūnų kompanija Lietuvoje minima 1618 m. Dragūnų re-
     gimentas buvo dalijamas į eskadronus, nors buvo naudojami ir kiti
     pavadinimai - vėliava, kompanija, kornetas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+- c-003
+  santrauka: 'Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Regimentą sudarė kompanijos (kuopos), kurios dalijosi į vienetus
+    po 5 žmones, kuriem, vadovavo kapralai.
+
+    Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstinin-
+    kai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti. Žygiuodami
+    jie neatsilikdavo nuo kavalerijos dalinių, o susidūrus su priešu pa-
+    remdavo kavalerijos veiksmus kaip pėstininkai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Francois Paulin Dalairac]]
 - [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/M. P. Sapiega]]

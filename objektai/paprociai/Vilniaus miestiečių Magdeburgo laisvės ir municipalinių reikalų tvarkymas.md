@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '— • - 152 ## Puslapis 169 Il KNYGA Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­ burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­ mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­ mo žmonės; pagaliau Vilniaus, pralobusio per.'
+  teiginys: 'Vilniaus klestėjimas ir Magdeburgo teisių suformuota miestiečių padėtis įtikino Vytautą leisti miestiečiams dalyvauti tautos pasitarimuose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus klestėjimas ir Magdeburgo teisių suformuota miestiečių padėtis įtikino Vytautą leisti miestiečiams dalyvauti tautos pasitarimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar tik kai

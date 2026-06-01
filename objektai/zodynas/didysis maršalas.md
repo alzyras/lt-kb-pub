@@ -55,7 +55,6 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
 - [[objektai/asmenys/Ignotas Potockis]]
 - [[objektai/asmenys/Kazimieras Nestoras Sapiega]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/asmenys/Stanislovas Soltanas]]
 - [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]

@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1812 m.'
+date_start: '1812'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
   - unija
+amziai:
+  - 'XIX'
 ---
 # Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)
 
@@ -32,16 +35,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniaus universiteto jaunuomenės iniciatyva 1812 m. liepos 14 d. Vilniaus katedroje iškilmingai pasižadėta atnaujinti uniją.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus universiteto jaunuomenės iniciatyva 1812 m. liepos 14 d. Vilniaus katedroje iškilmingai pasižadėta atnaujinti uniją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip
@@ -51,11 +53,9 @@ Nenurodyta
     karštai sutiko Vilniaus universiteto jaunuomenė. Jos iniciatyva
     1812 m. liepos 14 d. Vilniaus katedroje įvyko iškilmingas pasi-
     žadėjimas atnaujinti uniją. Tokių iškilmių įvyko ir kitur.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

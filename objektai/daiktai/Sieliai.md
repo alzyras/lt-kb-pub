@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Ar­ ba, priešingai, po vandeniu slypin­ čiais rifais klastingai prigaudavo pir­ 16 ## Puslapis 33 I KNYGA klius, išdrįsusius, Lietuvai su Prūsi­ ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.'
+  teiginys: 'Prasidėjus Lietuvos ir Prūsijos prekybai, pirkliai į pirmąją kelionę leisdavosi sieliais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prasidėjus Lietuvos ir Prūsijos prekybai, pirkliai į pirmąją kelionę leisdavosi sieliais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5

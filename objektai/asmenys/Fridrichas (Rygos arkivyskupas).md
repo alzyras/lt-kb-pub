@@ -1,57 +1,21 @@
 ---
+tipas: asmuo
+pavadinimas: 'Fridrichas (Rygos arkivyskupas)'
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-sukurta: ''
-atnaujinta: ''
 datos:
   - '1323 m.'
-  - '1324 m.'
   - '1325 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: '1325'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
----
-  tipas: asmuo
-  pavadinimas: Fridrichas (Rygos arkivyskupas)
-  sukurta: "2026-05-27"
-  variantai:
-- Rygos arkivyskupas Fridrichas
-- arkivyskupas Fridrichas
-- Fridrichas
-- fratris Priderki
-  aliases:
-- Rygos arkivyskupas Fridrichas
-- arkivyskupas Fridrichas
-- Fridrichas
-  saltiniai:
-    - Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  bukle: juodrastis
-  laikotarpis: 1323-1325 m. Livonijos, Gedimino laiškų ir konflikto su Kryžiuočių ordinu kontekstas
-  datos:
-- 1323 m.
-- 1325 m. balandis
-  periodas: viduramziai
-  periodo_grupes:
-- Livonija
-  amziai:
-- XIV
-  date_start: "1323"
-  date_end: "1325"
-  vaidmenys:
-- Rygos arkivyskupas
-- dvasininkas
-  dalyviai: []
-  susije_irasai: []
-  patikimumas: aukštas
-  tags:
-- dvasininkas
-  ---
-
 # Fridrichas (Rygos arkivyskupas)
 
 ## Santrauka
@@ -59,12 +23,14 @@ date_end: '1325'
 Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimino ir Vytenio santykiais su Ryga, minoritų kvietimu ir ginču su Kryžiuočių ordinu. Pasakojime pateikiamos ir jam nepalankios versijos apie Gedimino vardu parengtus laiškus bei popiežiaus rūmų veikimą.
 
 ## Variantai
+
 - Rygos arkivyskupas Fridrichas
 - arkivyskupas Fridrichas
 - Fridrichas
 - fratris Priderki
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1323-1325 m. Livonijos, Gedimino laiškų ir konflikto su Kryžiuočių ordinu kontekstas
 - datos:
   - 1323 m.
@@ -78,80 +44,80 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - date_end: "1325"
 
 ## Vaidmenys
+
 - Rygos arkivyskupas
 - dvasininkas
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną."
+  teiginys: 'Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Lotyniškoje citatoje Fridrichui priskiriamas pasiuntinių siuntimas pas Gediminą ir susitarimai prieš Ordiną."
+  teiginys: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė susitarimus prieš Ordiną.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: "Vytenis laišku prašė popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą atsiųsti minoritų."
+  teiginys: 'Vytenis laišku prašė popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą atsiųsti minoritų.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: "Gedimino vardu pateiktame laiške Fridrichas minimas kaip arkivyskupas, kurį klastingai išmetė iš bažnyčios."
-  pagrindžia:
-    - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: "Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną."
+  teiginys: 'Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną.'
   pagrindžia:
     - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: "Po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus."
+
+- t-005
+  teiginys: 'Po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
   pagrindžia:
     - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: "Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu."
+
+- t-006
+  teiginys: 'Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu.'
   pagrindžia:
     - c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė nuomonė, esą kupinas senos neapykantos Rygos arkivys­ kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­ nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­ vo susimokęs ir veikė jo.'
-  pagrindžia:
-    - c-008
-- t-009
+
+- t-007
   teiginys: 'Tiesa, arkivyskupui Isamui tarpininkaujant, tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­ dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­ keliui buvo užmušti, kiti pakarti arba paskandinti.'
   pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo plano.'
-  pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
-  pagrindžia:
     - c-011
-- t-012
-  teiginys: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
+
+- t-008
+  teiginys: 'Gedimino vardu pateiktame laiške Fridrichas minimas kaip arkivyskupas, kurį klastingai išmetė iš bažnyčios.'
   pagrindžia:
-    - c-012
-- t-013
+    - c-004
+
+- t-009
   teiginys: 'Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo.'
+  pagrindžia:
+    - c-009
+
+- t-010
+  teiginys: 'Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė nuomonė, esą kupinas senos neapykantos Rygos arkivys­ kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­ nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­ vo susimokęs ir veikė jo.'
   pagrindžia:
     - c-013
 
+- t-011
+  teiginys: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
+  pagrindžia:
+    - c-012
+
+- t-012
+  teiginys: 'Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo plano.'
+  pagrindžia:
+    - c-010
+
+- t-013
+  teiginys: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
+  pagrindžia:
+    - c-008
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Rygos arkivyskupas Fridrichas siejamas su Gedimino veikimu prieš Ordiną Livonijoje.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
@@ -166,17 +132,14 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
     nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
     vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 - c-002
-  santrauka: Lotyniškoje citatoje Fridrichui priskiriami pasiuntiniai pas Gediminą ir susitarimai prieš Ordiną.
+  santrauka: 'Rygos arkivyskupas Fridrichas pasiuntė pasiuntinius pas lietuvių valdovą ir sudarė susitarimus prieš Ordiną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     334.
@@ -210,17 +173,13 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     žemes ir pačiose pilyse ir žemėse ga­
     lės apsistoti dėl minėto Ordino su­
     triuškinimo ir per tai Ordiną pulti].
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
 - c-003
-  santrauka: Vytenis laišku prašė legatą Pranciškų ir arkivyskupą Fridrichą atsiųsti minoritų.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas
@@ -239,17 +198,13 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
     tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
     ti pasiuntė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
 
 - c-004
-  santrauka: Gedimino vardu pateiktame laiške Fridrichas minimas kaip arkivyskupas, kurį broliai klastingai išmetė iš bažnyčios.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Item predecessor noster Rex Viten misit litteras suas
@@ -262,17 +217,13 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     capiunt, ut patet in domine Johanne, qui, temporibus domini
     Bonifacii in Curia fuit defunctus et in domino Frederico ar­
     chiepiscopo, quem fraudulenter de Ecclesia eiecerunt.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-008
 
 - c-005
-  santrauka: Tekstas teigia, kad Rygos arkivyskupas Gedimino vardu parengė ir išsiuntinėjo laiškus.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -290,17 +241,13 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     bėsime, vien tik šmeižtus bei skundus Ordinu, ir visu laišku
     siekiama pavaizduoti jį didžiausia kliūtimi, trukdančia
     skleisti krikščionių tikėjimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: stable_title
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-006
-  santrauka: Arkivyskupas po Gedimino laiškų paskelbimo vyko į popiežiaus rūmus.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo
@@ -313,17 +260,13 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     liau vykdyti savo gudrius planus, o popiežius 1323 metų
     X
     R a y n a 1 d, annal eccles. an.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: stable_title
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
 - c-007
-  santrauka: Dusburgo citatoje Fridrichas įvardytas kaip Rygos arkivyskupas, kurio prašymu popiežius siuntė legatus.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -342,112 +285,17 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     ir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­
     tis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip
     buvo tikrovėje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+
 - c-008
-  santrauka: 'Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė nuomonė, esą kupinas senos neapykantos Rygos arkivys­ kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­ nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­ vo susimokęs ir veikė jo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kol vokiečių kariau­
-    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
-    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
-    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
-    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
-    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
-    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
-    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
-    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
-    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
-    Kadangi grėsmingi buvo Gedimino nukariavimų planai,
-    atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
-    a
-    D u s b.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Tiesa, arkivyskupui Isamui tarpininkaujant, tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­ dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­ keliui buvo užmušti, kiti pakarti arba paskandinti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tiesa, arkivyskupui Isamui tarpininkaujant,
-    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
-    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
-    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
-    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
-    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
-    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
-    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
-    ti pasiuntė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo plano.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo
-    plano. Popiežių, regis, pergudravo, įrodydamas jam, kokie
-    nepatikimi esą Lietuvos valdovo sumanymai, o kad dar la­
-    biau įtikintų savo žodžiais, 1325-ųjų balandį, kai popiežiaus
-    pasiuntiniai dar buvo Rygoje, ryžosi naujam žingsniui. Ne­
-    trukus po šių Gedimino laiškų paskelbimo Rygos arkivysku­
-    pas nuvyko į popiežiaus rūmusx, be abejonės, užsimojęs to­
-    liau vykdyti savo gudrius planus, o popiežius 1323 metų
-    X
-    R a y n a 1 d, annal eccles.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
-    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
-    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
-    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
-    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
-    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
-    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
-    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
-    arba privertė, kad jie patys pasiskandintų.
-    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
-    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
-    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
-    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
-    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
-    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
-    ir minėtą bažnyčią sudegino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    393, jau esame išsakę nuo­
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
     monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
     nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
     dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
@@ -463,13 +311,11 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     skleisti krikščionių tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
-- c-013
-  santrauka: 'Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo.'
+    - t-013
+
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
@@ -490,11 +336,101 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
+    - t-009
+
+- c-010
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Arkivyskupui nieko kita neliko, tik tvirtai laikytis savojo
+    plano. Popiežių, regis, pergudravo, įrodydamas jam, kokie
+    nepatikimi esą Lietuvos valdovo sumanymai, o kad dar la­
+    biau įtikintų savo žodžiais, 1325-ųjų balandį, kai popiežiaus
+    pasiuntiniai dar buvo Rygoje, ryžosi naujam žingsniui. Ne­
+    trukus po šių Gedimino laiškų paskelbimo Rygos arkivysku­
+    pas nuvyko į popiežiaus rūmusx, be abejonės, užsimojęs to­
+    liau vykdyti savo gudrius planus, o popiežius 1323 metų
+    X
+    R a y n a 1 d, annal eccles. an.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-011
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
+    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
+    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
+    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
+    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
+    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
+    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
+    riai nužudyti. Tiesa, arkivyskupui Isamui tarpininkaujant,
+    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
+    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
+    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-012
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-013
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+    Kadangi grėsmingi buvo Gedimino nukariavimų planai,
+    atėjus žiniai apie naują kryžiuočių kariauną Čekijoje ir
+    a
+    D u s b. c.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -506,5 +442,6 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/popiežiaus legatas]]

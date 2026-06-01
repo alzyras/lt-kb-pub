@@ -1,26 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "antrasis XIX a. dešimtmetis"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: 'naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XIX'
-date_start: ''
-date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais
 
@@ -29,39 +13,44 @@ tags: []
 Šubravcų draugijos nariai, išstudijavę Jano Lasickio knygą apie dievus, pasivadino senovės lietuvių dievybių vardais. Praktika buvo draugijos narių simbolinio tapatinimosi ir vidinės savivardystės forma.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: antrasis XIX a. dešimtmetis
 - periodas: naujieji_laikai
 - amziai: XIX
 
 ## Kas tai
+
 - kategorija: kultūrinė praktika
 
 ## Atlikimas
+
 - kas atlieka: Šubravcų draugijos nariai.
 - kada atliekama: antrajame XIX a. dešimtmetyje.
 - kaip atliekama: draugijos nariams pasirenkant senovės lietuvių dievybių vardus.
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Legaliai veikė įvai­
@@ -76,18 +65,19 @@ Nenurodyta
     kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
     gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
     viu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Ypač pagarsėjo
+    Legaliai veikė įvai­
+    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
+    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
+    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
     Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
     universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
     ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
@@ -98,9 +88,7 @@ Nenurodyta
     viu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -117,5 +105,6 @@ Nenurodyta
 - [[objektai/asmenys/Jokūbas Šimkevičius]]
 - [[objektai/asmenys/Juozapas Zavadskis]]
 - [[objektai/asmenys/Kazimieras Kontrimas]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/asmenys/Janas Lasickis]]
 - [[objektai/autoriai/Janas Lasickis Joh. Lasicius]]

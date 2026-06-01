@@ -1,18 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Jekaterinos II nota Stanislovui Augustui (1792 m. liepos 21 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1792 m.'
+date_start: '1792'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - saltinis
   - valdovas
   - valstybė
+amziai:
+  - 'XVIII'
 ---
 # Jekaterinos II nota Stanislovui Augustui (1792 m. liepos 21 d.)
 
@@ -21,27 +24,28 @@ tags:
 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stanislovas Augustas nusprendė nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Stanislovas Augustas nusprendė nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Karalius laikėsi pozicijos, kad
+    Liepos pabaigoje
+    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
+    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+    prie Targovicos konfederacijos.
+    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
+    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
+    kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -40,12 +40,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui; nekilmingasis turi tarnauti broliams taip, kaip to reikalauja po šiai dienai Prūsijoje išlikę.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei
@@ -65,7 +65,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias

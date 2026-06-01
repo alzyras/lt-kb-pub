@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Archeologiniai kasinėjimai Vilniaus žemutinės pilies teritorijoje (1955-1960 m.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -12,18 +9,15 @@ datos:
   - '1959 m.'
   - '1960 m.'
   - '1961 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1955'
 date_end: '1961'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Archeologiniai kasinėjimai Vilniaus žemutinės pilies teritorijoje (1955-1960 m.)
 
@@ -32,18 +26,15 @@ tags:
 (”) Archeologiniai kasinėjimai Vilniaus žemutinės pilies teritorijoje (1955-1960 m.) , AkMD, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Archeologiniai kasinėjimai Vilniaus žemutinės pilies teritorijoje (1955-1960 m.)“ buvo skelbti AkMD 4, 6, 9 ir 11 tomuose.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Archeologiniai kasinėjimai Vilniaus žemutinės pilies teritorijoje (1955-1960 m.)“ buvo skelbti AkMD 4, 6, 9 ir 11 tomuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_
@@ -58,10 +49,8 @@ tags:
     124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
     nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
     amžiais_ , Vilnius 1970.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

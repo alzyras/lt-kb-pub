@@ -1,29 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Austurweg"
-sukurta: '2026-05-27'
-variantai:
-  - "Austurweg"
-  - "A ust u rweg"
-aliases:
-  - "Austurweg"
-  - "A ust u rweg"
+pavadinimas: 'Austurweg'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Austurweg
 
@@ -45,22 +26,20 @@ Kontekste tai normanų piratų vartotas geografinis pavadinimas rytiniam Baltijo
 Vartojama normanų žygių Baltijos regione aptarime.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Austurweg pavadinimas buvo taikomas Baltijos jūros pakrantei nuo Vyslos žiočių iki Suomijos įlankos.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Austurweg buvo normanų vartotas Baltijos jūros pakrantės nuo Vyslos žiočių iki Suomijos įlankos pavadinimas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata tiesiogiai nurodo Austurweg pavadinimo vartojimą ir geografinę aprėptį.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kraštas, lankytas normanų piratų iš
@@ -81,14 +60,12 @@ Vartojama normanų žygių Baltijos regione aptarime.
     vo tokie reikšmingi ir grėsmingi,
     kaip prasidėjusieji sulig didelės Ka­
     rolio Didžiojo monarchijos žlugimu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

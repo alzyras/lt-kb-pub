@@ -19,24 +19,24 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­ reigas oficijolo paprastai būdavo iškviečiami, teisiami ir ekskomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­ mą, kadangi.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Taigi tokius paprotinės tei­ sės ir bažnyčios valdinių niekintojus teisingai ir teisėtai ka­ pitulos buvo nuspręsta ekskomunikuoti; ir yra pripažinta, kad tai nėra nauja, kadangi tokios yra ir kitos katedrų baž­ nyčios, konkrečiai Krokuvos, kurios pavyzdžiu.'
+  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­ reigas oficijolo paprastai būdavo iškviečiami, teisiami ir ekskomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­ mą, kadangi.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Taigi tokius paprotinės tei­ sės ir bažnyčios valdinių niekintojus teisingai ir teisėtai ka­ pitulos buvo nuspręsta ekskomunikuoti; ir yra pripažinta, kad tai nėra nauja, kadangi tokios yra ir kitos katedrų baž­ nyčios, konkrečiai Krokuvos, kurios pavyzdžiu.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O prelatai ir kanauninkai
@@ -82,9 +82,9 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes, pamatę [abiejų] pusių
@@ -106,9 +106,9 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad mus
@@ -144,7 +144,7 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -158,5 +158,4 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/grupes/Apaštalų Sostas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus magistratas]]

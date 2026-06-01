@@ -20,16 +20,16 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
 - t-001
   teiginys: 'Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdninkuose smagiai leisdavo laiką medžiodami.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Vis dėlto pasakojama apie giliai gelmėje glūdinčius požemius ir rūsius, ir pats mačiau čia kartais išariamų Zigmanto III epochos sidabrinių ir varinių pini­ gėlių.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Toji vieta, kur stovė­
@@ -48,7 +48,7 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimieras pamėgo Rūdninkus ir dažnai juose

@@ -36,17 +36,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta Štai šiuo būdu.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje pat.'
   pagrindžia:
-    - c-002
+    - c-001
     - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
@@ -62,7 +62,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai

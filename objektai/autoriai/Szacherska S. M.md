@@ -31,16 +31,16 @@ Dusburgietis teigia, kad žygis įvyko 1218 m. Žygio metu Kristijonas greičiau
 - t-001
   teiginys: 'Dusburgietis teigia, kad žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad pabaigoje —Regesta historico-diplomatica Ordinis..., Nr. 2), taip pat riterių ordinas iš Kalatravos (Ispanija; Szacherska S.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1235 m. Dobrynės ordinas susijungė su kryžiuočiais. Prūsijos pasienyje bandė kurdintis
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad žygis įvyko 1218 m. Žygio metu Kristijonas greičiau
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos

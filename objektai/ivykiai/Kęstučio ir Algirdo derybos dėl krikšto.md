@@ -1,21 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kęstučio ir Algirdo derybos dėl krikšto (krikštas)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Kęstučio ir Algirdo derybos dėl krikšto'
-aliases:
-  - 'Kęstučio ir Algirdo derybos dėl krikšto'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - krikštas
@@ -28,28 +17,31 @@ tags:
 Tiesa, savo valdymo pradžioje Kęstutis su Algirdu buvo pradėję tartis dėl krikšto.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tiesa, savo valdymo pradžioje Kęstutis su Algirdu buvo pradėję tartis dėl krikšto.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tiesa, savo valdymo pradžioje Kęstutis su Algirdu buvo pradėję tartis dėl krikšto.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kęstučiui dar smarkiau, negu pirmtakū­
@@ -58,11 +50,9 @@ Nenurodyta
     prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
     Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
     rėję pasiliauti nuolatiniai Ordino puolimai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

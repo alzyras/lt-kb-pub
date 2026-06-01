@@ -23,12 +23,12 @@ amziai:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (ozzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos užvertė visas jo brangenybes.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.'
   pagrindžia:
     - c-001
@@ -48,7 +48,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -64,4 +64,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

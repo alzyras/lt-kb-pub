@@ -1,19 +1,11 @@
 ---
 tipas: asmuo
 pavadinimas: 'Žygimantas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -25,58 +17,25 @@ tags:
 Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Žygimantas drauge su Vytautu ir Švitrigaila nakties tamsoje pabėgo.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­ lių turtų, nei ypatingo svorio.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.'
+  pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Naujojon jo rezidencijon ėmė rinktis
-    Kęstučio ir jo paties šalininkai, ar Jogailos persekiojamieji. Čia
-    atvykęs, jo brolis Žygimantas buvo pakrikštytas. Susirinko ir kiti
-    giminės, kunigaikščiai: Eišiškių Sudemantas, Alšėniškis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Žygimantas drauge su Vytautu ir Švitrigaila nakties tamsoje pabėgo.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Savo galvas tolimose stepėse
-    paliko ir vieninteliai du lietuviai-kryžiuočiai Jonas ir Tomas Sur­
-    vilos.
-    Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu
-    Žygimantu ir Švitrigaila, pasisekė pabėgti. Už išsigelbėjimą, pagal
-    seną tradiciją, jis įkūrė pranciškonų vienuolynus Kaune ir Ašme­
-    noje^39.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­ lių turtų, nei ypatingo svorio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antra, kad susikūrė iš trijų skirtingų
@@ -95,18 +54,48 @@ tags:
     le, - mūsų krašte miestai nieko panašaus neįstengė pasiekti!
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Naujojon jo rezidencijon ėmė rinktis
+    Kęstučio ir jo paties šalininkai, ar Jogailos persekiojamieji. Čia
+    atvykęs, jo brolis Žygimantas buvo pakrikštytas. Susirinko ir kiti
+    giminės, kunigaikščiai: Eišiškių Sudemantas, Alšėniškis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo galvas tolimose stepėse
+    paliko ir vieninteliai du lietuviai-kryžiuočiai Jonas ir Tomas Sur­
+    vilos.
+    Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu
+    Žygimantu ir Švitrigaila, pasisekė pabėgti. Už išsigelbėjimą, pagal
+    seną tradiciją, jis įkūrė pranciškonų vienuolynus Kaune ir Ašme­
+    noje^39.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomas]]
-- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
@@ -134,12 +123,12 @@ tags:
 - [[objektai/grupes/Karaimai]]
 - [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/daiktai/Karūna]]
 - [[objektai/posakiai/Koks Lenkijai buvo Kazimieras Didysis, tokiu Lietuvai tapo Žygimantas Senasis]]
 - [[objektai/asmenys/Kotryna Jogailaitė]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
 - [[objektai/asmenys/Kunzas Lochneris]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
@@ -162,11 +151,7 @@ tags:
 - [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
 - [[objektai/posakiai/Praemissa er corde considerantes devoto]]
-- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
-- [[objektai/autoriai/Puslapis 206]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/Puškarnia]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/posakiai/Raštu neužrašyti darbai pražūna iš atminties]]
@@ -175,7 +160,6 @@ tags:
 - [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]
 - [[objektai/asmenys/Sofija (Švitrigailos žmona)]]
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/asmenys/Sudemantas (Eišiškių)]]
 - [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
 - [[objektai/posakiai/Tai ne tas kelias, Maloningasis Pone]]
 - [[objektai/posakiai/Tartari, longe sunt Lituanis inferiores viribus]]
@@ -224,7 +208,6 @@ tags:
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/zodynas/miesto magistrato pareigybės]]
 - [[objektai/zodynas/miesto sargyba ir policija]]
-- [[objektai/zodynas/mokesčių terminai sidabrinės, ordinščizna, kapščizna]]
 - [[objektai/zodynas/muitas thelonea]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]

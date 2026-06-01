@@ -29,24 +29,24 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Buvo taip: Vilniaus vaitas ir burmistrai, matydami, kad Palec­ kio, kuris buvo karaliaus maršalka ir Eišiškių valdytojas, monopolis kaskart vis didesnę žalą daro mies­ tui, norėjo jo privilegiją atšaukti.'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
+  teiginys: 'Buvo taip: Vilniaus vaitas ir burmistrai, matydami, kad Palec­ kio, kuris buvo karaliaus maršalka ir Eišiškių valdytojas, monopolis kaskart vis didesnę žalą daro mies­ tui, norėjo jo privilegiją atšaukti.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1619 m.
@@ -99,9 +99,9 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karališkųjų
@@ -118,9 +118,10 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-003
+  santrauka: 'Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     55
@@ -196,4 +197,4 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/autoriai/Martynas Smigleckis]]

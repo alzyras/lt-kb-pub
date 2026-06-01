@@ -25,14 +25,14 @@ Dusburgietis teigia, kad pradžios istoriografijoje (Baczko L., Geschichte.., 1,
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kołzebue A. Preußens ältere Geschichte.— Bd. 2.— Riga, 1808.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kołzebue A. Preußens ältere Geschichte.— Bd. 2.— Riga, 1808.
@@ -40,4 +40,4 @@ Dusburgietis teigia, kad pradžios istoriografijoje (Baczko L., Geschichte.., 1,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

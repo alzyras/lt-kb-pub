@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1392 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1392'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)
 
@@ -29,28 +23,31 @@ tags:
 Dar 1392 m. rudenį kryžiuočiai suruošė žygį į Lietuvą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1392 m. rudenį kryžiuočiai įsiveržė į Lietuvą, užpuolė Suražiaus pilį, ją paėmė ir sudegino.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1392 m. rudenį kryžiuočiai įsiveržė į Lietuvą, užpuolė Suražiaus pilį, ją paėmė ir sudegino.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar 1392 m.
@@ -59,11 +56,9 @@ Nenurodyta
     Engelhardo Rabė, įsiveržė į Lietuvą, užpuolė Suražiaus pilį,
     paėmė ją ir sudegino. Grįžo į Prūsus vedini keletu šimtų be­
     laisvių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

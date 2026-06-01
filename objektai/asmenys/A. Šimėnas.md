@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'A. Šimėnas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 Šimėnui pasitraukti į pogrindį, pralaukti porą = dienų ir tada išlįsti (A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Šimėnui buvo siūloma pasitraukti į pogrindį ir palaukti kelias dienas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'A. Šimėnui buvo siūloma pasitraukti į pogrindį ir palaukti kelias dienas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Tragiškiausia buvo sausio 13-14-osios naktis, o ne sausio 12-13-osios, kai mes dar ne
@@ -49,11 +39,9 @@ tags:
     Lietuvoje bei užsienyje, 2) gynyba kariniais
     metodais, 3) pilietinio, nesmurtinio pasi-
     priešinimo organizavimas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,41 +1,11 @@
 ---
+tipas: zodyno_irasas
+pavadinimas: 'prastuomenė / communis populus / ignobiles'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
----
-  tipas: zodyno_irasas
-  pavadinimas: "prastuomenė / communis populus / ignobiles"
-  sukurta: "2026-05-30"
-  variantai:
-- "prastuomenės"
-- "communis populus"
-- "dî gemeine schar"
-- "ignobiles"
-- "nekilmingieji"
-- "pauperes"
-- "impotentes"
-- "servi et ancille"
-- "rustict"
-  aliases: []
-  saltiniai:
-- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  laikotarpis: "XIII–XIV a. visuomenės sluoksnių aprašymo kontekstas"
-  datos:[]
-  periodas: "viduramziai"
-  periodo_grupes:[]
-  amziai:
-- "XIII"
-- "XIV"
-  date_start: ""
-  date_end: ""
-  vaidmenys: []
-  dalyviai: []
-  susije_irasai: []
-  patikimumas: "aukštas"
-  tags:[]
-  ---
 # prastuomenė / communis populus / ignobiles
 
 ## Santrauka
@@ -55,54 +25,25 @@ Paprastų žmonių, nekilmingųjų ir priklausomų sluoksnių terminų šeima.
 Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 
 ## Teiginiai
-- t-003
-  teiginys: "Dusburgietis nekilminguosius vaizduoja kaip sluoksnį, kuris kartu su mirusiaisiais degina kasdienio darbo reikmenis."
-  pagrindžia:
-    - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Dusburgietis teigia, kad 208 Paprastus žmones, prastuomenę D.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis nekilminguosius vaizduoja kaip sluoksnį, kuris kartu su mirusiaisiais degina kasdienio darbo reikmenis.'
+  pagrindžia:
     - c-003
-- t-005
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad su nekilmingaisiais drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią drauge su jais ir jiems tarnausią kaip anksčiau. Dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį.'
   pagrindžia:
-    - c-004
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Nekilmingieji vaizduojami kaip laidojimo ir tikėjimo praktikos dalyviai.
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    jie degino  jo ginklus, žirgus, vergus  ir tarnaites  [servi et  ancillae]209, drabužius,
-    medžioklinius šunis bei sakalus ir visa kita, kas reikalinga kariams. Su nekilmingaisiais
-    drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią
-    drauge su jais ir jiems tarnausią kaip anksčiau.
-  citata_rodoma: ""
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'Dusburgietis teigia, kad 208 Paprastus žmones, prastuomenę D.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,
-    249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).
-    Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
-    tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
-    130), taip pat laukininkus — valstiečius (rustict — III, 262).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Dusburgietis teigia, kad su nekilmingaisiais drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią drauge su jais ir jiems tarnausią kaip anksčiau. Dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Su nekilmingaisiais
@@ -115,11 +56,36 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
     numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,
+    249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).
+    Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
+    tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
+    130), taip pat laukininkus — valstiečius (rustict — III, 262).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    jie degino  jo ginklus, žirgus, vergus  ir tarnaites  [servi et  ancillae]209, drabužius,
+    medžioklinius šunis bei sakalus ir visa kita, kas reikalinga kariams. Su nekilmingaisiais
+    drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią
+    drauge su jais ir jiems tarnausią kaip anksčiau.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

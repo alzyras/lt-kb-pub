@@ -20,39 +20,39 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   pagrindžia:
-    - c-002
+    - c-005
 
-- t-001
+- t-002
   teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-003
   teiginys: 'Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
   pagrindžia:
-    - c-003
+    - c-001
 
-- t-006
-  teiginys: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
+- t-004
+  teiginys: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   pagrindžia:
-    - c-006
+    - c-003
 
 - t-005
   teiginys: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
   pagrindžia:
-    - c-005
+    - c-002
 
-- t-007
+- t-006
   teiginys: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
   pagrindžia:
-    - c-007
+    - c-006
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau karalienė
@@ -70,7 +70,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   pagrindžia:
     - t-003
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau karalienė
@@ -88,7 +88,8 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   pagrindžia:
     - t-005
 
-- c-006
+- c-003
+  santrauka: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat
@@ -123,9 +124,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-001
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
@@ -138,9 +139,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toks krašto
@@ -151,9 +152,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-007
+- c-006
   santrauka: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -167,9 +168,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-008
+- c-007
   santrauka: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -181,7 +182,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -201,7 +202,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - [[objektai/zodynas/klebonija]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

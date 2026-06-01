@@ -28,24 +28,24 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Niekur nevaliojome rasti Ma­ zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­ niu valdė Wencenslaus dei gratia dux Masovie et Plocz [Venceslavas, Dievo malone Mazovijos ir Plocko kuni­ gaikštis] (pasak dokumentų), tas pats, kuris 1321 metais su­.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+- t-002
+  teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, vienintelio
@@ -70,9 +70,9 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau kodėl Ge­
@@ -89,9 +89,9 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Niekur nevaliojome rasti Ma­
@@ -118,7 +118,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

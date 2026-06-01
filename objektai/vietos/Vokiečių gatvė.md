@@ -19,12 +19,12 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas miestui atiduo­ tas, o iki tol turgaus centre stovėjusios mėsinės, nemalo­ niais kvapais teršusios orą, perkeltos prie Vokiečių gat­ vės, kur ir dabar tebėra6.'
   pagrindžia:
     - c-001
@@ -52,7 +52,7 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -83,4 +83,4 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

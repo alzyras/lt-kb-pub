@@ -32,124 +32,124 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 
 ## Teiginiai
 
-- t-009
+- t-001
   teiginys: 'Iš žalio slėnio gilumos, ant paskutiniojo iš kal­ nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją, buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­ ta, saugoma aukštų sienų ir trijų bokštų.'
-  pagrindžia:
-    - c-009
-
-- t-020
-  teiginys: 'Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą.'
-  pagrindžia:
-    - c-020
-
-- t-016
-  teiginys: 'Jo įsa­ kymu, buvo kuo rūpestingiausiai garantuojama laisva laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­ niaus miestiečių laivams su prekėmis, o keliantis perkėla visur atleidžiama nuo bet kokių mokesčių41.'
-  pagrindžia:
-    - c-016
-
-- t-017
-  teiginys: 'Suteikdamas Hozijui teisę pasta­ tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­ kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­ gumui paskirti labdaringą ir Vilniui.'
-  pagrindžia:
-    - c-017
-
-- t-004
-  teiginys: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
-  pagrindžia:
-    - c-004
-
-- t-023
-  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
   pagrindžia:
     - c-023
 
-- t-006
-  teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
+- t-002
+  teiginys: '1547 m. privilegijoje fabrikui skirtas sklypas apibūdintas kaip esantis už Vilijos upės prie Vilniaus miesto.'
   pagrindžia:
-    - c-006
-
-- t-021
-  teiginys: 'Jo dvaras Lukiškėse, prie Vilijos, nuo renkasi į savo sueigas Lukiškėse, Jo Didenybės Vilniaus vaivados Mika­ lojaus Radvilos rūmuose; nutaria (savo susirinkime 1557 m. spalio 11 d.) įspėti Vilniaus vyskupą, kaip Ga­ nytoją, kad pakankamai veiktų pa­ gal savo.'
-  pagrindžia:
-    - c-021
+    - c-016
 
 - t-003
-  teiginys: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
-  pagrindžia:
-    - c-003
-
-- t-005
-  teiginys: 'Dar iki šiol lietuviai kaimiečiai, gyvenantys tos upės pakrantėse, žemiau Vilniaus, vadina ją Nerimi, bent jau žinau, kad taip Vilija yra vadinama kaimuose, priklausančiuose Zubiškių palivar­ kui ir Paneriams Trakų apskrityje.'
-  pagrindžia:
-    - c-005
-
-- t-012
-  teiginys: '51) ap. V o i g t, V, 542, apie jį pasakoja: Entre les Francois on doit remarquer Jean le Maingre dit Bouci- — • — 120 ## Puslapis 137 Il KNYGA ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su savo pajėgomis; o kitoje Vilijos pusėje driekėsi.'
-  pagrindžia:
-    - c-012
-
-- t-007
-  teiginys: 'Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją.'
-  pagrindžia:
-    - c-007
-
-- t-008
-  teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
-  pagrindžia:
-    - c-008
-
-- t-022
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
-  pagrindžia:
-    - c-022
-
-- t-013
-  teiginys: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
-  pagrindžia:
-    - c-013
-
-- t-015
-  teiginys: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
-  pagrindžia:
-    - c-015
-
-- t-002
-  teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
-  pagrindžia:
-    - c-002
-
-- t-014
-  teiginys: 'Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją.'
+  teiginys: 'Jo įsa­ kymu, buvo kuo rūpestingiausiai garantuojama laisva laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­ niaus miestiečių laivams su prekėmis, o keliantis perkėla visur atleidžiama nuo bet kokių mokesčių41.'
   pagrindžia:
     - c-014
 
-- t-001
-  teiginys: 'Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį.'
+- t-004
+  teiginys: 'Suteikdamas Hozijui teisę pasta­ tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­ kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­ gumui paskirti labdaringą ir Vilniui.'
   pagrindžia:
-    - c-001
+    - c-004
 
-- t-018
-  teiginys: '23 Paveldėtojų parduodamų Svečių na­ mų pardavimo kopija: Vilniaus ar­ klininko Mykolo Grigaravičiaus 269 ## Puslapis 286 VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe.'
+- t-005
+  teiginys: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
+  pagrindžia:
+    - c-013
+
+- t-006
+  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  pagrindžia:
+    - c-019
+
+- t-007
+  teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
   pagrindžia:
     - c-018
 
-- t-011
-  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
+- t-008
+  teiginys: 'Jo dvaras Lukiškėse, prie Vilijos, nuo renkasi į savo sueigas Lukiškėse, Jo Didenybės Vilniaus vaivados Mika­ lojaus Radvilos rūmuose; nutaria (savo susirinkime 1557 m. spalio 11 d.) įspėti Vilniaus vyskupą, kaip Ga­ nytoją, kad pakankamai veiktų pa­ gal savo.'
+  pagrindžia:
+    - c-005
+
+- t-009
+  teiginys: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
   pagrindžia:
     - c-011
 
 - t-010
-  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
+  teiginys: 'Dar iki šiol lietuviai kaimiečiai, gyvenantys tos upės pakrantėse, žemiau Vilniaus, vadina ją Nerimi, bent jau žinau, kad taip Vilija yra vadinama kaimuose, priklausančiuose Zubiškių palivar­ kui ir Paneriams Trakų apskrityje.'
+  pagrindžia:
+    - c-015
+
+- t-011
+  teiginys: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla.'
   pagrindžia:
     - c-010
 
+- t-012
+  teiginys: 'Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją.'
+  pagrindžia:
+    - c-021
+
+- t-013
+  teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
+  pagrindžia:
+    - c-020
+
+- t-014
+  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  pagrindžia:
+    - c-012
+
+- t-015
+  teiginys: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
+  pagrindžia:
+    - c-022
+
+- t-016
+  teiginys: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
+  pagrindžia:
+    - c-017
+
+- t-017
+  teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
+  pagrindžia:
+    - c-002
+
+- t-018
+  teiginys: 'Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją.'
+  pagrindžia:
+    - c-007
+
 - t-019
+  teiginys: 'Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį.'
+  pagrindžia:
+    - c-009
+
+- t-020
+  teiginys: 'Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe.'
+  pagrindžia:
+    - c-003
+
+- t-021
+  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
+  pagrindžia:
+    - c-006
+
+- t-022
+  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
+  pagrindžia:
+    - c-001
+
+- t-023
   teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   pagrindžia:
-    - c-019
+    - c-008
 
 ## Reikšmingi paminėjimai
 
-- c-010
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
@@ -169,7 +169,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-022
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -190,9 +190,10 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-017
 
-- c-018
+- c-003
+  santrauka: 'Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau
@@ -262,9 +263,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-020
 
-- c-017
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA // TOMAS
@@ -283,9 +284,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-004
 
-- c-021
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
@@ -328,9 +329,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-008
 
-- c-011
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia buvo pats miesto centras - ten,
@@ -347,9 +348,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-021
 
-- c-014
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios atkaklios Moskoževskio gynybos aplin­
@@ -370,9 +371,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-018
 
-- c-019
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     272
@@ -391,9 +392,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-023
 
-- c-001
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
@@ -412,9 +413,10 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-019
 
-- c-012
+- c-010
+  santrauka: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai buvo ne garsusis prancūzų mar­
@@ -442,9 +444,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-011
 
-- c-003
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jeigu upei Vili­
@@ -467,9 +469,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-009
 
-- c-022
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu
@@ -512,9 +514,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-014
 
-- c-004
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. II. Anksčiau kitaip
@@ -533,9 +535,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-016
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta pačia privilegija, kuria Vilniui buvo
@@ -555,9 +557,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-003
 
-- c-005
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     V. p. 152. Dar iki šiol
@@ -573,9 +575,10 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-010
 
-- c-020
+- c-016
+  santrauka: '1547 m. privilegijoje fabrikui skirtas sklypas apibūdintas kaip esantis už Vilijos upės prie Vilniaus miesto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trys į
@@ -601,9 +604,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-002
 
-- c-015
+- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia jų,
@@ -619,9 +622,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-016
 
-- c-006
+- c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš kur kilo Nehrung arba Ne-
@@ -638,9 +641,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-007
 
-- c-023
+- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nederėtų, be
@@ -664,9 +667,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-006
 
-- c-008
+- c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
@@ -689,9 +692,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-013
 
-- c-007
+- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48
@@ -724,9 +727,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-012
 
-- c-013
+- c-022
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     25
@@ -742,9 +745,9 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-015
 
-- c-009
+- c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar
@@ -761,7 +764,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-001
 
 - c-024
   santrauka: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'

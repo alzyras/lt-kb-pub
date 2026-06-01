@@ -23,13 +23,14 @@ Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kaip pats prisipažino atsiminimuose, turėjęs „gimti Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­ mas"2.'
+  teiginys: 'M. Balinskis atsiminimuose rašė, kad būtų gimęs Mickūnuose, jei ne jėgerių ir kazokų užpuolimas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'M. Balinskis atsiminimuose rašė, kad būtų gimęs Mickūnuose, jei ne jėgerių ir kazokų užpuolimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai didelis jo nuopelnas.

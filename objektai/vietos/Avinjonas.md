@@ -1,33 +1,25 @@
 ---
 tipas: vieta
 pavadinimas: 'Avinjonas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1034 m.'
-  - '1035 m.'
   - '1323 m.'
-  - '1325 m.'
   - '1349 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XIV'
 date_start: '1034'
 date_end: '1349'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - krikštas
   - papuošalas
   - popiežius
+amziai:
+  - 'XI'
+  - 'XIV'
 ---
 # Avinjonas
 
@@ -36,24 +28,20 @@ tags:
 Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patogesnę būklę tolimesnei kovai Volinijoje, Lenkijos Kazimieras informavo Klemensą VI apie Kęstučio norą krikštytis. Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą Karolį.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: '" To to y Iš tiesų niekur kronikose neaptinka­ ma tiksliai nurodyto didžiojo ma­ gistro kelionės į Avinjoną laiko; tik žinome iš įvairių dokumentų: Gu­ deli.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos valdovai tačiau, progai pasitaikius, nesikraty­
@@ -64,15 +52,13 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     Kazimieras informavo Klemensą VI apie Kęstučio norą krikštytis.
     Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­
     rališką titulą ir « papuošti karaliaus ženklais »^5.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą Karolį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Popiežių, regis, pergudravo, įrodydamas jam, kokie
@@ -96,29 +82,6 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     piežiaus maloniai bei pagarbiai priimtasy.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '" To to y Iš tiesų niekur kronikose neaptinka­ ma tiksliai nurodyto didžiojo ma­ gistro kelionės į Avinjoną laiko; tik žinome iš įvairių dokumentų: Gu­ deli.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    " To to
-    y
-    Iš tiesų niekur kronikose neaptinka­
-    ma tiksliai nurodyto didžiojo ma­
-    gistro kelionės į Avinjoną laiko; tik
-    žinome iš įvairių dokumentų: Gu­
-    deli. C od. Diplom. T. IV, p. 1034-1035;
-    kad Karolis Tryrietis, dar 1323 m.
-    rugpjūčiui įpusėjus, buvo Vokietijo­
-    je.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

@@ -42,12 +42,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi 1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas Romos karaliumi, tačiau neilgai trukus frizai jį nužudė, ir šitaip nei vienas, nei kitas negavo imperatoriaus.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas
@@ -60,7 +60,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi

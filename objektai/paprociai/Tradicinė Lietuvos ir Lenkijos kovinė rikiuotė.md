@@ -1,24 +1,17 @@
 ---
 tipas: paprotys
 pavadinimas: 'Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: 'XV a. pabaigoje - XVI a. pradžioje; mūšio lauke'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+datos:
+  - '1401 m.'
+  - '1500 m.'
+date_start: '1401'
+date_end: '1500'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XV'
 ---
 # Tradicinė Lietuvos ir Lenkijos kovinė rikiuotė
 
@@ -30,6 +23,7 @@ XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tra
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: socialinė praktika
 
 ## Atlikimas
@@ -42,22 +36,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: 'XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Xv a. pabaigoje - xvI a. pradžioje susiformavo kovinė rikiuotė, kuri
@@ -67,15 +59,13 @@ Nenurodyta
     vaidmenį pralaužant priešo kariuomenės rikiuotę. Lengvoji raitija
     buvo rikiuojama sparnuose ir palaikydavo sunkiųjų raitelių ataką
     flanguodama priešininką.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
+
 - c-002
-  santrauka: 'XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-
@@ -85,13 +75,11 @@ Nenurodyta
     tininkus bei artileriją, kurie pradėti rikiuoti tarp centro sunkiosios
     kavalerijos vėliavų ir lengvosios kavalerijos sparnų, ir paremdavo
     ugnimi centro pajėgų atakas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

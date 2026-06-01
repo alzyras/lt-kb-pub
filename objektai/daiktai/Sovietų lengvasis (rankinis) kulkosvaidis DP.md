@@ -1,20 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Sovietų lengvasis (rankinis) kulkosvaidis DP'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XX'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karas
@@ -26,31 +16,35 @@ tags:
 Antrojo pasaulinio karo metų vokiški kulkosvaidžiai (MG 34 ir MG 42) padarė pradžią Sovietų lengvasis (rankinis) kulkosvaidis DP arba Pulemyot Degtyaryova Pechotnyj (Degteriovo pėstininkų kulkosvaidis).
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sovietų lengvasis kulkosvaidis DP naudojo 7,62x54 mm R šovinius, 47 šovinių diską ir svėrė 9,12 kg.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sovietų lengvasis kulkosvaidis DP naudojo 7,62x54 mm R šovinius, 47 šovinių diską ir svėrė 9,12 kg.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antrojo pasaulinio
@@ -71,11 +65,9 @@ Nenurodyta
     konstruktorių.
 
     tempas — 500-600 šūvių per minutę, svoris 9,12 kg.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,24 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Koehler, gener., Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1801 m.'
   - '1886 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1886'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Koehler, gener., Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit
 
@@ -27,26 +23,21 @@ tags:
 Koehler, gener.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Koehlerio „Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit“ antrasis tomas išleistas Breslau 1886 m.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Koehlerio „Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit“ antrasis tomas išleistas Breslau 1886 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Koehler, gener. Entwicklung des Kriegswesens und der
     Kriegsführung in der Ritterzeit. Bd. II, Breslau, 1886.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Petkun’, P'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1928 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1928'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Petkun’, P
 
@@ -27,16 +23,15 @@ tags:
 — Petkun’, P.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'P. Petkunas 1928 m. Kijeve paskelbė darbą apie Lietuvos Didžiosios Kunigaikštystės rytinę sieną XV a. ketvirtajame dešimtmetyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Osten-Sacken,
@@ -47,10 +42,8 @@ tags:
     zbirnik pošanu akademyka M. S. Hruševskoho, I, 1928, Kijiv, 165-168
     p. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką). —
     Presniakov, A. E. : _Lekciji po russkoj istoriji,_ t. 2, vyp.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

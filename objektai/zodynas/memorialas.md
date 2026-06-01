@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'memorialas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
@@ -19,22 +16,39 @@ tags:
 Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos žemių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įteikė carui memorialą — kunigaikštijos sudarymo projektą. Pagaliau Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: '1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
+  pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Pagaliau Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau caras niekad nieko tikro nepasaky-
+    davo Oginskiui. Per pasikalbėjimus jis pareikšdavo jam daugybę
+    komplimentų, bet vengdavo pažadų. Pagaliau Oginskis, pasitaręs
+    su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus
+    ir naują memorialą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     lyginti su kitų Rusijos sričių mokesčiais. Patsai Oginskis dėl to
@@ -44,32 +58,34 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
     kė carui memorialą — ku-
     nigaikštijos sudarymo pro-
     jektą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau caras niekad nieko tikro nepasaky-
-    davo Oginskiui. Per pasikalbėjimus jis pareikšdavo jam daugybę
-    komplimentų, bet vengdavo pažadų. Pagaliau Oginskis, pasitaręs
-    su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus
-    ir naują memorialą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
+- c-003
+  santrauka: 'Pagaliau Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Per pasikalbėjimus jis pareikšdavo jam daugybę
+    komplimentų, bet vengdavo pažadų. Pagaliau Oginskis, pasitaręs
+    su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus
+    ir naują memorialą. Kadangi caras, kuriam tuo metu rūpėjo ne-
+    išvengiamas karas su Napoleonu, nuolat klausinėdavo, kiek Lie-
+    tuva galėtų pastatyti kariuomenės, tai Oginskis tame antrame
+    memoriale ir pabrėžė, kad be savarankiškos organizacijos kraš-
+    tas negalįs sudaryti kariuomenės, juo labiau, kad krašto valdžia
+    nieko nesanti padariusi patraukti bajorijai į savo pusę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/autoriai/Jan Fijałek]]

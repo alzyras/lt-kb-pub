@@ -48,41 +48,41 @@ Nenurodyta
 - t-001
   teiginys: 'Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Įgu­ la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų 66 ## Puslapis 83 I KNYGA sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­ joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­ dami, kad sutiksią paklusti Ordinui.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
+  teiginys: 'Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.'
   pagrindžia:
     - c-002
 
-- t-005
-  teiginys: '## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio.'
+- t-003
+  teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.'
   pagrindžia:
     - c-005
 
-- t-006
+- t-005
   teiginys: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
   pagrindžia:
-    - c-006
+    - c-001
 
-- t-007
+- t-006
   teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
   pagrindžia:
     - c-007
 
-- t-004
+- t-007
   teiginys: 'Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti, kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­ tų gerai prižiūrimos.'
   pagrindžia:
-    - c-004
+    - c-006
 
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
@@ -110,9 +110,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-003
+- c-002
+  santrauka: 'Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
@@ -133,9 +134,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Plg. Witichind I. 639.
@@ -154,7 +155,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     37
@@ -192,9 +193,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-005
+  santrauka: 'Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 328
@@ -220,9 +222,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-004
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gaisro atveju kiekvienas miestie­
@@ -241,7 +243,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-007
 
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -265,7 +267,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -281,6 +283,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
 - [[objektai/autoriai/Lukašas Golembiovskis]]
 - [[objektai/daiktai/Sunkieji ginklai]]

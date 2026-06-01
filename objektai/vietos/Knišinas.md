@@ -30,21 +30,21 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 - t-001
   teiginys: 'Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos sostinę: užbaigti pradėtą statyti Šv.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Pats numirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų am­ žiaus].'
+  pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Pats numirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų am­ žiaus].'
+  teiginys: '1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.'
   pagrindžia:
     - c-003
 
-- t-002
-  teiginys: 'Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodžio 20 dieną, paaiškėja, 328 ## Puslapis 345 IV KNYGA jog, kai karalius Steponas, perėmęs valdžią, nuvažiavo į Knišiną, Lietuvos senatoriai, įsitikinę, kad Lietuvos Didžiosios.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Testamentum Domini Sigismundi Augusti Regis Poloniae.
@@ -59,9 +59,9 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mir­
@@ -77,7 +77,8 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
+  santrauka: '1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     V-rae Aegestati aerarii totum id imputent [Tačiau, jeigu
@@ -101,4 +102,4 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003

@@ -42,34 +42,34 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad 421 pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.'
-  pagrindžia:
-    - c-004
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad ), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
   pagrindžia:
     - c-003
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad ), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
+  pagrindžia:
+    - c-001
+
+- t-004
   teiginys: 'Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-005
   teiginys: 'Dusburgietis teigia, kad lietuviai, atrėmę ir sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   pagrindžia:
-    - c-001
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šia proga jis kalba apie didžiulę prūsų  ir
@@ -96,9 +96,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     421
@@ -111,9 +111,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
@@ -126,9 +126,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-001
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
@@ -141,7 +141,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

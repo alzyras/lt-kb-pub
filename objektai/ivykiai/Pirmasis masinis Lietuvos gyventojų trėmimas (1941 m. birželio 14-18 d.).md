@@ -41,19 +41,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst.'
+  teiginys: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas
@@ -68,9 +68,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį
@@ -85,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

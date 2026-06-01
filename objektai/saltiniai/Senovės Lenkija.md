@@ -26,16 +26,16 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 - t-001
   teiginys: 'Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­ rašymui.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Sniadeckių biografijas, parengė jų darbų rinktines, parašė apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­ dinį leidinį Senovės Lenkija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neturėdamas pakankamai pragy­
@@ -52,7 +52,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis pa­

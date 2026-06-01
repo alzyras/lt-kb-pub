@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -18,26 +15,25 @@ tags:
 Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Suomių, estų, latvių, prūsų ir lietuvių gyvenama Viduramžių Europa laikytina „naujausiąja“ Viduramžių Europa.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Suomių, estų, latvių, prūsų ir lietuvių gyvenama Viduramžių Europa laikytina „naujausiąja“ Viduramžių Europa.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Viduramžių Europą, kur gyveno
+    Kartais išskiriama ir „naujoji“ Viduramžių Europa –
+    Čekija, Vengrija, Kroatija ir Skandinavija, – susiformavusi X–XII a. Logiška
+    būtų pratęsti šią grandinę ir XIII–XIV a. Viduramžių Europą, kur gyveno
     suomiai, estai, latviai, prūsai ir lietuviai, laikyti „naujausiąja“ Viduramžių
     Europa.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,26 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Portugalija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XVI'
-  - 'XX'
 date_start: '1940'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - valstybė
   - vieta
+amziai:
+  - 'XX'
 ---
 # Portugalija
 
@@ -29,46 +22,35 @@ tags:
 Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portugalijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais iš to einančiais padariniais.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Portugalijos atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.'
+  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai?'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Portugalijos atstovai buvo tarp penkių valstybių atstovų, gynusių Pabaltijo valstybių priėmimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    15 —
-    XII. 18) ilgai svarstė Lietuvos (o taip pat ir Latvių bei Estų)
-    prašymą, tačiau nesiryžo dar jo patenkinti; ypač nesiryžo dėl
-    to, kad daugumas tuometinių Tautų S-gos narių dar netikėjo
-    Pabaltijo valstybių pastovumu, ar nenorėjo prisiimti T. Sąjungos
-    pakto (str. 10) uždedamų prievolių ginti tas naujas valstybes
-    prieš kaimynų agresiją ar apskritai vengė čia susirišti kuo nors
-    buvusios ar būsimos Rusijos .atžvilgiu. Tik penkių valstybių
-    atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir Portu-
-    galijos) teišdrįso tada ginti Pabaltijo valstybių priėmimą su visais
-    iš to einančiais padariniais.
-  citata_rodoma: ""
+    Per trejus–ketverius metus į JAV pasisekė atvykti
+    visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
+    30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai?'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O kas nutiko didžiųjų ge-
@@ -80,22 +62,6 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     mikos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
-    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
-    tugaliją išvyko į JAV.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

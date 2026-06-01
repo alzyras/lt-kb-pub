@@ -1,34 +1,20 @@
 ---
 tipas: daiktas
-pavadinimas: Gedimino antspaudas
-sukurta: '2026-05-27'
-variantai:
-  - apvalus vaško antspaudas
-  - sigillum nostrum
-aliases: []
+pavadinimas: 'Gedimino antspaudas'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-bukle: juodrastis
-laikotarpis: '1323 m. Gedimino laiškų kontekstas'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1323 m.'
   - '1966 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-  - 'XX a.'
+date_start: '1323'
+date_end: '1966'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - simbolis
 amziai:
   - 'XIV'
   - 'XX'
-date_start: '1323'
-date_end: '1966'
-patikimumas: vidutinis
-atnaujinta: '2026-05-27'
-tags:
-  - simbolis
 ---
 # Gedimino antspaudas
 
@@ -37,54 +23,60 @@ tags:
 Gedimino antspaudas šaltinyje aptariamas kaip 1323 m. laiškų patvirtinimo ir autentiškumo argumentas. Pasakojime jis dedamas prie rašto, siejamas su ginču dėl tikrumo, o notarinis aprašymas jį vaizduoja kaip apvalų vaško antspaudą su dvylikos kampų apvadu, soste sėdinčio vyro figūra, karūna, skeptru ir užrašu apie Gediminą.
 
 ## Pavadinimai šaltiniuose
+
 - antspaudas
 - sigillum nostrum
 - apvalus vaško antspaudas
 
 ## Laikotarpis ir datos
+
 - 1323 m. gegužės 26 d.
 - 1323 m.
 
 ## Kas tai
+
 Gedimino laiškų kontekste minimas vaško antspaudas, naudotas raštų tikrumui patvirtinti.
 
 ## Naudojimas
+
 Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirtinimo priemonė.
 
 ## Kontekstas
+
 - laikotarpis: 1323 m. Gedimino laiškų kontekstas
 - susiję žmonės: Gediminas
 - susiję įvykiai: Gedimino laiškų autentiškumo ginčas
 
 ## Teiginiai
+
 - t-001
   teiginys: '1323 m. gegužės 26 d. datuotuose laiškuose antspaudas pateikiamas kaip rašto tikrumo ir pasitikėjimo patvirtinimo priemonė.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Kryžiuočiai Gedimino antspaudą įmetė į ugnį, o jo tikrumą ginčijantys asmenys laiškuose buvo pasmerkti.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'' ■^la ir toliau cit.'
-  pagrindžia:
-    - c-002
-- t-004
-  teiginys: 'Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­ vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­ mo vertus vyrus; mes, be savo parašo ir be šio savo laiško, sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­ mingai prižadame.'
-  pagrindžia:
-    - c-003
-- t-005
   teiginys: 'To [rašto] paliudijimui laikėme reikalingu dalyku pridė­ ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­ tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.'
   pagrindžia:
     - c-004
 
+- t-004
+  teiginys: 'Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­ vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­ mo vertus vyrus; mes, be savo parašo ir be šio savo laiško, sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­ mingai prižadame.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'''' ■^la ir toliau cit.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antspaudas tvirtina raštą ir yra ginčijamas per pasakojimą apie jo įmetimą į ugnį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
@@ -101,16 +93,14 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'' ■^la ir toliau cit.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
@@ -156,13 +146,11 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     ištartą žodį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
+
 - c-003
-  santrauka: 'Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­ vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­ mo vertus vyrus; mes, be savo parašo ir be šio savo laiško, sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­ mingai prižadame.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jei jie [se­
@@ -187,13 +175,11 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     tokių vienuolių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-004
-  santrauka: 'To [rašto] paliudijimui laikėme reikalingu dalyku pridė­ ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­ tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šį raštą mes laikysime nekeičiamu, nes mūsų žodis liks
@@ -207,11 +193,9 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     eretikais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

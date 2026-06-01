@@ -1,30 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Kriava'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1385 m.'
   - '1930 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XIV'
-  - 'XX'
 date_start: '1385'
 date_end: '1930'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - pilis
   - valstybė
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # Kriava
 
@@ -33,29 +26,33 @@ tags:
 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis. Šiaurėje, pvz., Kriavo ir Vitebsko kunigaikštis Algirdas nuo Livo­ nijos kryžiuočių sėkmingai gynė Pskovą. Šitokioje padėtyje Krokuvon buvo atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur lygiai prieš trejus metus galutinai neišaiškintomis aplinkybėmis buvo žuvęs Jogailos dėdė Kęstutis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: '1385 m. rugpjūčio 14 d. Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: '7, 1930, 427 p. 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
-  pagrindžia:
-    - c-004
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitokioje padėtyje Krokuvon buvo
+    atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur
+    lygiai prieš trejus metus galutinai neišaiškintomis aplinkybėmis
+    buvo žuvęs Jogailos dėdė Kęstutis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Būda­
@@ -65,68 +62,8 @@ tags:
     nijos kryžiuočių sėkmingai gynė Pskovą. Miestas, jam atsidėkoda­
     mas, savo kunigaikščiu pasikvietė vyriausią Algirdo sūnų, per
     krikštą gavusį Andriaus vardą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1385 m. rugpjūčio 14 d. Kriavo pilyje buvo surašytas aktas, vėliau atgabentas į Krokuvą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitokioje padėtyje Krokuvon buvo
-    atgabentas aktas, surašytas 1385.VIII.14 d. Kriavo pilyje, kur
-    lygiai prieš trejus metus galutinai neišaiškintomis aplinkybėmis
-    buvo žuvęs Jogailos dėdė Kęstutis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '7, 1930, 427 p. 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    7, 1930, 427 p.**
-
-
-    ```
-    246 ii skyrius: valstybės iškilimas
-    ```
-    Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau
-    nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose
-    palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.
-    Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
-    dalyje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jogaila važinėjo ir
-    kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios
-    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
-    kuose, Kriave, Ainoje, Obolcuose^15. Jeigu tarp pirmųjų parapijų
-    neminimi Trakai ir Kaunas, yra ženklas, kad ten iš anksčiau tu­
-
-    ```
-    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 289
-    ```
-    (^11) **Plg.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004

@@ -1,29 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Panevėžys'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1918 m.'
-  - '1919 m.'
   - '1935 m.'
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
+date_start: '1918'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1918'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
-tags:
-  - vieta
 ---
 # Panevėžys
 
@@ -32,63 +27,36 @@ tags:
 Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1919 m. sausio 9 d. bolševikų pajėgoms užimant Panevėžį, J. Variakojis su pirmuoju savanorių būriu paliko miestą.'
+  teiginys: '1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Bolševikai, reorganizavęsi ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, atliko sėkmingą operaciją ir iš bolševikų išvadavo Ukmergę.'
   pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Bolševikai, reorganizavęsi ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
+  pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: 'Lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir geležinkelio ruože Panevėžys–Kupiškis.'
+  teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-005
-  teiginys: '1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojai Panevėžio batalionui įteikė vėliavą.'
-  pagrindžia:
-    - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: '1919 m. kovo 19-24 d. jie pasitraukė ir iš Panevėžio.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Tuo tarpu bolševikai reorganizavosi, ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: '18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir geležinkelio ruože Panevėžys-Kupiškis, taip sukeldami paniką raudonarmiečių gretose.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
-  pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Tačiau galiausiai Panevėžio batalionas turėjo apleisti savo miestą ir atsitraukti į Kėdainius.'
-  pagrindžia:
-    - c-011
-- t-012
   teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
   pagrindžia:
-    - c-012
+    - c-005
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1919 m. sausio 9 d. bolševikų pajėgoms užimant Panevėžį, J. Variakojis su pirmuoju savanorių būriu paliko miestą.'
+  santrauka: '1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 173
@@ -104,33 +72,13 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     goms užimant Panevėžį, J. Variakojis
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Bolševikai, reorganizavęsi ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Miesto gyvento-
-    jai džiaugsmingai sutiko išvaduotojus.
-    Tuo tarpu bolševikai reorganizavosi, ir
-    sutelkę didesnes pajėgas, užpuolė Panevėžį.
-    Mūšis prasidėjo balandžio 3 d. apie 15 val.
-    ir puolimas buvo atremtas iki vidurnak-
-    čio.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, atliko sėkmingą operaciją ir iš bolševikų išvadavo Ukmergę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gegužės 3 d. Panevėžio batalionas, re-
@@ -143,133 +91,48 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     dėjo svarbūs pokyčiai. Laisvose nuo priešo
     teritorijose prasidėjo naujokų (gimusių
     1897-1898 metais) šaukimas, o netrukus
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir geležinkelio ruože Panevėžys–Kupiškis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šioje operacijoje buvo panaudota ir ne-
-    seniai suformuota lietuvių aviacijos eskad-
-    rilé. 18-19 d. lietuvių lėktuvai bombardavo
-    ir kulkosvaidžiais apšaudė bolševikų po-
-    zicijas Panevėžyje ir geležinkelio ruože
-    Panevėžys-Kupiškis, taip sukeldami paniką
-    raudonarmiečių gretose. Taip pat lėktuvais
-    buvo iš oro žvalgomos priešo pozicijos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: '1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojai Panevėžio batalionui įteikė vėliavą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    E eS [0] Lietuvių padaliniai
-    E --—- sko 4 >= Lietuvių puolimo kryptys šturmuoja miestą.
-    2 inkelis > 2
-    i L >>> Vokiečių puolimo kryptys ® Bolševikų pajėgos
-    e Apskričių + = = Bolševikų atsitraukimo kryptys ae
-    > i . BE Bolševikų gynybinės pozicijos
-    iesteliai
-
-    Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio
-    ir jo apylinkių gyventojų įteikta vėliava.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-007
-  santrauka: '1919 m. kovo 19-24 d. jie pasitraukė ir iš Panevėžio.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1919 m. kovo 19-24 d. jie pasitraukė ir iš
-    Panevėžio. Mieste 2-3 dienas nebuvo jokios
-    ginkluotos jėgos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Tuo tarpu bolševikai reorganizavosi, ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
+    - t-002
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Miesto gyvento-
+    jai džiaugsmingai sutiko išvaduotojus.
     Tuo tarpu bolševikai reorganizavosi, ir
     sutelkę didesnes pajėgas, užpuolė Panevėžį.
-    Mūšis prasidėjo balandžio 3 d.
+    Mūšis prasidėjo balandžio 3 d. apie 15 val.
+    ir puolimas buvo atremtas iki vidurnak-
+    čio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: '18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir geležinkelio ruože Panevėžys-Kupiškis, taip sukeldami paniką raudonarmiečių gretose.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    18-19 d. lietuvių lėktuvai bombardavo
-    ir kulkosvaidžiais apšaudė bolševikų po-
-    zicijas Panevėžyje ir geležinkelio ruože
-    Panevėžys-Kupiškis, taip sukeldami paniką
-    raudonarmiečių gretose. Taip pat lėktuvais
-    buvo iš oro žvalgomos priešo pozicijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    BE Bolševikų gynybinės pozicijos
-    iesteliai
+    - t-003
 
-    Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio
-    ir jo apylinkių gyventojų įteikta vėliava.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Tačiau galiausiai Panevėžio batalionas turėjo apleisti savo miestą ir atsitraukti į Kėdainius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-004
+  santrauka: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau galiau-
-    siai Panevėžio batalionas turėjo apleisti
-    savo miestą ir atsitraukti į Kėdainius.
+    Pijarai, niekuo daugiau neužsiimdami,
+    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
+    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
+    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
+    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
+    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
+    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
 
-    Gegužės 3 d. Panevėžio batalionas, re-
-    miamas saksų savanorių, atliko sėkmingą
-    operaciją ir iš bolševikų išvadavo Ukmergę.
+    #### 6.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-012
+    - t-004
+
+- c-005
   santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -281,8 +144,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     mokyklų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-005

@@ -61,7 +61,6 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 - [[objektai/zodynas/kahalas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/bursa konviktas]]

@@ -30,16 +30,16 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 - t-001
   teiginys: 'Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Jono ir Vysku­ pų gatvės kampe, dovanojimo aktu, padarytame Trakų vaivados Jono Zabžezinskio Vilniaus vyskupui Jo­ nui iš Lietuvos kunigaikščių, 1533 metų spalio 26 dieną (Archiwum Ka­ pitulų MSS), yra užsimenama apie tą didelį gaisrą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ko j a ł o w i c z, II, p. 391. Mūrinio
@@ -57,7 +57,7 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kilo didelis pavojus karaliaus

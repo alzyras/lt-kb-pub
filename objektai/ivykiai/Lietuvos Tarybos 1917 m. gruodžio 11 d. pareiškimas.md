@@ -1,18 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas (institucija, XX a.)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas'
-aliases:
-  - 'Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1901 m.'
+  - '1917 m.'
+  - '2000 m.'
+date_start: '1901'
+date_end: '2000'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
+amziai:
+  - 'XX'
 ---
 # Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas (institucija, XX a.)
 
@@ -33,16 +36,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vaisin-
@@ -52,10 +54,8 @@ Nenurodyta
     vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federa-
     ciją su Vokietija, susirišdama su ja militarinėmis ir ekonominė-
     mis konvencijomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

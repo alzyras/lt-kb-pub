@@ -27,13 +27,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '225 ## Puslapis 242 VILNIAUS MIESTO ISTORIJA II TOMAS nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
+  teiginys: '1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­

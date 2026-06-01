@@ -65,6 +65,5 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 - [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
-- [[objektai/autoriai/Puslapis 206]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]

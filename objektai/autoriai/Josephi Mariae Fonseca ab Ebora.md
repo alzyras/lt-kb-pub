@@ -17,13 +17,14 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
 ## Teiginiai
 
 - t-001
-  teiginys: 'opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.'
+  teiginys: 'Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Josephi Mariae Fonseca ab Ebora darbu ir rūpesčiu 1733 m. Romoje išleistas „Annales Minorum“ XIX tomas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr.

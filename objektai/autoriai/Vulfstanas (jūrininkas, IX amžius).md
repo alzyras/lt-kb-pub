@@ -1,22 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Vulfstanas (jūrininkas, IX amžius)'
-sukurta: '2026-04-24'
-variantai:
-  - 'Vulfstano'
-  - 'Vulfstanas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: 'IX amžius'
-datos:
-  - 'IX amžius'
-vaidmenys:
-  - 'jūrininkas'
-  - 'pasakojimo autorius'
-patikimumas: 'aukštas'
-aliases:
-  - 'Vulfstanas'
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -27,18 +15,19 @@ tags:
 Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam priskiriami darbai kelionių pasakojimas apie aisčius.
 
 ## Darbai
+
 - kelionių pasakojimas apie aisčius
 
 ## Teiginiai
+
 - t-001
   teiginys: 'IX a. jūrininkas Vulfstanas, buvęs Prūsuose, smulkiai nupasakojo aisčių gyvenimo būdą ir papročius.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'IX a. jūrininkas Vulfstanas, buvęs Prūsuose, smulkiai nupasakojo aisčių gyvenimo būdą ir papročius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas prane-
@@ -47,11 +36,9 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
     IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,
     jis gana smulkiai nupasakoja aisčių gyvenimo būdą ir papročius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

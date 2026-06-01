@@ -1,42 +1,19 @@
 ---
 tipas: grupe
-pavadinimas: "NKVD"
-sukurta: '2026-05-14'
-variantai:
-  - "Vidaus reikalų liaudies komisariatas"
-  - "Vidaus reikalų liaudies komisariatas (SSRS)"
-aliases:
-  - "sovietų NKVD kariuomenės daliniai"
-  - "NKVD kariuomenė"
+pavadinimas: 'NKVD'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1940-1946 m. Lietuvos okupacijų kontekstas"
-vaidmenys:
-  - "saugumo ir represinė institucija"
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1500 m.'
-  - '1940 m.'
-  - '1941 m.'
-  - '1945 m.'
-  - '1946 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'XX a.'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1500'
 date_end: '2026'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-14'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # NKVD
 
@@ -76,126 +53,35 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 - susiję įvykiai: pirmieji masiniai areštai; sovietizavimas; kova su Lietuvos partizanais.
 - susijusios vietos: Lietuva, SSRS giluma.
 
+## Šaltiniai ir įrodymai
+
+Nenurodyta
+
 ## Teiginiai
-- t-012
-  teiginys: 'Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-013
+
+- t-001
   teiginys: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
   pagrindžia:
-    - c-002
-- t-014
-  teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
-  pagrindžia:
     - c-003
-- t-015
-  teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
-  pagrindžia:
-    - c-004
-- t-016
+
+- t-002
   teiginys: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
   pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
+  pagrindžia:
     - c-005
-- t-017
+
+- t-004
   teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
   pagrindžia:
-    - c-006
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sniečkus išleido įsakymą, leidžiantį suimti
-    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
-    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
-    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-
-    L I E T U V O S  I S T O R I J A
-    194
-    turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-- c-002
-  santrauka: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
-    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
-    iki 13 valandos drąsiai atmušinėjo priešo atakas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-003
-  santrauka: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    So-
-    vietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai,
-    žmones imta kalinti ir tremti į SSRS gilumą. Net didžiausi SSRS simpatikai
-    prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
-    Represijos ir 1941 metų
-    Birželio sukilimas
-    Represijos, areštai, deportacijos, jų baimė – sudedamoji
-    bolševikų vykdytos politikos dalis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
-- c-004
-  santrauka: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sniečkus išleido įsakymą, leidžiantį suimti
-    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
-    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
-    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-
-    L I E T U V O S  I S T O R I J A
-    194
-    turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
-- c-005
-  santrauka: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
-    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
-    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
-    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
-    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
-    nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
-    gyventojų neapykantą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-016
-- c-006
-  santrauka: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
@@ -208,13 +94,72 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
     jus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-017
+    - t-004
 
-## Šaltiniai ir įrodymai
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+
+    L I E T U V O S  I S T O R I J A
+    194
+    turėjo neleisti tokiems pabėgti į Vokietiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+
+- c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
+    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
+    iki 13 valandos drąsiai atmušinėjo priešo atakas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos žydų sunaikinimas – Holokaustas
+    Vokietijai greitai užėmus Lietuvą labai mažai gyventojų pa-
+    sitraukė į Rytus, sovietai vos spėjo išgabenti į Maskvą LSSR vyriausybę.
+    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
+    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
+    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
+    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
+    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
+    nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
+    gyventojų neapykantą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    So-
+    vietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai,
+    žmones imta kalinti ir tremti į SSRS gilumą. Net didžiausi SSRS simpatikai
+    prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
+    Represijos ir 1941 metų
+    Birželio sukilimas
+    Represijos, areštai, deportacijos, jų baimė – sudedamoji
+    bolševikų vykdytos politikos dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -229,17 +174,13 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 - [[objektai/asmenys/Buiničius]]
 - [[objektai/ivykiai/Didieji pokario trėmimai Lietuvoje (1948–1951 m.)]]
 - [[objektai/grupes/Dzūkų būrys]]
-- [[objektai/asmenys/Jacenka]]
 - [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
 - [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Lietuvos šaulių sąjunga]]
+- [[objektai/grupes/Marcinkonių batalionas]]
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/grupes/Muškietininkų būrys]]
 - [[objektai/grupes/NKVD 220-ojo Kutuzovo ordino pasienio pulkas]]
@@ -252,6 +193,7 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 - [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 34]]
 - [[objektai/zodynas/agentas-smogikas]]
 - [[objektai/zodynas/deportacijos trėmimai]]
+- [[objektai/zodynas/dezertyrai]]
 - [[objektai/posakiai/pif paf]]
 - [[objektai/zodynas/pyliavos]]
 - [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]

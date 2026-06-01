@@ -1,19 +1,11 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Jakubowski'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -24,20 +16,33 @@ tags:
 Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“'
+  teiginys: 'Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.'
+  teiginys: 'J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Red.
+    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
+    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
+    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^128) I SKYRIUS: LIETUVOS PROISTORĖ
@@ -45,24 +50,9 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     księstwa trockiego w 1387 r_ ., PH, t. 5, 1907, 22-47 p. — (”) _Studia nad
     stosunkami narodowościowymi na Litwie przed unią lubelską,_ Varšuva
     1912 ; liet. vertimas, Kaunas 1921.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    3
-    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

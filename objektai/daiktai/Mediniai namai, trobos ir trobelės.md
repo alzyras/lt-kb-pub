@@ -42,16 +42,16 @@ Nenurodyta
 - t-001
   teiginys: 'Tuo metu poreikis turėti savą gynybą ir per ne­ paliaujamus karus pažintis su kaimyninėmis šalimis, jau atsikračiusiomis netašyto barbariškumo, davė pradžią rastis Lietuvos žemėje medinėms pilims ir tvirtovėms.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Bet labai tikėtina, kad nuo seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­ kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų, supančių Vilnios srovę, būta medinės tvirtovės6.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     17
@@ -75,7 +75,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­

@@ -18,13 +18,14 @@ Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Soltykovičius (O stanie Akademii Krakowskiej, p. 115) rašo, kad „Mikalojus iš Gožkovo, nuo Akademijos perkėlimo į Kroku­ vą Kazimiero laikais, buvo trečiasis jos rektorius ir taip pat trečiasis nuo Vilniaus katedros įsteigimo Lietuvos vvskupas".'
+  teiginys: 'O stanie Akademii Krakowskiej nurodoma, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'O stanie Akademii Krakowskiej nurodoma, kad Mikalojus iš Gožkovo buvo trečiasis Krokuvos akademijos rektorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ant­

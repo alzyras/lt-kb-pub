@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Motiejus'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1417 m.'
   - '1453 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1417'
 date_end: '1453'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Motiejus
 
@@ -29,20 +25,15 @@ tags:
 Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­ skutinį patepimą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Motiejus nuo 1417 m. buvo Medininkų, arba Žemaičių, vyskupas, o 1421 m. popiežiaus iškeltas į Vilniaus vyskupus.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui ir priėmė Švenčiausiąjį bei paskutinį patepimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila su ašaromis akyse pasižadėjo išpildyti visus Vytauto
@@ -52,37 +43,11 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
     skutinį patepimą. Paklaustas vyskupo apie tikybos tie­
     sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
     atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Motiejus nuo 1417 m. buvo Medininkų, arba Žemaičių, vyskupas, o 1421 m. popiežiaus iškeltas į Vilniaus vyskupus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    6. Motiejus, šv. teologijos magistras, lietuvis, iš pradžių,
-    nuo 1417 metų, Medininkų arba Žemaičių vyskupas, paskui,
-    1421 m., popiežiaus iškeltas į Vilniaus vyskupus, tačiau ne­
-    greit perėmė valdžią kitos diecezijos, kadangi jis buvo nepa­
-    geidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­
-    kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų.
-    Turbūt todėl 1427 m. šventinant Šv. Jono bažnyčią Vilniaus
-    vyskupo dar nebuvo. Tą mūsų spėjimą patvirtina tai, jog vys­
-    kupo Motiejaus vardą dokumentuose randame tik nuo 1430
-    metų, vėliau: 1433, 1434 ir t. t.; antra, kad nuo 1417 m. iki
-    1453 m., tai yra 36 metus, kiek jam Kojelavičius ir kiti istori­
-    jas rašę buvo davę, būtų buvęs per ilgas tarpsnis vyskupu
-    išbūti. Apleido šį pasaulį 1453 m., tikriausiai nunuodytas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -93,16 +58,12 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 - [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
 - [[objektai/zodynas/murza]]
 - [[objektai/zodynas/ulonas]]
-- [[objektai/asmenys/Elžbieta Pečkavičiūtė]]
-- [[objektai/asmenys/Felicija Pečkavičiūtė]]
-- [[objektai/asmenys/Jonas Pečkavičius]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Mantautas]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- [[objektai/zodynas/Puslapis 77]]
-- [[objektai/ivykiai/Stepono Batoro sprendimas dėl Vilniaus vyskupijos pavaldinių atleidimo nuo miesto cechų jurisdikcijos (1584 m.)]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/zodynas/fizikas rūmų daktaras Leibarzt]]

@@ -41,12 +41,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad lietuvos ir Jotvingių jėgos puolė vieną iš minėtos antiprūsiškosios koalicijos dalyvių — Lenkiją25.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
@@ -62,7 +62,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus

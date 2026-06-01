@@ -42,25 +42,25 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kad šis dovanojimas būtų teisėtas bei amžinas ir kad ateityje niekas negalėtų jo atšaukti, išdavė jiems raštą, kurį patvirtino savo antspaudu172.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad 173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi Hohenlohės reliacijos originale, įėjo į Ordino tradiciją.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-001
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     173 Dusburgietis tvirtina, kad Ordinas įsikūrė Prūsijoje apie 1226 m. Ši data, buvusi
@@ -70,7 +70,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,9 +89,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
@@ -111,8 +111,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

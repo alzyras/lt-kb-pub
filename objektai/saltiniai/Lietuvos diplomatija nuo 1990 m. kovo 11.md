@@ -1,30 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos diplomatija nuo 1990 m. kovo 11'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
-  - '1940 m.'
-  - '1990 m.'
-  - '1991 m.'
   - '2001 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1918'
 date_end: '2001'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - saltinis
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Lietuvos diplomatija nuo 1990 m. kovo 11
 
@@ -33,21 +24,23 @@ tags:
 leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų ministerija), 2001.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybinio žydų muziejaus, Mokslo ir enciklopedijų leidybos centro fondų (1918– 1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio „Lietuvos diplomatija.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybinio žydų muziejaus, Mokslo ir enciklopedijų leidybos centro fondų (1918– 1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio „Lietuvos diplomatija.'
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilnius, 2007.
     Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono
     valstybinio žydų muziejaus, Mokslo ir enciklopedijų leidybos centro fondų (1918–
     1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
@@ -55,23 +48,21 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
     ministerija), 2001; Lietuva, 1991 sausio 13.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
+    Vilnius, 2007.
+    Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono
+    valstybinio žydų muziejaus, Mokslo ir enciklopedijų leidybos centro fondų (1918–
+    1940 m. Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
     „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų
     ministerija), 2001; Lietuva, 1991 sausio 13.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

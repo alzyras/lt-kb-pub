@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'S. F. Platonov, Geschichte Russlands vom Beginn bis zur Jetztzeit'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1927 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1927'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # S. F. Platonov, Geschichte Russlands vom Beginn bis zur Jetztzeit
 
@@ -27,18 +21,15 @@ tags:
 Platonov, S.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Ekdahl, S. : _Der Krieg zwischen
@@ -51,10 +42,8 @@ Platonov, S.
     wielki książę Litwy_ , Vilnius 1930. — PfiW. — Platonov, S. F. : _Geschich­
     te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
     Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

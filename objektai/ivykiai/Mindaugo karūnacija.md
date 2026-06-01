@@ -45,16 +45,16 @@ Nenurodyta
 - t-001
   teiginys: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugo vainikavimas
@@ -66,7 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausias tikslas, kurio siekta krikštijantis, – ka-

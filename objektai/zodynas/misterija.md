@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'misterija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - sąvoka
@@ -25,16 +16,15 @@ tags:
 Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Misterijos „Likimo keliais“ turinį sudaro pasakojimas apie Vincą Višvilį, siekusį prikelti Žvaigždikį, tai yra Lietuvą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Misterijos „Likimo keliais“ turinį sudaro pasakojimas apie Vincą Višvilį, siekusį prikelti Žvaigždikį, tai yra Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
@@ -44,11 +34,9 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V.
     mas apie Vincą Višvilį — prastą kaimo bernaitį piemenėli, kuris pri­
     siklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę,
     ryžtasi prikelti iš miego Žvaigždikį, atseit, pačią Lietuvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

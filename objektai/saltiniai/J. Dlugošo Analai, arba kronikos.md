@@ -28,34 +28,34 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad iš šio vertimo Dusburgiečio kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J..'
   pagrindžia:
     - c-005
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi (II a. pr. m. e.) Prūsijumi (Długossii J. Annales..., kn. II, p. 216); kitur Prūsijos pradžia siejama su Pruteniu ir Videvučiu (SRP, 4, p. 293—298; Jurginis J..'
+  teiginys: 'Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.'
+- t-004
+  teiginys: 'Dusburgietis teigia, kad dlugošas žuvusio Mazovijos šaltinio pagrindu kalba ties 1222 m. Vis dėlto įvykių chronologija Dlugošo paankstinta keleriais metais, todėl aptariami įvykiai galėtų sietis su 1224 ar 1225 m. (Długosz J.'
   pagrindžia:
     - c-001
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad dlugošas žuvusio Mazovijos šaltinio pagrindu kalba ties 1222 m. Vis dėlto įvykių chronologija Dlugošo paankstinta keleriais metais, todėl aptariami įvykiai galėtų sietis su 1224 ar 1225 m. (Długosz J.'
+- t-005
+  teiginys: 'Dusburgietis teigia, kad 491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį į Sandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo Drohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona..., p..'
   pagrindžia:
     - c-002
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad 491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį į Sandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo Drohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona..., p..'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     163  Panašiai apie Mazovijos nusiaubimą ir Plocko sudeginimą J. Dlugošas žuvusio
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį  į
@@ -80,9 +80,9 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
@@ -94,9 +94,9 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Iš šio vertimo Dusburgiečio
@@ -107,9 +107,9 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Problemą bandyta spręsti dar XV a.: Prūsijos vardas buvo siejamas su Bitinijos karaliumi
@@ -120,4 +120,4 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

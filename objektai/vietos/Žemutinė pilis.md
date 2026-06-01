@@ -19,12 +19,12 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Svetimšalių ataka buvo smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­ si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­ na Žemutinėje pilyje ir pagavo medinius statinius, aptva­ rus, užkardas.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -61,4 +61,4 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

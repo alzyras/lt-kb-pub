@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Eduardas Karolis Eichvaldas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
@@ -19,19 +16,21 @@ tags:
 Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Universi-
+    Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
+    centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru
+    už etnografinės Lenkijos ribų. Šis laikotarpis bene didžiausio universiteto
+    klestėjimo metai – studentų skaičius nuo 200 padidėjo iki 1 300. Universi-
     tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
     lewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),
     chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-
@@ -44,11 +43,9 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     zefas Frankas (Joseph Frank) – jų
     darbai buvo žinomi tarptautiniu
     mastu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

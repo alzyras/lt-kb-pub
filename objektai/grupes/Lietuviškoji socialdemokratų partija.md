@@ -27,27 +27,78 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos.'
+- t-003
+  teiginys: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
+  teiginys: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
   pagrindžia:
     - c-004
 
-- t-003
-  teiginys: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
+    socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
+    bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
+    nės veikėjais, tačiau bendros kalbos nerado.
+    LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio
+    idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje
+    prarado, patyrė ir didžiausias caro valdžios represijas. Socialdemokratai
+    rėmė Lietuvos nepriklausomybės idėją, pasisakė už socialines reformas,
+    lietuvių ir lenkų kalbų lygybę Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
+    si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,
+    užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo
+    1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
+    nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
+    jos ir geranoriškumo įsikūnijimas.
+    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
+    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
+    partija, susikūrusi 1896 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
+    atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
+    greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
+    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
+    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
+    demonstracijos, mitingai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,57 +117,6 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   statusas: verified
   pagrindžia:
     - t-004
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimui-
-    si rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos,
-    užėmė lojalias pozicijas caro valdžios atžvilgiu. Populiariausiu tapo nuo
-    1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jau-
-    nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
-    jos ir geranoriškumo įsikūnijimas.
-    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
-    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
-    partija, susikūrusi 1896 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
-    atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
-    greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
-    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
-    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
-    demonstracijos, mitingai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
-
-- c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
-    socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
-    bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
-    nės veikėjais, tačiau bendros kalbos nerado.
-    LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio
-    idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje
-    prarado, patyrė ir didžiausias caro valdžios represijas. Socialdemokratai
-    rėmė Lietuvos nepriklausomybės idėją, pasisakė už socialines reformas,
-    lietuvių ir lenkų kalbų lygybę Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-003
 
 - c-005
   santrauka: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'

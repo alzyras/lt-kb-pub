@@ -35,12 +35,12 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad weber L.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
   pagrindžia:
     - c-001
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -75,4 +75,4 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

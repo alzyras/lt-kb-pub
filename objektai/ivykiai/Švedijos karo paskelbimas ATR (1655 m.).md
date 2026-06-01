@@ -49,7 +49,7 @@ Nenurodyta
     - c-001
 
 - t-002
-  teiginys: '## Puslapis 129 PROSTKŲ MŪŠIS 1656 PRŪSIJOS KUNIGAIKŠTYSTĖ Mūšio išvakarėse 1655 m. Švedija paskelbė karą ATR ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
+  teiginys: '1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
   pagrindžia:
     - c-002
 
@@ -79,7 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
-  santrauka: '## Puslapis 129 PROSTKŲ MŪŠIS 1656 PRŪSIJOS KUNIGAIKŠTYSTĖ Mūšio išvakarėse 1655 m. Švedija paskelbė karą ATR ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
+  santrauka: '1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiame kare (1654-1667) pirmą kartą priešas
@@ -110,3 +110,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

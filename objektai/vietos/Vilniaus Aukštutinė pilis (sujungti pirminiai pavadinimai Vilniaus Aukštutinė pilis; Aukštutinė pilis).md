@@ -27,40 +27,40 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 
 ## Teiginiai
 
-- t-007
-  teiginys: '## Puslapis 217 Il KNYGA VI VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS, PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ 1.'
-  pagrindžia:
-    - c-007
-
 - t-001
-  teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
-  pagrindžia:
-    - c-001
-
-- t-005
-  teiginys: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
-  pagrindžia:
-    - c-005
-
-- t-003
-  teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
+  teiginys: 'Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
+  teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
   pagrindžia:
     - c-002
 
-- t-006
-  teiginys: '- Praneša man vėliau, kad įvyko griū­ tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki" priežasties.'
+- t-004
+  teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
   pagrindžia:
     - c-006
+
+- t-005
+  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
+  pagrindžia:
+    - c-003
+
+- t-006
+  teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
+  pagrindžia:
+    - c-007
+
+- t-007
+  teiginys: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -98,9 +98,9 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Paminėsime tad tik
@@ -126,9 +126,9 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie jos šliejosi
@@ -147,9 +147,10 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-007
+- c-004
+  santrauka: 'Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 217
@@ -164,9 +165,10 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-006
+- c-005
+  santrauka: 'Kalnas, ant kurio stovėjo Aukštutinė pilis, nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
@@ -182,9 +184,9 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-007
 
-- c-003
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
@@ -197,9 +199,9 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-002
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
@@ -240,4 +242,4 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-006

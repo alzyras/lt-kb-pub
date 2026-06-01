@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'primus inter pares'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - sąvoka
@@ -19,27 +16,30 @@ tags:
 Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    S. Lozoraitis
+    Šie pinigai suteikė galimybę LDT išlai-
+    kyti savo pasiuntinybes ir personalą iki pat
+    diplomatinio darbo pabaigos.
+    LDT aukščiausia valdžia priklausė di-
+    plomatijos šefui, tas pareigas ėjo diplomatai
+    Stasys Lozoraitis (1940–1983 m.) ir Stasys
+    Antanas Bačkis (1983–1991 m.). S. Lozoraitis
     diplomatijos šefo pareigas interpretavo kaip
     primus inter pares (pirmas tarp lygiųjų) tarp
     visų pasiuntinių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

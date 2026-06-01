@@ -44,12 +44,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tos privilegijos originalas, išlikęs kapitulos archyve, rašytas ant pergamento lakšto, go­ tiškomis raidėmis, lotyniškai, ir iki šios dienos gerai įskaitomas; ant­ spaudai yra buvę du: sigillum nost­ rum majus et authenticum cum alio si­ bi minori a tergo.'
   pagrindžia:
     - c-001
@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -109,7 +109,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

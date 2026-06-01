@@ -1,21 +1,17 @@
 ---
 tipas: asmuo
 pavadinimas: 'Bernardas Berensonas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai: []
+periodo_grupes: []
 ---
 # Bernardas Berensonas
 
@@ -24,22 +20,30 @@ tags:
 nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    lau-
+    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
+    tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
+    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
+    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
     reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
     nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Be-
     rensonas (Bernhard Valvrojenski, g. 1865 m.), Gertrude Ellion (Geltrūda
@@ -47,14 +51,12 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

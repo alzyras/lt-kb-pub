@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Jadwiga, Królowa Polska'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1386 m.'
   - '1934 m.'
   - '1937 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1386'
+date_end: '1937'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIV'
   - 'XX'
-date_start: '1386'
-date_end: '1937'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - saltinis
 ---
 # Jadwiga, Królowa Polska
 
@@ -30,18 +24,15 @@ tags:
 : Wcielenie Litwy do Polski w 1386, AW, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: ': Wcielenie Litwy do Polski w 1386, AW, t.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: ': Wcielenie Litwy do Polski w 1386, AW, t.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Unja Litwy z Polską,_
@@ -51,10 +42,8 @@ tags:
     AW, t. 12, 1937, 36-145 p. — Maciejewska, W. : _Jadwiga, Królowa
     Polska_ , Kraków 1934 (plati bibliogr.). — Ochmański, J. : _Biskupstwo
     wileńskie w średniowieczu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

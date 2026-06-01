@@ -27,12 +27,12 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 - t-002
   teiginys: 'Tad šių, mūsų valdų, ir dvarų, taip pat ir kito judamo ir nejudamo turto, kurį turime ir valdome, bet kokia teise mums priklausančio ir bet kokiu besivadi­ nančio, darome, skelbiame paveldėtojomis karalaites: jos di­ denybę Kotryną, Švedijos karalienę, jos.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Kotryna Jogailaitė galėtų netekti tų išmo­ kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +52,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
@@ -90,7 +90,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat turime kai kurių mūsų dvarų, ir

@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Regesta Lithnaniae'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1315 m.'
   - '1930 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1315'
+date_end: '1930'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIV'
   - 'XX'
-date_start: '1315'
-date_end: '1930'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - saltinis
 ---
 # Regesta Lithnaniae
 
@@ -29,18 +23,15 @@ tags:
 : Regesta Lithnaniae, I (ab origine usque ad annum 1315 complectens), Varsaviae 1930 (visi senieji tekstai ir nurodyti jų šaltiniai).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'H. Paszkiewicziaus Regesta Lithnaniae I tomas išleistas Varšuvoje 1930 m. ir apima medžiagą iki 1315 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'H. Paszkiewicziaus Regesta Lithnaniae I tomas išleistas Varšuvoje 1930 m. ir apima medžiagą iki 1315 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Belaruskaja Akademija Navuk,
@@ -57,10 +48,8 @@ tags:
     complectens),_ Varsaviae 1930 (visi senieji tekstai ir nurodyti jų šaltiniai).
     — Pobłocki, L. : _Kritische Beiträge zur ältesten Geschichte Litauens,_ atsp.
     iš AM, XVII, 1870.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

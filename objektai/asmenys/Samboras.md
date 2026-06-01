@@ -19,19 +19,19 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru.'
+  teiginys: 'Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Narsiai ją
@@ -46,9 +46,9 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Marienverderio miesto pastatymą
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

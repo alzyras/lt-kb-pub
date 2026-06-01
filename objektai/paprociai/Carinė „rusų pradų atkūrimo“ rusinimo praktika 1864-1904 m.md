@@ -1,33 +1,23 @@
 ---
 tipas: paprotys
-pavadinimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 58 Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
-  - 'Kandidatas Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
-aliases:
-  - 'Kandidatas 58 Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
-  - 'Kandidatas Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
+pavadinimas: 'Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1864 m.'
   - '1904 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1864'
 date_end: '1904'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - paprotys
   - tauta
   - tikėjimas
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m
 
@@ -36,53 +26,55 @@ tags:
 Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika. „Rusų pradų atkūrimo“ politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Rusų pradus turėjo diegti iš Rusijos gilumos atvykę mokytojai, o lietuvių kalba į švietimo įstaigas nebuvo įleista.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos atvykę mokytojai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-002
   teiginys: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos atvykę mokytojai.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Imperijos politiko-
@@ -94,15 +86,13 @@ Nenurodyta
     visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
     nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
     nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Rusų pradus turėjo diegti iš Rusijos gilumos atvykę mokytojai, o lietuvių kalba į švietimo įstaigas nebuvo įleista.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Rusų pradų atkūrimo“
@@ -111,15 +101,13 @@ Nenurodyta
     tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
     rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
     jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Juk separatizmas tarpo pirmiausia vietos bajoriškoje
@@ -139,11 +127,9 @@ Nenurodyta
     tų į rusų aukštąją kultūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

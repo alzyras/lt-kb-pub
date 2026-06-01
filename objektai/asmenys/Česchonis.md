@@ -20,13 +20,14 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
 ## Teiginiai
 
 - t-001
-  teiginys: 'dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių namą ir iš kitos to paties Česchonio namo pusės keliu palei tvorą ir Šv.'
+  teiginys: 'Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quam quidem partem ci­

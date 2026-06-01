@@ -1,48 +1,22 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Radviliškio kautynės (1919 m. lapkričio 21–22 d.)'
-sukurta: '2026-04-25'
-variantai:
-  - '[]'
-  - 'Šiaulių-Radviliškio operacija 1919 m. lapkričio 20–24 d.'
-  - 'Šiaulių-Radviliškio operacija'
-  - 'Mūšis ties Radviliškiu'
-  - 'Radviliškio mūšis'
-aliases:
-  - '[]'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1919 m.'
-  - '1936 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1919'
 date_end: '2026'
-patikimumas: 'vidutinis'
-vaidmenys: []
-dalyviai:
-  - 'plk. ltn. K. Ladyga'
-  - '2-asis pėstininkų pulkas'
-  - '1-asis pėstininkų pulkas'
-  - 'Panevėžio batalionas'
-  - 'Vilniaus batalionas'
-  - 'bermontininkai'
-  - 'plk. Bermontas'
-susije_irasai: []
-laikotarpis: '1919 m. lapkričio 20–24 d. (operacija); 1919 m. lapkričio 21–22 d. (kautynės)'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - mūšis
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Radviliškio kautynės (1919 m. lapkričio 21–22 d.)
 
@@ -51,36 +25,41 @@ tags:
 Radvilišky ir Šiauliuose mūsų kariuomenė rado visko prigrūstus sandėlius. Sutraukta Lietuvos kariuomenė puolė Radviliškį ir Šiaulius.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-006
-  teiginys: 'Tą pačią lapkričio 22 d. lietuviai išmušė bermontininkus iš Meškuičių, Pašiaušės ir Padubysio; lapkričio 27 d. atsiėmė Joniškį, o plk. Bermontas kapituliavo.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
+
+- t-001
   teiginys: 'Mūšis 1919 m. lapkričio 20 d. fronto vadas plk.'
   pagrindžia:
     - c-002
-- t-008
+
+- t-002
   teiginys: 'Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 22 dieną Panevėžio batalionas išmušė bermontininkus iš Meškuičių, Vilniaus batalionas iš Pašiaušės ir iš Padubysio.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Tą pačią lapkričio 22 d. lietuviai išmušė bermontininkus iš Meškuičių, Pašiaušės ir Padubysio; lapkričio 27 d. atsiėmė Joniškį, o plk. Bermontas kapituliavo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tą pačią lapkričio 22 d. lietuviai išmušė bermontininkus iš Meškuičių, Pašiaušės ir Padubysio; lapkričio 27 d. atsiėmė Joniškį, o plk. Bermontas kapituliavo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tą pačią lapkričio 22 dieną Panevė-
@@ -91,15 +70,13 @@ Nenurodyta
     Pašiaušės ir iš Padubysio. Lapkričio 27 d.
     lietuviai atsiėmė Joniškį. Plk. Bermontas
     buvo priverstas kapituliuoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
 - c-002
-  santrauka: 'Mūšis 1919 m. lapkričio 20 d. fronto vadas plk.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -120,13 +97,11 @@ Nenurodyta
     Tačiau šis puolimas nepavyko.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
+
 - c-003
-  santrauka: 'Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 22 dieną Panevėžio batalionas išmušė bermontininkus iš Meškuičių, Vilniaus batalionas iš Pašiaušės ir iš Padubysio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Užvirė jami bermontininkai
@@ -142,11 +117,9 @@ Nenurodyta
     buvo priverstas kapituliuoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

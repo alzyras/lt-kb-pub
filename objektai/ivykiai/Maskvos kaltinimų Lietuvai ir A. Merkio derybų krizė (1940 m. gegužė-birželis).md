@@ -33,29 +33,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Tai rodė, jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti Lietuvos ministrą pirmininką A.'
   pagrindžia:
-    - c-002
-
-- t-004
-  teiginys: 'Birželio 10 dieną Kaune sužinojus, kad A.'
-  pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
+- t-003
+  teiginys: 'Birželio 10 dieną Kaune sužinojus, kad A.'
   pagrindžia:
     - c-001
 
+- t-004
+  teiginys: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
@@ -68,9 +68,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai rodė,
@@ -84,9 +84,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daug laiko atėmė ir Raudonosios armijos, dislokuotos Lietuvo-
@@ -99,9 +99,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-002
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vi-

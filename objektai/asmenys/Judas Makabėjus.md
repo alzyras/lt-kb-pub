@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Judas Makabėjus'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ritualas
@@ -27,28 +18,34 @@ tags:
 Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir garbės auka. Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė. Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.'
-  pagrindžia:
-    - c-002
-- t-003
+
+- t-001
   teiginys: 'Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.'
   pagrindžia:
     - c-003
-- t-004
+
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą, kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio.'
   pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad .“ Ne kas kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir garbės auka.'
+    - c-002
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.'
   pagrindžia:
-    - c-005
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Nedera, be to,
+    Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
+    „gelbėtojas“. Kadangi Dovydas buvo pranašas  ir jo lūpomis bylojo šventoji dvasia,
+    kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo
+    sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus
+    privalėsiąs turėti sargybinių, kurie, nebrangindami savo gyvybės, prisisegs prie šlaunies
+    šventąjį kalaviją, kad tie, kurie supa drąsiausiojo Izraelio vyro Saliamono guolį, išvytų iš
+    krikščionių gyvenamų plotų klastingos tamsybės naktines šmėklas. Nedera, be to,
     užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,
     nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,
     nugalėjo Antiochą Epifaną  ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
@@ -56,31 +53,15 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Juk čia ne
-    jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
-    kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
-    (1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą, kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio.'
+
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Judą Makabėjų
+    Skaitome ir apie Makabėjų, kad
+    jo vyrai šaukėsi  į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų
     pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą,
     kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai
     kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio kariuomenė turėjo
@@ -91,26 +72,24 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
                    Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad .“ Ne kas kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir garbės auka.'
+    - t-002
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    .“ Ne kas
-    kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią
-    tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir
-    garbės auka.
+    3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
+    širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų
+    tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“. Juk čia ne
+    jūsų, bet dievo kova. Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
+    kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
+    (1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -38,16 +38,16 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
@@ -66,7 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Veklico pilies ir vienos pilaitės sugriovimą

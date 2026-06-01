@@ -28,34 +28,34 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 
 ## Teiginiai
 
-- t-005
-  teiginys: 'Dusburgietis teigia, kad todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui, kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį ir ją iš pamatų.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  teiginys: 'Dusburgietis teigia, kad todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui, kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį ir ją iš pamatų.'
   pagrindžia:
     - c-003
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  pagrindžia:
+    - c-005
+
+- t-005
   teiginys: 'Dusburgietis teigia, kad meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -86,9 +86,9 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
@@ -106,9 +106,9 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Meinhardą, Prūsijos žemės magistrą
@@ -121,9 +121,9 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
@@ -140,7 +140,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-006
   santrauka: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'

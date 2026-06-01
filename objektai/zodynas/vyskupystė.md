@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vyskupystė'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - krikštas
@@ -21,16 +18,15 @@ tags:
 Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir dar 7 pirmąsias parapijines bažnyčias krašte (Ukmergėje, Maišiogaloje, Nemenčine, Medininkuose, Krėvoje, Obalčiuose ir Ainoje).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po Lietuvos krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir septynias pirmąsias parapijines bažnyčias krašte.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Lietuvos krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir septynias pirmąsias parapijines bažnyčias krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Vilniaus vyskupystės įkūrimas.** Pats krikštas dar nieko ne-
@@ -43,11 +39,9 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
     mergėje, Maišiogaloje, Ne-
     menčine, Medininkuose, Krė-
     voje, Obalčiuose ir Ainoje).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

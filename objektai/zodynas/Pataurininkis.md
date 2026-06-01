@@ -50,7 +50,6 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 - [[objektai/asmenys/Aleksandras Jurgėvičius]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Jonas iš Zabrežjės]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/asmenys/Stanislovas Veenas]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/asmenys/Vladislovas Jogaila]]

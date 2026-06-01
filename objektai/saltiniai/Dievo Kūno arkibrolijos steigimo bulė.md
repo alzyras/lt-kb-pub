@@ -27,13 +27,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '174 ## Puslapis 191 Il KNYGA B) Žinios apie Dievo Kūno koplyčios įkūrimą Patikimų pirminių žinių apie tos koplyčios būklę nėra galimybių išsiaiškinti, kadangi dokumentų ir visokių senų­ jų raštų dalis 1660 metais maskvėnų paimta, dalis 1737 me­ tais per.'
+  teiginys: '1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     174

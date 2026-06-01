@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'M. Jučas, Žalgirio mūšis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -11,20 +8,16 @@ datos:
   - '1959 m.'
   - '1961 m.'
   - '1964 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'XX a.'
-amziai:
-  - 'XV'
-  - 'XX'
 date_start: '1410'
 date_end: '1964'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - saltinis
+amziai:
+  - 'XV'
+  - 'XX'
 ---
 # M. Jučas, Žalgirio mūšis
 
@@ -33,18 +26,15 @@ tags:
 : Žalgirio mūšis, Vilnius 1959.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'M. Jučo „Žalgirio mūšis“ buvo išleistas Vilniuje 1959 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'M. Jučo „Žalgirio mūšis“ buvo išleistas Vilniuje 1959 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Jakštas, J. : _Dlugošas apie Žalgirio
@@ -52,10 +42,8 @@ tags:
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
     Grunwald) 15 July 1410,_ Chicago 1961.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,18 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1918 m.'
+date_start: '1918'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - seimas
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)
 
@@ -33,16 +36,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tą
@@ -52,11 +54,9 @@ Nenurodyta
     kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
     kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
     somą Lietuvos valstybę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

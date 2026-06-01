@@ -1,32 +1,11 @@
 ---
+tipas: zodyno_irasas
+pavadinimas: 'netikėliai'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
----
-  tipas: zodyno_irasas
-  pavadinimas: "netikėliai"
-  sukurta: "2026-05-30"
-  variantai:
-- "netikėliais"
-  aliases: []
-  saltiniai:
-- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  laikotarpis: "Kronikos pratarmės religinio priešo vaizdavimo kontekstas"
-  datos:[]
-  periodas: "viduramziai"
-  periodo_grupes:[]
-  amziai:
-- "XIV"
-  date_start: ""
-  date_end: ""
-  vaidmenys: []
-  dalyviai: []
-  susije_irasai: []
-  patikimumas: "aukštas"
-  tags:[]
-  ---
 # netikėliai
 
 ## Santrauka
@@ -46,19 +25,20 @@ Religinis ir poleminis priešo pavadinimas.
 Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`."
-  pagrindžia:
-    - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`.'
+  pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Kronikos pratarmėje `netikėliai` vartojami kaip religinė priešo etiketė.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
@@ -67,27 +47,24 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
     darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
     kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
     „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
-  citata_rodoma: ""
-  teiginio_tipas: saltinio_vaizdinys
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
     įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
     atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
     darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
-    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais.
+    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
+    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  teiginio_tipas: saltinio_vaizdinys
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -120,6 +97,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
 - [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
+- [[objektai/asmenys/Grigalius IX]]
 - [[objektai/asmenys/Gundramas]]
 - [[objektai/asmenys/Heinmanas, vardu Kindas]]
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
@@ -133,6 +111,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/asmenys/Hertvigas]]
 - [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]
 - [[objektai/posakiai/Jeigu visi darysime taip, kaip padarė mūsų broliai, ir nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mu]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Jonas iš Vienos]]
 - [[objektai/asmenys/Jonas, vadinamas Pope]]
 - [[objektai/asmenys/Judas Makabėjus]]
@@ -181,6 +160,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
 - [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
+- [[objektai/asmenys/Petras Atsiskyrėlis]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
 - [[objektai/zodynas/Pilininkas]]
@@ -220,6 +200,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - [[objektai/zodynas/balista balistininkas arbaletas]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
+- [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/posakiai/kurį gerbė kaip popiežių]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

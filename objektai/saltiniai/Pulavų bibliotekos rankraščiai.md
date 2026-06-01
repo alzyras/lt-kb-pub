@@ -30,13 +30,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio.'
+  teiginys: 'Pulavų bibliotekos rankraštis detalizavo iki 1565 m. Žygimanto Augusto lėšomis gamintus ginklus ir amuniciją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pulavų bibliotekos rankraštis detalizavo iki 1565 m. Žygimanto Augusto lėšomis gamintus ginklus ir amuniciją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA

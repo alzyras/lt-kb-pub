@@ -1,28 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Liubartas'
-sukurta: '2026-04-25'
-variantai:
-  - Liubartui
-  - Gedimino sūnus Liubartas
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1340 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1340'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Liubartas
 
@@ -31,227 +25,111 @@ tags:
 Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos paveldėjimo teisių turėtojas, ilgai gynęs Lietuvos interesus prieš Lenkiją.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Voluinę Liubartas vis dėlto atlaikė.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Lietuvos interesus čia gynė Liubartas.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liubartas.'
-  pagrindžia:
-    - c-004
-- t-005
   teiginys: 'Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą.'
   pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Dar prieš 1322 m. Liubartas Gediminaitis, vedęs paskutinio Vladimiro kunigaikščio Andriaus dukterį Bučą, įgijo svarbias paveldėjimo teises į Voliniją.'
-  pagrindžia:
-    - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-007
+    - c-001
+
+- t-002
   teiginys: 'Remdamasis paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. su Lenkija kovojo dėl kitos palikimo dalies.'
   pagrindžia:
-    - c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
+    - c-002
+
+- t-003
   teiginys: '1373 m. Grigalius XI kreipėsi į Algirdą, Kęstutį ir jų brolį Liubartą, ragindamas pasikrikštyti ir taip baigti karus su ordinu.'
   pagrindžia:
-    - c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.
+    - c-003
+
+- t-004
+  teiginys: 'Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.'
   pagrindžia:
-    - c-009
-    - c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
+    - c-004
+    - c-005
+
+- t-005
+  teiginys: '1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.'
   pagrindžia:
-    - c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-011
+    - c-005
+
+- t-006
   teiginys: 'Taip pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­ ris vedė vienturtę Volynijos kunigaikščio įpėdinę.'
   pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liubartas.'
+  pagrindžia:
+    - c-009
+
+- t-008
+  teiginys: 'Voluinę Liubartas vis dėlto atlaikė.'
+  pagrindžia:
+    - c-008
+
+- t-009
+  teiginys: 'Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.'
+  pagrindžia:
+    - c-010
+
+- t-010
+  teiginys: 'Lietuvos interesus čia gynė Liubartas.'
+  pagrindžia:
     - c-011
-- t-012
+
+- t-011
   teiginys: 'pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio.'
   pagrindžia:
-    - c-012
+    - c-007
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Voluinę Liubartas vis dėlto atlaikė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Voluinę Liubartas vis dėlto atlaikė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuvos interesus čia gynė Liubartas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos interesus čia gynė Liubartas. Bet kadangi tai bu-
-    vo visos valstybės interesai ir kadangi Lenkija taip pat grėsė
-    Kęstučio valdomajai Palenkei, tai Liubartui į pagalbą ateidavo
-    ir broliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
-    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
-    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liubartas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
-    bartas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: Liubartas buvo vienas iš Gedimino sūnų, priėmusių stačiatikių tikėjimą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Keli Gedimino sūnūs (Na­
+    O pats Lietuvos valdovas nebuvo joks
+    krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
+    pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
     rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
     čiatikių srityse, priėmė jų tikėjimą.
-  citata_rodoma: "Keli Gedimino sūnūs (Narimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis stačiatikių srityse, priėmė jų tikėjimą."
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: Liubartas Gediminaitis per vedybas įgijo svarbias paveldėjimo teises į Voliniją.
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio
-    Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis
-
-    (^1) **Podlasę vadinant « Pagiriu », kartais maišoma su Polesie (Pripetės
-    srityje).**
-    (^2) **PSRL, 17, 71 p.**
-
-
-    240 II skyrius: valstybės iškilimas
-
-    įsigijo į Voliniją svarbias paveldėjimo teises
-  citata_rodoma: "Kai Liubartas Gediminaitis dar prieš 1322 m. vedė paskutinio Vladimiro kunigaikščio Andriaus (Jurgio sūnaus) dukterį Bučą, jis įsigijo į Voliniją svarbias paveldėjimo teises."
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: Liubartas iki pat mirties kovojo su Lenkija dėl Volinijos palikimo.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
+    Kai Boleslovas-Jurgis 1340 m. buvo bajorų nunuodytas,
+    Kazimieras taikstėsi užimti Haličą-Voliniją. Lenkams rūpėjo, be
+    kitko, per Raudonąją Rusią ir Padoliją artėti link Juodosios Juros.
     Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liu­
     bartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties
     (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies.
-  citata_rodoma: "Remdamasis stipriomis giminystės — paveldėjimo teisėmis, Liubartas tačiau įsitvirtino Volinijoje, beveik iki pat savo mirties (1385) su Lenkija kovodamas ir dėl kitos palikimo dalies."
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 1373 m. Liubartas buvo įtrauktas į Grigaliaus XI kreipimąsi dėl krikšto.
+    - t-002
+
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Todėl pasiliksiu
+    prie pagonybės ».
     Iš Algirdo laikų paskutinis krikšto bandymas yra žinomas
     1373 m., kai Grigalius XI kreipėsi į Algirdą, Kęstutį ir jųdviejų
     brolį Liubartą^12 , įtikinėdamas, jog pasikrikštijus baigtųsi baisus
     karai tarp lietuvių ir ordino. Popiežius žadėjo atsiųsti ir Kristaus
     mokslo skelbėjų.
-  citata_rodoma: "Iš Algirdo laikų paskutinis krikšto bandymas yra žinomas 1373 m., kai Grigalius XI kreipėsi į Algirdą, Kęstutį ir jųdviejų brolį Liubartą, įtikinėdamas, jog pasikrikštijus baigtųsi baisus karai tarp lietuvių ir ordino. Popiežius žadėjo atsiųsti ir Kristaus mokslo skelbėjų."
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: Citata pagrindžia, kad Liubartui buvo surasta Volynijos įpėdinė kaip dinastinė santuoka.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip
-    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
-    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: Citata pagrindžia Liubarto varžymąsi dėl Haličo ir Volynijos bei jo santuokinį ryšį su Volynijos valdovų gimine.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1340 met.
-    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
-    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
-    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
-    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
-    nigaikščio vienturtę dukterį
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-    - t-010
-- c-011
-  santrauka: 'Taip pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­ ris vedė vienturtę Volynijos kunigaikščio įpėdinę.'
+    - t-003
+
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apskritai reikia pasakyti, kad gausingų savo
@@ -261,16 +139,18 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio.'
+    - t-004
+
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    1340 met.
+    Tai ir buvo vienas iš faktorių, vertusių Lenkijos ponus
+    savo karaliumi pasikviesti plačiosios Lietuvos valdovą Jo­
+    gailą.
+    Bet to laiko dienos rūpesniu Lenkijoje dar labiau buvo der­
+    lingųjų Volynijos žemių priklausomybės klausimas. 1340 met.
     pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
     ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
     Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
@@ -278,11 +158,100 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     nigaikščio vienturtę dukterį^4 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-004
+    - t-005
+
+- c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Apskritai reikia pasakyti, kad gausingų savo
+    sūnų ir dukterų vedybomis Gediminas laimėjo gana daug. Jo
+    politikos sistemoje tai buvo vienas pagrindinis ramstis. Taip
+    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
+    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tai ir buvo vienas iš faktorių, vertusių Lenkijos ponus
+    savo karaliumi pasikviesti plačiosios Lietuvos valdovą Jo­
+    gailą.
+    Bet to laiko dienos rūpesniu Lenkijoje dar labiau buvo der­
+    lingųjų Volynijos žemių priklausomybės klausimas. 1340 met.
+    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
+    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
+    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
+    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
+    nigaikščio vienturtę dukterį^4 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet kadangi tai bu-
+    vo visos valstybės interesai ir kadangi Lenkija taip pat grėsė
+    Kęstučio valdomajai Palenkei, tai Liubartui į pagalbą ateidavo
+    ir broliai. Buvo ne kartą ten nuvykęs ir Algirdas, bet dažniausiai
+    nuvykdavo Kęstutis.
+    Voluinę Liubartas vis dėlto atlaikė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-009
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
+    bartas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos valstybei grėsė pavo-
+    jus pakrikti. O momentas buvo labai svarbus: tuo metu smar-
+    kiai padidėjo ordino puolimai, ir vienam, ordino pasienį valdan-
+    čiam, Kęstučiui būtų buvę sunku atsispirti.
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dėl Voluinės
+    ir prasidėjo kovos su lenkais, ėjusios net keletą dešimtmečių.
+    Lietuvos interesus čia gynė Liubartas. Bet kadangi tai bu-
+    vo visos valstybės interesai ir kadangi Lenkija taip pat grėsė
+    Kęstučio valdomajai Palenkei, tai Liubartui į pagalbą ateidavo
+    ir broliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -292,10 +261,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Boleslovas-Jurgis II]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/autoriai/J. Puzyna]]
-- [[objektai/grupes/Karijotaičiai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]]

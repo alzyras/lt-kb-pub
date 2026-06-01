@@ -46,22 +46,22 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad 273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP, 5, p. 161; PKD, p. 42—43).'
   pagrindžia:
-    - c-003
+    - c-005
 
-- t-005
+- t-003
   teiginys: 'Dusburgietis teigia, kad pakilę pasiėmė šią šventą relikviją ir džiūgaudami išėjo iš rūsio.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad kad jos relikvijas nusineštumėte į Prūsijos žemę, o ten jas užlaikytumėte didesnėje pagarboje nei čia“.'
   pagrindžia:
-    - c-004
+    - c-003
 
-- t-002
+- t-005
   teiginys: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
   pagrindžia:
     - c-002
@@ -105,9 +105,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     kad jos relikvijas nusineštumėte  į Prūsijos žemę, o ten jas užlaikytumėte didesnėje
@@ -122,7 +122,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
@@ -134,9 +134,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą
@@ -146,7 +146,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

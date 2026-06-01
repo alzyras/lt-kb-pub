@@ -73,4 +73,3 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/Puslapis 77]]

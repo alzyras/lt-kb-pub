@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Zemovitas (Mozūrijos kunigaikštis)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1260 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1260'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - sutartis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Zemovitas (Mozūrijos kunigaikštis)
 
@@ -29,16 +25,15 @@ tags:
 1260 m. birželio 5 d. jis ir Mozūrijos kunigaikštis Zemovitas sudarė eilinę dar neužgrobtos Sūduvos pasidalijimo sutartį, sustiprindami tarpusavio sąjungą.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimo prieš Lietuvą išvakarėse Ordi-
@@ -47,11 +42,9 @@ tags:
     gaikštis Zemovitas sudarė eilinę dar ne-
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

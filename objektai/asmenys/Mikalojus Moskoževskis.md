@@ -19,17 +19,17 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Tačiau Moskoževskis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­ mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Niekas nebuvo išleista iš akių Moskoževskiui ginant jam patikėtą pilį: atakas atgieždavo sumaniais ir ūmiais išpuoliais; priešo padarytą žalą ir išardas taip apsukriai ir išmoningai užtaisydavo, jog atrodė, kad įgula tik stiprė­ janti, vis daugiau įgaudama.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-003
   teiginys: 'Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet niekas neįstengė palaužti lenkų narsos ir ištvermės Moskoževskio gynybos linijose.'
   pagrindžia:
     - c-001
@@ -61,9 +61,9 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pamažu ėmė telktis išsisklaidę
@@ -79,9 +79,9 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­

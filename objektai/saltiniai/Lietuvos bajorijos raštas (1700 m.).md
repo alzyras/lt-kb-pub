@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos bajorijos raštas (1700 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1700 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1700'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
   - miestas
   - saltinis
+amziai:
+  - 'XVII'
 ---
 # Lietuvos bajorijos raštas (1700 m.)
 
@@ -30,17 +24,16 @@ tags:
 1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. “ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
+  teiginys: 'Lietuvos bajorijos rašte totoriai apibūdinti kaip lengvoji raitija, gerai aprūpinta ir ginkluota kaip kazokai.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.'
-  pagrindžia:
-    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
+  santrauka: 'Lietuvos bajorijos rašte totoriai apibūdinti kaip lengvoji raitija, gerai aprūpinta ir ginkluota kaip kazokai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1700 m. lapkričio 19-24 d. Valki-
@@ -60,36 +53,6 @@ tags:
     konfiskuoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    “
-
-    suvažiavimas, priėmęs „Valkininkų nuta-
-    rimą“, kuriuo buvo įkurta LDK bajorijos
-    generalinė konfederacija, suformuoti ypa-
-    tingieji LDK valdžios organai, nutarta atimti
-    iš Sapiegų jų turėtas pareigybes, o dvarus
-    konfiskuoti. Priėmusi nutarimą respubli-
-    konų kariuomenė nužygiavo į Vilnių, kur
-    Šnipiškių priemiestyje įrengtoje stovykloje,
-
-    vykdant Valkininkų nutarimą, buvo iš
-    esmės suformuota nauja LDK kariuomenė -
-    7500 etatinių vienetų. Išsireikalavusi iš
-    Vilniaus miesto kontribuciją, respublikonų
-    kariuomenė iš sostinės pasitraukė į naujas
-    dislokavimo vietas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

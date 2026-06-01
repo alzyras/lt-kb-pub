@@ -26,19 +26,19 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams •328 • VIII PRIEDAS.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '448 6) Stepono Batoro parašas iš laiško, rašyto 1576 m. gruodžio 20 d. / p. 448 - 7) Vilniaus vyskupo ir kardinolo ku­ nigaikščio Jurgio Radvilos pa­ rašas - Jerzij C ard.'
+  teiginys: 'Dviejų karaliaus Stepono Batoro laiškų, rašytų Radviloms, turinys: apie muitus ir mokesčius Vilniaus pirkliams ir miestiečiams •328 • VIII PRIEDAS.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '448 6) Stepono Batoro parašas iš laiško, rašyto 1576 m. gruodžio 20 d. / p. 448 - 7) Vilniaus vyskupo ir kardinolo ku­ nigaikščio Jurgio Radvilos pa­ rašas - Jerzij C ard.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus Žygimanto Senojo privilegija prieš eretikus,
@@ -59,9 +59,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčia (planas) /
@@ -114,4 +114,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

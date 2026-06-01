@@ -45,19 +45,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Jis, pirmasis iš visų Lietuvos kuni­ gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­ šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.'
+  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Jis, pirmasis iš visų Lietuvos kuni­ gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­ šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1. 406, pri­
@@ -88,9 +88,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     -  •  -
@@ -122,7 +122,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

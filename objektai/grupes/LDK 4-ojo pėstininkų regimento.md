@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'LDK 4-ojo pėstininkų regimento'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - pilis
@@ -25,16 +16,15 @@ tags:
 Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstininkų regimento (pulko) dvi sumažintos kuopos, 7-ojo fuzilierių regimento dvi sumažintos kuopos, LDK tribunolo vengrų vėliavos dalinio 50 karių, artilerijos ir inžinerijos korpusų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos pajėgos
@@ -49,11 +39,9 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
     buvo pilies arsenale stacionariose po-
     zicijose). Jiems talkino apie 500 įvairiai
     ginkluotų civilių Vilniaus gyventojų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

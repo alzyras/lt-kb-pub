@@ -1,20 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„Koks didelis Tu ir kokia didelė Tavo tėvynė.“'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valstybė
@@ -26,16 +16,15 @@ tags:
 Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė tokius žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“ Ypač Vytauto kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Enėjas Silvijus Pikolominis „Knygoje apie vyrus, garsius savo gyvenimu“ Vytautui skyrė žodžius: „Koks didelis Tu ir kokia didelė Tavo tėvynė.“'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien
@@ -48,11 +37,9 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
     kultas pradėtas puoselėti XVI a., kai Lietuvos visuomenė suskato ieškoti
     ideologinės atspirties prieš Lenkijos (Jogailaičių) planą sukurti valstybių
     sąjungą, kurios hegemonė būtų Lenkija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

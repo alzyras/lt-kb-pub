@@ -1,25 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'generalgubernatorius'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1801 m.'
   - '1861 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1861'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
+amziai:
+  - 'XIX'
 ---
 # generalgubernatorius
 
@@ -28,24 +25,26 @@ tags:
 Jį valdė Vilniaus generalgubernatorius.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Rusų šiaurės vakarų kraštu vadintą sritį valdė Vilniaus generalgubernatorius.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Jį valdė Vilniaus generalgubernatorius.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusų šiaurės vakarų kraštu vadintą sritį valdė Vilniaus generalgubernatorius.'
+  santrauka: 'Jį valdė Vilniaus generalgubernatorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
@@ -53,15 +52,13 @@ Jį valdė Vilniaus generalgubernatorius.
     sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
     šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
     bernatorius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Imperijos sos-
@@ -71,13 +68,11 @@ Jį valdė Vilniaus generalgubernatorius.
     buvo ir šiose gubernijose dislokuota kariuomenė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
@@ -88,19 +83,39 @@ Jį valdė Vilniaus generalgubernatorius.
     išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
     reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
     vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
+    įstatymų aktuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-004
+  santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Į didesnius dalinius sukilėliai jau nesitelkė, vadovavosi
+    partizaninio karo nedidelių antpuolių taktika.
+    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
+    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
+    ryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
+    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/rusinimas]]
 - [[objektai/ivykiai/1863 m. sukilimas]]
 - [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/asmenys/Ivanas Kornilovas]]
 - [[objektai/asmenys/Konstantinas Kalinauskas]]
 - [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas]]
@@ -108,9 +123,5 @@ Jį valdė Vilniaus generalgubernatorius.
 - [[objektai/asmenys/Michailas Muravjovas]]
 - [[objektai/asmenys/Michailas Muravjovas-Korikas]]
 - [[objektai/asmenys/T. Dalevskis]]
-- [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]
-- [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/rusinimas rusinimo politika]]
-- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
-- [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

@@ -79,7 +79,6 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Vilniaus pirkliai]]

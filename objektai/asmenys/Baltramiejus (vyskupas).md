@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Baltramiejus (vyskupas)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1324'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
   - krikštas
   - popiežius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Baltramiejus (vyskupas)
 
@@ -30,16 +26,15 @@ tags:
 Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, vengdamas savo laiškuose popiežiui surašytų krikšto pažadų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Naugardu
@@ -52,10 +47,8 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
     popiežiui surašytų krikšto pažadų. Politinė padėtis buvo susida­
     riusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­
     mino nespaudė jokia koalicija, nei baimino koks sosto pretendentas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

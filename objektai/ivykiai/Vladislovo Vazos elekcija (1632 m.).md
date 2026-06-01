@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vladislovo Vazos elekcija (1632 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1632 m.'
+date_start: '1632'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - ivykis
+amziai:
+  - 'XVII'
 ---
 # Vladislovo Vazos elekcija (1632 m.)
 
@@ -31,16 +34,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl
@@ -51,10 +53,8 @@ Nenurodyta
     elekcija užtruko vos^1 /2
     valandos, nes Vladislovo
     priešų nebuvo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

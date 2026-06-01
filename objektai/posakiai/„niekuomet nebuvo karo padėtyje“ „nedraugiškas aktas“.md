@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - posakis
@@ -21,51 +18,53 @@ tags:
 Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos sutartimi“). Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
+    Lietuvai pripažinta teritorija buvo gana
+    artima 1795 m. teritorijai. Tačiau už tai A. Jofė paprašė karinės sąjungos
+    su Sovietų Rusija (lietuviai apie tai pranešė britams, manydami su jų pa-
+    rama sumažinti lenkų apetitus Vilniui, tačiau prancūzai tokius ketinimus
+    neutralizavo). Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
     vuodami jos dydį katalikų tikėjimo paplitimu, etnografiniais ir istoriniais
     duomenimis, pasitelkę savo delegacijos narių žydų (S. Rozenbaumo) ir
     baltarusių (D. Semaško) argumentus, lietuviai patenkino dar vieną A.
     Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
     karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
     sutartimi“).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apskritai 1920 m. liepos 12 d.
+    pasirašyta Taikos sutartis su Sovietų Rusija buvo didelis Lietuvos diplo-
+    matijos laimėjimas mezgant ne tik savo šalies santykius su Rusija, bet ir su
+    Lenkija. Negalėjo šios sutarties ignoruoti ir Vakarų valstybės.
     Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko
     slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
     Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
     giškas aktas“ prieš Lietuvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

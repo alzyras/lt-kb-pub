@@ -26,13 +26,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '300 ## Puslapis 317 IV KNYGA Paliko vaito pareigas to paties karaliaus sutikimu kovo 11 d. - 1620 Burmistrai: nuo katalikų - Petras Pliuščius - 1620 nuo stačiatikių - Leonas Mamoničius 11.'
+  teiginys: 'Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,

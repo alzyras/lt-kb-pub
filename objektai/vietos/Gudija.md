@@ -1,30 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Gudija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1234 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'viduramžiai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIII'
-  - 'XXI'
 date_start: '1234'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - valstybė
   - vieta
+amziai:
+  - 'XIII'
+  - 'XXI'
 ---
 # Gudija
 
@@ -33,37 +26,40 @@ tags:
 Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie Mohilnos (Nemuno aukštupio dabartinėje Gudijoje).'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Liepos 17-osios nutarimu iš „buvusių laisvų
+    Ištremtųjų
+    vietas turėjo užimti atkelti milijonai vokiečių.
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie Mohilnos (Nemuno aukštupio dabartinėje Gudijoje).'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas
+    (^182) II SKYRIUS: VALSTYBĖS IŠKILIMAS
+    krūvos. Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas
     (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo
     prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie
     Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
@@ -71,8 +67,6 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
     kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

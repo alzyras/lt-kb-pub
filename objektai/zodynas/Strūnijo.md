@@ -1,13 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: strūnijo
-sukurta: '2026-04-30'
-variantai:
-  - strūnijo ar dailidavo
+tipas: zodyno_irasas
+pavadinimas: 'strūnijo'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # strūnijo
 
@@ -20,24 +17,26 @@ Statė, įrengė, dailino, aprūpino savo jėgomis. Vartojamas apie trobesių į
 Pagrindinė forma: `strūnijo`.
 Vartojamos formos: `strūnijo ar dailidavo`.
 
+## Pastabos
+
+- Forma archajiška; tikslus leksinis lemmas iš teksto neišskirtas, bet funkcija aiški.
+
 ## Teiginiai
-- t-003
-  teiginys: 'Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė.'
   pagrindžia:
     - c-002
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
@@ -45,15 +44,13 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
         paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
         yra pačių dirbti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-002
-  santrauka: 'Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys
@@ -61,18 +58,12 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių
         dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
         nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
-
-## Pastabos
-
-- Forma archajiška; tikslus leksinis lemmas iš teksto neišskirtas, bet funkcija aiški.
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

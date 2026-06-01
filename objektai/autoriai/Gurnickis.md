@@ -28,13 +28,14 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
 ## Teiginiai
 
 - t-001
-  teiginys: 'Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurnickis šitaip pamini: „Neilgai trukus po to karalius važiavo į Lietuvą, o jam esant Vilniuje, 1540 metais, atėjo ži­ nia, kad karaliui Jonui (vengrų ka­ raliui, Žygimanto Senojo.'
+  teiginys: 'Gurnickis paminėjo, kad 1540 m. Vilniuje džiaugtasi žinia apie karaliaus Jono sūnaus gimimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gurnickis paminėjo, kad 1540 m. Vilniuje džiaugtasi žinia apie karaliaus Jono sūnaus gimimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il

@@ -1,27 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'LTSR Mokslų Akademijos Istorijos Institutas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'VIII'
-  - 'XX'
 date_start: '1966'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - mokslininkas
   - tauta
+amziai:
+  - 'XX'
 ---
 # LTSR Mokslų Akademijos Istorijos Institutas
 
@@ -30,16 +23,15 @@ tags:
 LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje ; archeologijos skyrių red. A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     E. Danilaitė domėjosi brūkšniuotąja keramika
@@ -51,11 +43,9 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
     Akademijos Istorijos Institutas leidžia kas antri metai knygas :
     _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
     skyrių red. A. Tautavičius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

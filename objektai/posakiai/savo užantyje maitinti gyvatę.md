@@ -1,10 +1,6 @@
 ---
 tipas: posakis
 pavadinimas: 'savo užantyje maitinti gyvatę'
-sukurta: '2026-05-05'
-variantai:
-  - 'užantyje maitinti gyvatę'
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -13,24 +9,13 @@ datos:
   - '1430 m.'
   - '1930 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-bukle: juodrastis
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-05'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # savo užantyje maitinti gyvatę
 
@@ -47,37 +32,42 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 - užantyje maitinti gyvatę
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Atsisakydamas jį priimti, Jo­ gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo užantyje maitinti gyvatę.'
+  teiginys: 'Atsisakydamas Vytautą priimti, Jogaila teigė, kad laikymasis su juo išvien reikštų savo užantyje maitinti gyvatę.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jo­
+    6 d. Jogaila atsakė į šį Ordino raštą.
+    Be kitų reikalų, liečiančių Mozūrijos klausimą, Jogaila tame
+    rašte pažymėjo, kad pusbrolį priimti atsisakąs, motyvuodamas
+    tuo, jog nepasitikįs pabėgėlio tiesumu ir negalįs jo priėmimo su­
+    derinti su savo krašto gerove. Atsisakydamas jį priimti, Jo­
     gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
     užantyje maitinti gyvatę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Atsisakydamas jį priimti, Jo­ gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo užantyje maitinti gyvatę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Atsisakydamas jį priimti, Jo­
+    Be kitų reikalų, liečiančių Mozūrijos klausimą, Jogaila tame
+    rašte pažymėjo, kad pusbrolį priimti atsisakąs, motyvuodamas
+    tuo, jog nepasitikįs pabėgėlio tiesumu ir negalįs jo priėmimo su­
+    derinti su savo krašto gerove. Atsisakydamas jį priimti, Jo­
     gaila pažymėjo, jog laikymasis su Vytautu išvien reikštų savo
     užantyje maitinti gyvatę. Baigdamas savo atsakymą, didysis
     Lietuvos kunigaikštis pastebi magistrui, kad šis paliautų toliau
@@ -85,11 +75,9 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
     Skirgailai^1 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

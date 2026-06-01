@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'SSRS liaudies deputatų II suvažiavimas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -20,27 +17,30 @@ tags:
 Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pasmerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padarinių su Baltijos valstybių okupacija nesusiejo.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pagaliau 1989 m. gruodį,
+    1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
+    nėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per
+    protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
+    ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio
+    žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
+    Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
+    rios priminė aukas ir didelių netekčių skausmą. Pagaliau 1989 m. gruodį,
     veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
     smerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padari-
     nių su Baltijos valstybių okupacija nesusiejo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

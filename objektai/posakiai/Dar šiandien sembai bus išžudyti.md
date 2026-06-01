@@ -19,16 +19,16 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
 - t-001
   teiginys: 'Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje

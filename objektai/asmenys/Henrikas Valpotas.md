@@ -31,16 +31,16 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­ trą Pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras brolis Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą) dieną ir.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad paėmus Akoną, tas pats brolis Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus, kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais 154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paėmus Akoną, tas pats brolis
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­

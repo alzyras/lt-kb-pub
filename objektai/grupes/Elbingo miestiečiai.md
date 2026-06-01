@@ -25,13 +25,13 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis tokiai galybei atvirame lauke, susimetė į Liefardo malūną, kuris buvo įtvirtintas sakytum pilis.'
   pagrindžia:
     - c-002
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
   pagrindžia:
     - c-001
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -70,7 +70,7 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,8 +88,8 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-001
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'

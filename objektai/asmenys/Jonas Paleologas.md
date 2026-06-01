@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Paleologas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Konstantinopolio ciesorių Manuelį, už kurio sūnaus Jono Paleologo buvo išleidęs savo dukraitę — Maskvos kunigaikš­ tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais, apie ką jis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai jie vieną kartą puolė Bosniją (prie Adrijati­
@@ -46,11 +36,9 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
     tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
     apie ką jis pats gyrėsi Zigmantui. Turkų sultonas Muradas II
     siuntė Vytautui į Smolenską dovanų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -59,6 +47,7 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/asmenys/Muradas II]]
 - [[objektai/asmenys/Paleologas]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/asmenys/Jonas]]

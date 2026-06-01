@@ -27,12 +27,12 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad 258 D.— Resel (dab. Rešelis)— į šiaurės rytus nuo Olštino. Vardas kildinamas iš prūsų kalbos — GAO, p. 141; Rymut K., Nazwy.., p. 205. Iš pradžių kryžiuočių pilaitė, medžiožemių įtvirtinimai. Varmės vyskupo pilis statyta 1350—1450 m. Sudegusi XIII a. vidurio.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
   pagrindžia:
     - c-001
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'

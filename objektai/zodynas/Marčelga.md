@@ -1,11 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: marčelga
-sukurta: '2026-04-30'
+tipas: zodyno_irasas
+pavadinimas: 'marčelga'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # marčelga
 
@@ -18,17 +17,20 @@ Vestuvių tvarkytojas ar jaunosios rengėjas. Terminas nurodo vyresnįjį tarp s
 Pagrindinė forma: `marčelga`.
 Papildomos aiškios formos neišskirtos.
 
+## Pastabos
+
+- Tiksli ceremoninė pareiga iš teksto matosi tik bendrais bruožais.
+
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Marčelga buvo jaunojo palydos vyresnysis arba gaspadorius, taip vadintas todėl, kad martavo marčią.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir
@@ -37,17 +39,11 @@ Papildomos aiškios formos neišskirtos.
         vadinos, ta visą godą^443 ir žmonystą^444 jaunojo pusės turėjo vesti, svečius, užvis jaunosios gentis,
         riešutais vaišino. Paskui visi linksminos ir gėrė porą dienų nuotakos namuose, kas vadinos
         ūkvaizdžius pergerti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Pastabos
-
-- Tiksli ceremoninė pareiga iš teksto matosi tik bendrais bruožais.
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

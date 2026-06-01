@@ -1,27 +1,22 @@
 ---
 tipas: grupe
 pavadinimas: 'Didžlenkiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1410 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
+  - '1417 m.'
 date_start: '1410'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+date_end: '1417'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - didikas
   - grupe
   - karas
+amziai:
+  - 'XV'
 ---
 # Didžlenkiai
 
@@ -30,22 +25,20 @@ tags:
 Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lietuvą, visiškai neatsižvelgdamas nei į lenkų bajorų, ypač didžlenkių, pasipriešinimą, kurie ypa­ tingai buvo žygio pasisekimu suinteresuoti. Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet Vytautas ir dabar, kaip ir 1410 m.,
@@ -56,15 +49,13 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
     Brodnicos mūrų, o pats paskubom sugrįžo į Lietuvą^1 ). Todėl
     nė kiek netenka abejoti Vytautą prisidėjus prie to, kad to karo
     rezultatai buvo menki.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila vedė trečią žmoną. Dėl to iškilo konfliktas, nes kai kurie
@@ -74,13 +65,25 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
     vyrui, kuri jai išrinks lenkai, pats gi su žmona išsikelsiąs i pa­
     veldimą Lietuvą, kame pagal tą įpėdinystės teisę viešpatautų
     ir jo sūnūs, sulaukti iš paskutinės žmonos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+- c-003
+  santrauka: 'Dėl to iškilo konfliktas, nes kai kurie didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos karūnacijai, remdamiesi padaryta priesaika Jadvygai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1417 m.
+    Jogaila vedė trečią žmoną. Dėl to iškilo konfliktas, nes kai kurie
+    didikai, ypač didžlenkiai, pasipriešino jo paskutiniosios žmonos
+    karūnacijai, remdamiesi padaryta priesaika Jadvygai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

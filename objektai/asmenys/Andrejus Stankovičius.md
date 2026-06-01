@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'Świadkowie: Miszko Wezgałowicz Namiestnik Wileński i Woskowniczy Hospodarski, Pan Zanko Iwanowicz Horodniczy Wileński i Pan Andrej Stankowicz.'
+  teiginys: 'Andrejus Stankovičius buvo vienas iš Vilniaus namo dokumento liudininkų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Andrejus Stankovičius buvo vienas iš Vilniaus namo dokumento liudininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio namo padėtis dokumen­

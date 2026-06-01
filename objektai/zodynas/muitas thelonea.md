@@ -25,24 +25,24 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 
 ## Teiginiai
 
-- t-003
-  teiginys: '329 ## Puslapis 346 VILNIAUS MIESTO ISTORIJA// TOMAS exactione constitutorum theloneorum factae per nos quoque reno­ vatae et reformatae obviam eant.'
+- t-001
+  teiginys: 'Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS VII DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ, RAŠYTŲ RADVILOMS, TURINYS: APIE MUITUS IR MOKESČIUS VILNIAUS PIRKLIAMS IR MIESTIEČIAMS Autentiškų karaliaus Stepono laiškų, rašytų.'
-  pagrindžia:
-    - c-001
-
 - t-002
-  teiginys: 'Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­ ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­ čius.'
+  teiginys: 'Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­ ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­ čius.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Torunės seime, kilus ginčams
@@ -68,9 +68,10 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
+  santrauka: 'Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
@@ -102,9 +103,10 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
+  santrauka: 'Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     329
@@ -126,7 +128,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -139,6 +141,6 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/asmenys/Steponas]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Vilniaus pirkliai]]

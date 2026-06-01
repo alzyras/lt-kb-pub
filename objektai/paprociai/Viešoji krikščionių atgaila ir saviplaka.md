@@ -42,14 +42,14 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].'
   pagrindžia:
-    - c-001
+    - c-002
     - c-003
-    - c-004
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai dar buvo pasaulietis, jis kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti į vienuolius, darė atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame mieste su procesija basomis ir plika galva, puolė.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad toji mat klimpo į nuodėmes iš vargo, o jis — džiaugdamasis pertekliumi, lengvapėdiškai savo nuodėmėmis sukurstęs prieš save dievo rūstybę; šitokių minčių kamuojamas, jis kiaurą naktį nesudėjo nė bluosto. Rytą, patyręs, jog anksčiau minėtuosius Hartmaną bei.'
@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o
@@ -69,7 +69,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie viešąją krikščionių atgailą
@@ -104,7 +104,7 @@ Nenurodyta
     - t-001
     - t-003
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai dar buvo pasaulietis, jis

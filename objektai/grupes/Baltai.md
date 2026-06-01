@@ -27,79 +27,79 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 
 ## Teiginiai
 
-- t-013
+- t-001
   teiginys: 'Dusburgietis teigia, kad romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,— prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   pagrindžia:
-    - c-012
+    - c-006
 
-- t-019
+- t-002
   teiginys: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
   pagrindžia:
-    - c-018
+    - c-001
 
-- t-010
+- t-003
   teiginys: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
   pagrindžia:
-    - c-009
+    - c-003
 
-- t-016
+- t-004
   teiginys: 'Dusburgietis teigia, kad baltų filologijos įvadas.— V., 1982.'
-  pagrindžia:
-    - c-015
-
-- t-008
-  teiginys: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
-  pagrindžia:
-    - c-007
-
-- t-011
-  teiginys: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
-  pagrindžia:
-    - c-010
-
-- t-017
-  teiginys: 'Dusburgietis teigia, kad apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais —Iš lietuvių etnogenezės, V., 1981, p. 5—11.'
-  pagrindžia:
-    - c-016
-
-- t-015
-  teiginys: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
-  pagrindžia:
-    - c-014
-
-- t-012
-  teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
   pagrindžia:
     - c-011
 
-- t-020
-  teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
-  pagrindžia:
-    - c-019
-
-- t-018
-  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
-  pagrindžia:
-    - c-017
-
-- t-009
-  teiginys: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
+- t-005
+  teiginys: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
   pagrindžia:
     - c-008
 
-- t-014
-  teiginys: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
+- t-006
+  teiginys: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
+  pagrindžia:
+    - c-012
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais —Iš lietuvių etnogenezės, V., 1981, p. 5—11.'
+  pagrindžia:
+    - c-010
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
+  pagrindžia:
+    - c-005
+
+- t-009
+  teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
   pagrindžia:
     - c-013
 
-- t-021
+- t-010
+  teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
+  pagrindžia:
+    - c-002
+
+- t-011
+  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  pagrindžia:
+    - c-009
+
+- t-012
+  teiginys: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
+  pagrindžia:
+    - c-004
+
+- t-013
+  teiginys: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
+  pagrindžia:
+    - c-007
+
+- t-014
   teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
   pagrindžia:
-    - c-020
+    - c-014
 
 ## Reikšmingi paminėjimai
 
-- c-018
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
@@ -116,9 +116,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-002
 
-- c-019
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Karo stovis su skandinavais nusitęsė beveik iki
@@ -133,9 +133,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-010
 
-- c-009
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
@@ -147,9 +147,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-003
 
-- c-008
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pasireiškė ir kitais atvejais, kovojant prieš vokiečių feodalinę agresiją. Taigi Lietuvos
@@ -160,9 +160,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-012
 
-- c-014
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
@@ -175,9 +175,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-008
 
-- c-012
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
@@ -186,9 +186,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-001
 
-- c-013
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
@@ -202,9 +202,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-013
 
-- c-007
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai ir Lietuva
@@ -221,9 +221,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-005
 
-- c-017
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2004
@@ -243,9 +243,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-011
 
-- c-016
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
@@ -255,9 +255,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-007
 
-- c-015
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kabelka J. Baltų filologijos įvadas.— V., 1982.
@@ -287,9 +287,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-004
 
-- c-010
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
@@ -308,9 +308,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-006
 
-- c-011
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
@@ -327,9 +327,9 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-009
 
-- c-020
+- c-014
   santrauka: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -343,7 +343,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai

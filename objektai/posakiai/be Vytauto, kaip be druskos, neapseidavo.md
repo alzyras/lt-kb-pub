@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'be Vytauto, kaip be druskos, neapseidavo'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karas
@@ -26,16 +17,15 @@ tags:
 Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, neapseidavo ir kuriai jo nuopelnai buvo dideli, beveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­ nymui karūnuotis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo sumanymui karūnuotis.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkų bajorija, kuriai Vytauto nuopelnai buvo dideli, beveik visa pasipriešino jo sumanymui karūnuotis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vienu žodžiu, kaip už­
@@ -47,11 +37,9 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
     beveik visa, kartu su Olesnickiu priešaky, pasipriešino jo suma­
     nymui karūnuotis. Iškilo dideli ginčai, kurie vos neišprovokavo
     karo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

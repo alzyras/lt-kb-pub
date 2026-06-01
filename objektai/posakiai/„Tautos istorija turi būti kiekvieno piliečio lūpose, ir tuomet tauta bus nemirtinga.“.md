@@ -1,25 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1801 m.'
   - '1859 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1859'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
+amziai:
+  - 'XIX'
 ---
 # „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
 
@@ -28,16 +24,15 @@ tags:
 Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesuvaidintas, dažnai pamokančias mūsų tautos istorines patirtis.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas,
@@ -49,11 +44,9 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -63,6 +56,7 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
+- [[objektai/autoriai/Mikalojus Akelaitis]]
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]

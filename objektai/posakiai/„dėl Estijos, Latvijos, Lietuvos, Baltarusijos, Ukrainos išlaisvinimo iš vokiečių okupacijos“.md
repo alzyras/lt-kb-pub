@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -18,27 +15,32 @@ tags:
 Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliucijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gavusi naujo Vo-
+    kietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba
+    pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą. Kabinetas
+    pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
     Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
     cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
     metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
     kariuomenę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

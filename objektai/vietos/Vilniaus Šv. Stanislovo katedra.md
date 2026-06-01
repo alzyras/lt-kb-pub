@@ -27,18 +27,18 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '1 9 1 ## Puslapis 208 VILNIAUS MIESTO ISTORIJA / TOMAS 8.'
+  teiginys: 'Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila taip pat
@@ -56,7 +56,8 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
+  santrauka: 'Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1 9 1

@@ -1,26 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pašauktinė kariuomenė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1506 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 date_start: '1506'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # pašauktinė kariuomenė
 
@@ -29,77 +22,30 @@ tags:
 Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau. Lietuvos kariuomenė XV a. Pašauktinės kariuomenės silpnąsias savybes (santykinai nedidelę kovinę patirtį, ne visada patenkinamą discipliną) bandyta kompensuoti samdiniais - kariais profesionalais.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Pašauktinės kariuomenės silpnąsias savybes (santykinai nedidelę kovinę patirtį, ne visada patenkinamą discipliną) bandyta kompensuoti samdiniais - kariais profesionalais.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: 'Artilerija to meto Lietuvos kariuomenėje dar nevaidino didesnio savarankiško vaidmens, bet buvo įprastas atributas, kuris mūšio lauke vis dėlto praversdavo.'
   pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė.'
+  pagrindžia:
     - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš kitos pusės, nesant masinės reguliarios
-    kariuomenės, bajorų pašauktinės kariuo-
-    menės mobilizacija galėdavo užtrukti tol,
-    kol jos jau nebereikėdavo, nes po apiplė-
-    šimo totoriai stengdavosi pasitraukti kuo
-    sparčiau. Būtent šios struktūrinės-orga-
-    nizacinės Lietuvos karinės organizacijos
-    silpnosios vietos leido totoriams dažnai
-
-    nebaudžiamiems plėšti LDK žemes xv a.
-    pabaigoje - xvi a. pradžioje. Tiesa, dar
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos kariuomenė
-
-    XV a. pabaigoje - xvi a. pradžioje Lietuvos
-    karinės organizacijos struktūros pagrindą
-    vis dar sudarė kilmingųjų pašauktinė raite-
-    lių kariuomenė. Kaip ir kiekvienoje rite-
-    rių kariuomenėje Lietuvos kariuomenėje
-    buvo sunkiau ir lengviau ginkluotų raite-
-    lių, stipresnių ir silpnesnių dalinių. Karinės
-    patirties ir ginkluotės kokybės požiūriu
-    vertingiausius dalinius sudarydavo di-
-    džiojo kunigaikščio dvaro vėliava bei di-
-    dikų privatūs daliniai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Pašauktinės kariuomenės silpnąsias savybes (santykinai nedidelę kovinę patirtį, ne visada patenkinamą discipliną) bandyta kompensuoti samdiniais - kariais profesionalais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Artilerija
@@ -116,15 +62,33 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Iš kitos pusės, nesant masinės reguliarios
+    kariuomenės, bajorų pašauktinės kariuo-
+    menės mobilizacija galėdavo užtrukti tol,
+    kol jos jau nebereikėdavo, nes po apiplė-
+    šimo totoriai stengdavosi pasitraukti kuo
+    sparčiau. Būtent šios struktūrinės-orga-
+    nizacinės Lietuvos karinės organizacijos
+    silpnosios vietos leido totoriams dažnai
+
+    nebaudžiamiems plėšti LDK žemes xv a.
+    pabaigoje - xvi a. pradžioje. Tiesa, dar
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Artilerija to meto Lietuvos kariuomenėje dar nevaidino didesnio savarankiško vaidmens, bet buvo įprastas atributas, kuris mūšio lauke vis dėlto praversdavo.'
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Artilerija
@@ -139,12 +103,33 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 
     Totorių įsiveržimas
 
-    1506 m.
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos kariuomenė
+
+    XV a. pabaigoje - xvi a. pradžioje Lietuvos
+    karinės organizacijos struktūros pagrindą
+    vis dar sudarė kilmingųjų pašauktinė raite-
+    lių kariuomenė. Kaip ir kiekvienoje rite-
+    rių kariuomenėje Lietuvos kariuomenėje
+    buvo sunkiau ir lengviau ginkluotų raite-
+    lių, stipresnių ir silpnesnių dalinių. Karinės
+    patirties ir ginkluotės kokybės požiūriu
+    vertingiausius dalinius sudarydavo di-
+    džiojo kunigaikščio dvaro vėliava bei di-
+    dikų privatūs daliniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-004
 

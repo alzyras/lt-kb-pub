@@ -41,12 +41,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net
@@ -57,7 +57,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie didįjį saulės užtemimą

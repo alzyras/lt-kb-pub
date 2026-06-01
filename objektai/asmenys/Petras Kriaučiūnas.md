@@ -25,24 +25,24 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.'
-  pagrindžia:
-    - c-001
-
 - t-002
-  teiginys: 'Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.'
+  teiginys: 'Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet ir čia
@@ -54,9 +54,9 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia net buvo mokoma lie-
@@ -69,7 +69,7 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -93,7 +93,7 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

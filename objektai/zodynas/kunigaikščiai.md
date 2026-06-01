@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kunigaikščiai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - kunigaikštis
@@ -21,16 +18,15 @@ tags:
 Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais valdovais — kunigaikščiais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais valdovais — kunigaikščiais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais valdovais — kunigaikščiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Anų laikų svetimšaliai juos vadin-
@@ -43,11 +39,9 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
     tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai
     tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais
     valdovais — kunigaikščiais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -71,6 +65,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/daiktai/Brangieji metalai]]
 - [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/asmenys/Dovydas]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
@@ -96,6 +91,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/daiktai/Goštauto liepa]]
 - [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
 - [[objektai/autoriai/Gurnickis]]
+- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/grupes/Haličo kunigaikščiai]]
 - [[objektai/daiktai/Halka]]
 - [[objektai/grupes/Hanza]]
@@ -115,6 +111,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Jagurčinas]]
 - [[objektai/grupes/Jastžembcų giminė]]
 - [[objektai/asmenys/Jedigėjus]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
 - [[objektai/asmenys/Jokūbas Babičius]]
 - [[objektai/asmenys/Jonas Kropidla]]
@@ -123,14 +120,12 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/asmenys/Jonas Švitrigaila]]
 - [[objektai/zodynas/Judrioji valstiečių grupė]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/ivykiai/Julijonos padėkos laiškas Pauliui Rusdorfui dėl gydomųjų gėrimų (1426 m. liepos 8 d.)]]
 - [[objektai/autoriai/K. Chodynicki]]
 - [[objektai/autoriai/K. Hartknochas]]
 - [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
 - [[objektai/autoriai/Karamzinas]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
-- [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
@@ -222,7 +217,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Racionžo taika]]
 - [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
 - [[objektai/posakiai/Raštu neužrašyti darbai pražūna iš atminties]]
@@ -243,6 +237,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
 - [[objektai/asmenys/Spytekas iš Melštyno]]
 - [[objektai/asmenys/Stavimėlas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/autoriai/Stryjkowski Strijkovskis]]
 - [[objektai/asmenys/Survila]]
 - [[objektai/asmenys/Sventopelkas]]
@@ -332,6 +327,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/zodynas/tėvūnas]]
+- [[objektai/zodynas/vasalas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/grupes/Čekijos husitai]]

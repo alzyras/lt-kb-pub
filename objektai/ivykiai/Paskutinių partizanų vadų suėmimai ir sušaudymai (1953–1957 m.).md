@@ -1,9 +1,6 @@
 ---
 tipas: ivykis
 pavadinimas: 'Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -11,18 +8,15 @@ datos:
   - '1953 m.'
   - '1956 m.'
   - '1957 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1951'
 date_end: '1957'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
+amziai:
+  - 'XX'
 ---
 # Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)
 
@@ -31,28 +25,31 @@ tags:
 Berija pripažino Lietuvoje vykstantį partizaninį karą rimta grėsme sovietų valdymui.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1953 m. agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1953 m. agentai išdavė J. Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1953 m. pavasarį užverbuoti
@@ -82,11 +79,9 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     214
     sušaudytas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

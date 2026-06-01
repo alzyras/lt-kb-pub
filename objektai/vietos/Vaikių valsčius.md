@@ -23,17 +23,17 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H., Studja..., 2, p. 102; plg.'
   pagrindžia:
     - c-002
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -91,4 +91,4 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

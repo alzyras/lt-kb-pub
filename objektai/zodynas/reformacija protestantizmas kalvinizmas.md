@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'reformacija protestantizmas kalvinizmas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - kunigaikštis
@@ -21,70 +18,76 @@ tags:
 1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų. Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip. Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Abraomas Kulvietis reformacijos idėjomis grindė programą, turėjusią lietuvių kalbą padaryti švietimo sistemos pagrindu.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Abraomas Kulvietis reformacijos idėjomis grindė programą, turėjusią lietuvių kalbą padaryti švietimo sistemos pagrindu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
-    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m.
-  citata_rodoma: ""
+    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
+    jo liuteronas Abraomas Kulvietis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Abraomas Kulvietis reformacijos idėjomis grindė programą, turėjusią lietuvių kalbą padaryti švietimo sistemos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    A. Kulvietis, pa-
+    Tokia įvykių seka rodė ne tik tai, kad Lie-
+    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
+    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
+    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
+    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
+    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
     sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
     padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
     teresų lygį ir taip išugdyti lietuvių inteligentiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šią programą A. Kulvietis
+    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
+    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
+    tekizmą“. A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
+    diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
+    rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
+    lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
+    jektui Lietuvos visuomenė nebuvo pasirengusi.
     Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
     protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
     Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
     čios Katalikų bažnyčios įtaką.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

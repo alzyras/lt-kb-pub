@@ -20,13 +20,14 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
 ## Teiginiai
 
 - t-001
-  teiginys: 'sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopim jį Maskvos kunigaikštį Simoną ir TocygapcmBa PoccuūcKaro.'
+  teiginys: 'Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau apsipratęs su

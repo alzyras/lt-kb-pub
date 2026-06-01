@@ -1,21 +1,10 @@
 ---
 tipas: autorius
-pavadinimas: "Endzelins J"
-sukurta: '2026-05-30'
-variantai:
-  - 'J. Endzelins'
-aliases:
-  - 'J. Endzelins'
+pavadinimas: 'Endzelins J'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -26,19 +15,20 @@ tags:
 Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (Endzelins J.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Petro Dusburgiečio leidinyje J. Endzelynas įtraukiamas į išsamiai prūsų kalbą ir jos paminklus tyrusių kalbininkų seką.'
+  pagrindžia:
+    - c-002
+
+- t-002
   teiginys: 'Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (Endzelins J.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Petro Dusburgiečio leidinyje J. Endzelynas įtraukiamas į išsamiai prūsų kalbą ir jos paminklus tyrusių kalbininkų seką.'
-  pagrindžia:
-    - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (Endzelins J.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiaurės vakarų Kurše, prie Edolės, žinomas
@@ -46,13 +36,11 @@ Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (End
     vardu (Endzelins J. Piezimes..., p. 8).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-003
-  santrauka: J. Endzelynas įtraukiamas į prūsų kalbą tyrusių kalbininkų seką.
+    - t-002
+
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
@@ -63,13 +51,11 @@ Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (End
     lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
     už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
     rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

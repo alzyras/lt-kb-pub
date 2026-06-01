@@ -1,30 +1,22 @@
 ---
 tipas: posakis
 pavadinimas: '„jogailaičių Europa“ „krikščionybės forpostas“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1514 m.'
-  - '1526 m.'
   - '1572 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 date_start: '1514'
 date_end: '1572'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - dinastija
   - mūšis
   - posakis
+amziai:
+  - 'XVI'
 ---
 # „jogailaičių Europa“ „krikščionybės forpostas“
 
@@ -33,56 +25,64 @@ tags:
 Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   pagrindžia:
     - c-003
+
+- t-004
+  teiginys: 'Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lenkijos ir Lietuvos sostuose sė-
+    Su nedidelėmis
+    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
     dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
     je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
     šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
     jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Krikščioniškasis men-
+    LDK visuomenė tampa europinė ir įsilieja į Va-
+    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
+    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
+    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
+    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
+    kyklos ir jų triviumas, kolegijos ir universitetas). Krikščioniškasis men-
     talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
     tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
     susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuosavybės santykiuose susiformuoja leno teisė, socia-
@@ -96,11 +96,29 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
     Christianizacija ir šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
+    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
+    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente. Jo-
+    gailaičių Europa pradėjo vaidinti „krikščionybės forposto“ vaidmenį, tie-
+    sa, nevienodai sėkmingai. Lietuva, Lenkijos padedama, atsilaikė prieš sta-
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
+    lapio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -111,6 +129,7 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/christianizacija]]
 - [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/luomas]]

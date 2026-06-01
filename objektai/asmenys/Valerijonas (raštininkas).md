@@ -28,19 +28,20 @@ periodo_grupes:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU 1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES 1533.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '1514 ---- • --- 375 ## Puslapis 392 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIENĖ BONA, 1533 metų spalio mėnesio 23 dieną, 7 indikte, rusų kalka Vilniuje datuotu laišku, su parašu Walerijan (tikriausiai tai turėjo kūti raštininkas) ir prispaustu antspaudu.'
+  teiginys: 'Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -71,9 +72,10 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
+  santrauka: '1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi paveda­
@@ -98,7 +100,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -113,5 +115,4 @@ periodo_grupes:
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/indiktas]]

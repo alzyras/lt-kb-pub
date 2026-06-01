@@ -28,18 +28,19 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.'
+  teiginys: 'Marija buvo Tverės kunigaikštytė ir Algirdo žmona.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Marija (Algirdo žmona) buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­ bėje, pasakyta, kad tai yra senos lais­ vės, senolio Algirdo ir jo įpėdinių suteiktos Vilniui, atnaujinimas.'
+  teiginys: 'Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Marija buvo Tverės kunigaikštytė ir Algirdo žmona.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. V\lre- tis buvęs Kęstudo karių suduptas.
@@ -61,6 +62,7 @@ periodo_grupes:
     - t-001
 
 - c-002
+  santrauka: 'Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bemaž tuo metu Vilniuje gerokai
@@ -115,6 +117,7 @@ periodo_grupes:
 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]

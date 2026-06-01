@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
@@ -27,37 +18,40 @@ tags:
 Tarė­ jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą mums patiems, kadangi turime aukščiausią abiejų luomų sienų tyrimo valdžią. Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­ nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­ se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­ sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo žmonių kokiu nors. , Geor­ gio Luceorien., Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tarė­ jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą mums patiems, kadangi turime aukščiausią abiejų luomų sienų tyrimo valdžią.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­ nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­ se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­ sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo žmonių kokiu nors.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: ', Geor­ gio Luceorien., Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tarė­ jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą mums patiems, kadangi turime aukščiausią abiejų luomų sienų tyrimo valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tarė­
@@ -86,15 +80,17 @@ Nenurodyta
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­ nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­ se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­ sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo žmonių kokiu nors.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Tarė­
+    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
+    mums patiems, kadangi turime aukščiausią abiejų luomų
+    sienų tyrimo valdžią.
     Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
     nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
     se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
@@ -117,34 +113,9 @@ Nenurodyta
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: ', Geor­ gio Luceorien., Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Geor­
-    gio Luceorien., Venceslao Mednicensi Episcopis, nec non
-    402
-
-    ## Puslapis 419
-
-    IV KNYGA
-    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
-    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
-    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
-    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
-    se, dominijose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -154,5 +125,4 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/dominija]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/cesija ir decesija]]

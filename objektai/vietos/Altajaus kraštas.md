@@ -1,15 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Altajaus kraštas (kraštas)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Altajaus kraštas'
-aliases:
-  - 'Altajaus kraštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - vieta
@@ -21,25 +16,27 @@ tags:
 Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertintinas kaip nusikaltimas žmoniškumui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tremtinių išvežimas į Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertinamas kaip nusikaltimas žmoniškumui.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tremtinių išvežimas į Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertinamas kaip nusikaltimas žmoniškumui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tremtinių išvežimas į at-
+    Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas
+    buvo nukreiptas į fizinį šeimų naikinimą. Šis trėmimas nacių okupacijos
+    sąlygomis panaudotas skatinant tautinio nepakantumo nuotaikas, atsa-
+    komybę už trėmimus primetant žydams, kurie pirmomis sovietmečio
+    dienomis smarkiai nukentėjo – nacionalizuoti žydų komerciniai bankai,
+    gamybos ir prekybos įmonės, privatus turtas. Tremtinių išvežimas į at-
     šiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves,
     kur dalis jų mirė arba žuvo, vertintinas kaip nusikaltimas žmoniškumui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

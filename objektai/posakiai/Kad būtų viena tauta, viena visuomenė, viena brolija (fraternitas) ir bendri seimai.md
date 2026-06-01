@@ -1,26 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai'
-sukurta: '2026-04-24'
-variantai:
-  - 'viena tauta, viena visuomenė, viena brolija'
-  - 'bendri seimai'
-  - 'viena galva, vienas karalius'
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - karalius
@@ -44,16 +28,15 @@ tags:
 - viena galva, vienas karalius
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Melniko akte numatyta viena tauta, viena visuomenė, viena brolija, bendri seimai ir vienas visų renkamas karalius.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Melniko akte numatyta viena tauta, viena visuomenė, viena brolija, bendri seimai ir vienas visų renkamas karalius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Akte yra sakoma: Kad būtų viena tauta, viena visuomenė,
@@ -62,13 +45,11 @@ tags:
     bus visų į elekciją atvykusiųjų bendrai renkamas..." Bet kaip tu-
     rėjo būti atliekami tie bendrieji seimai ir bendroji elekcija, tuo tarpu
     nebuvo pasakyta; tai turėjo būti vėliau nustatyta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

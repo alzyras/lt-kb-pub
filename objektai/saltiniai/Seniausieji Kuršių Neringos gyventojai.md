@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Seniausieji Kuršių Neringos gyventojai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -11,17 +8,14 @@ datos:
   - '1959 m.'
   - '1961 m.'
   - '1965 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1955'
 date_end: '1965'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Seniausieji Kuršių Neringos gyventojai
 
@@ -30,18 +24,15 @@ tags:
 (”) Seniausieji Kuršių Neringos gyven­ tojai, ILKI, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: '(”) Seniausieji Kuršių Neringos gyven­ tojai, ILKI, t.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '(”) Seniausieji Kuršių Neringos gyven­ tojai, ILKI, t.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1937. — Gimbutienė (Gimbutas), Marija : _Lietuvos proistorė,_ LE, t. 15,
@@ -57,10 +48,8 @@ tags:
     w latach 1955-1961,_ ABaSl, II, 1965, 203-259 p.—Kulikauskas, P.,
     Kulikauskienė, R., Tautavičius, A. : _Lietuvos archeologijos bruožai,_
     Vilnius 1961.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

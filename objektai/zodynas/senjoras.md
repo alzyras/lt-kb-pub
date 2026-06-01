@@ -35,3 +35,4 @@ amziai:
 - [[objektai/zodynas/cechas contubernium]]
 - [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė]]
 - [[objektai/zodynas/tripartitio christiana luominė visuomenė]]
+- [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]

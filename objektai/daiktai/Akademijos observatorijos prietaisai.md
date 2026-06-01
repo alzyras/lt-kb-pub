@@ -1,31 +1,18 @@
 ---
 tipas: daiktas
-pavadinimas: "Akademijos observatorijos prietaisai"
-sukurta: '2026-05-27'
-variantai:
-  - observatorijos prietaisai
-  - prietaisams
-aliases: []
+pavadinimas: 'Akademijos observatorijos prietaisai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1766 m. Akademijos observatorijos fundacijos kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1766 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1766'
 date_end: ''
-patikimumas: vidutinis
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - įrankis
+amziai:
+  - 'XVIII'
 ---
 # Akademijos observatorijos prietaisai
 
@@ -34,35 +21,40 @@ tags:
 Akademijos observatorijos prietaisai minimi 1766 m. fundacijos kontekste. Puzinienė iš Oginskių skyrė lėšų observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.
 
 ## Pavadinimai šaltiniuose
+
 - prietaisams
 
 ## Laikotarpis ir datos
+
 - 1766 m.
 
 ## Kas tai
+
 Observatorijoje naudotini astronomijos ir stebėjimų prietaisai.
 
 ## Naudojimas
+
 Skirti Akademijos observatorijos įkūrimui ir astronomijos mokymui.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams."
+  teiginys: '1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Fundacijoje atskirai paminėti observatorijos prietaisai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­
@@ -78,15 +70,13 @@ Nenurodyta
     telioniene 1766 metais Akademijos observatorijos įkūrimui,
     prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­
     donųjų auksinų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
@@ -98,12 +88,11 @@ Nenurodyta
     Akademijos keturkampės aikštės klasių vieną eilę tėvas
     Riokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir
     viešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie
-    100 000 auks.
+    100 000 auks. lėšų, prie Akademijos aikštės dar kai kuriuos
+    funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

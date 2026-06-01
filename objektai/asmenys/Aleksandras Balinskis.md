@@ -1,34 +1,20 @@
 ---
 tipas: asmuo
-pavadinimas: Aleksandras Balinskis
-sukurta: '2026-05-27'
-variantai:
-  - Balinskis
-  - Aleksandras iš Balino Balinskis
-aliases:
-  - Balinskis
+pavadinimas: 'Aleksandras Balinskis'
 saltiniai:
-  - Michał Baliński, Vilniaus miesto istorija (2007 m.)
-bukle: juodrastis
-laikotarpis: Aleksandro Jogailaičio ligos ir mirties kontekstas
-vaidmenys:
-  - alchemikas
-  - gydytojas
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1208 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1208'
 date_end: ''
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Aleksandras Balinskis
 
@@ -37,68 +23,63 @@ tags:
 Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydytojas, susijęs su Aleksandro Jogailaičio gydymu Vilniuje. Pasakojimas pabrėžia jo reputaciją, gydymo nesėkmę, vėlesnį kalinimą ir karališkosios vaistinės dalies likimą Vilniuje.
 
 ## Variantai
+
 - Balinskis
 - Aleksandras iš Balino Balinskis
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Aleksandro Jogailaičio ligos ir mirties kontekstas
 - periodas: ankstyvieji_naujieji_laikai
 - amziai: XVI
 
 ## Vaidmenys
+
 - alchemikas
 - gydytojas
 
 ## Savybės
+
 - reputacija:
   - santrauka: Balinskis vadinamas tuose kraštuose pagarsėjusiu alchemiku; kitoje citatoje nurodoma, kad jis garsėjo gydymo sėkme.
     šaltiniai:
       - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Aleksandras Balinskis buvo iš Krokuvos pakviestas alchemikas, kurio gydymas nepadėjo sergančiam Aleksandrui Jogailaičiui."
+  teiginys: 'Aleksandras Balinskis buvo iš Krokuvos pakviestas alchemikas, kurio gydymas nepadėjo sergančiam Aleksandrui Jogailaičiui.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Aleksandras iš Balino Balinskis buvo Krokuvos bajoraitis nuo Olkušo, paskendęs alchemijoje ir garsėjęs gydymo sėkme."
+  teiginys: 'Aleksandras iš Balino Balinskis buvo Krokuvos bajoraitis nuo Olkušo, paskendęs alchemijoje ir garsėjęs gydymo sėkme.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: "Aleksandras Balinskis siejamas su karališkosios vaistinės dalimi, kuri liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia."
+  teiginys: 'Aleksandras Balinskis siejamas su karališkosios vaistinės dalimi, kuri liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
     - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už karaliaus Aleksandro gydy­ mą Vilniuje, kuris vos neužduso per ilgai laikomas stiprių žolių garo vo­ nioje, savo metraščiuose vadino jį 233 ## Puslapis 250 VILNIAUS MIESTO ISTORIJA II.'
-  pagrindžia:
-    - c-006
-- t-007
+
+- t-005
   teiginys: 'Sun- 47 kiai atkentėjo Balinskis už savo gydyStrijkovskis savo metraštyje, mo ir alchemijos aistrą; pirmiausia po 1.'
   pagrindžia:
-    - c-007
-- t-008
+    - c-006
+
+- t-006
   teiginys: 'Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­ dymo meną išmanantys: vienas - pagal profesiją fizikas, arba rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; antras, pagarsėjęs alchemijos išmanymu.'
   pagrindžia:
-    - c-008
-- t-009
-  teiginys: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
-  pagrindžia:
-    - c-009
+    - c-005
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Balinskis kviestas iš Krokuvos gydyti Aleksandro Jogailaičio.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Aleksandro planai pasirodė esą klaidingi, nes
@@ -110,16 +91,13 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­
     mikas Balinskis, vėliau už gydymo nesėkmę ar už savo
     aiškiaregystes sumokėjęs laisvė46.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Aleksandro Balinskio kilmė, alchemijos veikla ir gydytojo reputacija.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aleksandras iš Balino Balinskis, Kro­
@@ -137,16 +115,13 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     mą Vilniuje, kuris vos neužduso per
     ilgai laikomas stiprių žolių garo vo­
     nioje, savo metraščiuose vadino jį
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Le Roi ir homeopatijos mėgėjai. Sun- 47
@@ -155,16 +130,13 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
     niuje iki pat Žygimanto atvykimo, o pergalę.
     paskui, sugrįžęs į Krokuvą, vėl bu-
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_variant
-  patikimumo_pagrindimas: "OCR nelygus, bet kandidato ledgeris nurodo tikslų šaltinio offsetą."
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: Balinskis siejamas su karališkosios vaistinės dalimi, likusia Vilniuje.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I I  TOMAS
@@ -179,93 +151,17 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
     miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
     tapo nuolatinės miesto vaistinės pradžia.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
-- c-006
-  santrauka: 'Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už karaliaus Aleksandro gydy­ mą Vilniuje, kuris vos neužduso per ilgai laikomas stiprių žolių garo vo­ nioje, savo metraščiuose vadino jį 233 ## Puslapis 250 VILNIAUS MIESTO ISTORIJA II.'
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Miechovita, Bielskis, o ypač
-    Strijkovskis savo metraščiuose, su­
-    pykę už karaliaus Aleksandro gydy­
-    mą Vilniuje, kuris vos neužduso per
-    ilgai laikomas stiprių žolių garo vo­
-    nioje, savo metraščiuose vadino jį
-    233
-
-    ## Puslapis 250
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    banga vėl plūstelėjo į Lietuvą, karalius Aleksandras, nors
-    ir nusilpęs, kad sutaikytų susipykusius bajorus su Glins­
-    kiu, savo numylėtiniu, ir paakintų juos atremti pagonis, pa­
-    judėjo iš Vilniaus į Lydą. Tačiau neilga buvo karaliaus vieš­
-    nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui
-    piešdami ir degindami, prie Lydos prisiartino Krymo cha­
-    no sūnūs su 20 000 totorių. Kilo didelis pavojus karaliaus
-    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
-    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
-    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
-    nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
-    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
-    Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
-    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
-    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
-    mylią nuo Lydos. Tad paskubomis susirinko 10 000 bajorų,
-    kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
-    dė narsus, bet pasipūtęs, Glinskis. Gausūs Krymo ordos ka­
-    rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
-    Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje
-    užkirto šiems azijiečiams kelią į artimiausias šios valsty­
-    bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
-    Aleksandrą pasiekė Vilniuje. Nors visą gyvenimą nebuvo
-    lemta laimėti karų, paskutinę savo valandą pasijuto nuga-
-    sukčiumi ir šimtininku. Tačiau, ob- vo įkalintas. Pagaliau, turtą išleidęs
-    jektyviai vertinant, tai buvo iliuzio- auksui daryti ir alcheminiams ban-
-    nistas, prisisiurbęs keisto mokslo tai- dymams, kaip karšinčius savo die-
-    syklių, kurias anais laikais tiek kartų nas baigė besiginčydamas su Kroku-
-    įrodė ir gydė taip, kaip šiandieniniai vos miestiečiais dėl pinigų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Sun- 47 kiai atkentėjo Balinskis už savo gydyStrijkovskis savo metraštyje, mo ir alchemijos aistrą; pirmiausia po 1.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Le Roi ir homeopatijos mėgėjai. Sun- 47
-    kiai atkentėjo Balinskis už savo gydy- Strijkovskis savo metraštyje,
-    mo ir alchemijos aistrą; pirmiausia po 1. 681-687, plačiai ir ganėtinai žais-
-    karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
-    niuje iki pat Žygimanto atvykimo, o pergalę.
-    paskui, sugrįžęs į Krokuvą, vėl bu-
-    234
-
-    ## Puslapis 251
-
-    III KNYGA
-    lėtoju ir į kapą nužengė triumfuodamas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­ dymo meną išmanantys: vienas - pagal profesiją fizikas, arba rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas; antras, pagarsėjęs alchemijos išmanymu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1208, kur nurodytas Slaptajame
+    Livoniae, T. I,
+    N. 1208, kur nurodytas Slaptajame
     archyve esantis vokiečių kalba rašy­
     tas didžiojo Lietuvos kunigaikščio
     Vytauto žmonos Julijonos, dėkojan-
@@ -288,48 +184,30 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     tapo nuolatinės miesto vaistinės pradžia.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
+    - t-006
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    678.
-    46
-    Aleksandras iš Balino Balinskis, Kro­
-    kuvos bajoraitis nuo Olkušo, pa­
-    skendęs alchemijoje, ėmė taip gar­
-    sėti savo gydymo sėkme, kad, nors
-    vargšus ir Krokuvos miestiečius vel­
-    tui gelbėjęs patarimais bei vaistais,
-    tačiau, kai ir turtingieji pradėjo prie
-    jo skverbtis, nevengdamas prisi­
-    kimšti kišenes, ėmęs nuo jų po 100
-    dukatų. Miechovita, Bielskis, o ypač
-    Strijkovskis savo metraščiuose, su­
-    pykę už karaliaus Aleksandro gydy­
-    mą Vilniuje, kuris vos neužduso per
-    ilgai laikomas stiprių žolių garo vo­
-    nioje, savo metraščiuose vadino jį
-    233
+    Le Roi ir homeopatijos mėgėjai. Sun- 47
+    kiai atkentėjo Balinskis už savo gydy- Strijkovskis savo metraštyje,
+    mo ir alchemijos aistrą; pirmiausia po 1. 681-687, plačiai ir ganėtinai žais-
+    karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
+    niuje iki pat Žygimanto atvykimo, o pergalę.
+    paskui, sugrįžęs į Krokuvą, vėl bu-
+    234
 
-    ## Puslapis 250
+    ## Puslapis 251
 
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    banga vėl plūstelėjo į Lietuvą, karalius Aleksandras, nors
-    ir nusilpęs, kad sutaikytų susipykusius bajorus su Glins­
-    kiu, savo numylėtiniu, ir paakintų juos atremti pagonis, pa­
-    judėjo iš Vilniaus į Lydą.
+    III KNYGA
+    lėtoju ir į kapą nužengė triumfuodamas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -346,13 +224,8 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - [[objektai/zodynas/locus geni]]
 - [[objektai/grupes/Šubravcų draugija]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
-- [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Karšinčius|karšinčius]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1863 m. sukilimas]]
 - [[objektai/ivykiai/Aleksandro II reformų pradžia]]
 - [[objektai/ivykiai/Antrasis valstybės padalijimas]]
@@ -360,6 +233,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - [[objektai/ivykiai/Biblioteka Warszawska steigimas]]
 - [[objektai/asmenys/Dominykas Radvila]]
 - [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/Liaudies ugdymo siejimas su visuomeninėmis pertvarkomis]]
 - [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
@@ -376,7 +250,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - [[objektai/ivykiai/Vilniaus universiteto uždarymas po 1830-1831 m. sukilimo]]
 - [[objektai/posakiai/gimti Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuolimas]]
 - [[objektai/autoriai/Karamzinas]]
+- [[objektai/grupes/Latviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/zodynas/Puslapis 77]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/zodynas/fizikas rūmų daktaras Leibarzt]]

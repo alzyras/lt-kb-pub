@@ -25,7 +25,7 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
     - c-001
 
 - t-002
-  teiginys: 'Popiežius po atskiro pasitarimo su kardinolais visuoti­ niame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­ dino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai atiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­ mas kris ant to.'
+  teiginys: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti.'
   pagrindžia:
     - c-002
 
@@ -53,6 +53,7 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
     - t-001
 
 - c-002
+  santrauka: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Italų kalbos mokėjimas leido jam sakyti kalbą be vertė­

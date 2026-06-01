@@ -26,13 +26,14 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU 1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES 1533.'
+  teiginys: 'Vilniaus kapitulos archyvo rankraščiuose minimas Žygimanto Senojo raštas Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikciją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus kapitulos archyvo rankraščiuose minimas Žygimanto Senojo raštas Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikciją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA

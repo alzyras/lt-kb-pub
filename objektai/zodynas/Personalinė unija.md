@@ -1,45 +1,30 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Personalinė unija (unija)'
-sukurta: '2026-04-24'
-variantai:
-  - 'personalinė unija'
-  - 'personalinėje unijoje'
-  - 'personalinės unijos'
-aliases:
-  - 'Personalinė unija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: Lietuvos ir Lenkijos santykių istorija
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1499 m.'
-  - '1501 m.'
-  - '1569 m.'
   - '1572 m.'
   - '1918 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XV'
-  - 'XVI'
-  - 'XX'
 date_start: '1499'
 date_end: '1918'
-patikimumas: aukštas
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XV'
+  - 'XX'
 ---
 # Personalinė unija (unija)
 
 ## Žodis ir formos
+
 Personalinė unija šiame veikale aiškinama kaip dviejų atskirų valstybių ryšys, kai jos turi bendrą valdovą.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Lietuvos ir Lenkijos santykių istorija
 - datos:
   - 1499 m.
@@ -47,95 +32,52 @@ Personalinė unija šiame veikale aiškinama kaip dviejų atskirų valstybių ry
   - 1569 m.
 
 ## Reikšmė iš konteksto
+
 Sąvoka apibūdina tokią politinę jungtį, kurioje valstybės išlieka atskiros, nors jas valdo tas pats valdovas. Ji priešpriešinama realinei unijai ir vienos jungtinės valstybės modeliui.
 
 ## Vartojimas
+
 Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko susitarimo interpretacijos iki Liublino unijos pobūdžio.
 
+## Šaltiniai ir įrodymai
+
+Nenurodyta
+
+## Pastabos
+
+Nenurodyta
+
 ## Teiginiai
-- t-005
-  teiginys: 'Melniko susitarimu buvo norima įkurti vieną jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Lietuviai reikalavo savotiškos personalinės unijos, kurioje renkant valdovą būtų skaitomasi su dviem sostais.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
-  pagrindžia:
-    - c-002
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
-  pagrindžia:
-    - c-008
-- t-012
-  teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
-  pagrindžia:
-    - c-009
-- t-013
+
+- t-001
   teiginys: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
   pagrindžia:
-    - c-010
-- t-014
-  teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
-  pagrindžia:
-    - c-011
-- t-015
+    - c-005
+
+- t-002
   teiginys: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
   pagrindžia:
-    - c-012
-- t-016
-  teiginys: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
+    - c-002
+
+- t-003
+  teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
   pagrindžia:
-    - c-013
+    - c-003
+
+- t-004
+  teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
+  pagrindžia:
+    - c-004
+
+- t-006
+  teiginys: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Melniko susitarimu buvo norima įkurti vieną jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
-    normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti
-    tikroji valstybių unija. Naują susitarimą patvirtino trys doku-
-    mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de-
-    legatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-
-    rimą atskiru dokumentu patvirtino Aleksandras. Šiuo susita-
-    rimu buvo norima įkurti viena jungtinė valstybė, kuri turė-
-    tų bendrą seimą, bendrai vienoje vietoje
-    rinktąjį valdovą, bendrą apsaugą ir bendrus
-    pinigus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ir buvo kreipiama į susitarimą dėl bendro valdovo. Abidvi
-    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
-    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
-    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
-    tuviai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Lietuviai reikalavo savotiškos personalinės unijos, kurioje renkant valdovą būtų skaitomasi su dviem sostais.'
+  santrauka: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abidvi
@@ -145,84 +87,27 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
     tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
     skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
     tomasi tik su vienu dviejų jungtinių valstybių sostu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-006
-- c-004
-  santrauka: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Įstatymą priimant tebuvo kartu balsuojama. Tuo būdu
-    jungtinės valstybės tik viena kitą prižiūrėjo, kad viena nepriimtų
-    nieko nenaudingo kitai.
-    Apskritai, Liublino aktu abi valstybės nebuvo sulietos į
-    vieną, nors tas valstybių junginys ir buvo vadinamas „abiejų
-    tautų Respublika".
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Abidvi
-    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
-    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
-    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
-    tuviai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-009
-  santrauka: 'Savotiškos personalinės unijos reikalavo lietuviai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Savotiškos personalinės unijos reikalavo lie-
-    tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
-    skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
-    tomasi tik su vienu dviejų jungtinių valstybių sostu. Darant
-    uniją, laimėjo lenkai, tačiau gyvenime lietu-
-    viai laikėsi savo nusistatymo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-010
-  santrauka: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kad būtų galima to išvengti, darant uniją daugiausia dėmesio
 
-
-    ir buvo kreipiama į susitarimą dėl bendro valdovo. Abidvi
-    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
-    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
-    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
-    tuviai.
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
+    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-011
-  santrauka: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
+    - t-002
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
@@ -239,65 +124,75 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
     čių puolimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-014
-- c-012
-  santrauka: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
+    - t-003
+
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
+    ti ne teisiniams, o realiems valstybių santykiams – čia Lietuvai ir glūdėjo
+    didžiausias pavojus. Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
+    veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
+    Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-
+    von, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu
+    atveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –
+    tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
+    kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
+    supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Epochos pa-
+    baigoje Lietuva jau operatyviai reagavo į reformacijos iššūkius (sąjūdžio
+    pradžia – 1539 m.) – tai rodo Lietuvą tapus europinės struktūros šalimi.
     Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
     išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
-    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
-    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
-    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
+    Lenkija, nors valstybės buvo atskiros.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-013
-  santrauka: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Smetonos vadovau-
-    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
-    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
-    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
-    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
-    gruodžio 11-osios rezoliucijos pagrindu.
-    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
-    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
-    jungti Lietuvą personaline unija su Saksonija arba Prūsija. Lietuvos Ta-
-    rybos konservatoriai ir monarchistai 1918 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-016
-## Šaltiniai ir įrodymai
+    - t-001
 
-## Pastabos
+- c-006
+  santrauka: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kad būtų galima to išvengti, darant uniją daugiausia dėmesio
+
+
+    ir buvo kreipiama į susitarimą dėl bendro valdovo. Abidvi
+    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
+    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
+    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
+    tuviai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Wilhelmas II]]
-- [[objektai/zodynas/konstitucinė monarchija]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]

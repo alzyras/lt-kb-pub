@@ -1,28 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Rostokas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1978 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1978'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - popiežius
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Rostokas
 
@@ -31,28 +26,34 @@ tags:
 O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­ konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui, Greifswaldni, Stettinui ir Gotlando salai).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Liubekui, Rostokui, Stralsundui, Greifsvaldui ir Ščecinui.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Dėl to rygiečiai kėlė balsą Hanzos sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Gediminas laiškus siuntė pajūrio miestams, tarp jų Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė dominikonų ordino vyresniesiems, būtent į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams - Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui, pranešdamas juose, kad.'
-  pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Liubekui, Rostokui, Stralsundui, Greifsvaldui ir Ščecinui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas sutiko jas grąžinti tik ta sąlyga, jei magistras
+    grąžins lietuvių prekes^4 ). Dėl to rygiečiai kėlė balsą Hanzos
+    sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
+    patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
+    jis pats su jais jokios sutarties nedarė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vienas tų
@@ -62,75 +63,8 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
     Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai
     buvo parašyti popiežiui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dėl to rygiečiai kėlė balsą Hanzos sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dėl to rygiečiai kėlė balsą Hanzos
-    sąjungoje (Liubeke, Rostoke), skųsdami Vytautą sulaužius jų
-    patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
-    jis pats su jais jokios sutarties nedarė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Gediminas laiškus siuntė pajūrio miestams, tarp jų Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
-    diminas rašė dominikonų ordino vyresniesiems, būtent į
-    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
-    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
-    landui, pranešdamas juose, kad kreipėsi į popiežių,
-    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
-    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
-    įsakymais. „Pageidautume, - rašo toliau, - savo krašte tu­
-    rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
-    teises, dvasininkus gerbsime, Dievo garbinimą maldomis
-    plėtosime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė dominikonų ordino vyresniesiems, būtent į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams - Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui, pranešdamas juose, kad.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    " Labai meldžia pagaliau Gediminas popiežių, kad at­
-    sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame
-    pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­
-    me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą,
-    kad tik neturėtume būti budeliams, tai yra Ordino Magist­
-    rui ir riteriams, už ką nors dėkingi"**.
-    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
-    diminas rašė dominikonų ordino vyresniesiems, būtent į
-    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
-    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
-    landui, pranešdamas juose, kad kreipėsi į popiežių,
-    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
-    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
-    įsakymais. „Pageidautume, - rašo toliau, - savo krašte tu­
-    rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
-    teises, dvasininkus gerbsime, Dievo garbinimą maldomis
-    plėtosime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004

@@ -22,16 +22,16 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 - t-001
   teiginys: 'Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei broliams savo sūnų kaip įkaitą, o daug.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie įvairias Sventopelko derybas ir sutartis Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė: „Esu pasirengęs paisyti teisingumo ir.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie įvairias Sventopelko derybas ir sutartis
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš

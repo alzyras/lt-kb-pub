@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Nikolajus Mitkinas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,19 +15,24 @@ tags:
 S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griškevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios vadžias.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nikolajus Mitkinas buvo lietuviškai nekalbantis LKP CK antrasis sekretorius, siekęs „Lietuvą padaryti internacionalinę“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nikolajus Mitkinas buvo lietuviškai nekalbantis LKP CK antrasis sekretorius, siekęs „Lietuvą padaryti internacionalinę“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    KGB numeriais pažymėjo eisenos lyderius
+    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
+    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
+    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
+    vės, demokratijos, nepriklausomybės idealais.
+    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
+    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
 
     VI s k y r i u s
     DAINUOJANTI
@@ -52,11 +48,9 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
     vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
     liausiai ji pati ėmėsi iniciatyvos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

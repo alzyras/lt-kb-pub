@@ -1,34 +1,18 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Bezdežo (Antopolio) mūšis (1771 m.)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Bezdežo mūšis'
-  - 'Antopolio mūšis'
-  - 'mūšis prie Bezdežo'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1771 m.'
 datos:
   - '1771 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVIII'
 date_start: '1771'
-date_end: '1771'
-vaidmenys: []
-dalyviai:
-  - 'Lietuvos kariuomenė'
-  - 'Rusijos kariuomenė'
-  - 'Baro konfederatai'
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
+amziai:
+  - 'XVIII'
 ---
 # Bezdežo (Antopolio) mūšis (1771 m.)
 
@@ -49,16 +33,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Bezdežo mūšio Oginskio pajėgos buvo sumuštos prie Stalovičių, o Baro konfederacija nepasiekė savo tikslų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šios pergalės išvystyti nepavyko. Po ga-
@@ -72,13 +55,11 @@ Nenurodyta
     tikslų atsikratyti svetimų šalių įtakos.
     Konfederatams nepavyko sutrukdyti
     1772 m. įvykusio pirmajo ATR padalijimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

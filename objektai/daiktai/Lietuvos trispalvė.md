@@ -1,36 +1,20 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Lietuvos trispalvė"
-sukurta: '2026-05-13'
-variantai:
-  - "Lietuvos trispalvė"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Lietuvos trispalvė'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "1919 m. rugsėjo 26 d. manifestacijos kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1919 m.'
-  - '1920 m.'
-  - '1988 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'XX a.'
-  - 'modernioji Lietuva'
+date_start: '1919'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - simbolis
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1919'
-date_end: '2026'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-13'
-tags:
-  - simbolis
 ---
 # Lietuvos trispalvė
 
@@ -39,9 +23,11 @@ tags:
 Lietuvos trispalvė minima kaip materialus valstybės simbolis 1919 m. rugsėjo 26 d. Kaune vykusioje džiaugsmo manifestacijoje, kai lėktuvai danguje tempė trispalvę.
 
 ## Pavadinimai šaltiniuose
+
 - Lietuvos trispalvė
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1919 m. rugsėjo 26 d. manifestacijos kontekstas
 - datos:
   - 1919 m. rugsėjo 26 d.
@@ -60,74 +46,44 @@ Materialus valstybės simbolis, šaltinyje matomas viešos politinės manifestac
 Naudota viešoje manifestacijoje Kaune kaip lėktuvų tempiamas simbolis.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-009
+
+- t-001
   teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė paskelbė reikalavimą legalizuoti trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
-  pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
-  pagrindžia:
-    - c-003
-- t-012
-  teiginys: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
-  pagrindžia:
-    - c-004
-- t-013
-  teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+
+- t-002
+  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
   pagrindžia:
     - c-005
-- t-014
-  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
+
+- t-003
+  teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
   pagrindžia:
     - c-006
 
+- t-004
+  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
+  pagrindžia:
+    - c-004
+
+- t-006
+  teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Liepos 9 d. Vingio parke LPS vadovybė paskelbė reikalavimą legalizuoti trispalvę ir „Tautišką giesmę“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pirmieji
-    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)
-    aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per
-    šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę
-    ir „Tautišką giesmę“) – apie 100 tūkst. žmonių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
-    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
-    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
-    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
-    demonstracijas įsakus.
-    Svarbiausiu įvykiu tapo 1988 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-003
-  santrauka: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
@@ -141,13 +97,44 @@ Nenurodyta
     (liepos 4 d.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
+    - t-006
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pirmieji
+    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)
+    aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per
+    šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę
+    ir „Tautišką giesmę“) – apie 100 tūkst. žmonių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Spalio 21 dieną LKP CK pirmuoju sekre-
+    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
+    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
+    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
+    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
+    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
+    demonstracijas įsakus.
+    Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suva-
+    žiavimas, kuriame dalyvavo 1 021 delegatas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-004
-  santrauka: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
@@ -158,16 +145,32 @@ Nenurodyta
     parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
     leisti laikraštį ir nuolatinę televizijos laidą. LPS tapo dar populiaresnis,
     kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
-    laikraštis „Atgimimas“ (red.
+    laikraštis „Atgimimas“ (red. Romualdas Ozolas).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-005
+
 - c-005
-  santrauka: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Per keletą mėnesių LPS pa-
+    siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
+    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
+    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
+    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
+    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
+    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
+    demonstracijas įsakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stiprėjo Lietuvos žaliųjų
@@ -181,32 +184,13 @@ Nenurodyta
     leisti laikraštį ir nuolatinę televizijos laidą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-006
-  santrauka: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Spalio 21 dieną LKP CK pirmuoju sekre-
-    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
-    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
-    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
-    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
-    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
-    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
-    demonstracijas įsakus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
+    - t-003
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

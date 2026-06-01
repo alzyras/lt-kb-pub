@@ -29,7 +29,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
   pagrindžia:
     - c-004
@@ -44,17 +44,17 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   pagrindžia:
     - c-003
 
-- t-006
+- t-004
   teiginys: 'Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos L I E T U V O S I S T O R I J A 88 apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius Lietuvos.'
   pagrindžia:
-    - c-006
+    - c-005
 
 - t-005
   teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 87 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti.'
   pagrindžia:
-    - c-005
+    - c-006
 
-- t-001
+- t-006
   teiginys: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
   pagrindžia:
     - c-001
@@ -72,7 +72,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-006
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -116,9 +116,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
@@ -137,9 +137,9 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-005
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S

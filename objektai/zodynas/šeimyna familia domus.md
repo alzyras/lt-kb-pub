@@ -25,29 +25,29 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad 246 D.— cum omni domo et familia sua.'
   pagrindžia:
-    - c-002
+    - c-004
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.'
   pagrindžia:
-    - c-004
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad daug ir kitų pilių pastatė kilmingieji ir vasalai, atvykę į pagalbą šiai žemei iš įvairių Vokietijos kraštų drauge su visais namais, šeimynomis ir giminėmis, kurių vardus vienas dievas težino.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-004
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai todėl prūsai271, susirinkę visi kaip vienas,
@@ -66,9 +66,9 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
@@ -82,7 +82,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,7 +99,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   pagrindžia:
     - t-003
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     246 D.— cum omni domo et familia sua. D. domus (namai) — tai šeimos nariai, o
@@ -111,7 +111,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

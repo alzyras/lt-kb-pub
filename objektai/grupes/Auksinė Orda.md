@@ -1,123 +1,96 @@
 ---
 tipas: grupe
 pavadinimas: 'Auksinė Orda'
-sukurta: '2026-04-25'
-variantai:
-  - 'Aukso Orda'
-  - 'Aukso ordos'
-  - 'Aukso ordoje'
-  - 'Aukso ordos chanas'
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1360 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1360'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XIV'
 ---
 # Auksinė Orda
 
 ## Santrauka
+
 Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiame šaltinyje Auksinė Orda taip pat tiesiogiai įvardijama kaip silpnėjanti totorių valstybė, į kurios valdžią Vytautas siekė grąžinti Tochtamišą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
+    - c-001
+
+- t-002
   teiginys: 'Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.'
   pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-004
+    - c-002
+
+- t-003
   teiginys: 'Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.'
   pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-003
 
-- t-005
+- t-004
   teiginys: 'Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė.'
   pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
+    - c-004
+
+- t-005
   teiginys: 'Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.'
   pagrindžia:
-    - c-011
-    - c-010
-    - c-009
     - c-008
-    - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
+    - c-010
+    - c-012
+    - c-007
+    - c-005
+
+- t-006
   teiginys: 'Vytauto įtaka šiame pasakojime siejama ir su Aukso Orda.'
   pagrindžia:
-    - c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Trisdešimt metų vėliau baisu­ sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­ jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­ galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus, nors ir smarkiai buvo pirmojo sumuštas.'
-  pagrindžia:
-    - c-012
-- t-009
-  teiginys: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
+    - c-006
+
+- t-007
+  teiginys: 'Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą.'
   pagrindžia:
     - c-013
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jonas III su naujuoju chanu padarė sąjungą ir su-
-    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
-    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
-    Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-008
+  teiginys: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Auksinė Orda aiškiai įvardijama kaip silpnėjanti totorių valstybė.
+    - c-009
+
+- t-009
+  teiginys: 'Trisdešimt metų vėliau baisu­ sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­ jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­ galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus, nors ir smarkiai buvo pirmojo sumuštas.'
+  pagrindžia:
+    - c-011
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai nuo XIV amž. galo totorių valstybė (Aukso
+    (^6) PRATARMĖ
+    vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
     Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
     jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
+    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
+    didesnių nuostolių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Vytautas žadėjo Tochtamišą iškelti į Aukso ordos viršūnę.
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal rusų met­
@@ -128,41 +101,42 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     pats paimsiu^2 ».
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Vytauto bandymas pasodinti Tochtamišą Aukso ordoje baigėsi nesėkme.
+    - t-002
+
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
+    patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
+    žiaus karą^32.
     Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
     (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
+    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
+    sutriuškino švedų galybę (1709).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dabar teks nors trumpai susipažinti su tuo, kaip Vytautas
+    įsimaišė į totorių reikalus.
+    Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
+    amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
+    gė Aukso Ordą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-004
 
 - c-005
-  santrauka: Aukso Orda pristatyta kaip prie Kaspijos jūros susikūrusi totorių valstybė.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ši puslaukinė tauta atkeliavo iš Azijos į Europą apie XIII
-    amž. pradžią. Iš karto ji apsistojo paliai Kaspijos jūrą ir įstei­
-    gė Aukso Ordą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: Auksinėje Ordoje valdžios kaita sieta su Tamerlano ir Tochtamyšo kova.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Trisdešimt metų vėliau baisu­
@@ -173,60 +147,71 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
     tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
     buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: Vytauto įtaka išplėsta iki Aukso Ordos.
+    - t-005
+
+- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
     dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
     vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
     paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
-    Aukso Ordoje.
-  citata_rodoma: ""
+    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
+    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
+    skynė kelią į tikruosius jo didybės laikus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+
+- c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Trisdešimt metų vėliau baisu­
+    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
+    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
+    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
+    nors ir smarkiai buvo pirmojo sumuštas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
 - c-008
-  santrauka: Auksinė Orda papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Trisdešimt metų vėliau baisu­
-    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
-    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
-    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
-    nors ir smarkiai buvo pirmojo sumuštas.
-  citata_rodoma: ""
+    Pajutęs savo galy­
+    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
+    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
+    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
+
 - c-009
-  santrauka: Auksinė Orda papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tų žygių išdavos
+    Pajutęs savo galy­
+    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
+    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
     buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-  citata_rodoma: ""
+
+    - Aglenas ir jo įpėdinis Kotlogas-Timuras.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-008
+
 - c-010
-  santrauka: Auksinė Orda papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Trisdešimt metų vėliau baisu­
@@ -234,28 +219,13 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
     galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
     nors ir smarkiai buvo pirmojo sumuštas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
+
 - c-011
-  santrauka: Auksinė Orda papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tų žygių išdavos
-    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-006
-- c-012
-  santrauka: 'Trisdešimt metų vėliau baisu­ sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­ jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­ galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus, nors ir smarkiai buvo pirmojo sumuštas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų tarpe įvyko dideli skilimai,
@@ -267,27 +237,37 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-013
-  santrauka: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šis padarė
-    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
-    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
-
-    - Aglenas ir jo įpėdinis Kotlogas-Timuras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-009
+
+- c-012
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pajutęs savo galy­
+    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės. Šis padarė
+    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
+    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-013
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
+    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
+    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
+    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
+    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
+    Lietuva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -313,6 +293,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
 - [[objektai/asmenys/Jonas Survila]]
+- [[objektai/grupes/Karijotaičiai]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
 - [[objektai/asmenys/Kiprijonas]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
@@ -325,6 +306,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/grupes/Mongolų imperija]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
+- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]

@@ -25,19 +25,19 @@ Dusburgietis teigia, kad vangrapės krante (Mortensen H., Mortensen G., Die Besi
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 1344 m. čia minima pilis — huse Sareibe (Mortensen G., Beiträge..., p. 33; HGAPW).'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad vangrapės krante (Mortensen H., Mortensen G., Die Besiedlung.., 2, p. 81; Jakštas J., Mažosios Lietuvos.., p. 355).'
+  teiginys: 'Dusburgietis teigia, kad 1344 m. čia minima pilis — huse Sareibe (Mortensen G., Beiträge..., p. 33; HGAPW).'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad vangrapės krante (Mortensen H., Mortensen G., Die Besiedlung.., 2, p. 81; Jakštas J., Mažosios Lietuvos.., p. 355).'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1344 m. čia minima  pilis — huse Sareibe
@@ -49,9 +49,9 @@ Dusburgietis teigia, kad vangrapės krante (Mortensen H., Mortensen G., Die Besi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vangrapės krante (Mortensen H., Mortensen G., Die Besiedlung.., 2, p. 81; Jakštas J.,
@@ -62,4 +62,4 @@ Dusburgietis teigia, kad vangrapės krante (Mortensen H., Mortensen G., Die Besi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

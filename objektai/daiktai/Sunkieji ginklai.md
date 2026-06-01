@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Įgu­ la gynė sienas nepaprastai narsiai ir vokiečius, nepaisant jų 66 ## Puslapis 83 I KNYGA sunkiųjų ginklų, atrėmė, bet kai rytojaus dieną ruošėsi nau­ joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­ dami, kad sutiksią paklusti Ordinui.'
+  teiginys: 'Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­

@@ -1,34 +1,23 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vytauto ženklas'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1350 m.'
-  - '1399 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1978 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Vytauto ženklas
 
@@ -37,74 +26,45 @@ tags:
 Vytautas reikalavo, kad chanas savo piniguose muštų Vytauto ženklą.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Pasak šaltinio, Vytautas reikalavo, kad chanas jam paklustų ir savo piniguose muštų Vytauto ženklą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-001
   teiginys: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
   pagrindžia:
-    - c-004
-- t-007
+    - c-002
+
+- t-002
   teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
   pagrindžia:
-    - c-005
-- t-008
+    - c-001
+
+- t-003
   teiginys: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
   pagrindžia:
-    - c-006
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pasak šaltinio, Vytautas reikalavo, kad chanas jam paklustų ir savo piniguose muštų Vytauto ženklą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sustojęs rugpiučio 5 Vorsklos
-    krante, Vytautas laukė kelias dienas ir su chanu Timuru — Kut­
-    lugu vedė nesėkmingas derybas. Esą Vytautas reikalavęs chaną
-    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
-    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
-    vado Edigos dalinių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Esą Vytautas reikalavęs chaną
-    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
-    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
-    vado Edigos dalinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-005
   santrauka: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -122,12 +82,26 @@ Nenurodyta
     dos apsaugos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-006
+    - t-002
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sustojęs rugpiučio 5 Vorsklos
+    krante, Vytautas laukė kelias dienas ir su chanu Timuru — Kut­
+    lugu vedė nesėkmingas derybas. Esą Vytautas reikalavęs chaną
+    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   santrauka: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -143,21 +117,22 @@ Nenurodyta
     savo kariams ruoštis kautynėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Ediga]]
 - [[objektai/asmenys/Edigėjus]]
+- [[objektai/asmenys/Timuras]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
+- [[objektai/asmenys/Timur-Kutlugas]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

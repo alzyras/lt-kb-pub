@@ -1,26 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: '„nepriklausomybė svarbiausia“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 date_start: '2013'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - posakis
+amziai:
+  - 'XXI'
 ---
 # „nepriklausomybė svarbiausia“
 
@@ -29,38 +23,25 @@ tags:
 1935 m. balandį S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Negalime kautis dviejuose.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
   pagrindžia:
-    - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+    - c-001
 
-    L I E T U V O S  I S T O R I J A
-    178
-    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Stasys Raštikis ėmėsi moder-
+    Todėl 1934 m. pradėti megzti neoficialūs
+    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
     nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
     strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
 
@@ -69,11 +50,27 @@ tags:
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl 1934 m. pradėti megzti neoficialūs
+    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
+    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
+    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+
+    L I E T U V O S  I S T O R I J A
+    178
+    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

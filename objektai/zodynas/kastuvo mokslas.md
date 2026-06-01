@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kastuvo mokslas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - sąvoka
@@ -25,16 +16,15 @@ tags:
 Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie baltų gyvenimą, reikia griebtis «kastuvo mokslo », juo labiau, kad jau iš senojo geležies amžiaus (0-400 m. po Kr.) yra turtingų kapinynų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagaliau An­
@@ -45,11 +35,9 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
     nieko nepasako apie baltų gyvenimą, reikia griebtis «kastuvo
     mokslo », juo labiau, kad jau iš senojo geležies amžiaus (0-400 m.
     po Kr.) yra turtingų kapinynų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

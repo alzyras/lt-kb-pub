@@ -1,29 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'A. Vijūkas Kojelavičius'
-sukurta: '2026-04-25'
-variantai:
-  - 'Vijūkas Kojelavičius'
-  - 'A. Vijūko-Kojalavičiaus'
-  - 'Amžininko Alberto Vijūko-Kojelavičiaus'
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1648 m.'
   - '1651 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1648'
 date_end: '1651'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # A. Vijūkas Kojelavičius
 
@@ -32,184 +25,127 @@ tags:
 A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Lietuvos istorijos autorius. Šiame leidinyje jis papildomai pasirodo kaip 1651 m. veikalo apie žygius prieš Zaporožės kazokus autorius ir kaip amžininkas, kurio teiginiu remiamasi vertinant Lenkijos kariuomenės elgesį.
 
 ## Darbai
+
 - „Historia Lituana" (2 t.)
 - 1651 m. veikalas „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“
 
 ## Teiginiai
-- t-004
-  teiginys: 'Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
-  pagrindžia:
-    - c-003
-- t-007
-  teiginys: 'A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ aprašė Lojevo mūšį.'
+
+- t-001
+  teiginys: 'A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks.'
   pagrindžia:
     - c-004
-- t-008
+
+- t-002
+  teiginys: 'A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
+  pagrindžia:
+    - c-007
+
+- t-003
   teiginys: 'Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.'
   pagrindžia:
     - c-005
-- t-010
-  teiginys: 'Kojelavičius klaidingai teigė, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką.'
+
+- t-004
+  teiginys: 'A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.'
   pagrindžia:
-    - c-007
-- t-011
-  teiginys: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
+    - c-006
+
+- t-005
+  teiginys: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
   pagrindžia:
-    - c-008
-- t-012
-  teiginys: 'A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks.'
+    - c-003
+
+- t-006
+  teiginys: 'Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.'
   pagrindžia:
-    - c-009
-- t-013
-  teiginys: 'f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 Samogitia agri.'
+    - c-001
+
+- t-007
+  teiginys: 'A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“.'
   pagrindžia:
-    - c-010
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Amžininko Alberto Vijūko-Kojelavi-
-    čiaus teigimu, Lenkijos kariuomenė dažnai
-    stodavo į mūšį nepasvėrusi savo jėgų, ve-
-    dina paniekos priešui.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
-    prieš Zaporožės kazokus“ apie Lojevo mūšį.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-003
-  santrauka: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Amžininko Alberto Vijūko-Kojelavi-
-    čiaus teigimu, Lenkijos kariuomenė dažnai
-    stodavo į mūšį nepasvėrusi savo jėgų, ve-
-    dina paniekos priešui.
 
-    1648 m.
+- c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Amžininko Alberto Vijūko-Kojelavi-
+    čiaus teigimu, Lenkijos kariuomenė dažnai
+    stodavo į mūšį nepasvėrusi savo jėgų, ve-
+    dina paniekos priešui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-004
-  santrauka: 'A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ aprašė Lojevo mūšį.'
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Svetimšalių autoramento
-    pėstininkai būdavo ginkluoti ietimis arba muškietomis =
-
-    LOJEVO MUSIS
-
     Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
     prieš Zaporožės kazokus“ apie Lojevo mūšį.
-
-    „1649 metais [.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
-- c-005
-  santrauka: 'Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.'
+
+- c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Amžininko Alberto Vijūko-Kojelavi-
+    čiaus teigimu, Lenkijos kariuomenė dažnai
+    stodavo į mūšį nepasvėrusi savo jėgų, ve-
+    dina paniekos priešui.
+
+    1648 m. vasarą kazokai ėmė veržtis į
+    LDK pietrytinės sritis. Jie siautėjo Pinsko,
+    Starodubo ir Mozyriaus apylinkėse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Buvo nuveikta
+    3
+    Stryjkowski, Ks. XVI, Roz. I, k.
+    538, ed. warsz. K o j a ł o w i c z, Pars
+    II, lib. 3, p. 141.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    To­
+    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
+    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
+    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
+    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
+    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
+    e
+    Chroniam Prussiae.
     f
     Kojelavičius Pagraudenę vadi-
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-007
-  santrauka: 'Kojelavičius klaidingai teigė, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    16
-    Slaptajame Karaliaučiaus archyve yra
-    keletas laiškų originalų, aprašančių
-    šį Švitrigailos pabėgimą. Juos patei­
-    kia Kotzebue aukščiau cituotame
-    veikale: „Lepumos vaitas antradie­
-    nį po Šv. Baltramiejaus pranešė di­
-    džiajam magistrui, kad Švitrigaila
-    buvo pašalintas iš Didžiosios Kuni­
-    gaikštystės sostinės, o Žygimantas
-    paskelbtas didžiuoju Lietuvos ir Ru­
-    sios kunigaikščiu, kad Švitrigailai su
-    14 raitelių vos pavykę pasprukti iš
-    Ašmenos, kad pagaliau visas kraš­
-    tas palankiai priimąs Žygimantą";
-    dėl daugybės Švitrigailos ydų ir vai­
-    vados, ir kita vyresnybė naujajam sa­
-    vo valdovui tiesiai skelbė, kad Švit­
-    rigaila neplatinęs krikščionybės, bet
-    veikiau ją silpninęs ir dėl to leidęs
-    savo žmonai gyventi pagal jos va­
-    lią, o ne krikščioniškai; kad nelen­
-    kęs jos prie krikščionių tikėjimo, kad
-    ji tyčiojusis iš jai dovanoto šv. Jur­
-    gio paveikslo ir 1.1. Antrasis laiškas
-    yra paties Švitrigailos rašytas didžia­
-    jam magistrui iš Polocko, likus 5 die­
-    noms iki Mergelės Marijos gimimo,
-    tai yra, 1432 metų rugsėjo 3 dieną,
-    kuriame jam praneša, kad kuni­
-    gaikštis Žygimantas ir Alšėnų kuni­
-    gaikštis Simonas užpuolę jo dvarą
-    Ašmenoje ir kad jis sėkmingai su to­
-    torių generolais pasiekęs Polocką ir
-    dėl to prašo skubiai padėti. Taigi
-    klysta Kojelavičius ir Strij-
-    k o v s k i s sakydami, kad Švitrigai­
-    la pabėgęs į Smolenską, bet ne į Po­
-    locką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-008
-  santrauka: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
+    - t-003
+
+- c-006
+  santrauka: 'A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
@@ -222,53 +158,36 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     prieš Zaporožės kazokus“ apie Lojevo mūšį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-009
-  santrauka: 'A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks.'
+    - t-004
+
+- c-007
+  santrauka: 'A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Buvo nuveikta
-    3
-    Stryjkowski, Ks. XVI, Roz. I, k.
-    538, ed. warsz. K o j a ł o w i c z, Pars
-    II, lib. 3, p. 141.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-010
-  santrauka: 'f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 Samogitia agri.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
+    To­
+    liau Dusburgas rašo: Sed vexillum fratrum cum sibi adjuncti
+    petit ä mane usque ad meridiem in monte ex opposito Castri Jede-
+    mine ubi dictus comes de Homberg et piures alii nobiles dignita­
+    tem militiae susceperunt [Bet brolių vėliava jam prisijungus
+    kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
+    e
+    Chroniam Prussiae.
     f
     Kojelavičius Pagraudenę vadi-
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pikinierius pikinieriai]]
 - [[objektai/grupes/Kazokai]]
-- [[objektai/autoriai/Kotzebue]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/autoriai/Puslapis 206]]

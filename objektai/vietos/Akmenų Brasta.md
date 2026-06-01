@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Akmenų Brasta'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - vieta
@@ -25,16 +16,15 @@ tags:
 Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau Grajevo ir Točilovo ežerų.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau Grajevo ir Točilovo ežerų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet Melno sutartimi
@@ -44,10 +34,8 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
     Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
     Grajevo ir Točilovo ežerų. Šiauriau ji kilo stačiai per tyrus į pu­
     siau dalinamą Raigardo ežerą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -29,17 +29,17 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad 555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad dėl to, prisiartinus brolių kariuomenei, jis slapta atidarė pilies vartus, ir broliai, ten įsibrovę, visus išžudė, išskyrus vieną, būtent Sudargo sūnų, kuris vis dėlto buvo sunkiai 554 Konradas Žakas, atrodo, ne pastatė Goliubo pilį, o tik ją pritaikė.'
   pagrindžia:
     - c-002
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,4 +81,4 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'etmonas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -25,16 +15,15 @@ tags:
 Greta didžiojo etmono M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kristupas Radvila vėliau tapo didžiuoju etmonu ir buvo vadinamas Perkūnu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu
@@ -55,11 +44,9 @@ Greta didžiojo etmono M.
     gaminti Niunberge meistro
     Kunzo Lochnerio, XVI a.
     6 dešimtmetyje
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -104,6 +91,7 @@ Greta didžiojo etmono M.
 - [[objektai/asmenys/Simonas Kosakovskis]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
+- [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/grupes/Vilniaus konfederacija]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]

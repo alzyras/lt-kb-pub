@@ -1,24 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Dabar tai jie gaus'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -33,35 +19,31 @@ tags:
 - Pagrindinė forma: Dabar tai jie gaus
 
 ## Teiginiai
-- t-003
-  teiginys: '„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: '„Dabar tai jie gaus“ buvo siejama su kareivių noru kuo greičiau atkeršyti už ankstesnę dieną.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada pro rinktinę pravažiavo keturios vokiečių
     patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
     tą patį kartojo: „Dabar tai jie gaus“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

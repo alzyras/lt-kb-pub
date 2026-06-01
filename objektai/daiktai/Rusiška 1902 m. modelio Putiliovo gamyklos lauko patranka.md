@@ -1,25 +1,22 @@
 ---
 tipas: daiktas
 pavadinimas: 'Rusiška 1902 m. modelio Putiliovo gamyklos lauko patranka'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1801 m.'
+  - '1900 m.'
   - '1902 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
-date_start: '1902'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+date_start: '1801'
+date_end: '1902'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Rusiška 1902 m. modelio Putiliovo gamyklos lauko patranka
 
@@ -28,39 +25,41 @@ tags:
 p. 182, Lietuvos kariuomenės artileristai užtaiso 76, 2 mm kalibro rusišką 1902 m. modelio Putiliovo gamyklos lauko patranką, VDKM.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos kariuomenės artileristai užtaisė 76,2 mm kalibro rusišką 1902 m. modelio Putiliovo gamyklos lauko patranką.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos kariuomenės artileristai užtaisė 76,2 mm kalibro rusišką 1902 m. modelio Putiliovo gamyklos lauko patranką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 182, Lietuvos kariuomenės artileristai užtaiso 76, 2 mm kalibro rusišką 1902 m. modelio
     Putiliovo gamyklos lauko patranką, VDKM.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

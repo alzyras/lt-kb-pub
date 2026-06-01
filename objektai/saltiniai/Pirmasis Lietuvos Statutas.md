@@ -28,24 +28,24 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas, kuriame stengtasi suderinti gana skirtingus atskirų provin­ cijų įstatymus ir.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
+  teiginys: 'Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi apatija, ir miestiečių gyvenimas, pirma buvęs.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi kokios naudos ar iš prekybos, ar iš praplėstų gyventojų teisių; numanu, be abejo, kad po Žemaičių perleidimo kryžiuočiams visus buvo apėmusi apatija, ir miestiečių gyvenimas, pirma buvęs.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1528 metų sausio 20 dieną karalius pasirašė Žemaičių
@@ -61,9 +61,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
@@ -84,9 +84,9 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikšminga pergalė prie Griunvaldo pirmą kar­
@@ -107,4 +107,4 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

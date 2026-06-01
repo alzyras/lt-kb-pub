@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '— • — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.'
+  teiginys: 'Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau tokia be nau­
@@ -63,5 +64,5 @@ tags:
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/grupes/Vilniaus rusinai]]
 - [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“]]

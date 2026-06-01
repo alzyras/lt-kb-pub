@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
@@ -27,37 +18,40 @@ tags:
 Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate]. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas. ] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
+  teiginys: '] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.'
+  pagrindžia:
+    - c-002
+
+- t-002
   teiginys: 'Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate].'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: '] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo me­
@@ -147,42 +141,17 @@ Nenurodyta
     gynėjų ir pavyzdingų piliečių62.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jie nuolat jodinė­
-    ja raiti, kariauja be vežimų, turi daug
-    arklių iš svetimų kraštų ir neturi
-    143
-
-    ## Puslapis 160
-
-    VILNIAUS MIESTO ISTORIJA I  TOMAS
-    dviejų mylių nuo miesto, prie Vokės upės, bet nemaža dalis
-    pasistatė namus šiaurinėje bei vakarinėje miesto dalyje ir
-    pagausino Vilniaus mieste gyventojų jo labui63. Pirmiausia jų,
-    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
-    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
-    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
-    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.'
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ]* -
+    Gana grėsmingai įsiliepsnojo pirmieji nesuta­
+    rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
+    bus užtraukusi: mat parašė laišką Vytautui prašydama išmo-
+    miestų, kuriuos reikėtų saugoti.]* -
     Šitas, nepalankus lietuvių atžvilgiu
     palyginimas su totoriais gal persū­
     dytas, tačiau negalima būtų nugin­
@@ -207,11 +176,9 @@ Nenurodyta
     kapinės ir 1.1.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -222,7 +189,6 @@ Nenurodyta
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Turkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

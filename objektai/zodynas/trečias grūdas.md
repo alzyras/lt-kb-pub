@@ -66,6 +66,5 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/asmenys/Žygimantas Senasis]]

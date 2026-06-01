@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   pagrindžia:
     - c-003
@@ -51,7 +51,7 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-- t-001
+- t-003
   teiginys: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
   pagrindžia:
     - c-001
@@ -81,7 +81,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -122,7 +122,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   santrauka: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'

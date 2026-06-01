@@ -38,16 +38,16 @@ Nenurodyta
 - t-001
   teiginys: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,
@@ -68,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Totalitariniam režimui vėl ėmė diri-

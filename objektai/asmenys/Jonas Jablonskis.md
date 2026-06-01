@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Jablonskis'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1912 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1912'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Jonas Jablonskis
 
@@ -28,19 +24,22 @@ tags:
 Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kalbininkas Jonas Jablonskis 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kalbininkas Jonas Jablonskis 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvių mokslo draugijos iniciatorius ir
+    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
+    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
+    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
+    telkusi lenkiškai kalbančiuosius. Lietuvių mokslo draugijos iniciatorius ir
     Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
     Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja
     Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
@@ -48,12 +47,12 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     127
-    pirmininkas buvo J.
-  citata_rodoma: ""
+    pirmininkas buvo J. Basanavičius,
+    jau šiuo laikotarpiu lietuvių visuo-
+    menės laikytas tautos patriarchu.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

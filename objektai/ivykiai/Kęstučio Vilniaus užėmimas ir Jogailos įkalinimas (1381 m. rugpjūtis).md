@@ -42,19 +42,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Šitą įvvkdes, pats vedinas tūkstančiu rinktinių raitelių ūmai at­ puolė iš Trakų į Vilnių ir, stojęs kar­ tu su paslėptais mieste kariais, ap­ supęs Žemutinę pilį, sučiupo patį Jogailą su motina ir seserimi Marija bei jos vyru.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dėl to sudarė slaptą, be Kęstučio žinios, sutartį su Livoni­ jos magistru, kad anas padėtų jam vykdyti tuos kėslus.'
+  teiginys: 'Šitą įvvkdes, pats vedinas tūkstančiu rinktinių raitelių ūmai at­ puolė iš Trakų į Vilnių ir, stojęs kar­ tu su paslėptais mieste kariais, ap­ supęs Žemutinę pilį, sučiupo patį Jogailą su motina ir seserimi Marija bei jos vyru.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dėl to sudarė slaptą, be Kęstučio žinios, sutartį su Livoni­ jos magistru, kad anas padėtų jam vykdyti tuos kėslus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis, 1.465, o juo sekda­
@@ -81,9 +81,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to sudarė slaptą, be
@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

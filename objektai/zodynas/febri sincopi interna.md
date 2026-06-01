@@ -57,5 +57,4 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Steponas Batoras]]

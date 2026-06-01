@@ -1,13 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: šliuižiai
-sukurta: '2026-04-30'
-variantai:
-  - šliuižiu
+tipas: zodyno_irasas
+pavadinimas: 'šliuižiai'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # šliuižiai
 
@@ -21,28 +18,25 @@ Pagrindinė forma: `šliuižiai`.
 Vartojamos formos: `šliuižiu`.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
         šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
         kelio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

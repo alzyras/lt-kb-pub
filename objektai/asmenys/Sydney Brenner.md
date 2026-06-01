@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Sydney Brenner'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,19 +15,23 @@ tags:
 1865 m.), Gertrude Ellion (Geltrūda Elion, 1918–1999; 1988 m. premija; tėvas emigravo iš Lietuvos į JAV būdamas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. batsiuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m. premija).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sydney Brenneris gimė 1927 m. batsiuvio, 1910 m. emigravusio iš Lietuvos į Pietų Afriką, šeimoje ir 2002 m. gavo Nobelio premiją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sydney Brenneris gimė 1927 m. batsiuvio, 1910 m. emigravusio iš Lietuvos į Pietų Afriką, šeimoje ir 2002 m. gavo Nobelio premiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    O juk
+    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
+    tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
     reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
     susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
     reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
@@ -40,11 +41,9 @@ tags:
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

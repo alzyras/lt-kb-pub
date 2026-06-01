@@ -21,26 +21,26 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
 - t-001
   teiginys: 'Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad nors apie Ordino pastangas pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“ (III, 219). Netgi kalbėdamas apie XIV a.'
-  pagrindžia:
-    - c-003
+    - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“ (III, 179).'
+  teiginys: 'Dusburgietis teigia, kad nors apie Ordino pastangas pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“ (III, 219). Netgi kalbėdamas apie XIV a.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių kovas, nes pažymėjo tik tiek, kad „daug kartų su Nadruvos žeme buvo vedami šlovingi karai, neaprašytini nė šioje knygoje, nes būtų be galo atkaru skyrium apie viską pasakoti“ (III, 179).'
+  pagrindžia:
+    - c-001
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nedaug jis, matyt, tikslesnių žinių turėjo apie nadruvių
@@ -56,9 +56,9 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nors apie Ordino pastangas
@@ -69,9 +69,9 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   pagrindžia:
     - t-004
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paprastai Dusburgietis pasakoja tik apie svarbiausius įvykius, turinčius apibendrinamąją

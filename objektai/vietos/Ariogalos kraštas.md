@@ -1,21 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Ariogalos kraštas (kraštas)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Ariogalos kraštas'
-aliases:
-  - 'Ariogalos kraštas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - ordinas
@@ -29,16 +18,15 @@ tags:
 Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaičių), Dubysos (Bubių) ir kažkurias kitas pilis, o Prūsijos ordinas maršalo vadovaujamas vėlesniais mėnesiais siaubė Ariogalos kraštą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaičių), Dubysos (Bubių) ir kažkurias kitas pilis, o Prūsijos ordinas maršalo vadovaujamas vėlesniais mėnesiais siaubė Ariogalos kraštą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaičių), Dubysos (Bubių) ir kažkurias kitas pilis, o Prūsijos ordinas maršalo vadovaujamas vėlesniais mėnesiais siaubė Ariogalos kraštą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Livonijos ordinas vėl
@@ -55,10 +43,8 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
     prie Nemuno, rugpjūtį magistrui pavyko
     sunaikinti svarbią lietuvių Veliuonos
     pilį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

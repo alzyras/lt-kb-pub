@@ -29,15 +29,15 @@ amziai:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-002
   teiginys: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].'
@@ -46,7 +46,7 @@ amziai:
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     40), matyti,
@@ -69,9 +69,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -121,7 +121,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

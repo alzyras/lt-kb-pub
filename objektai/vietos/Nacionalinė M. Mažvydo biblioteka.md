@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Nacionalinė M. Mažvydo biblioteka'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - miestas
@@ -26,22 +17,41 @@ tags:
 Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje, dalis kovotojų išsidėstė ant Nacionalinės M. Nacionalinėje M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos punktas.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dalis A. Pociaus vadovaujamų ginkluotų vyrų išsidėstė ant Nacionalinės M. Mažvydo bibliotekos stogo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mažesni šaudmenys leido kariams nešiotis didesnes jų atsargas
+
+    deputatų pastangomis. Medicininę pagalbą
+    ir reikalingas priemones teikė miesto medi-
+    cinos įstaigos. Nacionalinėje M. Mažvydo
+    bibliotekoje Raudonojo Kryžiaus pastango-
+    mis įkurtas pirmosios medicinos pagalbos
+    ir medicininio vadovavimo punktas, atsa-
+    kingas už žmonių evakuaciją iš Parlamento
+    prieigų, medikamentai ir tvarsliava gauti
+    privačia medikų iniciatyva, o vėliau - pa-
+    galba ir iš užsienio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmomis sausio įvykių dienomis tik
@@ -58,33 +68,8 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
     stogo. Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos punktas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mažesni šaudmenys leido kariams nešiotis didesnes jų atsargas
-
-    deputatų pastangomis. Medicininę pagalbą
-    ir reikalingas priemones teikė miesto medi-
-    cinos įstaigos. Nacionalinėje M. Mažvydo
-    bibliotekoje Raudonojo Kryžiaus pastango-
-    mis įkurtas pirmosios medicinos pagalbos
-    ir medicininio vadovavimo punktas, atsa-
-    kingas už žmonių evakuaciją iš Parlamento
-    prieigų, medikamentai ir tvarsliava gauti
-    privačia medikų iniciatyva, o vėliau - pa-
-    galba ir iš užsienio.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

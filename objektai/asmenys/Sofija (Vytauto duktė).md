@@ -1,27 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Sofija (Vytauto duktė)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Sofija'
-  - 'Zofija'
-  - 'Sofiją'
-  - 'Vytauto dukterį Sofiją'
-  - 'Vytauto dukters Sofijos'
-  - 'Maskvos kunigaikštienė Sofija'
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -33,156 +16,48 @@ tags:
 Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu.
 
 ## Teiginiai
-- t-006
-  teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
-  pagrindžia:
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-001
   teiginys: 'Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.'
   pagrindžia:
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-009
+    - c-003
+
+- t-002
   teiginys: 'Po vyro mirties Sofija prašė Vytautą paimti jos sūnų Vosylių II globon, paliekant jam valstybę.'
   pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Štai, jis, ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­ likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­ 123 tautas, keršto ieškodamas, to nežiūri; savo dvare.'
-  pagrindžia:
-    - c-006
-- t-011
-  teiginys: 'Pagaliau, Vytauto pažiūras į tikėjimo ir valstybės santykius vaizduoja ir kai kurie jo paties gyvenimo atsitikimai.'
-  pagrindžia:
-    - c-007
-- t-012
+    - c-001
+
+- t-003
   teiginys: 'Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
   pagrindžia:
-    - c-008
+    - c-002
+
+- t-004
+  teiginys: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1387 m. apsilankė jis Vytauto dvare Lucke. Čia jie padarė su­
-    tartį. Kad ji būtų tvirtesnė, būsimas Maskvos viešpats turėjo
-    vesti Vytauto dukterį Sofiją. Tai buvo pirmas nelegalus Vytau­
-    to žingsnis, nukreiptas prieš lenkus ir jų valdovą Jogailą, ir be
-    jo žinios buvo slapta pasiųsta Vytauto delegacija galutinai baigti
-    derybas su Maskva.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet Jo­
-    gaila, tarytum pasityčiodamas iš tokių Vytauto reikalavimų,
-    ėmė jį persekioti ir visaip varžyti: be jo sutikimo uždraudė jam
-    savo dukterį Sofiją išleisti už Maskvos kunigaikščio; ėmė se­
-    kioti kiekvieną jo žingsnį, gaudyti jo bajorus ir torturuoti, kad
-    sužinotų ką Vytautas mąsto
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto
-    dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters
-    Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių
-    krašto atidavimą Ordinui po jų tėvų mirties.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-005
-  santrauka: 'Po vyro mirties Sofija prašė Vytautą paimti jos sūnų Vosylių II globon, paliekant jam valstybę.'
+
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas ruošėsi gerai juos nubausti. Bet dar Minske jį sutiko
     duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo
     sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė
     paimti sūnų savo globon, paliekant jam jo valstybę^2 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-006
-  santrauka: 'Štai, jis, ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­ likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­ 123 tautas, keršto ieškodamas, to nežiūri; savo dvare.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Štai, jis,
-    ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už
-    Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­
-    likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­
-
-
-    ```
-    123
-    ```
-    tautas, keršto ieškodamas, to nežiūri; savo dvare leidęs skelbti
-    husitizmą^1 ); katalikų tikėjimą, patekęs į rusų kraštus, kad ir
-    pagonio Jogailos verčiamas, keitęs į stačiatikių tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-007
-  santrauka: 'Pagaliau, Vytauto pažiūras į tikėjimo ir valstybės santykius vaizduoja ir kai kurie jo paties gyvenimo atsitikimai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pagaliau, Vytauto pažiūras į tikėjimo ir valstybės santykius
-    vaizduoja ir kai kurie jo paties gyvenimo atsitikimai. Štai, jis,
-    ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už
-    Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­
-    likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­
+    - t-002
 
-
-    ```
-    123
-    ```
-    tautas, keršto ieškodamas, to nežiūri; savo dvare leidęs skelbti
-    husitizmą^1 ); katalikų tikėjimą, patekęs į rusų kraštus, kad ir
-    pagonio Jogailos verčiamas, keitęs į stačiatikių tikėjimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-008
-  santrauka: 'Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino pasiuntinys, žinoma, jo nepriėmė.
@@ -194,21 +69,68 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     dami neužleisią niekam savo krašto.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-003
+
+- c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordino gi pasiuntiniui, kuris dar kaltino Vytautą, kad jis nebeiš­
+    duoda Torne žadėto rašto apie Žemaitijos grąžinimą po savo ir
+    Jogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet
+    labai neformalų. Ordino pasiuntinys, žinoma, jo nepriėmė.
+    Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto
+    dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters
+    Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių
+    krašto atidavimą Ordinui po jų tėvų mirties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet ir tokio fakto akivaizdoj, Vytautas dar kartą pareika­
+    lavo iš Jogailos ištesėti savo pažadus. Tai buvo paskutinis Vy­
+    tauto bandymas taikos keliu išspręsti nesusipratimus. Bet Jo­
+    gaila, tarytum pasityčiodamas iš tokių Vytauto reikalavimų,
+    ėmė jį persekioti ir visaip varžyti: be jo sutikimo uždraudė jam
+    savo dukterį Sofiją išleisti už Maskvos kunigaikščio; ėmė se­
+    kioti kiekvieną jo žingsnį, gaudyti jo bajorus ir torturuoti, kad
+    sužinotų ką Vytautas mąsto; buvo periminėjami jo laiškai: la­
+    bai buvo saugojamas, kad jis į kokią nors pusę ne tik pasiunti­
+    nio, bet ir laiško nepasiųstų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pabaigoj
+    1387 m. apsilankė jis Vytauto dvare Lucke. Čia jie padarė su­
+    tartį. Kad ji būtų tvirtesnė, būsimas Maskvos viešpats turėjo
+    vesti Vytauto dukterį Sofiją. Tai buvo pirmas nelegalus Vytau­
+    to žingsnis, nukreiptas prieš lenkus ir jų valdovą Jogailą, ir be
+    jo žinios buvo slapta pasiųsta Vytauto delegacija galutinai baigti
+    derybas su Maskva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Husitai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Liberum veto]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]

@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'D. Kleinas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -18,22 +15,20 @@ tags:
 Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms. Kleino giesmynas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1666 m. pasirodė D. Kleino giesmynas.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didelė lietuvių parapija buvo net Karaliau-
@@ -44,23 +39,19 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
     matiką, o 1666 m. — dvi giesmių knygas,
     kurios ėjo pagrindu vėlesnėms lietuvių liu-
     terionių giesmynų laidoms.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1666 m. pasirodė D. Kleino giesmynas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1666 m. D. Kleino giesmynas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

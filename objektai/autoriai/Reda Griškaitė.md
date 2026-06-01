@@ -26,12 +26,12 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Warszawa, 1995; Griškaitė R.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų analizei skir­ ta kultūros istorikės Redos Griškaitės studija.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -65,4 +65,4 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

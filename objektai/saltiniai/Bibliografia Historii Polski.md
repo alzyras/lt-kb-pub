@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Bibliografia Historii Polski'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1965 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1965'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Bibliografia Historii Polski
 
@@ -27,42 +21,33 @@ tags:
 Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai. Įvairių kitų bendrai rytų Europą lie­ čiančių bibliografinių rinkinių ir gausių specialių bibliografijų sąrašus davė : Bibliografia Historii Polski, t.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '„Bibliografia Historii Polski“ I tomo pirmoje dalyje pateikė rytų Europą liečiančių bibliografinių rinkinių ir specialių bibliografijų sąrašus.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Kolektyvinė PAN Istorijos Instituto 1965-67 m. Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
+    - c-001
+
+- t-002
+  teiginys: 'Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
   pagrindžia:
-    - c-003
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Kolektyvinė PAN Istorijos Instituto 1965-67 m. Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
+
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kolektyvinė PAN Istorijos Instituto 1965-67 m. Varšuvoje išleistoji**
-    **_Bibliografia Historii Polski_** **kiek mažiau dėmesio beparodo Lietuvos istorijai.
-    Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos
-    bendrų Lietuvos ir Lenkijos istorijos klausimų, šitas bibliografinis veikalas
-    pasidaro gana svarbus Lietuvos istorijos tyrinėtojui.
+    Šitomis trumpomis nuorodomis plačią Lietuvos istorijos sritį liečiančių
+    bibliografijų sąrašai nėra užbaigti. Įvairių kitų bendrai rytų Europą lie­
+    čiančių bibliografinių rinkinių ir gausių specialių bibliografijų sąrašus davė :**
+    **_Bibliografia Historii Polski,_** **t. 1, dal. 1, (1965), p. 3-37.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Varšuvoje išleistoji**
@@ -72,25 +57,8 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
     pasidaro gana svarbus Lietuvos istorijos tyrinėtojui.**
     **_Bibliografia Historii Polski,_** **red. H. Madurowicz-Urbańska, t. 1 (iki
     1795 m.): dal.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '„Bibliografia Historii Polski“ I tomo pirmoje dalyje pateikė rytų Europą liečiančių bibliografinių rinkinių ir specialių bibliografijų sąrašus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitomis trumpomis nuorodomis plačią Lietuvos istorijos sritį liečiančių
-    bibliografijų sąrašai nėra užbaigti. Įvairių kitų bendrai rytų Europą lie­
-    čiančių bibliografinių rinkinių ir gausių specialių bibliografijų sąrašus davė :**
-    **_Bibliografia Historii Polski,_** **t. 1, dal. 1, (1965), p. 3-37.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

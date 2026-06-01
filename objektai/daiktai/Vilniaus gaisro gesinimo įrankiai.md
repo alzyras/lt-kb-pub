@@ -1,32 +1,18 @@
 ---
 tipas: daiktas
-pavadinimas: "Vilniaus gaisro gesinimo įrankiai"
-sukurta: '2026-05-27'
-variantai:
-  - odiniai kibirai
-  - kirviai
-  - kabliai
-aliases: []
+pavadinimas: 'Vilniaus gaisro gesinimo įrankiai'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1524 m. Vilniaus magistrato priekaišto kontekstas"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1524 m."
-periodas: ankstyvieji_naujieji_laikai
-periodo_grupes:
-  - LDK
-amziai:
-  - XVI
-date_start: "1524"
-date_end: "1524"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+  - '1524 m.'
+date_start: '1524'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - įrankis
+amziai:
+  - 'XVI'
 ---
 # Vilniaus gaisro gesinimo įrankiai
 
@@ -35,33 +21,37 @@ tags:
 Vilniaus gaisro gesinimo įrankiai 1524 m. minimi karaliaus priekaište magistratui. Miestui priekaištauta, kad jis neturi odinių kibirų, kirvių ir kablių gaisrui gesinti.
 
 ## Pavadinimai šaltiniuose
+
 - odinių kibirų
 - kirvių
 - kablių
 
 ## Laikotarpis ir datos
+
 - 1524 m.
 
 ## Kas tai
+
 Gaisrams gesinti reikalingi miesto įrankiai.
 
 ## Naudojimas
+
 Skirti gaisrui gesinti.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1524 m. karalius priekaištavo Vilniaus magistratui, kad miestas neturi gaisrui gesinti odinių kibirų, kirvių ir kablių."
+  teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui, kad miestas neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Išvardijami miesto gaisro gesinimui reikalingi įrankiai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Raštininkas Mikola
@@ -73,11 +63,9 @@ Nenurodyta
     Kad neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.
     Kad trukdo skųstis karaliui.
     Už visa tai karalius baudžia šimto kapų grašių bauda.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

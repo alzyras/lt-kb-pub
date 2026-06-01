@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Hohendorfas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - karas
@@ -26,16 +17,15 @@ tags:
 Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­ hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­ gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Hohendorfe prie Soldau sustojusiems sąjungininkams Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hohendorfe prie Soldau sustojusiems sąjungininkams Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Magistras tada atsakė, kad ginčą
@@ -44,10 +34,8 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
     link. Kai sąjungininkai sustojo stovykloj netoli Soldau Ho­
     hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
     gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

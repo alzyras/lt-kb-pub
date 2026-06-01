@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'jakobinizmas jakobinų klubas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - reforma
@@ -21,50 +18,51 @@ tags:
 LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LLV sąjungininkę Prūsiją išgąsdino gali-
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
+    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
+    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
+    savo centru paskelbė Gardiną. LLV sąjungininkę Prūsiją išgąsdino gali-
     mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
     na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
     sienas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Šis klubas rengė manifestacijas, privertusias
+    Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos
+    eigą – sumanymas rengti egzekuciją kilo oficialiai sukilimo valdžiai opo-
+    navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
     teismą paskelbti minėtus mirties nuosprendžius. Visa tai atšaldė dalį LLV
     bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
     sijos kariuomenei imtis veiksmų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -19,16 +19,16 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
 - t-001
   teiginys: 'Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   santrauka: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -42,7 +42,7 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     rusų bei lietuvių kalbomis, pasveikino ir

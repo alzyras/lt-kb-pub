@@ -92,5 +92,4 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mikalojus fon Parsau]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/asmenys/Reimaras fon Hanė]]

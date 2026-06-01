@@ -33,26 +33,26 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius, subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė, plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami į.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
-  pagrindžia:
-    - c-002
-    - c-003
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims sugrąžintą taiką upeliai Ragava ir Veisika (GAO, p.'
   pagrindžia:
     - c-001
     - c-004
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims sugrąžintą taiką upeliai Ragava ir Veisika (GAO, p.'
+  pagrindžia:
+    - c-003
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
@@ -65,10 +65,10 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+    - t-001
     - t-002
-    - t-003
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     171 (166). Apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims
@@ -77,9 +77,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     171 (166). Apie pagudėnų pavergimą bei didžiausias jų skerdynes ir apie krikščionims
@@ -91,9 +91,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
@@ -111,7 +111,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

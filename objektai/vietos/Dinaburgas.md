@@ -22,21 +22,21 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - t-001
   teiginys: 'Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel- 314 ## Puslapis 331 IV KNYGA menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Livoniae) TI, p. 136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
+  teiginys: 'Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Livoniae) TI, p. 136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -51,9 +51,10 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
+  santrauka: 'Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [Rūstusai Žygimante, kaip senasis karalius mėtau
@@ -84,9 +85,9 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Plg. Ind. cod. kist. dipt. Livoniae)

@@ -45,29 +45,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
+  teiginys: 'Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius.'
   pagrindžia:
-    - c-002
+    - c-004
 
-- t-001
-  teiginys: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
+- t-003
+  teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
   pagrindžia:
     - c-001
 
+- t-004
+  teiginys: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
@@ -80,9 +80,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
@@ -97,9 +97,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tatai yra tiesiog pažodinis D1 u-
@@ -115,9 +115,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-003
+- c-004
+  santrauka: 'Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto visi
@@ -143,7 +144,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

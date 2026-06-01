@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'V. Vitkauskas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,26 +15,26 @@ tags:
 Vitkauskas, gen.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
+    Tačiau ministro pirmininko
+    Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
+    tikio kandidatūrą atmetė. A. Smetonos siūlymą priešintis ginklu palaikė
+    vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

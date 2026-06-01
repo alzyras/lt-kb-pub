@@ -22,19 +22,19 @@ Dusburgietis teigia, kad 76; Ochmański J., Litewska granica..., p. 27—33). Du
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad ochmański J.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 76; Ochmański J., Litewska granica..., p. 27—33).'
+  teiginys: 'Dusburgietis teigia, kad ochmański J.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 76; Ochmański J., Litewska granica..., p. 27—33).'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ochmański J. Litewska granica etniczna na wschodzie od epoki plemiennej do XVI
@@ -43,9 +43,9 @@ Dusburgietis teigia, kad 76; Ochmański J., Litewska granica..., p. 27—33). Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     571 D.— Criwicie, Jer.— Kriwitzin, in daz lant Kriwitzin. Krivičių žeme Dusburgietis
@@ -56,4 +56,4 @@ Dusburgietis teigia, kad 76; Ochmański J., Litewska granica..., p. 27—33). Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

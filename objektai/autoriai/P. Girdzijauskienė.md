@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'P. Girdzijauskienė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1905 m.'
   - '1955 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1905'
 date_end: '1955'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - sukilimas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # P. Girdzijauskienė
 
@@ -29,16 +25,15 @@ tags:
 1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­ kienė: 1905-1907 metų revoliucija Lietuvoje (1955).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
@@ -53,11 +48,9 @@ tags:
     apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
     1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
     kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -19,21 +19,21 @@ Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H. Dusburgieti
 - t-001
   teiginys: 'Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
+  pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
+  teiginys: 'Dusburgietis teigia, kad 1-oje pusėje (Łowmiański H.'
   pagrindžia:
     - c-003
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 1-oje pusėje (Łowmiański H.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
@@ -43,9 +43,9 @@ Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H. Dusburgieti
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     dešimtmetyje)
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H. Dusburgieti
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     177 Vardas  ir faktas leidžia galvoti apie gotus  ir jų giminaičius — gepidus. Gotai
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H. Dusburgieti
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -17,12 +17,12 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymių, kuris partijai įsakius dirbs bet kur pagal žinomos dainos žodžius „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“.'
   pagrindžia:
     - c-001
@@ -46,7 +46,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -63,7 +63,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Sovietų santvarkai hipių veikla (dėmesys savo vidiniam pasauliui, absoliučios laisvės išpažinimas, karinės tarnybos sovietų kariuomenėje vengimas, „išsišokantis apsirengimo stilius“, ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo.'

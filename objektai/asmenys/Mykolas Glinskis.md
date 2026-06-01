@@ -1,28 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mykolas Glinskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1501 m.'
   - '1506 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1501'
 date_end: '1506'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
   - karvedys
   - kunigaikštis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mykolas Glinskis
 
@@ -31,75 +28,50 @@ tags:
 Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir savo favorita, dvaro maršalką, kunigaikštį Mykolą Glinskį, o pats grįžo į Vilnių. Kur kas geriau karybos meną išmanė totorių kilmės Mykolas Glinskis. Tuo pat metu Glinskis išsiuntė žvalgybinį husarų būrį, kuriam pavyko užklupti nedidelį totorių padalinį.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Tuo pat metu Glinskis išsiuntė žvalgybinį husarų būrį, kuriam pavyko užklupti nedidelį totorių padalinį.'
   pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Tada Glinskis davė komandą puolimui ir nuaidėjus trimitų garsams LDK kariuomenė pakilo į ataką.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių rugpjūčio 12 d.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Mykolas Glinskis vedė į kovą su priešais paskubomis surinktus 10 000 bajorų, kareivių ir ginkluotų žmonių.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės.'
-  pagrindžia:
-    - c-007
-- t-008
+    - c-002
+
+- t-002
   teiginys: 'Paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d. Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
   pagrindžia:
+    - c-006
+
+- t-003
+  teiginys: 'Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės.'
+  pagrindžia:
+    - c-005
+
+- t-005
+  teiginys: 'Mykolas Glinskis vedė į kovą su priešais paskubomis surinktus 10 000 bajorų, kareivių ir ginkluotų žmonių.'
+  pagrindžia:
+    - c-007
+
+- t-006
+  teiginys: 'Tada Glinskis davė komandą puolimui ir nuaidėjus trimitų garsams LDK kariuomenė pakilo į ataką.'
+  pagrindžia:
+    - c-003
+
+- t-007
+  teiginys: 'Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.'
+  pagrindžia:
     - c-008
-- t-009
+
+- t-008
   teiginys: 'Tad paskubomis susirinko 10 000 bajorų, kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­ dė narsus, bet pasipūtęs, Glinskis.'
   pagrindžia:
-    - c-009
+    - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tą pačią
-    dieną ten buvo atvykęs jau mirtinai nega-
-    luojantis LDK valdovas Aleksandras. Jis
-    vyriausiais kariuomenės vadais paskyrė
-    LDK etmoną Stanislovą Kišką ir savo favo-
-    rita, dvaro maršalką, kunigaikštį Mykolą
-    Glinskį, o pats grįžo į Vilnių. Stanislovas
-    Kiška nebuvo labai gabus karvedys, bet jau
-    turėjo tam tikros patirties kovose su toto-
-    riais ir maskvėnais (po to, kai 1502 m. jam
-    pavyko apginti Smolenską nuo maskvėnų,
-    jam buvo patikėtos etmono pareigos).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kur
@@ -125,15 +97,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     iš kurių tais laikais mokėsi naujovėms
     atviri Europos šalių valdovai ir jų geriausi
     karvedžiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Tuo pat metu Glinskis išsiuntė žvalgybinį husarų būrį, kuriam pavyko užklupti nedidelį totorių padalinį.'
+    - t-003
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo pat metu
@@ -147,15 +117,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 
     buvo vadinami priešo žmonės, iš kurių
     buvo kvočiama informacija).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tada Glinskis davė komandą puolimui ir nuaidėjus trimitų garsams LDK kariuomenė pakilo į ataką.'
+    - t-001
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada Glinskis davė komandą
@@ -176,88 +144,11 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     kairės ir visu ypu įsirėžė į jų dešinįjį flangą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių rugpjūčio 12 d.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio
-    nugalėtojas Mykolas
-    Glinskis triumfuo-
-    damas grįžo į Vilnių
-
-    YD rugpjūčio 12 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Mykolas Glinskis vedė į kovą su priešais paskubomis surinktus 10 000 bajorų, kareivių ir ginkluotų žmonių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tad paskubomis susirinko 10 000 bajorų,
-    kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
-    dė narsus, bet pasipūtęs, Glinskis. Gausūs Krymo ordos ka­
-    rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
-    Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje
-    užkirto šiems azijiečiams kelią į artimiausias šios valsty­
-    bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
-    Aleksandrą pasiekė Vilniuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mirė karalius Žemu­
-    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
-    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
-    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
-    dėl pavojingos Glinskio puikybės. Pastarosios pergalės iš­
-    garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
-    sios Kunigaikštystės valdžią48.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d. Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Paskutiniai
 
-    totoriai buvo išgaudyti
-
-    rugpjūčio 8 d. Mūšio
-    nugalėtojas Mykolas
-    Glinskis triumfuo-
-    damas grįžo į Vilnių
-
-    YD rugpjūčio 12 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Tad paskubomis susirinko 10 000 bajorų, kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­ dė narsus, bet pasipūtęs, Glinskis.'
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas būrys, įveikęs Ne­
@@ -271,11 +162,82 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     bės vaivadijų sostines47.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mirė karalius Žemu­
+    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
+    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
+    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
+    dėl pavojingos Glinskio puikybės. Pastarosios pergalės iš­
+    garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
+    sios Kunigaikštystės valdžią48.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-006
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    stovyklavietę. Paskutiniai
+
+    totoriai buvo išgaudyti
+
+    rugpjūčio 8 d. Mūšio
+    nugalėtojas Mykolas
+    Glinskis triumfuo-
+    damas grįžo į Vilnių
+
+    YD rugpjūčio 12 d. Džiugi
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tad paskubomis susirinko 10 000 bajorų,
+    kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
+    dė narsus, bet pasipūtęs, Glinskis. Gausūs Krymo ordos ka­
+    rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
+    Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje
+    užkirto šiems azijiečiams kelią į artimiausias šios valsty­
+    bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
+    Aleksandrą pasiekė Vilniuje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-008
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tą pačią
+    dieną ten buvo atvykęs jau mirtinai nega-
+    luojantis LDK valdovas Aleksandras. Jis
+    vyriausiais kariuomenės vadais paskyrė
+    LDK etmoną Stanislovą Kišką ir savo favo-
+    rita, dvaro maršalką, kunigaikštį Mykolą
+    Glinskį, o pats grįžo į Vilnių. Stanislovas
+    Kiška nebuvo labai gabus karvedys, bet jau
+    turėjo tam tikros patirties kovose su toto-
+    riais ir maskvėnais (po to, kai 1502 m. jam
+    pavyko apginti Smolenską nuo maskvėnų,
+    jam buvo patikėtos etmono pareigos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

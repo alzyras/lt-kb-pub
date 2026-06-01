@@ -18,24 +18,24 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad d.— Waistotepila (castrum Waistotepilam), Jer.— Waistotenpil; Vaistotpilis (Vaistoto pilis — GAO, p. 192)—sena prūsų pilis, kurioje įsitvirtino Ordinas (Ewald A.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu Vaistotpilis389.'
+  teiginys: 'Dusburgietis teigia, kad d.— Waistotepila (castrum Waistotepilam), Jer.— Waistotenpil; Vaistotpilis (Vaistoto pilis — GAO, p. 192)—sena prūsų pilis, kurioje įsitvirtino Ordinas (Ewald A.'
   pagrindžia:
     - c-001
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu Vaistotpilis389.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D.— Waistotepila (castrum Waistotepilam), Jer.— Waistotenpil; Vaistotpilis (Vaistoto
@@ -44,7 +44,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,9 +65,9 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vaistotpilio pilis Nesitenkindami broliams padarytais nuostoliais, prūsai subūrė didžiulę kariuomenę ir apsupo Vaistotpilio pilį; jie smarkiai puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi.'

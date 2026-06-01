@@ -55,29 +55,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219, 223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
+  teiginys: 'Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219, 223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
@@ -94,9 +94,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
@@ -112,9 +112,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
@@ -129,9 +129,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė
@@ -149,7 +149,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

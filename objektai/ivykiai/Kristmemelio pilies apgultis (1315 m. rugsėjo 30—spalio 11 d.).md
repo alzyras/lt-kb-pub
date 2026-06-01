@@ -44,13 +44,13 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.'
   pagrindžia:
     - c-001
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad nieko šiuo būdu nepešę, galop jie 17 dieną, kai jau ketino pasitraukti, sužinoję, kad artėja magistras su didele kariuomene, priėjo pilies gynybinį griovį ir ten prinešė malkų, šieno, stagarų ir šiaudu, norėdami žūt būt pilį sudeginti.'
   pagrindžia:
-    - c-002
     - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -72,7 +72,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
@@ -88,7 +88,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     dieną puldinėjo lietuviai; tose kovose netikėliai neteko daug vyrų nukautaisiais ir sunkiai
@@ -104,7 +104,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nieko šiuo būdu nepešę, galop jie 17

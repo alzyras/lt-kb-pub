@@ -1,24 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Lyčių pasiskirstymas ūkio ir namų darbuose'
-sukurta: '2026-04-30'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Lyčių pasiskirstymas ūkio ir namų darbuose
 
@@ -30,6 +16,7 @@ Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir sa
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: socialinė praktika
 
 ## Atlikimas
@@ -42,16 +29,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tuo tarpu motriškosios po namus trūsėjo. Žiemą linus šukavo, vilnas kedino ir verpė, vienos audė audeklus,
@@ -60,13 +46,11 @@ Nenurodyta
         gerbė, beje, suolus, staktas, palanges, duris iš vidaus ir lauko, kaip sakiau, švietė^376 , nuotakos
         sau kraičius klodamos, o senosios butai drabužį tiekdamos, trumpai sakant, motriškosios varė
         plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

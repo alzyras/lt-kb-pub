@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Baroko epocha Vilniaus baroko mokykla'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
@@ -19,27 +16,28 @@ tags:
 buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Christoph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
+    Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+    XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
+    nulėmė jėzuitai. Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
     o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
     kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
     toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

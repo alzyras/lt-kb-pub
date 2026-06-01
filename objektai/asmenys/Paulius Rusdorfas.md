@@ -24,24 +24,24 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės.'
+  teiginys: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: '1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.'
+- t-002
+  teiginys: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     A
@@ -70,9 +70,10 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
+  santrauka: 'Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     54
@@ -118,7 +119,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Foe- [Amžinosios vienybės ir santarvės
@@ -145,7 +146,7 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

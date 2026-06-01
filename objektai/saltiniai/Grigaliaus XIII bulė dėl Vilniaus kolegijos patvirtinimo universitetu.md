@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Grigaliaus XIII bulė dėl Vilniaus kolegijos patvirtinimo universitetu'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -12,23 +9,18 @@ datos:
   - '1850 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVI'
-  - 'XIX'
-  - 'XXI'
 date_start: '1577'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - popiežius
   - saltinis
   - valdovas
+amziai:
+  - 'XVI'
+  - 'XXI'
 ---
 # Grigaliaus XIII bulė dėl Vilniaus kolegijos patvirtinimo universitetu
 
@@ -37,18 +29,15 @@ tags:
 Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).
 
 ## Teiginiai
+
 - t-001
   teiginys: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -67,10 +56,8 @@ Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kv
     popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
     versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

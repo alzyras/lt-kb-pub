@@ -35,29 +35,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: '1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Susitikę abudu pusbroliai tuojau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lietuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila davė savo sutikimą dėl karūnacijos.'
   pagrindžia:
     - c-004
 
 - t-004
-  teiginys: 'Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių.'
-  pagrindžia:
-    - c-004
-
-- t-001
-  teiginys: 'Susitikę abudu pusbroliai tuojau susitarė: Vytautas sutiko garantuoti, kad po jo mirties Lietuva neatiteks niekam kitam, kaip tik Jogailos sūnui, o Jogaila davė savo sutikimą dėl karūnacijos.'
-  pagrindžia:
-    - c-001
-
-- t-002
   teiginys: 'Mirties priežastį vieni šaltiniai nurodo votį ant peties, kiti susitrenkimą.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
@@ -67,9 +67,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pa­
@@ -81,9 +81,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mirties priežastį vieni šaltiniai nurodo votį ant pe-
@@ -96,9 +96,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-001
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paaštrėjus ginčui dėl karūnacijos, 1430 m.
@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

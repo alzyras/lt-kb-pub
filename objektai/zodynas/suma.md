@@ -58,6 +58,7 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
 - [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]
 - [[objektai/zodynas/bursa konviktas]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
+- [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė]]
 - [[objektai/asmenys/Laurynas Volskis]]
 - [[objektai/asmenys/Marcelis Suchodolskis]]
 - [[objektai/asmenys/Stanislovas Goreckis]]

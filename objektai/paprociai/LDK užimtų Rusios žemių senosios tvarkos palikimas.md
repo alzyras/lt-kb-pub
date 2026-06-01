@@ -1,17 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: "LDK užimtų Rusios žemių senosios tvarkos palikimas"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 21 LDK užimtų Rusios žemių senosios tvarkos palikimas'
-  - 'Kandidatas LDK užimtų Rusios žemių senosios tvarkos palikimas'
-aliases:
-  - 'Kandidatas 21 LDK užimtų Rusios žemių senosios tvarkos palikimas'
-  - 'Kandidatas LDK užimtų Rusios žemių senosios tvarkos palikimas'
+pavadinimas: 'LDK užimtų Rusios žemių senosios tvarkos palikimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dinastija
   - kraštas
@@ -25,37 +18,40 @@ tags:
 Senosios Rusios žemės savaime prie LDK kaip švelnesnio okupanto nelinko, lietuvių ekspansijoje būta visko: ir tiesioginio nukariavimo, ir įtakos skleidimo kitais būdais, nes istorija nežino „savanoriškų“ pasijungimų prie didvalstybių.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Užėmę svetimus kraštus, lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Užėmę svetimus kraštus, lietuvių kunigaikščiai iš pradžių palikdavo senąsias kunigaikštijų struktūras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Net dinastinės
@@ -66,11 +62,9 @@ Nenurodyta
     „senovės negriauname, naujovių neįvedame“  – jie palikdavo senąsias
     kunigaikštijų struktūras (tai vėliau išvirs į sritines privilegijas, šiuolaiki-
     niais terminais – autonomijas).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

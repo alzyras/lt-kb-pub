@@ -38,34 +38,34 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad prūsų, Prūsijos vardo kilmė nėra aiški.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
   pagrindžia:
     - c-003
 
-- t-005
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'Dusburgietis teigia, kad dėl prūsų.., p. 372—373; prūsis, prūsas iš pradžių galėjo būti vadinami išprusę, išsilavinę, daug žiną žmonės, plg.'
   pagrindžia:
     - c-005
 
-- t-001
+- t-004
   teiginys: 'Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X a.— Bruzi, Burūs. Pruzze, Pruze ir pan. (MPKP, 1, p. 13—14). XII—XIII a. istoriniuose aktuose vardas dar nenusistovėjęs: Pruzia (1141 m.—PUB, 1, 1, Nr. 2, p. 1; 1212 m.— Nr. 10, p. 7; 1222 m.— Nr. 41 A, p..'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
   pagrindžia:
     - c-002
 
+- t-005
+  teiginys: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
@@ -84,9 +84,9 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X a.— Bruzi, Burūs. Pruzze, Pruze ir
@@ -101,9 +101,9 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsų, Prūsijos vardo kilmė nėra aiški. Tuo klausimu skelbta įvairių hipotezių (žr.
@@ -114,9 +114,9 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
@@ -130,7 +130,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

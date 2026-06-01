@@ -45,12 +45,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo.'
   pagrindžia:
     - c-001
@@ -77,7 +77,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -106,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

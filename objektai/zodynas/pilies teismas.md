@@ -1,15 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pilies teismas (pilis)'
-sukurta: '2026-04-25'
-variantai:
-  - 'pilies teismas'
-aliases:
-  - 'pilies teismas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - sąvoka
@@ -21,16 +16,15 @@ tags:
 Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiekviename dabar
@@ -40,11 +34,9 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
     Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
     daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1988 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1988'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - mokslininkas
   - seimas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)
 
@@ -30,38 +24,41 @@ tags:
 Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suvažiavimas, kuriame dalyvavo 1 021 delegatas. Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio 25 d. išrinktas muzikologas Vytautas Landsbergis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvažia-
@@ -69,34 +66,31 @@ Nenurodyta
     iš užsienio šalių. Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
     nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuo šiol organi-
+    Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lap-
+    kričio 25 d. išrinktas muzikologas Vytautas Landsbergis. Nuo šiol organi-
     zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
     tijai. LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir
     lūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti
     politinės partijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Suvažiavimas
+    Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
     nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais. LPS
     Bendrojoje programoje įvardytas pagrindinis siekis – remti socia­listinės
@@ -109,9 +103,7 @@ Nenurodyta
     kad LPS remia SSRS vadovybės pradėtas reformas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -26,13 +26,14 @@ V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštini
 ## Teiginiai
 
 - t-001
-  teiginys: 'V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika 155 ## Puslapis 172 VILNIAUS MIESTO ISTORIJA / TOMAS pačiais 1386 metais Šv.'
+  teiginys: 'Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais

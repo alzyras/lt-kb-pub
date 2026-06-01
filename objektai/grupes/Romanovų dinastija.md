@@ -1,33 +1,22 @@
 ---
 tipas: grupe
 pavadinimas: 'Romanovų dinastija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1598 m.'
-  - '1604 m.'
-  - '1613 m.'
-  - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1598'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dinastija
   - grupe
+amziai:
+  - 'XVI'
+  - 'XXI'
 ---
 # Romanovų dinastija
 
@@ -38,43 +27,27 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ## Teiginiai
 
 - t-001
-  teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
-- t-002
   teiginys: 'Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,— pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo.'
   pagrindžia:
-    - c-002
+    - c-001
+
+- t-002
+  teiginys: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
+  pagrindžia:
+    - c-003
 
 - t-003
   teiginys: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (iš tikrųjų Romanovų vyriškoji
-    linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
-    novais iki pat galo).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,— pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Šituo atžvilgiu XV amž. gale
+    Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
     Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
     garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
     Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
@@ -86,17 +59,15 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     sijos įtakon.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
-  santrauka: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai
+    (^32) ĮVADAS
+    Ir tolimesnė epocha turi abiejų tautų istorijoje paraleles. Kai
     vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
     lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
     buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
@@ -106,27 +77,42 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     vandenį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O
+    kai jos gelbėti išsiruošė patsai karalius Zigmantas su didesnėmis
+    jėgomis, jau buvo per vėlų: įgula buvo priversta iš bado pa-
+    siduoti. Caru buvo išrinktas metropolito Filareto, Teodoro
+    Romanovo, sūnus Mykolas (1613 m.). Su juo prasidėjo nau-
+    joji Maskvos, o vėliau „visos Rusijos" carų dinastija, kuri iš-
+    gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji
+    linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
+    novais iki pat galo).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-004
-  santrauka: Romanovų dinastija papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    jos valdomas rytų slavų žemes. Šituo atžvilgiu XV amž. gale
+    Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
     Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
     garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
     Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
     pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo reikš­
     mingesnių atliepimų pamažu savo tarptautinio svorio netenkančioje
     «abiejų tautų » respublikoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -141,6 +127,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Slavai]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]

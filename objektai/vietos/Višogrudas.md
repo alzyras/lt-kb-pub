@@ -27,12 +27,12 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - t-002
   teiginys: 'Dusburgietis teigia, kad 291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród — dab.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad todėl magistras minėtųjų metų vasarą, subūręs didelę kariuomenę, pasiuntė ją į Lenkiją ir apsupo Višogrudą, Lenkijos karaliaus pilį; joje gyveno nuodėmingi, išgarsėję piktais darbais vyrai, kurie plėšė pro šalį Vyslos upe plaukiančių laivais žmonių turtą, o.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Magistras ir broliai, naudingai pamokyti šių bei kitų švento rašto pranašysčių,
@@ -77,7 +77,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     291 D.— juxtа castrum Wischerot, Jer — zu Wischegrot — Višogrudas, Wyszogród

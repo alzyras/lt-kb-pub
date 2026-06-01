@@ -1,41 +1,23 @@
 ---
 tipas: paprotys
 pavadinimas: 'Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
-aliases:
-  - 'Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1386 m.'
-  - '1392 m.'
-  - '1430 m.'
-  - '1471 m.'
-  - '1490 m.'
-  - '1506 m.'
-  - '1526 m.'
-  - '1838 m.'
   - '1882 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XIX'
 date_start: '1386'
 date_end: '1882'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - paprotys
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)
 
@@ -44,66 +26,66 @@ tags:
 o Lietuvą valdė svetimkilmiai valdovai).
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
+
+- t-002
+  teiginys: 'Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
+
+- t-003
+  teiginys: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
   pagrindžia:
     - c-004
 
+- t-004
+  teiginys: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    PAGONIŲ VALSTYBĖ.
-    LIETUVOS KRIKŠTAS
-    P
-    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
-    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
-    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
-    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
-    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
-    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
-    krikštas nebūtų išsprendęs ordinų agresijos problemos).
-  citata_rodoma: ""
+    Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
+    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
+
 - c-002
-  santrauka: 'Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva
@@ -118,33 +100,13 @@ Nenurodyta
     kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
     leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
     nuo krikščionybės.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors nebus nė vieno kunigaikščio,
-    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
-    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
-    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
-    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
-    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
-    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
+    - t-001
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai
@@ -209,11 +171,28 @@ Nenurodyta
     krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    PAGONIŲ VALSTYBĖ.
+    LIETUVOS KRIKŠTAS
+    P
+    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
+    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
+    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
+    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
+    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
+    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
+    krikštas nebūtų išsprendęs ordinų agresijos problemos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

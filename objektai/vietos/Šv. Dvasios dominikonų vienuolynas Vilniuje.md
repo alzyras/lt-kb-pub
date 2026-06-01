@@ -22,16 +22,16 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
 - t-001
   teiginys: 'Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dvasios vienuolyno vyres­ niajam ir broliams, taigi jie įpareigojami visam laikui ten laikyti šv.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šv. sakramentų dalijimas ir rūpinimasis vargšais ir kitais žmo­
@@ -46,7 +46,7 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kai susigrąžins savo lėšas ir išlaidas, skirtas tilto staty­

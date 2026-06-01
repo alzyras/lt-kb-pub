@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Peitzner, J'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1928 m.'
   - '1939 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1928'
 date_end: '1939'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Peitzner, J
 
@@ -28,16 +24,15 @@ tags:
 Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Petkun’, P. : _Schidnia meža Ve-
@@ -46,10 +41,8 @@ Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
     p. — Peitzner, J. : PfiW (du skyriai apie Vytauto rytų politiką). —
     Presniakov, A. E. : _Lekciji po russkoj istoriji,_ t. 2, vyp. 1 (Zapadnaja
     Rus’ i Litovsko-Russkoj e gosudarstvo), Maskva 1939.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

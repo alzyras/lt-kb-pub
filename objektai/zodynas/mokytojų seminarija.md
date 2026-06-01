@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'mokytojų seminarija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1866 m.'
   - '1872 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1866'
 date_end: '1872'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIX'
 ---
 # mokytojų seminarija
 
@@ -28,44 +22,25 @@ tags:
 Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruošdavo mokytojus visai Lietuvai (be Užnemunės). Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dėstoma ir lietuvių kalba.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: ') Molodečnoj, kuri, be abejo, tokiam dideliam plotui negalėjo paruošti kiek reikiant mokytojų.'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Rimšos kūrinys).
-    nerūpėjo: gana buvo to, kad jie rusai ir kad šiek tiek pramokyti.
-    Paruoštų mokytojų tada labai trūko, nes baltarusių ir Lietuvos
-    švietimo apygardoms tebuvo įsteigta tik viena mokytojų semi-
-    narija (1864 m.) Molodečnoj, kuri, be abejo, tokiam dideliam
-    plotui negalėjo paruošti kiek reikiant mokytojų. Tik vėliau
-    (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri
-    ruošdavo mokytojus visai Lietuvai (be Užnemunės).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+
+- t-002
+  teiginys: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.'
+    - c-001
+
+- t-003
+  teiginys: '1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vienos kongreso dalyviais,
@@ -76,28 +51,45 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
     Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta
     mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dės-
     toma ir lietuvių kalba.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: ') Molodečnoj, kuri, be abejo, tokiam dideliam plotui negalėjo paruošti kiek reikiant mokytojų.'
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    ) Molodečnoj, kuri, be abejo, tokiam dideliam
+    (Rimšos kūrinys).
+    nerūpėjo: gana buvo to, kad jie rusai ir kad šiek tiek pramokyti.
+    Paruoštų mokytojų tada labai trūko, nes baltarusių ir Lietuvos
+    švietimo apygardoms tebuvo įsteigta tik viena mokytojų semi-
+    narija (1864 m.) Molodečnoj, kuri, be abejo, tokiam dideliam
     plotui negalėjo paruošti kiek reikiant mokytojų. Tik vėliau
     (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri
     ruošdavo mokytojus visai Lietuvai (be Užnemunės).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    (Rimšos kūrinys).
+    nerūpėjo: gana buvo to, kad jie rusai ir kad šiek tiek pramokyti.
+    Paruoštų mokytojų tada labai trūko, nes baltarusių ir Lietuvos
+    švietimo apygardoms tebuvo įsteigta tik viena mokytojų semi-
+    narija (1864 m.) Molodečnoj, kuri, be abejo, tokiam dideliam
+    plotui negalėjo paruošti kiek reikiant mokytojų. Tik vėliau
+    (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri
+    ruošdavo mokytojus visai Lietuvai (be Užnemunės).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -28,13 +28,14 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą.'
+  teiginys: 'Vilniaus gorodničius Povilas Giedraitis 1547 m. gegužės 22 d. karaliaus valia perdavė Paleckio žiniai sklypą fabrikui statyti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus gorodničius Povilas Giedraitis 1547 m. gegužės 22 d. karaliaus valia perdavė Paleckio žiniai sklypą fabrikui statyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota 1547 metų gegu­
@@ -56,3 +57,7 @@ Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilij
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

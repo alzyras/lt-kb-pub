@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Popiežiaus laiškai dėl Vytauto karūnacijos'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - saltinis
@@ -26,18 +17,15 @@ tags:
 Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir nieko nedarytų nepasitaręs su popie­ žium, „kad paskui mes nepareikalautume ištirt reikalą ir atšaukt neteisėtai įvykusią karūnaciją“^3 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas perspėtas nenutraukti unijos ir nieko nedaryti nepasitarus su popiežiumi.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vytautas perspėtas nenutraukti unijos ir nieko nedaryti nepasitarus su popiežiumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada popiežius pasiskubino ir tam pavojui už­
@@ -51,10 +39,8 @@ Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir ni
     jis nenutrauktų unijos ir nieko nedarytų nepasitaręs su popie­
     žium, „kad paskui mes nepareikalautume ištirt reikalą ir atšaukt
     neteisėtai įvykusią karūnaciją“^3 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

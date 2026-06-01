@@ -25,29 +25,29 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1262 metais Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o palaidotas Kulmenzės bažnyčioje.'
   pagrindžia:
     - c-003
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad kai apie tai išgirdo magistras brolis Helmerichas, jis sutelkė visas savo jėgas ir nusekė paskui priešus iki Lubavos žemės, kur, surikiavęs savo kariuomenę mūšiui, narsiai juos užpuolė.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrichas, įgudęs kariauti ir Kristui atsidavęs vyras.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad ditrichas (Prūsijos žemės maršalas) patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.'
   pagrindžia:
     - c-002
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad ditrichas (Prūsijos žemės maršalas) patyrė Kurše; nors čia tiek ir nežuvo kaip ten, bet krito čia visi geriausi, visi rinktiniai vyrai, kurių išmintimi bei sumanumu rėmėsi Prūsijos žemė, vesdama karus.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Helmerichas, šeštas Prūsijos žemės magistras, vadovavo trejus metus369, o
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,7 +104,7 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -127,7 +127,7 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

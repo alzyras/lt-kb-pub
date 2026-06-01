@@ -26,12 +26,12 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“ Immanuel Kant (1724–1804) Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės Š iuo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės.'
   pagrindžia:
     - c-001
@@ -63,7 +63,7 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,7 +90,7 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

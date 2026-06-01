@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Bielsko'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - seimas
   - vieta
@@ -25,16 +16,15 @@ tags:
 Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Bielsko, turėjo 4 bataliono dydžio pėstininkų pulkus (LDK 2-ąjį, 6-ąjį, 7-ąjį, 8-ąjį | péstininky regimentus).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Liepos 16 d. S. Zabiela iš stovyklos prie Bielsko išžygiavo į Lietuvos Brastą su keturiais pėstininkų pulkais.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Liepos 16 d. S. Zabiela iš stovyklos prie Bielsko išžygiavo į Lietuvos Brastą su keturiais pėstininkų pulkais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     uniforma
@@ -58,10 +48,8 @@ Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Biels
     priešakinės sargybos pulkas. Iš viso
     1818 durtuvų (pėstininkų), 718 kardų
     (kavalerijos).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

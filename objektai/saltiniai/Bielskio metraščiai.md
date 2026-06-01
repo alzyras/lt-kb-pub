@@ -20,13 +20,14 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
 ## Teiginiai
 
 - t-001
-  teiginys: 'Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už karaliaus Aleksandro gydy­ mą Vilniuje, kuris vos neužduso per ilgai laikomas stiprių žolių garo vo­ nioje, savo metraščiuose vadino jį 233 ## Puslapis 250 VILNIAUS MIESTO ISTORIJA II.'
+  teiginys: 'Bielskio metraščiuose Aleksandras Balinskis minėtas dėl karaliaus Aleksandro gydymo Vilniuje, kai šis vos neužduso žolių garo vonioje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Bielskio metraščiuose Aleksandras Balinskis minėtas dėl karaliaus Aleksandro gydymo Vilniuje, kai šis vos neužduso žolių garo vonioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     46

@@ -1,35 +1,18 @@
 ---
 tipas: grupe
-pavadinimas: "Dievo Kūno arkibrolija"
-sukurta: '2026-05-27'
-variantai:
-  - "Vilniaus arkikonfratrija"
-  - "arkikonfratrija"
-aliases: []
+pavadinimas: 'Dievo Kūno arkibrolija'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1539-1646 m."
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1539 m."
-  - "1573 m."
-  - "1577 m."
-  - "1646 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
+  - '1539 m.'
+  - '1646 m.'
+date_start: '1539'
+date_end: '1646'
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XVI"
-  - "XVII"
-date_start: "1539"
-date_end: "1646"
-vaidmenys:
-  - "religinė brolija"
-  - "arkikonfratrija"
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'XVI'
+  - 'XVII'
 ---
 # Dievo Kūno arkibrolija
 
@@ -48,28 +31,25 @@ Dievo Kūno arkibrolija minima kaip religinė arkibrolija, steigta 1539 m. bule,
 Religinė brolija ir Vilniaus arkikonfratrija.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Vilniaus arkikonfratrija buvo patvirtinta ir agreguota prie Romos, o 1646 m. tai patvirtino popiežius Inocentas X.'
+  pagrindžia:
+    - c-001
+
+- t-002
   teiginys: '1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
+
+- t-003
   teiginys: '1573 m. vasario 3 d. buvo funduota arkikonfratrija, o lapkričio 27 d. įvyko jos iškilmingas įvesdinimas.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: "Vilniaus arkikonfratrija buvo patvirtinta ir agreguota prie Romos, o 1646 m. tai patvirtino popiežius Inocentas X."
-  pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Arkibrolijos steigimas, arkikonfratrijos fundacija ir patvirtinimai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išlikę
@@ -83,15 +63,13 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
     fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
     piežius Inocentas X irgi patvirtino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
     - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

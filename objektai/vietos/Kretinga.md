@@ -1,28 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Kretinga'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1936 m.'
-  - '1941 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'XX a.'
-  - 'modernioji Lietuva'
+date_start: '1936'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1936'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
-tags:
-  - vieta
 ---
 # Kretinga
 
@@ -31,45 +24,25 @@ tags:
 IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+    - c-001
+
+- t-002
   teiginys: 'Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta į Kretingą.'
   pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir Vokietijos pasienyje, Gargžduose – 201 žydą, kitą dieną Kretingoje – 214, birželio 27-ąją Palangoje 111 žydų, žudė juos ir kitose vietose.'
-  pagrindžia:
-    - c-005
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    @ 1. Budrio traukinys per Mažeikius, per Latvijos
-    teritoriją (Priekulę) atvyksta į Kretingą.
+    - c-002
 
-    @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
-    (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-003
+  teiginys: 'IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m.'
+    - c-003
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
@@ -91,41 +64,39 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 
     Klaipėdos kraštu vykti per Latviją (tai buvo ne-
     oficialiai suderinta su Latvijos vyriausybe).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-004
-  santrauka: 'Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta į Kretingą.'
+    - t-001
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    © M. Kalmantavičiaus-Bajoro traukinys išvyksta
+    į Tauragę.
+
     @ 1. Budrio traukinys per Mažeikius, per Latvijos
     teritoriją (Priekulę) atvyksta į Kretingą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
-    @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
-    (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir Vokietijos pasienyje, Gargžduose – 201 žydą, kitą dieną Kretingoje – 214, birželio 27-ąją Palangoje 111 žydų, žudė juos ir kitose vietose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+- c-003
+  santrauka: 'IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Specialiosios SD grupės (Tilžės gestapo būrys)
-    1941 m. birželio 24 d. sušaudė tik žydus (vyrus) 25 km ruože Lietuvos ir
-    Vokietijos pasienyje, Gargžduose – 201 žydą, kitą dieną Kretingoje – 214,
-    birželio 27-ąją Palangoje 111 žydų, žudė juos ir kitose vietose.
+    I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
+    tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,
+    ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cho-
+    lopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose.
+    III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
+    Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
+    doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-003

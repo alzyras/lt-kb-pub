@@ -17,10 +17,10 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
@@ -29,7 +29,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1990 m. gegužės 12 d. Lietuva, Latvija ir
@@ -41,7 +41,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   santrauka: 'Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -76,7 +76,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

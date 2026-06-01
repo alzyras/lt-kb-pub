@@ -48,27 +48,27 @@ Nenurodyta
   pagrindžia:
     - c-001
 
-- t-005
+- t-002
   teiginys: 'Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
-    - c-005
+    - c-006
 
-- t-002
+- t-003
   teiginys: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-002
 
-- t-006
+- t-004
   teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
-    - c-006
+    - c-005
 
-- t-004
+- t-005
   teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
   pagrindžia:
     - c-004
 
-- t-003
+- t-006
   teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
   pagrindžia:
     - c-003
@@ -106,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -123,7 +123,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -137,9 +137,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -160,9 +160,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-005
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prieš tai Seimas ėmėsi la-
@@ -175,7 +175,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 - c-007
   santrauka: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'

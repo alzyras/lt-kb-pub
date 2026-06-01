@@ -31,85 +31,85 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   pagrindžia:
-    - c-004
+    - c-003
 
-- t-012
+- t-002
   teiginys: 'Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J.'
   pagrindžia:
-    - c-012
+    - c-009
 
-- t-001
+- t-003
   teiginys: 'Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo brolis Karolis IX stengėsi kai kuriuos punktus pakeisti, bet, delegacijoms nenusileidus, su viskuo sutiko ir prisiekė.'
   pagrindžia:
     - c-001
 
-- t-011
+- t-004
   teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.'
-  pagrindžia:
-    - c-011
-
-- t-008
-  teiginys: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
-  pagrindžia:
-    - c-008
-
-- t-014
-  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   pagrindžia:
     - c-014
 
-- t-016
-  teiginys: 'Dusburgietis teigia, kad šis reskriptas buvo perskaitytas ir sudegintas Paryžiuje, karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje.'
+- t-005
+  teiginys: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
   pagrindžia:
-    - c-016
+    - c-015
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
+  pagrindžia:
+    - c-006
 
 - t-007
+  teiginys: 'Dusburgietis teigia, kad šis reskriptas buvo perskaitytas ir sudegintas Paryžiuje, karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje.'
+  pagrindžia:
+    - c-008
+
+- t-008
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
-    - c-007
+    - c-010
 
-- t-013
+- t-009
   teiginys: 'Dusburgietis teigia, kad apkaltintas erezija Tamplierių ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo Paryžiuje 1314 m.69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   pagrindžia:
     - c-013
 
-- t-005
+- t-010
   teiginys: 'Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną A.'
+  pagrindžia:
+    - c-004
+
+- t-011
+  teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  pagrindžia:
+    - c-007
+
+- t-012
+  teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  pagrindžia:
+    - c-012
+
+- t-013
+  teiginys: 'Dusburgietis teigia, kad tuo pat metu Paryžiuje daugiau triūsė augustinų ordinas, kai jį tvarkė nauji magistrai (Ptol.'
+  pagrindžia:
+    - c-016
+
+- t-014
+  teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  pagrindžia:
+    - c-002
+
+- t-015
+  teiginys: 'Dusburgietis teigia, kad paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi patyrė baisybę nuostolių.'
   pagrindžia:
     - c-005
 
-- t-006
-  teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
-  pagrindžia:
-    - c-006
-
-- t-010
-  teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
-  pagrindžia:
-    - c-010
-
-- t-015
-  teiginys: 'Dusburgietis teigia, kad tuo pat metu Paryžiuje daugiau triūsė augustinų ordinas, kai jį tvarkė nauji magistrai (Ptol.'
-  pagrindžia:
-    - c-015
-
-- t-003
-  teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
-  pagrindžia:
-    - c-003
-
-- t-017
-  teiginys: 'Dusburgietis teigia, kad paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi patyrė baisybę nuostolių.'
-  pagrindžia:
-    - c-017
-
-- t-009
+- t-016
   teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
   pagrindžia:
-    - c-009
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -132,9 +132,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
@@ -155,9 +155,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-014
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sėkmingai likviduotas ir bermontininkų
@@ -170,9 +170,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Voldemaras užsienio politiką
@@ -189,9 +189,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-010
 
-- c-017
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     97. Apie potvynį
@@ -203,9 +203,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-015
 
-- c-014
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     26. Apie viešpaties erškėčių vainiko perkėlimą
@@ -216,9 +216,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-006
 
-- c-006
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
@@ -227,9 +227,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-011
 
-- c-016
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos
@@ -243,9 +243,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-007
 
-- c-012
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
@@ -263,9 +263,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-002
 
-- c-007
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žydų miesto bendruomenės ir jų prekybos, finan-
@@ -280,9 +280,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-008
 
-- c-009
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva bandys keltis kaip naujai sukurta valstybė, turinti istori-
@@ -318,9 +318,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-016
 
-- c-010
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
@@ -341,7 +341,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-012
 
 - c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -357,9 +357,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-009
 
-- c-011
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
@@ -375,9 +375,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-004
 
-- c-008
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje
@@ -396,9 +396,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-005
 
-- c-015
+- c-016
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis
@@ -419,9 +419,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-015
+    - t-013
 
-- c-018
+- c-017
   santrauka: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -436,4 +436,4 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-017

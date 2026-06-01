@@ -25,19 +25,19 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
+  teiginys: 'Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių tautos istorija, padariusi ir tebedaranti įtaką ir dabartinėms kartoms.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai bene žinomiausia tautinė Lietuvos valstybės ir lietuvių
@@ -60,9 +60,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
@@ -74,4 +74,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

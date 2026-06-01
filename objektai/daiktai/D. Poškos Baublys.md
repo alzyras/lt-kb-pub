@@ -1,74 +1,65 @@
 ---
 tipas: daiktas
-pavadinimas: D. Poškos Baublys
-sukurta: '2026-04-24'
-variantai:
-  - Baublys
-aliases: []
+pavadinimas: 'D. Poškos Baublys'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-laikotarpis: 1812 m.
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - 1812 m.
-periodas: naujieji_laikai
-periodo_grupes: []
-amziai:
-  - XIX
+  - '1812 m.'
 date_start: '1812'
-date_end: '1812'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukstas
-atnaujinta: '2026-04-24'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XIX'
 ---
 # D. Poškos Baublys
 
 ## Santrauka
+
 D. Poškos Baublys šaltinyje pristatomas kaip senienų muziejui pritaikytas objektas. Papildomai nurodoma, kad 1812 m. iš tuščiavidurio ąžuolo buvo padarytos trys trobelės su muziejėliais, tebestovėjusios Bijotuose.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 - Laikotarpis: 1812 m.
 - Periodas: naujieji laikai
 - Amžius: XIX a.
 
 ## Kas tai
+
 Baublys buvo D. Poškos muziejinei paskirčiai pritaikytas objektas iš tuščiavidurio ąžuolo.
 
 ## Naudojimas
+
 Jame buvo įtaisytas senienų muziejus.
 
 ## Kontekstas
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: '1812 m. D. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-002
+  teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kad nebūtų darkoma
@@ -82,15 +73,13 @@ Nenurodyta
     Baubly įtaisė net senienų mu-
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
+
 - c-002
-  santrauka: '1812 m. D. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi to sąjūdžio bajorai, kad ir mylėjo savo kraštą, kad ir
@@ -103,14 +92,12 @@ Nenurodyta
     nei socialinių nei tautinių — idėjų, nes lietuviškasis elementas dar
     nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
     santvarkos formų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-    - t-006
+    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

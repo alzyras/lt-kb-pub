@@ -30,21 +30,21 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 - t-001
   teiginys: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Tai privilegijos žodžiai, verčiantys 279 ## Puslapis 296 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto Augusto palankumas savo gimtajai sostinei, taip dosniai pasireiškęs šia privilegija, tuo dar nesibaigė.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'O 1568 metų birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu sprendimu apsaugojo miestiečius nuo engiančio užrašinėjimo jų namuose apsigyventi dvariškiams, karaliaus valdi­ ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos žinios ir leidimo.'
+  teiginys: 'Vilniaus vaito, burmistrų, tarybos narių, šuolininkų ir magistrato raštininkų namai buvo atleisti nuo nakvynės prievolės.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'O 1568 metų birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu sprendimu apsaugojo miestiečius nuo engiančio užrašinėjimo jų namuose apsigyventi dvariškiams, karaliaus valdi­ ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos žinios ir leidimo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O 1568 metų
@@ -68,9 +68,10 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
+  santrauka: 'Vilniaus vaito, burmistrų, tarybos narių, šuolininkų ir magistrato raštininkų namai buvo atleisti nuo nakvynės prievolės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai privilegijos žodžiai, verčiantys
@@ -96,9 +97,9 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netvarka ir apsileidimas, įsitvirtinę miesto administra­
@@ -134,7 +135,6 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

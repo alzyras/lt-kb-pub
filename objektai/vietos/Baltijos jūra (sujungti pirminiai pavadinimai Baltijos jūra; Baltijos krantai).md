@@ -33,41 +33,41 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
 - t-001
   teiginys: 'XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmis.'
   pagrindžia:
-    - c-001
+    - c-007
 
-- t-005
+- t-002
   teiginys: 'Ta lietuvių tauta, išsis­ kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­ šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos iki Vyslos, o į žemyno gilumą buvo.'
-  pagrindžia:
-    - c-005
-
-- t-006
-  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
   pagrindžia:
     - c-006
 
-- t-007
-  teiginys: '134 ## Puslapis 151 Il KNYGA Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­ rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o vakaruose atitolinę rytų link tarp Lenkijos iki.'
+- t-003
+  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
   pagrindžia:
-    - c-007
+    - c-005
 
 - t-004
-  teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­ siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­ kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje jau.'
+  teiginys: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-003
 
-- t-002
-  teiginys: 'Teutonų ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­ gonybę, Baltijos pakrantėse pagausino miestų ir pilių.'
+- t-005
+  teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   pagrindžia:
     - c-002
 
+- t-006
+  teiginys: 'Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­ siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­ kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje jau.'
+  pagrindžia:
+    - c-004
+
+- t-007
+  teiginys: 'Teutonų ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­ gonybę, Baltijos pakrantėse pagausino miestų ir pilių.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Revelis [Talinas] už savo
@@ -82,9 +82,9 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-007
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     12
@@ -118,9 +118,10 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-007
+- c-003
+  santrauka: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Warsz.
@@ -152,9 +153,9 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visi
@@ -171,9 +172,9 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors jau V amžiaus pabaigoje,
@@ -202,9 +203,9 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-005
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -226,9 +227,9 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-001
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­

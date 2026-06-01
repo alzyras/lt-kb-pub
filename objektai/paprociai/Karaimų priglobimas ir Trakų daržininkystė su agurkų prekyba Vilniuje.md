@@ -42,16 +42,16 @@ Nenurodyta
 - t-001
   teiginys: 'Bet Vytauto privilegija negalio­ jo žydų kitai sektai, vadinamai ka­ raimais, Lietuvoje, Trakų mieste, ir labai menkoje Vilniaus dalyje įsikūrusiems.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Tie karaimai, kurie išties galėtų būti vadinami žvdų disiden­ tais, atkeliavo į Lietuvą iš rytų, o įvairias aplinkybes įvertinęs, numa­ nau, kad jų atvykimą reikėtų Vytau­ to viešpatavimo laikams priskirti, juk šis kunigaikštis, kurio valdžia siekė tolimus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie karaimai, kurie išties
@@ -81,7 +81,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Vytauto privilegija negalio­

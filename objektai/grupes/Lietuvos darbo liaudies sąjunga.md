@@ -21,16 +21,16 @@ tags:
 - t-001
   teiginys: 'Į vieną vietą leista iškelti vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
@@ -47,7 +47,7 @@ tags:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į vieną vietą leista iškelti

@@ -1,25 +1,19 @@
 ---
 tipas: daiktas
 pavadinimas: 'Pistoletas-kulkosvaidis PPS-43'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1991 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1991'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+amziai:
+  - 'XX'
 ---
 # Pistoletas-kulkosvaidis PPS-43
 
@@ -28,31 +22,35 @@ tags:
 Pasyvios ir aktyvios kliūtys prieš pėstininkus turėjo tikslą tiesiog sulėtinti šturmo greitį ir suteikti erdvės gynėjams PPS-43, perdirbtas sovietinis pistoletaskulkosvaidis, šovinys - 7,62x25 mm TT.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu inžinerinės
@@ -73,11 +71,9 @@ Nenurodyta
     kauti kuo daugiau
 
     puolančiųjų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

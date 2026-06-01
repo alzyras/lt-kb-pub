@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'laisvės kovotojai banditai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,31 +15,34 @@ tags:
 Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės kovos sąjūdis (LLKS), o patys partizanai pradėti vadinti laisvės kovotojais (okupacinė sovietų valdžia paprastai Lietuvos partizanus vadino banditais).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Partizanų suvažiavime patvirtintas LLKS pavadinimas, o partizanai pradėti vadinti laisvės kovotojais; sovietų valdžia juos vadino banditais.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Partizanų suvažiavime patvirtintas LLKS pavadinimas, o partizanai pradėti vadinti laisvės kovotojais; sovietų valdžia juos vadino banditais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Suvažiavime patvirtin-
+    bandymų 1949 m. vasario 2–22 d.
+    įvyko pirmasis ir paskutinis visos
+    Lietuvos partizanų vadų suvažiavi-
+    mas bunkeryje tarp Radviliškio ir
+    Baisogalos. Suvažiavime patvirtin-
     tas naujas organizacijos pavadini-
     mas: Lietuvos laisvės kovos sąjūdis
     (LLKS), o patys partizanai pradėti
     vadinti laisvės kovotojais (oku-
     pacinė sovietų valdžia paprastai
     Lietuvos partizanus vadino ban-
-    ditais).
-  citata_rodoma: ""
+    ditais). Sąjūdis ėmėsi vadovauti ir
+    politinei, ir karinei pasipriešinimo
+    organizacijų veiklai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

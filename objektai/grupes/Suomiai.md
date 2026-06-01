@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Suomiai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -19,16 +16,15 @@ tags:
 Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai ir suomiai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Suomiai priskirti prie lietuviams negiminiškų tautų, kurios kartais buvo žymimos baltų terminu.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Suomiai priskirti prie lietuviams negiminiškų tautų, kurios kartais buvo žymimos baltų terminu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik didieji mūsų kalbininkai Jaunius su
@@ -38,11 +34,9 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
     Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai
     pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai
     ir suomiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -50,7 +44,6 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/K. Būga]]
-- [[objektai/autoriai/K. Jaunius]]
 - [[objektai/autoriai/Ibrahim ibn Jakūb]]
 - [[objektai/grupes/Lietuvių Draugija Estijoje]]
 - [[objektai/grupes/Lietuvių Suomių Draugija]]

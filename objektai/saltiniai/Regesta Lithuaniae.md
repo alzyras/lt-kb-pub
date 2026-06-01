@@ -32,22 +32,22 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 
 ## Teiginiai
 
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).'
-  pagrindžia:
-    - c-004
-
 - t-001
-  teiginys: 'Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393.'
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų 540 Aprašomas ne 1292 m., kaip teigia Dusburgietis, o 1294 m. puolimas (SRP, 1, p. 156, išnaša 1; Regesta Lithuaniae..., p. 147; Powierski J., Dobra..., p. 162).'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad l., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p. 117).'
+  teiginys: 'Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393.'
   pagrindžia:
     - c-002
 
 - t-003
+  teiginys: 'Dusburgietis teigia, kad l., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p. 117).'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Dusburgietis teigia, kad apie nuostabų brolių išsigelbėjimą vieno žygio metu 537 1292 m. žygis (SRP, 2, p. 155; Regesta Lithuaniae..., p. 144).'
   pagrindžia:
     - c-003
@@ -59,7 +59,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip krikščionys stebuklingai ištrūko nuo netikėlių rankų
@@ -70,9 +70,9 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugy­
@@ -92,7 +92,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,9 +105,9 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čia minimas ežeras ieškotas ir  į
@@ -118,7 +118,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -30,31 +30,31 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - t-001
   teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
+  pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus vaivadai Manvydui bei mūsų dvaro maršalkoms Čupurvai ir Milonui bei daugeliui kitų, ver­ tų pasitikėjimo].'
+  teiginys: 'Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: '— • — 215 ## Puslapis 232 VILNIAUS MIESTO ISTORIJA// TOMAS priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvydo, lydimas kelių.'
-  pagrindžia:
-    - c-004
-
-- t-002
   teiginys: 'Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus.'
   pagrindžia:
-    - c-002
+    - c-005
 
 - t-005
   teiginys: 'O Manvydas, Trakų vaivada, buvo sučiuptas ir, Žygimanto įsakymu, nukirsdintas20.'
   pagrindžia:
-    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Actum et datum in Wilno, ipšo die pu­
@@ -88,9 +88,9 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
@@ -110,7 +110,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   pagrindžia:
     - t-001
 
-- c-004
+- c-003
+  santrauka: 'Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švitrigailos dvaras stovėjo
@@ -133,9 +134,9 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
@@ -152,7 +153,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   pagrindžia:
     - t-005
 
-- c-002
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, sutelkęs Smo­
@@ -168,7 +169,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -179,7 +180,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/zodynas/pataurininkis rykūnė]]
 - [[objektai/zodynas/rotmistras]]

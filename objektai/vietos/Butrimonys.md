@@ -1,28 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Butrimonys'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1919 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
+date_start: '1919'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1919'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
-tags:
-  - vieta
 ---
 # Butrimonys
 
@@ -31,23 +24,28 @@ tags:
 O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Daugus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    O juk
+    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
+    tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
     reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
     susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
     reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
@@ -57,26 +55,41 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     damas 12-os) ar Sydney Brenner (Sidnėjus Brėneris, gimęs 1927 m. bat-
     siuvio, 1910 m. emigravusio į Pietų Afriką iš Lietuvos, šeimoje; 2002 m.
     premija).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Daugus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Dau-
     gus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @. Vievj, Kerna-
     ve ([s), Molėtus (20 Tauragnus @4), Dūkštą ir kitas vietoves @23.
 
-    1919 m.
+    1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su
+    bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos
+    teritorijos glumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Daugus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Sutelkę
+    visas pajėgas prieš bolševikus lietuviai galėjo apsisaugojimui nuo
+    lenkų palikti tik labai nedideles pajėgas.
+
+    Tokiu būdu iki liepos pabaigos lenkai užgrobė Merkine@®, Dau-
+    gus Us), Butrimonis, Stakliskes (yp, Aukštadvarį @. Vievj, Kerna-
+    ve ([s), Molėtus (20 Tauragnus @4), Dūkštą ir kitas vietoves @23.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

@@ -29,49 +29,49 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar­ ba šiaip vietovė kokiam nors dievai­ čiui pašvęsta.'
   pagrindžia:
-    - c-003
+    - c-001
 
-- t-007
+- t-002
   teiginys: 'Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­ jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­ tolių už 60 000 sidabro luitų.'
   pagrindžia:
     - c-007
 
-- t-005
+- t-003
   teiginys: 'Didelė dalis gyventojų žuvo per kautynes prie Žemuti­ nės pilies, o kiti, netekę prieglobsčio ir mieste, ir aplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­ sibėgiojo po visą kraštą36.'
   pagrindžia:
-    - c-005
+    - c-003
 
-- t-002
-  teiginys: 'Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios.'
+- t-004
+  teiginys: 'Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.'
   pagrindžia:
     - c-002
 
-- t-008
+- t-005
   teiginys: 'Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da­ lis Vilniaus gyventojams, Šv.'
   pagrindžia:
-    - c-008
+    - c-004
 
 - t-006
   teiginys: 'Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­ jos parvyko į.'
   pagrindžia:
     - c-006
 
-- t-001
+- t-007
   teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
   pagrindžia:
-    - c-001
+    - c-008
 
-- t-004
+- t-008
   teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
   pagrindžia:
-    - c-004
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie to dar prisidėjo pareiga,
@@ -131,9 +131,10 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
+  santrauka: 'Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Buvo juk to­
@@ -157,9 +158,9 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-005
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta nelaiminga ap­
@@ -178,9 +179,9 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-008
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams
@@ -197,9 +198,9 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-005
 
-- c-004
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aukštutinė pilis, aukštų mūrų bei
@@ -214,7 +215,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-008
 
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -251,9 +252,9 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-002
 
-- c-001
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuoj pat sušauktas lietuvių ku­
@@ -268,7 +269,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -289,11 +290,12 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/grupes/Šv. Jono brolija]]

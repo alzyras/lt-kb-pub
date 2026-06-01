@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Puzyna'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1930 m.'
   - '1936 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1930'
 date_end: '1936'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - dinastija
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # J. Puzyna
 
@@ -30,16 +26,15 @@ tags:
 Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealoginiais klausimais. Puzyna : Korjat i Korjatowicze , AW, t. Puzyna, J.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ivinskis, Z. : Liubartas Gediminaitis , LE, t. 16, 318-320 p. — Kra­
@@ -52,11 +47,9 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
     355-356 p. — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
     Petrograd 1918. — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

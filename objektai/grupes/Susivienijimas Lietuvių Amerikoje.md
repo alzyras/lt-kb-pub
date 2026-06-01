@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Susivienijimas Lietuvių Amerikoje'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigas
@@ -20,28 +17,25 @@ tags:
 Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių mažai tesirūpino tautiškosios sąmonės žadinimu. Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose. Šliūpą ir buvo nepatenkinti pirmojo Susivienijimo katalikiškąja vadovybe.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių
@@ -51,15 +45,13 @@ tags:
     geruoju su lenkais. Bet, kai Susivienijimo vadovybę 1890 m.
     paėmė kunigas Burba, jis pasidarė grynai tautiška organizacija,
     tolima nuo lenkų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susivienijimas Visų Draugysčių Katali-
@@ -75,15 +67,13 @@ tags:
     mas Lietuvių Amerikoje ir Susivienijimas
     Lietuvių Rymo Katalikų Amerikoje. Abi tos
     organizacijos ir šiandien tebegyvuoja.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jį sukūrė tie veikėjai, kurie buvo susigrupavę apie
@@ -97,11 +87,9 @@ tags:
     tis: jame susibūrė tautiškos, liberališkos, socialistiškos ir net ko-
     munistiškos srovės. Visos jos ligi šiol tarp savęs tebesivaržo,
     todėl Susivienijimo veikimą visą laiką trukdo vidaus nesantarvė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -109,5 +97,6 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/organas]]

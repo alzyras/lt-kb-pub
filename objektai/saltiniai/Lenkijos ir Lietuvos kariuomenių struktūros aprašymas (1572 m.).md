@@ -1,28 +1,22 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1561 m.'
   - '1572 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1561'
 date_end: '1572'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - karalius
   - popiežius
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Lenkijos ir Lietuvos kariuomenių struktūros aprašymas (1572 m.)
 
@@ -31,42 +25,20 @@ tags:
 Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: '1561 m. sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos tapo Lietuvos dalimi Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir Lietuvos kariuomenių struktūrą: „Kiekvienas vaivada tarp savų.'
+  teiginys: '1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: '1561 m. sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos tapo Lietuvos dalimi Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir Lietuvos kariuomenių struktūrą: „Kiekvienas vaivada tarp savų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
-    didesnė dalis Livonijos tapo Lietuvos dalimi
 
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
-    Lietuvos kariuomenių struktūrą:
-
-    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
-    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
-    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
-
-    Gardino vaizdas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     žemes bei „maskvėnus sukrėtęs nejti-
@@ -82,10 +54,29 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
     derybas su Batoru dėl paliaubų. i
     Pskovo apgultis užsitęsė iki
     1582 m. sausio, antrajame etape
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: '1572 m. Lenkijos ir Lietuvos kariuomenių struktūros aprašyme teigiama, kad kiekvienas vaivada buvo viršiausias tarp savųjų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    didesnė dalis Livonijos tapo Lietuvos dalimi
+
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
+    Lietuvos kariuomenių struktūrą:
+
+    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
+    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
+    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
+
+    Gardino vaizdas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

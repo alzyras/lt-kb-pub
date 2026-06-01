@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'domenas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -20,22 +17,37 @@ tags:
 Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenuose) valstiečiams dar nereikėjo daug dirbti. Tačiau pajamų iš Lietuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos karalystės žemių, nes joje buvo daugybė didžiojo kunigaikščio dvarų (domenų).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Domenuose, tai yra bajorų ir didžiojo kunigaikščio dvaruose, valstiečiams dar nereikėjo daug dirbti.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Lietuvoje buvo daugybė didžiojo kunigaikščio dvarų, vadintų domenais, todėl Kazimieras iš jos gaudavo daug pajamų.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Domenuose, tai yra bajorų ir didžiojo kunigaikščio dvaruose, valstiečiams dar nereikėjo daug dirbti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    165 psl.), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos. Tačiau pajamų iš Lie-
+    tuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-
+    lystės žemių, nes joje buvo daugybė didžiojo kunigaikščio
+    dvarų (domenų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Savi
@@ -48,32 +60,11 @@ Todėl nei bajorų nei didžiojo kunigaikščio dvaruose (vadinamuosiuose domenu
     buvo, ir todėl nebūtų buvę kur dėti javų. Todėl nei bajorų nei di-
     džiojo kunigaikščio dvaruose (vadinamuosiuose domenuose)
     valstiečiams dar nereikėjo daug dirbti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lietuvoje buvo daugybė didžiojo kunigaikščio dvarų, vadintų domenais, todėl Kazimieras iš jos gaudavo daug pajamų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    165 psl.), taip ir Kazimiero laikais tankiau buvo
-    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
-    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
-    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
-    linkes, buvo beveik negyvenamos. Tačiau pajamų iš Lie-
-    tuvos Kazimieras gaudavo ne mažiau, kaip ir iš Lenkijos kara-
-    lystės žemių, nes joje buvo daugybė didžiojo kunigaikščio
-    dvarų (domenų).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

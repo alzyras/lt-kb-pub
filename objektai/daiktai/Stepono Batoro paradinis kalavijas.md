@@ -1,29 +1,20 @@
 ---
 tipas: daiktas
-pavadinimas: Stepono Batoro paradinis kalavijas
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
+pavadinimas: 'Stepono Batoro paradinis kalavijas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: Livonijos karo laikotarpis
 datos:
-  - 1558-1582 m.
-periodas: ankstyvieji_naujieji_laikai
-periodo_grupes: []
-amziai:
-  - XVI
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+  - '1558 m.'
+  - '1582 m.'
+date_start: '1558'
+date_end: '1582'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+amziai:
+  - 'XVI'
 ---
 # Stepono Batoro paradinis kalavijas
 
@@ -36,6 +27,7 @@ Stepono Batoro paradinis kalavijas šaltinyje pristatomas kaip reprezentacinis g
 - `Lietuvos ir Lenkijos valdovo Stepono Batoro paradinis kalavijas`
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Livonijos karo laikotarpis
 - datos:
   - 1558-1582 m.
@@ -54,16 +46,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
@@ -74,13 +65,11 @@ Nenurodyta
     išaugęs pavojus vertė sudaryti Liublino
     uniją (1569 m.) su Lenkija Lietuvai
     nepalankiomis sąlygomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Pastabos
 

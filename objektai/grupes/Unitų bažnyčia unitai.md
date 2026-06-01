@@ -1,36 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Unitų bažnyčia unitai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1587 m.'
-  - '1654 m.'
-  - '1667 m.'
-  - '1668 m.'
-  - '1697 m.'
-  - '1700 m.'
-  - '1721 m.'
   - '1763 m.'
   - '1839 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
-  - 'XIX'
 date_start: '1587'
 date_end: '1839'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XVI'
+  - 'XIX'
 ---
 # Unitų bažnyčia unitai
 
@@ -39,32 +24,20 @@ tags:
 1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   pagrindžia:
-    - c-002
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1839 m. likviduojama Unitų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1839 m. likviduojama Uni-
-    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal liberum veto
@@ -86,11 +59,21 @@ tags:
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pasikeitė valdžios kursas ir bažnyčios atžvilgiu. Apkaltinus parama suki-
+    lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
+    tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

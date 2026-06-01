@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Narimantas Gediminaitis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,28 +18,25 @@ tags:
 Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“. Rugpjūčio pradžioje švedai paėmė Orechovą - svarbų strateginį punktą Ladogos paežerėje, prie Nevos ištakų, kurį valdė Narimantas, t.y. Rugpjūčio pradžioje švedai paėmė Orechovą - svarbų strateginį punktą Ladogos paežerėje, prie Nevos ištakų, kurį valdė Narimantas, t.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“.'
+  teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-002
   teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.'
   pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.'
-  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė Lietuvos 40 tūkstančių“, kad buvo nukautas „kunigaikštis Narimantas Gediminaitis (Algirdo ir Kęstučio brolis), o su juo kunigaikščių ir vaivadų, ir Lietuvos daugybė“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tam tikslui magistras su
@@ -63,15 +51,32 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     bejotinai mūšyje patyrė smūgį ir Ordinas,
     jis po mūšio nežygiavo gilyn į Lietuvą, bet
     grįžo atgal į Prūsiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tais pačiais metais Švedijos karalius,
+    palaikomas popiežiaus, pradėjo puo-
+    limą prieš Naugardo valdas, kurios buvo
+    svarbios Lietuvai blokuojant Livoniją iš
+    rytų. Rugpjūčio pradžioje švedai paėmė
+    Orechovą - svarbų strateginį punktą
+    Ladogos paežerėje, prie Nevos ištakų, kurį
+
+    valdė Narimantas, t.y. Lietuvos vietininkas.
+    Orechovo ir Veliuonos pilys buvo paimtos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atvykus naujai pagalbai Ordinui, „daug
@@ -87,40 +92,18 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
     Ladogos paežerėje, prie Nevos ištakų, kurį
 
     valdė Narimantas, t.y. Lietuvos vietininkas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tais pačiais metais Švedijos karalius,
-    palaikomas popiežiaus, pradėjo puo-
-    limą prieš Naugardo valdas, kurios buvo
-    svarbios Lietuvai blokuojant Livoniją iš
-    rytų. Rugpjūčio pradžioje švedai paėmė
-    Orechovą - svarbų strateginį punktą
-    Ladogos paežerėje, prie Nevos ištakų, kurį
-
-    valdė Narimantas, t.y. Lietuvos vietininkas.
-    Orechovo ir Veliuonos pilys buvo paimtos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Narimantas]]
 - [[objektai/daiktai/Pilys]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Rusai]]

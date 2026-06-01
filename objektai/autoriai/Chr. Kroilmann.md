@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Chr. Kroilmann'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1932 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1932'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Chr. Kroilmann
 
@@ -27,16 +23,15 @@ tags:
 Kroilmann : Politische Geschichte des Deutschen Ornens in Preussen, Königsberg 1932, 9S-96 p.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Chr. Kroilmann 1932 m. Karaliaučiuje paskelbė veikalą „Politische Geschichte des Deutschen Ordens in Preussen“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Chr. Kroilmann 1932 m. Karaliaučiuje paskelbė veikalą „Politische Geschichte des Deutschen Ordens in Preussen“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^1) **PfiW, 132 p.**
@@ -45,10 +40,8 @@ Kroilmann : Politische Geschichte des Deutschen Ornens in Preussen, Königsberg 
     (^3) **Plg. Z. Ivinskis :** **_Kovos bruožai dėl žemaičių ir jų sienų,_** **Athenaeum,
     VI, 1935, 67 p.**
     (^4) **CEV, 232 p. (nr. 494).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -27,19 +27,19 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Prasidėjo karas su lietuviais».'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais.'
+  teiginys: 'Prasidėjo karas su lietuviais».'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prasidėjo karas su lietuviais».
@@ -54,9 +54,9 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS
@@ -70,7 +70,7 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

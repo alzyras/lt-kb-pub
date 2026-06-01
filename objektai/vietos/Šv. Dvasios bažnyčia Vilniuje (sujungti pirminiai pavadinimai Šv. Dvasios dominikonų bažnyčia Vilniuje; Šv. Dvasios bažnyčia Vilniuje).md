@@ -26,17 +26,17 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
-  pagrindžia:
-    - c-003
-
-- t-005
   teiginys: 'Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti.'
   pagrindžia:
     - c-005
@@ -44,16 +44,16 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - t-004
   teiginys: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
   pagrindžia:
-    - c-004
+    - c-001
 
-- t-001
+- t-005
   teiginys: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
@@ -71,7 +71,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   pagrindžia:
     - t-004
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -87,9 +87,9 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daugelis jų garsėjo su­
@@ -103,9 +103,9 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa-
@@ -125,7 +125,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -144,4 +144,4 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003

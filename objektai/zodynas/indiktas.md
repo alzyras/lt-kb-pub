@@ -30,24 +30,24 @@ amziai:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Rašytas Vilniuje, sausio 13 dieną, Il indikte.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Rašyta Vilniuje Viešpa­ ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
+- t-002
+  teiginys: 'Rašyta Vilniuje Viešpa­ ties gimimo metais 1533 spalio mėnesio 23 dieną, 7 indikte.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -78,9 +78,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33
@@ -95,9 +95,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PATS ALEKSANDRAS,
@@ -128,7 +128,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -151,5 +151,4 @@ amziai:
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]

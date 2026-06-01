@@ -20,25 +20,25 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Šiame leidinyje Henrikas Latvis tiesiogiai siejamas su „Livonijos kronika“. ''  pagrindžia:'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
-  pagrindžia:
-    - c-002
-    - c-003
-
 - t-001
-  teiginys: 'O Livonijos ordino kronikininkas Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo namuose ...'
+  teiginys: 'Šiame leidinyje Henrikas Latvis tiesiogiai siejamas su „Livonijos kronika“. ''  pagrindžia:'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
+  pagrindžia:
+    - c-001
+    - c-002
+
+- t-003
+  teiginys: 'O Livonijos ordino kronikininkas Henrikas (vadinamas Henriku Latviu) šiaip juos apibūdina: „Lietuviai tuose kraštuose viešpatavo visoms tautoms, tiek krikščioniškoms, tiek pagoniškoms, Dėl jų žygių nedaug kas išdrįso gyventi savo namuose ...'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
@@ -47,10 +47,10 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+    - t-001
     - t-002
-    - t-003
 
-- c-003
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti
@@ -67,9 +67,9 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O Livonijos ordino kronikininkas Henrikas (va-
@@ -84,7 +84,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -164,7 +164,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/asmenys/Reinoldas]]
 - [[objektai/asmenys/Ričardas II]]
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]

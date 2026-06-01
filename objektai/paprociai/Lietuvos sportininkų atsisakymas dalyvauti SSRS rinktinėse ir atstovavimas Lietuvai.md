@@ -1,38 +1,27 @@
 ---
 tipas: paprotys
-pavadinimas: "Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai"
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
+pavadinimas: 'Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1988-1991 m. ir vėliau"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - "1988 m."
-  - "1991 m."
-periodas: siuolaikine_istorija
-periodo_grupes:
-  - nepriklausoma-lietuva
-amziai:
-  - XX
-date_start: 1988
-date_end: 1991
-vaidmenys: []
-dalyviai:
-  - "Lietuvos sportininkai"
-  - "Lietuvos tautinis olimpinis komitetas"
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-14'
+  - '1988 m.'
+  - '1991 m.'
+date_start: '1988'
+date_end: '1991'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XX'
 ---
 # Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai
 
 ## Santrauka
+
 Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų praktika peraugo į atstovavimą Lietuvai tarptautinėse varžybose po LTOK teisių atkūrimo.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1988-1991 m. ir vėliau
 - datos:
   - 1988 m.
@@ -46,46 +35,52 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 - date_end: 1991
 
 ## Kas tai
+
 - kategorija: kultūrinė praktika
 
 ## Atlikimas
+
 - kas atlieka: Lietuvos sportininkai ir Lietuvos tautinis olimpinis komitetas
 - kada atliekama: atkūrus Lietuvą ir atkuriant tarptautines LTOK teises
 - kaip atliekama: atsisakant dalyvauti SSRS rinktinėse ir čempionatuose, vėliau tarptautinėse varžybose dalyvaujant už Lietuvą
 
 ## Paskirtis
+
 - Įtvirtinti Lietuvos sportinį ir valstybinį atstovavimą.
 
 ## Kontekstas
+
 - Praktika siejama su nepriklausomybės atkūrimu ir sportininkų perėjimu iš SSRS struktūrų į Lietuvos atstovavimą.
 
 ## Teiginiai
-- t-005
+
+- t-001
   teiginys: '1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tarptautinis olimpinis ko-
+    Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo
+    1988 m. išvažiavo sportuoti į užsienio klubus. Tačiau 1991 m. vasarą
+    Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie
+    2 tūkst. lietuvių sportininkų iš viso pasaulio. Tarptautinis olimpinis ko-
     mitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto
     tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
     šakų sporto varžybose už savo šalį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-    - t-006
+    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

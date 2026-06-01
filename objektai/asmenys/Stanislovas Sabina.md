@@ -28,12 +28,12 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Stanislovas Sabina, medicinos daktaras, valdė - 1584 m.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.'
   pagrindžia:
     - c-001
@@ -85,7 +85,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -101,7 +101,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

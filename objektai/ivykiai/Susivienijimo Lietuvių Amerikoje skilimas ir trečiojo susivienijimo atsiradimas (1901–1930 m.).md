@@ -1,16 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Susivienijimo Lietuvių Amerikoje skilimas ir trečiojo susivienijimo atsiradimas (1901–1930 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1901 m.'
+  - '1930 m.'
+date_start: '1901'
+date_end: '1930'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
+amziai:
+  - 'XX'
 ---
 # Susivienijimo Lietuvių Amerikoje skilimas ir trečiojo susivienijimo atsiradimas (1901–1930 m.)
 
@@ -31,16 +35,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po triukšmingo 1930 m. Susivienijimo Lietuvių Amerikoje seimo komunistai įkūrė Amerikos Lietuvių Darbininkų Susivienijimą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po triukšmingo 1930 m. Susivienijimo Lietuvių Amerikoje seimo komunistai įkūrė Amerikos Lietuvių Darbininkų Susivienijimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susivienijimo Lietuvių Amerikoje neramiausias elementas
@@ -50,11 +53,9 @@ Nenurodyta
     jie įsikūrė atskirą organizaciją — Amerikos Lietuvių
     Darbininkų Susivienijimą. Tuo būdu Amerikoje
     atsirado trečias lietuvių Susivienijimas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

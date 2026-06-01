@@ -26,24 +26,25 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Gedimini) fines Christianorum 69 ## Puslapis 86 VILNIAUS MIESTO ISTORIJA I TOMAS nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta apie du tūkstančius gyventojų.'
+- t-001
+  teiginys: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.'
-  pagrindžia:
-    - c-003
-
-- t-001
-  teiginys: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
+- t-002
+  teiginys: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
+  santrauka: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trečias ir itin svarbus laiškų netikrumo įrodymas yra
@@ -74,9 +75,10 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
+  santrauka: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     e. Gedimini) fines Christianorum
@@ -93,9 +95,9 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios
@@ -112,4 +114,4 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

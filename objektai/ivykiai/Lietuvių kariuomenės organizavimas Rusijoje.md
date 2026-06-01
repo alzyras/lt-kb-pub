@@ -1,14 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvių kariuomenės organizavimas Rusijoje'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
@@ -21,34 +17,54 @@ tags:
 Lietuvių kariuomenės organizavimas Rusijoje. Iš tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rovnoje — Ukrainoje, — Sibire ir kt.).
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvių kariuomenės organizavimas Rusijoje.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-002
+
 - t-002
   teiginys: 'Iš tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rovnoje — Ukrainoje, — Sibire ir kt.).'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių kariuomenės organizavimas Rusijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš
+    tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net
+    kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rov-
+    noje — Ukrainoje, — Sibire ir kt.). Tačiau tie batalijonai neilgai
+
+
+    tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
+    daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
+    liais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvių kariuomenės organizavimas Rusijoje.** Kilus Ru-
@@ -59,29 +75,9 @@ Nenurodyta
     apginkluoti ir, atsidarius frontui, grąžinti į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Iš tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rovnoje — Ukrainoje, — Sibire ir kt.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš
-    tikrųjų lietuviams karininkams buvo pasisekę suorganizuoti net
-    kelis tokiuos lietuviškus batalijonus (Vitebske, Smolenske, Rov-
-    noje — Ukrainoje, — Sibire ir kt.). Tačiau tie batalijonai neilgai
-    tegyvavo. Bolševikams paėmus valdžią, jie buvo išsklaidyti, ir
-    daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
-    liais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

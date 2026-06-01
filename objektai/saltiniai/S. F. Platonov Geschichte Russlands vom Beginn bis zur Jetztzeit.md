@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'S. F. Platonov Geschichte Russlands vom Beginn bis zur Jetztzeit'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1927 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1927'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # S. F. Platonov Geschichte Russlands vom Beginn bis zur Jetztzeit
 
@@ -27,18 +21,15 @@ tags:
 Platonov, S.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1908. — (”) _Pilkalnis na Litwie,_ Studja Staropolskie, księga ku czci
@@ -49,10 +40,8 @@ Platonov, S.
     bis zur Jetztzeit,_ Leipzig 1927, 109-111 p. — Prochaska, A. : _O praw­
     dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
     _Die Briefe Gedimins,_ Sinsheim 1953.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

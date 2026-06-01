@@ -1,29 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Tauragnų pilis (pilis)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Tauragnų pilis'
-aliases:
-  - 'Tauragnų pilis'
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1387 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1387'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Tauragnų pilis (pilis)
 
@@ -32,20 +25,20 @@ tags:
 17) daug žemių Vilniaus apylinkėse (Malėtus, La­ banorus, Verkus), Tauragnų pilį, kelis namus Vilniaus mieste, vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat keturis medinius namus^3 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jogaila 1387 m. vasario 17 d. Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
+  teiginys: 'Karalius iškilmingu aktu Vilniaus katedrai dovanojo kunigaikštišką Tauragnų pilį su visu pavietu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila 1387 m. vasario 17 d. Vilniaus katedrai ir steigiamajai vyskupijai užrašė Tauragnų pilį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­
@@ -53,15 +46,14 @@ tags:
     banorus, Verkus), Tauragnų pilį, kelis namus Vilniaus mieste,
     vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat
     keturis medinius namus^3 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
+  santrauka: 'Karalius iškilmingu aktu Vilniaus katedrai dovanojo kunigaikštišką Tauragnų pilį su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat
@@ -92,8 +84,6 @@ tags:
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

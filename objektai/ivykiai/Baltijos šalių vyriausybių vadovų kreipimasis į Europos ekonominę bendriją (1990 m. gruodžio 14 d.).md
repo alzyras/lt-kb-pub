@@ -1,15 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1990 m.'
+date_start: '1990'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.)
 
@@ -18,39 +21,48 @@ tags:
 1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos ekonominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos ekonominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos ekonominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1990 m. gruodžio 14 d. Baltijos
+    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
+    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
+    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
+    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
+    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
+    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
+    spaudos, rinkimų laisvę.
+    Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-
+    rusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos
     šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
     nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
     ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

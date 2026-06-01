@@ -1,14 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: vieža
-sukurta: '2026-04-30'
-variantai:
-  - viežą
-  - viežos
+tipas: zodyno_irasas
+pavadinimas: 'vieža'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # vieža
 
@@ -21,23 +17,25 @@ Duobė ar kalėjimo tipo vieta, kurioje kaltininkai būdavo uždaromi. Terminas 
 Pagrindinė forma: `vieža`.
 Vartojamos formos: `viežą`, `viežos`.
 
+## Pastabos
+
+- Tiksli teisinė ir institucine forma gali skirtis, bet kalinimo funkcija tekste aiški.
+
 ## Teiginiai
-- t-003
-  teiginys: 'Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '`Vieža` šiame tekste reiškia kalinimo duobę ar kalėjimo tipo vietą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų:
@@ -47,18 +45,12 @@ Vartojamos formos: `viežą`, `viežos`.
         laikuose galėjo išsipirkti nuo tos viežos pinigais. Vadinos vieža nuo to, jog kaltininkas tenai kaip
         vėžys pakerėj turėjo lindoti. Tuos, kurie svetimas bites kieme ar girioj bartis^1130 išlaužė, prikalus
         bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
-
-## Pastabos
-
-- Tiksli teisinė ir institucine forma gali skirtis, bet kalinimo funkcija tekste aiški.
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

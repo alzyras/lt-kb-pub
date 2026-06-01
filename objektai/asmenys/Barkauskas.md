@@ -16,12 +16,12 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -55,7 +55,7 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

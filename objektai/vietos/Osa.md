@@ -1,25 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Osa'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XV'
 ---
 # Osa
 
@@ -29,69 +23,64 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3.'
   pagrindžia:
-    - c-002
+    - c-004
+
+- t-002
+  teiginys: 'Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija.'
+  pagrindžia:
+    - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t.'
+  teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
-  pagrindžia:
-    - c-004
-
-- t-005
   teiginys: 'Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai.'
   pagrindžia:
     - c-005
 
-- t-001
-  teiginys: 'Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija.'
+- t-005
+  teiginys: 'Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
-  santrauka: 'Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
-    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
-    kaip prūsų gyvenamą3.
+    nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
+    dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
+    Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
+    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
+    nigaikščių dovanota vokiečiams. Čia Vytautas pakartoja ankstesnių Lie-
+    tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t.'
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog
-    „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t.
+    „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
+    prūsų žemių iki Vyslos su Pamede imtinai — R. B.), nes jie yra mano tėvų palikimas“41.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 
       Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
@@ -101,17 +90,30 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     šalys patyrė didelių nuostolių sužeistaisiais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai.'
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
+    atsižvelgti į keletą momentų. Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
+    pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
+    kaip prūsų gyvenamą3.
+      Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
+    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
+    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
+    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-005
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    149 (144). Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
 
       Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui
     bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį,
@@ -120,23 +122,6 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
     kariuomenė ir visą šią žmonių minią išžudė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-
-- c-001
-  santrauka: 'Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
-    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
-    nigaikščių dovanota vokiečiams.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+    - t-004

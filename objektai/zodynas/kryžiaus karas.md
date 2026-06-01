@@ -1,26 +1,18 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "kryžiaus karas"
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
+pavadinimas: 'kryžiaus karas'
 saltiniai:
-  - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-laikotarpis: "XIII a. vidurys"
-datos: []
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIII"
-date_start: "1254"
-date_end: "1261"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-04-28'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1254 m.'
+  - '1261 m.'
+date_start: '1254'
+date_end: '1261'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XIII'
 ---
 # kryžiaus karas
 
@@ -29,9 +21,11 @@ tags: []
 Kryžiaus karas čia reiškia popiežiaus skelbiamą religinį-karinį žygį prieš totorius ar pagonis.
 
 ## Žodis ir formos
+
 Šaltinyje vartojamos formos kryžiaus karas, kryžiaus karo žygis ir kryžiaus karai.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: XIII a. vidurys.
 - datos:
   - 1254 m.
@@ -46,81 +40,109 @@ Kryžiaus karas čia reiškia popiežiaus skelbiamą religinį-karinį žygį pr
 - date_end: "1261"
 
 ## Reikšmė iš konteksto
+
 Sąvoka nusako popiežiaus skelbiamą kovą su religinio priešo statusą gavusiomis grupėmis ir šiame šaltinyje siejama su ordino politika Lietuvoje.
 
 ## Vartojimas
+
 Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo totorių, tiek apie nuolatinę kovos prieš pagonis mobilizaciją.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.
+  teiginys: '1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.
+  teiginys: 'Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: Autorius kryžiaus karus sieja su intensyvesniu jų skelbimu prieš pagonis ir lietuvius.
+  teiginys: 'Autorius kryžiaus karus sieja su intensyvesniu jų skelbimu prieš pagonis ir lietuvius.'
   pagrindžia:
     - c-003
     - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Kryžiaus karas tiesiogiai siejamas su ordino gynimu nuo totorių.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas.
-  citata_rodoma: ""
+    Tiesa, neį­
+    žengiamos lietuvių miškų zonos prie stepių pripratusiems totorių
+    raitelių būriams sudarė kliūčių, tačiau jie nepaliovė veržtis į vakarus.
+    Dar apie 1253 m. totorių invazijos pavojus baimino vokiečių ordiną
+    Prūsuose. 1254 m. pradžioje buvo skelbiamas ordinui apginti prieš
+    totorius kryžiaus karas^143.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Kryžiaus karo žygiui vadovauti raginamas Prūsų riterių magistras.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius.
-  citata_rodoma: ""
+    Čekijos karalių^145 ir Brandenburgo markgrafą ragino į kryžiaus žygį
+    prieš totorius. Paskutiniajam popiežius rašė, jog totoriai esą nute­
+    rioję didesnę Lietuvos dalį^146.
+    Kaip tik pradžioje tų lemtingų 1260 metų, kada rudenį — po
+    Durbės kautynių — visas Pabaltijys sukils prieš vokiečių ordiną,
+    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus
+    karo žygiui prieš totorius^147.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Šaltinis kalba apie dar intensyvesnį kryžiaus karų skelbimą prieš pagonis.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.
-  citata_rodoma: ""
+    Pasveikęs magistras ėmė organizuoti didelę jėgą prieš Žemaičius.
+    Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
+    ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
+    kryžiaus karus prieš pagonis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: Kryžiaus karai įvardijami kaip skelbiami prieš lietuvius.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus.
-  citata_rodoma: ""
+    Lietuvos valstybės istorija butų pasukusi visai kitu keliu, jeigu
+    nebūtų buvęs nužudytas karūnuotas valdovas. Eidami Mindaugo
+    pėdomis ir viešai palaikydami krikščionybę, jo įpėdiniai butų galėję
+    Lietuvai išsaugoti karališką karūną visam laikui. Tokiu atveju būtų
+    buvę liautasi prieš lietuvius skelbti kryžiaus karus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-005
+  santrauka: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
+    ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
+    kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
+    esą nužudę beveik 500 kryžiuočių^155.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -136,6 +158,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Danieliaus vainikavimas karaliumi Drogičine (1253 m.)]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

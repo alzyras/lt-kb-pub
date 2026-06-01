@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,16 +15,15 @@ tags:
 Algirdas priekaištauja Konstantinopolio patriarchui: »[...] pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Algirdas Konstantinopolio patriarchui priekaištavo, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Algirdas Konstantinopolio patriarchui priekaištavo, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Algirdas priekaištauja Konstantinopolio patriarchui:
@@ -41,11 +31,9 @@ Algirdas priekaištauja Konstantinopolio patriarchui: »[...] pagal Tavo palaimi
     »[...] pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] lai-
     mina kraujo praliejimui iki šiol. Metropolitui derėtų laiminti maskvėnus, kad jie mums
     ateitų į pagalbą, nes mes už juos kovojame su vokiečiais“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

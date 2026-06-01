@@ -1,33 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'konfederacija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1893 m.'
-  - '1906 m.'
-  - '1919 m.'
-  - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1893'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karas
   - sąvoka
+amziai:
+  - 'XIX'
+  - 'XXI'
 ---
 # konfederacija
 
@@ -36,110 +25,109 @@ tags:
 Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas. Priimtomis sąlygomis, Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Saksoniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to, buvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta iš viso vos 24.000, — 18.000 Lenkijai ir 6.000.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
   teiginys: 'Rembowski, Rokosz i konfederacija w d. prawie polskiem (1893).'
   pagrindžia:
     - c-004
+
+- t-002
+  teiginys: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
+  pagrindžia:
+    - c-002
+
 - t-005
-  teiginys: '6); — Bajorų konfederacijos (ten pat, Nr. 9); K.'
+  teiginys: 'Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorija sudarė
     konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti
     Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o
     regimentorium (karo vadu) — Mykolas Višniaveckis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Su ta kariuomene ir suor-
+    Sapiegos tuo tarpu grįžo į Lie-
+    tuvą, hetmonas gavo dalį švedų kariuomenės ir liko Vilniuje. Viš-
+    niaveckis, Oginskis ir kiti Sapiegų priešai su savo kariuomenės
+    būriais tuo tarpu tebebuvo krašte. Su ta kariuomene ir suor-
     ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
     dus ir Sapiegas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
+
 - c-003
-  santrauka: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Priimtomis sąlygomis,
+    **Rusų tarpininkavimo padariniai.** Priimtomis sąlygomis,
     Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
     soniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,
     buvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta
-    iš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai.
-  citata_rodoma: ""
+    iš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai. Tačiau
+    blogiausias viso to padarinys buvo tas, kad taika buvo pada-
+    ryta, tarpininkaujant caro generolui: toliau jau visą laiką carai
+    ėmė kištis į Respublikos vidaus reikalus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-004
-  santrauka: 'Rembowski, Rokosz i konfederacija w d. prawie polskiem (1893).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1906); — Sejm walny (1919); A. Rembowski, Rokosz i konfederacija w d.
     prawie polskiem (1893).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-005
-  santrauka: '6); — Bajorų konfederacijos (ten pat, Nr. 9); K.'
+  santrauka: 'Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    6); —
-    Bajorų konfederacijos (ten pat, Nr. 9); _K.
+    Viš-
+    niaveckis, Oginskis ir kiti Sapiegų priešai su savo kariuomenės
+    būriais tuo tarpu tebebuvo krašte. Su ta kariuomene ir suor-
+    ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
+    dus ir Sapiegas. Iki pat karo pabaigos vieni kitus naikino, te-
+    riojo kraštą, galutinai nelaimėdami nei vieni nei kiti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/bajorija]]
@@ -151,6 +139,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]
 - [[objektai/ivykiai/Augusto II elekcija (1697 m.)]]
 - [[objektai/grupes/Bajorų konfederacija]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Baro konfederacija]]
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
 - [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
@@ -161,10 +150,10 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/asmenys/Karolis Stanislovas Radvila]]
+- [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
-- [[objektai/grupes/Lietuvos konfederacija]]
 - [[objektai/asmenys/Liudvikas XVI]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/asmenys/Mykolas Pacas]]
@@ -173,7 +162,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/grupes/Radomo konfederacija]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/asmenys/Simonas Kosakovskis]]
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
@@ -182,6 +170,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]
 - [[objektai/grupes/Vilniaus konfederacija]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]
+- [[objektai/zodynas/dvarų milicija]]
 - [[objektai/zodynas/jakobinizmas]]
 - [[objektai/zodynas/jakobinizmas jakobinų klubas]]
 - [[objektai/posakiai/kardinalinės teisės]]
@@ -198,3 +187,4 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/ivykiai/Varšuvos konfederacija]]
 - [[objektai/zodynas/kariuomenės konfederacija]]
 - [[objektai/posakiai/„taikdarišką“ ir „tarpininkavimo“ misiją]]
+- [[objektai/ivykiai/Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.)]]

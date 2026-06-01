@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Geltonas lankelis ant kepurės'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - tauta
@@ -25,35 +16,40 @@ tags:
 Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kad pirmieji Lietuvos kariai būtų panašūs ne į margą minią, bet į kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau besikuriantys Lietuvos kariuomenės daliniai įsigydavo ginklų ir uniformų iš vo-
@@ -71,17 +67,22 @@ Nenurodyta
     abipus vieškelio Kėdainiai-Šėta, efektyvia
     šautuvų ugnimi įstengė sustabdyti priešo
     puolimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario 7 d. tarp bolševikų ir Šilginėlių kaime buvusios lietuvių sargybos įvyko smarkus stūmė lietuvių sargybas, prirengti pirmojo pavyzdžio uniforma (gavo kepures su geltonomis juostomis ir.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Bolševikai tą dieną į lietuvių pusę paleido
+    užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus
+    juos puolė mėgindami pralaužti gynybą,
+    tačiau savanoriams vis pavykdavo taiklia
+    šautuvų ugnimi juos sulaikyti. Toks buvo
+    pirmasis Kėdainių įgulos sava-
+    norių kovos krikštas.
     Raudonarmiečiai,
     matydami, jog jų
     artilerija lietuvių
@@ -99,9 +100,7 @@ Nenurodyta
     vius trikampius kairės rankovės antsiuvus).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

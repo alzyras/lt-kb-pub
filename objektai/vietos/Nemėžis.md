@@ -18,12 +18,12 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Ją sutiko pats Aleksandras per pusę mylios nuo miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­ tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­ bėjo.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs šaunus pergalingas karys Vytautas; be jų pa­ grindinės gyvenvietės prie Vokės upės, be tų, kurie įsikūrė mieste ir kurie apsigyveno vietovėje, vadinto­ je Nemėžiu, per mylią nuo Vilniaus į.'
   pagrindžia:
     - c-001
@@ -63,7 +63,7 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -86,4 +86,4 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

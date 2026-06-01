@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'J. Šarauskas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -26,22 +17,20 @@ tags:
 Šarauskas mieste jau buvo suorganizavęs savąjį savanorių būrį. Šarauskas paskelbė apgulos padėtį ir uždraudė mieste rulių budėjimą mieste. Šarauskas į Paobelių kaimą pasiuntė patyrusius vyresniuosius karius V.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu Kėdainių srities apsau-
@@ -53,15 +42,13 @@ tags:
     būriui iš Panevėžio, Kėdainių miesto
     įgula gerokai išaugo (apie 200 sa-
     vanorių), bet jai trūko ginklų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     miestą, raudonarmiečiai nusprendė apeiti
@@ -79,13 +66,11 @@ tags:
     skubiai trauktis į Juodikio mišką. Tokiu
     būdu buvo sužlugdytas pavojingas priešo
     sumanymas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

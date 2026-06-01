@@ -20,7 +20,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 ## Teiginiai
 
 - t-001
-  teiginys: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
+  teiginys: 'Vilniaus vyskupas Povilas su sufraganu Kiprijonu ir visu kleru užkirto kelią karaliui ir paskatino jį pasukti į katalikų katedrą.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus vyskupas Povilas su sufraganu Kiprijonu ir visu kleru užkirto kelią karaliui ir paskatino jį pasukti į katalikų katedrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­

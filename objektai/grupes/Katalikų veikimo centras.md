@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Katalikų veikimo centras'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -19,32 +16,35 @@ tags:
 Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau krikščionių demokratų blokas, Katalikų veikimo
+    Šia kons-
+    titucija absoliučiai garantuotas A. Smetonos autoritarinis režimas.
+    A. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo
+    jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių)
+    Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuš-
+    kusius raumenis. Tačiau krikščionių demokratų blokas, Katalikų veikimo
     centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
     monopolizuoti ideologinės ir organizacinės erdvės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Krikščionių demokratų blokas]]
 - [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]
 - [[objektai/asmenys/Stasys Raštikis]]

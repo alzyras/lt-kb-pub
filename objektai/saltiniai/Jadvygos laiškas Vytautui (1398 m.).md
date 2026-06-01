@@ -1,36 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Jadvygos laiškas Vytautui (1398 m.)'
-sukurta: '2026-05-05'
-variantai:
-  - 'Jadvygos laiškas'
-  - '„mylimam broliui“ laiškas'
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
-  - '1398 m.'
-  - '1430 m.'
-  - '1930 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-laikotarpis: '1398 m.'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-05'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Jadvygos laiškas Vytautui (1398 m.)
 
@@ -45,49 +27,48 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
 - Data / laikotarpis: 1398 m.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Tada Jadvyga „mylimam broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­ tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį činšą^3 ).'
-  pagrindžia:
-    - c-003
-- t-006
+
+- t-001
   teiginys: 'Jiems buvo paskelbtas Jad­ vygos laiškas, žeminantis lietuvių didikus.'
   pagrindžia:
     - c-004
 
+- t-002
+  teiginys: 'Tada Jadvyga „mylimam broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­ tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį činšą^3 ).'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Tada Jadvyga „mylimam broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­ tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį činšą^3 ).'
+
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tada Jadvyga „mylimam
+    Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ). Žodžiu, lenkai norėjo, kad kas teorijoj buvo užfik­
+    suota, būtų ir gyvenime realizuojama. Tada Jadvyga „mylimam
     broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
     Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
     tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
     činšą^3 ).
-    Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
-    tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
-    tos žemės priklauso Lenkijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-004
-  santrauka: 'Jiems buvo paskelbtas Jad­ vygos laiškas, žeminantis lietuvių didikus.'
+    - t-004
+
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tam tikslui pirmą kartą
@@ -98,41 +79,39 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     nėdami, kad tai yra pasikėsinimas prieš jų laisvę ir tradicijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.'
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tada Jadvyga „mylimam
+    Žodžiu, lenkai norėjo, kad kas teorijoj buvo užfik­
+    suota, būtų ir gyvenime realizuojama. Tada Jadvyga „mylimam
     broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
     Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
     tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
     činšą^3 ).
-  citata_rodoma: ""
+    Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
+    tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
+    tos žemės priklauso Lenkijai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus.'
+    - t-002
+
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Tam tikslui pirmą kartą
     sušaukė jis savo visuomenės atstovus į susirinkimą; susirinko
     žymiausi lietuvių ir rusų bajorai. Jiems buvo paskelbtas Jad­
     vygos laiškas, žeminantis lietuvių didikus. Tie, žinoma, dar
-    Vytauto pakurstyti, griežtai atmetė tokius reikalavimus
-  citata_rodoma: ""
+    Vytauto pakurstyti, griežtai atmetė tokius reikalavimus, įrodi­
+    nėdami, kad tai yra pasikėsinimas prieš jų laisvę ir tradicijas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001

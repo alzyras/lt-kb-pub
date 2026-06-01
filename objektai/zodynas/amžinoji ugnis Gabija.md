@@ -17,12 +17,12 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Iškil­ mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­ griauta Perkūno šventykla, ir būtent toje vietoje, vidur piliavietės, pradėta statyti Šv.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'''' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -58,7 +58,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karas
@@ -21,40 +18,38 @@ tags:
 Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 704 narius, o dabar turi 300 su viršum kuopų ir 20.000 narių. Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia visas katalikiškąsias Amerikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mokyklų steigimu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 704 narius, o dabar turi 300 su viršum kuopų ir 20.000 narių.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje įkūrė Amerikos Lietuvių Katalikų Federaciją, jungusią katalikiškas Amerikos lietuvių organizacijas.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 704 narius, o dabar turi 300 su viršum kuopų ir 20.000 narių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Susivienijimas Lietuvių Rymo Katalikų
     Amerikoje** iš pradžių teturėjo vos 704 narius, o dabar turi
     300 su viršum kuopų ir 20.000 narių. Turto jis turi apie 1.200.000
     dolerių. Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
+
+
     gas", nuo 1917 metų tapo „Garsas". Susivienijimo pirmi-
     ninku paprastai renkamas kunigas. Susivienijimas daro kon-
     gresus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje įkūrė Amerikos Lietuvių Katalikų Federaciją, jungusią katalikiškas Amerikos lietuvių organizacijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis yra įkūręs Amerikos Lietuvių Ka-
@@ -73,11 +68,9 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
     maža katalikų jaunimo Federacija suorganizavo ir Lietuvos Vy-
     čių Sąjungoje (tai maždaug, kaip Lietuvoje pavasarinin-
     kai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

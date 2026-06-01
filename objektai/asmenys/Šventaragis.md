@@ -82,4 +82,5 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
+- [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
 - [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]

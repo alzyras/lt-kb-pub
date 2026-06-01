@@ -22,26 +22,26 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-004
+- t-003
   teiginys: 'Dusburgietis teigia, kad magistras ir broliai su jais bei su kunigaikščiu Kazimieru ir su savaisiais įsibrovė į Pomeranijos žemę ir, devynetą dienų ir naktų tai viena, tai kita kryptimi smogdami stiprius ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio, kurio.'
   pagrindžia:
     - c-004
 
-- t-003
+- t-004
   teiginys: 'Dusburgietis teigia, kad sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu, kai šitai dėjosi, Sventopelkas
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sventopelkas su savo kariuomene priėjo
@@ -77,9 +77,9 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
@@ -120,7 +120,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

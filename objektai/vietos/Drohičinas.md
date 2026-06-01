@@ -1,30 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Drohičinas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1444 m.'
-  - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1444'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Drohičinas
 
@@ -33,96 +26,81 @@ tags:
 Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną. Vladislovui 1444 m. žuvus, po trejų metų derybų, lenkai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mozūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto mirties buvo užėmęs.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu.'
+  teiginys: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
-  pagrindžia:
-    - c-004
-- t-005
+
+- t-002
   teiginys: 'Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
   pagrindžia:
     - c-008
 
+- t-003
+  teiginys: 'Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
+  pagrindžia:
+    - c-002
+
+- t-008
+  teiginys: 'Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.'
+  pagrindžia:
+    - c-007
+
+- t-009
+  teiginys: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
+  pagrindžia:
+    - c-009
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
-    išvyko į Drohičiną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir ne-
-    sutiko, tačiau Lietuva be jokio ryšio su Lenkija išgyveno net
-    7 metus. Vladislovui 1444 m. žuvus, po trejų metų derybų, len-
-    kai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų
-    būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mo-
-    zūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto
-    mirties buvo užėmęs.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    O Vokiečiai apsiėmė tik su
+    Abu ma­
+    gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
+    čiais sutarė, kad pietinė Prūsijos dalis ir prie jos prieiną Lie­
+    tuvos kraštai nei vienų nei kitų nustatytų metų bėgy ne­
+    bebūtų puldinėjami. Lietuviai pasižadėjo nebeužpuldinėti pieti­
+    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
+    tenburgo ir Gunlaukeno apskričiai. O Vokiečiai apsiėmė tik su
     krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
     kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
     tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
     timis galį taikos ir nesilaikyti^1 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
+    - t-004
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytenis taip
+    Senasis
+    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
+    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
+    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip
     pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
     rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
     prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
@@ -130,39 +108,37 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+    - t-007
+
+- c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    I1l
-
-    ## Puslapis 128
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
-    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
-    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
-    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
-    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
-    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
-    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+    Abu ma­
+    gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
+    čiais sutarė, kad pietinė Prūsijos dalis ir prie jos prieiną Lie­
+    tuvos kraštai nei vienų nei kitų nustatytų metų bėgy ne­
+    bebūtų puldinėjami. Lietuviai pasižadėjo nebeužpuldinėti pieti­
+    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
+    tenburgo ir Gunlaukeno apskričiai. O Vokiečiai apsiėmė tik su
+    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
+    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
+    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
+    timis galį taikos ir nesilaikyti^1 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.'
+    - t-001
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ); kitais metais
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
     Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
     gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
     prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
@@ -174,16 +150,15 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     kiolika dienų teplėšė Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
+    - t-003
+
+- c-005
+  santrauka: 'Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    112.
+    X, p. 112.
     I1l
 
     ## Puslapis 128
@@ -198,26 +173,73 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - t-005
+
+- c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuviai pasižadėjo nebeužpuldinėti pieti­
-    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
-    tenburgo ir Gunlaukeno apskričiai. O Vokiečiai apsiėmė tik su
-    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
-    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
-    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
-    timis galį taikos ir nesilaikyti^1 ).
+    Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė
+    Jogailą. Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
+    tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
+    išvyko į Drohičiną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir ne-
+    sutiko, tačiau Lietuva be jokio ryšio su Lenkija išgyveno net
+    7 metus. Vladislovui 1444 m. žuvus, po trejų metų derybų, len-
+    kai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų
+    būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mo-
+    zūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto
+    mirties buvo užėmęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-008
+
+- c-008
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    X, p. 112.
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-009
+  santrauka: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
+    tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
+    išvyko į Drohičiną. Jogaila tuo metu buvo išsiuntęs kariuomenę
+
+    į Polocką; čia buvo ir Skirgaila, paskirtas, po sukilusio Andriaus,
+    Polocko kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009

@@ -28,26 +28,26 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 - t-001
   teiginys: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
   pagrindžia:
-    - c-001
+    - c-004
 
-- t-004
+- t-002
   teiginys: 'Taip pat Lietuvoje esančius ir kur kitur paveda­ me Lietuvos Kunigaikštystei, bet tie, kurie yra Tikocine ir visi ginklai bei karinė amunicija privalo ten likti kaip mūsų nuosavoje pilyje.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-002
+- t-004
   teiginys: 'Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat mūsų
@@ -95,9 +95,9 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiai bažnyčiai visą bažnytinį auksą,
@@ -120,7 +120,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visus bet kokio pavadinimo pabūklus, ar-
@@ -137,9 +137,9 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-001
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. Il,

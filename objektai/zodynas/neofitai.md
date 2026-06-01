@@ -1,31 +1,23 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'neofitai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1435 m.'
-  - '1440 m.'
-  - '1469 m.'
-  - '1491 m.'
   - '1492 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1435'
 date_end: '1492'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - reforma
   - sąvoka
   - tauta
+amziai:
+  - 'XV'
 ---
 # neofitai
 
@@ -34,38 +26,20 @@ tags:
 Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiėmę ir klausimai: popiežius ar susirinkimas — nejau­ dina taip jų, kaip vakariečių — jie žiūri šalčiau, ypač kad jie neofitai daugiau iš reikalo, negu iš įsitikinimo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvoje žmonės buvo neofitai daugiau iš reikalo negu iš įsitikinimo.'
   pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvoje žmonės buvo neofitai daugiau iš reikalo negu iš įsitikinimo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Naujai įėjusią į vakarų Europos tautų šeimą Lietuvą tik
-    iš tolo tepaliečia jaudinančios visuomenę problemos. Pats svar­
-    biausias klausimas buvo bažnytinės reformos reikalas. Lie­
-    tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar
-    nepersiėmę ir klausimai: popiežius ar susirinkimas — nejau­
-    dina taip jų, kaip vakariečių — jie žiūri šalčiau, ypač kad jie
-    neofitai daugiau iš reikalo, negu iš įsitikinimo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -113,11 +87,25 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
     nusidriekęs palei Vilnios upę prie Karališkojo malūno.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naujai įėjusią į vakarų Europos tautų šeimą Lietuvą tik
+    iš tolo tepaliečia jaudinančios visuomenę problemos. Pats svar­
+    biausias klausimas buvo bažnytinės reformos reikalas. Lie­
+    tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar
+    nepersiėmę ir klausimai: popiežius ar susirinkimas — nejau­
+    dina taip jų, kaip vakariečių — jie žiūri šalčiau, ypač kad jie
+    neofitai daugiau iš reikalo, negu iš įsitikinimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -130,4 +118,3 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 - [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/asmenys/Jachna Laurinavičius]]
 - [[objektai/asmenys/Mikalojus Laurinavičius]]
-- [[objektai/zodynas/Puslapis 77]]

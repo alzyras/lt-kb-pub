@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kauno karo aviacijos dirbtuvės'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - vieta
@@ -19,24 +16,25 @@ tags:
 66 tokie lėktuvai buvo pastatyti Kauno karo aviacijos dirbtuvėse.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 tokie lėktuvai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 tokie lėktuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
+    Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
+    tu. Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,
+    buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėk-
+    tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
+    pirmųjų raidžių). 66 tokie lėktuvai buvo pastatyti Kauno karo aviaci-
     jos dirbtuvėse.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

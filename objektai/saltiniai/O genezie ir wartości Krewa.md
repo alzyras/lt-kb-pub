@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'O genezie ir wartości Krewa'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1938 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1938'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # O genezie ir wartości Krewa
 
@@ -27,18 +21,15 @@ tags:
 : O genezie i wartości Krewa , Warszawa, 1938.
 
 ## Teiginiai
+
 - t-001
   teiginys: ': O genezie i wartości Krewa , Warszawa, 1938.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: ': O genezie i wartości Krewa , Warszawa, 1938.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Pasz­
@@ -46,10 +37,8 @@ tags:
     kas, Pr. : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje_ , Athenaeum,
     II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_
     Slavische Forschungen, Heft 2, 1938.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

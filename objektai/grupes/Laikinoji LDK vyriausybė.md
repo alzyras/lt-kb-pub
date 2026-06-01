@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Laikinoji LDK vyriausybė'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kraštas
@@ -19,28 +16,30 @@ tags:
 Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Napoleonas leido Vilniuje
+    Joje įvestas
+    civilinis Napoleono kodeksas, valstiečiams suteikta asmens laisvė, tik be
+    žemės nuosavybės teisės ir be teisės palikti savo gyvenamąją vietą ir ūkį
+    be žemvaldžio žinios.
+    1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji
+    dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje
     įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
     viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
     siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
     gaikštystės pulkai).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

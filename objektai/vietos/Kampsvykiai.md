@@ -27,24 +27,24 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau į pietus, kur ji tapatinama su Kamantų (Kamanten) piliakalniu kair.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras su didele kariuomene perėjo Nadruvos žemę, plėšdamas ir degindamas, o priėjęs Kampsvykių pilį, pastatytą prie Arsos upės463, ją smarkiai užpuolė, tinkamai parengęs visa, kas tam reikalinga; abiem šalims.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. aprašomos castrum Cameniswikam (Kampsvykių) pilies ieškoma ir gerokai toliau
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     178 (173). Apie Kampsvykių pilies užkariavimą
@@ -101,4 +101,4 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

@@ -1,26 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: "Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "pagoniško Vilniaus laikai"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje
 
@@ -29,45 +13,49 @@ tags: []
 Antakalnio šventovėje, skirtoje visiems lietuvių dievams, ketvirtadienio vakarais dvasininkai statydavo ir degindavo vaško žvakes. Ši praktika pristatoma kaip pasikartojanti pagoniškos šventovės apeiga.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: pagoniško Vilniaus laikai
 - periodas: viduramziai
 - periodo_grupes: LDK
 
 ## Kas tai
+
 - kategorija: religinė praktika
 
 ## Atlikimas
+
 - kas atlieka: dvasininkai.
 - kada atliekama: ketvirtadienio vakarais.
 - kaip atliekama: Antakalnio šventovėje statant ir deginant vaško žvakes.
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Antakalnyje buvo medinė šventovė, pašvęsta visiems lietuvių dievams."
+  teiginys: 'Antakalnyje buvo medinė šventovė, pašvęsta visiems lietuvių dievams.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes."
+  teiginys: 'Antakalnio šventovėje ketvirtadienio vakarais dvasininkai visada statydavo ir degindavo vaško žvakes.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  teiginys: 'Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: "Antakalnyje minima visiems lietuvių dievams pašvęsta medinė šventovė."
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gausu buvo pagonių šventyklų, nes, be tų, ku­
@@ -77,15 +65,13 @@ Nenurodyta
     kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
     tovė Laukai-kišas-upys, vėliau išvir­
     to į Lukiškes.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: "Citata tiesiogiai nurodo ketvirtadienio vakarų žvakių statymą ir deginimą."
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Buvo dar didžiulė menė, arba
@@ -103,15 +89,14 @@ Nenurodyta
     kur buvo lietuvių šventykla, turėjo
     būti nuo seno lietuviškai vadinama,
     ne lotyniškai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  santrauka: 'Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gausu buvo pagonių šventyklų, nes, be tų, ku­
@@ -134,9 +119,7 @@ Nenurodyta
     kes/' Strijkovskis, Sk. IV, p. 400.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

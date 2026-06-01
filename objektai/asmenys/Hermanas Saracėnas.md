@@ -19,34 +19,34 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą; vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis.'
   pagrindžia:
-    - c-002
+    - c-005
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mūšis Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė: „Hermanai, aš tave kviečiu į.'
   pagrindžia:
     - c-004
 
-- t-005
+- t-003
   teiginys: 'Dusburgietis teigia, kad tarp tų sielų jie abu matė dvi vėles pranašesnes nei kitos, tai buvo sielos brolio Hermano, vadinamo Saracėnu, ir kito brolio, vardu [..?] iš Glizbergo, kurį paminėjome, kalbėdami apie Kristburgo pilies statybą.'
   pagrindžia:
-    - c-005
+    - c-001
 
-- t-003
+- t-004
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-005
   teiginys: 'Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo švenčiausiąją mergelę Mariją, kad niekada niekam.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarp tų sielų jie abu matė dvi vėles
@@ -56,9 +56,9 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieno Karaliaučiaus brolio šlovingą gyvenimą
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -98,7 +98,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -119,9 +119,9 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -141,7 +141,7 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-006
   santrauka: 'Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo švenčiausiąją mergelę Mariją, kad niekada niekam.'

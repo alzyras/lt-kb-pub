@@ -42,16 +42,16 @@ Nenurodyta
 - t-001
   teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Ją skaitant atro­ do, kad Aleksandras, leisdamas sta­ tyti tokius namus, turėjo omenyje ne tik miesto ir muito pelną, bet ir iš­ orinį saugumą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svečių namams skirta privilegija yra:
@@ -76,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­

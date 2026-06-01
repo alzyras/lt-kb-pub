@@ -73,4 +73,3 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/asmenys/Motiejus iš Blonios]]
-- [[objektai/zodynas/Puslapis 77]]

@@ -1,31 +1,17 @@
 ---
 tipas: grupe
-pavadinimas: "Vilniaus prastuomenė"
-sukurta: '2026-05-27'
-variantai:
-  - "pastarieji"
-aliases: []
+pavadinimas: 'Vilniaus prastuomenė'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "apie 1345 m.; 1341 m. pagal Grzybowskio pasakojimą"
-vaidmenys:
-  - "miesto socialinis sluoksnis"
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1341 m.'
   - '1345 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1341'
 date_end: '1345'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
 ---
 # Vilniaus prastuomenė
 
@@ -43,25 +29,25 @@ Vilniaus prastuomenė pateikiama kaip galimas pranciškonų vienuolyno užėmimo
 Vilniaus miesto žemesnis socialinis sluoksnis.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius."
+  teiginys: 'Apie 1345 m. Vilniaus prastuomenė, galbūt pakurstyta Perkūno garbintojų ar Rytų Bažnyčios išpažinėjų, smurtu užėmė pranciškonų vienuolyną ir nužudė vienuolius.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną."
+  teiginys: 'Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Atsargiai formuluojamas prastuomenės vaidmuo apie 1345 m. smurto epizode.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -75,15 +61,13 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
     lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
     bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
     atminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Grzybowskio pateikta alternatyvi tradicija apie miestiečius ir totorius.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visos detalės apie Lietu­
@@ -104,18 +88,19 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
     naują vienuolyną, visus 36 vienuo­
     lius ir su jais sykiu Goštautą nukan­
     kino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: interpretacija
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Grzybowski  s, pranciško­
+    Visos detalės apie Lietu­
+    vos pranciškonus yra šio didžiulio
+    ordino analų rinkinio septintame to­
+    me. Grzybowski  s, pranciško­
     nas, anksčiau nurodytoje knygoje
     (8 p.) sako, kad Goštautas pranciš­
     konu tapęs Krokuvoje, o paskui ap­
@@ -132,9 +117,7 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
     kino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -150,13 +133,11 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/posakiai/savo užantyje maitinti gyvatę]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Boucicaut]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/autoriai/J. Dlugošas Długosz]]
 - [[objektai/posakiai/Menko grobio ir tuščios garbės pasigviešę]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]

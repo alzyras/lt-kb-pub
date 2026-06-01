@@ -43,17 +43,17 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Semenavičiaus raketų brėžiniai.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Iš šių ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę proŽymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Žymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
   pagrindžia:
     - c-001
@@ -75,7 +75,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -87,7 +87,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -104,7 +104,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

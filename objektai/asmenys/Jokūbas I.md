@@ -29,13 +29,14 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę „Z", dieceziją tevaldė 7 metus - nuo 1400 metų iki 1407 m. Gražumu ir įkalbinėjimais daugelį pagonių krikščionių tikėjimą priimti paskatino.'
+  teiginys: 'Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     4

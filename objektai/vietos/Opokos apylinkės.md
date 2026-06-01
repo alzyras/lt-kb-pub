@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Opokos apylinkės'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - vieta
@@ -25,16 +16,15 @@ tags:
 Galiausiai buvo nusiaubtos Opokos apylinkės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Galiausiai buvo nusiaubtos Opokos apylinkės.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Galiausiai buvo nusiaubtos Opokos apylinkės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
@@ -47,10 +37,8 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
     nusiaubtos Opokos apylinkės.
     Spalio 23 d. K. Radvila pasiekė prie
     apgulto Pskovo buvusią S. Batoro
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

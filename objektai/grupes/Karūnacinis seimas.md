@@ -1,21 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Karūnacinis seimas (seimas)'
-sukurta: '2026-04-25'
-variantai:
-  - 'Karūnacinis seimas'
-aliases:
-  - 'Karūnacinis seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - seimas
@@ -27,19 +16,15 @@ tags:
 Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Pačius karaliaus rinkimus atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus formalumus.'
-  pagrindžia:
-    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po konvokacinio seimo,
@@ -50,30 +35,11 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
     malumus. Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
     mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
     davo karūnacija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Pačius karaliaus rinkimus atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus formalumus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pačius karaliaus rinkimus
-    atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus for-
-    malumus. Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
-    mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
-    davo karūnacija.
-    **Konfederaciniai seimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

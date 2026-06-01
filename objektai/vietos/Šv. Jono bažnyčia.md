@@ -19,12 +19,12 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Jono bažnyčią, visą mū­ rinį.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65.'
   pagrindžia:
     - c-001
@@ -47,7 +47,7 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -66,4 +66,4 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

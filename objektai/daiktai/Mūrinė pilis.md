@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '- • - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei.'
+  teiginys: 'Gediminas įsakė pastatyti mūrinę pilį ant paaukštinto kalno Vilnelės ir Vilijos santakoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas įsakė pastatyti mūrinę pilį ant paaukštinto kalno Vilnelės ir Vilijos santakoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
@@ -82,3 +83,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Gediminas]]

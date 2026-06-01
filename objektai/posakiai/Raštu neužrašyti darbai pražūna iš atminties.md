@@ -1,32 +1,10 @@
 ---
 tipas: posakis
-pavadinimas: "Raštu neužrašyti darbai pražūna iš atminties"
-sukurta: '2026-05-27'
-variantai:
-  - "Kad savo metu nuveikti žmonių darbai iš mirtingųjų atminties neišnyktų"
-  - "Tie darbai, jeigu nebuvo raštu užrašyti, lengvai žmonių atmintyje pražūna"
-aliases: []
+pavadinimas: 'Raštu neužrašyti darbai pražūna iš atminties'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos:
-  - "1501 m."
-  - "1503 m."
-  - "1536 m. rugpjūčio 6 d."
-periodas: "naujieji_laikai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XVI"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Raštu neužrašyti darbai pražūna iš atminties
 
@@ -52,28 +30,25 @@ Formulė pasirodo privilegijų įžangose, kur rašytinis dokumentas pagrindžia
 Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartoms.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Privilegijos vertime žmonių darbų neišnykimas iš atminties siejamas su jų įamžinimu raštais ir patikimų liudininkų parašais.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: '1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Privilegijos vertime žmonių darbų neišnykimas iš atminties siejamas su jų įamžinimu raštais ir patikimų liudininkų parašais."
-  pagrindžia:
-    - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: "1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje."
-  pagrindžia:
-    - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -86,15 +61,13 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     žinti rašto paminklais ir patikimais paliudijimais. Amžinai
     dalykų atminčiai. Mes, Aleksandras, Dievo malone didysis
     Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Dokumentinė arenga patikimai liudija formulės vartoseną, bet tai nėra liaudies posakis."
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 1503 m. vertimas pateikia žmonių darbų neišnykimo iš atminties ir rašytinio įamžinimo formulę.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV  KNYGA
@@ -105,15 +78,13 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­
     tuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas
     ir tėvonis. Amžinai dalykų atminčiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Dokumentinė arenga patikimai liudija formulės vartoseną, bet tai nėra liaudies posakis."
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 1536 m. privilegijos įžanga tiesiogiai teigia, kad neužrašyti darbai lengvai pražūna atmintyje.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
@@ -138,13 +109,11 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
     esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­
     sieks.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

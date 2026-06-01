@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonušas Svierčiovskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -25,16 +16,15 @@ tags:
 Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Samdinių
@@ -53,11 +43,9 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
     džiojo etmono), visų pirma - karaliaus
     dvarionys, kuriems vadovavo Albertas
     (Vaitiekus) Sampolinskis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

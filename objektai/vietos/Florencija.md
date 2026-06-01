@@ -1,26 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Florencija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1432 m.'
   - '1434 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1432'
 date_end: '1434'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - unija
   - vieta
+amziai:
+  - 'XV'
 ---
 # Florencija
 
@@ -29,67 +24,25 @@ tags:
 Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
+  teiginys: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui.'
   pagrindžia:
-    - c-002
+    - c-001
+
 - t-003
-  teiginys: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
+  teiginys: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Imperatorius, norėdamas gauti Vakarų para-
-    mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
-    Bažnyčias. Tačiau galutinai dėl unijos buvo susitarta kiek vė-
-    liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
-    poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
-    metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
-    su ja žlugo ir unija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau ši jo žmo­
-    na Sofija, Tverės kunigaikščio Bori­
-    so duktė, vėliau pateko Žygimanto
-    galion; nes popiežius Eugenijus IV
-    užtarė ją laiške Žygimantui Kęstu-
-    taičiui, rašytame iš Florencijos 1434
-    metų spalio 20 dieną.
-    216
-
-    ## Puslapis 233
-
-    I I I  KNYGA
-    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
-    miestiečių17.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
@@ -112,11 +65,65 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
     I I I  KNYGA
     degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
-    miestiečių17.
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai, ką mūsų kronikininkai kal­
+    ba apie Švitrigailos žmonos sugavi­
+    mą Ašmenoje, esą jis neįstengęs iš­
+    sivežti kartu - tai nėra tikslu, nes tais
+    pat 1432 metais lapkričio 30 dieną
+    Švitrigaila, rašydamas Livonijos ma­
+    gistrui, užsimena, kad žmona jam
+    pagimdžiusi sūnų. Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Imperatorius, norėdamas gauti Vakarų para-
+    mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
+    Bažnyčias. Tačiau galutinai dėl unijos buvo susitarta kiek vė-
+    liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
+    poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
+    metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
+    su ja žlugo ir unija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003

@@ -75,5 +75,4 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/scholastiko prelatūra scholastikas]]

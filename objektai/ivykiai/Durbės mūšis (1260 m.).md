@@ -46,29 +46,29 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 
 ## Teiginiai
 
-- t-013
+- t-001
   teiginys: 'Dusburgietis teigia, kad ilgą laiką sėkmei nekrypstant nei į vieną, nei į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo, nes visa jų kariuomenės galia palūžo, kai pasileido bėgti prastuomenė; šiose kautynėse, įvykusiose palaimintos Margaritos dieną (liepos 13 d.) Kuršo.'
   pagrindžia:
-    - c-007
+    - c-002
 
-- t-011
+- t-002
   teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai. Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų.'
-  pagrindžia:
-    - c-005
-
-- t-010
-  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
   pagrindžia:
     - c-004
 
-- t-012
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  pagrindžia:
+    - c-001
+
+- t-004
   teiginys: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
   pagrindžia:
-    - c-006
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
@@ -97,9 +97,9 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-003
 
-- c-007
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgą laiką sėkmei
@@ -130,9 +130,9 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-001
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
@@ -151,9 +151,9 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-004
 
-- c-005
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
@@ -169,7 +169,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

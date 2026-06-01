@@ -27,12 +27,12 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
   pagrindžia:
     - c-001
@@ -60,7 +60,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -74,7 +74,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

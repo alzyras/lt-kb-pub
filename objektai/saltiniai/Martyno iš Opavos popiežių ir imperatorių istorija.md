@@ -34,51 +34,51 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
 - t-001
   teiginys: 'Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje, po to Romoje, popiežiaus kurijoje, 1278 m. buvo paskirtas Gnezno arkivyskupu (todėl „Polonus“), bet mirė ten nenuvykęs.'
   pagrindžia:
-    - c-001
+    - c-004
 
-- t-009
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą 1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino, ir liepė švęsti jo gimimą penktą dieną po žolinės (Mart.'
   pagrindžia:
-    - c-009
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai. Rašte tiek buvo.'
-  pagrindžia:
-    - c-006
+    - c-008
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).'
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai. Rašte tiek buvo.'
   pagrindžia:
     - c-003
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).'
+  pagrindžia:
+    - c-002
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą 1225 viešpaties metais Burgundijoje, Druskos kalnuose, vienas kalnas dėl žemės drebėjimo atsiskyrė nuo kitų kalnų ir nuslinko prie kalnų kitoje pusėje, užvertė visą slėnį ir nuslėgė.'
   pagrindžia:
-    - c-005
+    - c-001
 
-- t-004
+- t-006
   teiginys: 'Dusburgietis teigia, kad brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus III (Ptol.'
   pagrindžia:
-    - c-004
+    - c-007
 
-- t-002
+- t-007
   teiginys: 'Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol.'
   pagrindžia:
-    - c-002
+    - c-006
 
 - t-008
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
   pagrindžia:
-    - c-008
+    - c-009
 
-- t-007
+- t-009
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
   pagrindžia:
-    - c-007
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     16. Apie tai, kaip Burgundijoje dėl žemės drebėjimo kalnas nuslinko į kitą vietą
@@ -92,7 +92,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   pagrindžia:
     - t-005
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
@@ -103,9 +103,9 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
@@ -121,9 +121,9 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
@@ -136,7 +136,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   pagrindžia:
     - t-001
 
-- c-007
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
@@ -153,9 +153,9 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-009
 
-- c-002
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius
@@ -166,9 +166,9 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-007
 
-- c-004
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
@@ -178,9 +178,9 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-009
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
@@ -192,9 +192,9 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-002
 
-- c-008
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių

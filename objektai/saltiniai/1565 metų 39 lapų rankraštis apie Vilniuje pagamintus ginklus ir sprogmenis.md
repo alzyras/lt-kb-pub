@@ -29,24 +29,25 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
-  teiginys: '## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio.'
+- t-002
+  teiginys: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.'
   pagrindžia:
     - c-001
 
 - t-003
   teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1565 m. 39 lapų rankraštis detalizavo Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -77,9 +78,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
@@ -93,7 +94,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Salietros ir sieros: 55 centnerius, 23 svarus.
@@ -107,4 +108,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

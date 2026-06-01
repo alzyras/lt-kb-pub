@@ -25,20 +25,20 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
   pagrindžia:
-    - c-001
-
-- t-001
-  teiginys: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
+  teiginys: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
+  pagrindžia:
+    - c-001
 
 - t-004
   teiginys: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
@@ -47,7 +47,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Kauno šarvuotas trauki-
@@ -58,9 +58,9 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
@@ -78,7 +78,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -98,7 +98,7 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   santrauka: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'

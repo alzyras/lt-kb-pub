@@ -1,18 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1863 m.'
+date_start: '1863'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigas
   - sukilimas
   - tauta
+amziai:
+  - 'XIX'
 ---
 # Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)
 
@@ -33,28 +36,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Per 1863 m. sukilimą Muravjovas uždraudė visokius susibūrimus.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Blaivybės brolijų panaikinimas nutraukė tautos blaivinimo darbą ir ilgam paliko Lietuvą be organizacijų.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Blaivybės brolijų suvaržymai.** Jau iš pat pradžių Vilniaus
@@ -62,15 +62,13 @@ Nenurodyta
     bintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes
     tada buvo uždraustos visos draugijos. Tačiau vyskupas nemetė
     savo gražaus darbo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Per 1863 m. sukilimą Muravjovas uždraudė visokius susibūrimus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vysku-
@@ -83,15 +81,13 @@ Nenurodyta
     1863 m. sukilimo, kada Mu-
     ravjovas uždraudė visokius
     susibūrimus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Blaivybės brolijų panaikinimas nutraukė tautos blaivinimo darbą ir ilgam paliko Lietuvą be organizacijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bylų varginami, kunigai nutilo kalbėję apie
@@ -101,11 +97,9 @@ Nenurodyta
     didelis tautos blaivinimo darbas; o patsai brolijų panaikinimas
     sudavė skaudų smūgį tautos organizuotumui: po jų uždraudimo
     ilgą laiką Lietuvoje nebebuvo jokių organizacijų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„savaime visa Rusia turi priklausyti lietuviams“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -18,26 +15,28 @@ tags:
 Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taip liko neįgyvendintos Algirdo išsa-
+    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
+    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
+    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire. Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

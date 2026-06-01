@@ -28,26 +28,26 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
 - t-001
   teiginys: 'Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­ vaičio.'
   pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
-  pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Many­ čiau, kad Šventaragiu buvo vadina­ ma nuo lietuviškų žodžių Šventas Ragas - altorius, ir kartu turėjo var­ dą Swiaty-roh - nuo rusiško pavadi­ nimo šventas ragas, mat tas slėnis baigėsi tarsi žemės pleištu tarp Vili­ jos ir Vilnios upių kyšulyje [rog.'
+  teiginys: 'Man atrodo, kad jei Lietuvo­ je buvo keletas tokių šventų vieto­ vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie­ nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
-  teiginys: '8 Lietuvos istorijoje yra žinomos šven­ tos vietovės, senovės lietuvių vadin­ tos Romuvomis [ramovėmis], kur vidur šventų girių būdavo garbina­ mas Perkūnas ir kur gyveno vyriau­ siasis jų vaidila Krivių Krivaitis.'
+  teiginys: 'Many­ čiau, kad Šventaragiu buvo vadina­ ma nuo lietuviškų žodžių Šventas Ragas - altorius, ir kartu turėjo var­ dą Swiaty-roh - nuo rusiško pavadi­ nimo šventas ragas, mat tas slėnis baigėsi tarsi žemės pleištu tarp Vili­ jos ir Vilnios upių kyšulyje [rog.'
   pagrindžia:
     - c-003
 
+- t-004
+  teiginys: '8 Lietuvos istorijoje yra žinomos šven­ tos vietovės, senovės lietuvių vadin­ tos Romuvomis [ramovėmis], kur vidur šventų girių būdavo garbina­ mas Perkūnas ir kur gyveno vyriau­ siasis jų vaidila Krivių Krivaitis.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant to, kryžiuo­
@@ -79,9 +79,9 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie viso
@@ -105,9 +105,9 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk lotynų kalba Rogum v. Ro­
@@ -129,9 +129,9 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ties ta

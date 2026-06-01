@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vikariatas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - ordinas
@@ -27,16 +18,15 @@ tags:
 Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­ nijos vyskupijų, kurias Ordinas lenkė į savo valdžią.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Livonijos Ordinas puolė Vytautą, pavydėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo kraštuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pykdamas ant Vokiečių Ordino rėmėjo, ciesoriaus Zigmanto,
@@ -49,11 +39,9 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
     dėdamas jam popiežiaus suteikto vikariato Pskovo ir Naugardo
     kraštuose, ir širdo, kad Vytautas buvo paskirtas globėju Livo­
     nijos vyskupijų, kurias Ordinas lenkė į savo valdžią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

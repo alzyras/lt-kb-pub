@@ -1,32 +1,24 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1387 m.'
   - '1413 m.'
   - '1417 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
 date_start: '1387'
 date_end: '1417'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
   - krikštas
   - tikėjimas
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia
 
@@ -35,28 +27,31 @@ tags:
 Gotika Lietuvos (1387) ir Žemaitijos (1413–1417) krikštu pradžioje žengtas tik nedidelis žingsnelis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1387 m. Lietuvos ir 1413–1417 m. Žemaitijos krikštai tik nedaug priartino visuomenę prie krikščionybės, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1387 m. Lietuvos ir 1413–1417 m. Žemaitijos krikštai tik nedaug priartino visuomenę prie krikščionybės, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotika
@@ -72,11 +67,9 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     54
     jau apėmė visą bajorijos sluoksnį, o valstietiją pasiekė tik XVII a.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

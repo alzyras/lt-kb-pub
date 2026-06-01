@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Baltijos valstybių santarvės ir bendradarbiavimo sutartis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - sutartis
@@ -20,27 +17,25 @@ tags:
 1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Baltijos valstybių santarvės ir bendradarbiavimo sutartis buvo susijusi su Baltijos Valstybių Tarybos įkūrimu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Baltijos valstybių santarvės ir bendradarbiavimo sutartis buvo susijusi su Baltijos Valstybių Tarybos įkūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Baltijos valstybių santarvės ir bendradarbiavimo
+    Gerai klostėsi ekonominiai san-
+    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
+    kašenkos diktatūrinis valdymas. 1990 m. gegužės 12 d. Lietuva, Latvija ir
+    Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
     užsienio politikos pozicija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

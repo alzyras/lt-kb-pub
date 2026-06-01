@@ -28,49 +28,49 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 
 ## Teiginiai
 
-- t-008
+- t-001
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
   pagrindžia:
-    - c-008
+    - c-006
 
 - t-002
   teiginys: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-003
   teiginys: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
-  pagrindžia:
-    - c-005
-
-- t-007
-  teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
-  pagrindžia:
-    - c-007
-
-- t-004
-  teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
   pagrindžia:
     - c-004
 
-- t-003
+- t-004
+  teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
+  pagrindžia:
+    - c-005
+
+- t-005
+  teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
+  pagrindžia:
+    - c-008
+
+- t-006
   teiginys: 'Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis).'
   pagrindžia:
     - c-003
 
-- t-006
+- t-007
   teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
   pagrindžia:
-    - c-006
+    - c-007
 
-- t-009
+- t-008
   teiginys: 'Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokietijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas.'
   pagrindžia:
-    - c-009
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-009
+- c-001
   santrauka: 'Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokietijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -82,7 +82,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -122,9 +122,9 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, skelbė,
@@ -140,9 +140,9 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-007
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo prastą gyvenimą jie aiškino dvarų bu-
@@ -157,9 +157,9 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-008
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
@@ -172,9 +172,9 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
 
-- c-006
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steigiamojo Seimo pirmininku
@@ -190,9 +190,9 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-007
 
-- c-004
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
@@ -205,7 +205,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

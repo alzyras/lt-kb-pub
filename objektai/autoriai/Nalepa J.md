@@ -25,29 +25,29 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136, 145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości..., p. 128; to paties, Stabo..., p. 146—148; CV, t.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad kamienne ir kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui polonizuoti (Nalepa J., Stabo..., p. 146—148).'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 165—176; Tarvydas S., Vakarinių..., p. 55—59; [Nalepa J.] Polekszanie, p. 212— 213; to paties, [Dėl A.'
+  teiginys: 'Dusburgietis teigia, kad kamienne ir kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui polonizuoti (Nalepa J., Stabo..., p. 146—148).'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 165—176; Tarvydas S., Vakarinių..., p. 55—59; [Nalepa J.] Polekszanie, p. 212— 213; to paties, [Dėl A.'
   pagrindžia:
     - c-001
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Plačiau apie sūduvius, arba jotvingius, žr. Būga K., 3, p. 116—117,
@@ -65,9 +65,9 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos,
@@ -79,9 +79,9 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
@@ -92,9 +92,9 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136,
@@ -104,7 +104,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

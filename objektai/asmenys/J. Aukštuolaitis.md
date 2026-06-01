@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'J. Aukštuolaitis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuomenė ir birželį baltgudžių pulkas buvo išformuotas); Tauragėje - besikuriantis Žemaičių batalionas, vadovaujamas avantiūristo J. Aukštuolaičio, kuris netrukus buvo išformuotas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nesklandumai
@@ -59,11 +49,9 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
     netrukus buvo išformuotas; Kėdainiuose —
     karininkų J. Variakojo ir J. Šarausko va-
     dovaujami Panevėžio ir Kėdainių sričių
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -75,4 +63,5 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 - [[objektai/zodynas/avantiūristas]]
 - [[objektai/zodynas/komendantūra]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/pėstininkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -83,4 +83,3 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
 - [[objektai/zodynas/sidabrinė duoklė]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/zodynas/Puslapis 77]]

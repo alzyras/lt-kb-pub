@@ -1,9 +1,6 @@
 ---
 tipas: grupe
 pavadinimas: 'Čekai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -11,20 +8,17 @@ datos:
   - '1419 m.'
   - '1420 m.'
   - '1421 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: '1421'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
   - kunigas
   - mokslininkas
+amziai:
+  - 'XV'
 ---
 # Čekai
 
@@ -33,32 +27,30 @@ tags:
 Čekai jo metu nebuvo Lietuvai svetimi žmonės. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje. Ši kartą ją patiekė Vytautui jau pažįstama slavių tauta — čekai, kurie, mirus jų karaliui Vaclovui (1419), nepri­ pažino karalium jo brolio — ciesoriaus Zigmanto, iniciatoriaus Konstancijos susirinkimo, pasmerkusio jų tautietį Husą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: '1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'Pamatęs, kad jo jė­ gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo: taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­ lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čekai jo metu nebuvo Lietuvai svetimi žmonės. Jų kuni­
@@ -66,15 +58,13 @@ tags:
     Vienas čekų kunigas buvo Vilniaus kapituloje. Vytauto dvare
     lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
     nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
@@ -83,15 +73,13 @@ tags:
     mūšyje. Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
     šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
     tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: '1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čekai, nenustoję vilties, vėl išsiuntė
@@ -103,15 +91,13 @@ tags:
     sutikęs. Tada čekai Kutnos Hožos seime (1421) ir išrinko
     Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
     sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Pamatęs, kad jo jė­ gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo: taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­ lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pamatęs, kad jo jė­
@@ -123,11 +109,26 @@ tags:
     sisakydamas tuo nuo savo vyriausiųjų uždavinių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto dvare
+    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
+    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -156,6 +157,7 @@ tags:
 - [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]]
 - [[objektai/asmenys/Jurgis Lengvenaitis]]
 - [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
+- [[objektai/grupes/Krimo orda]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
 - [[objektai/daiktai/Lietuvos pinigai]]

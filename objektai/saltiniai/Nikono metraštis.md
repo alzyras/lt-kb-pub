@@ -1,33 +1,19 @@
 ---
-tipas: 'saltinis'
+tipas: saltinis
 pavadinimas: 'Nikono metraštis'
-sukurta: '2026-05-02'
-variantai:
-  - 'Maskvos- Tverės kilmės Nikono metraštyje'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1149 m.'
-  - '1658 m.'
   - '1793 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1149'
 date_end: '1793'
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XII'
+  - 'XVIII'
 ---
 # Nikono metraštis
 
@@ -44,28 +30,30 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 - Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susijusiame su Algirdo palikuonimis Belskiais).
 
 ## Teiginiai
+
+- t-001
+  teiginys: 'Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­ tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui.'
+  pagrindžia:
+    - c-002
+
 - t-002
   teiginys: 'Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-003
-  teiginys: 'Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.'
-  pagrindžia:
-    - c-002
-- t-004
   teiginys: 'Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.'
   pagrindžia:
     - c-003
-- t-005
-  teiginys: 'Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­ tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui.'
+
+- t-004
+  teiginys: 'Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.'
   pagrindžia:
-    - c-004
+    - c-001
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.'
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didžiųjų bei dalinių kunigaikščių Riuriko ainių, kilmės
@@ -86,13 +74,33 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
     vdodowiczy zabieżali w Carhrad.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ar ga­
+    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
+    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
+    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
+    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
+    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
+    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
+    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
+    jus po Jogailos. Tačiau atsižvelgdami į tai, jog jis tikriausiai
+    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
+    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
+    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
+    nebuvo matęs, tą pats prikūrė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Voskresensko
@@ -112,39 +120,11 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
     neįmanoma.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­ tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ar ga­
-    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
-    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
-    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
-    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
-    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
-    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
-    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
-    jus po Jogailos. Tačiau atsižvelgdami į tai, jog jis tikriausiai
-    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
-    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
-    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
-    nebuvo matęs, tą pats prikūrė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+    - t-003
 
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę.'
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
@@ -160,10 +140,8 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
     šimtmečiai) įrašytas „Pasakojimas apie
     Podolę“ - plačiausiai kalbantis šaltinis
     šia tema.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

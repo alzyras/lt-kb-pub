@@ -25,12 +25,12 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Į Gegužės trečiosios konstituciją buvo sugrąžintas valstybės dualizmo, tai yra federacijos, principas.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Gegužės trečiosios konstitucijoje frazė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
   pagrindžia:
     - c-001
@@ -59,7 +59,7 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -75,7 +75,7 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“.'

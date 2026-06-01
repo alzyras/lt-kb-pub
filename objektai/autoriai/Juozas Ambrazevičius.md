@@ -26,14 +26,14 @@ periodo_grupes:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau naciai vis
@@ -49,9 +49,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -74,7 +74,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

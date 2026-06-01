@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Malūnas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - diplomatas
@@ -27,31 +18,35 @@ tags:
 Ordinui teise abipus Nevėžio statytis malūnus^2 ) ir atskiru aktu pasižadėjo eiti jam į pagalbą prieš visus jo priešus.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sekančiais metais Vytautas su kryžiuočių diplomatais su­
@@ -62,11 +57,9 @@ Nenurodyta
     Vyt. ir pažymėjo, kad jam esą netinka kelti rankos prieš lenkų
     karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
     metų pasižadėjimams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -85,6 +78,7 @@ Nenurodyta
 - [[objektai/grupes/Elbingo miestiečiai]]
 - [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
 - [[objektai/asmenys/Gedūnas]]
+- [[objektai/asmenys/Henrikas (Varmės vyskupas)]]
 - [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje]]
 - [[objektai/autoriai/Kšivickis L]]
 - [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
@@ -95,7 +89,6 @@ Nenurodyta
 - [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/grupes/Varmiai]]

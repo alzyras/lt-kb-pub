@@ -26,32 +26,32 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: '1918 m. kovą įtakingiausios JAV 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 135 lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių konferencijose.'
   pagrindžia:
     - c-005
 
-- t-001
+- t-002
   teiginys: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
   pagrindžia:
     - c-004
 
-- t-006
+- t-004
   teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
     - c-006
 
-- t-003
+- t-005
   teiginys: '00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-006
   teiginys: 'Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezidentą V.'
   pagrindžia:
     - c-002
@@ -80,7 +80,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,7 +103,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-006
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -119,7 +119,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -135,7 +135,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -154,7 +154,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -172,7 +172,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

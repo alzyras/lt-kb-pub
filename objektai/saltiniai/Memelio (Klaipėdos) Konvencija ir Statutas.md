@@ -23,12 +23,12 @@ amziai:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001
@@ -54,7 +54,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -70,7 +70,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'

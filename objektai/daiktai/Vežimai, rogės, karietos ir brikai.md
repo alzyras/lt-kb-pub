@@ -39,24 +39,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.'
   pagrindžia:
-    - c-003
+    - c-002
 
 - t-002
   teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-001
+- t-003
   teiginys: 'Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -81,7 +81,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila tam pasipriešino,
@@ -100,9 +100,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Andrius žuvo prie Vorsklos 1399
@@ -126,7 +126,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

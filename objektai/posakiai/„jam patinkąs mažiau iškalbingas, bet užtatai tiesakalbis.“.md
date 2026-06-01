@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - posakis
@@ -25,16 +16,15 @@ tags:
 O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­ rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­ kalbis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas, išgirdęs giriant iškalbingą kunigaikštį, tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis kunigaikštis.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas, išgirdęs giriant iškalbingą kunigaikštį, tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis kunigaikštis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai
@@ -46,11 +36,9 @@ O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vyta
     kalbis.
     Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
     čio kovos metu su Jogaila.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

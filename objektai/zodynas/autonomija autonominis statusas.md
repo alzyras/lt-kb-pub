@@ -19,29 +19,29 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Lietuva Paryžiuje turėjo aiškintis ir dėl vidaus politikos klausimų, atrėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškinosi dėl numatomos žemės reformos.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos.'
+  teiginys: 'Lietuva Paryžiuje turėjo aiškintis ir dėl vidaus politikos klausimų, atrėmė kaltinimus Lietuvos Tarybai dėl provokiškos politikos, pažadėjo plačią kultūrinę autonomiją žydams, tautinėms mažumoms, aiškinosi dėl numatomos žemės reformos.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-002
+  teiginys: 'Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos.'
+  pagrindžia:
+    - c-003
+
+- t-003
   teiginys: 'Ar Varšuva nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politikos?'
   pagrindžia:
     - c-004
 
-- t-003
+- t-004
   teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie momentai
@@ -55,9 +55,9 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi šalys sutarė priimti tą planą kaip „bazę
@@ -69,9 +69,9 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
@@ -85,7 +85,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -101,7 +101,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-005
   santrauka: 'Ar Varšuva nebūtų diktavusi Vilnijos kantono (ar autonomijos) lenkams savo politikos?'

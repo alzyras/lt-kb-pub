@@ -1,15 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1811 m.'
+date_start: '1811'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.)
 
@@ -18,18 +21,15 @@ tags:
 Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Juo buvo siūloma iš
@@ -55,10 +55,8 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
     klausomą tribunolą (mat,
     tada aukščiausioji instan-
     cija buvo Rusijos senatas).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

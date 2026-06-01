@@ -1,23 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais'
-sukurta: '2026-04-24'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - posakis
@@ -33,16 +20,15 @@ tags:
 - Pagrindinė forma: vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusiškosios sritys pagrasino, kad jo nebeklau-
@@ -55,11 +41,9 @@ tags:
     piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
     jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
     kais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

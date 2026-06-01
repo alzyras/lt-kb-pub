@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Užpelkiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,16 +15,15 @@ tags:
 Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitikimas su vietos kovotojais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitikimas su vietos kovotojais.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitikimas su vietos kovotojais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1949 m. rugpjūčio 10 d. iš Kęstučio apy-
@@ -50,10 +40,8 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     kumentus, pasiėmę rotatorių,
     rašomąją mašinėlę išsiruošė į
     žygį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

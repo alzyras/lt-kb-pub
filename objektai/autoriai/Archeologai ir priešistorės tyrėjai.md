@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'Archeologai ir priešistorės tyrėjai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1955 m.'
   - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1955'
 date_end: '1966'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - tauta
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Archeologai ir priešistorės tyrėjai
 
@@ -29,49 +25,20 @@ tags:
 Šioje srityje pirmiausiai minėtini archeologai: P. Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t. Tautavi­ čius išleido knygą Lietuvos archeologijos bruožai (1961).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Archeologai ir priešistorės tyrėjai tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD, t.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Archeologai ir priešistorės tyrėjai domėjosi ir Aukštadvario pilia­ kalniu (AkMD, t.'
-  pagrindžia:
-    - c-004
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^76) ĮVADAS
-    pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
-    IX-XII amžiais_ (VoKL), _Klasinės visuomenės susidarymas Lietuvoje
-    {Remiantis archeologinių kasinėjimų duomenimis_ ) (VUMD, t. 5,
-    1955)^96. A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje
-    (AkMD, t. 1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t. 2, 1957,
-    95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
-    t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
-    rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
@@ -84,47 +51,30 @@ tags:
     rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
     P. Kulikauskas, R. Kulikauskienė ir A. Tautavi­
     čius išleido knygą _Lietuvos archeologijos bruožai_ (1961).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Archeologai ir priešistorės tyrėjai tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD, t.'
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    **
-    (^96) **Ji tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD,
-    t. 16, 1964, 101-112 p.), moterų galvos dangą (AkMD, t. 17, 1964, 71-86 p.),
-    ankstyviausius šalmus (AkMD, t. 19, 1965, 59-70 p.). —Žr. LE, t. 36, 527 p.**
-    (^97) **AkMD, t.
+    (^76) ĮVADAS
+    pins^95. R. Volkaitė - Kulikauskienė, parašiusi _Lietuviai
+    IX-XII amžiais_ (VoKL), _Klasinės visuomenės susidarymas Lietuvoje
+    {Remiantis archeologinių kasinėjimų duomenimis_ ) (VUMD, t. 5,
+    1955)^96. A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje
+    (AkMD, t. 1, 1955, 87-97 p.), Kapitoniškiuose (AkMD, t. 2, 1957,
+    95-108 p.), Vilniaus žemutinės pilies teritoriją 1955-1960 m. (AkMD,
+    t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
+    rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Archeologai ir priešistorės tyrėjai domėjosi ir Aukštadvario pilia­ kalniu (AkMD, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^103) **Tuo tarpu apie grublėtąją keramiką Lietuvoje rašė Y. Daugudis
-    (AkMD, t. 22, 1966, 55-65 p.) ; be to, jis domėjosi ir Aukštadvario pilia­
-    kalniu (AkMD, t. 12, 1962, 43-67 p.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
-- [[objektai/zodynas/feodalizmas]]
 - [[objektai/grupes/Lietuviai]]

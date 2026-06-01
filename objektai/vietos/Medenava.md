@@ -17,14 +17,14 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad — Medenouwe; Medenava (vėliau — Medenau, dab.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą dieną patraukė  į Rudavos valsčių ir ten
@@ -36,4 +36,4 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

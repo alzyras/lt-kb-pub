@@ -1,14 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Mickevičius'
-sukurta: '2026-04-25'
-variantai:
-  - 'Ad. Mickevičius'
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
@@ -20,22 +16,34 @@ tags:
 Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkančio būrelio tarpe sukeldavo nepaprastą entuziazmą. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius, kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studentais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų ir t.t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mickevičius buvo poetas, kurio raštai draugijos būrelyje jau tada keldavo nepaprastą entuziazmą.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mickevičius buvo poetas, kurio raštai draugijos būrelyje jau tada keldavo nepaprastą entuziazmą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Buvo ištremtas ir patsai filaretų vadas Tomas
+    Zanas. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,
+    kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
+    tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
+    ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Veiklesnieji universiteto studentai pir-
@@ -46,29 +54,11 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
     rimtai ruošiąsi mokslui ir t.t.). Jų tarpe buvo ir didysis poetas
     Mickevičius, kurio raštai jau tada susirenkančio būrelio tarpe su-
     keldavo nepaprastą entuziazmą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Buvo ištremtas ir patsai filaretų vadas Tomas
-    Zanas. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,
-    kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
-    tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
-    ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

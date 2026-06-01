@@ -17,12 +17,12 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Tais pačiais metais Mikalojus Rad­ vila II, Goniondzo ir Medilo kuni­ gaikštis, Vilniaus vaivada, sugriovus tuos pastatus, savo lėšomis naujai pamūrijo bernardinų bažnyčią, pa­ vadintą Šv.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -60,7 +60,7 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

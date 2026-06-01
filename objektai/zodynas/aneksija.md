@@ -1,31 +1,25 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'aneksija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1401 m.'
-  - '2013 m.'
+  - '1940 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XV'
-  - 'XXI'
 date_start: '1401'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - seimas
   - sąvoka
   - tauta
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # aneksija
 
@@ -34,90 +28,134 @@ tags:
 Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje. Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
   teiginys: 'Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­ vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.'
   pagrindžia:
     - c-004
 
+- t-004
+  teiginys: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iš pareigų atleisti
+    apskričių viršininkai, valsčių viršaičiai, policijos viršininkai – jų vietas
+    užėmė sovietams prijaučiantieji, o vyriausybės daugumą sudarius komu-
+    nistams imta ruoštis visiškam Lietuvos prijungimui prie SSRS.
     Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
     jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'J. Paleckio vadovaujama delegacija rugpjūčio 3 d. Maskvoje paprašė Lietuvą priimti į SSRS sudėtį, taip įforminant aneksiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Seime išrinkta 20 asmenų delegaci-
+    Buvo nacionalizuoti
+    bankai, stambiosios pramonės įmonės. Seime išrinkta 20 asmenų delegaci-
     ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
     prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
     Rinkimų į Liaudies seimą agitacinis plakatas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
+    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
+    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
+    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
+    teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
     prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
     jų turtas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
+
 - c-004
-  santrauka: 'Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­ vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Turime atvirai pasisa­
+    Šitas tvirtinimas priešingas unijos nuosta­
+    tams ir aukščiau išdėstytiems faktams. Turime atvirai pasisa­
     kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lietuvos
     nuo Lenkijos atsipalaidavimo kely, ir didelis „remontas“ Krė­
     vės unijoj, vadinamoj Lietuvos inkorporacija ir net aneksija.
     Paskutinis aktas gavo jau personalinės unijos vardą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+
+- c-005
+  santrauka: 'Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Seime išrinkta 20 asmenų delegaci-
+    ja, vadovaujama J. Paleckio, kuri, nuvykusi į Maskvą, rugpjūčio 3-iąją pasi-
+    prašė neva savanoriškai įeiti į SSRS sudėtį. Taip įforminta Lietuvos aneksija,
+    Rinkimų į Liaudies seimą agitacinis plakatas.
+    1940 m. liepos mėn.
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    193
+    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
+    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
+    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
+    teisėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas jų turtas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    193
+    patenkinti ir imperialistiniai sovietų siekiai. Kadangi okupantų paskirtas
+    Liaudies seimas neturėjo lietuvių tautos ir visų šalies gyventojų įgaliojimų
+    panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
+    teisėti. Visiems Lietuvos pasiuntiniams užsienio šalyse paskelbus protestus
+    prieš Lietuvos okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas
+    jų turtas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -130,11 +168,13 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/asmenys/Jurgis Šaulys]]
 - [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/NATO]]
+- [[objektai/grupes/Rusijos Federacija]]
 - [[objektai/asmenys/Steponas Kairys]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]
 - [[objektai/posakiai/„Lithuania Propria“]]

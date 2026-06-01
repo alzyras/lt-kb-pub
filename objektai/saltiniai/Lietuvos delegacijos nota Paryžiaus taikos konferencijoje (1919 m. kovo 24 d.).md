@@ -1,16 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos delegacijos nota Paryžiaus taikos konferencijoje (1919 m. kovo 24 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1919 m.'
+date_start: '1919'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - unija
+amziai:
+  - 'XX'
 ---
 # Lietuvos delegacijos nota Paryžiaus taikos konferencijoje (1919 m. kovo 24 d.)
 
@@ -19,29 +22,32 @@ tags:
 Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1919 m. kovo 24 d. Lietuvos delegacijos nota kaltino Lenkiją išnaudojus Lietuvą ir XVI a. unija sukėlus vidinį chaosą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1919 m. kovo 24 d. Lietuvos delegacijos nota kaltino Lenkiją išnaudojus Lietuvą ir XVI a. unija sukėlus vidinį chaosą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Gausūs R. Dmovskio ir
+    Delegacija
+    buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
+    rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
+    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
+    Lietuva būtų priimta į Tautų Sąjungos bendriją.
+    Delegacija įrodinėjo, kad Lietuva nenori priklausyti nei Lenkijai, nei
+    Rusijai, kad yra istorinė valstybė, ieškojo draugų ir sąjungininkų, tarėsi su
+    estais ir latviais, lenkais, bandė brėžti savo sienas įtraukdama ir Suvalkų
+    trikampį, dirbo informacinį propagandinį darbą. Gausūs R. Dmovskio ir
     J. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl
     1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
     laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
     vidinio chaoso.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

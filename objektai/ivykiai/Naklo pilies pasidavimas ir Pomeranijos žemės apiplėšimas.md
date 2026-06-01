@@ -45,12 +45,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė Apaštališkojo sosto legatas, nuolatos rūpindamasis tikėjimo reikalais ir dėl jų sielvartaudamas, be to, norėdamas tikėjimui padėti, o tikėjimo priešui Pomeranijos kunigaikščiui pakenkti.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apaštališkojo sosto  legatas, nuolatos rūpindamasis  tikėjimo  reikalais  ir  dėl  jų
@@ -74,7 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė

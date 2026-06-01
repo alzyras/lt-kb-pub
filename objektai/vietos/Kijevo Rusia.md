@@ -1,37 +1,21 @@
 ---
 tipas: vieta
-pavadinimas: "Kijevo Rusia"
-sukurta: '2026-05-18'
-variantai:
-  - Kijevo Rusios
-  - Rusia
-  - Rusios žemės
-aliases:
-  - Kijevo Rusia
+pavadinimas: 'Kijevo Rusia'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "XII-XIV a. kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1183 m.'
   - '1323 m.'
   - '1326 m.'
   - '1387 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
+date_start: '1183'
+date_end: '1387'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XII'
   - 'XIV'
-date_start: '1183'
-date_end: '1387'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-18'
-tags: []
 ---
 # Kijevo Rusia
 
@@ -57,66 +41,75 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 - amziai: XII, XIV
 
 ## Teiginiai
-- t-005
-  teiginys: 'Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves.'
+
+- t-001
+  teiginys: 'Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-005
+
+- t-002
+  teiginys: 'Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes.'
+  pagrindžia:
+    - c-013
+
+- t-003
+  teiginys: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
+  pagrindžia:
+    - c-010
+
+- t-004
+  teiginys: 'Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­ dymas.'
+  pagrindžia:
+    - c-012
+
+- t-005
+  teiginys: 'Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.'
+  pagrindžia:
+    - c-004
+
 - t-006
+  teiginys: 'Iš Rusios, Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę 23 Mažesnieji broliai (pranciškonų atšaka).'
+  pagrindžia:
+    - c-008
+
+- t-007
   teiginys: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes.'
-  pagrindžia:
-    - c-003
+
 - t-008
-  teiginys: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
-  pagrindžia:
-    - c-004
-- t-009
   teiginys: 'Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
   pagrindžia:
-    - c-005
-- t-011
-  teiginys: 'Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.'
+    - c-006
+
+- t-009
+  teiginys: 'Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves.'
   pagrindžia:
-    - c-007
-- t-012
-  teiginys: 'Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­ dymas.'
-  pagrindžia:
-    - c-008
-- t-013
-  teiginys: 'Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.'
-  pagrindžia:
-    - c-009
-- t-014
+    - c-001
+
+- t-010
   teiginys: 'Vis dėlto tai liko istorinis epizodas, nors pagoniška valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia didžiules stačiatikiškų žemių (buvusios Kijevo Rusios) erdves.'
   pagrindžia:
-    - c-010
-- t-015
-  teiginys: 'Sagos, kitaip sakant, senovinės tos tautos legendos, eilėmis ir proza 15 ## Puslapis 32 VILNIAUS MIESTO ISTORIJA I TOMAS Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių ir, atrėmusi azijiečius.'
-  pagrindžia:
-    - c-011
-- t-016
+    - c-009
+
+- t-011
   teiginys: 'Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko.'
   pagrindžia:
-    - c-012
-- t-017
-  teiginys: 'Iš Rusios, Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę 23 Mažesnieji broliai (pranciškonų atšaka).'
+    - c-003
+
+- t-012
+  teiginys: 'Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.'
   pagrindžia:
-    - c-013
-- t-018
+    - c-007
+
+- t-013
   teiginys: 'Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas.'
   pagrindžia:
-    - c-014
+    - c-011
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     suspėjo krikštytis, o 1253 m. – karūnuotis
@@ -125,15 +118,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     tapo regionine didvalstybe arba imperija,
     užvaldžiusia didžiules stačiatikiškų žemių
     (buvusios Kijevo Rusios) erdves. 1387 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-009
+
 - c-002
-  santrauka: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugas sukuria Lietuvos valstybę.
@@ -142,176 +133,13 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     kuršiai, o XII a. pabaigoje prasidėjo lietuvių karo žygiai. Žinoma, kad
     1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
     kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vis dėlto tai liko istorinis epi-
-    zodas, nors pagoniška valstybė pamažu
-    tapo regionine didvalstybe arba imperija,
-    užvaldžiusia didžiules stačiatikiškų žemių
-    (buvusios Kijevo Rusios) erdves. 1387 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
-- c-004
-  santrauka: 'Žinoma, kad 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žinoma, kad
-    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
-    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai
-    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
-    į Lenkiją bei Livoniją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-005
-  santrauka: 'Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Sagos, kitaip sakant, senovinės tos
-    tautos legendos, eilėmis ir proza
-    15
 
-    ## Puslapis 32
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
-    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
-    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
-    bei Lenkiją. Tuo metu poreikis turėti savą gynybą ir per ne­
-    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
-    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
-    Lietuvos žemėje medinėms pilims ir tvirtovėms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-007
-  santrauka: 'Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš Rusios,
-    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
-    23
-    Mažesnieji broliai (pranciškonų
-    atšaka).
-
-    ## Puslapis 40
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
-    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-008
-  santrauka: 'Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­ dymas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
-    ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
-    dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
-    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
-    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
-    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
-    matus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-009
-  santrauka: 'Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tie politiniai pokyčiai Vilniu­
-    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
-    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
-    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
-    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
-    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
-    galingiausiu valdovu Šiaurės Europoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-010
-  santrauka: 'Vis dėlto tai liko istorinis epizodas, nors pagoniška valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia didžiules stačiatikiškų žemių (buvusios Kijevo Rusios) erdves.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    – karūnuotis
-    karaliumi. Vis dėlto tai liko istorinis epi-
-    zodas, nors pagoniška valstybė pamažu
-    tapo regionine didvalstybe arba imperija,
-    užvaldžiusia didžiules stačiatikiškų žemių
-    (buvusios Kijevo Rusios) erdves. 1387 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
-- c-011
-  santrauka: 'Sagos, kitaip sakant, senovinės tos tautos legendos, eilėmis ir proza 15 ## Puslapis 32 VILNIAUS MIESTO ISTORIJA I TOMAS Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių ir, atrėmusi azijiečius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Būtent toje epochoje narsių piratų
-    valdomi prasti, bet mitrūs ir lengvi
-    laivai pasklido iš Skandinavijos pu­
-    siasalio po visą Baltijos pakrantę.
-    Sagos, kitaip sakant, senovinės tos
-    tautos legendos, eilėmis ir proza
-    15
-
-    ## Puslapis 32
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
-    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
-    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
-    bei Lenkiją. Tuo metu poreikis turėti savą gynybą ir per ne­
-    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
-    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
-    Lietuvos žemėje medinėms pilims ir tvirtovėms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
-- c-012
-  santrauka: 'Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko.'
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, užsitikrinęs sau-
@@ -354,13 +182,11 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     išspausdino savo Prūsijos istorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-013
-  santrauka: 'Iš Rusios, Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę 23 Mažesnieji broliai (pranciškonų atšaka).'
+    - t-011
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­
@@ -380,13 +206,66 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-017
-- c-014
-  santrauka: 'Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas.'
+    - t-005
+
+- c-005
+  santrauka: 'Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
+    Sagos, kitaip sakant, senovinės tos
+    tautos legendos, eilėmis ir proza
+    15
+
+    ## Puslapis 32
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
+    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
+    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
+    bei Lenkiją. Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
+    Sagos, kitaip sakant, senovinės tos
+    tautos legendos, eilėmis ir proza
+    15
+
+    ## Puslapis 32
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
+    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
+    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
+    bei Lenkiją. Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Jaunutis išsigelbėjo pabėgda­
@@ -401,8 +280,115 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
     galingiausiu valdovu Šiaurės Europoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-018
+    - t-012
+
+- c-008
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­
+    nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­
+    kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be
+    Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­
+    vas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,
+    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
+    23
+    Mažesnieji broliai (pranciškonų
+    atšaka).
+
+    ## Puslapis 40
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
+    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-009
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    suspėjo krikštytis, o 1253 m. – karūnuotis
+    karaliumi. Vis dėlto tai liko istorinis epi-
+    zodas, nors pagoniška valstybė pamažu
+    tapo regionine didvalstybe arba imperija,
+    užvaldžiusia didžiules stačiatikiškų žemių
+    (buvusios Kijevo Rusios) erdves. 1387 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-010
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugo karūnacija 1253 metais
+    Aktyviausi ir karingiausi iš baltų genčių XI–XII a. atrodė
+    kuršiai, o XII a. pabaigoje prasidėjo lietuvių karo žygiai. Žinoma, kad
+    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai
+    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
+    į Lenkiją bei Livoniją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-011
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
+    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
+    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
+    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
+    galingiausiu valdovu Šiaurės Europoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-012
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
+    svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­
+    tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
+    vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
+    Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
+    ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
+    dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
+    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
+    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
+    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
+    matus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-013
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    suspėjo krikštytis, o 1253 m. – karūnuotis
+    karaliumi. Vis dėlto tai liko istorinis epi-
+    zodas, nors pagoniška valstybė pamažu
+    tapo regionine didvalstybe arba imperija,
+    užvaldžiusia didžiules stačiatikiškų žemių
+    (buvusios Kijevo Rusios) erdves. 1387 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

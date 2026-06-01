@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'M. Gimbutienė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1960 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1960'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # M. Gimbutienė
 
@@ -27,37 +23,20 @@ tags:
 Gimbutienė (Gimbutas), M. Gimbutienė, M.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'M. Gimbutienė parašė tekstą „Vidurinis geležies amžius“, publikuotą Lietuvių enciklopedijos 15 tome.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione.'
+  pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Gaerte, W. : _Die steinzeitliche Keramik in Ostpreus-
-    sen,_ Königsberg 1927. — Gimbutienė (Gimbutas), M. : _A Survey of the
-    Bronze Age Culture in the South-eastern Baltic Area_ , Światowit, t. 23, 1960,
-    atsp. 45 p. — (”) _The Bronze Age Cultures of Central and Eastern Europe,_
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'M. Gimbutienė parašė tekstą „Vidurinis geležies amžius“, publikuotą Lietuvių enciklopedijos 15 tome.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1950. — Gimbutienė, M. : _Vidurinis geležies amžius_ , LE, t. 15, 282-285 p.
@@ -68,11 +47,22 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
     1958, 75-98 p. ; vėlesni tyrinėjimai, t. p. t. 27, 1, 1961, 27-49 p. ; RoB,
     t. 1, 1961, 131-191 p. ; RoB, t. 3, 1962, 233-297 p. — (”) _Cmentarzysko
     kurhanowe w miejsc.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    — Gaerte, W. : _Die steinzeitliche Keramik in Ostpreus-
+    sen,_ Königsberg 1927. — Gimbutienė (Gimbutas), M. : _A Survey of the
+    Bronze Age Culture in the South-eastern Baltic Area_ , Światowit, t. 23, 1960,
+    atsp. 45 p. — (”) _The Bronze Age Cultures of Central and Eastern Europe,_
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
 

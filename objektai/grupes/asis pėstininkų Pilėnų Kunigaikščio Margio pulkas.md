@@ -19,7 +19,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '1 batalionas irgi buvo nuvestas pailsėti pievoj.“ | | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisimena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyvavusį to paties.'
+  teiginys: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko to paties pulko I batalioną.'
   pagrindžia:
     - c-001
 
@@ -31,6 +31,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko to paties pulko I batalioną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1 batalionas irgi

@@ -1,29 +1,24 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'paliaubos'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - mūšis
   - ordinas
   - paliaubos
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # paliaubos
 
@@ -32,120 +27,48 @@ tags:
 Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių metų paliaubos. Jogaila su Vytautu apkaltino Vaclovą šališkumu ir, pratęsę paliaubas su ordinu iki 1410 m. šv. Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame didžiame Tanenbergo mūšyje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Jogaila ir Vytautas pratęsė paliaubas su Ordinu iki 1410 m. birželio 24 d. ir ėmė ruoštis dideliam žygiui.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, ir ji nedalyvavo Tanenbergo mūšyje.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Tačiau paliaubų pasiūlymo Sovietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
   teiginys: 'Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų.'
-  pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Spalio 6 d. prasideda paliaubos.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.'
   pagrindžia:
     - c-007
 
+- t-002
+  teiginys: '1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Tačiau paliaubų pasiūlymo Sovietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Jogaila ir Vytautas pratęsė paliaubas su Ordinu iki 1410 m. birželio 24 d. ir ėmė ruoštis dideliam žygiui.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Spalio 6 d. prasideda paliaubos.'
+  pagrindžia:
+    - c-001
+
+- t-007
+  teiginys: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, ir ji nedalyvavo Tanenbergo mūšyje.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė
-    Lenkiją (1409 m.). Iš Lenkijos jo kariuomenė buvo išvyta, ir ne-
-    trukus buvo padarytos vienerių metų paliaubos. Paliaubų metu
-    susitarta pavesti ginčą išspręsti imperatoriui Vaclovui.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Jogaila ir Vytautas pratęsė paliaubas su Ordinu iki 1410 m. birželio 24 d. ir ėmė ruoštis dideliam žygiui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila su Vytau-
-    tu apkaltino Vaclovą šališkumu ir, pratęsę paliaubas su ordinu
-    iki 1410 m. šv. Jono (birželio 24 d.), ėmė ruoštis dideliam žygiui.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, ir ji nedalyvavo Tanenbergo mūšyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
-    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
-    džiame Tanenbergo mūšyje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tačiau paliaubų pasiūlymo Sovietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau paliaubų pasiūlymo So-
-    vietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jau derybų metu lenkų karo jėgos,
-    nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų
-    buvę rusų bolševikų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Spalio 6 d. prasideda paliaubos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Tačiau lenkų puolimas taip pat sustoja.
     Spalio 6 d. prasideda paliaubos.
 
     Lenkai per derybų laiką slapta pergru-
@@ -154,13 +77,11 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     čiamiesčiu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.'
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliaubas.
@@ -169,11 +90,93 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     Tada pašnekesys užsimezgė dėl anos dienos mūšio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė
+    Lenkiją (1409 m.). Iš Lenkijos jo kariuomenė buvo išvyta, ir ne-
+    trukus buvo padarytos vienerių metų paliaubos. Paliaubų metu
+    susitarta pavesti ginčą išspręsti imperatoriui Vaclovui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada ne metas buvo pyktis su Lenkija dėl
+    tuščio karaliaus titulo, tad Vytautas atmetė Zigmanto pasiūly-
+    mą. Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
+    savo tikslų siekiančiu Zigmantu negalėjo būti naudinga Lietuvai.
+    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
+    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
+    džiame Tanenbergo mūšyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-007
+
+- c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kitais me-
+    tais, į ordino pusę patrauktas, Vaclovas pripažino jam Že-
+    maičius ir visą kairiąją Panemunę iki Gardino. Jogaila su Vytau-
+    tu apkaltino Vaclovą šališkumu ir, pratęsę paliaubas su ordinu
+    iki 1410 m. šv. Jono (birželio 24 d.), ėmė ruoštis dideliam žygiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau paliaubų pasiūlymo So-
+    vietų Rusija nepriėmė, ir karas tęsėsi lenkų nenaudai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pati sutartis
+    turėjo galioti, ligi visi ginčo klausimai tarp Lietuvos ir Lenkijos
+    bus galutinai išspręsti.
+    **Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos,
+    nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų
+    buvę rusų bolševikų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-008
+  santrauka: 'Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos,
+    nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų
+    buvę rusų bolševikų. Lenkų vyriausybė apsimetė nieko apie
+    tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems
+    klausimams išspręsti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai

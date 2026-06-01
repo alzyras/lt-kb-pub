@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Michailas Jaroslavičius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -26,19 +17,20 @@ tags:
 Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėje lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
+  pagrindžia:
+    - c-002
+
+- t-002
   teiginys: 'Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'liepos 13 d. Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėje lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
-  pagrindžia:
-    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Marvelė
@@ -52,18 +44,17 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
     prie svarbaus Volgos prekybinio kelio, ir
     taip siekdami atsverti Ordino blokadą va-
     karuose, sukurti gilią gynybinę erdvę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'liepos 13 d. Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėje lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
+  santrauka: 'Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    liepos 13 d.
+    24 DURBĖS MŪŠIS 1260 m. liepos 13 d.
 
     Marvelė
 
@@ -78,11 +69,9 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
     karuose, sukurti gilią gynybinę erdvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

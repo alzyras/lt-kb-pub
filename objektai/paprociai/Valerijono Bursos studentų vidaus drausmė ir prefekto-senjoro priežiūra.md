@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.'
+  teiginys: 'Valerijono Bursoje prefektas arba senjoras turėjo prižiūrėti, kad studentai laikytųsi pamaldumo, garbingumo, broliškos santarvės ir papročių.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valerijono Bursoje prefektas arba senjoras turėjo prižiūrėti, kad studentai laikytųsi pamaldumo, garbingumo, broliškos santarvės ir papročių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Praeterea ut iidem studiosi, qui
@@ -95,4 +96,5 @@ Nenurodyta
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/senjoras]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]

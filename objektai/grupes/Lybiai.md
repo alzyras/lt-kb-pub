@@ -19,20 +19,20 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Kai šituose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai pirmiausia jie susidūrė su lybiais.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: 'Toliau į vakarus gy­ veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos kranto ruožą.'
   pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
+- t-002
+  teiginys: 'Toliau į vakarus gy­ veno suomių-ugrų kiltis lybiai, apimdami abiem pusėm Dauguvos žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos kranto ruožą.'
   pagrindžia:
     - c-003
+
+- t-003
+  teiginys: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -50,7 +50,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
@@ -66,9 +66,9 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-004
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai,
@@ -84,9 +84,9 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Aisčiams jie visiškai ne giminės;
@@ -100,7 +100,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-005
   santrauka: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'

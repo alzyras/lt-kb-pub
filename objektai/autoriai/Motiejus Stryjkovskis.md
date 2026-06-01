@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Motiejus Stryjkovskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -24,16 +15,15 @@ tags:
 Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas (Stryjkovskis) 46 Lietuvos Istoriografija 17 Lietuvos-Lenkijos padalinimas 4, 5 Lietuvos Metraštis 43, 45, 46, 77, 93, 154, 155, 181, 182, 214, 215, 217, 246, 248, 270, 281, 314, 379 Lietuvos Metrika 53, 86, 379 Lietuvos Praeitis 204. 80 Streitberg-Festgabe 127 Strėva, Nemuno prieupis 149, 250, 267 Strėvos kautynės 257 Stryjkovskis M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XIX a. istorikai romantikai Motiejaus Stryjkovskio aprašymus nekritiškai laikė pirmykštės pagonybės liudijimu.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XIX a. istorikai romantikai Motiejaus Stryjkovskio aprašymus nekritiškai laikė pirmykštės pagonybės liudijimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Archeologiniai duomens, lygiai kaip ir autentiški pirmųjų dviejų
@@ -44,11 +34,9 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
     nybę, į senuosius laikus nukėlė nekritiškus XVI-XVII amž. apra­
     šymus — ypač J. Lasickio ir M. Stryjkovskio — laikydami juos
     pirmykščia pagonybe.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

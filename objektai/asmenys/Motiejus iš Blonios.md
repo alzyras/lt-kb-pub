@@ -70,5 +70,4 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/fizikas rūmų daktaras Leibarzt]]

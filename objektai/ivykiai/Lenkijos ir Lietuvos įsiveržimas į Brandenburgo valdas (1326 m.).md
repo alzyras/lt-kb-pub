@@ -39,12 +39,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kijevo patekimas į feodalinės Lietuvos priklausomybę tam tikru mastu galėjo turėti neigiamos įtakos Kryžiuočių valstybei, jos ekonomikai61, o feodalinė Lietuvos valstybė atimtose iš Aukso ordos slaviškose žemėse surado naujų rezervų kovai prieš agresiją iš.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad 1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė Frankfurtą prie Oderio (III, 361).'
   pagrindžia:
     - c-001
@@ -62,7 +62,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -77,7 +77,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

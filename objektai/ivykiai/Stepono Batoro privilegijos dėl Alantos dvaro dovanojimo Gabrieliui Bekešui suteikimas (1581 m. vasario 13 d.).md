@@ -45,21 +45,21 @@ Nenurodyta
 - t-001
   teiginys: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-003
-  teiginys: '— • — 423 ## Puslapis 440 VILNIAUS MIESTO ISTORIJA// TOMAS Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­ tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio tryliktą dieną.'
+- t-002
+  teiginys: 'Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Ir bus leista minėtam po­ nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­ siems jo palikuonims, kaip aukščiau pasakyta, tose visose išvardintose ir jam mūsų duotose valdose visą derlių, ku­ ris dabar ten yra ir po to būtų gautas ir galėtų būti.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir bus leista minėtam po­
@@ -89,9 +89,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     (Kopija iš originalo, esančio Radvilų archyve)
@@ -123,6 +123,7 @@ Nenurodyta
     - t-001
 
 - c-003
+  santrauka: 'Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
@@ -160,7 +161,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -176,5 +177,3 @@ Nenurodyta
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
-- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]

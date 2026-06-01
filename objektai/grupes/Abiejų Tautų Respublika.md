@@ -1,53 +1,20 @@
 ---
 tipas: grupe
-pavadinimas: "Abiejų Tautų Respublika"
-sukurta: '2026-05-18'
-variantai:
-  - "ATR"
-  - "Žečpospolita"
-  - "Lenkijos ir Lietuvos Valstybė"
-  - "LLV"
-aliases:
-  - "Lenkijos ir Lietuvos valstybė"
-  - "Respublika"
+pavadinimas: 'Abiejų Tautų Respublika'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1386 m.'
-  - '1566 m.'
-  - '1569 m.'
-  - '1573 m.'
-  - '1587 m.'
-  - '1689 m.'
-  - '1763 m.'
-  - '1791 m.'
-  - '1793 m.'
-  - '1795 m.'
-  - '1797 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
-  - 'XXI'
 date_start: '1386'
 date_end: '2026'
-bukle: juodrastis
-laikotarpis: "1569-1797 m."
-vaidmenys:
-  - "jungtinė valstybė"
-  - "politinė sąjunga"
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-18'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Abiejų Tautų Respublika
 
@@ -85,93 +52,93 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - susijusios vietos:
 
 ## Teiginiai
-- t-021
+
+- t-001
+  teiginys: 'Ir beveik jau būtų prasidėję didelės riau­ šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu­ rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi­ rusiam valdovui nešlovė nekiltų, be.'
+  pagrindžia:
+    - c-010
+
+- t-002
+  teiginys: '1797 m. Peterburgo konvencija patvirtino trečiąjį LLV padalijimą ir panaikino jos valstybingumo likučius.'
+  pagrindžia:
+    - c-008
+
+- t-003
+  teiginys: 'L I E T U V O S I S T O R I J A 70 LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
+  pagrindžia:
+    - c-015
+
+- t-004
   teiginys: '1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
     - c-001
-    - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-022
-  teiginys: 'Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais.'
+    - c-014
+
+- t-005
+  teiginys: '1793 m. Rusija ir Prūsija įvykdė antrąjį LLV padalijimą, o Gardino seimas buvo priverstas patvirtinti padalijimo rezultatus.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-023
+    - c-007
+
+- t-006
   teiginys: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
   pagrindžia:
     - c-003
     - c-007
     - c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-024
-  teiginys: '1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku.'
-  pagrindžia:
-    - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-025
-  teiginys: 'Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
-  pagrindžia:
-    - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-026
-  teiginys: '1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą.'
-  pagrindžia:
-    - c-006
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-027
-  teiginys: '1793 m. Rusija ir Prūsija įvykdė antrąjį LLV padalijimą, o Gardino seimas buvo priverstas patvirtinti padalijimo rezultatus.'
-  pagrindžia:
-    - c-007
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-028
-  teiginys: '1797 m. Peterburgo konvencija patvirtino trečiąjį LLV padalijimą ir panaikino jos valstybingumo likučius.'
-  pagrindžia:
-    - c-008
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-029
-  teiginys: 'Jų sūnus Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
-  pagrindžia:
-    - c-009
-- t-030
-  teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
-  pagrindžia:
-    - c-010
-- t-031
-  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
-  pagrindžia:
-    - c-011
-- t-032
+
+- t-007
   teiginys: 'Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
   pagrindžia:
-    - c-012
-- t-033
-  teiginys: 'Oficialus jungtinės valstybės pavadinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina Žečpospolita: plg.'
-  pagrindžia:
     - c-013
-- t-034
-  teiginys: 'L I E T U V O S I S T O R I J A 70 LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
+
+- t-008
+  teiginys: 'Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais.'
   pagrindžia:
-    - c-014
-- t-035
-  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
-  pagrindžia:
-    - c-015
-- t-036
-  teiginys: 'Ir beveik jau būtų prasidėję didelės riau­ šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu­ rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi­ rusiam valdovui nešlovė nekiltų, be.'
+    - c-002
+
+- t-009
+  teiginys: 'Oficialus jungtinės valstybės pavadinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina Žečpospolita: plg.'
   pagrindžia:
     - c-016
 
+- t-010
+  teiginys: '1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą.'
+  pagrindžia:
+    - c-012
+
+- t-011
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-004
+
+- t-012
+  teiginys: '1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku.'
+  pagrindžia:
+    - c-014
+
+- t-013
+  teiginys: 'Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
+  pagrindžia:
+    - c-005
+
+- t-014
+  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
+  pagrindžia:
+    - c-006
+
+- t-015
+  teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
+  pagrindžia:
+    - c-011
+
+- t-016
+  teiginys: 'Jų sūnus Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
+  pagrindžia:
+    - c-009
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
@@ -184,15 +151,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     krikščionišką Vakarų kultūrą. XVI a. vidu-
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
     valstybė – Abiejų Tautų Respublika.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-021
+    - t-004
+
 - c-002
-  santrauka: 'Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Didžioji Kunigaikštija dėl Vo-
@@ -204,15 +169,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
     mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-022
+    - t-008
+
 - c-003
-  santrauka: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai moksle laikoma, kad ši
@@ -235,15 +198,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
     Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
     dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-023
+    - t-006
+
 - c-004
-  santrauka: '1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ABIEJŲ TAUTŲ RESPUBLIKA
@@ -254,16 +215,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai buvo ori-
     ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
     Sąjungos pirmtaku.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-021
-    - t-024
+    - t-011
+
 - c-005
-  santrauka: 'Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai buvo ori-
@@ -274,15 +232,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
     kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
     o Lenkijos Respublika.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-025
+    - t-013
+
 - c-006
-  santrauka: '1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
@@ -295,15 +251,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
     Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
     Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-026
+    - t-014
+
 - c-007
-  santrauka: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
@@ -317,16 +271,14 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
     gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
     ikikonstitucinę „auksinių laisvių“ santvarką.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-023
-    - t-027
+    - t-006
+    - t-005
+
 - c-008
-  santrauka: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
@@ -337,16 +289,14 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė
     nebeatsikūrė. Susikurs dvi naujos savarankiškos valstybės – Lietuva ir
     Lenkija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-023
-    - t-028
+    - t-006
+    - t-002
+
 - c-009
-  santrauka: 'Jų sūnus Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -354,35 +304,104 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Lenkijos-Lietuvos valdovo Žygimanto
     Augusto seserį Kotryną. Jų sūnus Zigman-
     tas Vaza III 1587 m. buvo išrinktas Abiejų
-    Tautų Respublikos valdovu.
+    Tautų Respublikos valdovu. 1592 m. mirus
+    Jonui 111, Upsaloje 1594 m. jis taip pat vai-
+    nikuotas ir Švedijos karaliumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-029
+    - t-016
+
 - c-010
-  santrauka: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir beveik jau būtų prasidėję didelės riau­
+    šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir
+    atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu­
+    rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi­
+    rusiam valdovui nešlovė nekiltų, be to, atsižvelgdami į tai,
+    kad ižde, ypač brangenybių, nuostolių nebūtų ir kokios nors
+    netvarkos, ir riaušės neįvyktų, jeigu smurtu patektų į pože­
+    mius, norom nenorom buvome priversti prieiti šito medium
+    [vidurio], ką dvarui atidavėme. Jeigu mus norėtumei užsi­
+    stoti prieš Jos Didenybę karalienę, prieš maloninguosius ta­
+    rybų ponus ir prieš Respubliką, jeigu jie nebūtų patenkinti
+    dėl to dvarui priklausančio užmokesčio, tai dvaras leido da­
+    ryti tik tokia sąlyga, kad jiems rytoj būtina parodyti garan­
+    tijos kopiją. Apie tai norėjome Jūsų Malonybei pranešti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Paprastai moksle laikoma, kad ši
+    XVI a. vidu-
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
     valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
     mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
     •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
     •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
     bajoriškosios demokratijos tradiciją,
-    •	 Vilnius XVI–XVIII a.
+    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
+    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
+    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
+    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
+    šventųjų, poetų, retorikų ir logikų tradicijas,
+    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
+    tūros mokyklą,
+    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
+    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
+    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-030
-- c-011
-  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+    - t-015
+
+- c-012
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
+    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
+    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
+    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
+    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
+    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
+    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
+    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
+    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
+    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-013
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Be Lenkijos ir Lietuvos suartėjimo ir kariuomenių
+    sąjungos nebūtų buvo Žalgirio pergalės, o sėkmingos Livonijos karo baig-
+    ties XVI a. – būtent be Liublino unijos.
+    Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
+    kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
+    o Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-
+    nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
+    partneris?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ABIEJŲ TAUTŲ RESPUBLIKA
@@ -395,50 +414,12 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Sąjungos pirmtaku.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-031
-- c-012
-  santrauka: 'Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
-    kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
-    o Lenkijos Respublika. Galima su šypsena žiūrėti į tradicinės lenkų istori-
-    nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
-    partneris?
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-032
-- c-013
-  santrauka: 'Oficialus jungtinės valstybės pavadinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina Žečpospolita: plg.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
-    sąjunga, sukurta Liublino unijos. Oficialus jungtinės valstybės pava-
-    dinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina
-    Žečpospolita: plg. lenk. rzeczpospolita – respublika; mes Lenkijos ir Lietu-
-    vos Valstybę sutrumpintai vadinsime LLV). Pavadinimas tarsi reiškė, kad
-    tai – lygiateisė dviejų valstybių sąjunga. Iš tikrųjų šioje sąjungoje vyravo
-    Lenkija. Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
-    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
-    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
-    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-033
-- c-014
-  santrauka: 'L I E T U V O S I S T O R I J A 70 LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
+    - t-004
+    - t-012
+
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -459,57 +440,28 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     niai atstovai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-034
-- c-015
-  santrauka: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
+    - t-003
+
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
-    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
-    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
-    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
-    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
-    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
-    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
-    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
-    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
-    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
+    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
+    sąjunga, sukurta Liublino unijos. Oficialus jungtinės valstybės pava-
+    dinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina
+    Žečpospolita: plg. lenk. rzeczpospolita – respublika; mes Lenkijos ir Lietu-
+    vos Valstybę sutrumpintai vadinsime LLV). Pavadinimas tarsi reiškė, kad
+    tai – lygiateisė dviejų valstybių sąjunga. Iš tikrųjų šioje sąjungoje vyravo
+    Lenkija. Aukščiausia (šalia valdovo) valdžios institucija – bendras Sei-
+    mas, susidėjęs iš Senato ir Atstovų rūmų ir rinkęs karalių. Seime Lietuva
+    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
+    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-035
-- c-016
-  santrauka: 'Ir beveik jau būtų prasidėję didelės riau­ šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu­ rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi­ rusiam valdovui nešlovė nekiltų, be.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ir beveik jau būtų prasidėję didelės riau­
-    šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir
-    atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu­
-    rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi­
-    rusiam valdovui nešlovė nekiltų, be to, atsižvelgdami į tai,
-    kad ižde, ypač brangenybių, nuostolių nebūtų ir kokios nors
-    netvarkos, ir riaušės neįvyktų, jeigu smurtu patektų į pože­
-    mius, norom nenorom buvome priversti prieiti šito medium
-    [vidurio], ką dvarui atidavėme. Jeigu mus norėtumei užsi­
-    stoti prieš Jos Didenybę karalienę, prieš maloninguosius ta­
-    rybų ponus ir prieš Respubliką, jeigu jie nebūtų patenkinti
-    dėl to dvarui priklausančio užmokesčio, tai dvaras leido da­
-    ryti tik tokia sąlyga, kad jiems rytoj būtina parodyti garan­
-    tijos kopiją. Apie tai norėjome Jūsų Malonybei pranešti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-036
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -604,6 +556,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
 - [[objektai/asmenys/Jimi Hendrix]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/asmenys/Julius Slovackis]]
@@ -649,10 +602,12 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/ivykiai/Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/grupes/Lietuvos demokratų partija]]
+- [[objektai/ivykiai/Lietuvos demokratų partijos susikūrimas]]
 - [[objektai/daiktai/Lietuvos herbas Vytis]]
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]
 - [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
@@ -685,8 +640,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [[objektai/zodynas/Pusiau prezidentinė ir parlamentinė valdymo sistema]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radomo konfederacija]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/grupes/Radvilų giminė]]
@@ -716,7 +669,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
 - [[objektai/autoriai/T. Wierzbowski]]
 - [[objektai/asmenys/Tadas Kosciuška]]
-- [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/paprociai/Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes]]
 - [[objektai/asmenys/Valdas Adamkus]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]
@@ -762,6 +714,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/posakiai/„suverenitetų parado“]]
 - [[objektai/posakiai/„valdomos demokratijos“]]
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/grupes/Bajorijos konfederacija]]
@@ -780,9 +733,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/grupes/Naugardo respublika]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/ivykiai/Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)]]
+- [[objektai/zodynas/Soclageris]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
 - [[objektai/zodynas/bajoriškoji demokratija]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
+- [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]
 - [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
+- [[objektai/autoriai/Tadas Korsakas]]
+- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

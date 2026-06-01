@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'magistras'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - ordinas
@@ -27,90 +17,78 @@ tags:
 Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos. Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.). Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.).'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
+
 - t-003
   teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Dusburgietis teigia, kad asmenvardžių rodyklė605 SANTRUMPOS arkiv.— arkivyskupas mg.— magistras br — Ordino brolis mkg.'
-  pagrindžia:
-    - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
-    tas pamišėliu ir pašalintas iš vietos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po nelaimingai pasibaigusio kry-
     žiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė
     esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kar-
     tus (1347 m.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo tarpu Algirdas su didele
+    kariuomene įsiveržė į Livoniją; nusiaubęs Žiemgalą, buvo ap-
+    gulęs net Rygą, tačiau, nenorėdamas gadinti santykių su rygie-
+    čiais, jos neėmė. Ordinas dėl tokio savo žygio netvėrė pyk-
+    čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
+    tas pamišėliu ir pašalintas iš vietos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vinrichas von Kniprodė,
     kryžiuočių ordino magistras (1351
-    —1382 m.).
-  citata_rodoma: ""
+    —1382 m.). Jam valdant ordinas
+    pasiekė aukščiausią klestėjimo
+    laipsnį.
+    **3.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad asmenvardžių rodyklė605 SANTRUMPOS arkiv.— arkivyskupas mg.— magistras br — Ordino brolis mkg.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  santrauka: 'Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Asmenvardžių rodyklė605
-
-
-
-                              SANTRUMPOS
-
-
-      arkiv.— arkivyskupas                 mg.— magistras
-      br — Ordino brolis                   mkg.
+    Ordinas dėl tokio savo žygio netvėrė pyk-
+    čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
+    tas pamišėliu ir pašalintas iš vietos.
+    Kovų pobūdis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-004
 
@@ -119,7 +97,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Ordino brolis]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje]]
 - [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]
@@ -166,6 +143,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Dobeslavas Skoračevskis]]
 - [[objektai/autoriai/Domagała R]]
 - [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/asmenys/Dovydas]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
 - [[objektai/asmenys/Draika]]
@@ -193,6 +171,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
 - [[objektai/asmenys/Fridrichas II]]
 - [[objektai/asmenys/Fridrichas fon Vildenbergas]]
+- [[objektai/asmenys/Fridrichas iš Holdenštetės]]
 - [[objektai/asmenys/Gardolfas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius]]
@@ -276,7 +255,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/ivykiai/Julijonos padėkos laiškas Pauliui Rusdorfui dėl gydomųjų gėrimų (1426 m. liepos 8 d.)]]
 - [[objektai/ivykiai/Junigedos pilies papilių sudeginimas (1293 m. žiema)]]
 - [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
@@ -290,6 +268,8 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/daiktai/Kariuomenės ženklai]]
 - [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
+- [[objektai/asmenys/Karolis (didysis magistras)]]
+- [[objektai/asmenys/Karolis Tryrietis]]
 - [[objektai/asmenys/Karolis VI]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
@@ -319,6 +299,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
 - [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
 - [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]
 - [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
 - [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]
@@ -372,7 +353,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Motiejus iš Blonios]]
 - [[objektai/asmenys/Mstivojus]]
-- [[objektai/asmenys/Mykolas Küchmeisteris]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Nadruviai]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
@@ -419,9 +399,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
-- [[objektai/autoriai/Puslapis 206]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
 - [[objektai/asmenys/Redigeris Elneris]]
 - [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
@@ -433,6 +410,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/asmenys/Rudolfas, vadinamas Bodemeru]]
 - [[objektai/asmenys/Rumbautas]]
 - [[objektai/asmenys/Rusdorfas]]
+- [[objektai/grupes/Rygos miestiečiai]]
 - [[objektai/grupes/Rygos vokiečiai]]
 - [[objektai/asmenys/Sabinas]]
 - [[objektai/ivykiai/Salyno sutartis]]
@@ -553,6 +531,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/zodynas/tautiška politika]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/zodynas/vasalystė]]
+- [[objektai/zodynas/villa kaimas sodžius]]
 - [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
@@ -565,15 +544,16 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - [[objektai/grupes/Švitrigailos šalininkai]]
 - [[objektai/zodynas/šeštinės]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
 - [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]
+- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
 - [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]
 - [[objektai/asmenys/Frankas Kirskorffas]]
 - [[objektai/asmenys/Henne]]
 - [[objektai/asmenys/Hennė (Ordino agentas)]]
-- [[objektai/asmenys/Karolis (didysis magistras)]]
 - [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
 - [[objektai/asmenys/Mikalojus (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas)]]

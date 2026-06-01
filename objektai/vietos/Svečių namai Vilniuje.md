@@ -19,29 +19,29 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje įsikurdavo22.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
   pagrindžia:
-    - c-002
+    - c-004
 
 - t-003
   teiginys: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
   pagrindžia:
-    - c-003
+    - c-001
 
-- t-001
+- t-004
   teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svečių namams skirta privilegija yra:
@@ -73,7 +73,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Aleksandro ir Elenos santuoka išplė­
@@ -88,9 +88,9 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau savo kai­
@@ -108,9 +108,9 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     At­

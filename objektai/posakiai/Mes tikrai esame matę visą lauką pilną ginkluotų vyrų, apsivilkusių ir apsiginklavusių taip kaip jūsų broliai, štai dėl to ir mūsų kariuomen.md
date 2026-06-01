@@ -26,12 +26,12 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 - t-002
   teiginys: 'Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -47,7 +47,7 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
   pagrindžia:
     - t-001
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
   pagrindžia:
     - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau

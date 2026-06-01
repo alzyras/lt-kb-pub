@@ -29,12 +29,12 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie brolių karą su pamedėnais ir apie Marienverderio pilies [castri Insulae sanctae Mariae] pastatymą Kai šios pilys iš dievo malonės buvo pastatytos ir kai Kulmo žemė buvo apvalyta nuo įsikerojusio netikėlių sugedimo ir ištvirkimo raugo, magistras ir.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, magistras brolis Hermanas ir pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra senoji pilis223.'
   pagrindžia:
     - c-001
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Volia'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - kraštas
@@ -21,16 +18,15 @@ tags:
 2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos siena turėjo eiti nuo Druskininkų per Ežeronis iki Volios, o toliau Nemunu iki Beržūnės.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos siena turėjo eiti nuo Druskininkų per Ežeronis iki Volios, o toliau Nemunu iki Beržūnės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     20 d., kaip
@@ -44,10 +40,8 @@ tags:
     — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
     toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
     kijos su Sovietų Rusija nustatytų sienų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

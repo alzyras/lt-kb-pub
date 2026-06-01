@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1831 m.'
+date_start: '1831'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
   - sukilimas
+amziai:
+  - 'XIX'
 ---
 # Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)
 
@@ -32,43 +35,38 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1831 m. kovo 25 d. Raseinių bajorai pirmieji nutarė sukilti ir surašė sukilimo aktą.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1831 m. kovo 25 d. 50 raitelių, 100 pėsčiųjų šaulių ir 400 valstiečių užėmė Raseinius.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Raseiniškių sėkmė paskatino sukilimą kitose apskrityse, ir netrukus sukilėlių rankose atsidūrė visa Lietuva.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '1831 m. kovo 25 d. Raseinių bajorai pirmieji nutarė sukilti ir surašė sukilimo aktą.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: '1831 m. kovo 25 d. 50 raitelių, 100 pėsčiųjų šaulių ir 400 valstiečių užėmė Raseinius.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1831 m. kovo 25 d. Raseinių bajorai pirmieji nutarė sukilti ir surašė sukilimo aktą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorijos sukilimas. Nors atskiri bajorai vadova-
     vo ir valstiečių bruzdėjimui, tačiau organizuotai jie sukilo vėliau.
     Pirmieji nutarė sukilti ir surašė sukilimo aktą Raseinių bajorai
     (1831 m. kovo 25 d.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: '1831 m. kovo 25 d. 50 raitelių, 100 pėsčiųjų šaulių ir 400 valstiečių užėmė Raseinius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors atskiri bajorai vadova-
@@ -76,15 +74,13 @@ Nenurodyta
     Pirmieji nutarė sukilti ir surašė sukilimo aktą Raseinių bajorai
     (1831 m. kovo 25 d.). Tą pačią dieną 50 raitelių, 100 pėsčiųjų
     šaulių ir 400 valstiečių užėmė Raseinius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Raseiniškių sėkmė paskatino sukilimą kitose apskrityse, ir netrukus sukilėlių rankose atsidūrė visa Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitas raseiniškių pa-
@@ -92,13 +88,11 @@ Nenurodyta
     rinktis bajorai, skelbti sukilimo aktus, pasižadėjimus susijungti
     su Lenkija, ir labai greit sukilėlių rankose atsidūrė visa Lie-
     tuva. Rusai liko tik Kaune ir Vilniuje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

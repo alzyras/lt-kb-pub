@@ -1,20 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mykolas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
@@ -26,20 +16,20 @@ tags:
 Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     XV a. atvirose kautynėse
@@ -58,18 +48,19 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
     ir toliau keliu Gelvonų link, einančiu
     per dabartinį Pabaiską, vakarine Žirnajų
     ežero pakrante.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Ji buvo daug
+    XV a. atvirose kautynėse
+    artilerija neatliko svarbaus
+    vaidmens, nors ir būdavo
+    panaudojama. Ji buvo daug
     svarbesnė pilių apgulose
 
     vadovauti pavedė savo sūnui kunigaikščiui
@@ -84,11 +75,9 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
     ežero pakrante.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -106,7 +95,6 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/ivykiai/Gnievkovo suvažiavimas]]
-- [[objektai/grupes/Habsburgai]]
 - [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
 - [[objektai/daiktai/Kardas]]
@@ -137,6 +125,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/etmonų teisė]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/kultūrinė autonomija]]
 - [[objektai/zodynas/regimentorius]]
 - [[objektai/posakiai/visur guli nukautas greta nukauto]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]

@@ -42,12 +42,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius metus, o atsisakęs pareigų 1241, sugrįžo į Vokietijos kraštą, kur vėliau buvo išrinktas didžiuoju magistru265.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius
@@ -59,7 +59,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     29. Apie brolį Poponą, antrą Prūsijos žemės magistrą

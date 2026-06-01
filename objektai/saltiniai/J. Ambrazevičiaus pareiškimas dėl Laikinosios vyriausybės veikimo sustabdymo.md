@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'J. Ambrazevičiaus pareiškimas dėl Laikinosios vyriausybės veikimo sustabdymo'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -18,27 +15,27 @@ tags:
 Vyriausybės pirmininkui J.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vyriausybės pir-
+    Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemari-
+    ninkų nacionalistų, paklususių gestapui, rankomis įvykdė pučą, pašalinę
+    LAF paskirtus asmenis, paėmė batalionų ir policijos vadovybę į savo ran-
+    kas. Dabar naciai jau be kliūčių tiesiai davė įsakymus savivaldybėms ir
+    policijai bei pagalbinės policijos daliniams, mielai perėmė sovietų nacio-
+    nalizuotą turtą, o rugpjūčio 5 dieną uždraudė LV veiklą. Vyriausybės pir-
     mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
     veikimą sustabdytu prieš savo valią“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

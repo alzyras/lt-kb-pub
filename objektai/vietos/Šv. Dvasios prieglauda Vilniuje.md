@@ -22,36 +22,36 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
 - t-001
   teiginys: 'Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
+  pagrindžia:
+    - c-006
+
+- t-003
+  teiginys: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
+  pagrindžia:
     - c-001
 
-- t-005
-  teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
+- t-004
+  teiginys: 'Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
   pagrindžia:
     - c-005
 
-- t-004
-  teiginys: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
+- t-005
+  teiginys: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
   pagrindžia:
     - c-003
 
 - t-006
-  teiginys: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
-  pagrindžia:
-    - c-006
-
-- t-002
   teiginys: 'Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų.'
   pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat minėti prie­
@@ -65,9 +65,9 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis garbingasis Ulrikas Hozijus,
@@ -95,7 +95,7 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   pagrindžia:
     - t-001
 
-- c-006
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mišias, klausyti išpažinčių ir dalinti švenčiausiąją
@@ -120,9 +120,9 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad norėdami tokį mūsų va­
@@ -145,9 +145,9 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-006
 
-- c-003
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
@@ -164,9 +164,9 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-005
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat
@@ -194,4 +194,4 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002

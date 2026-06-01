@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '229 ## Puslapis 246 VILNIAUS MIESTO ISTORIJA II TOMAS su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­ kreipė visą jo dėmesį į save.'
+  teiginys: 'Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rašyta Vilniu­

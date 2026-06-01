@@ -1,29 +1,22 @@
 ---
 tipas: grupe
 pavadinimas: 'Kazokai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1621 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVII'
-  - 'XXI'
 date_start: '1621'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - miestas
+amziai:
+  - 'XVII'
+  - 'XXI'
 ---
 # Kazokai
 
@@ -32,69 +25,73 @@ tags:
 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai. Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį kazokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Šio sparno jėga - reitarų sutelkta ugnis, husarų geležinis smūgis, Lietuvos totorių ir kazokų manevringumas persekiojant bėgantį priešą.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Gynybos linija prie Chocino buvo taip įrengta, kad priešas negalėtų jos apeiti, o jungtinės kariuomenės dalinių flanginė „Toliau - lengvoji raitija, šios šalies kalba vadinama kazokais.'
-  pagrindžia:
-    - c-005
-- t-006
   teiginys: 'Bėgantį priešą pradėjo vytis ir kazokai, kurie, įsiveržę į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   pagrindžia:
     - c-006
 
+- t-002
+  teiginys: 'Šio sparno jėga - reitarų sutelkta ugnis, husarų geležinis smūgis, Lietuvos totorių ir kazokų manevringumas persekiojant bėgantį priešą.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: '1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
+  pagrindžia:
+    - c-001
+
+- t-006
+  teiginys: 'Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
+    Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
+    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
     kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
     kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
     rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
+
 - c-002
-  santrauka: '1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
+    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
+    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
+    Žiemą Lietuvos kaimas daug kur buvo perėjęs į vietos žmonių rankas.
     Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
+
 - c-003
-  santrauka: 'Šio sparno jėga - reitarų sutelkta ugnis, husarų geležinis smūgis, Lietuvos totorių ir kazokų manevringumas persekiojant bėgantį priešą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Šio sparno jėga - reitarų
+    Šiame sparne buvo sutelktos įvairios
+    kavalerijos rūšys. Šio sparno jėga - reitarų
     sutelkta ugnis, husarų geležinis smūgis,
     Lietuvos totorių ir kazokų manevringumas
     persekiojant bėgantį priešą. Sparno užda-
@@ -105,29 +102,27 @@ tags:
     mišką ir ten juos sunaikinti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-004
-  santrauka: 'Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmiausiai janičarai (turkų pėstininkai),
     o po to ir turkų kavalerija atakavo atski-
     rai įsikūrusių Ukrainos kazokų stovyklą.
     Neatlaikę puolimo, kazokai ėmė trauk-
-    tis.
+    tis. LDK didysis etmonas pasiuntė ke-
+    letą lengvosios kavalerijos - „lisovčikų“
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+
 - c-005
-  santrauka: 'Gynybos linija prie Chocino buvo taip įrengta, kad priešas negalėtų jos apeiti, o jungtinės kariuomenės dalinių flanginė „Toliau - lengvoji raitija, šios šalies kalba vadinama kazokais.'
+  santrauka: 'Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gynybos linija prie Chocino buvo taip
@@ -145,13 +140,11 @@ tags:
     1621 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-006
+
 - c-006
-  santrauka: 'Bėgantį priešą pradėjo vytis ir kazokai, kurie, įsiveržę į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bėgantį priešą pradėjo vytis ir
@@ -165,11 +158,27 @@ tags:
     pozicijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
+
+- c-007
+  santrauka: 'Bėgantį priešą pradėjo vytis ir kazokai, kurie, įsiveržę į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Staigus puolimas
+    sukėlė paniką janičarų gretose.
+    Bėgantį priešą pradėjo vytis ir
+    kazokai, kurie, įsiveržę į turkų ar-
+    tilerijos baterijų pozicijas, išžudė
+    jų tarnybas ir sugadino pabūk-
+    lus. Taip pat jie buvo įsiveržę ir į
+    turkų stovyklą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -178,6 +187,7 @@ tags:
 - [[objektai/ivykiai/Kražių įvykiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
@@ -194,6 +204,7 @@ tags:
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/Ivanas Ganeckis]]
+- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
@@ -217,3 +228,4 @@ tags:
 - [[objektai/zodynas/regestrai regestriniai kazokai]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/asmenys/I. Zolotarenko]]
+- [[objektai/paprociai/Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas|Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas (seimas)]]

@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'H. Dembinskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1831 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1831'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # H. Dembinskis
 
@@ -28,16 +24,15 @@ tags:
 Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tiltą ir nukreipti dalį priešo pajėgų nuo pagrindinės sukilėlių puolimo krypties (šio plano įgyvendinti nepavyko, tam 154 PANERIŲ MUSIS 1831 m.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sukilėlių pajėgos
@@ -61,11 +56,9 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
     ties (šio plano įgyvendinti nepavyko, tam
 
     154  PANERIŲ MUSIS 1831 m. birželio 19 d.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

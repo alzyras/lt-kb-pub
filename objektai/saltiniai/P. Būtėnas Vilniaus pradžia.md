@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'P. Būtėnas Vilniaus pradžia'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1971 m.'
   - '1973 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1971'
 date_end: '1973'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # P. Būtėnas Vilniaus pradžia
 
@@ -28,18 +22,15 @@ tags:
 (”) Vilniaus pradžia, Karys, 1973, nr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
@@ -52,10 +43,8 @@ tags:
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

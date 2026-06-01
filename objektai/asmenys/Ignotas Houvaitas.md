@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: 'žemės teismo antspaudu, išduo­ tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­ nauninkui, Pabaisko klebonui.'
+  teiginys: 'Ignotui Houvaitui, Smolensko kanauninkui ir Pabaisko klebonui, 1787 m. lapkričio 28 d. buvo išduotas fundacijos privilegijos išrašas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ignotui Houvaitui, Smolensko kanauninkui ir Pabaisko klebonui, 1787 m. lapkričio 28 d. buvo išduotas fundacijos privilegijos išrašas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta pati fundacijos privilegija, šviesiausiojo

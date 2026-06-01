@@ -34,54 +34,54 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu Tuo metu netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu prie šventojo altoriaus (Ptol. 21,4; Mart. p. 395).'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).'
+  pagrindžia:
+    - c-006
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.'
   pagrindžia:
     - c-003
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus III (Ptol. 21, 20 ir 25; Mart. p. 399 ir kt.).'
+  teiginys: 'Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.'
   pagrindžia:
     - c-004
 
-- t-007
-  teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.'
-  pagrindžia:
-    - c-007
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus bibliotekininkas (miręs 1327 m.), parašė „Analus“ — bažnyčios istoriją, baigiamą XIV a.'
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
   pagrindžia:
     - c-001
 
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią (Ptol. 21,27).'
+  pagrindžia:
+    - c-009
+
 - t-008
-  teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
+  teiginys: 'Dusburgietis teigia, kad apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37). 29.'
   pagrindžia:
     - c-008
 
 - t-009
-  teiginys: 'Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 1314 viešpaties metais, kovo 1 dieną, prie Karpantra, kur tada buvo Romos kurija, apie aštuntą valandą, pasirodė trys saulės, viena kaip paprastai — rytuose, dvi — pietuose; viena sukosi kaip įprasta, kita—.'
-  pagrindžia:
-    - c-009
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Italijoje radosi gibelinų ir gvelfų partijos; šitai yra vardai dviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią (Ptol. 21,27).'
-  pagrindžia:
-    - c-005
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol. 21,37). 29.'
-  pagrindžia:
-    - c-006
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius Po to viešpatavo Inocentas III, popiežius, ir Otonas IV bei Fridrichas II, imperatoriai (Ptol. 21,1 ir 2; Mart. p. 385).'
   pagrindžia:
-    - c-002
+    - c-007
 
 ## Reikšmingi paminėjimai
 
-- c-008
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     109. Apie tamplierių ordino panaikinimą
@@ -95,9 +95,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-005
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     6. Apie lai, kaip prie šventojo altoriaus vynas pavirto krauju, o duona — kūnu
@@ -108,9 +108,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-007
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
@@ -127,9 +127,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“, Bartolomiejus) iš Lukos, popiežiaus
@@ -141,9 +141,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-009
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tris saulės spindulius ir kolegijos suskilimą
@@ -160,9 +160,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-006
 
-- c-004
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolių pamokslininkų ordinas —1216 viešpaties metais, kai valdė popiežius Honorijus
@@ -172,9 +172,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     2. Apie Inocentą III, popiežių, ir Otoną IV bei Fridrichą II, imperatorius
@@ -185,9 +185,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-009
 
-- c-006
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie didįjį saulės užtemimą
@@ -200,9 +200,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-008
 
-- c-005
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie gibelinus ir gvelfus
@@ -214,4 +214,4 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-007

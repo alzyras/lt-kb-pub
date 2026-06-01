@@ -1,23 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: "Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 59 Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
-  - 'Kandidatas Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
-aliases:
-  - 'Kandidatas 59 Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
-  - 'Kandidatas Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
+pavadinimas: 'Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
 ---
@@ -28,47 +15,45 @@ tags:
 Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų. Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį lotyniškąjį raidyną rusišku raidynu, arba kirilika.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir lietuvių „suartinimo“ su rusų kultūra gija.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tikos šalininkai vadovavosi nuostata, kad vykstant pažangai lietuvių kal-
@@ -80,15 +65,13 @@ Nenurodyta
     kalbius elementorius, kuriuose būtų ir rusiškų žodžių vertimai į lietuvių
     kalbą, užrašyti ne tradiciniu šiai kalbai lotyniškuoju raidynu, o rusų rai-
     dynu – kirilika.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
@@ -96,31 +79,11 @@ Nenurodyta
     nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis drau-
     dimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m.
     pavasario.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir lietuvių „suartinimo“ su rusų kultūra gija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip tikėtasi iš pačių lietuvių
-    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
-    lietuvių „suartinimo“ su rusų kultūra gija.
-    Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
-    žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
-    rezultatų, kokių tikėjosi. Nors visuose apskrities centruose, didesniuo-
-    se miesteliuose buvo pastatytos cerkvės, bet.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

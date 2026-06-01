@@ -85,8 +85,6 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė]]
 - [[objektai/ivykiai/Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)]]
 - [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Romanas Sanguška]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
 - [[objektai/asmenys/Vilhelmas (dekanas)]]

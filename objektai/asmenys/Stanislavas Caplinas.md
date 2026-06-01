@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Stanislavas Caplinas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1991 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1991'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Stanislavas Caplinas
 
@@ -28,16 +24,15 @@ tags:
 Lietuvos pajėgos Čekistinę operacijos pusę koordinavo naujai Maskvos paskirtas sssR KGB padalinio Lietuvoje pirmininko pavaduotojas Stanislavas Caplinas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stanislavas Caplinas koordinavo čekistinę operacijos pusę kaip naujai Maskvos paskirtas SSRS KGB padalinio Lietuvoje pirmininko pavaduotojas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stanislavas Caplinas koordinavo čekistinę operacijos pusę kaip naujai Maskvos paskirtas SSRS KGB padalinio Lietuvoje pirmininko pavaduotojas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     vadas generolas Valentinas Varenikovas. Lietuvos pajėgos
@@ -53,10 +48,8 @@ Lietuvos pajėgos Čekistinę operacijos pusę koordinavo naujai Maskvos paskirt
     savo valdžią remiantys beginkliai Lietuvos
 
     1991 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -67,4 +67,3 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/Puslapis 77]]

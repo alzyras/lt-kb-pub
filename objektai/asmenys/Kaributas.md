@@ -21,44 +21,44 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
   pagrindžia:
-    - c-004
+    - c-005
 
-- t-001
+- t-002
   teiginys: 'Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti iš savo kunigaikštijų).'
   pagrindžia:
-    - c-001
+    - c-006
 
-- t-007
+- t-003
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  pagrindžia:
+    - c-007
+
+- t-004
+  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas.'
   pagrindžia:
     - c-008
 
 - t-006
-  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
-  pagrindžia:
-    - c-007
-
-- t-002
-  teiginys: 'Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas.'
-  pagrindžia:
-    - c-002
-
-- t-004
   teiginys: 'Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje; vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­ sioje, sukelti Jogailos brolio Kaributo, viešpatavusio Seversko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­ šenybės, vertė šį.'
   pagrindžia:
-    - c-005
+    - c-001
 
-- t-005
+- t-007
   teiginys: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
   pagrindžia:
-    - c-006
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniui grėsė naujas
@@ -73,9 +73,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-007
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
@@ -91,7 +91,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -104,7 +104,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   pagrindžia:
     - t-003
 
-- c-006
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Karaliui buvo parinkta saugi vieta,
@@ -118,9 +118,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-007
 
-- c-004
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Skaudžiausia Lietuvai tačiau buvo trečioji sutartis. Kaip kita­
@@ -137,9 +137,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lentelėse duodamieji pavyzdžiai:
@@ -153,9 +153,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-008
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­
@@ -173,9 +173,9 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
-- c-002
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kęstutį iš pradžių pripažino visi. Jis, maža tekreipdamas dėme-
@@ -187,7 +187,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

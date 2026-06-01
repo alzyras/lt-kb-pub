@@ -1,31 +1,18 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Daugiapakopės raketos"
-sukurta: '2026-05-13'
-variantai:
-  - "Daugiapakopės raketos"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Daugiapakopės raketos'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "1650 m. K. Semenavičiaus veikalo kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1650 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
-  - 'XVIII'
 date_start: '1650'
 date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-13'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
+amziai:
+  - 'XVII'
 ---
 # Daugiapakopės raketos
 
@@ -34,10 +21,12 @@ tags:
 Daugiapakopės raketos siejamos su Kazimiero Semenavičiaus veikalu „Artis magnae artilleriae“. Šaltinis teigia, kad šiame veikale išdėstyta daugiapakopių raketų teorija ir mini 1650 m. raketų brėžinius.
 
 ## Pavadinimai šaltiniuose
+
 - daugiapakopių raketų teorija
 - raketų brėžiniai
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1650 m. K. Semenavičiaus veikalo kontekstas
 - datos:
   - 1650 m.
@@ -55,97 +44,101 @@ Techninis-karinis objektas ir teorijos objektas, aptariamas per K. Semenavičiau
 Naudojimas tiesiogiai neaprašytas; šaltinis mini teoriją, brėžinius ir ryšį su šiuolaikinės artilerijos bei kosmonautikos ištakomis.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-007
-  teiginys: 'K. Semenavičiaus veikale buvo išdėstyta daugiapakopių raketų teorija.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'K. Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-010
+
+- t-001
   teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
   pagrindžia:
     - c-004
 
+- t-002
+  teiginys: 'K. Semenavičiaus veikale buvo išdėstyta daugiapakopių raketų teorija.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'K. Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
     solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
     darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
     („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
     orija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'K. Semenavičiaus veikale buvo išdėstyta daugiapakopių raketų teorija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo XIV a. ryčiausias Europoje du amžius
-    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-004
-  santrauka: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-    XVII–XVIII a.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Yra ir kitas senojo Vilniaus universiteto
+    istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+    XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
+    nulėmė jėzuitai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai

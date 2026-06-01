@@ -22,21 +22,21 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - t-001
   teiginys: 'Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Martyno, kurios klebonija, kaip įprasta, bemat buvo aprūpinta lėšo­ mis.'
-  pagrindžia:
     - c-003
 
 - t-002
+  teiginys: 'Martyno, kurios klebonija, kaip įprasta, bemat buvo aprūpinta lėšo­ mis.'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu Vladislovas Jogaila įsakė Vilniuje statyti
@@ -47,7 +47,7 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -82,9 +82,9 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pats miestelis dali­
@@ -120,7 +120,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
 - [[objektai/asmenys/Ona Jogailaitė]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/diecezija]]

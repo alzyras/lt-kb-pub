@@ -23,59 +23,59 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 
 ## Teiginiai
 
-- t-011
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
-  pagrindžia:
-    - c-011
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad septinta — Nadruva197, kurioje [gyveno] nadruviai.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.'
-  pagrindžia:
-    - c-002
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos apylinkės, kur Katinavos kalva nadruvių buvo laikoma šventa.'
-  pagrindžia:
-    - c-007
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
+  teiginys: 'Dusburgietis teigia, kad septinta — Nadruva197, kurioje [gyveno] nadruviai.'
   pagrindžia:
     - c-005
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t.'
-  pagrindžia:
-    - c-003
-
-- t-008
-  teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
-  pagrindžia:
-    - c-008
-
-- t-009
-  teiginys: 'Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė.'
+  teiginys: 'Dusburgietis teigia, kad tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.'
   pagrindžia:
     - c-009
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos apylinkės, kur Katinavos kalva nadruvių buvo laikoma šventa.'
+  pagrindžia:
+    - c-011
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
+  pagrindžia:
+    - c-002
+
 - t-006
-  teiginys: 'Dusburgietis teigia, kad katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.'
+  teiginys: 'Dusburgietis teigia, kad šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t.'
+  pagrindžia:
+    - c-001
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių, skalvių ir sūduvių gentys už tai, kad sembai pasidavė tikėjimui ir broliams (jie mat būgštavo, kad dėl tos.'
   pagrindžia:
     - c-006
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė Bysleidos pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė, ir ją smarkiai užpuolė.'
+  pagrindžia:
+    - c-003
+
+- t-009
+  teiginys: 'Dusburgietis teigia, kad katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.'
+  pagrindžia:
+    - c-008
 
 - t-010
   teiginys: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
   pagrindžia:
-    - c-010
+    - c-007
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
@@ -86,9 +86,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
-- c-005
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Aštunta — Skalva198, kurioje [gyveno]
@@ -109,7 +109,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindžia:
     - t-005
 
-- c-009
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
@@ -122,9 +122,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-008
 
-- c-011
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
@@ -139,9 +139,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-001
 
-- c-004
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Septinta — Nadruva197, kurioje [gyveno] nadruviai. Aštunta — Skalva198, kurioje [gyveno]
@@ -155,9 +155,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-008
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
@@ -177,9 +177,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-010
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
@@ -202,7 +202,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindžia:
     - t-010
 
-- c-006
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn. 4, sk. 3, § 2,
@@ -212,9 +212,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-009
 
-- c-002
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
@@ -225,9 +225,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-012
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais pačiais metais, kai buvo pastatytas Karaliaučius, labai įtūžo kaimyninės nadruvių,
@@ -245,9 +245,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
-- c-007
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos
@@ -259,7 +259,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

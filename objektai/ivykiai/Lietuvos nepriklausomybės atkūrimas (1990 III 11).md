@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-006
+- t-001
   teiginys: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   pagrindžia:
     - c-006
@@ -54,22 +54,22 @@ Nenurodyta
   pagrindžia:
     - c-002
 
-- t-005
+- t-003
   teiginys: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
   pagrindžia:
     - c-005
 
-- t-001
+- t-004
   teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-005
   teiginys: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
   pagrindžia:
     - c-003
 
-- t-004
+- t-006
   teiginys: 'Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
   pagrindžia:
     - c-004
@@ -91,7 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -131,7 +131,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -150,7 +150,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -166,7 +166,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -188,7 +188,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
 - c-007
   santrauka: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'

@@ -38,12 +38,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Taip pat priešin­ gu būdu, niekur kitur, tik mokyklose arba kur teisiami visi žydai, privalo būti, išskyrus mus ir mūsų seniūną, kurie ga­ lime juos prieš mūsų asmenis pašaukti.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Taip pat jeigu gaisro atveju arba vagystės, arba per jėgą savo daiktus su jam at­ neštais užstatais prarastų, o krikščionis, kuris būtų užsta­ tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­ valo išsiteisinti.'
   pagrindžia:
     - c-001
@@ -72,7 +72,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -19,29 +19,29 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad 3, p. 115; Salys A.'
-  pagrindžia:
-    - c-002
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
   pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad didysis..., p. 11; Salys A.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet Semboje buvusi Ragayne (GAO, p. 137, plg.'
+  teiginys: 'Dusburgietis teigia, kad didysis..., p. 11; Salys A.'
   pagrindžia:
     - c-003
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad manoma, kad vardas atėjęs iš Lietuvos (Salys A., Skalva, p. 537), bet Semboje buvusi Ragayne (GAO, p. 137, plg.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
@@ -53,9 +53,9 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     asmenvardžio Ramego
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsais, Prūsija visas kraštas tarp Vyslos ir
@@ -82,9 +82,9 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     K. Būga iš pradžių D. Sambia gretino su lie. žambas ‘kampas’ ir vadino Zambija, pr.
@@ -96,7 +96,7 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

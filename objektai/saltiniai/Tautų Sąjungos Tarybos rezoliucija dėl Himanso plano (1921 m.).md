@@ -1,16 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Tautų Sąjungos Tarybos rezoliucija dėl Himanso plano (1921 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1921 m.'
+date_start: '1921'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Tautų Sąjungos Tarybos rezoliucija dėl Himanso plano (1921 m.)
 
@@ -19,26 +22,23 @@ tags:
 1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją,
+    Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
+    ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
+    diskusijom“. 1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją,
     pritariančią Himanso planui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

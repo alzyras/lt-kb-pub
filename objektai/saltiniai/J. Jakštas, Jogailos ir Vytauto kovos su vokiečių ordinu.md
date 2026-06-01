@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'J. Jakštas, Jogailos ir Vytauto kovos su vokiečių ordinu'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1398 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1398'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # J. Jakštas, Jogailos ir Vytauto kovos su vokiečių ordinu
 
@@ -28,18 +22,15 @@ tags:
 Jakštas: Jogailos ir Vytauto kovos su vokiečių ordinu, rink.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Jakšto „Jogailos ir Vytauto kovos su vokiečių ordinu“ nurodomas JoŠ rinkinyje nuo 139 puslapio.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'J. Jakšto „Jogailos ir Vytauto kovos su vokiečių ordinu“ nurodomas JoŠ rinkinyje nuo 139 puslapio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^7) **SRP, III, 224 p.**
@@ -49,10 +40,8 @@ Jakštas: Jogailos ir Vytauto kovos su vokiečių ordinu, rink.
     (^9) **SRP, III, 236-237 p.**
     (^10) **SRP, III, 238 p.; CEV, 961-963 p. — Plg. J. Voigt :** **_Geschichte Preus-
     sens,_** **VI, 187-188 p.**
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

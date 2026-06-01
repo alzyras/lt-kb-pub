@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'S. Lozoraičio slaptas memorandumas A. Smetonai (1935 m. balandis)'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1935 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1935'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # S. Lozoraičio slaptas memorandumas A. Smetonai (1935 m. balandis)
 
@@ -27,29 +21,28 @@ tags:
 Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+    Todėl 1934 m. pradėti megzti neoficialūs
+    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
+    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
+    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
 
     L I E T U V O S  I S T O R I J A
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

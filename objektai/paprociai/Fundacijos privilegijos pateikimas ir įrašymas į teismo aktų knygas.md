@@ -40,18 +40,23 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
+  teiginys: '1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Po šiuo Jo Didenybės karaliaus Žygimanto parašu Uk­ mergės pavieto teismo akto ištrauka su parašu, tokiais žodžiais išreikšta: Metais tūkstantis šeši šimtai keturias­ dešimt devintais, gruodžio mėnesio dvidešimt devintą die­ ną, maloningas Dievuje Jo Malonybė.'
   pagrindžia:
-    - c-002
+    - c-001
+
+- t-003
+  teiginys: 'LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po šiuo Jo Didenybės karaliaus Žygimanto parašu Uk­
@@ -79,7 +84,8 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
+  santrauka: '1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
@@ -132,7 +138,7 @@ Nenurodyta
     - t-001
 
 - c-003
-  santrauka: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
+  santrauka: 'LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     238
@@ -203,5 +209,4 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]

@@ -20,16 +20,16 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
 - t-001
   teiginys: 'Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą: nesibaiminkite visokeriopų vargų, bet supraskite, jog tai, kas įvyko, neturi mūsų giminės pražudyti, o tegali ją pataisyti.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad juk labai geras darbas padaromas ne tada, kai leidžiama nusikaltėliams ilgą laiką viską daryti, ką užsimano, bet tada, kai tuojau pat jie baudžiami. Ne taip nutarė viešpats daryti su mumis, kaip daro su kitomis tautomis, kantriai laukdamas, kada, atėjus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Juk labai geras darbas padaromas ne tada, kai leidžiama nusikaltėliams ilgą laiką viską
@@ -49,7 +49,7 @@ Dusburgietis teigia, kad tad maldaute maldauju tuos, kurie skaitys šią knygą:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie dievo

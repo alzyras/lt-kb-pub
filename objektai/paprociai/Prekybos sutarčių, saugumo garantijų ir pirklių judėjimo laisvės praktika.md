@@ -45,24 +45,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8.'
-  pagrindžia:
-    - c-002
-
-- t-003
-  teiginys: '8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+- t-002
+  teiginys: '8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     8
@@ -100,9 +100,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -122,9 +122,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per itin galingas Švitrigailos sąjungas radosi di­
@@ -139,7 +139,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

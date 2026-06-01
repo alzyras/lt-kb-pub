@@ -18,12 +18,12 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus movens buvo tuomet jaunas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, tolerancijos ir geranoriškumo įsikūnijimas.'
   pagrindžia:
     - c-001
@@ -45,7 +45,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -67,7 +67,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

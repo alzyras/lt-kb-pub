@@ -27,5 +27,4 @@ Kontekste tai istoriografinių laikysenų ir metodologinių tipų žodynas, kuri
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jonas Sniadeckis]]
 - [[objektai/zodynas/Naujasis klasikas prepozityvistai]]

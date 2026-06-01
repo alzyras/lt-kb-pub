@@ -38,13 +38,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbationem 244 ## Puslapis 261 III KNYGA būtų nukelta arba taptų filija ir priklausytų Pabaisko baž­ nyčiai, kaip kad yra Vronove ir Viešėje stovinčios bažny­ čios.'
+  teiginys: 'Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Item Decima in Wieprze om­

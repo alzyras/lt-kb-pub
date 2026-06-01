@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'H. Spliet'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1893 m.'
   - '1953 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1893'
+date_end: '1953'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1893'
-date_end: '1953'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - autorius
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # H. Spliet
 
@@ -29,16 +25,15 @@ tags:
 32, 1893, 222-255 p. — Spliet, H.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _Pilkalnis na Litwie,_ Studja Staropolskie, księga ku czci
@@ -50,10 +45,8 @@ tags:
     dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
     _Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno
     XIV-XVI a. geležies dirbinių metalografinė analizė,_ AkMD, t. 47, 1974,
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

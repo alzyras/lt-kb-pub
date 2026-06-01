@@ -16,12 +16,12 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo žydo Brastoje ėmė po 56 lenkiškus grašius.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
   pagrindžia:
     - c-001
@@ -43,7 +43,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -57,7 +57,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,31 +1,24 @@
 ---
 tipas: posakis
 pavadinimas: 'Datum in Lettowia in curia nostra'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1100 m.'
   - '1253 m.'
   - '1260 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XIII'
 date_start: '1100'
 date_end: '1260'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ordinas
   - pilis
   - posakis
+amziai:
+  - 'XI'
+  - 'XIII'
 ---
 # Datum in Lettowia in curia nostra
 
@@ -34,22 +27,20 @@ tags:
 1253 m. užra­ šyta « Datum in Le tt owia in curia nostra », panašiai ir 1260 m. : « Datum Le tt owie in curia nostra ». Čia tačiau iškyla neaiškumas, ar « Lettowia » Čia tereiškia kokią sritį, kur buvo Mindaugo pilis, ar vieną iš jo pilių Lietuvos valstybėje.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1253 m. Mindaugo dokumente Livonijos ordinui frazė „Datum in Lettowia in curia nostra“ galėjo nurodyti Lietuvą kaip vietovę.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Dėl „Lettowia“ reikšmės neaišku, ar ji žymėjo sritį prie Mindaugo pilies, ar vieną iš jo pilių Lietuvos valstybėje.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1253 m. Mindaugo dokumente Livonijos ordinui frazė „Datum in Lettowia in curia nostra“ galėjo nurodyti Lietuvą kaip vietovę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kad kiltys savo vardus gaudavo nuo upių, patvirtina eilė pavyz­
@@ -59,15 +50,13 @@ tags:
     jonių, « Lietuva » gali būti nurodoma kaip vietovė. 1253 m. užra­
     šyta _«_ Datum in Le _tt_ owia in curia nostra », panašiai ir 1260 m. :
     « Datum Le _tt_ owie in curia nostra ».
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dėl „Lettowia“ reikšmės neaišku, ar ji žymėjo sritį prie Mindaugo pilies, ar vieną iš jo pilių Lietuvos valstybėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1253 m. užra­
@@ -80,11 +69,9 @@ tags:
     susirankiojęs žinių iš pirklių, keliautojų ir piligrimų, esąs savo vei­
     kale (« Rogero knygoje »), skyriuje apie rytų Pabaltijį, jau pami­
     nėjęs Kauną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

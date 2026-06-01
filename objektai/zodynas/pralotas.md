@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pralotas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - sąvoka
@@ -21,16 +18,15 @@ tags:
 Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žuvo ir valdovų kapų vietos paslaptis jie neatrasti nė XVIII a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Užsitęsusio karo metu mirus vyskupui ir daugeliui pralotų, buvo prarasta valdovų kapų vietos paslaptis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Užsitęsusio karo metu mirus vyskupui ir daugeliui pralotų, buvo prarasta valdovų kapų vietos paslaptis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš tikrųjų rusai visus likusius kapus išdraskė,
@@ -45,11 +41,9 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
     jie neatrasti nė XVIII
     a. pabaigoj, perstatant
     katedrą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

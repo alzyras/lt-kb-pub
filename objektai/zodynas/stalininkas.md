@@ -89,8 +89,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - [[objektai/asmenys/Mikalojus Andriuševičius]]
 - [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
 - [[objektai/asmenys/Stanislovas Jonas Da Vaina]]
 - [[objektai/asmenys/Sventopelkas]]

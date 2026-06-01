@@ -1,15 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1941 m.'
+  - '1944 m.'
+date_start: '1941'
+date_end: '1944'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.)
 
@@ -18,37 +22,41 @@ tags:
 1941–1944 nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1941–1944 m. Lietuvoje vyko nacių Vokietijos okupacija ir žydų Holokaustas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1941–1944 m. Lietuvoje vyko nacių Vokietijos okupacija ir žydų Holokaustas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sudarius marionetinę vyriausybę
+    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
+    publika. Sovietinio teroro ir trėmimų pradžia.
     1941–1944
     nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

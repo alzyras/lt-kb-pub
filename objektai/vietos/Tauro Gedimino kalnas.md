@@ -25,31 +25,12 @@ Aukštutinė pilis ant Tauro kalno. • — 201 Gedimino (vert.
 
 ## Teiginiai
 
-- t-002
-  teiginys: '• — 201 Gedimino (vert.'
-  pagrindžia:
-    - c-002
-
 - t-001
   teiginys: 'Aukštutinė pilis ant Tauro kalno.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
-
-- c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mūrinis namas, vėliau Jogailas duotas gyventi Vilniaus
-    vyskupui.
-    • —
-    201
-    Gedimino (vert. past.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-002
 
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

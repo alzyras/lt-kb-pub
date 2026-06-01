@@ -24,34 +24,35 @@ periodo_grupes: []
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: '31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.'
   pagrindžia:
-    - c-003
+    - c-004
 
-- t-001
+- t-002
   teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
+  pagrindžia:
+    - c-005
+
+- t-003
+  teiginys: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'''' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
-  pagrindžia:
-    - c-004
-
-- t-005
   teiginys: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
   pagrindžia:
-    - c-005
+    - c-003
 
-- t-002
+- t-005
   teiginys: 'Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
+  santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48
@@ -103,7 +104,7 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -118,9 +119,9 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-005
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo neat­
@@ -136,9 +137,9 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis ir Koje-
@@ -159,9 +160,9 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -176,7 +177,7 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

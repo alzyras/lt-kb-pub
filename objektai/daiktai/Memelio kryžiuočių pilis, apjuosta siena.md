@@ -1,28 +1,22 @@
 ---
 tipas: daiktas
 pavadinimas: 'Memelio kryžiuočių pilis, apjuosta siena'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
   - '1325 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: '1325'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - miestas
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Memelio kryžiuočių pilis, apjuosta siena
 
@@ -31,33 +25,35 @@ tags:
 Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir. Gregorii iidem Lytvini civitatem Memelam ar­ m ata manu intraverunt hostiliter et eam cum suburbiis suis preter solum cast­ rum muro circumdatum, in quo fratres ejusdem ordinis morantur, ceperunt, cremaverunt et penitus destruxerunt, multos ibidem occidentes.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Gregorii iidem Lytvini civitatem Memelam ar­ m ata manu intraverunt hostiliter et eam cum suburbiis suis preter solum cast­ rum muro circumdatum, in quo fratres ejusdem ordinis morantur, ceperunt, cremaverunt et penitus destruxerunt, multos ibidem occidentes.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Energingas Garteno (Gar­
@@ -112,49 +108,13 @@ Nenurodyta
     plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Gregorii iidem Lytvini civitatem Memelam ar­ m ata manu intraverunt hostiliter et eam cum suburbiis suis preter solum cast­ rum muro circumdatum, in quo fratres ejusdem ordinis morantur, ceperunt, cremaverunt et penitus destruxerunt, multos ibidem occidentes.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    :
-    Eodem anno post festum b. Gregorii
-    iidem Lytvini civitatem Memelam ar­
-    m ata manu intraverunt hostiliter et eam
-    cum suburbiis suis preter solum cast­
-    rum muro circumdatum, in quo fratres
-    ejusdem ordinis morantur, ceperunt,
-    cremaverunt et penitus destruxerunt,
-    multos ibidem occidentes homines ac
-    eciam captivantes virgines, mulieres et
-    alios quos rapere valuerunt [Tais pa­
-    čiais metais po pal. Grigaliaus šven­
-    tės tie patys lietuviai į Memelio
-    miestą ginkluota jėga priešiškai įsi­
-    veržė ir jį su jo priemiesčiais, išsky­
-    rus pačią pilį, apjuostą siena, kurio­
-    je to paties Ordino brolių būta,
-    paėmė, sudegino ir iki pamatų su­
-    griovė, ten pat daugybę žmonių nu­
-    žudė ir paėmė į nelaisvę merginų,
-    moterų ir kitų, kuriuos tik įstengė
-    pagrobti].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Gadebusch]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/naujakrikščiai]]

@@ -1,13 +1,10 @@
 ---
-tipas: 'autorius'
+tipas: autorius
 pavadinimas: 'Audronius Ažubalis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
@@ -19,15 +16,15 @@ tags:
 Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,
@@ -45,11 +42,9 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
     fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
     prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
     jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

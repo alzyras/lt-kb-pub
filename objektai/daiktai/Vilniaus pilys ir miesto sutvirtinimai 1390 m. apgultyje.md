@@ -48,21 +48,22 @@ Nenurodyta
 - t-001
   teiginys: 'Prie jos šliejosi pats miesto centras, nedidelis, su mediniais namais, bet su tvirtų statinių tvorų ir griovių sutvirtinimais.'
   pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'To­ je pilyje krikščionis kunigaikštis, mū­ sų mielasis brolis, ponas Kazimieras, vadovavo įgulai." 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
-  pagrindžia:
     - c-002
 
-- t-003
-  teiginys: '35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.'
+- t-002
+  teiginys: '1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: '1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
+  santrauka: '1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     35
@@ -109,7 +110,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
@@ -127,7 +128,8 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
+  santrauka: '1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     544, yra vienas pranešimas

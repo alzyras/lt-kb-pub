@@ -28,16 +28,16 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 - t-001
   teiginys: 'Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta V., Lietuvos..., p. 420—421.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad gedimino sutartis su Ordinu rodo, kad Lietuvos valstybės lietuviškosios žemės susidėjo iš dviejų dalių: Aukštaičių ir Žemaičių (Łowmiański H., Studja..., 2, p. 69— 70; Jakštas J., Vokiečių ordinas..., p. 141; plg.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Gedimino sutartis su Ordinu rodo, kad
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta V., Lietuvos..., p. 420—421.

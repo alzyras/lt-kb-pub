@@ -27,13 +27,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '| pad <= a 1 latio "Tureau - noni ae aaa Chotino mūšis 1673 m. 1674 m. išleistos Jokūbo Beneto poemos „Viešpaties dešinės galybė“ Iliustracija.'
+  teiginys: 'Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     | pad

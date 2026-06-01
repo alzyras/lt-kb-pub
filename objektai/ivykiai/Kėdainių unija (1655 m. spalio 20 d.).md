@@ -39,17 +39,17 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Jo pastangomis unija buvo sudaryta Kėdainiuose 1655 m. spalio 20 d. Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Radvila buvo unijos su Lenkija nutraukimo ir sudarymo jos su Švedija šalininkas.'
   pagrindžia:
     - c-001
@@ -73,7 +73,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -92,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -110,7 +110,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

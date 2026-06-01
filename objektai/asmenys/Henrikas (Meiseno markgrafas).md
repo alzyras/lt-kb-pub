@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas (Meiseno markgrafas)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1236 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1236'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Henrikas (Meiseno markgrafas)
 
@@ -31,27 +27,24 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
-  pagrindžia:
-    - c-002
-
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Meiseno markgrafo atvykimą
@@ -67,34 +60,11 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
                  14.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
-
-      Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų
-    ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė,
-    kamuodamas grobstymais bei gaisrais ir nuleisdamas netikėliams daug kraujo. Smarkiai
-    užpuolė jų pilį, pastatytą prie Mukeros upės235, bei visas pilaites [omnia propugnacula],
-
-      233  D.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-- c-001
-  santrauka: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Siekiant nukreipti dėmesį nuo pagrin-
@@ -112,13 +82,44 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     sudarytos iš Kalavijuočių ordino bro-
     lių ir kryžininkų iš įvairių Europos šalių,
     „pasidalino į būrius“ ir ėmė plėšti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    14. Apie daugelio pilių sunaikinimą ir pamedėnų pavergimą
+
+      Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų
+    ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė,
+    kamuodamas grobstymais bei gaisrais ir nuleisdamas netikėliams daug kraujo. Smarkiai
+    užpuolė jų pilį, pastatytą prie Mukeros upės235, bei visas pilaites [omnia propugnacula],
+
+      233  D.— castrum de Redino, Jer.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    13. Apie Meiseno markgrafo atvykimą
+
+      Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas,
+    Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su
+    dideliais turtais. Šis vyras iš visos širdies ir iš visų jėgų ryžosi naikinti netikėlius ir plėsti
+    krikščionių žemes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

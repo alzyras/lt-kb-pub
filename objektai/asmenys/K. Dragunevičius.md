@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'K. Dragunevičius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,22 +15,20 @@ tags:
 Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę juos abipus vieškelio Kėdainiai-Šėta, efektyvia šautuvų ugnimi įstengė sustabdyti priešo puolimą. Dragunevičiaus vadovaujama vidurinioji vora privalėjo pulti bolševikus abipus kelio Žemieji Kapliai-Šėta.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'K. Dragunevičiaus vadovaujama vidurinioji vora turėjo pulti bolševikus abipus kelio Žemieji Kapliai-Šėta.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Dragunevičius ir J. Mikoliūnas Kėdainių gynyboje surinko apie 80 savanorių ir šautuvų ugnimi sustabdė priešo puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariai prie gautų vokiečių kariuomenės sagčių (kairėje) pritvirtindavo
@@ -55,15 +44,13 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
     sutelkė kulkosvaidžių ir artilerijos ugnį.
     Neturintys kovos patirties savanoriai, drą-
     sinami būrių vadų, nepakriko ir laikėsi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'K. Dragunevičiaus vadovaujama vidurinioji vora turėjo pulti bolševikus abipus kelio Žemieji Kapliai-Šėta.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmoji grupė, va-
@@ -74,13 +61,11 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
     Karin. K. Dragunevičiaus vadovaujama
     vidurinioji vora privalėjo pulti bolševi-
     kus abipus kelio Žemieji Kapliai-Šėta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

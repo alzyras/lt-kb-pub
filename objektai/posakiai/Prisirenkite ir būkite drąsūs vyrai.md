@@ -28,21 +28,21 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
 - t-001
   teiginys: 'Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš mus sunaikinti mūsų ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti mūsų tautos ir šventovės nelaimes14.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo. Atsiminkite, kaip buvo išgelbėti.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok.'
+  teiginys: 'Dusburgietis teigia, kad šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius (1 Mak 4, 8—11): „Nebijokite jų daugybės ir nenusigąskite jų puolimo. Atsiminkite, kaip buvo išgelbėti.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     58—59): „Prisirenkite
@@ -57,9 +57,9 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitokią narsią širdį yra turėjęs Judas Makabėjus, kuris, stovėdamas
@@ -72,9 +72,9 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į

@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'K. Navickas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1964 m.'
   - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1964'
 date_end: '1966'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # K. Navickas
 
@@ -28,16 +24,15 @@ tags:
 Navickaitė-Kuncienė, O.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Navickas 1964 m. paskelbė darbą apie XIII–XIV a. Vilniaus gyventojų apavą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Navickas 1964 m. paskelbė darbą apie XIII–XIV a. Vilniaus gyventojų apavą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —Matusas, J. : _Odų ir kailių
@@ -55,10 +50,8 @@ Navickaitė-Kuncienė, O.
     143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,
     ILKI, IV, 1964, 188-196 p. — Pakštas, K. : _Lietuvių tautos plotai ir
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -23,17 +23,17 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 205 1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.'
   pagrindžia:
     - c-001
@@ -52,7 +52,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -68,7 +68,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -86,7 +86,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-004
   santrauka: 'Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.'

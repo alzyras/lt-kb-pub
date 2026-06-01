@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.'
+  teiginys: 'Apgultos Aukštutinės pilies gynėjai pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apgultos Aukštutinės pilies gynėjai pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     35

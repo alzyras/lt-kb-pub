@@ -1,23 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: 'Tautvilas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1382 m.'
+date_start: '1382'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - tauta
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Tautvilas
 
@@ -26,36 +28,40 @@ tags:
 Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis. Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
+  pagrindžia:
+    - c-005
+
+- t-002
   teiginys: 'Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
-  pagrindžia:
-    - c-005
-- t-006
+
+- t-003
   teiginys: 'Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­ das, o Vitebske jų dėdė, motinos brolis, Vikintas.'
   pagrindžia:
     - c-006
-- t-007
+
+- t-004
+  teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
+  pagrindžia:
+    - c-004
+
+- t-006
   teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
   pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
-  pagrindžia:
-    - c-008
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo pat metu
@@ -66,18 +72,32 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     kas galutinai Lietuvai buvo prijungtas tik Vytenio (1307), o
     Vitebskas Gedimino laikais, kai po vietinio kunigaikščio mir­
     ties kunigaikštiją paveldėjo jo žentas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-004
-  santrauka: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
+    - t-002
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Haličo-
+    Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
+    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
+    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Puolėjų nuos­
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
     toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
     Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
     čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
@@ -104,16 +124,15 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     patį mirtinai iš lanko paleista strėle
     pervėrė, pamindamas deramas pus­
     broliui, riteriui kunigaikščiui, prie­
-    dermes/7  Knyga XIII, p.
+    dermes/7  Knyga XIII, p. 455, Varš.
+    leid.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - • —
@@ -151,58 +170,41 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     patį mirtinai iš lanko paleista strėle
     pervėrė, pamindamas deramas pus­
     broliui, riteriui kunigaikščiui, prie­
-    dermes/7  Knyga XIII, p.
+    dermes/7  Knyga XIII, p. 455, Varš.
+    leid.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­ das, o Vitebske jų dėdė, motinos brolis, Vikintas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Juodąją Rusiją. Tuo pat metu
-    Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno
-    Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­
-    das, o Vitebske jų dėdė, motinos brolis, Vikintas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Stiprindamas centrinę valdžią
-    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
-    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
+
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dalis jo šalininkų
     buvo sumesti į kalėjimą. Iš Vytauto brolio Tautvilos buvo atimtas
     Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
-    Šis nuo 1382 m.
+    Šis nuo 1382 m. rodė ištikimybę savo švogeriui Vytautui (juodu
+    buvo vedę kunigaikštytes seseris Sudimantaites).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
+
+- c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
+    tos ir Naugarduko, t. y. vad. Juodąją Rusiją. Tuo pat metu
+    Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno
+    Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­
+    das, o Vitebske jų dėdė, motinos brolis, Vikintas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,27 +1,16 @@
 ---
 tipas: saltinis
 pavadinimas: 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-sukurta: '2026-05-01'
-variantai:
-  - 'Žymiausi Lietuvos mūšiai ir karinės operacijos'
-  - 'Žymiausi Lietuvos mūšiai ir karinės operacijos: straipsnių rinkinys'
-aliases:
-  - 'Žymiausi Lietuvos mūšiai ir karinės operacijos'
-saltiniai: []
-laikotarpis: '2013 m.'
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '2013 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+date_start: '2013'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-01'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XXI'
 ---
 # Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
 
@@ -52,53 +41,30 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
 - Turinio puslapiai rodo chronologinę aprėptį nuo Saulės (Šiaulių) mūšio 1236 m. iki Aukščiausiosios Tarybos gynybos 1991 m., apimant viduramžių, ankstyvųjų naujųjų laikų, Nepriklausomybės kovų, partizaninio karo ir valstybės atkūrimo temas.
 
 ## Teiginiai
-- t-009
-  teiginys: 'Leidinys pateikiamas kaip straipsnių rinkinys „Žymiausi Lietuvos mūšiai ir karinės operacijos“, kurio atsakingasis redaktorius ir sudarytojas yra Karolis Zikaras; jis išleistas Vilniuje 2013 m. ir turi ISBN 978-9986-827-05-4.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Leidinys skirtas supažindinti skaitytoją su įvairių laikų Lietuvos karų istorija per mūšių prizmę, atrenkant svarbesnius ar įdomesnius susirėmimus, kuriuose buvo ginami Lietuvos valstybės interesai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Leidinio tikslas yra per karų kulminacinius momentus parodyti ilgaamžę kovų už Lietuvos valstybę istoriją ir pateikti Lietuvos kario įvaizdį bei karybos, ginkluotės ir regiono geopolitinio konteksto apžvalgą.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-012
+
+- t-001
   teiginys: 'Leidykla nurodoma UAB „ALIO“, leidinį spausdino UAB „Petro ofsetas“, o tiražas siekė 2000 egzempliorių.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Leidinys pateikiamas kaip straipsnių rinkinys „Žymiausi Lietuvos mūšiai ir karinės operacijos“, kurio atsakingasis redaktorius ir sudarytojas yra Karolis Zikaras; jis išleistas Vilniuje 2013 m. ir turi ISBN 978-9986-827-05-4.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Leidinys skirtas supažindinti skaitytoją su įvairių laikų Lietuvos karų istorija per mūšių prizmę, atrenkant svarbesnius ar įdomesnius susirėmimus, kuriuose buvo ginami Lietuvos valstybės interesai.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Leidinio tikslas yra per karų kulminacinius momentus parodyti ilgaamžę kovų už Lietuvos valstybę istoriją ir pateikti Lietuvos kario įvaizdį bei karybos, ginkluotės ir regiono geopolitinio konteksto apžvalgą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Leidinys pateikiamas kaip straipsnių rinkinys „Žymiausi Lietuvos mūšiai ir karinės operacijos“, kurio atsakingasis redaktorius ir sudarytojas yra Karolis Zikaras; jis išleistas Vilniuje 2013 m. ir turi ISBN 978-9986-827-05-4.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Zis1 Žymiausi Lietuvos mūšiai ir karinės operacijos:
-    (straipsnių rinkinys / atsakingasis redaktorius
-    ir sudarytojas Karolis Zikaras]. - Vilnius: Alio,
-    2013.-284 p.: iliustr., žml.
-
-    ISBN 978-9986-827-05-4
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'Leidinys skirtas supažindinti skaitytoją su įvairių laikų Lietuvos karų istorija per mūšių prizmę, atrenkant svarbesnius ar įdomesnius susirėmimus, kuriuose buvo ginami Lietuvos valstybės interesai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ši knyga skirta supažindinti skaitytoją su visų
@@ -108,15 +74,28 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     laikotarpių mūšiai, kuriose buvo ginami Lietuvos
     valstybės interesai. Leidinys gausiai iliustruotas,
     praturtintas žemėlapiais ir schemomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-003
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Zis1 Žymiausi Lietuvos mūšiai ir karinės operacijos:
+    (straipsnių rinkinys / atsakingasis redaktorius
+    ir sudarytojas Karolis Zikaras]. - Vilnius: Alio,
+    2013.-284 p.: iliustr., žml.
+
+    ISBN 978-9986-827-05-4
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-003
-  santrauka: 'Leidykla nurodoma UAB „ALIO“, leidinį spausdino UAB „Petro ofsetas“, o tiražas siekė 2000 egzempliorių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Išleido
@@ -136,15 +115,13 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     www.petroofsetas.lt
 
     Tiražas 2000 egz.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-001
+
 - c-004
-  santrauka: 'Leidinio tikslas yra per karų kulminacinius momentus parodyti ilgaamžę kovų už Lietuvos valstybę istoriją ir pateikti Lietuvos kario įvaizdį bei karybos, ginkluotės ir regiono geopolitinio konteksto apžvalgą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šio leidinio tikslas - per karų kulminacinius momen-
@@ -154,10 +131,8 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
     įvaizdį. Stengtasi pateikti daug kontekstinės informacijos,
     nupasakojančios kiekvieno laikotarpio karybos, ginkluo-
     tės raidos tendencijas bei regiono geopolitinį kontekstą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-011
+    - t-004

@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'F. Gause'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ginklas
@@ -27,16 +18,15 @@ tags:
 R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu metu išsp. F. G a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Serijoje « Ostmittel­
@@ -49,11 +39,9 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
     Herderio instituto Marburge leidžiama istorinių veikalų serija (Wis-
 
     (^153) **K. Forstreuter :** **_Das Preussische Staatsarchiv in Königsberg.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,30 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Biržų pilis (pilis)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Biržų pilis'
-aliases:
-  - 'Biržų pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1656 m.'
   - '1657 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1656'
 date_end: '1657'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karas
   - pilis
   - sukilimas
+amziai:
+  - 'XVII'
 ---
 # Biržų pilis (pilis)
 
@@ -33,16 +25,15 @@ tags:
 Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgula, buvusi Biržų pilyje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas
@@ -58,10 +49,8 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
     be to, jai karą paskelbė Rusija. Iki 1657 m. kovos Lietuvoje vis in-
     tensyvėjo ir galiausiai V. Gonsievskio vadovaujamai Lietuvos ka-
     riuomenei pasidavė paskutinė švedų įgula, buvusi Biržų pilyje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

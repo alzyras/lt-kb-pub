@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„vietos visiems užteks“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -18,26 +15,28 @@ tags:
 Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau valdžia efektyviai stabdė raginimus apriboti žydus, o filosemitas
     A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
     užteks“.
-  citata_rodoma: ""
+    Tautininkams patiko ir žydų parama sprendžiant Klaipėdos ir Vil-
+    niaus problemas, o žydų dalyvavimas savivaldos rinkimuose laikytas
+    „nepagrįstu“ žydų noru toliau plėsti savo įtaką. Tačiau lietuvėjant mies-
+    tams, lietuvių ir jų ūkinių kooperatyvų veikla neišvengiamai silpnino
+    žydų verslo pozicijas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -46,5 +45,6 @@ Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/zodynas/Filosemitas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

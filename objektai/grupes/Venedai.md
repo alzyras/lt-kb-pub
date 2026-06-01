@@ -25,12 +25,12 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Prancūzijoje, Aljė departa­ mente, esama mineralinių vandenų, vadinamų Neris, prie taip pat pava­ dinto miestelio, išsidriekusio tarp Šero ir Luaros upių, kur X amžiuje siekė normanų antpuoliai ir netgi jų gyvenvietės - slavų, venedų, gyve­ nančių Hanoverio.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   pagrindžia:
     - c-001
@@ -71,7 +71,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -97,7 +97,7 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

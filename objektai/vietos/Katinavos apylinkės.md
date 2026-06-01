@@ -27,19 +27,19 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos apylinkės, kur Katinavos kalva nadruvių buvo laikoma šventa.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šventiškių kaimas (LUEV, p. 223), Šventakiemis prie Katinavos (1915 m. žemėlapis).'
+  teiginys: 'Dusburgietis teigia, kad tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos apylinkės, kur Katinavos kalva nadruvių buvo laikoma šventa.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šventiškių kaimas (LUEV, p. 223), Šventakiemis prie Katinavos (1915 m. žemėlapis).'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tarp pagoniškam kultui skirtų Nadruvos regionų išsiskiria, kaip matėme, Katinavos
@@ -51,9 +51,9 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pisos upės deš. intakas Golba prie Narpiškių kaimo buvęs šventas (Pratorius M.,
@@ -70,4 +70,4 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

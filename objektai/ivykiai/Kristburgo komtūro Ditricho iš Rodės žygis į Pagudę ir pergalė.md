@@ -36,16 +36,16 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais patraukė su šimtine brolių bei maldininkų žygin ir, apiplėšęs Pagudės žemę, pasuko namo, persekiojamas nesuskaitomos daugybės prūsų; negalėdamas išvengti susidūrimo, pasisuko.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad paimtieji į nelaisvę prūsai, kuriuos broliai surištus vedėsi su savimi, tikino matę mūšio metu gražių gražiausią mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis..'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paimtieji į nelaisvę
@@ -63,7 +63,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais

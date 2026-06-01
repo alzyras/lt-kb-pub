@@ -20,13 +20,14 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
 ## Teiginiai
 
 - t-001
-  teiginys: 'E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių), lietuvių žemėse patį pavojingiausią miestą, kur buvo trys pilys, saugomos įgulos.'
+  teiginys: 'Sename vokiečių pranešime Vilnius vadintas lietuvių žemėse pavojingiausiu miestu, kuriame buvo trys įgulų saugomos pilys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Sename vokiečių pranešime Vilnius vadintas lietuvių žemėse pavojingiausiu miestu, kuriame buvo trys įgulų saugomos pilys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28
@@ -68,4 +69,6 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]

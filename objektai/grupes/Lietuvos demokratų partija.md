@@ -1,26 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos demokratų partija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1902 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1902'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos demokratų partija
 
@@ -29,54 +23,61 @@ tags:
 Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu. Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Lietuvos demokratų programinis idealas – nepriklausoma demokratinė Lietuvos Respublika lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirstymu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valstybėmis.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vyskupi-
+    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
+    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
+    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
+    nimu. Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą
+    caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.
     Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
     tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
     1902 m. „Varpą“ leidusios organizacijos pagrindu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
+    Šie intelektualai pro-
+    pagavo Bažnyčios atskyrimo nuo valstybės principą. Lietuvos demokratų
+    programinis idealas – nepriklausoma demokratinė Lietuvos Respublika
+    lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirsty-
+    mu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valsty-
+    bėmis. Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
     socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
     bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
     nės veikėjais, tačiau bendros kalbos nerado.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Lietuvos demokratų programinis idealas – nepriklausoma demokratinė Lietuvos Respublika lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirstymu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valstybėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos demokratų
@@ -92,11 +93,27 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
     prarado, patyrė ir didžiausias caro valdžios represijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių
+    tautiniame sąjūdyje buvo liberali Lietuvos demokratų partija, susikūrusi
+    1902 m. „Varpą“ leidusios organizacijos pagrindu. Šie intelektualai pro-
+    pagavo Bažnyčios atskyrimo nuo valstybės principą. Lietuvos demokratų
+    programinis idealas – nepriklausoma demokratinė Lietuvos Respublika
+    lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirsty-
+    mu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valsty-
+    bėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -105,5 +122,6 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Lietuvių krikščionys demokratai]]
 - [[objektai/ivykiai/Lietuvos demokratų partijos susikūrimas]]

@@ -1,25 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Vienas kraujo lašas būt tave nuplovęs'
-sukurta: '2026-05-02'
-variantai:
-  - 'Vienų vienas žodis būt tave apgynęs'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: juodrastis
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -38,22 +23,20 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
 - Vienų vienas žodis būt tave apgynęs
 
 ## Teiginiai
-- t-003
-  teiginys: 'Dažnai kartojama Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. pasirinkimų vertinimu.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ primena, kad priešintis buvo galima protestais ir Vyriausybės pasitraukimu.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Dažnai kartojama Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. pasirinkimų vertinimu.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dažnai kartojama Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. pasirinkimų vertinimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi 1792 m. liepos 23-iosios situacija akivaizdžiai dramatiš-
@@ -64,15 +47,13 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
     eilutė „Vienas kraujo lašas būt tave nuplovęs“, ir kažkodėl niekas
     nekreipia dėmesio į tai, kad 1940 m. birželio 15 ryte Ūtos pasienio
     poste buvo nužudytas pasienietis Aleksandras Barauskas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-002
-  santrauka: 'Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ primena, kad priešintis buvo galima protestais ir Vyriausybės pasitraukimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų
@@ -84,13 +65,11 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
     Lietuvos likimas, yra visiškai analogiškas 1792 m. liepos 23-iosios
     posėdžiui, o A. Smetonai buvo naudinga vaidinti vienišių, nes jis
     nesiruošė priešintis nei ginklu, nei žodžiu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

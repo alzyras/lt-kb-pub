@@ -42,7 +42,6 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/florinas, zlotas, grašis ir denaras]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]

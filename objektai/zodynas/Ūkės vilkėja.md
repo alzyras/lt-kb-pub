@@ -1,13 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: ūkės vilkėja
-sukurta: '2026-04-30'
-variantai:
-  - ūkės vilkėjomis
+tipas: zodyno_irasas
+pavadinimas: 'ūkės vilkėja'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # ūkės vilkėja
 
@@ -20,51 +17,45 @@ atnaujinta: '2026-04-30'
 Pagrindinė forma: `ūkės vilkėja`.
 Vartojamos formos: `ūkės vilkėjomis`.
 
+## Pastabos
+
+- Terminas čia labiau socialinis vaidmuo nei grynas profesinis pavadinimas.
+
 ## Teiginiai
-- t-003
+
+- t-001
+  teiginys: 'Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas.'
+  pagrindžia:
+    - c-002
+
+- t-002
   teiginys: 'Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu.'
   pagrindžia:
     - c-002
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
+
 - c-002
-  santrauka: 'Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
-
-## Pastabos
-
-- Terminas čia labiau socialinis vaidmuo nei grynas profesinis pavadinimas.
+    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

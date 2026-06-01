@@ -25,29 +25,29 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 
 ## Teiginiai
 
-- t-004
-  teiginys: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Ši gailestingumo įstaiga karaliaus akyse buvo tokia svarbi ir tarp jį patrau­ kė, kad paskui, testamentu paskirstydamas turtą savo se­ serims, joms pavedė plėsti prieglaudos pastatus supirkinėjant aplinkinius namus prie Švč.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
+  teiginys: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla.'
+  teiginys: 'Ši gailestingumo įstaiga karaliaus akyse buvo tokia svarbi ir tarp jį patrau­ kė, kad paskui, testamentu paskirstydamas turtą savo se­ serims, joms pavedė plėsti prieglaudos pastatus supirkinėjant aplinkinius namus prie Švč.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
   pagrindžia:
     - c-002
 
+- t-004
+  teiginys: 'Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
@@ -63,9 +63,9 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -81,7 +81,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -97,9 +97,9 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
@@ -112,4 +112,4 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004

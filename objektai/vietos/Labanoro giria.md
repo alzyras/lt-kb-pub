@@ -1,24 +1,18 @@
 ---
 tipas: vieta
 pavadinimas: 'Labanoro giria'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1951 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1951'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XX'
 ---
 # Labanoro giria
 
@@ -27,16 +21,15 @@ tags:
 Labanoro giri- (e) 4 = Maišiagala eliškės i > S oe t; sk k ‘ KAUNAS Nunsiškė |.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     PASTOVIAIO)
@@ -55,10 +48,8 @@ Labanoro giri- (e) 4 = Maišiagala eliškės i > S oe t; sk k ‘ KAUNAS Nunsiš
     | ee "semeikės AN LBA Gerveca> L Winivas PRISIKĖLIMO APYGARDA
     PRIENAPĖSSJ — demas Aukštadvoris -——4 ners OAstravas SN PADAUGYVENES KAUTYNES
     Bisétonas Cea o ae 1 ORudamina pr = DanušavaO | Vaistamkas 1949 m. sausio 25 d. Smilgių vIsč.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

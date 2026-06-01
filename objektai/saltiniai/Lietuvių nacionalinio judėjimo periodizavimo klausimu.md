@@ -1,25 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvių nacionalinio judėjimo periodizavimo klausimu'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1968 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1968'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Lietuvių nacionalinio judėjimo periodizavimo klausimu
 
@@ -28,18 +21,15 @@ tags:
 ); kiti jo straips­ niai : Lietuvių nacionalinio judėjimo periodizavimo klausimu (Problemos, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Lietuvių nacionalinio judėjimo periodizavimo klausimu“ paskelbta žurnalo „Problemos“ 2 tome 1968 m., 86-97 puslapiuose.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Lietuvių nacionalinio judėjimo periodizavimo klausimu“ paskelbta žurnalo „Problemos“ 2 tome 1968 m., 86-97 puslapiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^123) **_Pravoslavų dvasininkija ir nacionalinė priespauda Lietuvoje XIX a.
@@ -54,10 +44,8 @@ tags:
     kyklos Lietuvoje XIX a. antrojoje pusėje_** **(Pedagogika ir psichologija, t. 9,
     sąs. 2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

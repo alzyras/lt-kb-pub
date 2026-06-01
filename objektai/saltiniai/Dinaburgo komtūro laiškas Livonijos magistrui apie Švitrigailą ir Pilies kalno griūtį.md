@@ -25,13 +25,13 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Mano Petras negalėjo išsiteirauti apie Švitri­ gailos pasišalinimo priežastį: tepasakė man, kad Švitrigaila su gausia kariauna, nemažais paramos pulkais ir dauge­ liu žmonių patraukė.'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: '(Iš originalo Karaliaučiaus Slaptajame Archyve) Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande mit Werdicheit kome desse Breef dorch dach und nacht sun­ der alle sümen B." (Didžiai gerbiamam Livonijos magistrui šis laiškas turi būti tikrai ir nedelsiant.'
+  teiginys: 'Laiškas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Velykų, greičiausiai 1396 m.'
   pagrindžia:
     - c-002
 
@@ -40,12 +40,12 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   pagrindžia:
     - c-003
 
-- t-005
+- t-004
   teiginys: 'Dinaburgo komtūras (parašas) Originalą atitinka: Dr.'
   pagrindžia:
     - c-005
 
-- t-001
+- t-005
   teiginys: 'Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką; kad Pilies kalną Vilniuje ištiko griūtis; kad vienas Vengrijos kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­ nausiąs ir 1.1.'
   pagrindžia:
     - c-001
@@ -65,9 +65,10 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
 - c-002
+  santrauka: 'Laiškas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Velykų, greičiausiai 1396 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rašyta: Liksnoje, antrą savaitę po Viešpaties
@@ -124,7 +125,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -146,4 +147,4 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004

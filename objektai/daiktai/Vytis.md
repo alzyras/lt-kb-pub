@@ -98,7 +98,6 @@ Nenurodyta
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/zodynas/Pokomunistinė erdvė]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]

@@ -17,19 +17,20 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio kūryboje galima rasti tik romantinei istoriografijai būdingų bruožų, o vėliau jo jau stengtasi rašyti pagal naują manierą.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Balinskio kritiką T.'
+- t-002
+  teiginys: 'Mykolo Balinskio kovoje dėl istorijos T. Narbuto veikalas tapo pavyzdžiu, kaip nereikia rašyti istorijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Mykolo Balinskio kovoje dėl istorijos T. Narbuto veikalas tapo pavyzdžiu, kaip nereikia rašyti istorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tyrinėtoja parodo M. Balinskio kritiką T.
@@ -41,7 +42,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -60,4 +61,4 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

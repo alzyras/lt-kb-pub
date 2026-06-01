@@ -19,19 +19,19 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad todėl brolis Hermanas išvykdamas kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mūšis Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė: „Hermanai, aš tave kviečiu į.'
+  teiginys: 'Dusburgietis teigia, kad todėl brolis Hermanas išvykdamas kai kuriems broliams pasakė: „Likite sveiki, nuo šiol manęs nebematysite, nes mergelė dievo gimdytoja mane pasikvietė į amžinąją linksmybę“.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mūšis Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė: „Hermanai, aš tave kviečiu į.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su
@@ -48,9 +48,9 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     85 (82). Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
@@ -64,7 +64,7 @@ Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mū
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

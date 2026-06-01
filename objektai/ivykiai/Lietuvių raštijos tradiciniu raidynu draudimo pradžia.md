@@ -1,9 +1,6 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvių raštijos tradiciniu raidynu draudimo pradžia'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -12,21 +9,15 @@ datos:
   - '1939 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1864'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIX'
+  - 'XXI'
 ---
 # Lietuvių raštijos tradiciniu raidynu draudimo pradžia
 
@@ -35,34 +26,41 @@ tags:
 Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotyniškąjį raidyną pakeisti kirilika žlugo dėl boikoto.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Valdžios mėginimas lietuvių raštijoje tradicinį lotyniškąjį raidyną pakeisti kirilika žlugo dėl boikoto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
@@ -73,15 +71,13 @@ Nenurodyta
     valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios
     brukamas knygas katalikui yra nuodėmė. Todėl jų bemaž niekas ir ne-
     skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-
@@ -101,17 +97,39 @@ Nenurodyta
     lietuviškos spaudos sudarė religinė literatūra ir elementoriai, o į amžiaus
     pabaigą ėmė gausėti mokslo populiarinimo, politinio turinio ir grožinių
     kūrinių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose
+    pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai
+    įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvi-
+    kalbius elementorius, kuriuose būtų ir rusiškų žodžių vertimai į lietuvių
+    kalbą, užrašyti ne tradiciniu šiai kalbai lotyniškuoju raidynu, o rusų rai-
+    dynu – kirilika. Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
+    lotyniškąjį raidyną rusišku raidynu, arba kirilika. 1864 m. M. Muravjovo
+    nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis drau-
+    dimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m.
+    pavasario.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/knygnešystė]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/zodynas/kirilika]]
+- [[objektai/daiktai/Dvikalbiai elementoriai kirilika]]
+- [[objektai/paprociai/Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma]]
+- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

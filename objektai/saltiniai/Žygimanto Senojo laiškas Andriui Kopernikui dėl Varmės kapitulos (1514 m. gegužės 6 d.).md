@@ -30,13 +30,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
+  teiginys: 'Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ten pat dalyvaujant Vilniaus vyskupui di­

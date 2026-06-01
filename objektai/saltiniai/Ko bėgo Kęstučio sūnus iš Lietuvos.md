@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Ko bėgo Kęstučio sūnus iš Lietuvos'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1932 m.'
   - '1933 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1932'
 date_end: '1933'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Ko bėgo Kęstučio sūnus iš Lietuvos
 
@@ -28,18 +22,15 @@ tags:
 (”) Ko bėgo Kęstučio sūnus iš Lietuvos, Židinys, 1932, nr.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Ko bėgo Kęstučio sūnus iš Lietuvos“ buvo paskelbta „Židinyje“ 1932 m. 12 numeryje, p. 449–457.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Ko bėgo Kęstučio sūnus iš Lietuvos“ buvo paskelbta „Židinyje“ 1932 m. 12 numeryje, p. 449–457.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Kučinskas (Kučas), A. : _Kęstutis,_ Marijampolė 1938 (plati
@@ -48,10 +39,8 @@ tags:
     — Šležas, P. : _Kauno pilies išgriovimas,_ Židinys, 1932, nr. 10, 271 ir
     sek. p. — (”) _Ko bėgo Kęstučio sūnus iš Lietuvos,_ Židinys, 1932, nr. 12,
     449-457 p. — (”) _Kęstučio šeima,_ Mūsų Žinynas, 1933, nr. 98-99.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

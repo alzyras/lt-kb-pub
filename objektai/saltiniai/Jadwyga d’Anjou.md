@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Jadwyga d’Anjou'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -24,18 +15,15 @@ tags:
 (”)Jadwyga d’Anjou, LE, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _From, the Union with Hungary to the Union with
@@ -46,10 +34,8 @@ tags:
     LE, t. 9, 244-249 p. — (”) _Lietuvos santykiai su Lenkija,_ LE, t. 15,
     297 p. — M. Jučas : _Nuo Krėvos sutarties iki Liublino unijos,_ Vilnius
     1970.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

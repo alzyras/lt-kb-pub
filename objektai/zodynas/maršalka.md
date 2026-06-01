@@ -1,14 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'maršalka'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - ordinas
@@ -22,70 +18,51 @@ tags:
 Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas. Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka. Jame žuvo patsai ordino kariuomenės vadas — maršalka, trys komtūrai (pilių bei sričių viršininkai) ir daugybė riterių.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
-  teiginys: 'Jame žuvo patsai ordino kariuomenės vadas — maršalka, trys komtūrai (pilių bei sričių viršininkai) ir daugybė riterių.'
+
+- t-002
+  teiginys: 'Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas.'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuojau po mūšio; jam sugriuvus, ant tų pačių pamatų 1835 m. buvo šis pastatytas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Rūdavos mūšio paminklas.
     Žuvusiam maršalkai Schindekopui pamin-
     klinis kryžius buvo pastatytas tuojau po
     mūšio; jam sugriuvus, ant tų pačių pa-
-    matų 1835 m. buvo šis pastatytas.
+    matų 1835 m. buvo šis pastatytas. 1870 m.
+    trečią kartą atnaujintas, jis dabar vėl
+    kitaip atrodo.
+    tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
+    padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
+    pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tikrosios Lietuvos bylas spręsdavo
+    Vilniuje, o gudiškųjų sričių — Naugarduke ir Minske. XVIII
+    amž. jis ėmė rinktis tik Vilniuje ir Gardine.
     Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
     pirmininkas, vadinamas tribunolo maršalka.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Jame žuvo patsai ordino kariuomenės vadas — maršalka, trys komtūrai (pilių bei sričių viršininkai) ir daugybė riterių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jame žuvo patsai ordino kariuo-
-    menės vadas — maršal-
-    ka, trys komtūrai (pilių
-    bei sričių viršininkai) ir
-    daugybė riterių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -100,7 +77,6 @@ tags:
 - [[objektai/daiktai/Armotos]]
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
 - [[objektai/grupes/Bernardinų ordinas]]
-- [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Gedgaudas]]
 - [[objektai/asmenys/Geremferdenas]]
 - [[objektai/asmenys/Hansas Tscheizas]]
@@ -121,11 +97,10 @@ tags:
 - [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Raina Sluščianka]]
+- [[objektai/asmenys/Rumbaudas]]
 - [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]
 - [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
@@ -154,7 +129,6 @@ tags:
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/tenuta laikytojas]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo]]
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]

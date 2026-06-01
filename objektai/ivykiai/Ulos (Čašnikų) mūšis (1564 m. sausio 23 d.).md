@@ -1,43 +1,18 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Ulos mūšis'
-  - 'Čašnikų mūšis'
-  - 'mūšis prie Ulos upės prie Čašnikų'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1564 m. sausio 23 d.; sausio 26 d. (kariuomenės susitikimas)'
 datos:
-  - '1564 m. sausio 23 d.; sausio 26 d. (kariuomenės susitikimas)'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVI'
+  - '1564 m.'
 date_start: '1564'
-date_end: '1564'
-vaidmenys: []
-dalyviai:
-  - 'kunigaikštis Petras Šuiskis'
-  - 'Mykolas Radvila Rudasis'
-  - 'Kristupas Radvila'
-  - 'Grigalius Chodkevičius'
-  - 'Romanas Sanguška'
-  - 'Jonas Chodkevičius'
-  - 'maskvėnai'
-  - 'lietuvių kariuomenė'
-  - 'Ivanas IV'
-  - 'Aleksandras Porozovskis'
-  - 'Ivanas Zacharinas'
-  - 'Fiodoras Paleckis'
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
+amziai:
+  - 'XVI'
 ---
 # Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)
 
@@ -58,35 +33,31 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Ulos mūšyje lietuvių pajėgos smūgį sutelkė prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų priešininkų kariuomenėje kilo sumaištis.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-001
   teiginys: 'Ulos mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   pagrindžia:
     - c-004
     - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Ulos mūšyje lietuvių pajėgos smūgį sutelkė prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų priešininkų kariuomenėje kilo sumaištis.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kariuomenės viena kitą pamatė sau-
@@ -100,15 +71,13 @@ Nenurodyta
     tuvių kariuomenė mūšio išvakarėse įveikė
     apie 25 km atstumą. P. Šuiskis išrikiavo
     savo kariuomenę ir laukė lietuvių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+
 - c-002
-  santrauka: 'Ulos mūšyje lietuvių pajėgos smūgį sutelkė prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų priešininkų kariuomenėje kilo sumaištis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimą pradėjo kelios lietu-
@@ -126,15 +95,13 @@ Nenurodyta
     minė Radvila Rudasis) ir šaulius. Pavykus
     juos išmušti iš pozicijų, priešininkų ka-
     riuomenéje kilo sumaištis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
+
 - c-003
-  santrauka: 'Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. Šuiskis. Trumpai žiemos dienai
@@ -142,15 +109,13 @@ Nenurodyta
     triuškinimas ir bėgančių priešų
     skerdynės. Daug bėgančių rusų pa-
     skendo, bandydami perplaukti Ulos upę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
+
 - c-004
-  santrauka: 'Ulos mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Skaičiuojama,
@@ -167,15 +132,13 @@ Nenurodyta
     kitų artimiausių caro Ivano rv dvariškių.
     Taip pat nemaža kilmingųjų buvo paimta
     į nelaisvę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
+
 - c-005
-  santrauka: 'Ulos mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taip pat nemaža kilmingųjų buvo paimta
@@ -184,13 +147,11 @@ Nenurodyta
     stačiatikių katedroje. Lietuviams atiteko
     daug Maskvos kariuomenės ginklų, šarvų,
     drabužių ir atsargų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

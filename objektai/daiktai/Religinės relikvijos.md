@@ -1,13 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Religinės relikvijos'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
 ---
@@ -18,42 +15,46 @@ tags:
 Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nepaisydami valdžios draudimų į religines manifestacijas suva-
+    Taip Kryžių kalnas (jį 1993 m.
+    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
+    Golgota. Nepaisydami valdžios draudimų į religines manifestacijas suva-
     žiuodavo dešimtys tūkstančių maldininkų. Jie ne tik meldėsi, bendrau-
     davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
     literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

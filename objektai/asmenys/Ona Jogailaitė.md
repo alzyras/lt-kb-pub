@@ -1,36 +1,20 @@
 ---
 tipas: asmuo
-pavadinimas: Ona Jogailaitė
-sukurta: '2026-05-27'
-variantai:
-  - Ona
-  - karalaitė Ona
-  - jos didenybė karalaitė Ona
-aliases:
-  - Ona
-  - karalaitė Ona
-  - jos didenybė karalaitė Ona
+pavadinimas: 'Ona Jogailaitė'
 saltiniai:
-  - Michał Baliński, Vilniaus miesto istorija (2007 m.)
-bukle: juodrastis
-laikotarpis: 1571 m. Žygimanto Augusto testamento kontekstas
-vaidmenys:
-  - karalaitė
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1571 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1571'
 date_end: ''
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalienė
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Ona Jogailaitė
 
@@ -39,11 +23,13 @@ tags:
 Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena iš paveldėtojų ir iki tol neištekėjusi sesuo. Jai skiriamos valdos, piniginės sumos, brangenybės, drabužiai ir praktinės pareigos dėl Šv. Onos bažnyčios, prieglaudos bei laiškų sunaikinimo.
 
 ## Variantai
+
 - Ona
 - karalaitė Ona
 - jos didenybė karalaitė Ona
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1571 m. Žygimanto Augusto testamento kontekstas
 - datos:
   - 1571 m.
@@ -57,64 +43,59 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - date_end: "1571"
 
 ## Vaidmenys
+
 - karalaitė
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) testamente paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) testamente apibūdinta kaip iki tol tebebuvusi neištekėjusi.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-005
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.'
   pagrindžia:
     - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-006
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.'
   pagrindžia:
     - c-005
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-007
   teiginys: 'Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas.'
   pagrindžia:
     - c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-008
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.'
   pagrindžia:
     - c-007
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-009
   teiginys: 'Ona Jogailaitė galėtų netekti tų išmo­ kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.'
   pagrindžia:
     - c-008
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Ona įvardijama kaip karalaitė ir viena iš Žygimanto Augusto seserų paveldėtojų.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
@@ -131,17 +112,14 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     turėjome ir valdėme, turime ir valdome. O už tai jų dideny­
     bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun-
     duotų ir aprūpintų Šv.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prašome jų didenybių rnūsų
@@ -185,16 +163,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     tik papročiu užrašytos, taip pat jų didenybėms mūsų sese­
     rims, aukščiau paminėtoms, kaip jų tikros motinos dalis pri­
     valo atitekti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-003
-  santrauka: 'Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Onos baž­
@@ -207,16 +182,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     kur brangenybės, antras - prie kredenso Tikocine. Visoms
     trims jų didenybėms kad būtų atiduoti, kad juos pasidalin­
     tų, arba, kaip pageidauja, dėl jų susitartų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-004
-  santrauka: 'Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA// TOMAS
@@ -253,16 +225,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     tik viešiems reikalams, ne kitiems norams, ir reikalingam
     bei garbingam galios pagražinimui atiduodame ir paskiria­
     me.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-005
-  santrauka: 'Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad klebonija ir
@@ -277,16 +246,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     sų valią įgyvendinti stengtųsi, ypač kad toji Šv. Onos bažnyčia
     būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­
     noti ir aprūpinti būtų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-006
+
 - c-006
-  santrauka: 'Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
@@ -310,16 +276,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     me, kad tame rastų savo skriaudos ir našlaitystės paguodą,
     ir iš to ji turės atiduoti dalį jos didenybei karalaitei Kotry-
     ----• -----
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-007
+
 - c-007
-  santrauka: 'Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -341,16 +304,13 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     jų skaityti nedrįstų, nes tai visuomet buvo ir yra negarbin­
     gas dalykas svetimus laiškus skaityti be sutikimo to, kieno
     jie yra ir kam priklauso, aiškinantis svetimas paslaptis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-008
+
 - c-008
-  santrauka: 'Ona Jogailaitė galėtų netekti tų išmo­ kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat tikėjimu ir garbe prisaikdina­
@@ -384,9 +344,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
     ro tarnams, kurie neturi jokio aprūpinimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-009
 

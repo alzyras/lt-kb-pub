@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'tautos frontas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - sąvoka
@@ -20,28 +17,29 @@ tags:
 O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietuvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, kėlusi tautą visuotiniais, universaliais, pavergtai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sąjūdis buvo tautos frontas, suvienijęs plačius ir įvairių pažiūrų Lietuvos visuomenės sluoksnius.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sąjūdis buvo tautos frontas, suvienijęs plačius ir įvairių pažiūrų Lietuvos visuomenės sluoksnius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
+    LLL buvo paskutinė rezistencijos organizacija, kuri brežnevi-
+    nės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią. So-
+    vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
+    ji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo
+    organizacija. O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
     nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
     vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
     kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
     vės, demokratijos, nepriklausomybės idealais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

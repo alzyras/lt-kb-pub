@@ -1,21 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Tacitas (romėnų rašytojas, I amžiaus gale)'
-sukurta: '2026-04-24'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: 'I amžiaus gale'
-datos:
-  - 'I amžiaus gale'
-vaidmenys:
-  - 'romėnų rašytojas'
-  - 'istorikas'
-patikimumas: 'aukštas'
-variantai:
-  - 'Tacitas'
-aliases:
-  - 'Tacitas'
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
@@ -27,24 +16,24 @@ tags:
 Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam priskiriami darbai „Germania“.
 
 ## Darbai
+
 - „Germania“
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tacitas I amžiaus gale veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tacitas I amžiaus gale veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
@@ -53,15 +42,13 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
     gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
     pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
     žiaus čia bus gyvenę tie patys aisčiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmas, kurs duoda plates-
@@ -70,11 +57,9 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
     kurios yra anapus germanų, jis paskiria vieną skyrelį ir aisčiams.
     Ten jis trumpai aprašo aisčių gyvenimą, tikybą, būtinai pami-
     nėdamas ir jų gintarą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

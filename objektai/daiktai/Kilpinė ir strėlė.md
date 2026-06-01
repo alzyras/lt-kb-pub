@@ -46,13 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '„Tad tenai Gedimi­ nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­ kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina, medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­ nės pašovė didžiulį taurą ir pribaigė jį ant to kalno.'
+  teiginys: 'Pasakojama, kad Gediminas medžiodamas strėle iš kilpinės pašovė didžiulį taurą ir pribaigė jį ant Tauro kalnu vadinto kalno.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Pasakojama, kad Gediminas medžiodamas strėle iš kilpinės pašovė didžiulį taurą ir pribaigė jį ant Tauro kalnu vadinto kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -87,4 +88,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Šventaragis]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]

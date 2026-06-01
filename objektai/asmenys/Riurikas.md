@@ -18,13 +18,14 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 ## Teiginiai
 
 - t-001
-  teiginys: 'Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", yra kaip tik tas, kuris, viena vertus, atbloškė Riuriką ir jo variagus į Rusiją, kita ver­ tus, galbūt tariamąjį Palemoną su draugais - į Lietuvą.'
+  teiginys: 'Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors ir patogio­

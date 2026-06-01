@@ -26,60 +26,29 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo.'
+  pagrindžia:
+    - c-004
+
+- t-002
+  teiginys: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'
+- t-003
+  teiginys: '1863–1864 metų sukilimas 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
   pagrindžia:
     - c-001
 
 - t-004
-  teiginys: '1863–1864 metų sukilimas 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
-  pagrindžia:
-    - c-004
-
-- t-003
   teiginys: '1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
-    sios Vakarų valstybės – Krymo karo nugalėtojos.
-    1863–1864 metų sukilimas
-    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
-    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
-    dar nebuvo pasiruošta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-004
-
 - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pastaroji oficialiai vadinta
-    Lenkijos karalyste ir formaliu politiniu administraciniu požiūriu nebu-
-    vo laikoma „organine“ Rusijos imperijos dalimi. Nors didžiosios etninės
-    Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios
-    tautos formavimasis vyko ta pačia kryptimi.
-    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
-    padėties iš esmės nepakeitė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
@@ -97,6 +66,37 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pastaroji oficialiai vadinta
+    Lenkijos karalyste ir formaliu politiniu administraciniu požiūriu nebu-
+    vo laikoma „organine“ Rusijos imperijos dalimi. Nors didžiosios etninės
+    Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios
+    tautos formavimasis vyko ta pačia kryptimi.
+    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
+    padėties iš esmės nepakeitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Baltieji“ vylėsi, kad, kilus sukilimui, Rusiją paspaus didžio-
+    sios Vakarų valstybės – Krymo karo nugalėtojos.
+    1863–1864 metų sukilimas
+    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
+    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
+    dar nebuvo pasiruošta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
     Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
     sosto ir perduodąs suverenitetą tautai. Tai reiškė Lenkijos karalystės ne-
     priklausomybės paskelbimą ir karo su Rusija pradžią. Lietuvoje sukilimas
@@ -106,7 +106,7 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-005
   santrauka: 'Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).'

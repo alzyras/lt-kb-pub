@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Nogajaus orda'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1505 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1505'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XVI'
 ---
 # Nogajaus orda
 
@@ -30,35 +24,15 @@ tags:
 Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­ niaus pilyje tuomet kildavęs didelis sujudimas. Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­ niaus pilyje tuomet kildavęs didelis sujudimas.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
   pagrindžia:
-    - c-002
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­ niaus pilyje tuomet kildavęs didelis sujudimas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jis buvo atgaben­
-    tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas
-    gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­
-    vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
-    niaus pilyje tuomet kildavęs didelis sujudimas. Totorių ant­
-    puoliai darėsi tokie akivaizdūs, jog net Vilniui galėjo grėsti
-    pavojus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad tais metais bu­
@@ -78,16 +52,12 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
     kuriavo karaliaus45.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Elena]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Krymo orda]]
-- [[objektai/grupes/Maskvos bojarinai]]
 - [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]

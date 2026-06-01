@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos Statutas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karalius
@@ -21,76 +18,56 @@ tags:
 Į jį buvo įtraukti ir senieji nuostatai, kad Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Visa tai buvo patvirtinta naujai perredaguotoje ant- rojoje statuto laidoje. Seime, derybų pradžioje, lietuviai rėmėsi savo naujuoju statutu, kuriuo karalius pasižadėjo išsaugoti Lietuvos sienų neliečiamybę, šaukti jos seimus ir neduoti jokiems svetimšaliams urėdų Lietuvoje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Į jį buvo įtraukti ir senieji nuostatai, kad Lietuvos urėdais negalį būti skiriami jokie svetimšaliai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
-  teiginys: 'Visa tai buvo patvirtinta naujai perredaguotoje ant- rojoje statuto laidoje.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
-  teiginys: 'Seime, derybų pradžioje, lietuviai rėmėsi savo naujuoju statutu, kuriuo karalius pasižadėjo išsaugoti Lietuvos sienų neliečiamybę, šaukti jos seimus ir neduoti jokiems svetimšaliams urėdų Lietuvoje.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-004
   teiginys: 'aug kartų reika- lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų bandymui gauti vietą Lietuvoje.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-005
-  teiginys: 'Savo statuto antrąja laida buvo nebepatenkinti ir patys lietuviai, — apie jo pataisymą jau buvo kalbama ir ankstyvesniuose Lietuvos seimuose, — todėl dėl paties statuto pataisymo klausimo lietuviai nė nesispyrė.'
-  pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-006
+
+- t-002
   teiginys: 'Kai 1522 m. bajorija pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas sutiko patvirtinti numatytą ruošti statutą, kuris turėjo ap- imti visas krašto teises.'
   pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-003
+
+- t-003
+  teiginys: 'Visa tai buvo patvirtinta naujai perredaguotoje ant- rojoje statuto laidoje.'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Seime, derybų pradžioje, lietuviai rėmėsi savo naujuoju statutu, kuriuo karalius pasižadėjo išsaugoti Lietuvos sienų neliečiamybę, šaukti jos seimus ir neduoti jokiems svetimšaliams urėdų Lietuvoje.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Į jį buvo įtraukti ir senieji nuostatai, kad Lietuvos urėdais negalį būti skiriami jokie svetimšaliai.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Į jį buvo įtraukti ir senieji nuostatai, kad Lietuvos urėdais negalį būti skiriami jokie svetimšaliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Į jį buvo įtraukti ir senieji nuostatai, kad
+    Vi-
+    sas statutas buvo taip sutvarkytas, kad rodė Lietuvą esant vi-
+    siškai savarankišką valstybę; apie ryšį su Lenkija jame ne-
+    buvo nė žodžio. Į jį buvo įtraukti ir senieji nuostatai, kad
     Lietuvos urėdais negalį būti skiriami jokie svetimšaliai. Len-
     kams tas kaip tik labiausiai nepatiko, ir jie norėjo įrodyti, kad
     pagal senuosius aktus jie negalį būti laikomi svetimšaliais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
+
 - c-002
-  santrauka: 'Visa tai buvo patvirtinta naujai perredaguotoje ant- rojoje statuto laidoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visa tai buvo patvirtinta naujai perredaguotoje ant-
-    rojoje statuto laidoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Seime, derybų pradžioje, lietuviai rėmėsi savo naujuoju statutu, kuriuo karalius pasižadėjo išsaugoti Lietuvos sienų neliečiamybę, šaukti jos seimus ir neduoti jokiems svetimšaliams urėdų Lietuvoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
+    Rad-
+    vila Rudasis (Juodasis jau buvo miręs 1565 m.), Žemaičių seniūnas
+    Jonas Jeronimas Katkevičius ir vicekancleris Eustachijas Valavičius.
     Seime, derybų pradžioje, lietuviai rėmėsi savo naujuoju statutu,
     kuriuo karalius pasižadėjo išsaugoti Lietuvos sienų neliečiamybę,
     šaukti jos seimus ir neduoti jokiems svetimšaliams urėdų Lietuvoje.
@@ -98,51 +75,15 @@ tags:
     privilegijomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'aug kartų reika- lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų bandymui gauti vietą Lietuvoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    aug kartų reika-
-    lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet
-    lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų
-    bandymui gauti vietą Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Savo statuto antrąja laida buvo nebepatenkinti ir patys lietuviai, — apie jo pataisymą jau buvo kalbama ir ankstyvesniuose Lietuvos seimuose, — todėl dėl paties statuto pataisymo klausimo lietuviai nė nesispyrė.'
+
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Savo statuto antrąja laida buvo nebepatenkinti
-    ir patys lietuviai, — apie jo pataisymą jau buvo kalbama ir
-    ankstyvesniuose Lietuvos seimuose, — todėl dėl paties statuto
-    pataisymo klausimo lietuviai nė nesispyrė. Statutui pataisyti buvo
-    sudaryta speciali komisija. Vėliau ji buvo pakeista kita komi-
-    sija, tačiau 1588 m. paruošta trečioji statuto laida vis dėlto
-    nepanaikino lenkams nepatikusių nuostatų. Tiesa, 1588 m. jiems
-    buvo leista įsigyti Lietuvoje dvarų, betgi jiems niekad nebuvo
-    leista gauti Lietuvoje urėdų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Kai 1522 m. bajorija pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas sutiko patvirtinti numatytą ruošti statutą, kuris turėjo ap- imti visas krašto teises.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1522 m. bajorija pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas
+    Kai 1522 m. bajorija
+    pažadėjo jį išrinkti didžiuoju Lietuvos kunigaikščiu, jo tėvas
     sutiko patvirtinti numatytą ruošti statutą, kuris turėjo ap-
     imti visas krašto teises. Alberto Goštauto vadovau-
     jamas, tas darbas iki 1529 m. buvo baigtas, ir Zigmantas II,
@@ -152,8 +93,36 @@ tags:
     buvo nė žodžio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Žodžiu, ji visą laiką kovojo,
+    kad Lietuva gautų tokią pat reikšmę jungtinėje valstybėje, ko-
+    kią turėjo Lenkija. Lenkai į jokias valstybines vietas Lietuvoje
+    nebuvo įsileidžiami. Nors, kaip minėta, jie daug kartų reika-
+    lavo jiems priešingus Lietuvos Statuto nuostatus panaikinti, bet
+    lietuviai to nepadarė ir karščiausiai priešinosi kiekvienam lenkų
+    bandymui gauti vietą Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    valdyme. Visa tai buvo patvirtinta naujai perredaguotoje ant-
+    rojoje statuto laidoje.
+    Po šitų reformų Lietuvos valstybės aparatas pasidarė jau
+    toks pat, koks jis buvo ir Lenkijoje, ir Lietuvos bajorijos tei-
+    sės buvo visiškai sulygintos su Lenkijos bajorų teisėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

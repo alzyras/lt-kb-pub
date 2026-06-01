@@ -1,27 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kazimieras Jogailaitis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1441 m.'
   - '1492 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1441'
 date_end: '1492'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - valdovas
   - vyskupas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Kazimieras Jogailaitis
 
@@ -30,185 +27,65 @@ tags:
 Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.).'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Kazimiero karaliavimas Lenkijoje ir jo santykiai su.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Kazimiero — Zigmanto Augusto laikai.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Bet kadangi, pradedant Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogailos palikuonys, tai Kazimiero šeima jautėsi turinti sosto paveldėjamųjų teisių.'
+  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
   pagrindžia:
     - c-006
-- t-007
+
+- t-002
+  teiginys: 'Kazimiero karaliavimas Lenkijoje ir jo santykiai su.'
+  pagrindžia:
+    - c-011
+
+- t-003
+  teiginys: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
+  pagrindžia:
+    - c-009
+
+- t-004
+  teiginys: 'Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.'
+  pagrindžia:
+    - c-008
+
+- t-005
   teiginys: 'Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė Lenkų karaliui Kazimierui.'
   pagrindžia:
-    - c-007
+    - c-010
+
+- t-006
+  teiginys: 'Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.'
+  pagrindžia:
+    - c-002
+
+- t-007
+  teiginys: 'Kadangi pilietinis karas po Vytauto Didžiojo mir­ ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę be gyventojų miestą, beveik galutinai sugriovę Magdebur­ go teisių galią, todėl Kazimieras.'
+  pagrindžia:
+    - c-001
+
 - t-008
   teiginys: 'Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris.'
   pagrindžia:
-    - c-008
+    - c-007
+
 - t-009
-  teiginys: '223 ## Puslapis 240 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­ tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­ gaikštystę valdyti per vietininką.'
+  teiginys: 'Bet kadangi, pradedant Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogailos palikuonys, tai Kazimiero šeima jautėsi turinti sosto paveldėjamųjų teisių.'
   pagrindžia:
-    - c-009
+    - c-004
+
 - t-010
-  teiginys: 'Kadangi pilietinis karas po Vytauto Didžiojo mir­ ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę be gyventojų miestą, beveik galutinai sugriovę Magdebur­ go teisių galią, todėl Kazimieras.'
+  teiginys: 'Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.).'
   pagrindžia:
-    - c-010
+    - c-003
+
 - t-011
-  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
+  teiginys: 'Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje.'
   pagrindžia:
-    - c-011
-- t-012
-  teiginys: 'Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.'
-  pagrindžia:
-    - c-012
+    - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kazimiero karaliavimas Lenkijoje ir jo santykiai su.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Kazimiero — Zigmanto Augusto laikai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **XIV. Kazimiero — Zigmanto Augusto laikai.** _Fr. Papće,_ Polska i Litwa
-      na przełomie średnich wieków (1904); — Studya i szkice z czasów Kazi-
-      mierza Jagiellończyka (1907); _F. Koneczny,_ Litwa a Moskwa w latach 1449—
-      1492 (1929); _W. Bialowiejśka,_ Stosunki Litwy z Moskwą 1492—1499 (At.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Bet kadangi, pradedant Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogailos palikuonys, tai Kazimiero šeima jautėsi turinti sosto paveldėjamųjų teisių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet kadangi, pradedant
-      Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
-      los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
-      dėjamųjų teisių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė Lenkų karaliui Kazimierui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
-      valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
-      Lenkų karaliui Kazimierui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs, bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: '223 ## Puslapis 240 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­ tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­ gaikštystę valdyti per vietininką.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    tas pats Žy­
-    gimantas Vilniaus kapitulai padova­
-    nojo Vainelgų dvarą.
-    223
-
-    ## Puslapis 240
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
-    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
-    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
-    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Kadangi pilietinis karas po Vytauto Didžiojo mir­ ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę be gyventojų miestą, beveik galutinai sugriovę Magdebur­ go teisių galią, todėl Kazimieras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
@@ -226,36 +103,19 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     dien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­
     vilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­
     29
-    Žr.
+    Žr. Il priede išsamią žinią apie Lie- je, kur aiškiai pasakyta: ius Teutoni-
+    tuvos didžiųjų kunigaikščių me- cum quod Magdeburiense dicitur denuo
+    džioklės namus Rūdninkuose. darnus (teutoniškąją teisę, kuri vadi-
+    30 narna Magdeburgo, naujai duoda-
+    Ši svarbi privilegija yra Vilniaus rne).
+    miesto teisių D n b i n s k i o rinkinv-
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar būdamas
-    didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
-    do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­
-    je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
-    Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
-    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
-    Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
-    globoje, gerokai praplėtė prekybinius šio turtingo miesto
-    santykius su Lietuvos sostinė33.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.'
+    - t-007
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau jo pamaldumą pripažino
@@ -272,11 +132,162 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     al fresco ant kairės Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-006
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jogaila 174
+    B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
+    laikotarpis
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
+    1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
+    2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Krašto valdymo aparatas iki XVI amž. antrosios pusės**
+        **Didysis kunigaikštis ir jo valdžia.** Po Vytauto mirties Lie-
+    tuvos valdovai visada būdavo renkami. Bet kadangi, pradedant
+
+
+    Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
+    los palikuonys, tai Kazimiero šeima jautėsi turinti sosto pavel-
+    dėjamųjų teisių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų
+    sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.
+    Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje. Bet
+    kai jis nuvyko į Lenkiją, lenkai pareikalavo sau tų žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dar būdamas
+    didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
+    do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­
+    je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
+    Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
+    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
+    Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
+    globoje, gerokai praplėtė prekybinius šio turtingo miesto
+    santykius su Lietuvos sostinė33.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kazimieras mirė 65 m. amžiaus, palikęs gausingą šeimą.
+    Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs,
+    bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bažnyčios suvažiavimas Bazely ir bažnytinės unijos
+    klausimas 172
+    4. Zigmanto santykiai su Lenkija ir jo mirtis 173
+    5. Jogaila 174
+    B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
+    laikotarpis
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
+    1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-009
+  santrauka: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Garbingosios
+    Mergelės Marijos gimimo dieną
+    (rugsėjo 8), dalyvaujant Jo Dideny­
+    bei ir pritariantiems: Vilniaus kašte­
+    lionui Aštikui, Vilniaus vaivadai
+    Daugirdui, Trakų vaivadai Le-
+    liušiul, Kęsgailai iš Deltuvos, Petraš­
+    kai Montgirdaičiui, Chodkai Jurge-
+    ovičiui, Ivaškai Goštautaičiui,
+    Olechnai Davainaičiui ir kilminga­
+    jam mūsų rūmų raštininkui, kuriam
+    dabartinis reikalas buvo patikėtas"
+    ir t. t. Panašiai 1436 m. tas pats Žy­
+    gimantas Vilniaus kapitulai padova­
+    nojo Vainelgų dvarą.
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-010
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Ordino galas.** Po Tanenbergo mūšio ordinas pradėjo nykti.
+    Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
+    valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
+    Lenkų karaliui Kazimierui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-011
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Žemaičių kunigaikštystės privilegija 179
+    3. Kazimiero išrinkimas Lenkų kar. ir 1447 m. privilegija 180
+    4. Kazimiero karaliavimas Lenkijoje ir jo santykiai su
+        Lietuva 181
+    5.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -296,6 +307,5 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/zodynas/prekymečiai ir turgūs]]

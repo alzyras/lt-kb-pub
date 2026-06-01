@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Altrandštatas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,16 +15,15 @@ tags:
 Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karolis XII
@@ -37,10 +33,8 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

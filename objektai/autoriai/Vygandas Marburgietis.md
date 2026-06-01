@@ -1,35 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'Vygandas Marburgietis'
-variantai:
-  - 'Marburgietis V.'
-  - 'Naujosios Prūsijos kronika'
-  - 'V. Marburgietis'
-  - 'Vygando Marburgiečio'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: ''
-vaidmenys:
-  - 'kronikininkas'
-  - 'autorius'
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1345 m.'
   - '1398 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1345'
 date_end: '1398'
-patikimumas: 'aukštas'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vygandas Marburgietis
 
@@ -43,105 +30,77 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - Naujoji Prūsijos kronika
 
 ## Teiginiai
-- t-003
-  teiginys: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
-  pagrindžia:
-    - c-001
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
-  pagrindžia:
-    - c-002
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: '“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja „Ir iškilo [Ordino.'
   pagrindžia:
     - c-004
-- t-006
+
+- t-002
+  teiginys: 'Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.'
+  pagrindžia:
+    - c-013
+
+- t-003
   teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį.'
   pagrindžia:
     - c-005
-- t-007
+
+- t-004
+  teiginys: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
+  pagrindžia:
+    - c-014
+
+- t-005
+  teiginys: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
+  pagrindžia:
+    - c-003
+    - c-001
+
+- t-006
   teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.'
   pagrindžia:
     - c-006
-- t-008
-  teiginys: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
-  pagrindžia:
-    - c-007
-- t-009
-  teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.'
-  pagrindžia:
-    - c-008
-- t-010
+
+- t-007
   teiginys: 'Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose.'
   pagrindžia:
-    - c-009
-- t-012
-  teiginys: 'darė daug graudaus.“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja.'
-  pagrindžia:
-    - c-011
-- t-013
+    - c-007
+
+- t-008
   teiginys: 'STRĖVOS MUSIS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m. Strėvos mūšį.'
   pagrindžia:
-    - c-012
-- t-014
+    - c-008
+
+- t-009
   teiginys: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
   pagrindžia:
-    - c-013
-- t-015
+    - c-011
+
+- t-010
+  teiginys: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
+  pagrindžia:
+    - c-010
+
+- t-011
+  teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.'
+  pagrindžia:
+    - c-012
+
+- t-012
   teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
   pagrindžia:
-    - c-014
-- t-016
-  teiginys: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
+    - c-009
+
+- t-013
+  teiginys: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
   pagrindžia:
-    - c-015
-- t-017
-  teiginys: 'p. 130, lie­ tuvių patirtų nuostolių iki 14 000 žmonių padaugina; oVygandas, žr.'
-  pagrindžia:
-    - c-016
+    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
-    karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
-    pats užpulti priešo teritoriją, jį dezinformuoja
-    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
-    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
-    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
-    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m.
-    Strėvos mūšį.
-    „[1348 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-004
-- c-003
-  santrauka: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Nau-
@@ -153,34 +112,61 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     į pilį. Stabmeldžiai, tatai suprasdami, iškiša
     iš mūro sijas, kad esąs pakeliamas tiltas
     liktų laisvas naudotis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: '“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja „Ir iškilo [Ordino.'
+    - t-005
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    “
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
+    karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
+    pats užpulti priešo teritoriją, jį dezinformuoja
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
+    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m.
+    Strėvos mūšį.
+    „[1348 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
+    - t-005
+
+- c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    darė daug graudaus.“
 
     „KLASTINGA STABMELDĖ“
 
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
     karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
     pats užpulti priešo teritoriją, jį dezinformuoja
-    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę.
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
 - c-005
-  santrauka: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     STRĖVOS MUSIS
@@ -190,13 +176,11 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     „[1348 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
 - c-006
-  santrauka: 'Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     PILIES ŠTURMAS
@@ -212,93 +196,34 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     liktų laisvas naudotis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
+
 - c-007
-  santrauka: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Vygandas ir
-    Lindenblattas, kronikininkai,
-    ją taip pat vadina - Nerga, Nerge, Ne-
-    rye ir Neria. Jau 1398 metais, po
-    krikščionių tikėjimo Vilniuje priėmi­
-    mo, Vilija taip buvo vadinama.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-008
-  santrauka: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    37
-    Vygandas  savo kronikoje, p. 298,
-    apud V o i g t, V, 372, aprašinėda­
-    mas Kęstučio laidotuves Vilniuje,
-    kur kartu su palaikais buvo sudegin­
-    ti jo rūbai, ginklai, žirgai, medžiok­
-    liniai šunys ir paukščiai, prietarin­
-    gai priduria, kad to deginimo metu
-    stebuklingu būdu žemėje atsivėrusi
-    tokio gylio kiaurymė, jog vienas
-    žmogus galėjęs tilpti, ir įtraukė Kęs­
-    tučio pelenus, ką regėjusi daugybė
-    žmonių. Et duxit (Skirgajłło) eum (Kej-
-    stuta) in Wiliam ubi in cinerem est re­
-    dactus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-009
-  santrauka: 'Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Apie jo priėmimą popiežiaus
+    T. IV, p. 1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je. Apie jo priėmimą popiežiaus
     rūmuose pasakoja Vygandas
     M a r b u r g a s, p. 279; Adiit papam,
     u quo honorifice et amicabiliter suscep­
     tus est [Atvyko pas popiežių, kurio
     buvo pagarbiai ir draugiškai priim­
-    tas]. Žr.
+    tas]. Žr. Kryžiuočių ordino Kroniką,
+    pateiktą M a t h e s s, p. 771.
+    z
+    Tokius skundo punktus randame
+    įdėtus R a y n a 1  d, an.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'darė daug graudaus.“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    darė daug graudaus.“
+    - t-007
 
-    „KLASTINGA STABMELDĖ“
-
-    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
-    karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
-    pats užpulti priešo teritoriją, jį dezinformuoja
-    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-012
-  santrauka: 'STRĖVOS MUSIS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m. Strėvos mūšį.'
+- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau nea-
@@ -312,36 +237,18 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     Strėvos mūšį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-013
-  santrauka: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
+    - t-008
+
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Upė Nerige, dažnai minima senovi­
-    niame Lietuvos kelių aprašyme,
-    esančiame Kryžiuočių archyve, yra
-    dabartinė Vilija. Vygandas ir
-    Lindenblattas, kronikininkai,
-    ją taip pat vadina - Nerga, Nerge, Ne-
-    rye ir Neria. Jau 1398 metais, po
-    krikščionių tikėjimo Vilniuje priėmi­
-    mo, Vilija taip buvo vadinama.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
-- c-014
-  santrauka: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau ir tai negalėjo pasotinti go­
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
     duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
     36
     Klausimas, ar Kęstutis pats pasirin­
@@ -366,15 +273,102 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     žmonių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-015
-  santrauka: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
+    - t-012
+
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija. Vygandas ir
+    Lindenblattas, kronikininkai,
+    ją taip pat vadina - Nerga, Nerge, Ne-
+    rye ir Neria. Jau 1398 metais, po
+    krikščionių tikėjimo Vilniuje priėmi­
+    mo, Vilija taip buvo vadinama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-011
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija. Vygandas ir
+    Lindenblattas, kronikininkai,
+    ją taip pat vadina - Nerga, Nerge, Ne-
+    rye ir Neria. Jau 1398 metais, po
+    krikščionių tikėjimo Vilniuje priėmi­
+    mo, Vilija taip buvo vadinama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-012
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p. 298,
+    apud V o i g t, V, 372, aprašinėda­
+    mas Kęstučio laidotuves Vilniuje,
+    kur kartu su palaikais buvo sudegin­
+    ti jo rūbai, ginklai, žirgai, medžiok­
+    liniai šunys ir paukščiai, prietarin­
+    gai priduria, kad to deginimo metu
+    stebuklingu būdu žemėje atsivėrusi
+    tokio gylio kiaurymė, jog vienas
+    žmogus galėjęs tilpti, ir įtraukė Kęs­
+    tučio pelenus, ką regėjusi daugybė
+    žmonių. Et duxit (Skirgajłło) eum (Kej-
+    stuta) in Wiliam ubi in cinerem est re­
+    dactus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-013
+  santrauka: 'Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    darė daug graudaus.“
+
+    „KLASTINGA STABMELDĖ“
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
+    karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
+    pats užpulti priešo teritoriją, jį dezinformuoja
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-014
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Diplom. T. IV, p. 1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
     rugpjūčiui įpusėjus, buvo Vokietijo­
     je. Apie jo priėmimą popiežiaus
     rūmuose pasakoja Vygandas
@@ -385,32 +379,9 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     tas].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-016
-  santrauka: 'p. 130, lie­ tuvių patirtų nuostolių iki 14 000 žmonių padaugina; oVygandas, žr.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    "
-    36
-    Długosz Histor. Polon. p. 130, lie­
-    tuvių patirtų nuostolių iki 14 000
-    žmonių padaugina; oVygandas,
-    žr. V o i g t, V, p. 548, nurodo tik
-    7000. Captivati et occisi sunt ultra 7 000,
-    pro majori parte paganorum [paimta į
-    nelaisvę ir nužudyta per 7 000, dau­
-    giausia pagonių].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -422,6 +393,5 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - [[objektai/daiktai/Pakeliamas tiltas]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
 - [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]

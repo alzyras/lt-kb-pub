@@ -20,23 +20,23 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '— • - 152 ## Puslapis 169 Il KNYGA Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­ burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­ mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­ mo žmonės; pagaliau Vilniaus, pralobusio per.'
-  pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: 'Miestiečių luomas, dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­ liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­ menyje neteko tokio globėjo, kokiu paskui netapo nė vienas iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš.'
+  teiginys: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.'
   pagrindžia:
     - c-003
 
 - t-002
+  teiginys: 'Miestiečių luomas, dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­ liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­ menyje neteko tokio globėjo, kokiu paskui netapo nė vienas iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš.'
+  pagrindžia:
+    - c-001
+
+- t-003
   teiginys: 'Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jau tokia būna geni­
@@ -59,7 +59,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -86,9 +86,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-003
+  santrauka: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar tik kai
@@ -125,7 +126,9 @@ tags:
 - [[objektai/asmenys/Jeronimas Opachovskis]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
 - [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
 - [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo laisvės ir municipalinių reikalų tvarkymas]]

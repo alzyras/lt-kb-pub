@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Geležinis vilkas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - grupe
@@ -20,28 +17,30 @@ tags:
 Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri laikė A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'A. Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tylusis kombinacijų meistras
+    Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+    Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
+    ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
+    riai atsisakė tapti užsienio reikalų ministru. Tylusis kombinacijų meistras
     A. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-
     versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
     ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
     laikė A. Voldemarą savo vadu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -49,6 +48,7 @@ Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tauti
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/in corpore]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Gediminaičių dinastija]]

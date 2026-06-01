@@ -1,26 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: '„lietuvių imperatoriumi“ `vasilea Letvon`'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1371 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1371'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - posakis
   - valdovas
+amziai:
+  - 'XIV'
 ---
 # „lietuvių imperatoriumi“ `vasilea Letvon`
 
@@ -29,39 +23,26 @@ tags:
 Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietuvių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau būtent šių žygių į Maskvą metu
-    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietu-
-    vių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos,
-    Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –
-    Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
-    politinėje sistemoje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+
+- t-002
+  teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taip liko neįgyvendintos Algirdo išsa-
+    Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“. Tačiau būtent šių žygių į Maskvą metu
     1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietu-
@@ -71,11 +52,29 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
     politinėje sistemoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
+    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“. Tačiau būtent šių žygių į Maskvą metu
+    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietu-
+    vių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos,
+    Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –
+    Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
+    politinėje sistemoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

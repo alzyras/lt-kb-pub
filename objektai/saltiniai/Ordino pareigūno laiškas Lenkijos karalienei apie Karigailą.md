@@ -26,13 +26,14 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) Lenki­ jos karalienei 1391 metų pradžioje, kuriame taip pasakyta: „Iš jūsų laiš­ ko mums aišku, kad Jūsų Karališko­ sios Didenybės vadai, kurie dalyva­ vo įvykiuose prie Vilniaus.'
+  teiginys: 'Ordino pareigūno laiške Lenkijos karalienei teigta, kad Karigaila buvo kareivių neatpažintas ir nukautas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ordino pareigūno laiške Lenkijos karalienei teigta, kad Karigaila buvo kareivių neatpažintas ir nukautas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gynėjai iškėlė vėliavas su kryžiais, kaip

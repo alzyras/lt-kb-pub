@@ -1,13 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Aleksandro pinigai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - pinigai
@@ -34,22 +31,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai nebebuvo kalami, todėl buvo vartojami svetimi pinigai.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Aleksandro pinigams priskirti pinigėlis, pusskatikis ir skatikas, o nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai nebebuvo kalami, todėl buvo vartojami svetimi pinigai.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai nebebuvo kalami, todėl buvo vartojami svetimi pinigai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaributo
@@ -57,28 +52,24 @@ Nenurodyta
     iš savo kunigaikštijų).
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Aleksandro pinigams priskirti pinigėlis, pusskatikis ir skatikas, o nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

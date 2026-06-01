@@ -30,18 +30,19 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
+  teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: '374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.'
+  teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 390
@@ -78,6 +79,7 @@ Nenurodyta
     - t-001
 
 - c-002
+  santrauka: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1514.
@@ -117,5 +119,4 @@ Nenurodyta
 - [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Žygimantas Senasis]]

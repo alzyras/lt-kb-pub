@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Pirmasis pilietybės įstatymas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pinigai
   - saltinis
@@ -20,18 +17,15 @@ tags:
 Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žemė, valdoma rusų vyriausybės įkurdintų Lietuvoj kolonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasižada grąžinti kolonistams pinigus, kiek jie patys už tą žemę yra.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmasis pilietybės įstatymas numatė iš rusų valdžios įkurdintų kolonistų atimti jų valdytą žemę ir grąžinti ją Lietuvos valstybei.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Pirmasis pilietybės įstatymas numatė iš rusų valdžios įkurdintų kolonistų atimti jų valdytą žemę ir grąžinti ją Lietuvos valstybei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toliau vyriausybė paskelbė, kad majoratų žemės (t.y.
@@ -50,10 +44,8 @@ Pirmasis pilietybės įstatymas taip pat įterpė vieną straipsnį, kuriuo žem
     lonistų, iš jų atimama ir grąžinama Lietuvos valstybei, o ši pasi-
     žada grąžinti kolonistams pinigus, kiek jie patys už tą žemę
     yra sumokėję.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

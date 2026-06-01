@@ -28,16 +28,16 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 - t-001
   teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
@@ -54,7 +54,7 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     neįvardyta. Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė

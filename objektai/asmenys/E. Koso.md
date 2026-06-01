@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'E. Koso'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas, vadovaujamas pulkininko E. Koso, ir 2-asis (lietuvių) pėstininkų pulkas, vadovaujamas plk. S. Radziševskio. Pulkas buvo tik prieš 5 dienas suformuotas ir kariai jaudinosi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pulkininkas E. Koso vadovavo 7-ajam lenkų pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pulkininkas E. Koso vadovavo 7-ajam lenkų pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusų gynybos centrinius įtvirtinimus
@@ -43,11 +33,9 @@ Rusų gynybos centrinius įtvirtinimus atakavo 7-asis lenkų pėstininkų pulkas
     jamas plk. S. Radziševskio. Pulkas buvo
     tik prieš 5 dienas suformuotas ir kariai
     jaudinosi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

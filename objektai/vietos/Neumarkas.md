@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Neumarkas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1316 m.'
   - '1382 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1316'
 date_end: '1382'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - valstybė
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Neumarkas
 
@@ -30,16 +24,15 @@ tags:
 Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ekonomiškai klestinti vokiečių ordino valstybė, kurios valdos tęsėsi nuo Neumarko iki Narvos (išskyrus Žemaičių kylį), jau buvo praleidusi laiką lietuviams įveikti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pats didysis
@@ -51,10 +44,8 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
     amžius, 66-rių metų laikotarpis nuo Gedimino iki jo sūnaus Kęstu­
     čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
     geriausio jo žydėjimo metais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

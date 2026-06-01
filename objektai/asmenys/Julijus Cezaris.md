@@ -19,24 +19,24 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis 176 Gajus Julijus Cezaris (102 ar 100—44 m. pr.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie naują Teutonų namų ordino brolių karą su prūsų gentimis Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35).'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     (Ts 5, 8) Šitai ir buvo tie nauji karai, kuriuos „viešpats
@@ -50,9 +50,9 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis bando pateikti savotišką
@@ -63,9 +63,9 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie naują Teutonų namų ordino brolių karą su prūsų gentimis

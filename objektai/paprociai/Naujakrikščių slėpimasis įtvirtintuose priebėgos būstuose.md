@@ -67,4 +67,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Łukasz Dawid]]

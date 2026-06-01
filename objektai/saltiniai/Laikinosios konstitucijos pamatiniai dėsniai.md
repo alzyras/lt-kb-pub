@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Laikinosios konstitucijos pamatiniai dėsniai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - sutartis
@@ -20,24 +17,34 @@ tags:
 Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius", kuriais ji pasiėmė suvereninės Lietuvos galią (suprema potestas). 1919 metų balandžio 4 d. laikinės konstitucijos pamatiniai dėsniai buvo pakeisti, būtent, vietoj V.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Valstybės Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius“, kuriais perėmė suvereninės Lietuvos galią.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: '1919 m. balandžio 4 d. laikinės konstitucijos pamatiniai dėsniai buvo pakeisti, vietoj Valstybės Tarybos prezidiumo įsteigiant prezidento organą.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Valstybės Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius“, kuriais perėmė suvereninės Lietuvos galią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1919 metų balandžio 4 d. laikinės konstitucijos pamatiniai
+    dėsniai buvo pakeisti, būtent, vietoj V. Tarybos prezidiumo,
+    buvo įsteigtas valstybės prezidento organas. Tą pačią dieną
+    V. Taryba išrinko A. Smetoną pirmuoju Lietuvos
+    prezidentu. Tada buvo taip pat įkurta ir valstybės kontrolė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tą pačią dieną V. Taryba priėmė „Laikinės konstitucijos pa-
@@ -48,26 +55,8 @@ Taryba priėmė „Laikinės konstitucijos pamatinius dėsnius", kuriais ji pasi
     prezidiumas — iš prezidento ir dviejų viceprezidentų — (jis ėjo
     aukščiausiojo vyriausybės organo pareigas) ir ministerių kabi-
     netas, atsakingas prieš Valstybės Tarybą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1919 m. balandžio 4 d. laikinės konstitucijos pamatiniai dėsniai buvo pakeisti, vietoj Valstybės Tarybos prezidiumo įsteigiant prezidento organą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1919 metų balandžio 4 d. laikinės konstitucijos pamatiniai
-    dėsniai buvo pakeisti, būtent, vietoj V. Tarybos prezidiumo,
-    buvo įsteigtas valstybės prezidento organas. Tą pačią dieną
-    V. Taryba išrinko A. Smetoną pirmuoju Lietuvos
-    prezidentu. Tada buvo taip pat įkurta ir valstybės kontrolė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

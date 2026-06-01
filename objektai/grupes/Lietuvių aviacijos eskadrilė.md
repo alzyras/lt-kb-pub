@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvių aviacijos eskadrilė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -24,16 +15,15 @@ tags:
 Šioje operacijoje buvo panaudota ir neseniai suformuota lietuvių aviacijos eskadrilé.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Neseniai suformuota lietuvių aviacijos eskadrilė buvo panaudota operacijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Neseniai suformuota lietuvių aviacijos eskadrilė buvo panaudota operacijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šioje operacijoje buvo panaudota ir ne-
@@ -44,11 +34,9 @@ tags:
     Panevėžys-Kupiškis, taip sukeldami paniką
     raudonarmiečių gretose. Taip pat lėktuvais
     buvo iš oro žvalgomos priešo pozicijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

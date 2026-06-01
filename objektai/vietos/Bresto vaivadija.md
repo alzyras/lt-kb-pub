@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Bresto vaivadija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - vieta
@@ -25,16 +16,15 @@ tags:
 Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo bajoriją LDK pietuose - Bresto vaivadijoje, pasitelkę ir savo šalininkus, tarnus bei rekrūtus iš savo dvarų Lenkijoje - Voluinėje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bresto vaivadijoje Višnioveckiai organizavo LDK pietų bajoriją ir telkė savo šalininkus, tarnus bei rekrūtus iš Voluinės dvarų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bresto vaivadijoje Višnioveckiai organizavo LDK pietų bajoriją ir telkė savo šalininkus, tarnus bei rekrūtus iš Voluinės dvarų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1700 m. į respublikonų judėjimą
@@ -51,10 +41,8 @@ Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo b
     se - Bresto vaivadijoje, pasitelkę ir savo
     šalininkus, tarnus bei rekrūtus iš savo dvarų
     Lenkijoje - Voluinėje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

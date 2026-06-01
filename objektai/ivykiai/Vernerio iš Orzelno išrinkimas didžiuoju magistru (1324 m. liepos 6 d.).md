@@ -43,19 +43,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras Verneris, kuriam kronikininkas įteikė savo veikalą.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad kitokios kilmės jo pateikiami duomenys apie vėlesnius magistrus.'
+  teiginys: 'Dusburgietis teigia, kad trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras Verneris, kuriam kronikininkas įteikė savo veikalą.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kitokios kilmės jo pateikiami duomenys apie vėlesnius magistrus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
@@ -66,9 +66,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitokios kilmės jo pateikiami
@@ -80,7 +80,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

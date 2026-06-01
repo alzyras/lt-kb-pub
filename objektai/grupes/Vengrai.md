@@ -1,20 +1,11 @@
 ---
 tipas: grupe
 pavadinimas: 'Vengrai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
@@ -28,22 +19,36 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie dievo kerštą Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene patraukė prieš vieną karalių, jam pavaldų.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+- c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas tuo buvo labai užgautas. Jogailos
+    paskutinioji žmona Zofija stengėsi gražiais žodžiais jį per­
+    prašyti, bet jis su ironija atsiprašymą atmetė. Olesnickis be Vy­
+    tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką—ieš­
+    kojo būdu susitaikinti su Zigmantu D., rengė lenkų bajorų suva­
+    žiavimą su vengrais, kuriuos neseniai Zigmantas buvo įtraukęs
+    į koaliciją prieš Karūną. Tuo būdu Olesnickiui pasisekė Vy­
+    tauto planus suparaližuoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie dievo kerštą Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene patraukė prieš vieną karalių, jam pavaldų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dievo kerštą
@@ -63,29 +68,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     viešpats negalėjo nekeršyti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-- c-001
-  santrauka: 'Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas tuo buvo labai užgautas. Jogailos
-    paskutinioji žmona Zofija stengėsi gražiais žodžiais jį per­
-    prašyti, bet jis su ironija atsiprašymą atmetė. Olesnickis be Vy­
-    tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką—ieš­
-    kojo būdu susitaikinti su Zigmantu D., rengė lenkų bajorų suva­
-    žiavimą su vengrais, kuriuos neseniai Zigmantas buvo įtraukęs
-    į koaliciją prieš Karūną. Tuo būdu Olesnickiui pasisekė Vy­
-    tauto planus suparaližuoti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -95,6 +78,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Pjūklai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
@@ -109,8 +93,10 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - [[objektai/asmenys/Henrikas I Paukštininkas]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/posakiai/Kodėl siaubi mano žemę, aplaistytą daugybės krikščionių krauju Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties]]
+- [[objektai/grupes/Krimo orda]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
@@ -123,8 +109,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/asmenys/Otonas Didysis]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]

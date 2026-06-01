@@ -1,26 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Šeduva'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
+date_start: '1936'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1936'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
-tags:
-  - vieta
 ---
 # Šeduva
 
@@ -29,37 +24,26 @@ tags:
 Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Stapulionio
+    Nuo gegužės 17 d. pra-
+    dėti „sustiprintą žvalgybą“, priešui pradė-
+    jus trauktis - „pulti ir persekioti“. Rinktinės
+    puolimą turėjo paremti A. Stapulionio
     vadovaujamas Joniškėlio partizanų ba-
     talionas, Šeduvos-Panevėžio
     geležinkelio liniją dengė vo-
@@ -70,8 +54,22 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     6-asis latvių komunistų pulkas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

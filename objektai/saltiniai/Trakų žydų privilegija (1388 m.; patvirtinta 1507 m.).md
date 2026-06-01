@@ -31,19 +31,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
+  teiginys: 'Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: '1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Supažindiname šiuo dabartiniu mūsų raštu, kam
@@ -83,9 +83,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
+  santrauka: '1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 210
@@ -120,4 +121,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

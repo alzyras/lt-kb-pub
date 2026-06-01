@@ -63,7 +63,6 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]
 - [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
 - [[objektai/grupes/Laikinoji vyriausybė]]

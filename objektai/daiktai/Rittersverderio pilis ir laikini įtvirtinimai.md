@@ -48,16 +48,17 @@ Nenurodyta
 - t-001
   teiginys: 'Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: '136 ## Puslapis 153 Il KNYGA mas ne daugiau kaip 200 šaulių iš Burgundijos ir 300 kitų karių, laikinai buvo pasistatydinęs įtvirtinimus iš statybai skirtų medžiagų, kad apsigintų, kol atvyks raiteliai.'
+  teiginys: 'Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarasis, turėda-
@@ -111,7 +112,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visa tai vyko žiemos pabaigo­

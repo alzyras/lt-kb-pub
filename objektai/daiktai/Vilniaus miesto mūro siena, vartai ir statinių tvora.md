@@ -49,21 +49,21 @@ Nenurodyta
 - t-001
   teiginys: 'Tad 1505 metais, kai tie barbarai buvo mažumėlę aprimę, karalius savo sprendimu atleido Vilniaus gyvento­ jus nuo karo tarnybos vieneriems metams, su sąlyga, kad apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų miestą mūro siena, kiekvienas pagal.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis karaliaus nurodymas gal taip greitai ne­
@@ -87,7 +87,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
@@ -107,7 +107,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trejybės cerkvę, kur

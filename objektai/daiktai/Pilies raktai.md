@@ -1,27 +1,19 @@
 ---
 tipas: daiktas
 pavadinimas: 'Pilies raktai (pilis)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Pilies raktai'
-aliases:
-  - 'Pilies raktai'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1382 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1382'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Pilies raktai (pilis)
 
@@ -30,31 +22,35 @@ tags:
 1382 m. birželio 12 d., Jogaila su ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­ gos pirklys Hanulo įteikė jam pilies raktus^1 ).
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1382 m. birželio 12 d. Rygos pirklys Hanulo įteikė Jogailai Vilniaus pilies raktus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1382 m. birželio 12 d. Rygos pirklys Hanulo įteikė Jogailai Vilniaus pilies raktus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nepatenkinti
@@ -67,11 +63,9 @@ Nenurodyta
     ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

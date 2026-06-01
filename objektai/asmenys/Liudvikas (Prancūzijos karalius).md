@@ -28,20 +28,20 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­ kų, patraukusių vaduoti šventosios žemės 1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė su dviem savo sūnumis ir daugybe kunigaikščių į.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -60,9 +60,9 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
@@ -74,9 +74,9 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     53. Apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­
@@ -91,7 +91,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'

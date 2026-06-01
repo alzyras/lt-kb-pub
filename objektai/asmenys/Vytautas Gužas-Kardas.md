@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vytautas Gužas-Kardas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,15 @@ tags:
 Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo viršininkas Vytautas GužasKardas, penktas - Tauro apygardos vadas Aleksandras Grybinas-Faustas, septintas — Vakarų Lietuvos srities vadas Aleksandras MilaševičiusRuonis, devintas -.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas Gužas-Kardas nurodytas kaip Vakarų Lietuvos srities štabo viršininkas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas Gužas-Kardas nurodytas kaip Vakarų Lietuvos srities štabo viršininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į suvažiavimą susitikę Vakarų
@@ -61,17 +51,14 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     nesmagu dėl savo pavėlavimo į kauty-
     nes, todėl jie kitą, gruodžio 16 d. puolė
     Perlojos stribų įgulą ir ją sunaikino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Tauro apygarda]]

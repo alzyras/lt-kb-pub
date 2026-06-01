@@ -18,12 +18,12 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“.'
   pagrindžia:
     - c-001
@@ -47,7 +47,7 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -63,7 +63,7 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

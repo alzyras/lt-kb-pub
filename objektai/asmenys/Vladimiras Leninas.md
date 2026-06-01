@@ -19,24 +19,24 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Lenino, J.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     SSRS ir kitų soclagerio ša-
@@ -54,7 +54,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
@@ -69,9 +69,9 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
@@ -84,7 +84,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

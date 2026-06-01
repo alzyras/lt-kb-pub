@@ -25,13 +25,14 @@ periodo_grupes: []
 ## Teiginiai
 
 - t-001
-  teiginys: 'į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais.'
+  teiginys: '1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie tai mini Kroni­

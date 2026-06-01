@@ -1,40 +1,18 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Lenkų puolimas 1920 m. rugsėjo 22-23 d. ir kovos dešiniąjame Nemuno krante rugsėjo 23 - spalio 6 d.'
-  - 'lenkų puolimas'
-  - 'AUGUSTAVO-SUVALKŲ OPERACIJA'
-  - 'Augustavo-Suvalkų operacija'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1920 m. rugsėjo 22 d. – rugsėjo pabaiga'
 datos:
-  - '1920 m. rugsėjo 22 d. – rugsėjo pabaiga'
-periodas: 'siuolaikine_istorija'
-periodo_grupes: []
-amziai:
-  - 'XX'
+  - '1920 m.'
 date_start: '1920'
-date_end: '1920'
-vaidmenys: []
-dalyviai:
-  - 'Lenkija'
-  - 'lenkų pajėgos'
-  - 'Lietuvos pajėgos'
-  - 'Lietuvos kariuomenė'
-  - '7-asis pėstininkų pulkas'
-  - '2-asis pėstininkų pulkas'
-  - '3-ioji divizija'
-  - '2-oji divizija'
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
+amziai:
+  - 'XX'
 ---
 # Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)
 
@@ -43,70 +21,51 @@ tags:
 Gabalas aprašo lenkų puolimą ties Seinais, Kapčiamiesčiu, Druskininkais, Lydos kryptimi ir Varėnos link. Tekste ši operacija įvardijama ir kaip Augustavo-Suvalkų operacija, ir kaip lenkų puolimas dešiniąjame Nemuno krante. 1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-006
+
+- t-001
   teiginys: '1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+    - c-004
+
+- t-002
   teiginys: 'Spalio 3-4 d. lenkai užėmė Varėną kaip svarbų transporto mazgą.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-010
+
+- t-003
   teiginys: 'Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių.'
   pagrindžia:
     - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lenkai per derybų laiką slapta pergru-
-    pavo savo pajėgas, gausiai jas papildė ir
-    pasirengė pulti Lietuvą ties Seinais ir Kap-
-    čiamiesčiu. 4-5 kartus didesnės lenkų pa-
-    jėgos puolimą pradėjo rugsėjo 22 d. 10 val.
-    ryte. Lietuviai tokio stipraus puolimo ne-
-    sugebėjo atlaikyti, lenkai užiminėjo vieną
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Rugsėjo 23 d. lenkų divizijos perėjo Nemuną Druskininkuose, rugsėjo 28 d. užėmė Lydą ir lietuviai traukėsi į šiaurę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugsėjo 23 d. lenkų divizijos perėjo tiltą
@@ -114,34 +73,13 @@ Nenurodyta
     Marcinkonių link. Rugsėjo 28 d. lenkai
     užėmė Lydą ir tęsė puolimą Varėnos kryp-
     timi. Lietuvių pajėgos traukėsi į šiaurę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Spalio 3-4 d. lenkai užėmė Varėną kaip svarbų transporto mazgą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau, siekdami ne-
-    prarasti teigiamo įvaizdžio tarptautinėje
-    aplinkoje, lenkai pasiūlė pradėti dery-
-    bas Suvalkuose. Derybos prasidėjo rug-
-    sėjo 29 d., tačiau karo veiksmai nenutrūko.
-    Lenkų pajėgos, perėjusios Nemuną, to-
-    liau puolė lietuvius ir spalio 3-4 d. užėmė
-    Varėną - svarbų transporto mazgą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-004
-  santrauka: 'Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas.'
+    - t-004
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvių rugsėjo pradžioje surengto puo-
@@ -156,15 +94,46 @@ Nenurodyta
     beveik visiškai išsklaidytas. Buvo sunai-
     kintos 1-oji baterija, 5-oji bei 2-oji haubicų
     baterijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-005
+
+- c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau, siekdami ne-
+    prarasti teigiamo įvaizdžio tarptautinėje
+    aplinkoje, lenkai pasiūlė pradėti dery-
+    bas Suvalkuose. Derybos prasidėjo rug-
+    sėjo 29 d., tačiau karo veiksmai nenutrūko.
+    Lenkų pajėgos, perėjusios Nemuną, to-
+    liau puolė lietuvius ir spalio 3-4 d. užėmė
+    Varėną - svarbų transporto mazgą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lenkai per derybų laiką slapta pergru-
+    pavo savo pajėgas, gausiai jas papildė ir
+    pasirengė pulti Lietuvą ties Seinais ir Kap-
+    čiamiesčiu. 4-5 kartus didesnės lenkų pa-
+    jėgos puolimą pradėjo rugsėjo 22 d. 10 val.
+    ryte. Lietuviai tokio stipraus puolimo ne-
+    sugebėjo atlaikyti, lenkai užiminėjo vieną
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-005
-  santrauka: 'Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     2-ojo
@@ -177,13 +146,11 @@ Nenurodyta
     siais, patekusiais į nelaisvę Lietuvos pajė-
     gos visos Augustavo-Suvalkų operacijos
     metu prarado daugiau nei 2 000 karių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

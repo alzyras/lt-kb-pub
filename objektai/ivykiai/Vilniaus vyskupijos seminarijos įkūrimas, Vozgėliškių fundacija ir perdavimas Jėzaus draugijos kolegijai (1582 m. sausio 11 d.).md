@@ -41,13 +41,8 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: '• — 423 ## Puslapis 440 VILNIAUS MIESTO ISTORIJA// TOMAS Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­ tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio tryliktą dieną.'
+  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
   pagrindžia:
     - c-001
 
@@ -59,46 +54,6 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
-    — • —
-    423
-
-    ## Puslapis 440
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Dievo sūnaus Jėzaus Kristaus tūkstantis penki šimtai aš­
-    tuoniasdešimt pirmaisiais gimimo metais, vasario mėnesio
-    tryliktą dieną.
-    (pasirašyta) Stephanus Rex
-    [Karalius Steponas]
-    (prikabintas antspaudas) Jonas Hlebavičius
-    - Dubrovnoje Minsko
-    kaštelionas, krašto
-    paiždininkis ir raštininkas
-    424
-
-    ## Puslapis 441
-
-    IV KNYGA
-    VYSKUPO SEMINARIJOS JSTEIGIMAS
-    IŠ VYSKUPŲ STALO DVARO,
-    VADINAMO VOZGĖLIŠKĖMIS
-    1582 METAI
-    (Kapitulos archyvas)
-
-    ## Puslapis 442
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    In Ckristi nomine Amen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
-    - t-001
-
-- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­
@@ -130,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -168,18 +123,12 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Hlebavičius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
 - [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]

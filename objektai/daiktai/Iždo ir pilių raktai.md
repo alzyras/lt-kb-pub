@@ -1,34 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Iždo ir pilių raktai'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1350 m.'
-  - '1430 m.'
-  - '1914 m.'
-  - '1930 m.'
-  - '1978 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '2026'
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Iždo ir pilių raktai
 
@@ -37,69 +24,45 @@ tags:
 Vytautas liepė Jogailai nuo iždo ir pilių atiduoti raktus.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: '1382 m. birželio 12 d. Hanulo Jogailai įteikė pilies raktus.'
+
+- t-001
+  teiginys: 'Pagal Dlugošo idi­ lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­ gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę.'
+
+- t-002
+  teiginys: '1382 m. birželio 12 d. Hanulo Jogailai įteikė pilies raktus.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Pagal Dlugošo idi­ lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­ gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.'
+
+- t-003
+  teiginys: 'Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1382 m. birželio 12 d. Hanulo Jogailai įteikė pilies raktus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
-    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
-    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
-    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
-    to raktus ir pavedė karo vadovybę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-003
-  santrauka: 'Pagal Dlugošo idi­ lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­ gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Vilniaus Vytautas su Jogaila išjojo X.17 d. į Trakus. Pa­
@@ -115,11 +78,44 @@ Nenurodyta
     tyviai gynė, išvystyti į dėmesio vertą tezę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nepatenkinti
+    lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
+    reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
+    kurio jie anksčiau buvo stipriai palaikomi. Vokiečių Ordinas,
+    gerai žinodamas, kas dedasi Lietuvoje, irgi nemiegojo.
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Čekai, nenorėdami laukti, kreipėsi tuojau į Vytautą, kuris pa­
+    siūlymą priėmė palankiai, nežiūrint to, kad Jogaila su tuo ne­
+    sutikęs. Tada čekai Kutnos Hožos seime (1421) ir išrinko
+    Vytautą savo karalium, kuris pasiuntė jiems savo vietininku
+    sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių.
+    Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
+    to raktus ir pavedė karo vadovybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

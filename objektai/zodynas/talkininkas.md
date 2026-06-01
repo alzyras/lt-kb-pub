@@ -16,14 +16,14 @@ Dusburgietis teigia, kad šventas komt.— komtūras talk.— talkininkas Liv. D
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apolonas Arnoldas iš Baumgarto, Or. talk. iš Elnerio, Or.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Algirdas
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad šventas komt.— komtūras talk.— talkininkas Liv. D
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

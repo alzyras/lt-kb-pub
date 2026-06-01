@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'superarbitras'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - popiežius
@@ -26,16 +17,15 @@ tags:
 Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių pasirinktiems arbitrams, o didesniuose nesusipratimuose nutar­ ta kreiptis į popiežių, kaip į superarbitrų^2 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žemaitija buvo atiduota Vytautui ir Jogailai ir tai tik iki gyvos
@@ -48,11 +38,9 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
     raliui Zigmantui, neseniai tik tapusiam Romos ciesorium^3 ), pas
     kurį taikingiems santykiams užmegsti Vytautas buvo išvykęs dar
     prieš savo kelionę į rusų kraštus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

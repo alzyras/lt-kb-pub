@@ -46,21 +46,21 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
+  pagrindžia:
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
+  teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
   pagrindžia:
     - c-003
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
@@ -75,9 +75,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
@@ -115,7 +115,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis, paklausęs patarimo, susikvietė daug brolių bei
@@ -127,7 +127,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,7 +142,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

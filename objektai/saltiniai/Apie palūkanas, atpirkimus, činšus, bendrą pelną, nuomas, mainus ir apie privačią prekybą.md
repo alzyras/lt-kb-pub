@@ -25,7 +25,7 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
+  teiginys: 'Martyno Smigleckio veikalas „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 1640 m. išleistas Krokuvoje.'
   pagrindžia:
     - c-001
 
@@ -37,6 +37,7 @@ amziai:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Martyno Smigleckio veikalas „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 1640 m. išleistas Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. VII priedą.

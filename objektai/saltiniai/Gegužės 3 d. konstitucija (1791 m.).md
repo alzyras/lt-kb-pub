@@ -32,59 +32,59 @@ amziai:
 
 ## Teiginiai
 
-- t-009
+- t-001
   teiginys: 'Nors Gegužės trečiosios konstitucija radikalumu toli gražu neprilygo Prancūzijos revoliucijos dokumentams, būtent ją reikėtų laikyti riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų, taigi riba tarp Baroko ir Apšvietos epochų.'
   pagrindžia:
-    - c-009
+    - c-008
 
-- t-008
+- t-002
   teiginys: 'Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas.'
   pagrindžia:
-    - c-008
+    - c-009
 
 - t-003
   teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
   pagrindžia:
-    - c-003
-
-- t-001
-  teiginys: '70; Tautos, kalbos, raštijos 72; Vilniaus universitetas 78; Ryčiausia ir šiauriausia Europoje baroko architektūra 82; Gaonas ir „Šiaurės Jeruzalė“ 83 ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios.'
-  pagrindžia:
-    - c-001
-
-- t-010
-  teiginys: 'Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną padalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės.'
-  pagrindžia:
-    - c-010
-
-- t-007
-  teiginys: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
-  pagrindžia:
-    - c-007
-
-- t-005
-  teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
-  pagrindžia:
-    - c-005
-
-- t-002
-  teiginys: 'Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas.'
-  pagrindžia:
     - c-002
 
 - t-004
-  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  teiginys: '70; Tautos, kalbos, raštijos 72; Vilniaus universitetas 78; Ryčiausia ir šiauriausia Europoje baroko architektūra 82; Gaonas ir „Šiaurės Jeruzalė“ 83 ANKSČIAUSIA KONSTITUCIJA EUROPOJE IR JOS PANAIKINIMAS 85 Apšvieta ateina į LDK 85; Gegužės trečiosios.'
   pagrindžia:
-    - c-004
+    - c-003
 
-- t-006
-  teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
+- t-005
+  teiginys: 'Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną padalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės.'
   pagrindžia:
     - c-006
 
+- t-006
+  teiginys: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
+  pagrindžia:
+    - c-004
+
+- t-007
+  teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Šių bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios reiškėjas.'
+  pagrindžia:
+    - c-001
+
+- t-009
+  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  pagrindžia:
+    - c-005
+
+- t-010
+  teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
+  pagrindžia:
+    - c-010
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ANKSČIAUSIA KONSTITUCIJA EUROPOJE
@@ -103,9 +103,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-008
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
@@ -126,7 +126,7 @@ amziai:
   pagrindžia:
     - t-003
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotika 53;  Raštija 56;
@@ -172,9 +172,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-007
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos
@@ -194,9 +194,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
-- c-004
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -219,9 +219,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-009
 
-- c-010
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
@@ -239,9 +239,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-005
 
-- c-005
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Seimui pirmininkauti
@@ -261,9 +261,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-007
 
-- c-009
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Gegužės trečiosios konstitucija radikalumu toli gražu neprilygo
@@ -275,9 +275,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-001
 
-- c-008
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo
@@ -290,9 +290,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-002
 
-- c-006
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstaty-
@@ -306,4 +306,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-010

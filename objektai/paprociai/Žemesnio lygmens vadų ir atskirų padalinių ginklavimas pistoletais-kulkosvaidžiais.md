@@ -1,24 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Žemesnio lygmens vadų ir atskirų padalinių ginklavimas pistoletais-kulkosvaidžiais'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: 'Pirmasis pasaulinis karas – Antrojo pasaulinio karo pabaiga'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Žemesnio lygmens vadų ir atskirų padalinių ginklavimas pistoletais-kulkosvaidžiais
 
@@ -30,6 +16,7 @@ Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: teisinė-administracinė praktika
 
 ## Atlikimas
@@ -42,22 +29,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-001
   teiginys: 'Pistoletų-kulkosvaidžių efektyvumu buvo įsitikinta ten, kur ugnies mūšis vyko nedideliais atstumais: mieste, miške ar valant tranšėjas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagrindinės šio ginklo savybės - vamzdis ilgesnis už pistoleto, dide-
@@ -68,11 +53,9 @@ Nenurodyta
     vai bei kulkosvaidžiai, nors buvo įsitikinta pistoletų-kulkosvaidžių efektyvumu ten, kur
     ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-
     kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
+    - t-002
+    - t-001

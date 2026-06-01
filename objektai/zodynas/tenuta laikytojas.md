@@ -68,4 +68,3 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/Puslapis 77]]

@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Šv. Onos bažnyčia Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1581 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1581'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - pilis
   - valstybė
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Šv. Onos bažnyčia Vilniuje
 
@@ -30,37 +24,40 @@ tags:
 Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad. Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Onos bažnyčia būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­ noti ir aprūpinti būtų.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
+  pagrindžia:
+    - c-005
+
+- t-003
   teiginys: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.'
   pagrindžia:
     - c-001
-- t-002
+
+- t-004
   teiginys: 'O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
-  pagrindžia:
-    - c-003
-- t-005
-  teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Onos bažnyčia būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­ noti ir aprūpinti būtų.'
-  pagrindžia:
     - c-006
-- t-007
+
+- t-005
   teiginys: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
   pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­ kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią; kad jos didenybės karalienės Halškos (Elžbietos) palaikai dešinėje pusėje nuo.'
+    - c-003
+
+- t-006
+  teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   pagrindžia:
-    - c-008
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat savo lėšomis pilies teritori­
@@ -74,34 +71,74 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     serims36.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'O kadangi dabartinė to paties vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581 metais, tad gal būtų galima manyti, jog Žemutinės pilies te­ ritorija tęsėsi iki bernardinų sienų, arba kad.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
-    čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
-    pilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties
-    vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo
-    užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581
-    metais, tad gal būtų galima manyti, jog Žemutinės pilies te­
-    ritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv.
-    Onos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę
-    35 36
-    G w a g n i n i Kronika Sarmacyi Em- Žr.
+    Kad klebonija ir
+    mansionieriai būtų aprūpinti gera ir garbinga fundacija, kad
+    būtų jiems pastatytas namas ir kad visa tai būtų įgyvendin­
+    ta, kaip aukščiau ir žemiau savo valią pareiškėme, turi būti
+    padaryta, dėl to jų didenybes mūsų seseris arba tuos, kurie
+    valdys Respubliką, įpareigojame sąžine, garbe ir tikėjimu.
+    O ypač jos didenybę karalaitę Oną, jeigu čia, mūsų valsty­
+    bėse, pasiliktų, prašome, kad jos didenybė visu tuo su aukš­
+    čiau paminėtais vykdytojais pati uoliai prisidėtų ir kad mū­
+    sų valią įgyvendinti stengtųsi, ypač kad toji Šv. Onos bažnyčia
+    būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­
+    noti ir aprūpinti būtų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiai bažnyčiai visą bažnytinį auksą,
+    sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą,
+    kuris prie mūsų visada būna mišioms ir kas tik yra pas Zales-
+    kį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pa-
+    cifikalus, liktorius, tribularijus, ampules, ampulėles, varpelius,
+    taip ir arnotus ir kitus bažnytinius apdarus, antepedijus, ši-
+    žinkas, korporalus, absoliučiai visas puošmenas, drabužius ir
+    indus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų
+    tai minėtai Šv. Onos bažnyčiai Vilniuje išduoti, išskyrus auk­
+    sinį kryžių, papuoštą safyru, su jame esančiu Šventojo Kry­
+    žiaus medžiu, pakabintu ant grandinės, ir prašome bei pa­
+    skiriame, kad šis kryžius su Šv. Kryžiaus medžiu būtų
+    paliktas Krokuvos pilies koplyčioje, kur ilsisi jo didenybės
+    pono mūsų tėvo švento atminimo karaliaus kūnas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O už tai jų dideny­
+    bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun-
+    duotų ir aprūpintų Šv. Onos bažnyčios kleboniją ir didžio­
+    joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip
+    reikiant, pagal savo nuomonę, priderančiomis pajamomis
+    bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo
+    Dievo tarnystei prie anos bažnyčios pasiliktų. Taip pat, kad
+    jiems prie tos pačios Šv. Onos bažnyčios įsakytų pastatyti
+    trylikai asmenų pagal jų kunigišką luomą [pritinkantį būs­
+    tą].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dėl to norime, kad mūsų kū­
@@ -122,112 +159,26 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-005
-  santrauka: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O už tai jų dideny­
-    bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun-
-    duotų ir aprūpintų Šv. Onos bažnyčios kleboniją ir didžio­
-    joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip
-    reikiant, pagal savo nuomonę, priderančiomis pajamomis
-    bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo
-    Dievo tarnystei prie anos bažnyčios pasiliktų. Taip pat, kad
-    jiems prie tos pačios Šv. Onos bažnyčios įsakytų pastatyti
-    trylikai asmenų pagal jų kunigišką luomą [pritinkantį būs­
-    tą].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+    - t-002
+
 - c-006
-  santrauka: 'Onos bažnyčia būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­ noti ir aprūpinti būtų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kad klebonija ir
-    mansionieriai būtų aprūpinti gera ir garbinga fundacija, kad
-    būtų jiems pastatytas namas ir kad visa tai būtų įgyvendin­
-    ta, kaip aukščiau ir žemiau savo valią pareiškėme, turi būti
-    padaryta, dėl to jų didenybes mūsų seseris arba tuos, kurie
-    valdys Respubliką, įpareigojame sąžine, garbe ir tikėjimu.
-    O ypač jos didenybę karalaitę Oną, jeigu čia, mūsų valsty­
-    bėse, pasiliktų, prašome, kad jos didenybė visu tuo su aukš­
-    čiau paminėtais vykdytojais pati uoliai prisidėtų ir kad mū­
-    sų valią įgyvendinti stengtųsi, ypač kad toji Šv. Onos bažnyčia
-    būtų užbaigta ir Dievo tarnai prie jos pakankamai apdova­
-    noti ir aprūpinti būtų.
+    Be šių akivaizdžių ir reikšmingų Šv. Onos bažny­
+    čios fundacijos įrodymų, tolesnių jos egzistavimo Vilniaus
+    pilyje pėdsakų vis dėlto nėra. O kadangi dabartinė to paties
+    vardo bažnyčia, stovinti prie bernardinų bažnyčios, buvo
+    užbaigta ir pašventinta po Žygimanto Augusto mirties, 1581
+    metais, tad gal būtų galima manyti, jog Žemutinės pilies te­
+    ritorija tęsėsi iki bernardinų sienų, arba kad pirmutiniai Šv.
+    Onos bažnyčios pamatai, šio karaliaus pilyje pastatyti, buvę
+    35 36
+    G w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą.
+    ropejskiej, vert.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiai bažnyčiai visą bažnytinį auksą,
-    sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą,
-    kuris prie mūsų visada būna mišioms ir kas tik yra pas Zales-
-    kį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pa-
-    cifikalus, liktorius, tribularijus, ampules, ampulėles, varpelius,
-    taip ir arnotus ir kitus bažnytinius apdarus, antepedijus, ši-
-    žinkas, korporalus, absoliučiai visas puošmenas, drabužius ir
-    indus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų
-    tai minėtai Šv. Onos bažnyčiai Vilniuje išduoti, išskyrus auk­
-    sinį kryžių, papuoštą safyru, su jame esančiu Šventojo Kry­
-    žiaus medžiu, pakabintu ant grandinės, ir prašome bei pa­
-    skiriame, kad šis kryžius su Šv. Kryžiaus medžiu būtų
-    paliktas Krokuvos pilies koplyčioje, kur ilsisi jo didenybės
-    pono mūsų tėvo švento atminimo karaliaus kūnas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­ kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią; kad jos didenybės karalienės Halškos (Elžbietos) palaikai dešinėje pusėje nuo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai
-    darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
-    rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
-    Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve
-    mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­
-    kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią;
-    kad jos didenybės karalienės Halškos (Elžbietos) palaikai
-    dešinėje pusėje nuo įėjimo į bažnyčią, bažnyčios pastato kam­
-    pe, prie altoriaus, o jos didenybės karalienės Barboros iš cho­
-    ro pusės, kampe, kairėje bažnyčios pastato pusėje, būtų pa­
-    dėti, - prašydami, kad dabartinėms laidotuvėms nebūtų
-    rengiamos visiškai jokios šio vargano pasaulio pompos ir
-    iškilmės. O atiduodami sielą nieko daugiau iš Viešpaties Die-
-    334
-
-    ## Puslapis 351
-
-    IV  KNYGA
-    vo nepageidaujame ir mirdami nieko daugiau neprašysime,
-    tik vieno, kad Respubliką, kokią iš mūsų protėvių gavome,
-    visai tokią pačią, taikoje ir gerovėje, atiduotume; jos gerove
-    pagal mūsų švenčiausiąją galią per visą mūsų viešpatavi­
-    mo amžių uoliai rūpinomės, jos gerovei ir saugumui negai­
-    lėdami savo sveikatos (Dievas liudininkas) ir.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+    - t-004

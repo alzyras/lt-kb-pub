@@ -77,7 +77,6 @@ Nenurodyta
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/daiktai/Medinis nukryžiuotasis]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Šv. Stanislovas]]

@@ -19,19 +19,19 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
+  teiginys: 'Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     244 D.— invaserunt vilias (be to, III, 66, 68, 98, 143, 260, 276, 291, 330, 332
@@ -49,9 +49,9 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   santrauka: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'

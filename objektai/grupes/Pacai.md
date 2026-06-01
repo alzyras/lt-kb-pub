@@ -1,14 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Pacai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -20,73 +16,103 @@ tags:
 Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje. Lietuvai vadovaujantieji Pacai stovėjo karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos vadais — primų ir Lenkijos hetmonu Sobieskiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-002
+
 - t-002
   teiginys: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
-  teiginys: 'Lietuvai vadovaujantieji Pacai stovėjo karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos vadais — primų ir Lenkijos hetmonu Sobieskiu.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
-    piegos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
+    Kai pasirodė,
+    jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau
+    keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo lai-
+    kais), tuomet prancūziškoji partija pastatė kandidatu savo vadą
+    hetmoną Sobieskį. Išgar-
+    sėjęs Lenkijos gynėjas
+    nuo turkų, atvykęs į elek-
+    cinį seimą tiesiog iš karo
+    lauko, buvo labai palan-
+    kiai lenkų bajorijos su-
+    tiktas.
     Pacai, bijodami jo
     kandidatūros, buvo pra-
     dėję prieš jį veikti dar
     tarpuvaldžio pradžioje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Lietuvai vadovaujantieji Pacai stovėjo karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos vadais — primų ir Lenkijos hetmonu Sobieskiu.'
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvai vadovaujantieji Pacai stovėjo
-    karaliaus pusėje ir labai nesugyveno su abiem prancūziškosios partijos
-    vadais — primų ir Len-
-    kijos hetmonu Sobieskiu.
+    dikų šeimos. Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
+    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
+    dovavo jau Pacai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Laikotarpio charakteristika**
+
+
+    dikų šeimos. Pirmučiausia iškilo Pacai, kuriuos pakeitė Sa-
+    piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
+    dovavo jau Pacai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Pacai, bijodami jo kandidatūros, buvo pradėję prieš jį veikti dar tarpuvaldžio pradžioje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Išgar-
+    sėjęs Lenkijos gynėjas
+    nuo turkų, atvykęs į elek-
+    cinį seimą tiesiog iš karo
+    lauko, buvo labai palan-
+    kiai lenkų bajorijos su-
+    tiktas.
+    Pacai, bijodami jo
+    kandidatūros, buvo pra-
+    dėję prieš jį veikti dar
+    tarpuvaldžio pradžioje.
+    Elekcinio seimo pradžioje
+    jų vadovaujami lietuviai
+    reikalavo atmesti „piasto"
+    kandidatūrą (piastu tada
+    buvo vadinamas kiekvie-
+    nas kandidatas iš saviš-
+    kių).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Prancūziškoji partija]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/hetmonas]]

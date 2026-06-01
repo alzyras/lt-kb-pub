@@ -39,12 +39,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad žmonės, netikėtai atsidūrę itin varganoje padėtyje, pratę patys nusižudyti. Jie neskiria nei dienų, nei valandų.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jų krašte niekam neleidžiama
@@ -58,7 +58,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik

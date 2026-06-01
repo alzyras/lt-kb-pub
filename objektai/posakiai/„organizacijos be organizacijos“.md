@@ -1,9 +1,6 @@
 ---
 tipas: posakis
 pavadinimas: '„organizacijos be organizacijos“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -11,21 +8,17 @@ datos:
   - '1987 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1965'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - posakis
   - tauta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # „organizacijos be organizacijos“
 
@@ -34,16 +27,15 @@ tags:
 hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, telkusios žmones bendromis idėjomis ir tikslais.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, telkusios žmones bendromis idėjomis ir tikslais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į
@@ -59,11 +51,9 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
     palikimą, bet ir skatino domėtis tautos praeitimi, ugdė gyventojų tautinę
     savimonę, įsisteigė žygeivių klubų. Pusiau legalūs inteligentų klubai popu-
     liarėjo: iki 1965 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

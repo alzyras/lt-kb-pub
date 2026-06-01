@@ -1,18 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: seniūnas
-sukurta: '2026-04-25'
-variantai:
-  - Storastą
-  - seniūnu
-  - seniūną
-  - Vilniaus seniūnas
-aliases: []
+pavadinimas: 'seniūnas'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - pilis
@@ -25,90 +18,42 @@ tags:
 Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete. Čia nuo Vytauto laikų buvo krašto viršininkas, vadinamas seniūnu.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
+  teiginys: 'Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: '1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.'
+  pagrindžia:
+    - c-002
+
 - t-003
-  teiginys: Storasta šiame tekste vartojamas kaip lenkiško administratoriaus titulas.
+  teiginys: 'Seniūnas turėjo teismo valdžią ir vietininko teises.'
   pagrindžia:
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-004
-  teiginys: Lenkijos karalius Lietuvoje laikė ne tik įgulas, bet ir storastą.
+  teiginys: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.
-  pagrindžia:
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: Seniūnas turėjo teismo valdžią ir vietininko teises.
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
-    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: Storasta šiame tekste vartojamas kaip lenkiško administratoriaus titulas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Lietuvoje buvo jau­
-    čiamas aiškus susiskaldymas, kurio likviduoti neįstengė nė pats
-    Lenkijos karalius, nors jis ir laikė Lietuvos pilyse lenkų įgulas
-    ir Vilniuj lenką Storastą. Žvalgydamasis tuo laiku po Lietuvą,
-    ```
 
-    ```
-    — 41—
-    ```
-    tikrai galėjai manyti, jog Krėvės unijos akte įrašytas Lietuvos
-    prijungimas prie Lenkijos, tuo tarpu negalės įvykti
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-004
-- c-004
-  santrauka: Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
     (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
     jau minėtas vad. „Vilniaus seniūnas“.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-005
-  santrauka: 1411 m. Vytautas pats paskyrė seniūną atgautai Žemaitijai.
+    - t-001
+
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1411 m. jis
@@ -117,19 +62,53 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     kunigaikščio domenuose, bet ir visos apylinkės bajorų ir Baž­
     nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
     paprastomis jo pajamomis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+  statusas: verified
   pagrindžia:
-    - t-006
-    - t-007
+    - t-002
+    - t-003
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kiekviename dabar
+    naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
+    skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
+    davo vietoje. Pagaliau baudžiamosios (kriminalinės) bylos
+    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
+    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
+    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-004
+  santrauka: 'Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau baudžiamosios (kriminalinės) bylos
+    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
+    Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
+    daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
+    Tuo būdu visi kiti vietininkai, didžiojo kunigaikščio dvarų val-
+
+
+    dytojai, nebeteko teisės teisti bajorus; vėliau jie paprastai buvo
+    vadinami laikytojais (tenutarii).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/organas]]
-- [[objektai/zodynas/unija]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
@@ -137,27 +116,23 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/asmenys/Aleksandras Jurgėvičius]]
 - [[objektai/asmenys/Andrius Kopernikas]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
-- [[objektai/asmenys/Bona Sforca]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
 - [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas|Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
 - [[objektai/ivykiai/Grabovo derybos]]
 - [[objektai/asmenys/Hanulas, arba Hanka]]
-- [[objektai/asmenys/Ivanas Michailovičius]]
+- [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jeronimas Chodkevičius]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/asmenys/Jonas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Jonas Chojevskis]]
-- [[objektai/asmenys/Jonas Hlebavičius]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
 - [[objektai/asmenys/Jonas Lonei]]
 - [[objektai/asmenys/Jonas Olesnickis]]
 - [[objektai/asmenys/Jonas iš Zabrežjės]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
 - [[objektai/autoriai/Jurginis J]]
-- [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
 - [[objektai/asmenys/Jurgis Astikaitis]]
 - [[objektai/asmenys/Kinsgaila]]
 - [[objektai/ivykiai/Kriavo aktas]]
@@ -165,7 +140,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/asmenys/Kurovičius]]
 - [[objektai/asmenys/Kęsgaila]]
 - [[objektai/ivykiai/Liublino unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/asmenys/M. Vaina]]
 - [[objektai/asmenys/Mantautas]]
@@ -174,30 +148,23 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/asmenys/Mikalojus Andriuševičius]]
 - [[objektai/asmenys/Mikalojus Maskoževskis]]
 - [[objektai/asmenys/Mikalojus Moskoževskis]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
 - [[objektai/asmenys/N. Küchmeisteris]]
 - [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių]]
-- [[objektai/asmenys/Ona Hlebavičienė]]
-- [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]
 - [[objektai/zodynas/Pilininkai kaštelionai seniūnas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
 - [[objektai/ivykiai/Polocko praradimas]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
-- [[objektai/grupes/Senevlianai]]
-- [[objektai/asmenys/Senka Tuhanovskis]]
 - [[objektai/asmenys/Simonas Lengvenis]]
-- [[objektai/asmenys/Stanislovas Goštautas]]
+- [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Stanislovas Jonas Da Vaina]]
 - [[objektai/asmenys/Stanislovas Veenas]]
 - [[objektai/asmenys/Sungaila]]
-- [[objektai/asmenys/Timofiejus Puzina]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/asmenys/Vaclovas (Medininkų vyskupas)]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/paprociai/Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų]]
 - [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]
@@ -209,7 +176,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/posakiai/metus ir dieną]]
 - [[objektai/zodynas/pataurininkas]]
-- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
 - [[objektai/zodynas/seniūnas storasta]]
 - [[objektai/asmenys/Čupurna]]
 - [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]
@@ -218,8 +184,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/asmenys/Žygimantas Kaributaitis]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/storasta]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, pavaldumas seniūnui ir pilies saugojimo prievolė]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
 - [[objektai/zodynas/pilies teismas|pilies teismas (pilis)]]

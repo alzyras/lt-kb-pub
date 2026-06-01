@@ -31,26 +31,26 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
 - t-001
   teiginys: 'Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki Gedimino laikų.'
   pagrindžia:
-    - c-001
+    - c-004
 
-- t-004
+- t-002
   teiginys: 'Jeigu mes net tarsime, kad ta pilis Vilniuje gerokai anksčiau pastatyta, tai Dusburgas, Gedimino amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­ demini, juk pats Gediminas, arba rygiečiai, dar prieš metus viešuose laiškuose ir dokumentuose aiškiai.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-003
   teiginys: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-002
+- t-004
   teiginys: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitai vyko viešpataujant Lie­
@@ -63,9 +63,9 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
@@ -87,7 +87,7 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   pagrindžia:
     - t-003
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu mes net tarsime, kad ta pilis Vilniuje
@@ -106,9 +106,9 @@ Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­ du gyvavęs dar iki
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-001
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau esama tokių, pasak kurių, esą Vilnius kitu var­

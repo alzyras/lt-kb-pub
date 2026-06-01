@@ -55,4 +55,3 @@ Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ 
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/Puslapis 77]]

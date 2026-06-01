@@ -1,26 +1,10 @@
 ---
 tipas: ivykis
-pavadinimas: "Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "po pranciškonų nužudymo"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: 'viduramziai'
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: ''
-date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės
 
@@ -29,6 +13,7 @@ tags: []
 Po pranciškonų nužudymo Algirdas viešai nubaudė vadeivas ir paskelbė krikščionių vienuoliams teisę nevaržomai gyventi bei laisvai išpažinti savo tikėjimą. Pasakojime šis sprendimas susietas su Goštauto pastangomis vėl atsikviesti pranciškonus ir pastatydinti jiems naują mūrinę bažnyčią bei vienuolyną Smėlynėje.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: po pranciškonų nužudymo
 - datos:
   - po pranciškonų nužudymo
@@ -36,35 +21,37 @@ Po pranciškonų nužudymo Algirdas viešai nubaudė vadeivas ir paskelbė krik�
 - amziai: XIV
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Algirdas viešai nubaudė pranciškonų nužudymo vadeivas ir liepė paskelbti krikščionių vienuolių gyvenimo bei tikėjimo laisvę."
+  teiginys: 'Algirdas viešai nubaudė pranciškonų nužudymo vadeivas ir liepė paskelbti krikščionių vienuolių gyvenimo bei tikėjimo laisvę.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Po Algirdo sprendimo Goštautas vėl atsikvietė vienuolių iš Lenkijos ir pastatydino mūrinę bažnyčią bei vienuolyną Smėlynėje.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
-  teiginys: 'Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos besitraukiančios stabmeldystės, sto­ jusios prieš Romos tikėjimo skelbėjus, pastangos buvo be­ vaisės.'
+  teiginys: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Algirdo reakcija į pranciškonų nužudymą ir Goštauto nauja fundacija.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -88,16 +75,15 @@ Nenurodyta
     dokumentus, kurie galėtų ano meto
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Vilniaus pranciškonų vienuo- 28 ## Puslapis 45 I KNYGA paskutinės iš Europos besitraukiančios stabmeldystės, sto­ jusios prieš Romos tikėjimo skelbėjus, pastangos buvo be­ vaisės.'
+  santrauka: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus pranciškonų vienuo-
@@ -119,11 +105,16 @@ Nenurodyta
     nuolyną pastatydino naujoje vietoje, savo naujų medinių rū­
     mų teritorijoje, netoli nuo Vingrių šaltinių, Smėlynėje, ir pa­
     vadino Mergelės Marijos vardu20.
+    lyno archyvas, išskyrus nuplėštus
+    nuo įvairių senų pergamentų ant­
+    spaudus, per 1812 metų karą yra be­
+    veik visai praradęs vertingiausius
+    dokumentus, kurie galėtų ano meto
+    įvykius iš tamsos į ryškią šviesą iš­
+    kelti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

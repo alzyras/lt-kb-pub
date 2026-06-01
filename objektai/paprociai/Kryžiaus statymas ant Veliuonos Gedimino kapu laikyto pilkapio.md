@@ -39,13 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Šalimais to Pilies kalno iš rytų pusės dunkso kitas kalnas, viršūnė tarsi kaugės, vadinamas Gedimino, o jo viršuje iš ## Puslapis 118 VILNIAUS MIESTO ISTORIJA / TOMAS vakarų pusės išsišovęs pilkapis: didžiulis kaupas irgi gaub­ ta viršūnė, šalia kurio čia pat.'
+  teiginys: 'Ant Veliuonoje Gedimino kapu laikyto pilkapio nuo neatmenamų laikų būdavo statomas kryžius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Ant Veliuonoje Gedimino kapu laikyto pilkapio nuo neatmenamų laikų būdavo statomas kryžius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais to Pilies kalno iš rytų pusės dunkso kitas kalnas,

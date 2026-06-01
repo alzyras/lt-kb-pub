@@ -1,27 +1,10 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Lenino kampeliai ir sienlaikraščiai"
-sukurta: '2026-05-14'
-variantai:
-  - "Lenino kampeliai ir sienlaikraščiai"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Lenino kampeliai ir sienlaikraščiai'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "sovietmečio mokyklų ideologinio auklėjimo kontekstas"
-datos: []
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "sovietmetis"
-amziai:
-  - "XX"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-14'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - simbolis
 ---
@@ -32,10 +15,12 @@ tags:
 Lenino kampeliai ir sienlaikraščiai minimi kaip mokyklose įrengti ar leisti ideologinio komunistinio auklėjimo materialūs ir vizualūs elementai.
 
 ## Pavadinimai šaltiniuose
+
 - Lenino kampeliai
 - sienlaikraščiai
 
 ## Laikotarpis ir datos
+
 - laikotarpis: sovietmečio mokyklų ideologinio auklėjimo kontekstas
 - periodas: siuolaikine_istorija
 - periodo_grupes: sovietmetis
@@ -50,33 +35,37 @@ Mokyklų ideologiniai stendai ir sieniniai leidiniai.
 Naudoti idėjiniam komunistiniam mokinių auklėjimui stiprinti.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
+    Ją ruošė totaliai kontroliuojama švieti-
+    mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
     steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
     peliai, leisti sienlaikraščiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

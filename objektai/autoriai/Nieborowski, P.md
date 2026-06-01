@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'Nieborowski, P'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1898 m.'
   - '1930 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1898'
+date_end: '1930'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1898'
-date_end: '1930'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - autorius
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Nieborowski, P
 
@@ -29,16 +25,15 @@ tags:
 Nieborowski, P.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Nieborowski parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“, 1924 m. išleistą Breslau.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'P. Nieborowski parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“, 1924 m. išleistą Breslau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     VII + 117 p.). — Krasauskas,
@@ -49,11 +44,9 @@ Nieborowski, P.
     przywileje fundacyjne Witolda dla Kościoła na Żmudzi , KH, t. 44, 1930,
     348-355 p. — Springmann, K. : Polen und der deutsche Orden zur Zeit
     des Koustanzer Konzils , Diss.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

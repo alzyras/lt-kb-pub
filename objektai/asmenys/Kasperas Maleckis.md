@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kasperas Maleckis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,22 +15,20 @@ tags:
 Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijas ir rinkti duomenis apie priešo judėjimą, o pats su savo pagrindiniais daliniais išskubėjo Svėdasų kryptimi. Maleckio žvalgybinio padalinio atėjo pranešimas apie stambių priešo dalinių artėjimą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Kaspero Maleckio žvalgybinis padalinys pranešė apie stambių priešo dalinių artėjimą.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po nepavykusio
@@ -60,15 +49,13 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     niais išskubėjo Svėdasų kryptimi.
 
     suteikdama jam pulkininko laipsnį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Kaspero Maleckio žvalgybinis padalinys pranešė apie stambių priešo dalinių artėjimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kryptimi. Netrukus iš K. Maleckio žvalgy-
@@ -77,13 +64,11 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     mas padidinti sukilėlių kariuomenės ju-
     dėjimo greitį, Z. Sierakauskas savo pajėgas
     padalino į tris kolonas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

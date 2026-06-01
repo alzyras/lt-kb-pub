@@ -1,27 +1,19 @@
 ---
 tipas: paprotys
-pavadinimas: "Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje"
-sukurta: '2026-05-18'
-variantai:
-  - 'Kandidatas Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje'
-aliases:
-  - 'Kandidatas Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje'
+pavadinimas: 'Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1791 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1791'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tauta
+amziai:
+  - 'XVIII'
 ---
 # Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje
 
@@ -30,31 +22,35 @@ tags:
 Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
@@ -68,11 +64,9 @@ Nenurodyta
     19
     kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietu-
     vos, Baltarusijos, Ukrainos ir Lenkijos – žydai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -81,3 +75,4 @@ Nenurodyta
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Jekaterina II]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]

@@ -25,24 +25,24 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Abi šalys tokius rezultatus Ženevoje laikė pergale, o grįžęs į Kauną Karininkų ramovėje ir per radiją A.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
-  pagrindžia:
-    - c-003
-
-- t-001
-  teiginys: 'Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     TRIJŲ KAIMYNiŲ ULTIMATUMŲ ERA
@@ -58,7 +58,7 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,9 +73,9 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to 1927 m. spalio 15 d. Lietuva apskundė Lenkiją Tautų
@@ -90,4 +90,4 @@ Lietuva ir Lenkija kaktomuša susidūrė Ženevoje, kur Sąjungos Taryboje gruod
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

@@ -23,19 +23,19 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus.'
   pagrindžia:
     - c-002
 
-- t-003
-  teiginys: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     zanus. Nemažai stribų
@@ -52,9 +52,9 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-003
+- c-002
   santrauka: 'Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -72,9 +72,9 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
+- c-003
   santrauka: 'Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -97,7 +97,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

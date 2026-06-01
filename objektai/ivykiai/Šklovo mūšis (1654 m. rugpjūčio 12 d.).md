@@ -1,37 +1,23 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Šklovo mūšis (1654 m. rugpjūčio 12 d.)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Šklovo mūšis'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1654 m. rugpjūčio 12 d.'
-vaidmenys: []
-dalyviai:
-  - 'Jonušas Radvila'
-  - 'kunigaikštis Čerkaskis'
-susije_irasai: []
 datos:
   - '1612 m.'
   - '1654 m.'
   - '1655 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1612'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - mūšis
 amziai:
   - 'XVII'
   - 'XXI'
-date_start: '1612'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-02'
-tags:
-  - mūšis
 ---
 # Šklovo mūšis (1654 m. rugpjūčio 12 d.)
 
@@ -40,32 +26,36 @@ tags:
 Šiame gabale pateikiama mūšio pradžia: pajėgų dydžiai, maršrutas į Oršą ir Kopysę bei Radvilos sprendimas laikyti priešo veiksmus prie Smolensko. Mūšio baigtis šiame gabale dar neatskleista, todėl kandidatas laikytinas preliminariu. Šklovo mūšio išvakarėse Jonušas Radvila vadovavo gerokai mažesnėms LDK pajėgoms Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
+
+- t-001
+  teiginys: '1654 m. rugpjūčio 12 d. kunigaikštis Čerkaskis, turėdamas apie 40 000 karių, nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Lietuvos pajėgos Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila (1612-1655).'
+
+- t-002
+  teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Caro kariuomenė prie
@@ -78,15 +68,13 @@ Nenurodyta
     nuo Smolensko žygiavo užimti Oršą
 
     ir Kopysę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
 - c-002
-  santrauka: 'Lietuvos pajėgos Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila (1612-1655).'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos pajėgos
@@ -101,15 +89,14 @@ Nenurodyta
     sams pajėgų dydžiu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
+- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Radvilos]]

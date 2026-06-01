@@ -1,30 +1,16 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus monetų kalykla'
-sukurta: '2026-05-27'
-variantai:
-  - 'minca'
-  - 'U Wilni'
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-bukle: juodrastis
-laikotarpis: 'XVI a.'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1505 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1505'
 date_end: ''
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVI'
 ---
 # Vilniaus monetų kalykla
 
@@ -33,6 +19,7 @@ tags: []
 Vilniaus monetų kalykla Aleksandro laikų kontekste aprašoma kaip Ulriko Hozijaus prižiūrima įstaiga, teikusi karaliaus iždui nemaža pajamų. Lietuvos Metrikos išrašas pateikia jos pajamų apskaitos formulę Vilniuje.
 
 ## Pavadinimai šaltiniuose
+
 - Vilniaus monetų kalykla
 - minca
 - U Wilni
@@ -46,25 +33,25 @@ Vilniaus monetų kalykla, šaltinyje siejama su karaliaus iždo pajamomis.
 Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo kontekste.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, veikė energingiau ir teikė karaliaus iždui nemaža pajamų.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Lietuvos Metrikos žinioje nurodyta, kad Vilniaus monetų kalykla per ketverius metus davė valdovui 60 920 auksinų pajamų.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Kalyklos veikla siejama su Ulriko Hozijaus priežiūra ir iždo pajamomis.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dva­
@@ -77,13 +64,11 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Lietuvos Metrikos žinioje nurodyta, kad Vilniaus monetų kalykla per ketverius metus davė valdovui 60 920 auksinų pajamų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos Metrikoje apie tai yra tokia
@@ -102,13 +87,11 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     a 40 kop. i kopa i 26 hroszej.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
@@ -123,8 +106,6 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     1505 metų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

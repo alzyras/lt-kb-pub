@@ -1,25 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Leibgvardijos lietuviškasis pėstininkų pulkas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1831 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1831'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - sukilimas
+amziai:
+  - 'XIX'
 ---
 # Leibgvardijos lietuviškasis pėstininkų pulkas
 
@@ -28,19 +22,20 @@ tags:
 Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos lietuviškasis pėstininkų pulkas (pagrindinė pulko dalis slopino sukilimą Lenkijoje, prie Vilniaus buvo jo atsarginės dalys), Leibgvardijos Voluinės pėstininkų pulkas, 6-asis karabinierių.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Fronto kairiajame ir dešiniajame sparnuose taip pat buvo išdėstyta artilerija, už jos rikiavosi pėstininkai, kiek toliau - kavalerija.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kautynėms paruoštą Rusijos kariuome-
@@ -67,15 +62,13 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
     1831 m. sukilimo periodu Rusijos artilerija naudojo „jedinorog“, („vienaragio“) tipo pa-
     būklus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Fronto kairiajame ir dešiniajame sparnuose taip pat buvo išdėstyta artilerija, už jos rikiavosi pėstininkai, kiek toliau - kavalerija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Fronto kairiajame
@@ -103,11 +96,9 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
     jos pabūklai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -115,5 +106,5 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/ulonai]]
-- [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
 - [[objektai/grupes/Leibgvardijos kazokų pulkas]]
+- [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]

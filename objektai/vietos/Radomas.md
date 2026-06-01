@@ -1,28 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Radomas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - dokumentas
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Radomas
 
@@ -31,36 +26,20 @@ tags:
 Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žuvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą surašė Radome.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
-    Radomo susitarimu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
@@ -69,8 +48,38 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po ilgų derybų, 1401 m. buvo pa-
+    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
+    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
+    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
+    Radomo susitarimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vis dėlto norėtųsi manyti, kad toks dokumentas
+    Jogailos buvo išduotas.
+    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
+    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
+    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

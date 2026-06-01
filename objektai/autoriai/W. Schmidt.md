@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'W. Schmidt'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1912 m.'
   - '1930 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1912'
 date_end: '1930'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # W. Schmidt
 
@@ -28,16 +24,15 @@ tags:
 Schmidt, W.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     II, Torino 1965, 807-857 p. — Sadaus­
@@ -45,11 +40,9 @@ Schmidt, W.
     — Saulė (jos kultas), MLTE, III, 164-165 p. — Schmidt, W. : Ursprung
     und Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :
     Historisch-kritischer Teil, Münster i. W. 1912.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

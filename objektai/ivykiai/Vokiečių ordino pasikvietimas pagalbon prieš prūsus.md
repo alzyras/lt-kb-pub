@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vokiečių ordino pasikvietimas pagalbon prieš prūsus'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kraštas
@@ -33,22 +30,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XIII a. kryžiuočiai atsikraustė į Pavyslį, o kalavijuočiai - į Padauguvį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XIII a. kryžiuočiai atsikraustė į Pavyslį, o kalavijuočiai - į Padauguvį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
@@ -56,15 +51,13 @@ Nenurodyta
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai). Nuo tada pradeda
     rastis kaskart vis daugiau istorinių žinių apie aisčių gyve-
     nimą ir jų kovas už savo nepriklausomybę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Aisčių kraštai tuomet labai nukentėdavo. Bet, surinkę jėgų, ais-
@@ -72,11 +65,9 @@ Nenurodyta
     džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
     sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
     riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

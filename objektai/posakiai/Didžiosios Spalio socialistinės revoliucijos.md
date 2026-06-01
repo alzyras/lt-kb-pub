@@ -1,25 +1,19 @@
 ---
 tipas: posakis
 pavadinimas: 'Didžiosios Spalio socialistinės revoliucijos'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1918 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Didžiosios Spalio socialistinės revoliucijos
 
@@ -28,16 +22,15 @@ tags:
 To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoliucijos» pasėkoje buvęs pradėtas visai naujas laikotarpis Lietuvoje, kai buvusi įkurta Lietuvos Tarybų socialistinė respublika.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sovietiniai istorikai teigė, kad po „Didžiosios Spalio socialistinės revoliucijos“ Lietuvoje prasidėjo naujas laikotarpis.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sovietiniai istorikai teigė, kad po „Didžiosios Spalio socialistinės revoliucijos“ Lietuvoje prasidėjo naujas laikotarpis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet ji
@@ -48,11 +41,9 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
     tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
     pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
     pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

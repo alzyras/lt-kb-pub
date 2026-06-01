@@ -21,16 +21,16 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
 - t-001
   teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad lietuvos DK dokumentuose minimi valsčiuose esantys laukai, jų vardai (Jablonskis K.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XVI—XVII a. Lietuvos DK dokumentuose minimi valsčiuose esantys laukai, jų vardai
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.

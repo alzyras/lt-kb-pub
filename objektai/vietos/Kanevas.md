@@ -1,32 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Kanevas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1320 m.'
-  - '1321 m.'
-  - '1322 m.'
-  - '1323 m.'
-  - '1324 m.'
   - '1333 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
 date_start: '1320'
 date_end: '1333'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - pilis
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Kanevas
 
@@ -35,16 +24,15 @@ tags:
 (į šiaurę nuo Kijevo), Kanevas, Cerkasai (prie Dniepro žemiau Kijevo; xvi a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     (į šiaurę nuo Kijevo), Kanevas, Cerkasai
@@ -58,10 +46,8 @@ tags:
     įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,
     pastaraisiais dešimtmečiais akcentuotos
     dvi priešpaskutinės datos. Tarptautinių
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

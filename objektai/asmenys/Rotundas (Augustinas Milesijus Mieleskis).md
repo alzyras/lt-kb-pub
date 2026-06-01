@@ -28,24 +28,24 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Iš liudininkų paminė­ ti: Petrus Skarga Condonator, Augus­ tinus Rotundus Mieleski, juris Utriusque Doctor, Secretarius Regius, Capitaneus in Stokliszki, Civitatis Re­ giae Vilnensis Advocatus [Petras Skar­ ga, pamokslininkas, Augustinas Ro­ tundas Mieleskis.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augustinas Milesijus (Mieleskis), Vil­ niaus vaitas.'
+  teiginys: 'Iš liudininkų paminė­ ti: Petrus Skarga Condonator, Augus­ tinus Rotundus Mieleski, juris Utriusque Doctor, Secretarius Regius, Capitaneus in Stokliszki, Civitatis Re­ giae Vilnensis Advocatus [Petras Skar­ ga, pamokslininkas, Augustinas Ro­ tundas Mieleskis.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Augustas Rotundas Milesijus arba Mielickis, kaip jį vadina Igna­ cas Potockis, buvo kilęs iš bajorų, nes kur tik miesto aktuose sutikau jo pa­ vardę, visur buvo pridėta Nobilis [bajoras].'
+  teiginys: 'Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augustinas Milesijus (Mieleskis), Vil­ niaus vaitas.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Augustas Rotundas Milesijus arba Mielickis, kaip jį vadina Igna­ cas Potockis, buvo kilęs iš bajorų, nes kur tik miesto aktuose sutikau jo pa­ vardę, visur buvo pridėta Nobilis [bajoras].'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Christi
@@ -71,9 +71,9 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anuo metu Vilnius galėjo drąsiai ir sumaniai atremti mies­
@@ -90,9 +90,9 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. III,
@@ -111,7 +111,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Laurynas Mingilas-Džiugas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
@@ -25,19 +16,37 @@ tags:
 Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė kautynes, per kurias iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
+  teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'rugpjūčio 13 d. Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę.'
+  teiginys: 'Partizanas Laurynas Mingilas-Džiugas aprašė kautynes, per kurias iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Partizanas Laurynas Mingilas-Džiugas aprašė kautynes, per kurias iš vakarų ir šiaurinio kampo pasipylė automatinių ginklų serijos.'
+  santrauka: 'Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
+
+    Kautynes aprašė partizanas Laurynas Mingilas-Džiugas:
+
+    „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę. Soku greitai ir paciumpu už
+    ginklo. Ir tuo pačiu metu iš vakarų ir šiaurinio kampo pusės pasipila automatinių ginklų
+    serijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kautynes aprašė partizanas Laurynas Mingilas-Džiugas:
@@ -45,27 +54,9 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
     „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę. Soku greitai ir paciumpu už
     ginklo. Ir tuo pačiu metu iš vakarų ir šiaurinio kampo pusės pasipila automatinių ginklų
     serijos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'rugpjūčio 13 d. Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    rugpjūčio 13 d.
-
-    Kautynes aprašė partizanas Laurynas Mingilas-Džiugas:
-
-    „„Pažadino kažkoks garsus šūkis ir stuktelėjimas į pašonę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

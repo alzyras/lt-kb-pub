@@ -25,7 +25,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.'
   pagrindžia:
     - c-003
@@ -35,7 +35,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   pagrindžia:
     - c-002
 
-- t-001
+- t-003
   teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
   pagrindžia:
     - c-001
@@ -58,7 +58,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -102,7 +102,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

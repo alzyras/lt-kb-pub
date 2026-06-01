@@ -1,60 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: miera
-sukurta: '2026-04-30'
-variantai:
-  - miera / saikas
-  - saikas
-  - versta
-  - nykštis
-  - colis
-  - pirštas
-  - plaštaka
-  - gniaužta
-  - sprindis
-  - uolektis
-  - žingsnis
-  - kurpė
-  - mastas
-  - sieksnis
-  - šniūrų
-  - margas
-  - valakas
-  - žiupsnis
-  - rieškutės
-  - gniūžtis
-  - našta
-  - klėbys
-  - ašis
-  - sauja
-  - grįžtis
-  - kepurė
-  - rakandą
-  - druskinė
-  - dvolikis
-  - sėtuvė
-  - pūras
-  - bačka
-  - vežimas
-  - lašas
-  - tauragė
-  - kaušas
-  - krūžas
-  - kipis
-  - milžtuvė
-  - legerė
-  - vogonas
-  - verpelė
-  - bosas
-  - grūdas
-  - svaras
-  - stukas
-  - pundas
-  - birkova
+tipas: zodyno_irasas
+pavadinimas: 'miera'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # miera
 
@@ -67,90 +17,37 @@ Senųjų matų ir saikų sistema, apimanti ilgį, plotį, storį, skysčių kiek
 Pagrindinė forma: `miera`.
 Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plaštaka`, `gniaužta`, `sprindis`, `uolektis`, `žingsnis`, `kurpė`, `mastas`, `sieksnis`, `šniūrų`, `margas`, `valakas`, `žiupsnis`, `rieškutės`, `gniūžtis`, `našta`, `klėbys`, `ašis`, `sauja`, `grįžtis`, `kepurė`, `rakandą`, `druskinė`, `dvolikis`, `sėtuvė`, `pūras`, `bačka`, `vežimas`, `lašas`, `tauragė`, `kaušas`, `krūžas`, `kipis`, `milžtuvė`, `legerė`, `vogonas`, `verpelė`, `bosas`, `grūdas`, `svaras`, `stukas`, `pundas`, `birkova`.
 
-## Teiginiai
-- t-004
-  teiginys: '`Miera / saikas` šiame tekste reiškia senųjų matų sistemą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Sistema apima ilgio, storio, skysčių ir svorio matavimą.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-006
-  teiginys: '`Versta` tekste pateikiama kaip ilgio vienetas, susietas su sieksniais ir Lietuvos mylia.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '`Miera / saikas` šiame tekste reiškia senųjų matų sistemą.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Senovėj miera^1132 , arba saikas, ilgumo ir platumo toksai buvo: nykštis, arba colis, pirštas, plaštaka,
-    gniaužta, sprindis, uolektis, žingsnis; kurpė^1133 turėjo saviep 12 nykščių, arba colių. Uolektis, arba
-    mastas, tris kurpes, sieksnis 3 uolektis, versta^1134 , nuo žodžio versti arba verpti, beje, ženklinti, kaip
-    šiandien tebėr sakoma: „Užversk akmenį, užverpk šmaikštį“; versta turėjo tūkstantį sieksnių, o
-
-     Koialowicz, Histor. Lit., p. II, lib. V, p. 238.
-
-    (^1121) išleidžiant pamokėti
-    (^1122) atsiteisti, atsilyginti
-    (^1123) grašių
-    (^1124) nusikaltimą
-    (^1125) teisėjams
-    (^1126) plakė
-    (^1127) stulpo
-    (^1128) kalėjimą
-    (^1129) išmūryta
-    (^1130) dreves (su bitėmis)
-    (^1131) susimylėjus
-    (^1132) matas,
-    (^1133) dvylikos colių ilgio matas, pėda
-    (^1134) varstas (1,067 km)
-
-
-    penkios verstos darė senų dienų Lietuvos mylią, 30 šniūrų^1135 darė vieną margą^1136 , o 30 margų vieną
-    valaką [42
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-    - t-006
-- c-002
-  santrauka: 'Sistema apima ilgio, storio, skysčių ir svorio matavimą.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis,
-    kepurė, rakandą, druskinė, dvolikis^1139 , sėtuvė, pūras, bačka, vežimas. Miera, arba saikas, tekumo^1140
-    buvo: lašas, tauragė^1141 , kaušas, krūžas^1142 ,^ kipis^1143 , milžtuvė, legerė^1144 , vogonas^1145 , verpelė^1146 ,
-    bačka, bosas ir taip toliau. Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-
 ## Pastabos
 
 - Kai kurių vienetų modernūs atitikmenys pateikiami tik per autoriaus aiškinimą ir skirtingas apytiksles reikšmes, bet pats matų sistemos pobūdis aiškus.
 
+## Teiginiai
+
+- t-001
+  teiginys: 'Sistema apima ilgio, storio, skysčių ir svorio matavimą.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis, kepurė, rakandą, druskinė, dvolikis^1139 , sėtuvė, pūras, bačka, vežimas. Miera, arba saikas, tekumo^1140 buvo: lašas, tauragė^1141 , kaušas, krūžas^1142 ,^ kipis^1143 , milžtuvė, legerė^1144 , vogonas^1145 , verpelė^1146 , bačka, bosas ir taip toliau. Svaras, arba voga^1147 : grūdas, svaras, stukas^1148 , pundas^1149 , birkova^1150.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/1919 m. Lietuvos kariuomenės pėstininko žieminė kepurė]]
 - [[objektai/grupes/ATAS]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
+- [[objektai/asmenys/Abramas (iždininkas)]]
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
 - [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)]]
 - [[objektai/asmenys/Albertas iš Meiseno]]
@@ -160,6 +57,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
+- [[objektai/daiktai/Bombardos]]
 - [[objektai/asmenys/Danielius Lenčickis]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/grupes/Dominikonų ordinas]]
@@ -175,10 +73,10 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/autoriai/Irena Katilienė]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/autoriai/J. Kazėnas]]
+- [[objektai/asmenys/J. Aukštuolaitis]]
+- [[objektai/asmenys/Jazbutas]]
 - [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]
 - [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
 - [[objektai/asmenys/Jonas Jurgeravičius]]
 - [[objektai/grupes/Jotvingiai]]
@@ -190,6 +88,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Kazimiera Prunskienė]]
 - [[objektai/asmenys/Kazimieras Antanavičius]]
+- [[objektai/paprociai/Kieminė auka Perūnui per audrą]]
 - [[objektai/asmenys/Konradas (Baigos kunigas)]]
 - [[objektai/asmenys/Konradas Valenrodas]]
 - [[objektai/asmenys/Kopčius]]
@@ -202,6 +101,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/grupes/Lenkų tautiniai demokratai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
 - [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
@@ -216,7 +116,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
 - [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
-- [[objektai/posakiai/Lipdė laisvę ir lygybę iš sulūžusių tvorų]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/MGB]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
@@ -226,7 +125,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/autoriai/Ona Slavėnaitė]]
-- [[objektai/paprociai/Pabaisko bažnyčios dešimtinės, duoklių ir tarnybinių prievolių mokėjimo tvarka]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/grupes/Pamarėnai]]
 - [[objektai/grupes/Pasaulio lietuvių bendruomenė]]
@@ -234,7 +132,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]
 - [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/asmenys/Petras I Didysis]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
 - [[objektai/zodynas/Rinkos ekonomika]]
 - [[objektai/grupes/Riurikaičių dinastija]]
@@ -251,11 +148,11 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/ivykiai/Sovietų kalinių žudynės Pravieniškėse, Rainiuose ir kitur (1941 m. birželis)]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/daiktai/Torielius]]
 - [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
-- [[objektai/daiktai/Trimitai]]
 - [[objektai/daiktai/Troba]]
 - [[objektai/asmenys/Ulrichas iš Magdeburgo]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
@@ -269,6 +166,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs]]
 - [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
+- [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]
 - [[objektai/grupes/Vilniaus reformatai ir disidentai]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]
 - [[objektai/grupes/Vilniaus universitetas]]
@@ -284,7 +182,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/zodynas/avantiūristas]]
 - [[objektai/zodynas/bajoriškoji demokratija]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
-- [[objektai/zodynas/dešimtinė]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
 - [[objektai/zodynas/didvalstybė]]
 - [[objektai/zodynas/grašis]]
@@ -306,7 +203,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
@@ -315,4 +211,6 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 - [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]
 - [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
 - [[objektai/asmenys/Stanislovas Kiška]]
+- [[objektai/posakiai/lydimojo rašto]]
+- [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]

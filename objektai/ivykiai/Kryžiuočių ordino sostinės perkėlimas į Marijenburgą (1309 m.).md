@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1309 m.'
+date_start: '1309'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kraštas
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)
 
@@ -32,16 +35,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1309 m. didysis magistras su taryba atsikėlė į Marijenburgą, kuris tapo Kryžiuočių ordino sostine.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1309 m. didysis magistras su taryba atsikėlė į Marijenburgą, kuris tapo Kryžiuočių ordino sostine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet XIII
@@ -53,11 +55,9 @@ Nenurodyta
     Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
     didysis magistras. Tuo būdu Marijenburgas pasidarė ordino
     sostinė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

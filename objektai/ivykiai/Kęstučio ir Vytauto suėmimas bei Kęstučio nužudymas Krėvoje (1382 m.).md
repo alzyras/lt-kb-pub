@@ -43,12 +43,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­ gaila, esą pasirengęs taikytis.'
   pagrindžia:
     - c-001
@@ -110,7 +110,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -131,7 +131,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

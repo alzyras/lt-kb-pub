@@ -19,17 +19,17 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad skomanto (žr. paaiškinimus D. III, 164, 1) valdomas Kresinenos valsčius buvo apie Skomanto ežerą (Skomentnersee, dab. j. Skomętno į vakarus nuo Augustavo) ir toliau į rytus (Kamiński A.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad apie Skomanto, sūduvių vado, atsivertimą Sūduvos valsčiuje, vardu Kresmena, Skomantas garsėjo galia ir turtais, vis dėlto, negalėdamas atsispirti nuolatiniams brolių antpuoliams, pasitraukė iš savo krašto į Rusios žemę503 su visa šeimyna ir bičiuliais.'
-  pagrindžia:
-    - c-003
-
-- t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.'
   pagrindžia:
     - c-001
@@ -53,9 +53,9 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Skomanto, sūduvių vado, atsivertimą
@@ -70,9 +70,9 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mindaugo dokumente Cresmen (PUB, 1, 2,
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir.'

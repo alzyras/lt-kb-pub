@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos prekyba su Prūsais'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1933 m.'
   - '1934 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1933'
 date_end: '1934'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Lietuvos prekyba su Prūsais
 
@@ -28,18 +22,15 @@ tags:
 1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž. pradžios, 1934).
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Lietuvos prekyba su Prūsais“ buvo paskelbta 1934 m. kaip Lietuvos ūkio istorijos darbas apie laikotarpį iki XVI a. pradžios.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Lietuvos prekyba su Prūsais“ buvo paskelbta 1934 m. kaip Lietuvos ūkio istorijos darbas apie laikotarpį iki XVI a. pradžios.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
@@ -52,10 +43,8 @@ tags:
     luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
     ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
     pradžios, 1934).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

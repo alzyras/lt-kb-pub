@@ -1,15 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'elekcinis seimas (seimas)'
-sukurta: '2026-04-25'
-variantai:
-  - 'elekcinis seimas'
-aliases:
-  - 'elekcinis seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - seimas
@@ -22,16 +17,15 @@ tags:
 Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris Stanislovą Leščinskį paskelbė karaliumi.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris Stanislovą Leščinskį paskelbė karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl visuotinio sukilimo
@@ -44,11 +38,9 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
     lium Poznanės vaivadą
     Stanislovą Leščin-
     skį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

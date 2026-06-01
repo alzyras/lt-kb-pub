@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kunigas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - kunigas
@@ -26,22 +17,36 @@ tags:
 Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo išorinių priešų. Keliautojas pažymėjo ir socialinius skirtumus tarp val­ dančiųjų ir paprastų žmonių, nes «kunigai» ir turtingieji gerią kumelių pieną.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo išorinių priešų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo išorinių priešų.'
+  pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kunigų » (mūsiškai kunigaikščių) įsirengtos gynimuisi tarpusavio vaiduose ir nesantaikoje, XII-XIII amž. ėmė tarnauti gintis nuo išorinių priešų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
+    amž.
+    Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai
+    didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
+    kariaują. Keliautojas pažymėjo ir socialinius skirtumus tarp val­
+    dančiųjų ir paprastų žmonių, nes «kunigai» ir turtingieji gerią
+    kumelių pieną. (Matomai arklius teturėdavę turtingieji).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     giminės apgyventa ir sutvirtinta kalva, vėliau virto tikra pilimi.
@@ -52,29 +57,9 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
     šime (870-890 m.), kuris iki istorinių laikų apie vakarinius baltus
     palieka svarbiausias rašytas šaltinis, kalbėjo apie daugelį ten buvu­
     sių pilių, kurių kiekvienoje yra « kunigas » (« cynigc »).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
-    amž.
-    Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai
-    didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
-    kariaują. Keliautojas pažymėjo ir socialinius skirtumus tarp val­
-    dančiųjų ir paprastų žmonių, nes «kunigai» ir turtingieji gerią
-    kumelių pieną. (Matomai arklius teturėdavę turtingieji).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -97,7 +82,6 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
-- [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/asmenys/Bertoldas]]
 - [[objektai/asmenys/Dionizas Poška]]
 - [[objektai/asmenys/Ditrichas (Velzaco pilies kunigas)]]
@@ -129,6 +113,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - [[objektai/autoriai/Ks. Bauža]]
 - [[objektai/autoriai/Ksaveras Bogušas]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
+- [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]
 - [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
 - [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]
 - [[objektai/grupes/Lietuvių frontas]]
@@ -148,6 +133,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/grupes/Mokslo bičiulių draugija]]
+- [[objektai/grupes/Mokslo mėgėjų draugija Krokuvoje]]
 - [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas)]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/zodynas/Ordino brolis]]
@@ -163,7 +149,6 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - [[objektai/asmenys/Peža-Palionis]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Povyda]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]
 - [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]
 - [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]]
@@ -198,6 +183,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - [[objektai/autoriai/Antanas Tatarė]]
 - [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
 - [[objektai/asmenys/Karolis Garuckas|Karolis Garuckas (kunigas)]]
+- [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

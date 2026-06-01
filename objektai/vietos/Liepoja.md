@@ -1,30 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Liepoja'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1923 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1923'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - tauta
   - upė
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Liepoja
 
@@ -33,32 +26,38 @@ tags:
 Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis), be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti ir Liepojos uosto (vokiškoji Klaipėda. Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1917 m. lapkričio 2–10 d. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Bet juk taip Liepoją.'
+
+- t-002
+  teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   pagrindžia:
     - c-003
+
+- t-003
+  teiginys: '1917 m. lapkričio 2–10 d. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
+  pagrindžia:
+    - c-001
+
 - t-004
-  teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
+  teiginys: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1917 m. lapkričio 2–10 d. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
+    vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
+    sinaudoti Vokietijoje prasibrėžiančiais skirtumais tarp kaizerio, Užsienio
+    reikalų ministerijos ir Reichstago centro (katalikų) deputatų ir trukdyti
+    Lietuvos aneksijos planus.
+    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
     2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
     tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
@@ -67,46 +66,37 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
     be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Delegacija
+    Lietuvos delegacijai vadovavo A. Voldemaras, joje
+    dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
+    nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
+    iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz). Memoran-
+    dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
+    į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
+    gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
+    tarptautiniame forume, kurdama sąlygas nepriklausomybei. Delegacija
     buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
     rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
     dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
     Lietuva būtų priimta į Tautų Sąjungos bendriją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Bet juk taip Liepoją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Bet juk taip Liepoją. 1923 m. vargų kontekste - tai stebuklas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
+    - t-001
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Sukilėliai
+    ginklų ir savanorių iš Londono. Sukilėliai
     planavo užimti Palangos ir Liepojos uos-
     tus. Turėdami savo rankose uostų kontrolę,
     sukilėliai tikėjosi palaikyti nuolatinius
@@ -114,8 +104,47 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     tikėtasi paramos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  santrauka: 'Delegacija buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu darant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipėdą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad Lietuva būtų priimta į Tautų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Memoran-
+    dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
+    į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
+    gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
+    tarptautiniame forume, kurdama sąlygas nepriklausomybei. Delegacija
+    buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
+    rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
+    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
+    Lietuva būtų priimta į Tautų Sąjungos bendriją.
+    Delegacija įrodinėjo, kad Lietuva nenori priklausyti nei Lenkijai, nei
+    Rusijai, kad yra istorinė valstybė, ieškojo draugų ir sąjungininkų, tarėsi su
+    estais ir latviais, lenkais, bandė brėžti savo sienas įtraukdama ir Suvalkų
+    trikampį, dirbo informacinį propagandinį darbą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Zigmantą Sierakauską,
+
+    ginklų ir savanorių iš Londono. Sukilėliai
+    planavo užimti Palangos ir Liepojos uos-
+    tus. Turėdami savo rankose uostų kontrolę,
+    sukilėliai tikėjosi palaikyti nuolatinius
+    ryšius su Lenkija ir kitomis šalimis, iš kur
+    tikėtasi paramos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005

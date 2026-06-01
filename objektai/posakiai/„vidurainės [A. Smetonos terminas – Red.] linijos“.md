@@ -1,26 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: '„vidurainės [A. Smetonos terminas – Red.] linijos“'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1928 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1928'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „vidurainės [A. Smetonos terminas – Red.] linijos“
 
@@ -29,19 +23,21 @@ tags:
 Smetona stengėsi laikytis „vidurainės [A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
+    Kol kas viešojoje erdvėje dominuoja ekstrava-
+    gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
+    lietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų
+    ministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
     jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
     Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
     A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
@@ -53,11 +49,9 @@ Smetona stengėsi laikytis „vidurainės [A.
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     159
     Lenkiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -65,5 +59,6 @@ Smetona stengėsi laikytis „vidurainės [A.
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

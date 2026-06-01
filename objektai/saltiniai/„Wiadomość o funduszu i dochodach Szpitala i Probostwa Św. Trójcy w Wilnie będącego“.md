@@ -24,13 +24,14 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '2do, išspausdinto antrašte „Wiado­ mość o funduszu i dochodach Szpitala i Probostwa Św.'
+  teiginys: '„Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '„Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trejybės

@@ -24,19 +24,19 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad valsčiaus vardas lyginamas su Katinava (Kalwaitis W., Łietuwiszkų., p. 38) resp. Katniava (buv.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų, kurie plaukė laivais, ir, išdėstęs tinkamose.'
+  teiginys: 'Dusburgietis teigia, kad valsčiaus vardas lyginamas su Katinava (Kalwaitis W., Łietuwiszkų., p. 38) resp. Katniava (buv.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus tas pat brolis Ditrichas, fogtas, magistro įsakytas, atžygiavo į Nadruvos valsčių, vardu Katava461, pasiėmęs nemaža brolių, 150 raitelių bei daugybę pėstininkų, kurie plaukė laivais, ir, išdėstęs tinkamose.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     461 D.— Catthow, Jer.— Kattouwin. Valsčiaus vardas lyginamas su Katinava (Kalwaitis
@@ -56,9 +56,9 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     177 (172). Apie Auktuolyčių pilies užkariavimą
@@ -74,4 +74,4 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

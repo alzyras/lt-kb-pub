@@ -29,24 +29,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Significamus tenore pra­ esentium universis, quikus expedit praesentikus et futuris, quomodo considerata kenevolentia, et fide matrimoniali il­ lustrissimae D-nae Helenae Reginae consortis n-rae ckarissimae, volens eam consolatam et provisam keneficentia.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '## Puslapis 380 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO PRIVILEGIJA ŠVIESIAUSIAJAI KARALIENEI ELENAI, SUTEIKIANTI MOGILLAVO PILI IR T.'
+  teiginys: 'Significamus tenore pra­ esentium universis, quikus expedit praesentikus et futuris, quomodo considerata kenevolentia, et fide matrimoniali il­ lustrissimae D-nae Helenae Reginae consortis n-rae ckarissimae, volens eam consolatam et provisam keneficentia.'
   pagrindžia:
     - c-001
 
-- t-003
-  teiginys: '366 ## Puslapis 383 IV KNYGA vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors būdu dabar esančiais ir priklausančiais bei ateityje kokios nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir didėti į plotį, ilgį ir aplinkui, žiūrint, kaip.'
+- t-002
+  teiginys: '1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Significamus tenore pra­
@@ -114,30 +109,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
-
-- c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 380
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    KARALIAUS ALEKSANDRO PRIVILEGIJA
-    ŠVIESIAUSIAJAI KARALIENEI ELENAI,
-    SUTEIKIANTI MOGILLAVO PILI IR T. T
-    1503 METAI
-    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
-    In Nomine Domini Amen. Ne Actus kominum qui suk
-    tempore fiunt e memoria mortalium evanescant: Regum et
-    Principum alta consilia invenerunt, kujusmodi actus seu ne­
-    gotia literis et testium fideli annotatione perennare.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  statusas: verified
-  pagrindžia:
     - t-001
 
-- c-003
+- c-002
+  santrauka: '1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     366
@@ -169,4 +144,4 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

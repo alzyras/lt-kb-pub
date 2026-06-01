@@ -25,34 +25,34 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
+  teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   pagrindžia:
     - c-004
 
-- t-005
-  teiginys: 'Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų nedetalizavo.'
+- t-002
+  teiginys: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
   pagrindžia:
     - c-005
 
-- t-002
+- t-004
+  teiginys: 'Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų nedetalizavo.'
+  pagrindžia:
+    - c-001
+
+- t-005
   teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
@@ -64,7 +64,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,9 +81,9 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rugsėjį Himansas dar pataisė planą lietuvių
@@ -98,9 +98,9 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
@@ -112,9 +112,9 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Net didžiausi SSRS simpatikai
@@ -131,7 +131,7 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-006
   santrauka: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'

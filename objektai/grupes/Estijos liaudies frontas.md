@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Estijos liaudies frontas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - reforma
@@ -19,26 +16,26 @@ tags:
 1988 m. balandžio 13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliausius pertvarkos šalininkus.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1988 m. balandžio 13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliausius pertvarkos šalininkus.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1988 m. balandžio 13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliausius pertvarkos šalininkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1988 m. balandžio
+    Nuo rašytojų
+    neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai. Kritiškai mąstantys
+    ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo
+    vykdomą pertvarką, pokyčius sovietinėse respublikose. 1988 m. balandžio
     13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms
     vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliau-
     sius pertvarkos šalininkus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

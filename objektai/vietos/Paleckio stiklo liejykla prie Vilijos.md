@@ -25,24 +25,25 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­ raliaus paskirtų senatorių pastangomis, išlaisvino miestą nuo ateityje labai nemalonaus monopolio, kuris būtų smar­ kiai pakėlęs stiklo kainą miesto gyventojams55.'
   pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą.'
-  pagrindžia:
-    - c-002
-
-- t-001
-  teiginys: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
+  teiginys: '1547 m. Paleckio liejyklai skirtas sklypas buvo už Vilijos, tarp karaliaus šunidės ir Hlebavičiaus plytinės.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: '1547 m. Paleckio liejyklai skirtas sklypas buvo už Vilijos, tarp karaliaus šunidės ir Hlebavičiaus plytinės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota 1547 metų gegu­
@@ -65,7 +66,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
@@ -87,7 +88,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -106,4 +107,4 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

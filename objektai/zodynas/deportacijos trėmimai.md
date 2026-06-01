@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'deportacijos trėmimai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - sąvoka
@@ -25,35 +16,36 @@ tags:
 Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m. gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyventojai.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m. gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyventojai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Nors iki atgimimo galiojo įvairūs draudimai (neužsiminti apie nepriklausomą Lietuvos valstybę, ją peikti ir niekinti, nekalbėti apie pokario masines gyventojų deportacijas, partizanų kovas) nuo septintojo dešimt­ mečio kultūros padėtis pagerėjo: rašytojai.'
   pagrindžia:
     - c-002
+
+- t-002
+  teiginys: 'Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m. gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyventojai.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m. gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietu-
+    Dislokuotos Lietuvoje NKVD
+    divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį
+    okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst. Lietu-
     vos gyventojų patyrė vienokią ar kitokią okupantų prievartą. Slopinant
     ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m.
     gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyvento-
     jai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Nors iki atgimimo galiojo įvairūs draudimai (neužsiminti apie nepriklausomą Lietuvos valstybę, ją peikti ir niekinti, nekalbėti apie pokario masines gyventojų deportacijas, partizanų kovas) nuo septintojo dešimt­ mečio kultūros padėtis pagerėjo: rašytojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ir kitose kultūros
@@ -71,11 +63,9 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
     laipsniui tapo savo tautos sąžinės balsu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

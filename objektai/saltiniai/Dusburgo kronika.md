@@ -1,28 +1,22 @@
 ---
 tipas: saltinis
 pavadinimas: 'Dusburgo kronika'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1304 m.'
   - '1317 m.'
-  - '1322 m.'
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1304'
 date_end: '1324'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # Dusburgo kronika
 
@@ -31,59 +25,50 @@ tags:
 Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi, ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus), lyginę juos su arkliais ir mulais (SRP, I, 90).
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Dusburgo kronikoje pažymėta, kad kopūstai prūsams buvę nežinomi, o juos valgiusius ordino brolius prūsai lyginę su arkliais ir mulais.'
+  teiginys: 'Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama; antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­ rum Gedemini jau.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemini, turbūt stovėjusią kur nors Lietuvos su Prūsija pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­ niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens tum.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama; antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­ rum Gedemini jau.'
-  pagrindžia:
-    - c-006
-- t-007
+
+- t-003
   teiginys: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
   pagrindžia:
     - c-007
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kita užuomina
-    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
-    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
-    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
-    jos užimti, o tik sudegino papilį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-004
+  teiginys: 'Dusburgo kronikoje pažymėta, kad kopūstai prūsams buvę nežinomi, o juos valgiusius ordino brolius prūsai lyginę su arkliais ir mulais.'
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno.'
+    - c-004
+
+- t-005
+  teiginys: 'Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.'
+  pagrindžia:
+    - c-006
+
+- t-006
+  teiginys: 'Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemini, turbūt stovėjusią kur nors Lietuvos su Prūsija pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­ niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens tum.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Trečią kartą šis papilys bu­
+    387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
     vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
     želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
     burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
@@ -96,13 +81,11 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     metais pastatyta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.'
+    - t-001
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anot amžininko Dusburgo(c.  352) pranešimo, Gedi­
@@ -116,13 +99,50 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     vincijoms, turint tikslą juos viešai paskelbti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
+    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
+    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
+    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
+    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
+    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
+    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
+    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
+    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
+    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
+    metais pastatyta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Apie daržoves yra
+    teigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau
+    susipažinę su slavų tautomis (J. Jaroszewicz). Kas liečia kopūstus,
+    Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,
+    ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),
+    lyginę juos su arkliais ir mulais (SRP, I, 90).
+    Jau viduriniame geležies amžiuje žemės darbui buvo imta
+    naudoti gyvulio traukiamoji jėga, pirmoje eilėje jaučių jungas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: 'Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemini, turbūt stovėjusią kur nors Lietuvos su Prūsija pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­ niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens tum.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Hartknochas Dusbur-
@@ -142,69 +162,36 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
     kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama; antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­ rum Gedemini jau.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    387); anot jos, Ragainės komtūras Fridri­
-    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
-    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
-    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
-    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
-    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
-    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
-    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
-    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
-    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
-    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
-    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
-    metais pastatyta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kita užuomina
+    Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
     Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
     yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
     chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
     jos užimti, o tik sudegino papilį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-005
 
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Dusburgo kronikoje pažymėta, kad kopūstai prūsams buvę nežinomi, o juos valgiusius ordino brolius prūsai lyginę su arkliais ir mulais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Apie daržoves yra
-    teigiama, jog lietuviai jas pradėję auginti, kada jau buvo arčiau
-    susipažinę su slavų tautomis (J. Jaroszewicz). Kas liečia kopūstus,
-    Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę nežinomi,
-    ir todėl prūsai, matydami ordino brolius valgant žoles (kopūstus),
-    lyginę juos su arkliais ir mulais (SRP, I, 90).
-    Jau viduriniame geležies amžiuje žemės darbui buvo imta
-    naudoti gyvulio traukiamoji jėga, pirmoje eilėje jaučių jungas.
-  citata_rodoma: ""
+    Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

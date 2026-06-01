@@ -25,25 +25,25 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: '447 5) Parašai ant privilegijos, išduotos Bekešui dėl Alantos dvaro - Step­ hanus Rex - ]an Hlebowicz na Dubrownie Kaszt.'
+  pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: '61, apgailestauja, kad Bekešas buvo daugiau negu anabaptistas ir to įrodymui pacituoja pas­ kutinius jo žodžius, pasakytus prieš mirtį.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: '61, apgailestauja, kad Bekešas buvo daugiau negu anabaptistas ir to įrodymui pacituoja pas­ kutinius jo žodžius, pasakytus prieš mirtį.'
-  pagrindžia:
-    - c-003
-
-- t-001
   teiginys: 'Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-004
   teiginys: 'Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -69,9 +69,9 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus bažnyčia (planas) /
@@ -124,9 +124,9 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kavars­
@@ -141,9 +141,9 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     N i e s i e c k i Korona
@@ -159,4 +159,4 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

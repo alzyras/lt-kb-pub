@@ -41,29 +41,29 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad 277 Taika sudaryta 1243 m. pavasarį (Ewald A.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
   pagrindžia:
     - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų; šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai.'
+  teiginys: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie Sventopelko ir brolių susitaikymą Kai viską šitaip sutvarkė, iš gailestingojo dievo malonės kunigaikštis Sventopelkas, iki šiol toks kietasprandis, toks atkaklus ir klastingas, kad nei prašymais, nei už pinigus, nei grasinimais nesidavė palenkiamas ir.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų; šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai.'
   pagrindžia:
     - c-001
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Sventopelko ir brolių susitaikymą Kai viską šitaip sutvarkė, iš gailestingojo dievo malonės kunigaikštis Sventopelkas, iki šiol toks kietasprandis, toks atkaklus ir klastingas, kad nei prašymais, nei už pinigus, nei grasinimais nesidavė palenkiamas ir.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to,
@@ -87,9 +87,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sventopelko ir brolių susitaikymą
@@ -117,9 +117,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to,
@@ -143,9 +143,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot
@@ -154,7 +154,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

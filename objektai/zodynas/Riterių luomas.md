@@ -1,28 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Riterių luomas"
-sukurta: '2026-05-27'
-variantai:
-  - "riterių luomas"
-aliases:
-  - "Riterių luomas"
-  - "riterių luomas"
+pavadinimas: 'Riterių luomas'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Riterių luomas
 
@@ -43,25 +25,25 @@ Terminas žymi viduramžių socialinį luomą ar instituciją, susietą su bajor
 Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kontekste.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Riterių luomas apibūdintas kaip garbingiausioji viduramžių institucija.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Visuotinai sutelkus dėmesį į Šven­ tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­ formuotas riterių luomas - pati garbingiausioji viduramžių institucija.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata susieja riterių luomą su Kryžiaus karų poveikiu ir feodalizmo piktnaudžiavimo sutramdymu.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiaus karai, kurie XI amžiuje buvo sumaišę protus be­
@@ -73,16 +55,14 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­
     formuotas riterių luomas - pati garbingiausioji viduramžių
     institucija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Visuotinai sutelkus dėmesį į Šven­ tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­ formuotas riterių luomas - pati garbingiausioji viduramžių institucija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų įtaka
@@ -95,9 +75,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     mokslai ir masino prekyba.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

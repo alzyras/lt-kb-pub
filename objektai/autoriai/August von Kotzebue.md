@@ -24,49 +24,49 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
-  pagrindžia:
-    - c-002
-
-- t-008
-  teiginys: 'Mat nemaža miesto dalis su- 15 Nors Kotzebue loco cit.'
-  pagrindžia:
-    - c-008
-
-- t-006
-  teiginys: 'Vis dėlto ir Švitri­ gailai atsirado gynėjas: Kotzebue, aukščiau cituotame savo rašinyje Switrigail ein Beytrag etc.'
-  pagrindžia:
-    - c-006
-
-- t-003
-  teiginys: '1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Mat nemaža miesto dalis su- 15 Nors Kotzebue loco cit.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Vis dėlto ir Švitri­ gailai atsirado gynėjas: Kotzebue, aukščiau cituotame savo rašinyje Switrigail ein Beytrag etc.'
+  pagrindžia:
+    - c-007
+
 - t-004
+  teiginys: '1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.'
+  pagrindžia:
+    - c-005
+
+- t-005
   teiginys: 'Bet kokia priežastis vertė Kotzebue nemačiomis tai praleisti, kas plika akimi matoma?'
   pagrindžia:
     - c-004
 
-- t-005
+- t-006
   teiginys: 'Šitai vėlei liu­ dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.'
   pagrindžia:
-    - c-005
-
-- t-001
-  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
-  pagrindžia:
-    - c-001
+    - c-002
 
 - t-007
+  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
+  pagrindžia:
+    - c-006
+
+- t-008
   teiginys: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
   pagrindžia:
-    - c-007
+    - c-008
 
 ## Reikšmingi paminėjimai
 
-- c-008
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mat nemaža miesto dalis su-
@@ -86,9 +86,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-002
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be abejonės,
@@ -101,9 +101,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-006
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il
@@ -120,7 +120,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -136,9 +136,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-003
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie jo priėmimą popiežiaus
@@ -158,9 +158,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nė kiek nenorėdami su­
@@ -183,9 +183,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-007
 
-- c-006
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis kunigaikštis, dar nuo pirmųjų kivir-
@@ -215,9 +215,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-007
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9
@@ -247,7 +247,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

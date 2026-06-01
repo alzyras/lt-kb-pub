@@ -25,19 +25,19 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Juraha to viderkafto mokestį nuo pas­ tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms, nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kahalo yra atiduodamas.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: '186 ## Puslapis 203 Il KNYGA 1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo žydams; nuo šios sumos kahalas iki 1763 metų.'
+  teiginys: 'Juraha to viderkafto mokestį nuo pas­ tarojo mūro nuėmęs priskyrė kahale investuotoms sumoms, nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kahalo yra atiduodamas.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1756. Akademijos Rektorius t. Juraha taip pat prie kole­
@@ -60,9 +60,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
+  santrauka: 'Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Insuper 750 auksinų sumą užrašė,
@@ -85,7 +86,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -104,5 +105,4 @@ amziai:
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
 - [[objektai/asmenys/Marcelis Suchodolskis]]
 - [[objektai/asmenys/Pilypas Frizijus]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]

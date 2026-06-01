@@ -1,22 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Lizdeika'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1832 m.'
+date_start: '1832'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Lizdeika
 
@@ -25,33 +24,15 @@ tags:
 Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: '3 Dabartinė katedros varpinė, anot Lietuvos kronikininkų ir vietos žmo­ nių padavimų, buvęs tas pats bokš­ tas, iš kurio Lizdeika ir jo pirmtakai iškilmingai pasirodydavę Vilniaus pagonims paskelbti blogos ar geros pranašystės.'
   pagrindžia:
-    - c-002
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgiečio krivis
-    tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
-    papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam
-    žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil. 4680), be to, Lietuvos
-    metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '3 Dabartinė katedros varpinė, anot Lietuvos kronikininkų ir vietos žmo­ nių padavimų, buvęs tas pats bokš­ tas, iš kurio Lizdeika ir jo pirmtakai iškilmingai pasirodydavę Vilniaus pagonims paskelbti blogos ar geros pranašystės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -75,11 +56,9 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     tam įrodymu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

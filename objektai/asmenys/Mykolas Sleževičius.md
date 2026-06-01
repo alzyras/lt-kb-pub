@@ -27,12 +27,12 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
   pagrindžia:
     - c-007
 
-- t-005
+- t-002
   teiginys: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
   pagrindžia:
     - c-005
@@ -40,36 +40,36 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 - t-003
   teiginys: 'Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.'
   pagrindžia:
-    - c-003
-
-- t-008
-  teiginys: 'Sleževičiaus vaidmuo L I E T U V O S I S T O R I J A 144 nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pakvietė priešintis įsiveržėliams ir tautines mažumas, dėl.'
-  pagrindžia:
-    - c-008
+    - c-006
 
 - t-004
-  teiginys: 'Sleževičiumi priešakyje.'
+  teiginys: 'Sleževičiaus vaidmuo L I E T U V O S I S T O R I J A 144 nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pakvietė priešintis įsiveržėliams ir tautines mažumas, dėl.'
   pagrindžia:
-    - c-004
+    - c-003
 
-- t-001
-  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.'
+- t-005
+  teiginys: 'Sleževičiumi priešakyje.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-006
+  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.'
+  pagrindžia:
+    - c-008
+
+- t-007
   teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
+  pagrindžia:
+    - c-004
+
+- t-008
+  teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
   pagrindžia:
     - c-002
 
-- t-006
-  teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
-  pagrindžia:
-    - c-006
-
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezidentu išrinktas valstiečių liaudininkų
@@ -80,9 +80,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-006
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     sąjungą (LTS), kuriai A. Smetona neleido persitvarkyti į partiją, o tik
@@ -96,9 +96,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-008
 
-- c-008
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
@@ -121,9 +121,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-004
 
-- c-002
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
@@ -141,7 +141,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-007
 
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -156,9 +156,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-003
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
@@ -194,9 +194,9 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-001
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
@@ -208,7 +208,7 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

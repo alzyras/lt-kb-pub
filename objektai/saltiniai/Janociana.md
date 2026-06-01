@@ -18,13 +18,14 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 ## Teiginiai
 
 - t-001
-  teiginys: 'Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto Augusto nurodymu, jis pradėjęs rašyti lotynų kalba „Lietu­ vos istoriją", bet po karaliaus mir­ ties tą darbą užmetęs, janociana, Vol.'
+  teiginys: 'Janockis teigė, kad Augustas Rotundas Mieleskis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti Lietuvos istoriją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Janockis teigė, kad Augustas Rotundas Mieleskis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti Lietuvos istoriją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Augustas Rotundas Milesijus

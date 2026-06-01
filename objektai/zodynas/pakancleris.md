@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pakancleris'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1575 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1575'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - sąvoka
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # pakancleris
 
@@ -29,26 +23,20 @@ tags:
 Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­ davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­ tarimo, dažniausiai jo paramos. Vienas pakancleris atvirai pripažįsta, kad jis ir sa­ vo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­ tą^4 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkų karūnos pakancleriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami jo patarimo ir paramos.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vienas pakancleris pripažino, kad nepildytų net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Dokumentą Gardine pasirašė pakancleris Leonas Sapiega ir raštininkas Stanislovas Skulskis.'
-  pagrindžia:
-    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkų karūnos pakancleriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami jo patarimo ir paramos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
@@ -64,15 +52,13 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
     Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
     rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
     Vyt. dėkingas už Poznaniaus mitrą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vienas pakancleris pripažino, kad nepildytų net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sis pastarasis, kaip karū­
@@ -81,41 +67,11 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
     luose^3 '). Vienas pakancleris atvirai pripažįsta, kad jis ir sa­
     vo tėvo įsakymų nepildytų, jei jie būtų nukreipti prieš Vytau­
     tą^4 ). Toks buvo didelis prie Vytauto prisirišimas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dokumentą Gardine pasirašė pakancleris Leonas Sapiega ir raštininkas Stanislovas Skulskis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Duota Gardine. Parašai: Vice-
-    Cancellarius Leo Sapieha, Stanislaus
-    Skulski Notarius [Pakancleris Leo­
-    nas Sapiega, raštininkas Stanislovas
-    Skulskis].
-    68
-    Petras Timofiejevas Mstislavliškis, iš
-    Maskvos atvykęs spaustuvininkas,
-    padedamas ir proteguojamas Alek­
-    sandro Chodkevičiaus sūnaus Jurgio,
-    1575 metais Vilniuje pas Kuzmą ir
-    Luką Mamoničius, Jono Semena vi-
-    čiaus Zažeckio, iždininko, Upytės se­
-    niūno ir jo brolio Zenono, Vilniaus
-    miesto burmistro, iniciatyva ir lėšo­
-    mis pirmą kartą išspausdino „Cztėry
-    Ewangelje" in folio minori.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -126,15 +82,11 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Ziemovitas]]
-- [[objektai/daiktai/Bibliotekos knygos]]
 - [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]
-- [[objektai/asmenys/Bžostovskis]]
 - [[objektai/autoriai/Gurnickis]]
-- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/asmenys/Leonas Sapiega]]
 - [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vaišnarovičius]]
 - [[objektai/daiktai/Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys]]

@@ -1,25 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'marksistinė periodizacija komunistinės istoriografijos nomenklatūra'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1801 m.'
   - '1861 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1861'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
+amziai:
+  - 'XIX'
 ---
 # marksistinė periodizacija komunistinės istoriografijos nomenklatūra
 
@@ -28,46 +24,25 @@ tags:
 Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Lietuvos istorijos laukui komunistinės istorio­ grafijos nomenklatūrą, tarybiniai istorikai čia tematė du ryškius laikotarpius. Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo būti logiškai konsekventiški.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į feodalinių santykių atsiradimą, baudžiavos įsigalėjimą ir jos irimą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Tarybiniai istorikai, taikydami komunistinės istoriografijos nomenklatūrą Lietuvos istorijai, išskyrė du ryškius laikotarpius.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
+    - c-001
+
+- t-002
   teiginys: 'Ivinskio vertinimu, marksistinė Lietuvos istorijos periodizacija buvo svetima lietuvių tautos istorijos faktams.'
   pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į feodalinių santykių atsiradimą, baudžiavos įsigalėjimą ir jos irimą.'
+  pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į feodalinių santykių atsiradimą, baudžiavos įsigalėjimą ir jos irimą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pa­
-    gal ją, I-sis Lietuvos TSR istorijos tomas apima feodalizmo epochą
-    (iki 1861 m.). Joje feodalinių santykių atsiradimo ir Lietuvos vals­
-    tybės susidarymo laikotarpį (IX-XV amž.) pakeičia baudžiavinių
-    santykių įsigalėjimo šimtmečiai (iki XVIII amž. pirmos pusės).
-    O toliau seka naujas laikotarpis, tai šimtmetis baudžiavinio ūkio
-    irimo ir kapitalistinių santykių atsiradimo (iki XIX amž. pusės).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tarybiniai istorikai, taikydami komunistinės istoriografijos nomenklatūrą Lietuvos istorijai, išskyrė du ryškius laikotarpius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pritaikydami ir Lietuvos istorijos laukui komunistinės istorio­
@@ -78,15 +53,13 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
     spaudą. Antrasis laikotarpis pradedamas naujo šimtmečio (XX)
     pačia pradžia, kada imperializmo ir buržuazinių bei demokratinių
     revoliucijų metais iš viso pakyla revoliucinis judėjimas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Ivinskio vertinimu, marksistinė Lietuvos istorijos periodizacija buvo svetima lietuvių tautos istorijos faktams.'
+    - t-001
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
@@ -94,11 +67,25 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
     būti logiškai konsekventiški. Bet jų periodizacija yra svetima
     lietuvių tautos istorijos faktams. Ji net užtenkamai neatsižvelgia
     į pačios liaudies socialinius, kultūrinius bei ūkinius santykius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pa­
+    gal ją, I-sis Lietuvos TSR istorijos tomas apima feodalizmo epochą
+    (iki 1861 m.). Joje feodalinių santykių atsiradimo ir Lietuvos vals­
+    tybės susidarymo laikotarpį (IX-XV amž.) pakeičia baudžiavinių
+    santykių įsigalėjimo šimtmečiai (iki XVIII amž. pirmos pusės).
+    O toliau seka naujas laikotarpis, tai šimtmetis baudžiavinio ūkio
+    irimo ir kapitalistinių santykių atsiradimo (iki XIX amž. pusės).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -36,35 +36,35 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-005
+- t-002
   teiginys: 'Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą.'
   pagrindžia:
-    - c-005
-    - c-006
+    - c-001
+    - c-008
 
 - t-003
   teiginys: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
   pagrindžia:
-    - c-008
-
-- t-001
-  teiginys: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
-  pagrindžia:
     - c-007
 
-- t-002
+- t-004
+  teiginys: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
+  pagrindžia:
+    - c-003
+
+- t-005
   teiginys: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
   pagrindžia:
-    - c-002
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
@@ -78,9 +78,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-004
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautui tai davė progos Jogailą kaltinti, jog jis
@@ -94,9 +94,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-007
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
@@ -112,9 +112,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-001
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkų ponai įrodinėjo, kad Vytauto karūnavi-
@@ -130,7 +130,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
@@ -143,9 +143,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-003
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įsižeidęs jis nusprendė karūnuotis, į nieką neatsi-
@@ -177,7 +177,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-008
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet ir
@@ -197,7 +197,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-006
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
@@ -209,7 +209,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

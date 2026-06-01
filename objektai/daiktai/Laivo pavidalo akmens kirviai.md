@@ -1,14 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Laivo pavidalo akmens kirviai'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-patikimumas: 'aukštas'
-periodas: priesistore
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
 ---
@@ -19,33 +15,35 @@ tags:
 Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.'
   pagrindžia:
-    - c-003
     - c-002
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visi tų gyventojų įrankiai buvo stipriai gludinti ir žymiai ge­
@@ -56,15 +54,13 @@ Nenurodyta
     kurios kilmės anksčiau buvo ieškoma šiaurėje, yra vadinama rutu­
     linių amforų kultūra^7. Kita svarbi šios kultūros žymė buvo gražios
     formos ir meniškai virvučių įspaudomis papuošti puodai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Laivo pavidalo akmens kirviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visi tų gyventojų įrankiai buvo stipriai gludinti ir žymiai ge­
@@ -75,15 +71,13 @@ Nenurodyta
     kurios kilmės anksčiau buvo ieškoma šiaurėje, yra vadinama rutu­
     linių amforų kultūra^7. Kita svarbi šios kultūros žymė buvo gražios
     formos ir meniškai virvučių įspaudomis papuošti puodai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
-  santrauka: Laivo pavidalo akmens kirviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visi tų gyventojų įrankiai buvo stipriai gludinti ir žymiai ge­
@@ -94,11 +88,9 @@ Nenurodyta
     kurios kilmės anksčiau buvo ieškoma šiaurėje, yra vadinama rutu­
     linių amforų kultūra^7. Kita svarbi šios kultūros žymė buvo gražios
     formos ir meniškai virvučių įspaudomis papuošti puodai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

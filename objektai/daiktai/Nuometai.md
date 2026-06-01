@@ -1,24 +1,10 @@
 ---
 tipas: daiktas
-pavadinimas: Nuometai
-sukurta: '2026-04-30'
-variantai: []
-aliases: []
+pavadinimas: 'Nuometai'
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Nuometai
 
@@ -27,32 +13,36 @@ tags: []
 Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.'
   pagrindžia:
     - c-001
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vieni dar žemaičiai sekė senovės būdą, ir
         taip Lasickis rašo tyčiodamos, jog Žemaičių jomylistos metuose 1564 sėtinius kepę savo namuose ir
@@ -62,11 +52,9 @@ Nenurodyta
         nuometus regėdami, varnai nelekia į jūsų pūrus^1474 , tardami, jog čia dar senovės lietuviai tebgyvena,
         nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
         sėsit juos ne sau, bet varnams.“
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

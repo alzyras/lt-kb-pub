@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -11,20 +8,16 @@ datos:
   - '1430 m.'
   - '1929 m.'
   - '1962 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
 date_start: '1350'
 date_end: '1962'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai
 
@@ -33,18 +26,15 @@ tags:
 Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai , TK, nr.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai“ 1929 m. paskelbti TK 7–8 numeryje.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Žymesnieji popiežių liudijimai apie Vytauto Didžiojo nuopelnus Katalikų Bažnyčiai“ 1929 m. paskelbti TK 7–8 numeryje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Semkowicz, W. : _Pierwsze przywileje
@@ -60,10 +50,8 @@ tags:
     Didžiojo nuopelnus Katalikų Bažnyčiai_ , TK, nr. 7-8, 1929, 90-93 p. —
     Salmen, W.: _Zur Musikgeschichte am litauischen Hofe unter Gross­
     fürst Witold (1350-1430)_ , Musik des Ostens, I, Kassel 1962, 80-82 p.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

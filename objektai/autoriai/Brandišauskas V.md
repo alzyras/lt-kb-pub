@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Brandišauskas V'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - valstybė
@@ -19,24 +16,23 @@ tags:
 Brandišauskas V.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'V. Brandišauskas parašė veikalą „Siekiai atkurti Lietuvos valstybingumą (1940 06–1941 09)“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'V. Brandišauskas parašė veikalą „Siekiai atkurti Lietuvos valstybingumą (1940 06–1941 09)“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
+    XX–XXI a. pradžia. Vilnius, 2009.
     Brandišauskas V. Siekiai atkurti Lietuvos valstybingumą (1940 06–1941
     09).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

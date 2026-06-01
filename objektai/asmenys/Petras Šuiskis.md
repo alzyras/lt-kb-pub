@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Petras Šuiskis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karvedys
@@ -26,22 +17,20 @@ tags:
 Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolensko, kita, vadovaujama patyrusio karvedžio kunigaikščio Petro Šuiskio, iš Polocko traukė į Drucką. Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Kunigaikštis P. Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį
@@ -58,15 +47,13 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     iš Polocko traukė į Drucką. Čia jos turėjo
     susijungti ir pulti Minsko, Naugarduko, o
     vėliau Vilniaus kryptimi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Kunigaikštis P. Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Polocko su savo kariuomene kuni-
@@ -81,13 +68,11 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     riuomenei. Skubėdami užkirsti artėjančiam
     priešui kelią, raiteliai nelaukdami pėsti-
     ninkų ir artilerijos pajudėjo greitu maršu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

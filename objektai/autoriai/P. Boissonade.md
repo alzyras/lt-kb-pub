@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'P. Boissonade'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1923 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1923'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # P. Boissonade
 
@@ -27,16 +23,15 @@ tags:
 Boissonade, P.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tokių nuo Lietuvos pusiau priklausančių žemių, kurios
@@ -58,11 +53,9 @@ Boissonade, P.
     K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,27 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kryžininkai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1392 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1392'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - mūšis
   - ordinas
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # kryžininkai
 
@@ -30,20 +25,20 @@ tags:
 Į šią kryžiaus karo akciją buvo įtraukti ir prieš tuo metu Rytų Europą užplūdusius totorius gausiai suverbuoti kryžininkai. Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kryžininkai, gausiai suverbuoti kovai su Rytų Europą užplūdusiais totoriais, buvo įtraukti į kryžiaus karo akciją.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kryžininkai, gausiai suverbuoti kovai su Rytų Europą užplūdusiais totoriais, buvo įtraukti į kryžiaus karo akciją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Į šią kry-
@@ -56,15 +51,13 @@ tags:
 
     Puolimo prieš Lietuvą išvakarėse Ordi-
     nas stiprino ryšius su lenkų kunigaikščiais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar leidžia kapitulai
@@ -95,12 +88,17 @@ tags:
     Lietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-
     duodama 12 pūdų vaško: duodecem
     talenta cerae Pud dieta, de curia castri
-    nostri Viln.
+    nostri Viln. singulis quatuor tempori­
+    bus tria talenta solvi debent capitulo su-
+    prascripto etc [dvylika talentų vaško,
+    vadinamų pūdais, iš mūsų Vilniaus
+    pilies dvaro kiekvienais metais ke­
+    turiskart po tris talentus privalo
+    aukščiau aprašytai kapitulai mokė­
+    ti].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -145,4 +143,3 @@ tags:
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/asmenys/Konradas Valenrodas]]
-- [[objektai/zodynas/Puslapis 77]]

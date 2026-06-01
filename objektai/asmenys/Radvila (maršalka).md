@@ -82,7 +82,6 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Radvilų giminė]]

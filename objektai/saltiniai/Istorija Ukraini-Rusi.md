@@ -1,24 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Istorija Ukraini-Rusi'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1801 m.'
   - '1891 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1891'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Istorija Ukraini-Rusi
 
@@ -27,18 +23,15 @@ tags:
 Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-Rusi (HrlU).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mychailo Gruševskis parašė „Istorija Ukraini-Rusi“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Mychailo Gruševskis parašė „Istorija Ukraini-Rusi“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Maskvoje 1939. —-
@@ -48,10 +41,8 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
     (^147) **V. Zaikin :** **_Učastie svetskago elementaą v cerkovnom upravlenii, vybornoe
     načalo i_** **«** **_sobornost' » v Kievskoj mitropolitij v XVI i XVII vekach,_** **Varšuva
     1930;** **_Ustrój wewnętrzny Kościoła ruskiego w W. Ks.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

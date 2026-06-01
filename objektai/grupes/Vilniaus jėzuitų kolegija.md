@@ -28,49 +28,50 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Trejybės prieglaudą ir ją geriau aprūpinti pave­ dė kelissyk testamente minimoms seserims ir respublikai, o turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą, atidavė Vilniaus jėzuitų kolegijai.'
   pagrindžia:
-    - c-005
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Jono bažnyčios užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.'
   pagrindžia:
-    - c-003
+    - c-004
 
-- t-008
+- t-003
   teiginys: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
   pagrindžia:
     - c-008
 
-- t-007
+- t-004
   teiginys: 'O tų knygų, kurias atiduodame jėzuitams, der­ lius yra nemažas ir neprastas.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Šv. Jono bažnyčios arkipresbiteris ir miesto magistratas priešinosi jėzuitų siekiui pastatą prijungti prie kolegijos.'
   pagrindžia:
     - c-007
 
-- t-004
-  teiginys: '285 ## Puslapis 302 VILNIAUS MIESTO ISTORIJA// TOMAS Jono bažnyčios arkipresbiteris, jis drauge su miesto magist­ ratu priešinosi jėzuitų užmačioms įgyti šį pastatą ir prijung­ ti prie kolegijos50.'
-  pagrindžia:
-    - c-004
-
-- t-002
-  teiginys: 'Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kolegiją yra patvirtintas kardinolo Pranciškaus Ko­ mendom, Šv.'
-  pagrindžia:
-    - c-002
-
 - t-006
-  teiginys: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  teiginys: 'Jono bažnyčios Apaštališkojo Sosto valia inkorporavimas į Aka­ demijos kolegiją yra patvirtintas kardinolo Pranciškaus Ko­ mendom, Šv.'
   pagrindžia:
     - c-006
 
-- t-001
-  teiginys: 'Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.'
+- t-007
+  teiginys: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  pagrindžia:
+    - c-005
+
+- t-008
+  teiginys: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono brolijai priklausantiems,
@@ -92,9 +93,9 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-008
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mir­
@@ -108,9 +109,9 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-007
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O tų knygų, kurias atiduodame jėzuitams, der­
@@ -124,9 +125,9 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčios
@@ -141,9 +142,9 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     290
@@ -165,9 +166,9 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-007
 
-- c-002
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1571 metų gruodžio 22 dieną. Toks parapijinės Šv. Jono
@@ -178,9 +179,10 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-006
 
-- c-004
+- c-007
+  santrauka: 'Šv. Jono bažnyčios arkipresbiteris ir miesto magistratas priešinosi jėzuitų siekiui pastatą prijungti prie kolegijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     285
@@ -201,7 +203,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -222,7 +224,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -234,11 +236,10 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/paprociai/Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]

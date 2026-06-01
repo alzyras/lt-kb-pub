@@ -27,12 +27,12 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas salas (Mart. p. 442).'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
   pagrindžia:
     - c-001
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

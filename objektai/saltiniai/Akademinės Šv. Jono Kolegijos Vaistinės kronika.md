@@ -26,19 +26,19 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų ir pinigų užrašytų neturinti, buvo Collegii [kolegijos!'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Jono Kolegijos Vaistinės kronika 1546.'
+  teiginys: 'Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų ir pinigų užrašytų neturinti, buvo Collegii [kolegijos!'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Jono Kolegijos Vaistinės kronika 1546.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų
@@ -56,9 +56,9 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - • —
@@ -82,4 +82,4 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

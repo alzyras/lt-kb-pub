@@ -1,13 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Valstiečių prievolių inventorizavimas ir suvienodinimas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
 ---
@@ -33,16 +30,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Privatiniuose dvaruose tebuvo tik suvienodintos vals-
@@ -50,11 +46,9 @@ Nenurodyta
     sius inventorius, kuriuose nuo seno buvo surašomos visos
     valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

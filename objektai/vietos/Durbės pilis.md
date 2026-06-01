@@ -1,27 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Durbės pilis (pilis)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Durbės pilis'
-aliases:
-  - 'Durbės pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1435 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1435'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XV'
 ---
 # Durbės pilis (pilis)
 
@@ -30,16 +22,15 @@ tags:
 1435 m. spalį smogta Livonijai dar kartą, kai žemaičiai Kurše sudegino Durbės pilį.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1435 m. spalį smogta Livonijai dar kartą, kai žemaičiai Kurše sudegino Durbės pilį.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1435 m. spalį smogta Livonijai dar kartą, kai žemaičiai Kurše sudegino Durbės pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kita vertus, svarbu, kad ir tragiško-
@@ -56,10 +47,8 @@ tags:
     Vokiečių-kryžiuočių ordino didžiojo ma-
     gistro Rusdorfo, atstovaujančio Ordino že-
     mėms Prūsijoje, Livonijoje ir Vokietijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

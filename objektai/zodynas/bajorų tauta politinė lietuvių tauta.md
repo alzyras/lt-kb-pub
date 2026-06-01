@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bajorų tauta politinė lietuvių tauta'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kraštas
@@ -27,56 +18,58 @@ tags:
 Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką. Kronikos autoriui tauta – tik kilmingieji krašto gyventojai.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingiesiems LDK gyventojams.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingiesiems LDK gyventojams.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Krikščioniškasis men-
+    LDK visuomenė tampa europinė ir įsilieja į Va-
+    karų civilizaciją. Nuosavybės santykiuose susiformuoja leno teisė, socia-
+    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
+    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
+    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
+    kyklos ir jų triviumas, kolegijos ir universitetas). Krikščioniškasis men-
     talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
     tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
     susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingiesiems LDK gyventojams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Legendoje nekeliama ir kal-
+    Kronikos autoriui
+    tauta  – tik kilmingieji krašto gyventojai. Legendoje nekeliama ir kal-
     bos problema: tuo metu kalba nebuvo svarbiausias tautos bruožas, nes
     tada egzistavo ne etninė, bet politinė lietuvių tauta, kurios pagrindinis
     požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
     žmonių kilmė ir istorija pasakojama Lietuvos metraščiuose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuosavybės santykiuose susiformuoja leno teisė, socia-
@@ -90,11 +83,9 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
     Christianizacija ir šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Rusų administracija taip IX ## Puslapis 10 pat rengė ir leido dokumentų rinkinius, kuriuose tendencingai stengtasi įrodyti rusiškosios, ortodoksiškos civilizacijos tradici­ jas Šiaurės Vakarų krašte.'
+  teiginys: 'Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rusų administracija leido dokumentų rinkinius, kuriais tendencingai siekė įrodyti rusiškos ortodoksiškos civilizacijos tradicijas Šiaurės Vakarų krašte.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais

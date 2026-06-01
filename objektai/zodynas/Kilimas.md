@@ -1,15 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: kilimas
-sukurta: '2026-04-30'
-variantai:
-  - sage
-  - sagše
-  - vilnonę
+tipas: zodyno_irasas
+pavadinimas: 'kilimas'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # kilimas
 
@@ -22,56 +17,73 @@ Moterų išeiginė vilnonė skara ar apsiaustas. Terminas aiškinamas per kilmę
 Pagrindinė forma: `kilimas`.
 Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 
+## Pastabos
+
+- Žodis `kilimas` čia nereiškia grindų kilimo, o apsisiaudžiamą drabužį.
+
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: '`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.'
   pagrindžia:
     - c-001
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: '`Sage` ir `sagše` yra to paties drabužio vardai.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Išeiginiu drabužiu motriškųjų
-    buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
-    tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
-    tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas;
-  citata_rodoma: ""
+    Išeiginiu drabužiu motriškųjų buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
+        tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
+        tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose
+        laikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir
+        Žemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
+        susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
+        žiemą vilnonus, vasarą marškonus dėvėjo. Motriškosios vasarą dirbdamos po marškinių trūsėjo,
+        išeiginiu drabužiu tie patys buvo balti žitkuoti^343 raštiniai sijonai ir avalai, nuotakos ant galvų rūtų
+        vainikus sagstė, palaidose bizose įpinti kaspinai blizgėjo, vietoje žieminių vilnonių tokiomis pat
+        klastės marškonomis sagėmis, kurias galėjo kaip tinkamos nuo vieno peties ar nuo abiedviejų
+        numesti, kursai apdaras didžiai jas gašijo^344 : dirvose, pievose trūsėdamos it gulbės svyravo.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
+
 - c-002
-  santrauka: '`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
-    susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
-    žiemą vilnonus, vasarą marškonus dėvėjo.
-  citata_rodoma: ""
+    - status: unused
+    - claim_role: supports_existing_claim
+    - kategorija: paprotys
+    - kandidatas: Mergaičių, nuotakų, žmonų ir našlių galvos puošyba
+    - potencialus_teiginys: Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: match: normalized_whitespace
+    - santrauka: Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.
+    - pagrindzia:
+    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
+      citata_originali: |
+        Išeiginiu drabužiu motriškųjų buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
+        tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
+        tai buvo didelis vilnonas baltas raištis^341 , pailguotinas, retai juodas ar pilkas; paskesniuose
+        laikuose išlepusios audė dryžus, kuriuos šiandien dar daugioj vietoj gal regėti Žemaičiuose ir
+        Žemgaliuose, arba Kurše; tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
+        susegė, nuo ko, kaip sakiau, sage, arba sagše vadino, kuria lynant ar dergiant galėjo apsisiausti;
+        žiemą vilnonus, vasarą marškonus dėvėjo.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-
-## Pastabos
-
-- Žodis `kilimas` čia nereiškia grindų kilimo, o apsisiaudžiamą drabužį.
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

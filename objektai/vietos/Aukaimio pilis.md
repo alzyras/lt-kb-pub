@@ -1,34 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Aukaimio pilis (pilis)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Aukaimio pilis'
-aliases:
-  - 'Aukaimio pilis'
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1292 m.'
-  - '1293 m.'
-  - '1300 m.'
   - '1305 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1292'
 date_end: '1305'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - pilis
   - tikėjimas
   - vieta
+amziai:
+  - 'XIII'
+  - 'XIV'
 ---
 # Aukaimio pilis (pilis)
 
@@ -38,20 +28,30 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ragainės broliai nukovė 25 lietuvius Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti plėšikiškais išpuoliais.'
+- t-001
+  teiginys: 'Dusburgietis teigia, kad todėl, įsibrovę į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami.'
   pagrindžia:
-    - c-003
+    - c-002
+
+- t-002
+  teiginys: '1305 m. Karaliaučiaus komtūrui apgulus atstatytą Aukaimio pilį, pilies žmogus Svirtila ją išdavė kryžiuočiams.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino. Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo pateko į.'
+  pagrindžia:
+    - c-007
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad todėl, įsibrovę į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami.'
+  teiginys: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
   pagrindžia:
     - c-004
 
 - t-005
-  teiginys: 'Dusburgietis teigia, kad apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones.'
+  teiginys: '1292 m. kryžiuočiai, grįždami nuo Junigėdos, niokojo pernai sudegintos Aukaimio pilies sritį.'
   pagrindžia:
-    - c-005
+    - c-003
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą, kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis.'
@@ -59,51 +59,40 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - c-006
 
 - t-007
-  teiginys: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
-  pagrindžia:
-    - c-007
-
-- t-008
-  teiginys: 'Dusburgietis teigia, kad kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino. Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo pateko į.'
+  teiginys: 'Dusburgietis teigia, kad apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones.'
   pagrindžia:
     - c-008
 
-- t-001
-  teiginys: '1292 m. kryžiuočiai, grįždami nuo Junigėdos, niokojo pernai sudegintos Aukaimio pilies sritį.'
+- t-008
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ragainės broliai nukovė 25 lietuvius Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti plėšikiškais išpuoliais.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-005
 
-- t-002
-  teiginys: '1305 m. Karaliaučiaus komtūrui apgulus atstatytą Aukaimio pilį, pilies žmogus Svirtila ją išdavė kryžiuočiams.'
+- t-009
+  teiginys: 'Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-009
 
 ## Reikšmingi paminėjimai
 
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip Ragainės broliai nukovė 25 lietuvius Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti plėšikiškais išpuoliais.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
-
-      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
-    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
-    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
-    jų papročiai — burtus, kurie jiems nežadėjo sėkmės.
+    Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.
+    Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
+    « pilies žmogus, vardu Svirtila, tikėjimo ir tikinčiųjų draugas, išdavė
+    pilį broliams, kurie ten įsibrovė ir išžudė visus, kuriuos rado, vyriš­
+    kos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš
+    pagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­
+    linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
+    tik ten buvo rasta, o (kitką) degino »^11.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-004
-  santrauka: 'Dusburgietis teigia, kad todėl, įsibrovę į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami.'
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl, įsibrovę
@@ -115,32 +104,60 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     nedrįso rodytis.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1291 buvo pulta,
+    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
+    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
+    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
+    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
+    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
+    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
+    kalne^25.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    290 (283). Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
+
+       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
+    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-004
 
 - c-005
-  santrauka: 'Dusburgietis teigia, kad apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
+    240 (233). Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
 
-       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
-    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
-    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
-    turėjo didelių nuostolių sunkiai sužeistaisiais.
+      Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo
+    dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti
+    plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
+    jų papročiai — burtus, kurie jiems nežadėjo sėkmės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-008
 
 - c-006
-  santrauka: 'Dusburgietis teigia, kad tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą, kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
@@ -156,84 +173,55 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
 
 - c-007
-  santrauka: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
-
-       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
-    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
-    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
-    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
-    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
-    priėmė krikšto malonę.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-
-- c-008
-  santrauka: 'Dusburgietis teigia, kad kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino. Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo pateko į.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
+    Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
     ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
     Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo
     pateko  į užvartą  ir visa kariuomenė per  jį perėjo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-003
 
-- c-001
-  santrauka: '1292 m. kryžiuočiai, grįždami nuo Junigėdos, niokojo pernai sudegintos Aukaimio pilies sritį.'
+- c-008
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    276 (269). Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
+
+       Tais pačiais metais brolis Henrikas iš Dobino  ir kiti broliai su 200 vyrų įsiveržė  į
+    Aukaimio pilies apylinkes  ir, sudeginęs šešis kaimus, pasitraukė paėmęs  į nelaisvę ar
+    išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
+    turėjo didelių nuostolių sunkiai sužeistaisiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-009
+  santrauka: 'Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1291 buvo pulta,
-    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
-    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
-    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
-    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
-    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
-    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
-    kalne^25.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1305 m. Karaliaučiaus komtūrui apgulus atstatytą Aukaimio pilį, pilies žmogus Svirtila ją išdavė kryžiuočiams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
+    Normaliai, kada
+    vakarinėse Lietuvos dalyse vyko žūtbūtinė kova už savo laisvę ir
+    gyvybę, noras krikštytis pagonių akyse galėjo reikšti bendravimą
+    su priešu, ir tokiam asmeniui pas savuosius nebebuvo saugu.
     Aukaimį vėl atstačius, už trejų metų įvyko naujas išdavimas.
     Su didele kariuomene Karaliaučiaus komtūrui pilį apgulus (1305),
     « pilies žmogus, vardu Svirtila, tikėjimo ir tikinčiųjų draugas, išdavė
     pilį broliams, kurie ten įsibrovė ir išžudė visus, kuriuos rado, vyriš­
     kos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš
-    pagrindų sunaikino pilį ». Kita kariuomenės dalis Aukaimio apy­
-    linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
-    tik ten buvo rasta, o (kitką) degino »^11.
-  citata_rodoma: ""
+    pagrindų sunaikino pilį ».
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-009

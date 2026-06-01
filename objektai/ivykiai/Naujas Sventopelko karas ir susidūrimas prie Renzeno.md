@@ -35,12 +35,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis, žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo.'
   pagrindžia:
     - c-001
@@ -65,7 +65,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,7 +88,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

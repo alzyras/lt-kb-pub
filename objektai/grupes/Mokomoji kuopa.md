@@ -22,7 +22,7 @@ tags:
     - c-001
 
 - t-002
-  teiginys: '„Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į žvalgybą, jiems vadovavo vyresnysis puskarininkis.'
+  teiginys: 'Dvylika Mokomosios kuopos vyrų išvyko į žvalgybą, kuriai vadovavo vyresnysis puskarininkis.'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ tags:
     - t-001
 
 - c-002
-  santrauka: '„Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į žvalgybą, jiems vadovavo vyresnysis puskarininkis.'
+  santrauka: 'Dvylika Mokomosios kuopos vyrų išvyko į žvalgybą, kuriai vadovavo vyresnysis puskarininkis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Vieną dieną, po pietų, dvylika Mokomosios kuopos vyrų išvyko į

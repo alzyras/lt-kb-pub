@@ -43,19 +43,20 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: '1855 m. ca­ rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­ joje krašto šviesuomenė puoselėjo viltį atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'VIII ## Puslapis 9 Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­ suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
+- t-002
+  teiginys: 'Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Varšuvoje valdžios apkaltintas „lenkiškuo­
@@ -74,7 +75,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -87,7 +88,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -25,19 +25,19 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J.'
+  teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
@@ -52,9 +52,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
@@ -69,7 +69,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   santrauka: 'Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J.'

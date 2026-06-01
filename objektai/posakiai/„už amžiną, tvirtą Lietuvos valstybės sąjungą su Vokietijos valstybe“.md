@@ -1,28 +1,25 @@
 ---
 tipas: posakis
 pavadinimas: '„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1801 m.'
+  - '1900 m.'
   - '1917 m.'
   - '1918 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
-date_start: '1917'
+date_start: '1801'
 date_end: '1918'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - seimas
   - tauta
   - valstybė
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“
 
@@ -31,22 +28,26 @@ tags:
 1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
+
+- t-002
   teiginys: '1918 metų Vasario 16 Aktas 1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-
+    kalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių
+    konferencijose Šveicarijoje, sustiprėjo užsienio lietuvių centrų ir Lietuvos
+    organizacijų veiklos koordinacija.
     1918 metų Vasario 16 Aktas
     1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
     kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
@@ -54,16 +55,14 @@ tags:
     Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
+    - t-003
     - t-001
-    - t-002
+
 - c-002
-  santrauka: '1918 metų Vasario 16 Aktas 1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 metų Vasario 16 Aktas
@@ -82,14 +81,13 @@ tags:
     nė žodžio apie Steigiamąjį Seimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Oberostas]]
 - [[objektai/zodynas/separatinės taikos derybos]]

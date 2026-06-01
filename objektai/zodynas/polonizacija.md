@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'polonizacija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - sąvoka
@@ -20,27 +17,24 @@ tags:
 „Bolševizaciją“ papildė kaltinimai polonizacija, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti 70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santykiams, įvertinta kaip pavojus visai tautai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Bolševizaciją“ papildė kaltinimai polonizaci-
     ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
     70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
     kiams, įvertinta kaip pavojus visai tautai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

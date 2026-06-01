@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Argentina'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - valstybė
   - vieta
@@ -25,47 +16,26 @@ tags:
 De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė).
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Argentina buvo tarp valstybių, kurios tuo metu buvo de jure pripažinusios Lietuvą.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Argentina buvo tarp valstybių, kurios tuo metu buvo de jure pripažinusios Lietuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
-    mis teisėmis į pasaulio valstybių draugiją. Bet tas įėjimas dar
-    neišsprendė juridinių santykių su visa eile valstybių. De jure
-    Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos,
-    Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias
-    tada jau buvo pripažinusi de jure 21 valstybė).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuviai vyko daugiausia į
+    Per 20 metų iš
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
+    vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
     Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems
     padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
-    Gen.
+    Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
+    pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

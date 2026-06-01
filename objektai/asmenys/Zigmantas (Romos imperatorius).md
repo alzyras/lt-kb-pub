@@ -27,34 +27,34 @@ periodo_grupes:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo.'
-  pagrindžia:
-    - c-003
-
-- t-004
-  teiginys: 'Jis net imperatorių Zig­ mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­ niškai savo autoritetu didžiai prie to prisidėjo5.'
   pagrindžia:
     - c-004
 
-- t-005
-  teiginys: 'Nors iš kailio nėrėsi imperatorius Zigmantas ir diJurgis Lengvenaitis (vert.'
+- t-002
+  teiginys: 'Jis net imperatorių Zig­ mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­ niškai savo autoritetu didžiai prie to prisidėjo5.'
   pagrindžia:
     - c-005
 
-- t-002
+- t-003
+  teiginys: 'Nors iš kailio nėrėsi imperatorius Zigmantas ir diJurgis Lengvenaitis (vert.'
+  pagrindžia:
+    - c-001
+
+- t-004
   teiginys: 'Imperatorius Zigmantas, įsibaiminęs dėl tokio aiš­ kaus Jogailos valstybės stiprėjimo, be to, svarbiausiu to meto politikos tikslu laikydamas visų krikščioniškųjų kraštų su­ vienijimą turkams atremti, nusprendė imtis bet ko, kad tik sukiršintų Jogailą su.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-005
   teiginys: '2 Apie Lietuvos ir Žemaitijos tapatu­ mą ir apie tą jos dalijimą į aukštuti­ nę ir žemutinę sužinome iš kuo pa­ tikimiausio šaltinio, iš didžiojo kunigaikščio Vytauto 1420 metais Romos imperatoriui Zigmantui rašvto laiško: Terra Samaytarum, - pa- 14 ##.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors iš kailio nėrėsi imperatorius Zigmantas ir di-
@@ -98,7 +98,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -123,9 +123,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikrai
@@ -160,9 +160,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ten išaiškėjo, kad, užuot
@@ -179,9 +179,9 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
@@ -198,7 +198,7 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

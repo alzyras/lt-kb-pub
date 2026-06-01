@@ -1,18 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Didžiųjų santarvės valstybių Lietuvos de jure pripažinimas (1922 m. gruodžio 20 d.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1922 m.'
+date_start: '1922'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - ivykis
   - sutartis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Didžiųjų santarvės valstybių Lietuvos de jure pripažinimas (1922 m. gruodžio 20 d.)
 
@@ -33,16 +36,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1922 m. gruodžio 20 d. Anglija, Prancūzija, Italija ir Japonija pripažino Lietuvą, iškeldamos sąlygą dėl Nemuno navigacijos režimo.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1922 m. gruodžio 20 d. Anglija, Prancūzija, Italija ir Japonija pripažino Lietuvą, iškeldamos sąlygą dėl Nemuno navigacijos režimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš didžiųjų
@@ -54,10 +56,8 @@ Nenurodyta
     Lietuvos valstybė užmezgė normalius diplomatinius santykius
     su visomis valstybėmis, išėmus Lenkiją, ir įsteigė svarbesnio-
     siose valstybėse savo pasiuntinybes.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

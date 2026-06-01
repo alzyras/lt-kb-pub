@@ -22,16 +22,17 @@ tags:
 - t-001
   teiginys: 'Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'Nos cum Consiliariis nostris, lateri nostro tunc assi­ dentibus, audita beneque examinata partium controversia, 436 ## Puslapis 453 IV KNYGA pagal minėtos privilegijos nuostatus buvo įprasta laikytis, savą auksakalystės meną atskirai nuo cecho narių neapgal­.'
+  teiginys: 'Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nos cum Consiliariis nostris, lateri nostro tunc assi­
@@ -59,7 +60,7 @@ tags:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Transilvanijos kunigaikštis. Šiuo raštu skel­

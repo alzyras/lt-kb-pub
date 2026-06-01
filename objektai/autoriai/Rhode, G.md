@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Rhode, G'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -24,16 +15,15 @@ tags:
 Rhode, G.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'G. Rhode 1973 m. paskelbė darbą apie polemiką dėl 1410 m. Tanenbergo mūšio.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'G. Rhode 1973 m. paskelbė darbą apie polemiką dėl 1410 m. Tanenbergo mūšio.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tow. Nauk w Toruniu,
@@ -43,10 +33,8 @@ Rhode, G.
     Tanneuberg_ , Baltische Monatschrift, t. 54, 1902, 235-265, 310-336, 365-
     381 p. — Thunert, E. : _Der grosse Krieg zwischen Polen und dem
     Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

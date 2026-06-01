@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'L. Vladimirovas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1871 m.'
   - '1965 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1871'
+date_end: '1965'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1871'
-date_end: '1965'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - autorius
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # L. Vladimirovas
 
@@ -29,16 +25,15 @@ tags:
 Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika
@@ -50,11 +45,9 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
     (^125) **AkMD, t. 2, 1957, 3-16 p. ; t. 3, 1957, 37-52 p. ; t. 4, 1958, 149-170 p. ;
     t. 6, 1959, 169-190 p.; t. 8, 1960, 93-120 p.; t. 10, 1961, 49-69 p. ; t. 11,
     1961, 145-167 p.; t. 12, 1961, 115-130 p.; t. 14, 1963, 115-132 p.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

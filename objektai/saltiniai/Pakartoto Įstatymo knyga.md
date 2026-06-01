@@ -19,19 +19,19 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”, tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok.'
+  teiginys: 'Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”, tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     12. Apie Višogrudo pilies sugriovimą
@@ -44,9 +44,9 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Stiprindamas jų kilnias širdis, jis guodė juos šiais
@@ -60,4 +60,4 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

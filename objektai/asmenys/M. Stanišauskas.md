@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'M. Stanišauskas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,42 +15,20 @@ tags:
 Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonievičius ir D.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'M. Stanišauskas buvo paskirtas vienu iš batalionų vadų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'M. Stanišausko batalionai stovėjo kairiajame sparne.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'M. Stanišauskas buvo paskirtas vienu iš batalionų vadų.'
+  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'M. Stanišauskas buvo paskirtas vienu iš batalionų vadų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    sintus dalgius ir durtuvus. Batalionų vadais
-
-    buvo paskirti: B. Žarskis, J. Radavičius,
-
-    A. Mackevičius, Antonievičius, E. Vžes-
-
-    nievskis, S. Kozakauskas, D. Maleckis,
-
-    K. Maleckis, M. Stanišauskas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'M. Stanišausko batalionai stovėjo kairiajame sparne.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Merlino dalinio kariais ir ne-
@@ -73,10 +42,26 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
     stovėjo P. Vivulskio dalginin-
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    sintus dalgius ir durtuvus. Batalionų vadais
+
+    buvo paskirti: B. Žarskis, J. Radavičius,
+
+    A. Mackevičius, Antonievičius, E. Vžes-
+
+    nievskis, S. Kozakauskas, D. Maleckis,
+
+    K. Maleckis, M. Stanišauskas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002

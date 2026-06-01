@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Jūs abu esate mūsų viešpačiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - posakis
@@ -25,16 +16,15 @@ tags:
 ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyta^2 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkų didikai Liubičo bylos metu pareiškė, kad Vytautas ir Jogaila yra jų viešpačiai, kurių sprendimas bus įvykdytas.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkų didikai Liubičo bylos metu pareiškė, kad Vytautas ir Jogaila yra jų viešpačiai, kurių sprendimas bus įvykdytas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vi­
@@ -43,11 +33,9 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
     mes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­
     tu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje
     nuspręsite, bus ir įvykdyta^2 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

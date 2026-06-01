@@ -27,13 +27,14 @@ periodo_grupes:
 ## Teiginiai
 
 - t-001
-  teiginys: '„[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą ir karalių Kęstutį, o su jais Svirdeiką su savo pajėgomis įeinančius į Narkyčius.'
+  teiginys: 'Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą

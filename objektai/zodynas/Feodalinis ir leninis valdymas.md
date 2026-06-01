@@ -30,21 +30,21 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
 - t-001
   teiginys: 'Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­ dymas.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Valstybėje nusistovėjus leninio valdymo principams, Gedimino veiklumo ir didžių jo politinių sie­ kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos; Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios tvarkos, kokia buvo ir kitur.'
   pagrindžia:
-    - c-002
+    - c-003
 
 - t-003
   teiginys: 'O vis dėlto Vilniuje, galingos valstybės sostinėje, Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­ tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­ čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­ giję feodalinio valdymo.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
@@ -77,7 +77,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
@@ -106,7 +106,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­

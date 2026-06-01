@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose (1831 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1831 m.'
+date_start: '1831'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
+amziai:
+  - 'XIX'
 ---
 # Valstiečių sukilimas Gintiliškių ir Salantų parapijose (1831 m.)
 
@@ -31,27 +34,24 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, tačiau rusų kariuomenės išvaikyti sukilėliai pabėgo į Prūsiją.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, tačiau rusų kariuomenės išvaikyti sukilėliai pabėgo į Prūsiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač plačiai
     išsiplėtė valstiečių sukilimas Gintiliškių ir Salantų parapijose
     (Telšių apskr.). Bet čia sukilėliai buvo rusų kariuomenės iš-
     vaikyti ir pabėgo į Prūsiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

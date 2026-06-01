@@ -29,12 +29,12 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai perėjo į kalvinistų tikėjimą.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
   pagrindžia:
     - c-001
@@ -70,7 +70,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -85,7 +85,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

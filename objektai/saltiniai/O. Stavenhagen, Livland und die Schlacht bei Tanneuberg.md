@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'O. Stavenhagen, Livland und die Schlacht bei Tanneuberg'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1410 m.'
   - '1902 m.'
   - '1973 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1410'
+date_end: '1973'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XV'
   - 'XX'
-date_start: '1410'
-date_end: '1973'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - saltinis
 ---
 # O. Stavenhagen, Livland und die Schlacht bei Tanneuberg
 
@@ -30,18 +24,15 @@ tags:
 : Polemiken um die Schlacht von Tanneuberg 1410.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O. Stavenhageno „Livland und die Schlacht bei Tanneuberg“ paskelbtas 1902 m. „Baltische Monatschrift“ 54 tome.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'O. Stavenhageno „Livland und die Schlacht bei Tanneuberg“ paskelbtas 1902 m. „Baltische Monatschrift“ 54 tome.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tow. Nauk w Toruniu,
@@ -51,10 +42,8 @@ tags:
     Tanneuberg_ , Baltische Monatschrift, t. 54, 1902, 235-265, 310-336, 365-
     381 p. — Thunert, E. : _Der grosse Krieg zwischen Polen und dem
     Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

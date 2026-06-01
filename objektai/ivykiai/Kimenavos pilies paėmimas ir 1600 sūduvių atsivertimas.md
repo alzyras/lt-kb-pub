@@ -41,25 +41,25 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad sitai padaręs, magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava, ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog jiems bus leista netrukdomiems iš čia išeiti su visa manta.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
@@ -73,7 +73,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -91,9 +91,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
@@ -109,7 +109,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -128,7 +128,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

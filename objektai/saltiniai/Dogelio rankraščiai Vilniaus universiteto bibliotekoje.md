@@ -27,23 +27,23 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '— • — 303 ## Puslapis 320 [tuščias arba OCR reikalingas puslapis] ## Puslapis 321 IV KNYGA III KARALIAUS ŽYGIMANTO AUGUSTO PRIVILEGIJA, DUOTA MIKALOJUI RADVILAI, OLYKOS IR NESVYŽIAUS KUNIGAIKŠČIUI, VILNIAUS VAIVADAI, LDK MARŠALKAI IR KANCLERIUI, 1551 M.'
+  teiginys: 'Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-002
-  teiginys: 'Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv.'
+  teiginys: 'Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.'
   pagrindžia:
     - c-002
 
 - t-003
   teiginys: '— 369- (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje) Žygimantas Augustas ir 1.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 461
@@ -61,6 +61,7 @@ amziai:
     - t-003
 
 - c-002
+  santrauka: 'Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Gardine
@@ -87,7 +88,8 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
+  santrauka: 'Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad trukdo skųstis karaliui.

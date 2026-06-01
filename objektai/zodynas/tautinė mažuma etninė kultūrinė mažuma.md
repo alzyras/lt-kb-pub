@@ -29,26 +29,26 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 - t-001
   teiginys: 'O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žydai buvo laikomi tik šio krašto tautinėmis mažumomis, kurioms leista plėtoti savo kultūrinę veiklą, jei ji caro administracijos požiūriu nėra pavojinga imperijos interesams.'
   pagrindžia:
-    - c-001
+    - c-004
 
 - t-002
   teiginys: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   pagrindžia:
     - c-003
 
-- t-005
+- t-004
   teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   pagrindžia:
-    - c-005
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     La-
@@ -64,7 +64,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   pagrindžia:
     - t-002
 
-- c-005
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935–1936 mokslo metais veikė apie 30 lenkiškų
@@ -79,7 +79,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -96,7 +96,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   pagrindžia:
     - t-003
 
-- c-001
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Len-
@@ -109,7 +109,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   pagrindžia:
     - t-001
 
-- c-006
+- c-005
   santrauka: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -125,9 +125,9 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-007
+- c-006
   santrauka: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -144,7 +144,7 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

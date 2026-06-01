@@ -48,21 +48,21 @@ Nenurodyta
 - t-001
   teiginys: 'Negalėjo didysis kunigaikštis atvirame mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­ ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­ lius užpuolikams gabentis maistą ir.'
   pagrindžia:
-    - c-001
-
-- t-003
-  teiginys: '• — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.'
-  pagrindžia:
     - c-003
 
 - t-002
-  teiginys: 'Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke.'
+  teiginys: '1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis tiek netikėtas,
@@ -78,9 +78,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
+  santrauka: '1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —
@@ -105,9 +106,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Matydamas šitai, lietuvių vadas din­

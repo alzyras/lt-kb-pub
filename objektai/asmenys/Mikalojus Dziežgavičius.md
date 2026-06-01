@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mikalojus Dziežgavičius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1414 m.'
   - '1453 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1414'
 date_end: '1453'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mikalojus Dziežgavičius
 
@@ -29,16 +25,15 @@ tags:
 Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vytautui juos rekomenduojant.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per visą savo valdymo laiką Vytautas palaikė su jais gerus
@@ -51,10 +46,8 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
     skirti vyskupais Vytautui juos rekomenduojant. Du paskutiniai
     prieš įšventinant juos į vyskupus buvo Trakų klebonai, taigi gy­
     veno Vytauto rezidencijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Boleslovas Maldingasis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1254 m.'
   - '1264 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1254'
 date_end: '1264'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - privilegija
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Boleslovas Maldingasis
 
@@ -30,16 +26,15 @@ tags:
 ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas su­
@@ -48,11 +43,9 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
     lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­
     džiu. Tose privilegijose nustatytais dėsniais žydai gyveno Lie­
     tuvoje ilgus šimtmečius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

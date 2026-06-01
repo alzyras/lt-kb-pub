@@ -41,19 +41,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Jei kas pagal šį įsakymą arba skelbimą mūsų lietuviškos mo­ netos imti nenorėtų, tuomet tarybą be jokio atidėjimo su­ rengti ir egzekuciją dėl šios aukščiau minėtos baudos su­ mokėjimo, kurios viena pusė, kuri bus instiguota, o antra pusė to miesto valdybai.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
+  teiginys: 'Jei kas pagal šį įsakymą arba skelbimą mūsų lietuviškos mo­ netos imti nenorėtų, tuomet tarybą be jokio atidėjimo su­ rengti ir egzekuciją dėl šios aukščiau minėtos baudos su­ mokėjimo, kurios viena pusė, kuri bus instiguota, o antra pusė to miesto valdybai.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo mūsų įsakymu norime, kad visi bendrai
@@ -80,9 +80,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  369-
@@ -115,7 +115,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

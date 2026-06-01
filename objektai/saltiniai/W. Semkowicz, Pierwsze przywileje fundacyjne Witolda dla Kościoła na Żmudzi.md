@@ -1,26 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'W. Semkowicz, Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1930 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XIV'
-  - 'XX'
 date_start: '1930'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XX'
 ---
 # W. Semkowicz, Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi
 
@@ -29,18 +22,15 @@ tags:
 Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , KH, t. Semkowicz, W.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Semkowicz, W.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Semkowicz, W.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —
@@ -50,10 +40,8 @@ Semkowicz : Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi , K
     fundacyjne Witolda dla Kościoła na Żmudzi_ , KH, t. 44, 1930, 348-355 p.
     — Tautavičius, A. : _Papildomi duomenys apie naujų sidabro lydinių iš
     XIV a.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

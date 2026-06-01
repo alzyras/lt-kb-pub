@@ -1,26 +1,16 @@
 ---
 tipas: posakis
-pavadinimas: "Viešumas, demokratija, suverenumas"
-sukurta: '2026-05-13'
-variantai: []
-aliases: []
+pavadinimas: 'Viešumas, demokratija, suverenumas'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "Pradinis Lietuvos Persitvarkymo Sąjūdžio etapas."
-datos: []
-periodas: "siuolaikine_istorija"
-periodo_grupes: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1988 m.'
+date_start: '1988'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XX"
-date_start: "1988"
-date_end: "1988"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-13'
-tags: []
+  - 'XX'
 ---
 # Viešumas, demokratija, suverenumas
 
@@ -29,27 +19,31 @@ tags: []
 Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
 
 ## Teiginiai
-- t-005
+
+- t-001
   teiginys: '„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
-  citata_rodoma: ""
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
+    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-    - t-006
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
+- [[objektai/zodynas/pertvarka perestroika]]

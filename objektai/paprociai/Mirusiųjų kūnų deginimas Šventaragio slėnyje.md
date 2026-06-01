@@ -45,12 +45,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu.'
   pagrindžia:
     - c-001
@@ -78,7 +78,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -108,7 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

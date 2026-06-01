@@ -42,19 +42,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219.'
+  teiginys: 'Dusburgietis teigia, kad 221 Pipino nukankinimas vaizduojamas tendencingai (žr.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos
@@ -64,9 +64,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų pilių sugriovimą ir Pipino žūtį
@@ -111,9 +111,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     221 Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).
@@ -122,7 +122,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219.'

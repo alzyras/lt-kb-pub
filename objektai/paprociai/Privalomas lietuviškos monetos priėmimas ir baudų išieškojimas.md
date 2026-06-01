@@ -45,12 +45,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Šiuo mūsų įsakymu norime, kad visi bendrai 445 ## Puslapis 462 VILNIAUS MIESTO ISTORIJA II TOMAS mūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose mūsų karalystės valdose privalėtų išlaikyti dešimties len­ kiškų grivinų baudą ir ši bauda į bet.'
+- t-001
+  teiginys: '1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
   pagrindžia:
     - c-001
@@ -109,9 +109,10 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: '1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo mūsų įsakymu norime, kad visi bendrai
@@ -138,7 +139,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'

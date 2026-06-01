@@ -49,8 +49,8 @@ Nenurodyta
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to tūkstantis aštuoni šimtai vyrų užpuolė šios pilies apylinkes, jas nusiaubė, degindami bei piešdami, ir patraukė namo su didžiausiu grobiu, paėmę daug žmonių į nelaisvę ar išžudę.'
   pagrindžia:
-    - c-002
     - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -72,7 +72,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vieniems drąsiai puolant, kitiems atkakliai ginantis, viena ir kita šalis neteko
@@ -102,7 +102,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop iš dievo malonės broliai įsiveržė

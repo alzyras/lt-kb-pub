@@ -44,17 +44,17 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie taikos atkūrimą tarp Sventopelko ir brolių Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis Sventopelkas, kuris anksčiau kaip riaumojantis liūtas suko ratą po rato, bausdamasis sunaikinti brolius bei tikėjimo daigyną.'
   pagrindžia:
+    - c-002
     - c-001
-    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 295 Paliaubos tarp Ordino ir Sventopelko sudarytos 1246 m. (Ewald A., Die Eroberung..., 2, p. 205).'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai Pomeranijos žemė teisingojo viešpaties valia tapo šitaip nuniokota, kunigaikštis
@@ -74,7 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie taikos atkūrimą tarp Sventopelko ir brolių
@@ -96,7 +96,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     295   Paliaubos tarp Ordino  ir Sventopelko sudarytos 1246 m. (Ewald  A., Die

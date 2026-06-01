@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Liepos 17-osios nutarimas dėl Rytų krašto reicho komisariato sudarymo'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - saltinis
@@ -20,27 +17,26 @@ tags:
 Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Liepos 17-osios nutarimu iš „buvusių laisvų
+    Ištremtųjų
+    vietas turėjo užimti atkelti milijonai vokiečių.
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

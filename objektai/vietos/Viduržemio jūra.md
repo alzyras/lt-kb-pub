@@ -20,24 +20,24 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Po didžiųjų geografinių atradimų ir turkų ekspansijos Viduržemio jūra prarado ekonominę svarbą.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
-  pagrindžia:
-    - c-004
-
-- t-005
-  teiginys: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
-  pagrindžia:
-    - c-005
-
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK Baroko Europoje.
@@ -49,9 +49,9 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-002
   santrauka: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -63,9 +63,9 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-005
+- c-003
   santrauka: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -83,4 +83,4 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003

@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios.'
+  teiginys: 'Jogaila suteikė Vilniui Magdeburgo teises, tačiau miestiečiai liko pavaldūs Vilniaus seniūnui ir privalėjo saugoti Vilniaus pilį.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jogaila suteikė Vilniui Magdeburgo teises, tačiau miestiečiai liko pavaldūs Vilniaus seniūnui ir privalėjo saugoti Vilniaus pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Buvo juk to­
@@ -118,4 +119,5 @@ Nenurodyta
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/Magdeburgo teisės]]

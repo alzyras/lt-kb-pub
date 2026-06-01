@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'barokas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -13,21 +10,17 @@ datos:
   - '1767 m.'
   - '1784 m.'
   - '1787 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1586'
 date_end: '1787'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
   - valdovas
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # barokas
 
@@ -36,64 +29,65 @@ tags:
 Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port. Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'J. K. Glaubico 1737–1767 m. kūryba laikoma vienu ryškiausių senosios Lietuvos civilizacijos reiškinių.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Lietuvos barokas perėjo nuo kuklaus, Renesanso veikiamo baroko prie vėlyvojo baroko, rokoko ir savitos Vilniaus baroko mokyklos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'J. K. Glaubico 1737–1767 m. kūryba laikoma vienu ryškiausių senosios Lietuvos civilizacijos reiškinių.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvoje barokas
+    Ryčiausia ir šiauriausia Europoje
+    baroko architektūra
+    Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš ar-
+    chitektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco,
+    port. barroco, reiškiančiu netaisyklingos formos perlą. Lietuvoje barokas
     geriausiai matomas architektūroje, ypač bažnyčių. Jis perėjo keletą raidos
     tarpsnių – nuo kuklaus, dar Renesanso veikiamo baroko prie vėlyvojo, ra-
     finuotai puošnaus baroko ir rokoko, nuo „importo“ etapo prie labai savitos
     Vilniaus baroko mokyklos ir provincijos medinio baroko, nuo visuomenės
     elitui kurto meno prie pačios liaudies barokinės kūrybos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-003
+    - t-001
+
 - c-002
-  santrauka: 'J. K. Glaubico 1737–1767 m. kūryba laikoma vienu ryškiausių senosios Lietuvos civilizacijos reiškinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    J. K. Glaubi-
+    Ryškiausias ypatumas – ypač aukšti ir
+    liekni pagrindinio fasado bokštai. Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
+    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J. K. Glaubi-
     co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
     Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
+
 - c-003
-  santrauka: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ryčiausia ir šiauriausia Europoje
@@ -116,11 +110,9 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
     bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

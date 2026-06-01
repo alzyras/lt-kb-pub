@@ -19,16 +19,16 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 - t-001
   teiginys: 'Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose mokyklose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“ ir „buržuazinis nacionalizmas“.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Nusižengusieji buvo kaltinami „buržuaziniu nacionalizmu“, neigiama Vakarų kultūros įtaka.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po 1956 m. Vengrijos revoliuci-
@@ -43,7 +43,7 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visoje SSRS kalinius ir

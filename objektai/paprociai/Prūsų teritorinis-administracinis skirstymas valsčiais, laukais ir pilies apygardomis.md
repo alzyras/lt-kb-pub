@@ -39,12 +39,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg.'
   pagrindžia:
     - c-001
@@ -54,7 +54,7 @@ Nenurodyta
   pagrindžia:
     - c-003
 
-- t-002
+- t-004
   teiginys: 'Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p..'
   pagrindžia:
     - c-002
@@ -77,7 +77,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,7 +90,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -124,7 +124,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

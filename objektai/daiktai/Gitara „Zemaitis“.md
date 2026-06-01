@@ -1,34 +1,19 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Gitara „Zemaitis“"
-sukurta: '2026-05-14'
-variantai:
-  - "Gitara „Zemaitis“"
-  - "Zemaitis"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Gitara „Zemaitis“'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "Tony’o Zemaicio muzikos instrumento kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1902 m.'
   - '1935 m.'
-periodas: 'siuolaikine_istorija'
-periodo_grupes:
-  - 'diaspora'
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1902'
 date_end: '1935'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - įrankis
+amziai:
+  - 'XX'
 ---
 # Gitara „Zemaitis“
 
@@ -37,9 +22,11 @@ tags:
 Gitara „Zemaitis“ aprašoma kaip Tony’o Zemaicio sukurtas muzikos instrumentas, kuriuo grojo keli pasaulinio garso muzikantai ir kuris roko pasaulyje tapo bendrine sąvoka.
 
 ## Pavadinimai šaltiniuose
+
 - gitara „Zemaitis“
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Tony’o Zemaicio muzikos instrumento kontekstas
 - datos:
   - Tony’o Zemaicio gimimo metai: 1935 m.
@@ -57,54 +44,53 @@ Muzikos instrumentas.
 Naudota pasaulinio garso roko muzikantų.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-007
-  teiginys: 'Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-010
+
+- t-001
   teiginys: 'Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
+    Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
     tams kaip Jimi Hendrix, Eric Clapton ir Bob Dylan, George Harrison
     ir Paul McCartney, Keith Richards ir Ronnie Wood, David Gilmour ir
     Bruce Springsteen? Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
-    - t-008
-    - t-009
+    - t-002
+    - t-004
+    - t-003
+
 - c-002
-  santrauka: 'Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikan-
@@ -119,13 +105,13 @@ Nenurodyta
     pers“… Visų neišvardysi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-001
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

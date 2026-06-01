@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'nei akių, nei rankos pakelti prieš lietuvių kariuomenę'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - posakis
@@ -26,19 +17,20 @@ tags:
 Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalėjo aktyviai priešintis („totoriai ne tik negalėjo kautis, bet nei akių, nei rankos pakelti prieš lietuvių kariuomenę“).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bychoveco kronikoje rašyta, kad LDK daliniai taip suspaudė totorius, jog šie negalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Gavusi erdvės įsibėgėjimui, dar kartą smogė dešinioji lietuvių kolona.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bychoveco kronikoje rašyta, kad LDK daliniai taip suspaudė totorius, jog šie negalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Anot Bychoveco
@@ -55,15 +47,13 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
     kuri užėmusi perkėlas per (4;
     Cepros upę, uždarė totorius
     tartum maiše.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Gavusi erdvės įsibėgėjimui, dar kartą smogė dešinioji lietuvių kolona.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gavusi erdvės įsibėgėjimui, dar kartą smogė
@@ -77,9 +67,7 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
     masiškai bėgti iš mūšio lauko.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

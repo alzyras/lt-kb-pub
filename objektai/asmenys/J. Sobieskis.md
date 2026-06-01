@@ -26,13 +26,14 @@ Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenki
 ## Teiginiai
 
 - t-001
-  teiginys: 'Sobieskio pradėtą karą su Turkija ir jam net pavyko atsiimti šiek tiek Lenkijos anksčiau prarastų “ teritorijų, tačiau tai nevirto įspūdingomis pergalėmis.'
+  teiginys: 'J. Sobieskis 1683 m. pradėjo karą su Turkija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'J. Sobieskis 1683 m. pradėjo karą su Turkija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     įsijungė į 1683 m. J. Sobieskio pradėtą

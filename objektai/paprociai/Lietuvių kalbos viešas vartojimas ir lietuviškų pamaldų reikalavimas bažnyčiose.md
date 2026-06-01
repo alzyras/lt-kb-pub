@@ -1,23 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: "Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 66 Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
-  - 'Kandidatas Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
-aliases:
-  - 'Kandidatas 66 Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
-  - 'Kandidatas Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
+pavadinimas: 'Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigas
   - paprotys
@@ -31,53 +18,55 @@ tags:
 Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus atrado dar vieną – lenkų polonizatorius. Daugiausia dėmesio jie skyrė katalikišką doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Būsimų tautininkų grupuotė apie „Vilties“ žurnalą kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-003
   teiginys: 'Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-004
-  teiginys: '„Vilties“ žurnalo aplinkos tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
+  teiginys: 'Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai, daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tautiniam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie- 3 skyrius • R U S I J O S I M P.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-005
-  teiginys: 'Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai, daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tautiniam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie- 3 skyrius • R U S I J O S I M P.'
+  teiginys: '„Vilties“ žurnalo aplinkos tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
@@ -86,31 +75,13 @@ Nenurodyta
     kiškai kalbančiųjų opoziciją. Dvarininkai, gindamiesi nuo „litvomanijos“,
     vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai ne-
     susipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Būsimų tautininkų grupuotė apie „Vilties“ žurnalą kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
-    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
-    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
-    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
-    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai, daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tautiniam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie- 3 skyrius • R U S I J O S I M P.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai,
@@ -126,11 +97,23 @@ Nenurodyta
     bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
+    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
+    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
+    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
+    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -138,4 +121,5 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]

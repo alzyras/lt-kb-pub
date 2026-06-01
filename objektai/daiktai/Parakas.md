@@ -1,29 +1,17 @@
 ---
 tipas: daiktas
-pavadinimas: "Parakas"
-sukurta: '2026-05-27'
-variantai:
-  - parakas
-aliases: []
+pavadinimas: 'Parakas'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1390 m. Vilniaus apgulties kontekstas"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1390 m."
-periodas: viduramziai
-periodo_grupes:
-  - LDK
-amziai:
-  - XIV
-date_start: "1390"
-date_end: "1390"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+  - '1390 m.'
+date_start: '1390'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XIV'
 ---
 # Parakas
 
@@ -32,31 +20,35 @@ tags: []
 Parakas minimas kaip karinė medžiaga, kurios visiškas išsekimas prisidėjo prie kryžiuočių padėties sunkumo per 1390 m. Vilniaus apgultį. Jo trūkumas pateikiamas kartu su ligomis, nuostoliais, rudens darganomis ir artėjančios žiemos grėsme laivams.
 
 ## Pavadinimai šaltiniuose
+
 - parakas
 
 ## Laikotarpis ir datos
+
 - 1390 m.
 
 ## Kas tai
+
 Karinė medžiaga, naudota šaunamiesiems ar artilerijos veiksmams.
 
 ## Naudojimas
+
 Šiame epizode nurodomas ne sandėliavimas ar sudėtis, o parako atsargų išsekimas.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas."
+  teiginys: 'Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Parako išsekimas minimas kaip viena apgulties pabaigos aplinkybių.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
@@ -68,11 +60,9 @@ Nenurodyta
     imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
     grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
     atgal į Prūsiją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

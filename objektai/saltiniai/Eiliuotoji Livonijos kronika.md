@@ -25,19 +25,19 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais pasekę ir estai (LRCh, eil.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
+  teiginys: 'Dusburgietis teigia, kad 348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais pasekę ir estai (LRCh, eil.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
@@ -49,9 +49,9 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio krivis
@@ -64,4 +64,4 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'M. Vasmeris'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -24,16 +15,15 @@ tags:
 Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O rytų baltų gyventas
@@ -43,11 +33,9 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
     Smolensko. Senajame geležies amžiuje rytiniai baltai, dar nespėję
     išsidiferencijuoti į atskiras kiltis, apėmė ne tik visą Dniepro aukš­
     tupio baseiną, siekdami ištisai dešinįjį Desnos krantą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

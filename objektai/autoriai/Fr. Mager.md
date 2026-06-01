@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Fr. Mager'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ginklas
@@ -27,16 +18,15 @@ tags:
 Mager veikalas^16 °, o apie I pasaulinį karą W.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Fr. Magerio veikalas laikytas įdomiu Lietuvos žilai senovei tyrinėti.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Fr. Magerio veikalas laikytas įdomiu Lietuvos žilai senovei tyrinėti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Serijoje « Ostmittel­
@@ -46,11 +36,9 @@ Mager veikalas^16 °, o apie I pasaulinį karą W.
     (BeOSch); Lietuvos žilai senovei tyrinėti įdomus yra Fr. Mager
     veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
     metu išsp.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

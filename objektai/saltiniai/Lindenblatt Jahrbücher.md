@@ -25,20 +25,20 @@ amziai:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Mergelės Marijos bažnyčios Smėlynėje ir pran­ ciškonų vienuolyno, tačiau, viena, išvydę atkakliai gintis pa­ siruošusias tvirtoves, antra, numanydami, jog bus neįma- 43 Lindenblatto kronikoje yra - Boparthen, pagal panašų skambėji­ mą, regis, tarsi būtų.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Tas kunigaikštis, nepapras­ tai prisirišęs prie rusų tikėjimo ir tautos, turėjo daug draugų 53 jos išsaugotos Lindenblatt o, Visos tos smulkios aplinkybės mūp. 98-99, lietuvių istorijai nusipelsų metraštininkams nėra žinomos; niusio autoriaus.'
   pagrindžia:
-    - c-003
+    - c-001
 
-- t-001
+- t-003
   teiginys: '33 Lindenblatt Jahrbücher etc., p. 76, kryžiuočių persikėlimą per Viliją nu­ rodo buvus per Šv.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-004
   teiginys: 'Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos Lindenblatt Jahrbücher, p. 147.'
@@ -47,7 +47,7 @@ amziai:
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš­
@@ -66,7 +66,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -99,9 +99,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     33
@@ -114,7 +114,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

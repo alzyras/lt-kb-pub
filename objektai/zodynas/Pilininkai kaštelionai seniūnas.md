@@ -19,13 +19,14 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 ## Teiginiai
 
 - t-001
-  teiginys: 'Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, vykdydami teis­ -- • - 24 ## Puslapis 41 I KNYGA minę priežiūrą kartu su bendruomenės parinktu seniūnu.'
+  teiginys: 'Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilnius, Gedimino dėka nuo mažos gyvenvie­
@@ -55,5 +56,4 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]

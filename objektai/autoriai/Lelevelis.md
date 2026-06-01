@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Lelevelis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
@@ -19,22 +16,20 @@ tags:
 Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kildinimo iš gerulių nemoksliškumą. Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir gabus istorijos profesorius Lelevelis, kurio paskaitų susirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kildinimo iš gerulių nemoksliškumą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Istorijos profesoriaus Lelevelio paskaitų klausytis rinkdavosi ne vien studentai, bet ir daugybė vilniečių.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kildinimo iš gerulių nemoksliškumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
@@ -43,15 +38,13 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
     žemaitiškai. Tik to meto Vilniaus universiteto garsenybė, isto-
     rikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kil-
     dinimo iš gerulių nemoksliškumą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Istorijos profesoriaus Lelevelio paskaitų klausytis rinkdavosi ne vien studentai, bet ir daugybė vilniečių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     siryžo, kad ir maišto keliu, išvaduoti savo kraštą iš Rusų jungo.
@@ -59,11 +52,9 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
     gabus istorijos profesorius Lelevelis, kurio paskaitų su-
     sirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių.
     Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -76,6 +67,7 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 - [[objektai/asmenys/Joachimas Lelevelis]]
 - [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
+- [[objektai/asmenys/Jonas Sniadeckis]]
 - [[objektai/asmenys/Jozefas Frankas]]
 - [[objektai/asmenys/Liudvigas Heinrichas Bojanus]]
 - [[objektai/grupes/Vilniaus universitetas]]

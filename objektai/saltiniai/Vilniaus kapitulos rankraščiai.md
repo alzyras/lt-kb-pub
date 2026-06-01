@@ -30,13 +30,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '## Puslapis 332 VILNIAUS MIESTO ISTORIJA// TOMAS V KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI 1542 METAIS (Iš Vilniaus kapitulos rankraščių) Sigismundus Dei gratia Rex Poloniae Magnus Dux Lituaniae, Russiae, Prussiae.'
+  teiginys: 'Vilniaus kapitulos rankraščiuose buvo Žygimanto Senojo 1542 m. privilegija prieš eretikus, duota Vilniaus vyskupui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vilniaus kapitulos rankraščiuose buvo Žygimanto Senojo 1542 m. privilegija prieš eretikus, duota Vilniaus vyskupui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kulkos minimos švininės, geležinės ir akmeninės. Dauge­

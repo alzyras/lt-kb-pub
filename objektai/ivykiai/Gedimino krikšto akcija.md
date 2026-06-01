@@ -1,15 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Gedimino krikšto akcija (krikštas)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Gedimino krikšto akcija'
-aliases:
-  - 'Gedimino krikšto akcija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
@@ -23,39 +18,41 @@ tags:
 Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gediminas kūrė stačiatikių metropoliją, ryžosi krikštytis ir įkurti katalikų arkivyskupiją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gediminas kūrė stačiatikių metropoliją, ryžosi krikštytis ir įkurti katalikų arkivyskupiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Gediminas kūrė stačiatikių metro-
+    Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
+    izoliaciją) Gedimino politinis akiratis. Gediminas kūrė stačiatikių metro-
     poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
     politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
     kėlė bažnytinės unijos idėją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

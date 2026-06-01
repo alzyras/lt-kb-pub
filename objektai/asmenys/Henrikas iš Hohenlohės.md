@@ -26,12 +26,12 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš Zalcos, miręs 1239 m.113, tuo tarpu „Pranešimo...“ pabaigoje aprašomi vėlesni įvykiai, Ordino magistro Henriko iš Hohenlohės (1244—1249 m.) valdymo laikotarpio.'
   pagrindžia:
     - c-001
@@ -39,12 +39,12 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 - t-003
   teiginys: 'Dusburgietis teigia, kad pvz., praleisti trys Ordino magistrai, tarp jų — Henrikas iš Hohenlohės139.'
   pagrindžia:
-    - c-003
+    - c-004
 
-- t-002
+- t-004
   teiginys: 'Dusburgietis teigia, kad viskas rodo, jog tai reiškia vėlesnį didįjį magistrą Henriką iš Hohenlohės, kurio kanceliarijoje „Pranešimas...“ redaguotas.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -58,9 +58,9 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
@@ -73,9 +73,9 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viskas rodo, jog tai reiškia vėlesnį didįjį magistrą
@@ -84,9 +84,9 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Yra čia ir kitokių klaidų bei praleidimų. Pvz., praleisti trys Ordino magistrai, tarp jų

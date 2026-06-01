@@ -20,7 +20,7 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '136 ## Puslapis 153 Il KNYGA mas ne daugiau kaip 200 šaulių iš Burgundijos ir 300 kitų karių, laikinai buvo pasistatydinęs įtvirtinimus iš statybai skirtų medžiagų, kad apsigintų, kol atvyks raiteliai.'
+  teiginys: 'Prie Vilniaus ne daugiau kaip 200 Burgundijos šaulių ir 300 kitų karių laikinai įsirengė įtvirtinimus iš statybinių medžiagų.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ tags:
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Vilniaus ne daugiau kaip 200 Burgundijos šaulių ir 300 kitų karių laikinai įsirengė įtvirtinimus iš statybinių medžiagų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tohože lieta, Niemcy prydosza ra-

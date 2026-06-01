@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'organas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -11,20 +8,15 @@ datos:
   - '1917 m.'
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1892'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XIX'
+  - 'XXI'
 ---
 # organas
 
@@ -33,50 +25,51 @@ tags:
 Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo „Garsas".
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Organas anksčiau buvo „Žvaigždė“ ir „Draugas“, o nuo 1917 m. juo tapo „Garsas“.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Kultūrinei veiklai pagyvėjus, atsirado dar keletas naujų laikraščių („Garsas" ir „Lietuva"), įkurtasis Susivienijimas Lietuvių Amerikoje ėmė leisti savo organą „Tėvynę".'
+  teiginys: '„Žvaigždė“ ir „Draugas“ anksčiau buvo organai, o nuo 1917 m. organu tapo „Garsas“.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Organas anksčiau buvo „Žvaigždė“ ir „Draugas“, o nuo 1917 m. juo tapo „Garsas“.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
-    gas", nuo 1917 metų tapo „Garsas".
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-002
+  teiginys: 'Susivienijimas Lietuvių Amerikoje ėmė leisti savo organą „Tėvynę“.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kultūrinei veiklai pagyvėjus, atsirado dar keletas naujų laikraščių („Garsas" ir „Lietuva"), įkurtasis Susivienijimas Lietuvių Amerikoje ėmė leisti savo organą „Tėvynę".'
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kultūrinei veiklai pa-
+    **Lietuviškosios spaudos suklestėjimas**. Kultūrinei veiklai pa-
     gyvėjus, atsirado dar keletas naujų laikraščių („Garsas" ir
     „Lietuva"), įkurtasis Susivienijimas Lietuvių Amerikoje ėmė
 
 
     leisti savo organą „Tėvynę". Tuo metu atsirado ir lietuviškų
     dramos veikalų ir buvo sudaryta lietuviškojo teatro trupė (1892
-    m.
+    m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Susivienijimas Lietuvių Rymo Katalikų
+    Amerikoje** iš pradžių teturėjo vos 704 narius, o dabar turi
+    300 su viršum kuopų ir 20.000 narių. Turto jis turi apie 1.200.000
+    dolerių. Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
+
+
+    gas", nuo 1917 metų tapo „Garsas".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -86,6 +79,7 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 - [[objektai/grupes/Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas]]
 - [[objektai/autoriai/J. Žilinskas]]
 - [[objektai/ivykiai/Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/grupes/Lietuvos Vyčių Sąjunga]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Motinėlė]]

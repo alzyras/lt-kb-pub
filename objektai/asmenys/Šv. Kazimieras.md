@@ -24,29 +24,29 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Kazimiero kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota religinė savimonė.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-004
+- t-003
   teiginys: 'Kazimiero, Lenkijos globėjo šv.'
   pagrindžia:
     - c-004
 
-- t-002
+- t-004
   teiginys: 'pradžioje karalaitis Kazimieras garbintas Vilniaus apylinkėse, o šv.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
@@ -59,9 +59,9 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     pradžioje krikščionybė
@@ -76,7 +76,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,7 +90,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -101,7 +101,7 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

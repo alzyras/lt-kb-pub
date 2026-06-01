@@ -70,4 +70,3 @@ Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ dž
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Puslapis 77]]

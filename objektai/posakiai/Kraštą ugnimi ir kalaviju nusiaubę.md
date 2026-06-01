@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '- • — 126 ## Puslapis 143 Il KNYGA po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­ žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.'
+  teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vygan­
@@ -58,3 +59,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'K. Chodynicki'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1926 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1926'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # K. Chodynicki
 
@@ -28,22 +24,37 @@ tags:
 Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodynicki, H.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Chodynicki 1926 m. paskelbė darbą „Geneza dynastii Giedymina“.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'K. Chodynicki gynė Gedimino laiškų autentiškumą.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'K. Chodynicki 1926 m. paskelbė darbą „Geneza dynastii Giedymina“.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
+    jų atsiradimo iki šiol, yra susidariusi gausi literatūra. Daugumoje
+    vokiečiai (C. Dreyer, J. Voigt, K. Forstreuter ir kt.) tuos laiškus
+    tarė esant rygiečių falsifikatais, arba bent stipriai įtartinais. Lenkai
+    ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
+    kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
+    rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
+    Ivinskis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bauer, H. : _Peter von Dusburg und die Geschichtsschreibung des Deu­
@@ -57,32 +68,11 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
     nis,_ LE, t. 31, 364-369 p. — Jakštas, J. : _Naujausi Gedimino dinastijos
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'K. Chodynicki gynė Gedimino laiškų autentiškumą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
-    jų atsiradimo iki šiol, yra susidariusi gausi literatūra. Daugumoje
-    vokiečiai (C. Dreyer, J. Voigt, K. Forstreuter ir kt.) tuos laiškus
-    tarė esant rygiečių falsifikatais, arba bent stipriai įtartinais. Lenkai
-    ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
-    kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
-    rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
-    Ivinskis).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

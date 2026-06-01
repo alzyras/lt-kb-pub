@@ -29,24 +29,24 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą 1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų.'
-  pagrindžia:
-    - c-003
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė, Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams į pagalbą brolį Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių ir ginklanešių.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa­ kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs.'
+  teiginys: 'Dusburgietis teigia, kad apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą 1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė, Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams į pagalbą brolį Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių ir ginklanešių.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa­ kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
@@ -62,9 +62,9 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą
@@ -80,9 +80,9 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1298 viešpaties
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-004
   santrauka: 'Dusburgietis teigia, kad apie brolį Gotfridą iš Hohenlohės, Teutonų namų ordino didįjį magistrą 1297 viešpaties metais brolis Gotfridas iš Hohenlohės buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų.'

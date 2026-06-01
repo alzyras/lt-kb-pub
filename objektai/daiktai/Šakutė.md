@@ -1,28 +1,17 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Šakutė"
-sukurta: '2026-05-13'
-variantai:
-  - "Šakutė"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Šakutė'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "po 1519 m. Bonos Sforcos vedybų su Žygimantu Senuoju kontekstas"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - "po 1519 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XVI"
-date_start: "1519"
-date_end: "1519"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-13'
+  - '1519 m.'
+date_start: '1519'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XVI'
 ---
 # Šakutė
 
@@ -31,9 +20,11 @@ tags: []
 Šakutė minima kaip itališkos kultūros naujovė, kurią Bona Sforca atnešė į Lenkiją ir Lietuvą. Šaltinis pabrėžia, kad tuo metu šakutė dar buvo nežinoma Lietuvoje ir Skandinavijos šalyse.
 
 ## Pavadinimai šaltiniuose
+
 - šakutės
 
 ## Laikotarpis ir datos
+
 - laikotarpis: po 1519 m. Bonos Sforcos vedybų su Žygimantu Senuoju kontekstas
 - datos:
   - po 1519 m.
@@ -51,25 +42,24 @@ Stalo įrankis, šaltinyje minimas kaip viena itališkos Renesanso kultūros nau
 Šaltinis ją sieja su Bonos Sforcos kultūriniu poveikiu Lenkijai ir Lietuvai.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę."
+  teiginys: 'Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse."
+  teiginys: 'Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Šakutė pateikiama kaip Bonos Sforcos atnešta naujovė.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
@@ -77,16 +67,16 @@ Nenurodyta
     pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „ita-
     liškų pasivaikščiojimų“ – pokylių šokių – iki... šakutės, tuo metu nežino-
     tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -97,3 +87,4 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Bona]]
 - [[objektai/asmenys/Bona Sforca]]
+- [[objektai/asmenys/Žygimantas Augustas]]

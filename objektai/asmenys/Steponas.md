@@ -1,20 +1,11 @@
 ---
 tipas: asmuo
 pavadinimas: 'Steponas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -29,22 +20,35 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų“.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Paminėkime tokią grandinę: Lenkijos valdovo
+    Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
+    kankinyste pasibaigusi šv. Adalberto misija Prūsijoje (997), Norvegijos
+    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
+    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie didingus ženklus
@@ -55,26 +59,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     valdovų, daug kartų šitai mėginusių padaryti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-- c-001
-  santrauka: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Adalberto misija Prūsijoje (997), Norvegijos
-    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
-    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
-    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
-    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -92,7 +77,6 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/grupes/Lietuvos senatoriai]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
@@ -119,3 +103,4 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
 - [[objektai/posakiai/„švento valdovo“ įvaizdis]]
+- [[objektai/zodynas/muitas thelonea]]

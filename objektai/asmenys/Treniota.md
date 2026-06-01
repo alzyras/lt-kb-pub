@@ -27,34 +27,34 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš.'
   pagrindžia:
-    - c-007
+    - c-001
 
-- t-006
+- t-002
   teiginys: 'Dusburgietis teigia, kad štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160).'
-  pagrindžia:
-    - c-006
-
-- t-005
-  teiginys: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.'
   pagrindžia:
     - c-005
 
 - t-003
-  teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
+  teiginys: '1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.'
   pagrindžia:
     - c-003
 
 - t-004
+  teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
+  pagrindžia:
+    - c-002
+
+- t-005
   teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-007
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     160 (155). Apie Birgelavos pilies sugriovimą
@@ -69,9 +69,9 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
@@ -85,9 +85,9 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-005
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
@@ -99,7 +99,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -115,9 +115,9 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-006
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
@@ -129,7 +129,7 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

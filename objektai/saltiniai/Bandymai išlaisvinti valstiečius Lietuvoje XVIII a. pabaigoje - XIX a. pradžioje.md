@@ -1,28 +1,25 @@
 ---
 tipas: saltinis
 pavadinimas: 'Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pradžioje'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1701 m.'
+  - '1800 m.'
+  - '1801 m.'
   - '1832 m.'
   - '1841 m.'
+  - '1900 m.'
   - '1970 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
-  - 'XIX'
-  - 'XX'
-date_start: '1832'
+date_start: '1701'
 date_end: '1970'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVIII'
+  - 'XX'
 ---
 # Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pradžioje
 
@@ -31,18 +28,15 @@ tags:
 ), Bandymai išlaisvinti valstiečius Lietuvoje XVIII a.
 
 ## Teiginiai
+
 - t-001
   teiginys: '), Bandymai išlaisvinti valstiečius Lietuvoje XVIII a.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '), Bandymai išlaisvinti valstiečius Lietuvoje XVIII a.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Žr. LE, t. 36, 384-385 p.**
@@ -60,10 +54,8 @@ tags:
     **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
     džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
     Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

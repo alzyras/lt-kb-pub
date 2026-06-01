@@ -1,38 +1,23 @@
 ---
 tipas: autorius
-pavadinimas: "Raimundas Lopata"
-sukurta: '2026-05-14'
-variantai:
-  - "Prof. dr. Raimundas Lopata"
-  - "Raimundą Lopatą"
-  - "Lopata R."
-aliases: []
+pavadinimas: 'Raimundas Lopata'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1996 m.; 2013 m."
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1996 m.'
   - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1996'
 date_end: '2013'
-vaidmenys:
-  - "redakcinės kolegijos pirmininkas"
-  - "mokslininkas"
-  - "veikalo autorius"
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+amziai:
+  - 'XX'
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Raimundas Lopata
 
@@ -45,69 +30,58 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 - Lietuvos valstybingumo raida 1914–1918 metais
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Raimundas Lopata buvo leidinio redakcinės kolegijos pirmininkas."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Raimundas Lopata minimas tarp istorijos politikos problemas tiriančių mokslininkų."
+  teiginys: 'Raimundas Lopata minimas tarp istorijos politikos problemas tiriančių mokslininkų.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: "Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“."
+
+- t-002
+  teiginys: 'Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“.'
   pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Leidinio pradžioje Lopata nurodytas kaip redakcinės kolegijos pirmininkas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Redakcinė kolegija:
-    Prof. dr. Raimundas Lopata – pirmininkas
-    Prof. dr. Alvydas Jokubaitis
-    Prof. dr. Vytautas Radžvilas
-    Dr. Inga Vinogradnaitė
-  citata_rodoma: ""
+    Ams-
+    terdam–New York, 2010.
+    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Lopata minimas tarp istorijos politikos problemas tiriančių mokslininkų.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: Bibliografinis įrašas Lopatos veikalui apie valstybingumo raidą.
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
-  citata_rodoma: ""
+    Tai iš-
+    skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
+    bet ir sustiprinti šalių solidarumą ir dėmesingumą žemyno tautų praeičiai
+    ir, žinoma, dar kartą patiems – iš šiandieninio požiūrio taško – pažvelgti
+    ir visam pasauliui priminti, kas buvo, yra (ir bus) Lietuva.
+    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
+    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
+    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
+    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
+    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
+    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
+    jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,
+    visų pirma Europos Sąjungos piliečiams, aiškiai ir suprantamai atskleisti
+    ilgą, pergalingą, kartais sunkų ar net tragišką mūsų valstybės istorinį ke-
+    lią, kurį Lietuvos valstybės kūrėjai įveikė vesdami šio krašto žmones per
+    skirtingus laikotarpius, valstybės sanklodas, okupacijų duobes ir atkurtos
+    nepriklausomybės įkalnes bei nuokalnes – nuo pat pirmo valstybės vardo
+    paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
+    sateise Europos Sąjungos nare 2004 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

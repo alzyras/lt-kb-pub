@@ -19,12 +19,12 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Pirmąsias sutartis Lietuva pasirašė kaip tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas įvyko.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus.'
   pagrindžia:
     - c-001
@@ -45,7 +45,7 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -60,7 +60,7 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

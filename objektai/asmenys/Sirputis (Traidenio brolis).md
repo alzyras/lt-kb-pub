@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Sirputis (Traidenio brolis)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1260 m.'
   - '1274 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1260'
 date_end: '1274'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - pilis
   - sukilimas
   - valdovas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Sirputis (Traidenio brolis)
 
@@ -31,25 +27,38 @@ tags:
 Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis Lietuvos valdovo pavedimu veikė prieš Lenkiją. Jos gynybai greičiausiai vadovavo Traidenio brolis Sirputis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-002
   teiginys: 'Traidenio brolis Sirputis greičiausiai vadovavo Naugarduko pilies gynybai.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
+
 - t-003
   teiginys: 'Senovės lietuvių tradicijų besilaikantis Traidenis didžiausias pastangas sutelkė gynybai nuo kryžiuočių, o savo broliams, priėmusiems graikų stačiatikių tikėjimą, buvo pavedes pietrytinių valdų ribų apsaugą.'
   pagrindžia:
-    - c-003
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau pati Naugarduko pilis nebuvo paimta. Jos gynybai grei-
+    čiausiai vadovavo Traidenio brolis Sirputis. Totoriai ir jų sąjunginin-
+    kai buvo priversti iš šio didelio Lietuvos antpuolio grįžti „nieko
+    nepasiekę“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Senovės lietuvių tradicijų
@@ -66,30 +75,13 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 
     Tuo metu dar vyko Didysis
     prūsų sukilimas (1260-1274 m.)
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Traidenio brolis Sirputis greičiausiai vadovavo Naugarduko pilies gynybai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau pati Naugarduko pilis nebuvo paimta. Jos gynybai grei-
-    čiausiai vadovavo Traidenio brolis Sirputis. Totoriai ir jų sąjunginin-
-    kai buvo priversti iš šio didelio Lietuvos antpuolio grįžti „nieko
-    nepasiekę“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-003
+
 - c-003
-  santrauka: 'Senovės lietuvių tradicijų besilaikantis Traidenis didžiausias pastangas sutelkė gynybai nuo kryžiuočių, o savo broliams, priėmusiems graikų stačiatikių tikėjimą, buvo pavedes pietrytinių valdų ribų apsaugą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Senovės lietuvių tradicijų
@@ -105,14 +97,12 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
     Lenkiją.
 
     Tuo metu dar vyko Didysis
-    prūsų sukilimas (1260-1274 m.
+    prūsų sukilimas (1260-1274 m.)
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

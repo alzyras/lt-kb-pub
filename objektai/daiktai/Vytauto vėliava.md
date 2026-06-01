@@ -1,30 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vytauto vėliava'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1380 m.'
-  - '1978 m.'
   - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'XX a.'
-amziai:
-  - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1380'
 date_end: '2026'
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Vytauto vėliava
 
@@ -33,35 +24,40 @@ tags:
 Po Vytauto vėliava Vorsklos kautynėse kovoję apie 50 kunigaikščių.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip dvidešimt žuvo.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '000 kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo bent dešimtį kartų mažiau.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip dvidešimt žuvo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Metraščiuose skirtingai paduodami skaičiai kautynėse dalyva­
@@ -71,18 +67,17 @@ Nenurodyta
     Jogailą Maskvos pusėje, būtent Polocko — Andrius ir Briansko —
     Dimitras, Jaunučio Gediminaičio sūnus Mykolas (iš Zaslavlio), du
     Karijotaičiai (Semenas ir Hlebas)^36.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '000 kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo bent dešimtį kartų mažiau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    000
+    Už­
+    muštųjų skaičius tačiau labai perdedamas, kai minima 100.000
     kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo
     bent dešimtį kartų mažiau.
     Metraščiuose skirtingai paduodami skaičiai kautynėse dalyva­
@@ -91,9 +86,7 @@ Nenurodyta
     šimt žuvo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

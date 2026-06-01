@@ -18,19 +18,19 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 95—119; Bauer H.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad baueris86.'
+  teiginys: 'Dusburgietis teigia, kad 95—119; Bauer H.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad baueris86.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     86  Perlbach M. Preussisch-polnische Studien..., Heft 2, S. 95—119; Bauer H. Petcr
@@ -39,9 +39,9 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vėliau pasirodžiusios kitų Prūsijos kronikų, Ordino statutų, dokumentų publikacijos leido
@@ -51,4 +51,4 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

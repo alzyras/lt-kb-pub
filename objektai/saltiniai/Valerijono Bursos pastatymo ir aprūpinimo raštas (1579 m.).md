@@ -25,24 +25,25 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'O anksčiau minėtiems studentams, kad šio mūsų noro vykdymas būtų tvirtesnis ir stabilesnis, davėme ir duodame šį mūsų raštą, surašytą mūsų ranka ir patvirtintą mūsų antspaudu, ir įtei­ kiame į didžiai gerbiamo tėvo Rektoriaus rankas, kur su li­ kusiais.'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Taigi davėme ir dovanojome, ir šiuo mūsų raštu duodame ir dova­ nojame amžiną ir neatšaukiamą dovaną - minėtų vargstan­ čių dėl sunkios padėties, bet turinčių tikslą pabaigti studijas 413 ## Puslapis 430 VILNIAUS MIESTO ISTORIJA// TOMAS ferremus.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALERIJONO BURSOS PASTATYMAS IR APRŪPINIMAS 1579 METAI (Iš Vilniaus kapitulos archyvo) Valerianus DEI gratia Episcopus Vilnensis.'
+- t-002
+  teiginys: 'Valerijono Bursos raštu kolegijos mokiniams, dėl sunkios padėties negalėjusiems baigti studijų, skirta amžina ir neatšaukiama dovana.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Valerijono Bursos pastatymo ir aprūpinimo raštas datuojamas 1579 m. ir pradėtas Vilniaus vyskupo Valerijono vardu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valerijono Bursos pastatymo ir aprūpinimo raštas datuojamas 1579 m. ir pradėtas Vilniaus vyskupo Valerijono vardu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Liucijos,
@@ -65,9 +66,9 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Už tai visagalis Dievas prakilniosioms Šviesy­
@@ -91,9 +92,10 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-002
+- c-003
+  santrauka: 'Valerijono Bursos raštu kolegijos mokiniams, dėl sunkios padėties negalėjusiems baigti studijų, skirta amžina ir neatšaukiama dovana.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad Geriausias Didžiausias Dievas ne už kokius nors

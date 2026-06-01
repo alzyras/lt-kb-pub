@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Musninkai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,16 +15,15 @@ tags:
 Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenčionėlių linijoje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Frontas nusistovėjo Kernavės-Musninkų-Širvintų-Giedraičių-Dubingių-Švenčionėlių linijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Frontas nusistovėjo Kernavės-Musninkų-Širvintų-Giedraičių-Dubingių-Švenčionėlių linijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     jau E. Adamkavičiaus vado-
@@ -47,10 +37,8 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
     Dubingių-Švenčionėlių linijoje.
 
     artilerijos baterija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

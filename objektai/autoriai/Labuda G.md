@@ -19,39 +19,39 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Dusburgietis teigia, kad dirsovė — prūsiškas vardas (GAO, p. 28; Labuda G., Zagadnienie.., p. 24; Топоров B.'
   pagrindžia:
-    - c-007
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m..'
-  pagrindžia:
-    - c-005
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).'
-  pagrindžia:
-    - c-006
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad labuda G.'
-  pagrindžia:
-    - c-003
+    - c-004
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad jučas); Labuda G.'
+  teiginys: 'Dusburgietis teigia, kad apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo Viešpaties dievo 1234 metais brolis Hermanas, magistras, jau išvijus prūsus iš Kulmo 229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo 1202 m..'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad latvių Vidzeme (Źródła skandynawskie.., p. 107—109 — Labuda G.).'
   pagrindžia:
     - c-002
 
 - t-004
+  teiginys: 'Dusburgietis teigia, kad labuda G.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad jučas); Labuda G.'
+  pagrindžia:
+    - c-003
+
+- t-006
   teiginys: 'Dusburgietis teigia, kad (1339 m.) lenkų tradicija (Lites..., 1, p. 253, 304; Labuda G.'
   pagrindžia:
-    - c-004
+    - c-007
 
 ## Reikšmingi paminėjimai
 
-- c-005
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
@@ -66,9 +66,9 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-006
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. šaltiniuose Vitlando (Withlandia)
@@ -79,9 +79,9 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
@@ -96,9 +96,9 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-007
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     krante žemiau Nogato atsišakojimo. Dirsovė — prūsiškas vardas (GAO, p. 28; Labuda
@@ -108,9 +108,9 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-008
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     229 Henrikas Barzdotasis (apie 1163—1238), Silezijos (Vroclavo) kunigaikštis nuo
@@ -122,9 +122,9 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-003
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Imperatorius, naudodamasis „teise” lemti pagoniškųjų žemių
@@ -137,9 +137,9 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-004
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasirėmus XIV a. (1339 m.)
@@ -151,7 +151,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

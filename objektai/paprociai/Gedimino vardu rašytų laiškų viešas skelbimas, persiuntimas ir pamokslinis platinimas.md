@@ -48,16 +48,16 @@ Nenurodyta
 - t-001
   teiginys: 'Kryžiuočiai tą antspaudą mums panieką reikš­ dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­ galba sumanymo įgyvendinimą ir žmonėms akis užtem­ dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą piktžodžiaudami ginčytų, tą mūsų šiais laiškais.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: '" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Panašių
@@ -90,7 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiuočiai tą antspaudą mums panieką reikš­

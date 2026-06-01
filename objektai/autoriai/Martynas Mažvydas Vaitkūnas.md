@@ -1,27 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Martynas Mažvydas Vaitkūnas'
-sukurta: '2026-04-24'
-variantai:
-  - 'Mažvydas'
-  - 'Martyno Mažvydo Vaitkūno'
-  - 'Mažvydo'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: 'XVI a.; 1547 m.; 1570 m.'
-datos:
-  - '1547 m.'
-  - '1570 m.'
-vaidmenys:
-  - 'autorius'
-  - 'raštininkas'
-  - 'katekizmo ir giesmių autorius'
-patikimumas: 'aukštas'
-amziai:
-  - 'XVI'
-periodo_grupes:
-  - 'LDK'
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -32,6 +15,7 @@ tags:
 Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštininkas; jam priskiriami darbai lietuviškos protestantiškos knygos, 1547 m. lietuviškas katekizmas ir kiti darbai.
 
 ## Darbai
+
 - lietuviškos protestantiškos knygos
 - 1547 m. lietuviškas katekizmas
 - giesmės
@@ -39,68 +23,61 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - Mažvydo giesmynas
 
 ## Teiginiai
-- t-004
+
+- t-001
   teiginys: 'Mažvydas rašė lietuviškas protestantiškas knygas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-002
   teiginys: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-003
   teiginys: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mažvydas rašė lietuviškas protestantiškas knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jas
+    Tuo pat metu protestantizmas labai uoliai buvo platinamas
+    ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
+    riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-002
-  santrauka: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
     kai kurias giesmes, kurių dalis buvo versta Rapagelionio ir Kul-
     viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
     knygučių. Kiti jo darbą tęsė toliau.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
 - c-003
-  santrauka: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1570 m. Mažvydo giesmynas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

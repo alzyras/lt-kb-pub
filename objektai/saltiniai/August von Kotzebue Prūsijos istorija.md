@@ -17,12 +17,12 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Be abejonės, anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­ dino piktadarystę" atsidūrė kryžiuočių archyve.'
+- t-001
+  teiginys: 'Augusto von Kotzebue nuomonės apie Prūsijos istoriją vertinamos kritiškai, remiantis teiginiu apie dokumentų patekimą į kryžiuočių archyvą.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs apkal­ tinti Ordiną nauja piktadarystė, kaip kad buvo įpratęs.'
   pagrindžia:
     - c-001
@@ -40,9 +40,10 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: 'Augusto von Kotzebue nuomonės apie Prūsijos istoriją vertinamos kritiškai, remiantis teiginiu apie dokumentų patekimą į kryžiuočių archyvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be abejonės,
@@ -55,4 +56,4 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

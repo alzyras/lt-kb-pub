@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Romas Kalanta'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1972 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1972'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Romas Kalanta
 
@@ -28,103 +24,145 @@ tags:
 1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką. Kalantos susideginimo priežastis – sunki psichikos liga šizofrenija.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Sovietiniai saugumiečiai R. Kalantą slapta palaidojo anksčiau paskelbto laiko.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Sovietų valdžia paskelbė, kad R. Kalantos susideginimo priežastis buvo sunki psichikos liga šizofrenija.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'R. Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
-  pagrindžia:
-    - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-005
   teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-005
 
+- t-002
+  teiginys: 'Sovietų valdžia paskelbė, kad R. Kalantos susideginimo priežastis buvo sunki psichikos liga šizofrenija.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'R. Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Sovietiniai saugumiečiai R. Kalantą slapta palaidojo anksčiau paskelbto laiko.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
+  pagrindžia:
+    - c-004
+
+- t-006
+  teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sovietiniai saugumiečiai R. Kalantą slapta palaidojo anksčiau paskelbto laiko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
+    R. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams
+    paniką. Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
     anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
     savivale.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
+
 - c-002
-  santrauka: 'Sovietų valdžia paskelbė, kad R. Kalantos susideginimo priežastis buvo sunki psichikos liga šizofrenija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Neramumai
+    nuslopinti gegužės 19 dieną. Iš daugiau kaip 3 000 aktyvių protestų dalyvių
+    buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon at-
+    sakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų). Siekdama
+    sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
+    priežastis – sunki psichikos liga šizofrenija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekdama
     sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
-    priežastis – sunki psichikos liga šizofrenija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'R. Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
+    priežastis – sunki psichikos liga šizofrenija. Ši informacija neatitiko tikro-
+    vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
+    minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
     R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-
-    formalių jaunimo grupių judėjimą.
-  citata_rodoma: ""
+    formalių jaunimo grupių judėjimą. Nuo septintojo dešimtmečio iki oku-
+    pacijos pabaigos veikė apie 70 tokių grupių, jų nariai platino prieš sovietų
+    santvarką nukreiptus atsišaukimus, keldavo tautines vėliavas, minėdavo
+    tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
+    lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
+
 - c-005
-  santrauka: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ši informacija neatitiko tikro-
+    vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
+- c-006
+  santrauka: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1972 m. gegužės 14 d. devyniolikme-
+    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
+    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
+    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. R. Kalanta ligoninėje
+    mirė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    R. Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams
+    paniką. Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
+    anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
+    savivale. Prasidėjo masinės eitynės, kuriose skanduoti politiniai šūkiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

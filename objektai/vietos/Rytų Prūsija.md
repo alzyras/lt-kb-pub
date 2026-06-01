@@ -34,15 +34,15 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   pagrindžia:
     - c-002
 
-- t-004
+- t-003
   teiginys: 'Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipėdoje.'
   pagrindžia:
-    - c-004
+    - c-003
 
-- t-003
+- t-004
   teiginys: '11 minučių ir įveikę 6 411 km, antrą tuo metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.'
   pagrindžia:
-    - c-003
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -71,7 +71,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   pagrindžia:
     - t-002
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,
@@ -84,9 +84,9 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-003
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą. Nu-
@@ -97,7 +97,7 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 - c-005
   santrauka: 'Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė.'

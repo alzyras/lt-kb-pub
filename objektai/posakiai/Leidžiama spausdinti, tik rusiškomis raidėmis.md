@@ -1,23 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Leidžiama spausdinti, tik rusiškomis raidėmis'
-sukurta: '2026-04-24'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -32,16 +19,15 @@ tags:
 - Pagrindinė forma: Leidžiama spausdinti, tik rusiškomis raidėmis
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Cenzūra paprastai atsakydavo, kad spausdinti leidžiama tik rusiškomis raidėmis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Cenzūra paprastai atsakydavo, kad spausdinti leidžiama tik rusiškomis raidėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai vieną metą Rusų valdžia pasidarė nuolaidesnė,
@@ -50,13 +36,11 @@ tags:
     cenzūra paprastai atsakydavo: „Leidžiama spausdinti, tik rusiš-
     komis raidėmis". Vieną kitą knygutę ar kokį atsišaukimą pa-
     sisekdavo išspausdinti, tik cenzūrą apgavus arba apėjus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

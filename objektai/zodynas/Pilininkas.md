@@ -1,40 +1,18 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Pilininkas"
-sukurta: '2026-05-27'
-variantai:
-  - "pilininkas"
-  - "pilininkai"
-  - "Capitaneus Vilnensis"
-  - "Vilniaus pilininkas"
-  - "Vilniaus seniūnas"
-aliases:
-  - "Pilininkas"
-  - "pilininkas"
-  - "pilininkai"
-  - "Capitaneus Vilnensis"
-  - "Vilniaus pilininkas"
-  - "Vilniaus seniūnas"
+pavadinimas: 'Pilininkas'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-bukle: juodrastis
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1382 m.'
   - '1385 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
 date_start: '1382'
 date_end: '1385'
-patikimumas: "aukstas"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
 ---
 # Pilininkas
 
@@ -57,32 +35,30 @@ Terminas žymi pareigūną, kuris valdė miestą ar pilį ir galėjo vykdyti tei
 Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1385 m. Jogailos laiško kontekstuose.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Lietuvoje pilininkai valdė miestą panašiai kaip Lenkijoje kaštelionai ir vykdė teisminę priežiūrą kartu su seniūnu."
+  teiginys: 'Lietuvoje pilininkai valdė miestą panašiai kaip Lenkijoje kaštelionai ir vykdė teisminę priežiūrą kartu su seniūnu.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vilniaus pilininkas su miestiečiais sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Hanka 1385 m. Jogailos laiške buvo įvardytas kaip Hanko Capitaneus Vilnensis, tai yra Vilniaus seniūnas.'
   pagrindžia:
     - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata lygina Lietuvos pilininkus su Lenkijos kaštelionais ir apibūdina jų teisminę priežiūrą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Valstybėje nusistovėjus leninio valdymo
@@ -101,15 +77,13 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas
     atstojo gyventojams teisės normas ir anų amžių neįmantriam
     protui vėliau parašytus įstatymus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vilniaus pilininkas su miestiečiais sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -122,15 +96,13 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     nių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­
     vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
     pagalbą sūnui pagaliau nebūtų atvykęs.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Hanka 1385 m. Jogailos laiške buvo įvardytas kaip Hanko Capitaneus Vilnensis, tai yra Vilniaus seniūnas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Hanulas tasai, keletą kartu paminė­
@@ -144,15 +116,13 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     1385], yra taip vadinamas: Hanko Ca-
     pitaneus Vilnensis [Hanka - Vilniaus
     seniūnas].
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     75).
@@ -167,9 +137,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     šitaip išvaduojamas iš netikėlių nelaisvės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 
@@ -196,8 +164,6 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Pilininkai kaštelionai seniūnas]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Sarkis]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
@@ -205,4 +171,5 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - [[objektai/zodynas/alodas dvaras]]
 - [[objektai/zodynas/trečias grūdas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
 - [[objektai/zodynas/Pilininkas capitaneus seniūnas]]

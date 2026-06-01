@@ -1,26 +1,20 @@
 ---
 tipas: daiktas
 pavadinimas: 'Antspaudai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - daiktas
   - karalius
+amziai:
+  - 'XV'
 ---
 # Antspaudai
 
@@ -29,60 +23,45 @@ tags:
 Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais. Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai, visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­ mą išgirdo, mums aprašė ir savo antspaudais patvirtino. Šio rašto paliu­ dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­ gaikštystės antspaudas.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
   pagrindžia:
-    - c-001
+    - c-002
+
 - t-002
   teiginys: 'Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai, visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­ mą išgirdo, mums aprašė ir savo antspaudais patvirtino.'
   pagrindžia:
-    - c-002
+    - c-001
+
 - t-003
-  teiginys: 'Šio rašto paliu­ dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­ gaikštystės antspaudas.'
-  pagrindžia:
-    - c-003
-- t-004
   teiginys: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Unia v-a
-    Litewska z Koroną. Szuflada I. A. 1413.
-    Przywilej łaciński Stanów Koronnych,
-    przyjęcia do herbów Stanów W . X-twa
-    Lit. sprawiony w Horodle, u niego piec­
-    zęć 46. datt. Ida mens 8-bris. Buvo ir
-    tos privilegijos Žygimanto Augusto
-    patvirtinimas su dviem antspaudais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai, visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­ mą išgirdo, mums aprašė ir savo antspaudais patvirtino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     išsiaiškinti apie pelną ir
@@ -99,32 +78,28 @@ Nenurodyta
     sprendėme ir suteikiame.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Šio rašto paliu­ dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­ gaikštystės antspaudas.'
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    O jei kas nors išdrįs nepaklusti ir priešintis šiai
-    mūsų valiai, tą niekintoją griežtai bausime. Šio rašto paliu­
-    dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­
-    gaikštystės antspaudas. Duota Lietuvoje, visuotiniame Bras­
-    tos seime, pirmadienį, švento Mykolo dieną, tūkstantis penki
-    šimtai keturiasdešimt ketvirtaisiais Viešpaties metais, o ka­
-    ralystės ir
-    .
+    Unia v-a
+    Litewska z Koroną. Szuflada I. A. 1413.
+    Przywilej łaciński Stanów Koronnych,
+    przyjęcia do herbów Stanów W . X-twa
+    Lit. sprawiony w Horodle, u niego piec­
+    zęć 46. datt. Ida mens 8-bris. Buvo ir
+    tos privilegijos Žygimanto Augusto
+    patvirtinimas su dviem antspaudais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
+    - t-001
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas pats Gardino seimas Vilniaus miesto
@@ -173,11 +148,9 @@ Nenurodyta
     naujos ar atskiros privilegijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -194,8 +167,6 @@ Nenurodyta
 - [[objektai/asmenys/Kasparas Bekešas]]
 - [[objektai/autoriai/L. Mulevičius]]
 - [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/autoriai/O. Maksimaitienė]]
 - [[objektai/autoriai/P. Girdzijauskienė]]
 - [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
@@ -203,8 +174,8 @@ Nenurodyta
 - [[objektai/zodynas/manu proprio M.P]]
 - [[objektai/posakiai/„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“]]
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
 - [[objektai/daiktai/Valstybės antspaudai]]
-- [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]
 - [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]
 - [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]

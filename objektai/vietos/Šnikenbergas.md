@@ -17,19 +17,19 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje daug brolių ir vieną kilmingą vyrą Hertvigą.'
+  teiginys: 'Dusburgietis teigia, kad 251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur stovi Baigos pilis, supa pelkės, ten net vasaros metu tegalima pakliūti tiltu, prieš kurį ant vienos kalvos broliai pastatė pilį, vardu Šnikenbergas251, įkurdinę joje daug brolių ir vieną kilmingą vyrą Hertvigą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     251 Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir D. III, 23 minimų
@@ -41,9 +41,9 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
@@ -61,4 +61,4 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

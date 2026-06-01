@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Motiejaus Stryjkovskio kronika (1582 m.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1582 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1582'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Motiejaus Stryjkovskio kronika (1582 m.)
 
@@ -27,18 +21,15 @@ tags:
 Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia « Lietuvos Metraščio » redakcija ir Mo­ tiejaus Stryjkovskio kronika (1582), XVI amž. antroje pusėje Lietuvos istorija buvo pradedama nuo Romos imperatoriaus Ne­ rono laikų, kai, nuo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Remiantis Motiejaus Stryjkovskio kronika, XVI a. antroje pusėje Lietuvos istorija buvo pradedama nuo Nerono laikų.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Remiantis Motiejaus Stryjkovskio kronika, XVI a. antroje pusėje Lietuvos istorija buvo pradedama nuo Nerono laikų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **1. Akmens amžiaus laikai iki indoeuropiečiu pasirodymo**^1
@@ -52,10 +43,8 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
     istoriškos atramos neturinčia, vardų geneologija, kuria buvo užpil­
     doma lietuvių tautos praeitis iki pat pirmojo Lietuvos karaliaus
     Mindaugo pasirodymo istorijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

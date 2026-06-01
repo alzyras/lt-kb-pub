@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'M. Jankus'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -18,16 +15,15 @@ tags:
 Jankus ir lietuvių draugas vokietis S.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
@@ -50,11 +46,9 @@ Jankus ir lietuvių draugas vokietis S.
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

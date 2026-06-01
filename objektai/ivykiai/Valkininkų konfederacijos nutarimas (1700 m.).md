@@ -40,13 +40,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Jų alga - trisdešimt livry už ketvirtį.“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.'
+  teiginys: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir nutarta iš Sapiegų atimti pareigybes bei konfiskuoti dvarus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji valdžios organai ir nutarta iš Sapiegų atimti pareigybes bei konfiskuoti dvarus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jų alga - trisdešimt livry už ketvirtį.“

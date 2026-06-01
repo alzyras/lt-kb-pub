@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Gelvonai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - ordinas
@@ -26,16 +17,15 @@ tags:
 Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante. Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sprendžiant iš pagrindinių istorinių
@@ -47,10 +37,8 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
     traukė į šiaurę rytine to paties ežero puse.
     Jos viena kitą pastebėjo šiauriau Žirnajų
     ežero, kur išteka Žirnajos upelis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

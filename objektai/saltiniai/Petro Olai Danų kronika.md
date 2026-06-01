@@ -17,12 +17,12 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijoje karaliui Kanutui (Cnud), kai dėl pragaištingo nederliaus visiems gyventojams trū­ ko grūdų, buvo įsakyta kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį.'
   pagrindžia:
     - c-001
@@ -55,7 +55,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -79,4 +79,4 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

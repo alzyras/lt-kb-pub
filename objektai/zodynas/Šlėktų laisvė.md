@@ -1,30 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "Šlėktų laisvė"
-sukurta: '2026-05-27'
-variantai:
-  - "šlėktų laisvė"
-  - "busimosios šlėktų laisvės"
-aliases:
-  - "Šlėktų laisvė"
-  - "šlėktų laisvė"
-  - "busimosios šlėktų laisvės"
+pavadinimas: 'Šlėktų laisvė'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Šlėktų laisvė
 
@@ -46,19 +26,20 @@ Sąvoka nusako Lenkijos luominės politinės laisvės pradmenis feodalinio valdy
 Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystėje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija šaukė suvažiavimus ir taip klojo būsimosios šlėktų laisvės pamatus.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­ dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­ tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­ matus.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija šaukė suvažiavimus ir taip klojo būsimosios šlėktų laisvės pamatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
@@ -72,15 +53,13 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
     dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
     tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
     matus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­ dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­ tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­ matus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
@@ -92,9 +71,7 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
     matus. Kitaip anuomet buvo valdoma Rusia.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

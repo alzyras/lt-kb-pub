@@ -1,34 +1,19 @@
 ---
 tipas: daiktas
-pavadinimas: "Tiltai, jazai ir vandens infrastruktūra"
-sukurta: '2026-05-27'
-variantai:
-  - Vilijos tiltas
-  - tiltas per Viliją
-  - būdelės
-  - stoginės
-aliases: []
+pavadinimas: 'Tiltai, jazai ir vandens infrastruktūra'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1529-1536 m. Vilijos tilto statybos kontekstas"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - "1529 m."
-  - "1536 m."
-periodas: ankstyvieji_naujieji_laikai
-periodo_grupes:
-  - LDK
-amziai:
-  - XVI
-date_start: "1529"
-date_end: "1536"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-27'
+  - '1529 m.'
+  - '1536 m.'
+date_start: '1529'
+date_end: '1536'
+sukurta: ''
+atnaujinta: ''
 tags:
   - transportas
+amziai:
+  - 'XVI'
 ---
 # Tiltai, jazai ir vandens infrastruktūra
 
@@ -37,41 +22,44 @@ tags:
 Vilijos tiltas aprašomas kaip fizinė miesto infrastruktūra, skirta pakeisti nepatogią perkėlą ir sujungta su prekybinėmis būdelėmis arba stoginėmis. 1529 m. leista statyti akmeninį arba plytinį tiltą, o vėliau Hozijaus iniciatyva per Viliją iškilo mūrinis tiltas.
 
 ## Pavadinimai šaltiniuose
+
 - tiltą iš akmenų arba plytų
 - būdeles, arba stogines
 - išmūrytas tiltas
 - perkėla
 
 ## Laikotarpis ir datos
+
 - 1529 m.
 - 1536 m.
 
 ## Kas tai
+
 Miesto vandens kelio perėjimo ir prekybinės infrastruktūros objektai.
 
 ## Naudojimas
+
 Tiltas naudotas persikėlimui per Viliją, mokesčiams rinkti ir miesto patogumui didinti.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Hozijus gavo teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos, o vėliau per upę iškilo mūrinis tiltas.'
   pagrindžia:
     - c-002
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
@@ -82,15 +70,13 @@ Nenurodyta
     gavo teisę visiems laikams imti mokestį. Šio tilto remontas pa­
     liktas tam pačiam Goštautui ir jo įpėdiniams, o apsauga neti­
     kėto potvynio metu priskirta Vilniaus miestiečiams17.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Hozijus gavo teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos, o vėliau per upę iškilo mūrinis tiltas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -105,13 +91,11 @@ Nenurodyta
     pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos
     jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties
     statybą užbaigė jo sūnus Jonas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

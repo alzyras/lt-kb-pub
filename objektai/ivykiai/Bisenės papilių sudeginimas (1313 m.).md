@@ -42,12 +42,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais
@@ -59,7 +59,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     319 (312). Apie Bisenės papilių sudeginimą 1313 metais

@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos Didžiosios Kunigaikštystės Knyga'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1993 m.'
   - '2008 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1993'
 date_end: '2008'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Lietuvos Didžiosios Kunigaikštystės Knyga
 
@@ -30,42 +24,39 @@ tags:
 Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų darbas.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: '„Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.'
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
+    Parengė
+    Aldona Bieliūnienė ir kiti. Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
+    Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
+    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
+    darbas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
+    Lithuanian Churches. Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
     darbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
     veidas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: '„Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
-    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
-    darbas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-    - t-002

@@ -1,24 +1,18 @@
 ---
 tipas: grupe
 pavadinimas: 'Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1918 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė
 
@@ -27,16 +21,15 @@ tags:
 Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­ festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­ festu paskelbė įvedanti Tarybų valdžią Lietuvoje.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­ festu paskelbė įvedanti Tarybų valdžią Lietuvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     To tomo uždavinys
@@ -49,11 +42,9 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
     Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
     darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
     festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

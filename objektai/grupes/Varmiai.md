@@ -27,74 +27,74 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Teiginiai
 
-- t-012
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
+  pagrindžia:
+    - c-005
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
   pagrindžia:
     - c-012
 
-- t-011
-  teiginys: 'Dusburgietis teigia, kad išžudžius vadus ir kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
-  pagrindžia:
-    - c-011
-
-- t-009
+- t-003
   teiginys: 'Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą Glapas, varmių vadas, turėjo tokį valdinį, vardu Steinavas, kurį labai mėgo.'
+  pagrindžia:
+    - c-010
+
+- t-004
+  teiginys: '1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.'
   pagrindžia:
     - c-009
 
-- t-014
-  teiginys: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
-  pagrindžia:
-    - c-014
-
-- t-004
+- t-005
   teiginys: 'Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.'
   pagrindžia:
-    - c-004
+    - c-011
 
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą Varmės, Notangos ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė tikėjimui ir.'
   pagrindžia:
+    - c-008
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
+  pagrindžia:
     - c-006
 
 - t-008
-  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
-  pagrindžia:
-    - c-008
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad ketvirta — Varmė194, kurioje [gyveno] varmiai.'
+  pagrindžia:
+    - c-004
+
+- t-009
+  teiginys: 'Dusburgietis teigia, kad tuo tarpu Steinavas nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su savo kariuomene drauge su juo. Šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją.'
+  pagrindžia:
+    - c-001
+
+- t-010
+  teiginys: 'Dusburgietis teigia, kad kai šitai sužinojo notangai ir varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.'
+  pagrindžia:
+    - c-007
+
+- t-011
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
   pagrindžia:
     - c-002
 
-- t-010
-  teiginys: 'Dusburgietis teigia, kad tuo tarpu Steinavas nuvyko pas Karaliaučiaus komtūrą ir išdavė šią paslaptį, patardamas šiam traukti su savo kariuomene drauge su juo. Šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją.'
-  pagrindžia:
-    - c-010
-
-- t-013
-  teiginys: 'Dusburgietis teigia, kad kai šitai sužinojo notangai ir varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.'
-  pagrindžia:
-    - c-013
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
-  pagrindžia:
-    - c-005
-
-- t-003
+- t-012
   teiginys: 'Dusburgietis teigia, kad varmės vardas greičiausiai yra upėvardinės kilmės, plg.'
   pagrindžia:
     - c-003
 
-- t-007
+- t-013
   teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
   pagrindžia:
-    - c-007
+    - c-013
 
 ## Reikšmingi paminėjimai
 
-- c-010
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo tarpu Steinavas
@@ -107,9 +107,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-009
 
-- c-005
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
@@ -123,7 +123,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-011
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -140,9 +140,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-012
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Trečia — Pagudė193,
@@ -153,9 +153,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-008
 
-- c-012
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
@@ -173,9 +173,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-001
 
-- c-008
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
@@ -193,9 +193,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
-- c-013
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
@@ -208,9 +208,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-010
 
-- c-006
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
@@ -232,7 +232,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - t-006
 
-- c-014
+- c-009
+  santrauka: '1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ordino pajėgos
@@ -254,9 +255,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-004
 
-- c-009
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
@@ -268,9 +269,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-003
 
-- c-004
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     20. Apie Baigos pilies apgulą
@@ -289,9 +290,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-011
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
@@ -306,9 +307,9 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-002
 
-- c-007
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
@@ -326,7 +327,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai

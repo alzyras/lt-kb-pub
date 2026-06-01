@@ -27,12 +27,12 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II nesantuokinio sūnaus, mirtį 1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį Sicilijos karaliumi, kurią jam davė popiežius Urbonas.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 viešpaties metais tas pats Urbonas, popiežius, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui, Sicilijos karalystę, kurią Manfredas buvo užgrobęs, norėdamas ją iš jo atimti (Mart.'
   pagrindžia:
     - c-001
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

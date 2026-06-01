@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas Wallenrodas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1391 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1391'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Konradas Wallenrodas
 
@@ -28,16 +24,15 @@ tags:
 Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugsėjo 1 d. prie Kauno Nemuno saloje, pagerbdamas gausiai atsilankiusius svečius-pilgrimus, iškėlė tokią didelę puotą, kokios — pagal ordino metraščius — iki tol dar nebuvo buvę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Naujasis ordino vyriausias magistras Konradas Wallenrodas,
@@ -49,11 +44,9 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
     metraščius — iki tol dar nebuvo buvę. Trakus radęs paties Skir­
     gailos sudegintus, Wallenrodas nebespėjo atlikti numatyto žygio į
     Vilnių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

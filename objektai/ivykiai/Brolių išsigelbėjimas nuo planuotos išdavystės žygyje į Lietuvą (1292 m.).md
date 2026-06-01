@@ -39,18 +39,18 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad brolis Henrikas visa tai papasakojo magistrui, ir šis, brolių patariamas, pasiuntė į Lietuvos žemę žvalgus, kurie sugrįžę pareiškė, jog tai, kas buvo sakyta, gryna teisybė.'
   pagrindžia:
-    - c-002
     - c-004
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad kai paprasti žmonės išvydo, jog svarbiausieji klastininkai nuolatos bendrauja su broliais ir prie stalo, ir kitokiuose pasilinksminimuose, labai nusigando ir, manydami, jog jų sąmokslas esąs susektas, nedrįso nieko bloga broliams daryti, ir šitaip broliai iš.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad 1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų.'
   pagrindžia:
     - c-001
@@ -71,9 +71,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis  į tai
@@ -88,7 +88,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,9 +107,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Henrikas visa
@@ -126,7 +126,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-005
   santrauka: 'Dusburgietis teigia, kad 1292 viešpaties metais magistras, uoliai eidamas jam patikėtas pareigas ir didžiai rūpindamasis netikėlių naikinimu, sutelkė didelę brolių bei [kitų] ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų.'

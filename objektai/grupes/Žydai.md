@@ -29,139 +29,139 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 
 ## Teiginiai
 
-- t-017
+- t-001
   teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   pagrindžia:
-    - c-021
+    - c-023
 
-- t-012
+- t-002
   teiginys: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
+  pagrindžia:
+    - c-003
+
+- t-003
+  teiginys: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
   pagrindžia:
     - c-016
 
-- t-022
-  teiginys: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
-  pagrindžia:
-    - c-026
-
-- t-024
+- t-004
   teiginys: 'Žydai, dar XI am­ žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno buvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos sieną kirsdami, tiek ir iš rytų pusės.'
   pagrindžia:
-    - c-028
+    - c-011
 
-- t-008
+- t-005
   teiginys: 'Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis).'
   pagrindžia:
     - c-012
 
-- t-025
+- t-006
   teiginys: 'Betgi Trakų žydai, gerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­ vilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­ žvilgiu69.'
-  pagrindžia:
-    - c-029
-
-- t-018
-  teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
-  pagrindžia:
-    - c-022
-
-- t-019
-  teiginys: 'Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruomenė, turinti daugelį partijų ir organizacijų.'
-  pagrindžia:
-    - c-023
-
-- t-004
-  teiginys: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
-  pagrindžia:
-    - c-008
-
-- t-029
-  teiginys: 'Tai buvo žydai ir miestelėnų luomas.'
-  pagrindžia:
-    - c-033
-
-- t-013
-  teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
-  pagrindžia:
-    - c-017
-
-- t-023
-  teiginys: 'Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, nepaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje.'
-  pagrindžia:
-    - c-027
-
-- t-007
-  teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
-  pagrindžia:
-    - c-011
-
-- t-002
-  teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
-  pagrindžia:
-    - c-006
-
-- t-028
-  teiginys: 'Jau Vytauto laikais Vil­ niaus žydai ne tik ištekliais, bet ir išsimokslinimu tarp savųjų buvo garsūs.'
-  pagrindžia:
-    - c-032
-
-- t-027
-  teiginys: 'Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.'
-  pagrindžia:
-    - c-031
-
-- t-014
-  teiginys: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
-  pagrindžia:
-    - c-018
-
-- t-005
-  teiginys: 'Žydų bendruomenės (kahalai) taip pat buvo savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.'
-  pagrindžia:
-    - c-009
-
-- t-026
-  teiginys: 'Lietuviai sudarė 82 proc., žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc.'
-  pagrindžia:
-    - c-030
-
-- t-001
-  teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   pagrindžia:
     - c-005
 
-- t-020
-  teiginys: 'Kai kuriose srityse žydai tvirtai dominavo – eksportavo daugiau arklių, kailių ir odų, miško medžiagos, o importe sudarė didžiąją dalį.'
+- t-007
+  teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
   pagrindžia:
-    - c-024
+    - c-026
 
-- t-021
-  teiginys: 'Sovietams kuriant naują administraciją žydai, ypač jaunimas, noriai pradėjęs kalbėti rusiškai, gavo postus valdžioje, įmonėse ir įstaigose, profesinėse sąjungose – žydai tapo matomi prosovietinėse demonstracijose, administracijoje, tarp politinių vadovų, ir.'
+- t-008
+  teiginys: 'Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruomenė, turinti daugelį partijų ir organizacijų.'
   pagrindžia:
-    - c-025
+    - c-009
 
-- t-016
-  teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
-  pagrindžia:
-    - c-020
-
-- t-003
-  teiginys: 'Kuriant Izraelį, reikšmingus vaidmenis atliko iš buvusios LDK erdvės kilę litvakai.'
+- t-009
+  teiginys: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
   pagrindžia:
     - c-007
 
-- t-009
-  teiginys: 'Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų.'
-  pagrindžia:
-    - c-013
-
 - t-010
-  teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
+  teiginys: 'Tai buvo žydai ir miestelėnų luomas.'
+  pagrindžia:
+    - c-001
+
+- t-011
+  teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
+  pagrindžia:
+    - c-008
+
+- t-012
+  teiginys: 'Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, nepaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje.'
   pagrindžia:
     - c-014
 
+- t-013
+  teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
+  pagrindžia:
+    - c-025
+
+- t-014
+  teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
+  pagrindžia:
+    - c-004
+
+- t-015
+  teiginys: 'Jau Vytauto laikais Vil­ niaus žydai ne tik ištekliais, bet ir išsimokslinimu tarp savųjų buvo garsūs.'
+  pagrindžia:
+    - c-013
+
+- t-016
+  teiginys: 'Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.'
+  pagrindžia:
+    - c-020
+
+- t-017
+  teiginys: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
+  pagrindžia:
+    - c-010
+
+- t-018
+  teiginys: 'Žydų bendruomenės (kahalai) taip pat buvo savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.'
+  pagrindžia:
+    - c-019
+
+- t-019
+  teiginys: 'Lietuviai sudarė 82 proc., žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc.'
+  pagrindžia:
+    - c-017
+
+- t-020
+  teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
+  pagrindžia:
+    - c-015
+
+- t-021
+  teiginys: 'Kai kuriose srityse žydai tvirtai dominavo – eksportavo daugiau arklių, kailių ir odų, miško medžiagos, o importe sudarė didžiąją dalį.'
+  pagrindžia:
+    - c-002
+
+- t-022
+  teiginys: 'Sovietams kuriant naują administraciją žydai, ypač jaunimas, noriai pradėjęs kalbėti rusiškai, gavo postus valdžioje, įmonėse ir įstaigose, profesinėse sąjungose – žydai tapo matomi prosovietinėse demonstracijose, administracijoje, tarp politinių vadovų, ir.'
+  pagrindžia:
+    - c-006
+
+- t-023
+  teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  pagrindžia:
+    - c-024
+
+- t-024
+  teiginys: 'Kuriant Izraelį, reikšmingus vaidmenis atliko iš buvusios LDK erdvės kilę litvakai.'
+  pagrindžia:
+    - c-021
+
+- t-025
+  teiginys: 'Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų.'
+  pagrindžia:
+    - c-018
+
+- t-026
+  teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
+  pagrindžia:
+    - c-022
+
 ## Reikšmingi paminėjimai
 
-- c-033
+- c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo žydai ir miestelėnų luomas.
@@ -176,9 +176,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-029
+    - t-010
 
-- c-024
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautininkams patiko ir žydų parama sprendžiant Klaipėdos ir Vil-
@@ -195,9 +195,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-020
+    - t-021
 
-- c-016
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
@@ -217,9 +217,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-002
 
-- c-006
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vis dėlto Vilniaus, Lietuvos ir Abiejų
@@ -235,9 +235,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-014
 
-- c-029
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -258,9 +258,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-025
+    - t-006
 
-- c-025
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams kuriant naują administraciją žydai, ypač jaunimas, noriai
@@ -275,9 +275,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-021
+    - t-022
 
-- c-008
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litva-
@@ -290,9 +290,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-009
 
-- c-017
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žydai, dar XI am­
@@ -311,9 +311,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-011
 
-- c-023
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruome-
@@ -331,9 +331,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-019
+    - t-008
 
-- c-018
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -354,9 +354,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-017
 
-- c-028
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėlesniais metais Vilniaus mies­
@@ -376,7 +376,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-024
+    - t-004
 
 - c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -390,9 +390,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-005
 
-- c-032
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau Vytauto laikais Vil­
@@ -406,9 +406,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-028
+    - t-015
 
-- c-027
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dalis
@@ -426,9 +426,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-023
+    - t-012
 
-- c-005
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
@@ -439,9 +439,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-020
 
-- c-026
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
@@ -460,9 +460,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-022
+    - t-003
 
-- c-030
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
@@ -473,9 +473,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-026
+    - t-019
 
-- c-013
+- c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
@@ -486,9 +486,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-025
 
-- c-009
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gubernijų centrai savivaldos neprarado, o
@@ -501,9 +501,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-018
 
-- c-031
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
@@ -524,9 +524,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-027
+    - t-016
 
-- c-007
+- c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
@@ -540,9 +540,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-024
 
-- c-014
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -563,9 +563,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-026
 
-- c-021
+- c-023
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
@@ -579,9 +579,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-001
 
-- c-020
+- c-024
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vis dėlto Vilniaus, Lietuvos ir Abiejų
@@ -597,9 +597,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-023
 
-- c-011
+- c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1905-ųjų – kultūrinė kova
@@ -614,9 +614,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-013
 
-- c-022
+- c-026
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1923 m. panaikintas žydų ministro be
@@ -637,9 +637,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-007
 
-- c-034
+- c-027
   santrauka: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -654,7 +654,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-030
+    - t-027
 
 ## Ryšiai
 ### Susiję objektai
@@ -821,7 +821,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/asmenys/Paulius Bochenas]]
 - [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/daiktai/Redalektais vadinamos Mozės knygos]]
 - [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
@@ -873,6 +872,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/posakiai/„vietos visiems užteks“]]
 - [[objektai/posakiai/„viešpataujanti“ „ponų tauta“]]
 - [[objektai/asmenys/Oskaras Milašius]]
+- [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
 - [[objektai/asmenys/Žygimantas Senasis]]

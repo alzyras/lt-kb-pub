@@ -19,24 +19,24 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Balinskis, lyg ir pri­ simindamas savo jaunystės metus „nenaudėlių" draugijoje šia­ me Varšuvos laikraštyje pradėjo spausdinti Laiškus, kuriuose nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.'
+- t-001
+  teiginys: 'Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Kita vertus, Laiškuose galima užtikti ano meto žemaičių ir lietuvių kultūrinio gyvenimo realijų.'
-  pagrindžia:
-    - c-003
-
-- t-001
-  teiginys: 'Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­ tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultūrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­ tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultūrinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svarbu, kad tik vaizduotės ir falšo gangrena nesunai­
@@ -56,9 +56,10 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
+  santrauka: 'Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aleksandro II atėjimas į sostą buvo liberalių re­
@@ -75,9 +76,9 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
@@ -92,4 +93,4 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

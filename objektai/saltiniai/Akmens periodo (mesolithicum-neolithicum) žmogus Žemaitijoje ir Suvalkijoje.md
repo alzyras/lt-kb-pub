@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1931 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1931'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje
 
@@ -27,18 +21,15 @@ tags:
 : Ak­ mens periodo ( mesolithicum-neolithicum ) žmogus Žemaitijoje ir Suvalki­ joje , 1931.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^98) I SKYRIUS: LIETUVOS PROISTORĖ
@@ -49,10 +40,8 @@ tags:
     joje_ , 1931.
 
     **2.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

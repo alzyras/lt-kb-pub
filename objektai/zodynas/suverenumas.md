@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'suverenumas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1940 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1940'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
+amziai:
+  - 'XX'
 ---
 # suverenumas
 
@@ -28,16 +22,15 @@ tags:
 Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­ žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m. Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų Respublikos suverenumas buvęs įvykdytas 1940 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų Respublikos suverenumas buvęs įvykdytas 1940 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tada
@@ -50,11 +43,9 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
     Šitaip periodizuodami Lietuvos praeitį, tarybiniai istorikai savo
     marksistinėje teorijoje ir Lietuvos istorijos skirstymo atveju norėjo
     būti logiškai konsekventiški.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -64,5 +55,6 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
 - [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]

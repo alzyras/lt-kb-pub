@@ -44,16 +44,16 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolių karą su varmiais, bartais ir notangais ir apie daugybės brolių ir krikščio­ nių žūtį Vargu ar kas valiotų smulkiai papasakoti, kiek turėjo patirti magistras bei broliai vargo, kokių susilaukti pavojų ir bėdų, stengdamiesi, kad Kristaus tikėjimas.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 243 Apie kovas su varmiais, notangais ir sembais kalba 1238.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     243  Apie kovas su varmiais, notangais ir sembais kalba 1238. VI.11 dokumentas
@@ -64,7 +64,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolių karą su varmiais, bartais ir notangais ir apie daugybės brolių ir krikščio­

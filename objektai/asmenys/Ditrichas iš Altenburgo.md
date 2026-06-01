@@ -28,25 +28,25 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594.'
   pagrindžia:
-    - c-004
+    - c-003
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
   pagrindžia:
-    - c-002
+    - c-004
 
-- t-001
+- t-003
   teiginys: 'Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Altenburgo (1335—1341 m.) laikais, apie 1340 m. Jo „Prūsijos žemės kronikoje“ nemaža detalių pakeista arba pridėta79.'
   pagrindžia:
     - c-001
 
-- t-003
+- t-004
   teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą 1324 metais Po to, gegužės 22 dieną, brolis Ditrichas iš Altenburgo, Ragainės komtūras, ir 44 broliai su 400 Sembos ir Notangos vyrų apyaušryje netikėtai užpuolė Gedimino pilies papilį, sudegino jį ir išžudė visus.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -61,9 +61,9 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     351 (344). Apie Gedimino pilies papilio sudeginimą 1324 metais
@@ -77,9 +77,9 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     362 (355). Apie Lunenburgo pilies ir dviejų miestų pastatymą
@@ -94,9 +94,9 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-002
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     329 (322). Apie Bisenės pilies sudeginimą 1316 metais

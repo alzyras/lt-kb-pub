@@ -28,39 +28,39 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
-  pagrindžia:
-    - c-004
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
-  pagrindžia:
-    - c-002
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė, Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams į pagalbą brolį Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių ir ginklanešių.'
   pagrindžia:
     - c-006
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šalimais tekančio upelio Ragaine, palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą, su 40 brolių ir šimtu rinktinių ginklanešių.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
   pagrindžia:
     - c-001
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis Gotfridas Hohenlohė, Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams į pagalbą brolį Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių ir ginklanešių.'
+  pagrindžia:
+    - c-003
+
 - t-005
+  teiginys: 'Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šalimais tekančio upelio Ragaine, palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą, su 40 brolių ir šimtu rinktinių ginklanešių.'
+  pagrindžia:
+    - c-004
+
+- t-006
   teiginys: 'Dusburgietis teigia, kad brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos, kai karalius bus iškeliavęs iš savo žemės, ir ten nusigauti su brolių kariuomene; jis subūrė didelę kariuomenę, jos vadu paskyrė brolį Henriką Cutsvertą, Baigos komtūrą.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
@@ -78,9 +78,9 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
@@ -94,9 +94,9 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1298 viešpaties
@@ -117,9 +117,9 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-001
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
@@ -136,7 +136,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -154,9 +154,9 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-006
 
-- c-004
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
@@ -168,7 +168,7 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

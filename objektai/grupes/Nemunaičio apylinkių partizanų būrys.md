@@ -1,25 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Nemunaičio apylinkių partizanų būrys'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1945 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1945'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XX'
 ---
 # Nemunaičio apylinkių partizanų būrys
 
@@ -28,16 +22,15 @@ tags:
 1945 m. balandį pasitraukė iš legalaus gyvenimo ir įstojo į Nemunaičio apylinkių partizanų būrį, iš karto buvo išrinktas jo vadu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iškart buvo išrinktas jo vadu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iškart buvo išrinktas jo vadu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     A. Ramanauskas persikėlė dirbti į
@@ -47,11 +40,9 @@ tags:
     balandį pasitraukė iš legalaus gyvenimo ir įstojo į
     Nemunaičio apylinkių partizanų būrį, iš karto buvo
     išrinktas jo vadu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

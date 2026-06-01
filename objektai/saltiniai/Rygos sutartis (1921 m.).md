@@ -24,19 +24,19 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
+  teiginys: 'Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant is-
@@ -50,9 +50,9 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liko ir teisinių kolizijų – Lenkijos ir
@@ -64,4 +64,4 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

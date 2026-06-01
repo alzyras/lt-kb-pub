@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvių nacionalistų partija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -18,27 +15,26 @@ tags:
 Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).
 
 ## Teiginiai
+
 - t-001
   teiginys: '1941 m. gruodį naciai uždarė iš voldemarininkų susidariusią Lietuvių nacionalistų partiją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1941 m. gruodį naciai uždarė iš voldemarininkų susidariusią Lietuvių nacionalistų partiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Daugumai ministrų atsisakius tapti
+    Vyriausybės pir-
+    mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
+    veikimą sustabdytu prieš savo valią“. Daugumai ministrų atsisakius tapti
     tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,75 +1,52 @@
 ---
-tipas: 'grupe'
+tipas: grupe
 pavadinimas: 'Teutonai'
-sukurta: '2026-04-30'
-variantai:
-  - 'teutonai'
-  - 'teutoniškai'
-  - 'teutoniško'
-  - 'teutoniškas'
-  - 'teutonams'
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-bukle: 'juodrastis'
-laikotarpis: 'gilioji senovė; sekmasis amžius'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
 # Teutonai
 
 ## Santrauka
+
 Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
   pagrindžia:
-    - c-002
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
-        nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
-        tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-002
-  santrauka: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
         krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+- c-002
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
+        nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
+        tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -112,6 +89,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - [[objektai/asmenys/Gotfridas Hohenlohė]]
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Grigalius IX]]
 - [[objektai/grupes/Haličo kunigaikščiai]]
 - [[objektai/asmenys/Hartmanas iš Heldrungeno]]
 - [[objektai/posakiai/Henrikai, kelkis melstis, nes tavo broliai jau pakirdę]]
@@ -197,6 +175,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - [[objektai/autoriai/R. Batūra|Romas Batūra]]
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
 - [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]
+- [[objektai/grupes/Rygos miestiečiai]]
 - [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Steponas]]
@@ -225,6 +204,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]
 - [[objektai/asmenys/Zemovitas]]
 - [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
+- [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
 - [[objektai/zodynas/balista balistininkas arbaletas]]
 - [[objektai/zodynas/ekskomunikuoti]]
 - [[objektai/zodynas/gurguolė]]

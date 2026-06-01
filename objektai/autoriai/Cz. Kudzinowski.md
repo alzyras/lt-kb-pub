@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Cz. Kudzinowski'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1964 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1964'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Cz. Kudzinowski
 
@@ -27,19 +23,20 @@ tags:
 Kudzinowski, Cz.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Cz. Kudzinowski 1964 m. paskelbė darbą „Jaćwingowie w języku“ leidinyje ABaSl.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '), kurio, deja, neteko panaudoti.—Kudzinowski, Cz.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Cz. Kudzinowski 1964 m. paskelbė darbą „Jaćwingowie w języku“ leidinyje ABaSl.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
@@ -48,25 +45,24 @@ Kudzinowski, Cz.
     języku,_ ABaSl, I, 1964, 217-225 p. — Kuraszkiewicz, W. : _Domnie­
     many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
     kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '), kurio, deja, neteko panaudoti.—Kudzinowski, Cz.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ),
-    kurio, deja, neteko panaudoti.—Kudzinowski, Cz. : _Jaćwingome w
-    języku,_ ABaSl, I, 1964, 217-225 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
+    numatytos daugiatomės Lietuvių tautos istorijos I tomą (iki 1200 m.),
+    kurio, deja, neteko panaudoti.—Kudzinowski, Cz. : _Jaćwingome w
+    języku,_ ABaSl, I, 1964, 217-225 p. — Kuraszkiewicz, W. : _Domnie­
+    many Mad Jaćimngów na Podlasiu,_ Studia z filologii polskiej i słowiańs­
+    kiej, Warszawa 1955, 334-348 p. — Lehr-Splawiński, T. : _Język polski.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
 

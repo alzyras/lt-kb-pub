@@ -29,25 +29,25 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-001
+- t-002
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: 'Muravjovo Koriko laikais XIX a.'
   pagrindžia:
-    - c-004
+    - c-003
 
-- t-002
+- t-004
   teiginys: 'Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju.'
   pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -67,9 +67,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-003
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
@@ -81,9 +81,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
@@ -100,9 +100,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
-- c-002
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Juk separatizmas tarpo pirmiausia vietos bajoriškoje
@@ -118,7 +118,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

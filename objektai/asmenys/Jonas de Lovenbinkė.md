@@ -19,13 +19,14 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
 ## Teiginiai
 
 - t-001
-  teiginys: 'm n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir tik: brolis lonas de Lovenbinkė (Lokryžiuočių pilis Memelyje.'
+  teiginys: 'Jonas de Lovenbinkė paminėtas tarp Ordino Livonijoje pusės atstovų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jonas de Lovenbinkė paminėtas tarp Ordino Livonijoje pusės atstovų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be išsamaus išvar­
@@ -63,5 +64,6 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]

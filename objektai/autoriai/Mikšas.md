@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Mikšas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -18,42 +15,20 @@ tags:
 Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdinama Ragainėje, o paskui Tilžėje, paties Mikšo įsteigtoje spaustuvėje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mikšas tvarkė laikraštį „Aušra“, kai Basanavičius gyveno užsienyje.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mikšas tvarkė laikraštį „Aušra“, kai Basanavičius gyveno užsienyje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
-    nytojas, pirmasis redaktorius ir siela buvo Basanavičius. Bet
-    kadangi jis tuo metu gyveno užsieny, daugiausia Bulgarijoje
-    (1884—1905 m.), tai laikraštį tvarkė kiti, būtent Maž. Lietuvos
-    veikėjas Mikšas, pa-
-    skui dr. J. Šliūpas,
-    o kai šį vokiečių valdžia
-    privertė išvažiuoti į
-    Ameriką, — vėl Mikšas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet
@@ -69,13 +44,29 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
     nėje, o paskui Tilžėje,
     paties Mikšo įsteigtoje
     spaustuvėje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    tebuvo įsteigtas tik laikraštis „Aušra" (1883 m.). Jos suma-
+    nytojas, pirmasis redaktorius ir siela buvo Basanavičius. Bet
+    kadangi jis tuo metu gyveno užsieny, daugiausia Bulgarijoje
+    (1884—1905 m.), tai laikraštį tvarkė kiti, būtent Maž. Lietuvos
+    veikėjas Mikšas, pa-
+    skui dr. J. Šliūpas,
+    o kai šį vokiečių valdžia
+    privertė išvažiuoti į
+    Ameriką, — vėl Mikšas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

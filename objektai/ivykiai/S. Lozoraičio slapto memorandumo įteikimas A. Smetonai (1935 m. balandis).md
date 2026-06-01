@@ -1,28 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1935 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1935'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - ivykis
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)
 
@@ -31,55 +24,46 @@ tags:
 Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
   pagrindžia:
     - c-002
-- t-003
+
+- t-002
   teiginys: 'Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje.'
   pagrindžia:
     - c-003
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
-
-    L I E T U V O S  I S T O R I J A
-    178
-    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-003
+  teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Stasys Raštikis ėmėsi moder-
+    Todėl 1934 m. pradėti megzti neoficialūs
+    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
     nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
     strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
 
@@ -88,28 +72,45 @@ Nenurodyta
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje.'
+    - t-003
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Smetonai slaptą memorandumą, kuria-
+    Todėl 1934 m. pradėti megzti neoficialūs
+    Kauno ryšiai su Varšuva. Keturiasdešimtmečiai užsienio reikalų ministras
+    Stasys Lozoraitis ir kariuomenės vadas gen. Stasys Raštikis ėmėsi moder-
+    nizuoti diplomatiją ir kariuomenę ir paruošė naują nacionalinio saugumo
+    strategiją. S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
+
+    L I E T U V O S  I S T O R I J A
+    178
+    vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1935 m. balandį
+    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
     me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
     mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
     lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
     žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
-    S.
+    S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
+    bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
+    J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

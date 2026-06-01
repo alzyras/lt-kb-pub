@@ -23,19 +23,19 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 
 ## Teiginiai
 
-- t-002
-  teiginys: '8 d. tą Augustavo —Suvalkų—Punsko—Seinų sritį atidavė Lenkijos valdymui, ligi bus galutinai čia nustatytos sienos (lordo Kerzono linija).'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu puolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože.'
+  teiginys: '8 d. tą Augustavo —Suvalkų—Punsko—Seinų sritį atidavė Lenkijos valdymui, ligi bus galutinai čia nustatytos sienos (lordo Kerzono linija).'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu puolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkija to pasiūlymo nepriėmė ir reikalavo, kad lietuvių ka-
@@ -49,9 +49,9 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nepaisydami Lietuvos neutrali-
@@ -69,4 +69,4 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

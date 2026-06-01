@@ -1,28 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'statutas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
 datos:
   - '1780 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1780'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - seimas
   - sąvoka
   - unija
   - valstybė
+amziai:
+  - 'XVIII'
 ---
 # statutas
 
@@ -31,98 +24,60 @@ tags:
 Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo- rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža- dėti savo statuto, t. Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa- miątkowa ...
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti.'
+  teiginys: '(Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-002
+
 - t-002
   teiginys: '(Lietuvos bajo- rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža- dėti savo statuto, t.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-001
+
 - t-003
-  teiginys: 'Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa- miątkowa ...'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-004
-  teiginys: 'statut i polsk.'
+  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-005
+
+- t-004
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
-    - c-005
-- t-006
-  teiginys: '(Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.'
-  pagrindžia:
-    - c-006
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
-    tvirtinti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '(Lietuvos bajo- rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža- dėti savo statuto, t.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    (Lietuvos bajo-
+    Atmetė jį svarbiausia dėl valstiečiams
+    duodamųjų palengvinimų. „Mužikus nori padaryti
+    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Atmetė jį svarbiausia dėl valstiečiams
+    duodamųjų palengvinimų. „Mužikus nori padaryti
+    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
+    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
+    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
+    dėti savo statuto, t. y. savo atskirų teisių).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa- miątkowa ...'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _Ig. Jonynas,_ Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa-
-    miątkowa ... I statutu lit. (1935); _J. J. Lappo,_ Litovskij statut 1588 g., I, II
-    (1934, 1936);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'statut i polsk.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    XVIII. Valstybinė santvarka po Liublino unijos. 1. I. Lappo, Lietuva
-    ir Lenkija po 1569 m. L. unijos (1932); S. A. Beršadskij, Lit. statut i polsk.
-    konstitucii (1893); 5. L. Ptašicki, K istorii lit. prava poslie III statuta (1893);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vienas artimiausiųjų jo
@@ -131,35 +86,26 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
     tvirtinti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: '(Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t.'
+    - t-004
+
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    (Lietuvos bajo-
-    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
-    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
-    dėti savo statuto, t. y. savo atskirų teisių).
+    Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
+    tvirtinti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/zodynas/santvarka]]
-- [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje]]
 - [[objektai/asmenys/A. Hitleris]]
-- [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
 - [[objektai/grupes/Baltijos valstybės]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
@@ -168,7 +114,6 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
 - [[objektai/autoriai/J. Adamus]]
 - [[objektai/autoriai/Janockis]]
-- [[objektai/autoriai/K. Jablonskis]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]
 - [[objektai/asmenys/Kazimieras Nestoras Sapiega]]
@@ -185,14 +130,13 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - [[objektai/autoriai/M. K. Liubavskis]]
 - [[objektai/zodynas/Magdeburgo teisė]]
 - [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
-- [[objektai/autoriai/O. Halecki]]
 - [[objektai/autoriai/P. Dundulienė]]
 - [[objektai/asmenys/Petras Roizijus]]
 - [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
+- [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
 - [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/autoriai/V. Raudeliūnas]]
 - [[objektai/ivykiai/Varšuvos konfederacija]]
 - [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
@@ -212,13 +156,16 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/grupes/Šlėktų luomas]]
 - [[objektai/zodynas/šlėktų luomas Magdeburgo teisės]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/autoriai/Albertas Goštautas]]
 - [[objektai/autoriai/E. Gudavičius]]
+- [[objektai/autoriai/K. Jablonskis]]
 - [[objektai/grupes/Lietuvos demokratinė darbo partija]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]

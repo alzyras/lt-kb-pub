@@ -19,12 +19,12 @@ tags:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'atminties karaliaus Vladislovo duotas ir leistas Vilniaus katedros bažnyčiai ir tuometiniam vysku­ pui, ir minėtą Bełsko suvažiavimo sprendimą savo galioje paliekame ir patį apskųstąjį auksakalį Steponą Genserį ir ki­ tus, priklausančius Vilniaus vyskupijos.'
+- t-001
+  teiginys: 'Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.'
   pagrindžia:
     - c-001
@@ -52,9 +52,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: 'Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV KNYGA
@@ -74,7 +75,7 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,28 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1387 m.'
   - '1500 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVII'
 date_start: '1387'
 date_end: '1500'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - vyskupas
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # „didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“
 
@@ -31,16 +24,15 @@ tags:
 Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Europoje tolerancijos uostą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
@@ -54,11 +46,9 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
     trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
     pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
     Naugarduke bei Vilniuje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

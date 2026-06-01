@@ -24,13 +24,14 @@ XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, q
 ## Teiginiai
 
 - t-001
-  teiginys: 'XVI ## Puslapis 17 MYKOLAS B A L I N S K I S niaus MIESTO ISTORIJA Haec omnia, quae credidi esse patriae necessaria, quae scribere mihi fas erat, vobis exponere arbitror: vestrum judicium, non de mea voluntate, sed de opere exoro.'
+  teiginys: 'Rotundas 1560 m. vasario 12 d. Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Rotundas 1560 m. vasario 12 d. Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     13 Berenis V. Provincialų dialogai apie žemaičių tautą, Metai, 1995, Nr. 4,

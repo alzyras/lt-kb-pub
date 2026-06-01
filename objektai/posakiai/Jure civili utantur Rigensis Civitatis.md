@@ -1,33 +1,18 @@
 ---
 tipas: posakis
-pavadinimas: "Jure civili utantur Rigensis Civitatis"
-sukurta: '2026-05-27'
-variantai:
-  - "tesinaudoja civiline Rygos miesto teise"
-aliases: []
+pavadinimas: 'Jure civili utantur Rigensis Civitatis'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1200 m.'
-  - '1323 m.'
   - '1337 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
+date_start: '1200'
+date_end: '1337'
+sukurta: ''
+atnaujinta: ''
 amziai:
   - 'XII'
   - 'XIV'
-date_start: '1200'
-date_end: '1337'
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
 ---
 # Jure civili utantur Rigensis Civitatis
 
@@ -52,25 +37,25 @@ Formulė pateikta laiško Hanzos miestams ir Gotlando gyventojams kontekste, kal
 Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar galiojančią miesto teisinę tvarką.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise."
+  teiginys: 'Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Formulė paliko galimybę vėliau priimti geresnius įstatymus išmintingųjų tarybos sprendimu."
+  teiginys: 'Formulė paliko galimybę vėliau priimti geresnius įstatymus išmintingųjų tarybos sprendimu.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Jure civili utantur Rigensis Civitatis, omnis vul­ gus, nisi tunc melius fuerit inuentum de sano consilio discretorum [tad visi [tie] žmonės tesinaudoja civiline Ry­ gos miesto teise, jei paskui geriau ne­ bus sumanyta išmintingųjų tarybos].'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pagrindžia teisinės formulės formą ir jos taikymą atvykstantiems kolonistams.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gedimino laiške Liubeko, Rostoko,
@@ -87,16 +72,14 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
     [tie] žmonės tesinaudoja civiline Ry­
     gos miesto teise, jei paskui geriau ne­
     bus sumanyta išmintingųjų tarybos].
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Jure civili utantur Rigensis Civitatis, omnis vul­ gus, nisi tunc melius fuerit inuentum de sano consilio discretorum [tad visi [tie] žmonės tesinaudoja civiline Ry­ gos miesto teise, jei paskui geriau ne­ bus sumanyta išmintingųjų tarybos].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
@@ -129,9 +112,7 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
     bus sumanyta išmintingųjų tarybos].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

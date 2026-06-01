@@ -1,11 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: minkštpautis
-sukurta: '2026-04-30'
+tipas: zodyno_irasas
+pavadinimas: 'minkštpautis'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # minkštpautis
 
@@ -18,28 +17,25 @@ Lepus, silpnas, nenuorama ar vyrui nepriderantis minkštas žmogus. Vartojamas k
 Pagrindinė forma: `minkštpautis`.
 Papildomos aiškios formos neišskirtos.
 
-## Teiginiai
-- t-002
-  teiginys: '`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
 ## Pastabos
 
 - Reikšmė išvedama iš pašaipos ir priešpriešos su „vyras“.
+
+## Teiginiai
+
+- t-001
+  teiginys: '`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

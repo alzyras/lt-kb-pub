@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Antoniewicz'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1958 m.'
   - '1962 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1958'
 date_end: '1962'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # J. Antoniewicz
 
@@ -28,16 +24,15 @@ tags:
 Antoniewicz, J.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Antoniewicz rašė apie sūduvius, jotvingius ir romėniškos provincinės kultūros importus.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Antoniewicz rašė apie sūduvius, jotvingius ir romėniškos provincinės kultūros importus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ano laiko šaltiniai patiekia
@@ -55,11 +50,9 @@ Antoniewicz, J.
     204 p. — (”) _Odkrycie grobu rolnika Jaćwieskiego z narzędziami produkcji
     z okresu Rzymskiego_ , RoB, III, 1962, 205-223 p. (Žr. T. Dzierzykray-
     Rogalski padarytą to kapo analizę : RoB, III, 1962, 225-252 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

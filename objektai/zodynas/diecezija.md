@@ -121,7 +121,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - [[objektai/autoriai/Petras Kojelavičius]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/autoriai/R. Krasauskas]]
 - [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)]]
 - [[objektai/asmenys/Steponas Batoras]]

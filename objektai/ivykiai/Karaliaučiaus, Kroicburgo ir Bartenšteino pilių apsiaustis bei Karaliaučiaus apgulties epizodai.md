@@ -44,44 +44,44 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
-  pagrindžia:
-    - c-003
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
-  pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
-  pagrindžia:
-    - c-004
-
-- t-006
-  teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo. Kiti, apspitę jį, didžiai stebėjosi, nežinodami.'
-  pagrindžia:
-    - c-006
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'
-  pagrindžia:
-    - c-001
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­ lojaus kalvoje Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai.'
+  teiginys: 'Dusburgietis teigia, kad matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai, pasistatydino daug laivų, su kuriais ketino daužyti ir naikinti brolių laivus, gabenančius maistą į minėtąją pilį, kad, trūkdami maisto, broliai silpnėtų.'
   pagrindžia:
     - c-007
 
 - t-002
+  teiginys: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
+  pagrindžia:
+    - c-005
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo. Kiti, apspitę jį, didžiai stebėjosi, nežinodami.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'
+  pagrindžia:
+    - c-003
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­ lojaus kalvoje Aplink parapinę švento Mikalojaus bažnyčią, ant kalvos prie Karaliaučiaus pilies, broliai buvo įkūrę miestą376; kadangi jis nebuvo deramai sutvirtintas, sembai.'
+  pagrindžia:
+    - c-004
+
+- t-007
   teiginys: 'Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
@@ -104,7 +104,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -119,9 +119,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-007
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     95 (90). Apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą
@@ -134,9 +134,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-007
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
@@ -157,7 +157,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-006
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -178,7 +178,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -193,9 +193,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
-- c-003
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Matydami, kad nestengs Karaliaučiaus pilies jėga paimti, prūsai, įgudę ir patyrę kariai,
@@ -214,7 +214,7 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-008
   santrauka: 'Dusburgietis teigia, kad apie Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsupimą Taigi Belialo sūnūs, matydami, kad jiems viskas klojasi taip, kaip nori, tyčiojosi ir piktžodžiavo, smurtu iš aukšto grasino tavo tautai, viešpatie, tarėsi prieš tuos, kuriuos tu globoji.'

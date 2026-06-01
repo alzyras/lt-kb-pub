@@ -1,25 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: 'Aleksandras'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+datos:
+  - '1365 m.'
+  - '1378 m.'
+date_start: '1365'
+date_end: '1378'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karvedys
   - kunigaikštis
   - mūšis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Aleksandras
 
@@ -28,30 +28,90 @@ tags:
 Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Aleksandras. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-002
-  teiginys: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
+  teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
+
 - t-003
   teiginys: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.'
   pagrindžia:
     - c-003
+
 - t-004
-  teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  teiginys: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
+    paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
+    (SRP, 2, 596).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    YD rugpjūčio 12 d. Džiugi
+
+    žinia dar spėjo pasiekti
+
+    mirštantį valdovą Aleksandrą.
+    Mengli-Girėjus, gavęs žinią apie toto-
+    riams fatališkai pasibaigusį mūšį, tuojau pat
+    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
+    pranešti, kad chanas labai noriai laikysis ge-
+    gužės mėnesį suderėtos taikos. Pasiuntinys
+    taip pat gabeno Kazanės chano Mahometo-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    rugpjūčio 8 d. Mūšio
+    nugalėtojas Mykolas
+    Glinskis triumfuo-
+    damas grįžo į Vilnių
+
+    YD rugpjūčio 12 d. Džiugi
+
+    žinia dar spėjo pasiekti
+
+    mirštantį valdovą Aleksandrą.
+    Mengli-Girėjus, gavęs žinią apie toto-
+    riams fatališkai pasibaigusį mūšį, tuojau pat
+    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
+    pranešti, kad chanas labai noriai laikysis ge-
+    gužės mėnesį suderėtos taikos. Pasiuntinys
+    taip pat gabeno Kazanės chano Mahometo-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tą pačią
@@ -66,76 +126,11 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     riais ir maskvėnais (po to, kai 1502 m. jam
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    YD rugpjūčio 12 d. Džiugi
-
-    žinia dar spėjo pasiekti
-
-    mirštantį valdovą Aleksandrą.
-    Mengli-Girėjus, gavęs žinią apie toto-
-    riams fatališkai pasibaigusį mūšį, tuojau pat
-    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
-    pranešti, kad chanas labai noriai laikysis ge-
-    gužės mėnesį suderėtos taikos. Pasiuntinys
-    taip pat gabeno Kazanės chano Mahometo-
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšio
-    nugalėtojas Mykolas
-    Glinskis triumfuo-
-    damas grįžo į Vilnių
-
-    YD rugpjūčio 12 d. Džiugi
-
-    žinia dar spėjo pasiekti
-
-    mirštantį valdovą Aleksandrą.
-    Mengli-Girėjus, gavęs žinią apie toto-
-    riams fatališkai pasibaigusį mūšį, tuojau pat
-    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
-    pranešti, kad chanas labai noriai laikysis ge-
-    gužės mėnesį suderėtos taikos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1365 m. Kęstutis,
-    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
-    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
-    belaisvį (SRP, 2, 349); 1378 m.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -152,12 +147,12 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
-- [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Krimo orda]]
 - [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]
 - [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
 - [[objektai/grupes/Lietuvos disidentai]]
@@ -167,7 +162,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Politinė amnestija]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]

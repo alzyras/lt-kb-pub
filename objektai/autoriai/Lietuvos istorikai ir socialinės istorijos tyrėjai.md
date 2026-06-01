@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Lietuvos istorikai ir socialinės istorijos tyrėjai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
   - mokslininkas
   - tauta
+amziai: []
+periodo_grupes: []
 ---
 # Lietuvos istorikai ir socialinės istorijos tyrėjai
 
@@ -27,223 +23,209 @@ tags:
 Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R. , 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).
 
 ## Teiginiai
+
 - t-001
+  teiginys: 'Lietuviškos spaudos draudimo XIX a.'
+  pagrindžia:
+    - c-006
+
+- t-002
+  teiginys: 'Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a.'
+  pagrindžia:
+    - c-007
+
+- t-003
   teiginys: 'Lietuvos istorijos klausimus gvildeno jau minėtas P.'
   pagrindžia:
-    - c-001
-- t-002
+    - c-010
+
+- t-004
   teiginys: 'Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: ', 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).'
+    - c-001
+
+- t-005
+  teiginys: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
   pagrindžia:
-    - c-003
+    - c-009
+
 - t-006
   teiginys: 'Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­ mais rašė istorikai: P.'
   pagrindžia:
-    - c-006
-- t-009
-  teiginys: 'Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Bičkauskas - Gentvila (1958), kuris taip pat svarstė ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir Baltarusijoje^118 ; V.'
-  pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Girdzijaus­ kienė: 1905-1907 metų revoliucija Lietuvoje (1955).'
-  pagrindžia:
-    - c-011
-- t-013
-  teiginys: 'Lietuviškos spaudos draudimo XIX a.'
-  pagrindžia:
-    - c-013
-- t-014
-  teiginys: 'Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a.'
-  pagrindžia:
-    - c-014
-- t-015
+    - c-002
+
+- t-007
   teiginys: 'Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­ mas jam 1848-1914 m. (AkMD, t.'
   pagrindžia:
-    - c-015
-- t-016
-  teiginys: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
+    - c-008
+
+- t-008
+  teiginys: 'Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.'
   pagrindžia:
-    - c-016
-- t-017
-  teiginys: '79, 1972, 170-172 p. (^107) Kiti jo darbai: Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu, 1236-1263 (VPIMD, t.'
+    - c-003
+
+- t-009
+  teiginys: ', 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).'
   pagrindžia:
-    - c-017
-- t-018
-  teiginys: 'knygą su plačiu šaltinių aprašymu ir gausia bibliografija : Lietuva tautų kovoje prieš Aukso Ordą.'
+    - c-011
+
+- t-010
+  teiginys: 'Girdzijaus­ kienė: 1905-1907 metų revoliucija Lietuvoje (1955).'
   pagrindžia:
-    - c-018
-- t-019
-  teiginys: '(^112) Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją (Teisė, t.'
+    - c-005
+
+- t-011
+  teiginys: 'Bičkauskas - Gentvila (1958), kuris taip pat svarstė ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir Baltarusijoje^118 ; V.'
   pagrindžia:
-    - c-019
-- t-020
-  teiginys: '2, 1960, 249-260 p.) ; Napoleono armijos kelias per Lietuvą (^80) ĮVADAS vickis (IstV, t.'
-  pagrindžia:
-    - c-020
-- t-021
-  teiginys: '(^122) Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­ liucijoje (AkMD, t.'
-  pagrindžia:
-    - c-021
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos istorijos klausimus gvildeno jau minėtas P.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tautavičius.
+    LTSR Mokslų
+    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
+    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
+    skyrių red. A. Tautavičius.
     Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
-    ka r k 1 i s, ypač rašęs apie teutonų ordinus^105.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip R.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuvių kovas
+    ka r k 1 i s, ypač rašęs apie teutonų ordinus^105. Lietuvių kovas
     su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip
-    R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M.
+    R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M. J u-
+    čas: _Žalgirio mūšis_ (1959)^106 , R. Varakauskas: _Pilėnų_
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: ', 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).'
+    - t-004
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    , 57-74 p.**
-    (^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­
-    žiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo
-    knyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**
-    (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
-    t.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-006
-  santrauka: 'Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­ mais rašė istorikai: P.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Raudeliū­
+    I-jo Lietuvos Statuto šaltinių, terminų ir paleografijos
+    klausimais rašė S. Lazutka ir E. Gudavičius^111. Teisės
+    istorijos klausimais rašė V. Stašaitienė ir V. Raudeliū­
     nas^112. Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­
     mais rašė istorikai: P. Dundulienė: _Žemdirbystė Lietuvoje
-    (nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R.
+    (nuo seniausia laiku iki 1917 metu)_ (1963)^113 ; R. Marčėnas:
+    _Šiaulių ekonomijos valstiečių sukilimas 1769 m._ (1969)^114 ; A.
+    Makarevičius: _Ekonominės teorijos Vilniaus universitete
+    1783-1832 m._^115 Ūkio ir vietovių istorijai svarbus yra Mokslų Aka­
+    demijos Centrinės bibliotekos Vilniuje išleisti inventorių bei rank­
+    raščių rinkinių katalogai: _Feodalinių žemės valdų Lietuvoje inven­
+    torių aprašymas_ (1963) ir _Rankraščių rinkiniai Lietuvos T. S. R.
+    Mokslų Akademijos Centrinės bibliotekos XI-XX amžių rankraščių
+    fondų trumpa apžvalga_ (1963).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-009
-  santrauka: 'Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.'
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^80) ĮVADAS
+    vickis (IstV, t. 7, 1965, 161-165 p.). R. Strazdūnaitė:
+    _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
+    MD, t. 6, 1959, 155-167 p. ; A. Žilėnas: _Lietuvos valstietijos
+    diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
+    (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
+    straipsniai^117.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     R. Strazdūnaitė:
     _Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje_ (Ak-
-    MD, t. 6, 1959, 155-167 p. ; A.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Bičkauskas - Gentvila (1958), kuris taip pat svarstė ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir Baltarusijoje^118 ; V.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Bičkauskas - Gentvila (1958), kuris taip pat svarstė
+    MD, t. 6, 1959, 155-167 p. ; A. Žilėnas: _Lietuvos valstietijos
+    diferenciacija ir klasinis jos apmokslinimo pobūdis XIX a. pabaigoje_
+    (Ekonomika, t. 2, 1962). 1831 m. sukilimą liečia F. Sliesoriūno
+    straipsniai^117. Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
+    pasirodė keletas kolektyvinių veikalų 1964 ir 1965 m.; apie jį rašė
+    L. Bičkauskas - Gentvila (1958), kuris taip pat svarstė
     ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir
     Baltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­
     nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
-    O.
+    O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
+    veiksmus 1863 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Girdzijaus­ kienė: 1905-1907 metų revoliucija Lietuvoje (1955).'
+    - t-011
+
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
+    166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;
+    apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
     1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
     kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955). A. Tyla
     taip pat svarstė tos revoliucijos klausimus^122 ; jis davė pastabų ir
     dėl lietuviškos knygos istorijos (BBK, t. 7, 1969, 191-199 p.) ir
     liet. spaudinių gotiškomis raidėmis uždraudimo (BBK, t. 6, 1967,
-    **_1812 m.
+    **_1812 m._** **(IstV, t. 4, 1963, 89-103 p.) ;** **_Projektas atkurti Lietuvos Did.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-013
-  santrauka: 'Lietuviškos spaudos draudimo XIX a.'
+    - t-010
+
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lietuviškos spaudos draudimo XIX a. klausimais ne­
+    171-174p.). Lietuviškos spaudos draudimo XIX a. klausimais ne­
     mažai rašė R. Vėbra^128.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-014
-  santrauka: 'Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a.'
+    - t-001
+
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    A. Šidlauskas
+    Apie bibliotekas Lietuvoje XIX a.
+    pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji
+    rašė ir apie to laiko pradines mokyklas^124. A. Šidlauskas
     atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
     (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
     (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
     (AkMD, t. 12, sąs. 2, 1972).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-014
-- c-015
-  santrauka: 'Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­ mas jam 1848-1914 m. (AkMD, t.'
+    - t-002
+
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    ;
+    S. Matulaitytė rašo apie astro­
+    nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
+    t. 29, 1969, 69-83 p.) ir astronomijos observatorijos įsteigimą (Ak­
+    MD, t. 30, 1969, 121-129 p.). Apie Vilniaus amatų pramonę, dar­
+    bininkų padėtį, amatininkų cechus XIX a. pabaigoje ir XX a.
+    pradžioje apsčiai duomenų duoda V. Merkys 125 , S. Samala­
+    vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
+    1965, 169-183 p.). Pažymėtinos ir šios studijos: L. Truska:
+    Emigracija iš Lietuvos 1868-1914 m. (AkMD, t. 10, 1961, 71-84 p. ;
     P. Žostautaitė: Prūsijos lietuvių vokietinimas ir pasipriešini­
     mas jam 1848-1914 m. (AkMD, t. 26, 1968, 59-72 p.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-016
-  santrauka: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
+    - t-007
+
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Pažymėtini čia ir L. Vladimirovo straipsniai:** **_Caro vyriausybės politika
@@ -252,117 +234,70 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     parašytos Kražių gimnazijos bibliotekos knygose_** **(BBK, t. 4, 1965, 217-224 p.) ;**
     **_Lietuvių kultūros-švietimo draugijos 1905-1907 metu revoliucijos ir Stolypino
     reakcijos metais_** **(BBK, t. 2, 1962, 113-145 p.).**
-    (^125) **AkMD, t.
+    (^125) **AkMD, t. 2, 1957, 3-16 p. ; t. 3, 1957, 37-52 p. ; t. 4, 1958, 149-170 p. ;
+    t. 6, 1959, 169-190 p.; t. 8, 1960, 93-120 p.; t. 10, 1961, 49-69 p. ; t. 11,
+    1961, 145-167 p.; t. 12, 1961, 115-130 p.; t. 14, 1963, 115-132 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-017
-  santrauka: '79, 1972, 170-172 p. (^107) Kiti jo darbai: Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu, 1236-1263 (VPIMD, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    );** **_Nuo Krėvos sutarties iki Liublino unijos_** **(1970) ; plg. J. Ochmańskio
-    rec., KH, t. 79, 1972, 170-172 p.**
-    (^107) **Kiti jo darbai:** **_Lietuvių kova su vokiškaisiais agresoriais Mindaugo
-    valdymo laikotarpiu,_** **1236-1263 (VPIMD, t.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-018
-  santrauka: 'knygą su plačiu šaltinių aprašymu ir gausia bibliografija : Lietuva tautų kovoje prieš Aukso Ordą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^109) **Pirma apie juos davė straipsnius (AkMD, t. 22, 1966, 185-198 p.;
-    t. 26, 1968, 117-140 p.), paskui išl. knygą su plačiu šaltinių aprašymu ir
-    gausia bibliografija :** **_Lietuva tautų kovoje prieš Aukso Ordą. Nuo Batu ant­
-    plūdžio iki mūšio prie Mėlynųjų Vandenų,_** **Vilnius 1975.**
-    (^110) **Jo studijos:** **_Valstiečių bendruomenė ir feodalinė tėvonija Lietuvoje
-    XIII-XIV a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
-- c-019
-  santrauka: '(^112) Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją (Teisė, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^112) **_Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją_**
-    **(Teisė, t. 4, 1964, 137-155 p.);** **_Iš_** **«** **_Lietuvos metrikos_** **»** **_istorijos ir_** **«** **_Teismo
-    bylų knygų_** **»** **_turinys_** **(Liet. Žemės Ūkio akademija, Darbai, t. 5, 1959, 41-
-    50 p.). —V. Raudeliūnas išsp., pvz.,** **_Antrojo Lietuvos Statuto leidima_** **i, žr.
-    LTSR Aukštųjų mokyklų mokslo darbai, 12, 1973, 1 sąs., 13-17 p. ;** **_Ukraj-
-    yn’sky spisky Drugogo Litovs'kogo Statuta,_** **žr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
-- c-020
-  santrauka: '2, 1960, 249-260 p.) ; Napoleono armijos kelias per Lietuvą (^80) ĮVADAS vickis (IstV, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^116) **_Napoleono armijos įsiveržimas į Kauną 1812 m._** **(amžininko aprašy­
-    mas) (IstV, t. 2, 1960, 249-260 p.) ;** **_Napoleono armijos kelias per Lietuvą_**
+    - t-005
 
-
-    (^80) ĮVADAS
-    vickis (IstV, t.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
-- c-021
-  santrauka: '(^122) Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­ liucijoje (AkMD, t.'
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    **
-    (^122) **_Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­
-    liucijoje_** **(AkMD, t. 15, 1963, 73-104 p.) ;** **_Lietuvos valstiečių kova dėl ginčy-_**
-
-
-    ```
-    LIETUVOS ISTORIOGRAFIJA 81
-    ```
-    ```
-    171-174p.
+    J. Stankus rašė
+    apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII
+    a.^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
+    skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.). LTSR Mokslų
+    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
+    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
+    skyrių red. A. Tautavičius.
+    Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
+    ka r k 1 i s, ypač rašęs apie teutonų ordinus^105.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-021
+    - t-003
+
+- c-011
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    — Žr. LE, t. 36, 384-385 p.**
+    (^103) **Tuo tarpu apie grublėtąją keramiką Lietuvoje rašė Y. Daugudis
+    (AkMD, t. 22, 1966, 55-65 p.) ; be to, jis domėjosi ir Aukštadvario pilia­
+    kalniu (AkMD, t. 12, 1962, 43-67 p.).**
+    (^104) **AkMD, t. 32, 33 ir 34, 1970, 113-133 p., 113-129 p., 57-74 p.**
+    (^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­
+    žiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo
+    knyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**
+    (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
+    t. 3, 1957, 111-120 p.) ;** **_Naujausi Lenkijos liaudies respublikos istoriku darbai
+    apie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t. 7, 1959, 77-87 p.),** **_Rusų
+    istorikai apie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t. 9, 1960, 67-77 p.),**
+    **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
+    džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
+    Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/ekonomija]]
 - [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/inventoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/tėvonija]]

@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Die litauisch-weissrussischen Beziehungen und ihr Alter'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1925 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1925'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Die litauisch-weissrussischen Beziehungen und ihr Alter
 
@@ -27,18 +21,15 @@ tags:
 : Die litauisch-weissrussischen Beziehungen und ihr Alter, Ze’tsehr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Būgos „Die litauisch-weissrussischen Beziehungen und ihr Alter“ paskelbta 1925 m. leidinio „Zeitschrift für slavische Philologie“ I tome.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'K. Būgos „Die litauisch-weissrussischen Beziehungen und ihr Alter“ paskelbta 1925 m. leidinio „Zeitschrift für slavische Philologie“ I tome.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tokių nuo Lietuvos pusiau priklausančių žemių, kurios
@@ -60,10 +51,8 @@ tags:
     K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

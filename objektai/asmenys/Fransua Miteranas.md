@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Fransua Miteranas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1992 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1992'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - seimas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Fransua Miteranas
 
@@ -28,37 +24,37 @@ tags:
 Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.'
   pagrindžia:
     - c-002
 
+- t-002
+  teiginys: 'Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Planinės
+    Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti
+    įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
+    Vyriausybės keitė viena kitą, tačiau būtinos reformos vyko. Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
     į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
     Pirmasis Prancūzijos prezidento Fransua Miterano
     vizitas į Lietuvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
+    - t-003
+
 - c-002
-  santrauka: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Planinės
@@ -70,11 +66,9 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     Vilnius, 1992 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,27 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vyženos'
-sukurta: '2026-04-30'
-variantai:
-  - 'rezginės'
-  - autai
-  - 'žekės'
-aliases: []
 saltiniai:
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-30'
-tags: []
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # Vyženos
 
@@ -36,48 +19,48 @@ Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo aut
 - `žekės`
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'
   pagrindžia:
     - c-001
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
   pagrindžia:
     - c-002
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
         marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.
-  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus
         po marškinių tviskinėjantys^389 žiemos laiku, su bočių ar bobute vilnas kedino, gijas vijo,
@@ -87,11 +70,9 @@ Nenurodyta
         tviskinėdami, nė nuo vieno nemokomi, sauprasmiai svilksnis^392 ir seidokus^393 dirbo, vylyčias^394
         drožė ir pleštekes^395 po kiemą bėgiodami šaudė, jau nuo mažų dienų į karę pratindamos, kaip
         reiks kurią dieną su žvėrimis giriose ar laukuose su neprieteliais grumtis, liuosybę savo gyniojant.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

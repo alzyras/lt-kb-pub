@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Polityka miska Kazimierza Wielkiego'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1925 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1925'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Polityka miska Kazimierza Wielkiego
 
@@ -27,18 +21,15 @@ tags:
 Paszkiewicz : Polityka miska Kazimierza Wielkiego, Warszawa 1925, 189 p. (^11) Z.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'H. Paszkiewicziaus „Polityka miska Kazimierza Wielkiego“ išleista Varšuvoje 1925 m. ir turi 189 puslapius.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'H. Paszkiewicziaus „Polityka miska Kazimierza Wielkiego“ išleista Varšuvoje 1925 m. ir turi 189 puslapius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip taisyklė — pagonys vyrai buvo žu­
@@ -51,10 +42,8 @@ Paszkiewicz : Polityka miska Kazimierza Wielkiego, Warszawa 1925, 189 p. (^11) Z
     189 p.**
     (^11) **Z. Ivinskis :** **_Handelsbeziehungen des Grossfürstentums Litauen mit
     Riga im 14.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

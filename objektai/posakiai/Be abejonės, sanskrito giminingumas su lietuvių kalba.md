@@ -1,26 +1,10 @@
 ---
 tipas: posakis
-pavadinimas: "Be abejonės, sanskrito giminingumas su lietuvių kalba"
-sukurta: '2026-05-13'
-variantai:
-  - "Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje"
-aliases: []
+pavadinimas: 'Be abejonės, sanskrito giminingumas su lietuvių kalba'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-13'
-tags: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Be abejonės, sanskrito giminingumas su lietuvių kalba
 
@@ -29,22 +13,20 @@ tags: []
 Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priskiriama Robert Gordon Latham veikalui „Descriptive Ethnology“.
 
 ## Teiginiai
-- t-005
+
+- t-001
   teiginys: 'Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-002
   teiginys: 'Frazė priskirta Robert Gordon Latham veikalui „Descriptive Ethnology“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į v a d a s
@@ -55,14 +37,19 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
     Iš britų mokslininko Robert Gordon Latham
     „Descriptive Ethnology“ („Aprašomoji etnologija“)
     Geografinis Europos centras?
-  citata_rodoma: ""
+    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
+    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
+    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
+    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
+    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
+    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
+    25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-    - t-006
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

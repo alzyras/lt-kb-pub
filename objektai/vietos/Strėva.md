@@ -1,29 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Strėva'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1348 m.'
   - '1805 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XIV'
-  - 'XIX'
 date_start: '1348'
 date_end: '1805'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - upė
   - vieta
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Strėva
 
@@ -32,32 +26,50 @@ tags:
 Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t. Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­ upio Strėvos (arti Žiežmarių). Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
+    - c-003
+
+- t-002
   teiginys: 'Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.'
   pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-004
+    - c-001
+
+- t-003
   teiginys: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
   pagrindžia:
     - c-004
 
+- t-004
+  teiginys: 'Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
+    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
+    Strėvoje, kai pati upė yra nesunkiai perbrendama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Istorijoje
@@ -68,15 +80,13 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     tokio Gediminaičio nesą buvę^18. Narimantui, kuris 1348 m. žuvo
     Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
     kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.'
+    - t-004
+
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vadovavo ordino vyr.
@@ -86,32 +96,13 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­
     upio Strėvos (arti Žiežmarių). Tuomet ir Algirdo valdos buvo ak­
     tyviai įsijungusios į vakarų Lietuvos gynybą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tačiau Strėvos kau­
-    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
-    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
-    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
-    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
-    Strėvoje, kai pati upė yra nesunkiai perbrendama.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+    - t-001
+
 - c-004
-  santrauka: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau
@@ -157,8 +148,20 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     jais užvertė kelią.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
+
+- c-005
+  santrauka: 'Tačiau Strėvos kau­ tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tuomet ir Algirdo valdos buvo ak­
+    tyviai įsijungusios į vakarų Lietuvos gynybą. Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005

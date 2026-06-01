@@ -1,21 +1,11 @@
 ---
 tipas: daiktas
 pavadinimas: 'Arbaletas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
@@ -27,38 +17,40 @@ tags:
 Arbaletas — XIV-XV a.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti.'
-  pagrindžia:
-    - c-002
-
 - t-001
   teiginys: 'XIV-XV a. Lietuvoje arbaletas buvo labiausiai paplitęs šaunamasis ginklas.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti.'
+  pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-- c-002
-  santrauka: 'Dusburgietis teigia, kad dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo, kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti.'
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
@@ -69,14 +61,11 @@ Nenurodyta
     trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
-- c-001
-  santrauka: 'XIV-XV a. Lietuvoje arbaletas buvo labiausiai paplitęs šaunamasis ginklas.'
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šaulys įkiša savo pėdą į arbaleto
@@ -89,11 +78,9 @@ Nenurodyta
 
     svarbus ekonominis, politinis, strateginis
     Rytų Europos centras.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

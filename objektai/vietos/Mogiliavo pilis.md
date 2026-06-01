@@ -18,13 +18,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '366 ## Puslapis 383 IV KNYGA vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors būdu dabar esančiais ir priklausančiais bei ateityje kokios nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir didėti į plotį, ilgį ir aplinkui, žiūrint, kaip.'
+  teiginys: 'Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Secretarii nostri, qui praesentia habuit

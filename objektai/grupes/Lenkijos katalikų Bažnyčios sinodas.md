@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lenkijos katalikų Bažnyčios sinodas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tikėjimas
@@ -19,16 +16,15 @@ tags:
 Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uoliai saugojo 1573 metų Varšuvos konfederacijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus tos konfederacijos gynėjus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus 1573 metų Varšuvos konfederacijos gynėjus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus 1573 metų Varšuvos konfederacijos gynėjus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl jo
@@ -40,11 +36,9 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

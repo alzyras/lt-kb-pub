@@ -1,27 +1,10 @@
 ---
-tipas: 'saltinis'
+tipas: saltinis
 pavadinimas: 'Kazanės chano Mahometo-Amino laiškas'
-sukurta: '2026-05-02'
-variantai:
-  - 'Amino laiškas'
-  - 'Mahometo-Amino laiškas'
-  - 'Kazanės chano Mahometo-Amino laiškas Lietuvai'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
 ---
 # Kazanės chano Mahometo-Amino laiškas
 
@@ -39,18 +22,15 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 - Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį, tuojau pat išsiuntė savo pasiuntinį į Vilnių, kuris turėjo pranešti, kad chanas labai noriai laikysis gegužės mėnesį suderėtos taikos. Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą.
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Kazanės chanas Mahometas-Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kazanės chanas Mahometas-Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     mirštantį valdovą Aleksandrą.
@@ -64,10 +44,8 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
     Amino laišką, kuriame jis Lietuvai siūlė są-
 
     jungą prieš Maskvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

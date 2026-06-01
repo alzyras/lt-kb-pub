@@ -17,34 +17,34 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis.'
   pagrindžia:
-    - c-003
+    - c-005
 
 - t-002
   teiginys: 'Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį.'
   pagrindžia:
-    - c-002
+    - c-001
 
-- t-005
+- t-003
   teiginys: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
   pagrindžia:
-    - c-005
+    - c-004
 
 - t-004
   teiginys: 'Molotovas sukrėtė A.'
   pagrindžia:
-    - c-004
+    - c-002
 
-- t-001
+- t-005
   teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   pagrindžia:
-    - c-001
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
@@ -60,7 +60,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   pagrindžia:
     - t-002
 
-- c-004
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai rodė,
@@ -76,7 +76,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   pagrindžia:
     - t-004
 
-- c-001
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
@@ -92,9 +92,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
 
-- c-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo V. Molotovo rėksmingų kaltinimų
@@ -112,9 +112,9 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-003
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai at-
@@ -129,7 +129,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

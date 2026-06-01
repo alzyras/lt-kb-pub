@@ -22,16 +22,16 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
 - t-001
   teiginys: 'Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 322 D.— Super [...] habitaciones suas (III, 108, 204, 209, 228, 332), Jer — hŭs, hûf, gebûve; kituose šaltiniuose — curia, kartais pabrėžiant, kad pulchram et bene munitam (MPH, 4, p. 430).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     322 D.— Super [...] habitaciones suas (III, 108, 204, 209, 228, 332), Jer — hŭs, hûf,
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paskui karalius įteikė jam savo vėliavas, kad jas iškabintų prie savo bei savo tėvų žemių

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
-pavadinimas: "Vladas Mironas"
-sukurta: '2026-05-14'
-variantai:
-  - 'Vladas Mironas (kunigas)'
-  - 'V. Mironas'
-  - 'Vladas Mironas'
-aliases:
-  - 'Vladas Mironas (kunigas)'
-  - 'V. Mironas'
-  - 'Vladas Mironas'
+pavadinimas: 'Vladas Mironas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,40 +15,35 @@ tags:
 Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusio gen.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Po Lenkijos ultimatumo Vladas Mironas pakeitė Juozą Tūbelį Lietuvos premjero poste.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: '1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Priėmus Lenkijos ultimatumą, kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko poste.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-002
   teiginys: 'Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Priėmus Lenkijos ultimatumą, kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko poste.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Po Lenkijos ultimatumo Vladas Mironas pakeitė Juozą Tūbelį Lietuvos premjero poste.'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: '1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Lenkijos ultimatumo Vladas Mironas pakeitė Juozą Tūbelį Lietuvos premjero poste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva tai laikė taktiniu atsi-
@@ -67,15 +53,13 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
     valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
+
 - c-002
-  santrauka: 'Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos
@@ -85,15 +69,13 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     ginai sugrįžo į valdžią. V. Mironą premjero poste pakeitusio gen. Jono
     Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos par-
     tijos gavo po dvi ministrų vietas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: '1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl 1936 m. vasarą
@@ -103,18 +85,17 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
     Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino pa-
     skelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona
     ir ministras pirmininkas V. Mironas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/ivykiai/J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.)]]

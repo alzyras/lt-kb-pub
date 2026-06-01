@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valdovas
@@ -20,16 +17,15 @@ tags:
 Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę,
@@ -40,11 +36,9 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
     vą), dėl kurių abi valstybės rungėsi XIV ir XV amž. Tuo būdu Lie-
     tuva grasino susitaikinti ir susijungti ne tik su Maskva, bet ir su
     Lenkijai baisiais totoriais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

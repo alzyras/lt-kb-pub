@@ -1,28 +1,24 @@
 ---
 tipas: grupe
 pavadinimas: 'Slavai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Slavai
 
@@ -36,80 +32,79 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginys: 'Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 - t-002
-  teiginys: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
+  teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-005
 
 - t-003
+  teiginys: 'Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.'
+  pagrindžia:
+    - c-006
+
+- t-004
   teiginys: 'Slavų ekspansija artėjo prie Lietuvos žemių.'
   pagrindžia:
     - c-003
 
-- t-004
-  teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
+- t-005
+  teiginys: 'Dusburgietis teigia, kad (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p. Skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
   pagrindžia:
     - c-004
 
-- t-005
-  teiginys: 'Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.'
-  pagrindžia:
-    - c-005
-
 - t-006
-  teiginys: 'Dusburgietis teigia, kad skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
-  pagrindžia:
-    - c-006
-- t-007
   teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
   pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Dusburgietis teigia, kad (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p. Skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
-  pagrindžia:
     - c-008
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pačios indoeuropiečių, arba arijų, tautų grupės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Aisčiai, kaip ir beveik visi Europos gy-
+    **1. Aisčių kiltys ir jų gyvenamosios vietos istorinių laikų pradžioje**
+        Pirmosios mus pasiekusios istorinės žinios liudija aisčius jau
+    gyvenus tose pačiose vietose, kur jie gyveno ir vėlesniais, mums
+    gerai žinomais, laikais. Aisčiai, kaip ir beveik visi Europos gy-
     ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
     čios indoeuropiečių, arba arijų, tautų grupės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
 - c-002
-  santrauka: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl, kai Karolis pasiekė slavus, jo
+    Pirmasis lietuvių vardą yra
+    paminėjęs vienas Karolio Didžiojo žvalgas. Kurdamas savo
+    imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
+    rytuose ir kokios jų jėgos. Todėl, kai Karolis pasiekė slavus, jo
     agentai sužinojo, kad už slavų gyvena dar lietuviai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-008
 
 - c-003
-  santrauka: 'Slavų ekspansija artėjo prie Lietuvos žemių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Slavų ekspansija
+    Ix a.
+    į slavų užvaldytas žemes atklydę skandinavai variagai čia įkūrė
+    Kijevo Rusios valstybę, kuri ėmė sparčiai plėstis. Slavų ekspansija
     artėjo prie Lietuvos žemių.
 
     Lietuvos valstybė
@@ -117,48 +112,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     x1 a.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
-    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
-    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
-    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
-    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
-    Lietuva, o šiandien ją vadiname istorine Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vėliau,
-    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
-    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
-    sų, jotvingių, lietuvių ir latvių tautos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: 'Dusburgietis teigia, kad skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     (Skomentner-See, dab. j. Skomętno)
@@ -176,13 +134,11 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Slina (Ślina), u.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
+    - t-005
+
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Manoma, kad jei
@@ -196,16 +152,30 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Lietuva, o šiandien ją vadiname istorine Lietuva.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Dusburgietis teigia, kad (Skomantburg) Skorpiono žvaigždynas Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas) Skronaitė (Scroneyte, Scroneiten), p. Skuodas Skuomantai Slavija slavai vakarų slavai (kašubai) slaviškos žemės Slina (Ślina), u.'
+    - t-002
+
+- c-006
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    I tūkstantmetyje po Kr. baltų genčių apgyvendintas
+    arealas driekėsi nuo Vyslos iki Dniepro ir Okos baseinų rytuose. Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    (Skomantburg)
+    (Skomentner-See, dab. j. Skomętno)
+    Skomanto kalnas (Skomentberg)
+    Skomanto sodyba, p. (Skomantburg)
     Skorpiono žvaigždynas
     Skrando kalnas, kuoras (mons Scrandonis, Schrandinberg, vėliau Šrangenbergas)
     Skronaitė (Scroneyte, Scroneiten), p.
@@ -218,11 +188,42 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     Slina (Ślina), u.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
+
+- c-008
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Manoma, kad jei
+    ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
+    das būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
+    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-009
+  santrauka: 'Todėl, kai Karolis pasiekė slavus, jo agentai sužinojo, kad už slavų gyvena dar lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kurdamas savo
+    imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
+    rytuose ir kokios jų jėgos. Todėl, kai Karolis pasiekė slavus, jo
+    agentai sužinojo, kad už slavų gyvena dar lietuviai. Tas prane-
+    šimas yra išlikęs iki mūsų laikų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -247,12 +248,14 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/asmenys/Henrikas von Plauenas]]
 - [[objektai/autoriai/J. Jaroszewicz]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/autoriai/Jonas Juškevičius]]
 - [[objektai/asmenys/Jonas Marija]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/zodynas/Kanceliarinė rašto kalba]]
 - [[objektai/asmenys/Karolis VI]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
@@ -268,7 +271,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
 - [[objektai/daiktai/Pilkapiai Žemaitijoje, vadinti Milžinų Kapais]]
 - [[objektai/grupes/Prūsijos valstybė]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
@@ -278,6 +280,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]
 - [[objektai/asmenys/Stanislovas Ratka]]
 - [[objektai/autoriai/Stasys Šalkauskis]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/autoriai/Thunmanas]]
 - [[objektai/autoriai/V. O. Ključevskis]]
@@ -287,6 +290,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/grupes/Venedai]]
 - [[objektai/posakiai/Visa Rusija turi priklausyti Lietuvai]]
 - [[objektai/autoriai/Volfgangas]]
+- [[objektai/zodynas/grašis]]
 - [[objektai/zodynas/prokalbė]]
 - [[objektai/zodynas/rublis]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]

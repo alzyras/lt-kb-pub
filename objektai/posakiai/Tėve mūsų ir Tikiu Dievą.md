@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Tėve mūsų ir Tikiu Dievą'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
@@ -26,16 +17,15 @@ tags:
 „Tėve mū­ sų“ ir „Tikiu Dievą“^2 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jogaila išvertė į lietuvių kalbą maldas „Tėve mūsų“ ir „Tikiu Dievą“.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila išvertė į lietuvių kalbą maldas „Tėve mūsų“ ir „Tikiu Dievą“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik kai kurie lietuviai, mo­
@@ -46,11 +36,9 @@ tags:
     klausė, bet nebuvo kam lietuviškai aiškinti naujo tikėjimo. Jo­
     gaila šituo ar kuriuo kitu laiku išvertęs lietuvių k. „Tėve mū­
     sų“ ir „Tikiu Dievą“^2 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

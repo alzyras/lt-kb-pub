@@ -1,15 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Audrys Juozas Bačkis'
-aliases:
-  - 'Audrys Juozas Bačkis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - popiežius
@@ -21,29 +16,33 @@ tags:
 Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pir-
+    Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
+    gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-
+    nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta
+    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
+    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
+    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
+    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
+    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą. Pir-
     minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
     sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
     Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas
     metropolitas Audrys Juozas Bačkis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

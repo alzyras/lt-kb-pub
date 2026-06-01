@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'LLV padalijimų aktų panaikinimas Sovietų Rusijoje'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - valstybė
@@ -19,38 +16,43 @@ tags:
 Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panai-
+    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
+    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
+    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    mo) aktas. Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panai-
     kino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė
     nebeatsikūrė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

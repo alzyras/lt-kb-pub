@@ -49,8 +49,8 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad neseniai Prancūzijoje buvęs likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   pagrindžia:
-    - c-001
     - c-003
+    - c-001
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291 m.) įsikūrusių šioje žemėje, procesas.'
@@ -59,7 +59,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų
@@ -88,7 +88,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68. Neseniai

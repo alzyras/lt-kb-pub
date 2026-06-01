@@ -29,16 +29,16 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 - t-001
   teiginys: 'Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­ gė neturtingiems studentams bursą, pavadintą Valerijono vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos jėzuitų priežiūrai ir globai58.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: '58 Valerianae Bursae Erectio et Provisio [Valerijono bursos statyba ir aprū­ pinimas], Vilniaus kapitulos archy­ ve.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     58
@@ -75,7 +75,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vyskupo Protasevičiaus
@@ -111,7 +111,6 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
 - [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
 - [[objektai/asmenys/Paulius Bochenas]]
 - [[objektai/asmenys/Pilypas Frizijus]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]

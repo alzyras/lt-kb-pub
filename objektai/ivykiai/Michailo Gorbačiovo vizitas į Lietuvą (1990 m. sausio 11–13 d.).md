@@ -39,12 +39,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
   pagrindžia:
     - c-001
@@ -68,7 +68,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -82,7 +82,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

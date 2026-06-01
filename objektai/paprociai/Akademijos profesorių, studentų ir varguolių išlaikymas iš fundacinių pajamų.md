@@ -76,4 +76,3 @@ Nenurodyta
 - [[objektai/daiktai/Duona]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/Juris Civilis et Canonici civilinė ir kanonų teisė]]
-- [[objektai/zodynas/Puslapis 77]]

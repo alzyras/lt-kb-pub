@@ -23,24 +23,24 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad adažiai, pilis į šiaurės rytus nuo Rygos (Tuulse A., Die Burgen..., p. 133).'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79).'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad tuulse A.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuulse A. Die Burgen in Estland und Lettland.— Dorpat, 1942.
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   pagrindžia:
     - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     550 D.— in Carthusen, Jer — burc Karchuis; vok. Karkus, Karkuso resp. Karksio pilis
@@ -60,9 +60,9 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitą
@@ -72,4 +72,4 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

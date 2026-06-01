@@ -1,29 +1,18 @@
 ---
 tipas: autorius
-pavadinimas: "Romas Dubonis"
-sukurta: '2026-05-27'
-variantai:
-  - "Romas Dubonis"
-aliases: []
+pavadinimas: 'Romas Dubonis'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "2007 m. lietuviško leidimo redakcijos kontekstas"
-vaidmenys:
-  - meninis redaktorius
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '2007 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 date_start: '2007'
 date_end: ''
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XXI'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
 ---
 # Romas Dubonis
 
@@ -32,19 +21,20 @@ tags: []
 Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo meninis redaktorius.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Romas Dubonis buvo 2007 m. „Vilniaus miesto istorijos“ leidimo meninis redaktorius."
+  teiginys: 'Romas Dubonis buvo 2007 m. „Vilniaus miesto istorijos“ leidimo meninis redaktorius.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'UDK 947.45 ## Puslapis 494 Mykolas Balinskis VILNIAUS MIESTO ISTORIJA Iš lenkų kalbos vertė Ona Slavėnaitė, Irena Katilienė Iš lotynų kalbos vertė Jūratė Dalia Baronienė Redaktorė Skirmantė Ramanauskaitė Meninis redaktorius Romas Dubonis Maketuotoja Danutė.'
+  teiginys: 'Romas Dubonis buvo 2007 m. išleistos Mykolo Balinskio knygos „Vilniaus miesto istorija“ meninis redaktorius.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Dubonis nurodytas leidinio metrikoje kaip meninis redaktorius.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mykolas Balinskis
@@ -60,17 +50,21 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
     „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
     Spausdino UAB „Logotipas", Utenos g. 41a, LT-08217 Vilnius.
     Kaina sutartinė
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Leidinio metrikoje tiesiogiai nurodytas meninio redaktoriaus vaidmuo."
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'UDK 947.45 ## Puslapis 494 Mykolas Balinskis VILNIAUS MIESTO ISTORIJA Iš lenkų kalbos vertė Ona Slavėnaitė, Irena Katilienė Iš lotynų kalbos vertė Jūratė Dalia Baronienė Redaktorė Skirmantė Ramanauskaitė Meninis redaktorius Romas Dubonis Maketuotoja Danutė.'
+  santrauka: 'Romas Dubonis buvo 2007 m. išleistos Mykolo Balinskio knygos „Vilniaus miesto istorija“ meninis redaktorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Autorius surinko ir
+    panaudojo daugybę istorijos šaltinių, kurie neišliko iki mūsų dienų.
+    Tai vertingas informacijos šaltinis istorikams, kultūrologams ir vi­
+    siems skaitytojams, besidomintiems senąja Vilniaus miesto ir bendra
+    ikikrikščioniškos Lietuvos valstybės istorija.
     UDK 947.45
 
     ## Puslapis 494
@@ -85,12 +79,10 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
     Meninis redaktorius Romas Dubonis
     Maketuotoja Danutė Navickienė
     Užsakymas
-    „Minties" leidykla, Z.
+    „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -24,13 +24,14 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco, 187 ## Puslapis 204 VILNIAUS MIESTO ISTORIJA I TOMAS Valerijono bursai perleido, nuo kurios studentų dėlei kas­ met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam.'
+  teiginys: '1756 m. Akademijos rektorius tėvas Juraha Švarco vardu vadintą kolegijos namą perleido Valerijono bursai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: '1756 m. Akademijos rektorius tėvas Juraha Švarco vardu vadintą kolegijos namą perleido Valerijono bursai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Akademijos Rektorius t. Paulius Bochenas, neturė­

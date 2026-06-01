@@ -28,39 +28,39 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Galvanausko planą paruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.'
+  pagrindžia:
+    - c-007
+
+- t-002
+  teiginys: 'Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.'
+  pagrindžia:
+    - c-006
+
+- t-003
+  teiginys: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
   pagrindžia:
     - c-005
 
-- t-003
-  teiginys: 'Galvanauskas, nota pakvietęs nustatyti Lenkijos rytines sienas.'
+- t-004
+  teiginys: 'Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
   pagrindžia:
     - c-003
 
 - t-006
-  teiginys: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
-  pagrindžia:
-    - c-006
-
-- t-001
-  teiginys: 'Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių.'
-  pagrindžia:
-    - c-001
-
-- t-004
-  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
-  pagrindžia:
-    - c-004
-
-- t-002
   teiginys: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-007
+- c-001
   santrauka: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -93,9 +93,9 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-006
 
-- c-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
@@ -106,9 +106,9 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-005
 
-- c-001
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio
@@ -123,9 +123,9 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-006
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai liko sukilimo inscenizacijos
@@ -138,9 +138,9 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
 
-- c-003
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
@@ -155,9 +155,9 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-005
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. pradžioje
@@ -170,7 +170,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
 - c-008
   santrauka: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'

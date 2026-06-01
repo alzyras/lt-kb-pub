@@ -1,25 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'Rygiečiai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1253 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1253'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - ordinas
+amziai:
+  - 'XIII'
 ---
 # Rygiečiai
 
@@ -30,142 +25,74 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 ## Teiginiai
 
 - t-001
-  teiginys: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
-  pagrindžia:
-    - c-011
-    - c-010
-    - c-009
-    - c-008
-    - c-007
-    - c-006
-    - c-005
-    - c-004
-    - c-003
-    - c-002
-    - c-001
-
-- t-002
-  teiginys: 'Kryžiuočiai skelbė, kad Gedimino laiškai buvo rygiečių darbas, o rygiečiai gynė jų autentiškumą.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Toks kaltinimų ordinui kartojimas yra davęs progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos ordino priešai — rygiečiai.'
   pagrindžia:
-    - c-012
-- t-004
-  teiginys: 'Savo «atgailos rašte», vad. «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+    - c-007
+
+- t-002
+  teiginys: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
   pagrindžia:
-    - c-013
-- t-005
+    - c-008
+    - c-005
+    - c-011
+    - c-002
+    - c-006
+    - c-009
+    - c-001
+    - c-004
+
+- t-003
   teiginys: 'Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.'
   pagrindžia:
-    - c-014
+    - c-010
 
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tada vėl, Livonijoje prasidėjus vidaus
+    karui, atsinaujino Gedimino ir rygiečių sąjunga. Kai ordinui pa­
+    vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pilį,
+    rygiečiai ją ėmė šturmuoti (1328.VIL), o pakviesti lietuviai (1329.
+    IX.) nuteriojo ordino valdas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo «atgailos rašte», vad.
+    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
+    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
+    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
+    persekiojimų»^2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Livonijoje tebeėjo smarkios varžytynės tarp arkivyskupo ir
+    ordino, kurs nenorėjo^2 /з nukariauto krašto atiduoti arkivysku-
+    pui, stengdamasis pasidaryti viso krašto viešpačiu. Tam labai
+    priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori-
+    tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.
     Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu,
     pasikvietė Į talką Vytenį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1257 m. taiką padarius, Rygos miesto pirkliai Žemaičių
-    plotą įtraukė į savo prekybinius interesus. Be pavojaus žemaičiai ir
-
-    (^152) **LReirn 4085-4158.**
-    (^153) **LReim 4086, 4101, 4107. Šitas vardas (Aliminas, Alminas) Žemaičiuose
-    ir dabar sutinkamas. Du Kaziai Alminai yra, pvz., profesoriai (vienas — vete­
-    rinarijos — nuo Platelių, kitas — kalbininkas — nuo Švėkšnos).**
-    (^154) **LReim 4505-4515. Kryžininku žygyje esą buvę 500 (LReirn 4501).**
-    (^155) **LUB I, 402.**
-    (^156) **LReim 4545-4570.**
-    (^157) **LReim 4614-4615.**
-    (^158) **« des landės site stêt also :
-    wer dem anderen tût die hant,
-    wer er über daz dritte lant,
-    der hette getrûwelichen vride
-    bie dem halse und der wide » (LReim 4616-4620).**
-
-
-    ```
-    KARALIUS MINDAUGAS IR JO PALIKIMAS 185
-    ```
-    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-
-- c-003
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tada vėl, Livonijoje prasidėjus vidaus
-    karui, atsinaujino Gedimino ir rygiečių sąjunga. Kai ordinui pa­
-    vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pilį,
-    rygiečiai ją ėmė šturmuoti (1328.VIL), o pakviesti lietuviai (1329.
-    IX.) nuteriojo ordino valdas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 
 - c-004
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1257 m. taiką padarius, Rygos miesto pirkliai Žemaičių
-    plotą įtraukė į savo prekybinius interesus. Be pavojaus žemaičiai ir
-
-    (^152) **LReirn 4085-4158.**
-    (^153) **LReim 4086, 4101, 4107. Šitas vardas (Aliminas, Alminas) Žemaičiuose
-    ir dabar sutinkamas. Du Kaziai Alminai yra, pvz., profesoriai (vienas — vete­
-    rinarijos — nuo Platelių, kitas — kalbininkas — nuo Švėkšnos).**
-    (^154) **LReim 4505-4515. Kryžininku žygyje esą buvę 500 (LReirn 4501).**
-    (^155) **LUB I, 402.**
-    (^156) **LReim 4545-4570.**
-    (^157) **LReim 4614-4615.**
-    (^158) **« des landės site stêt also :
-    wer dem anderen tût die hant,
-    wer er über daz dritte lant,
-    der hette getrûwelichen vride
-    bie dem halse und der wide » (LReim 4616-4620).**
-
-
-    ```
-    KARALIUS MINDAUGAS IR JO PALIKIMAS 185
-    ```
-    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-
-- c-005
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tada vėl, Livonijoje prasidėjus vidaus
@@ -173,115 +100,13 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pilį,
     rygiečiai ją ėmė šturmuoti (1328.VIL), o pakviesti lietuviai (1329.
     IX.) nuteriojo ordino valdas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-006
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rygai
-    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
-    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
-    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-
-- c-007
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Toks kaltinimų ordinui kartojimas yra davęs
-    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
-    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
-    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
-    skelbė, jog Gedimino laiškai esą rygiečių darbas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-
-- c-008
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Savo «atgailos rašte», vad.
-    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
-    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
-    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
-    persekiojimų»^2.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-
-- c-009
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Rygai
-    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
-    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
-    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-
-- c-010
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Toks kaltinimų ordinui kartojimas yra davęs
-    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
-    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
-    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
-    skelbė, jog Gedimino laiškai esą rygiečių darbas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-
-- c-011
-  santrauka: Rygiečiai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Savo «atgailos rašte», vad.
-    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
-    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
-    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
-    persekiojimų»^2.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-- c-012
-  santrauka: 'Toks kaltinimų ordinui kartojimas yra davęs progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos ordino priešai — rygiečiai.'
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekviename tų laiškų smarkiai buvo
@@ -292,42 +117,92 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     skelbė, jog Gedimino laiškai esą rygiečių darbas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-013
-  santrauka: 'Savo «atgailos rašte», vad. «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+    - t-002
+
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    20). Savo «atgailos rašte», vad.
+    Kiekviename tų laiškų smarkiai buvo
+    puolamas ordinas. Toks kaltinimų ordinui kartojimas yra davęs
+    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
+    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
+    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
+    skelbė, jog Gedimino laiškai esą rygiečių darbas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kiekviename tų laiškų smarkiai buvo
+    puolamas ordinas. Toks kaltinimų ordinui kartojimas yra davęs
+    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
+    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
+    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
+    skelbė, jog Gedimino laiškai esą rygiečių darbas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo «atgailos rašte», vad.
     «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
     kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
     « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
     persekiojimų»^2.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-014
-  santrauka: 'Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.'
+    - t-002
+
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Rygai
+    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159. Rygai
     rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
     Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
     išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
+
+- c-010
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159. Rygai
+    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
+    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
+    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-011
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    rygiečiai esą galėję vieni pas kitus keliauti ir prekiauti^159. Rygai
+    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
+    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
+    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -337,9 +212,6 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/daiktai/Vaškas]]
-- [[objektai/posakiai/des landės site stêt also]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/A. Prochaska]]
 - [[objektai/grupes/Hanza]]
 - [[objektai/autoriai/Jakštas, J]]

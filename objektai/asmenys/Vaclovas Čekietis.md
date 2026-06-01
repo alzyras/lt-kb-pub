@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vaclovas Čekietis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1343 m.'
   - '1392 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1343'
 date_end: '1392'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - ordinas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vaclovas Čekietis
 
@@ -30,22 +26,25 @@ tags:
 Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą. 1392 m. mėginta ir koalicija prieš Lenkiją sudaryti; jos vyriausi va­ dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­ tis ir Vaclovas Čekietis^4 ).
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '1392 m. Vaclovas Čekietis kartu su Zigmantu Vengriečiu ir Ordinu buvo tarp mėgintos sudaryti koalicijos prieš Lenkiją vyriausių vadų.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
@@ -55,15 +54,13 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
     tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
     tas pilis^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: '1392 m. Vaclovas Čekietis kartu su Zigmantu Vengriečiu ir Ordinu buvo tarp mėgintos sudaryti koalicijos prieš Lenkiją vyriausių vadų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei
@@ -72,13 +69,29 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
     dai buvo Ordinas ir du Luksemburgiečiai: Zigmantas Vengrie­
     tis ir Vaclovas Čekietis^4 ). Todėl Vytauto ginčas su Lenkija la­
     bai toli siekė: jis ėmė grėsti 1343 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
+- c-003
+  santrauka: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl Makras,
+    įteikdamas jį imperatoriui Zigmantui, pažymėjo, kad Ordinas
+    nori su Lietuva karo.
+
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą. Vak.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

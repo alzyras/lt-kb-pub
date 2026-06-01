@@ -19,24 +19,24 @@ tags:
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Ar išdaviko, ar priešo sumaniai padegta ugnis staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
   pagrindžia:
-    - c-003
+    - c-001
 
 - t-002
   teiginys: 'Viena jų va­ dinama Krautuvių Pilimi, kurioje su­ sirinko keletas tūkstančių ginkluotų žmonių, vyresnieji bei abiejų lyčių prastuomenė, - ir pilies ginti, ir ieš­ kodami ten saugaus prieglobsčio.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-001
+- t-003
   teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
   pagrindžia:
-    - c-001
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Svetimšalių ataka buvo
@@ -53,9 +53,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie jos šliejosi
@@ -74,9 +74,9 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28

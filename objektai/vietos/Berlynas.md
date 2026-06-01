@@ -1,46 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Berlynas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1385 m.'
-  - '1868 m.'
-  - '1878 m.'
-  - '1918 m.'
-  - '1929 m.'
-  - '1932 m.'
-  - '1933 m.'
-  - '1934 m.'
-  - '1936 m.'
-  - '1939 m.'
-  - '1940 m.'
-  - '1943 m.'
-  - '1965 m.'
-  - '1967 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-amziai:
-  - 'XIV'
-  - 'XVI'
-  - 'XVII'
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1385'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Berlynas
 
@@ -49,147 +25,142 @@ tags:
 Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Brandenburgo elektoriaus Berlyne.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m.'
+  teiginys: '1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž. pradžios, 1934).'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-012
+
 - t-002
-  teiginys: '„Systematisches Verzeichnis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kurlands“ buvo išleistas Berlyne 1878 m.'
+  teiginys: 'Kovo 23 dieną Berlyne A.'
+  pagrindžia:
+    - c-010
+
+- t-003
+  teiginys: 'Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­ taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 (AvA), K.'
+  pagrindžia:
+    - c-014
+
+- t-004
+  teiginys: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
+  pagrindžia:
+    - c-017
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'K. Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
+
+- t-006
+  teiginys: '„Systematisches Verzeichnis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kurlands“ buvo išleistas Berlyne 1878 m.'
+  pagrindžia:
+    - c-018
+
+- t-007
+  teiginys: 'Naciams iš Berlyno neišleidus LAF vado K.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-008
+  teiginys: 'Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.'
+  pagrindžia:
+    - c-007
+
+- t-009
+  teiginys: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
+  pagrindžia:
+    - c-013
+
+- t-010
+  teiginys: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
+  pagrindžia:
+    - c-006
+
+- t-011
+  teiginys: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
+  pagrindžia:
+    - c-005
+
+- t-012
   teiginys: 'Z. Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.'
   pagrindžia:
     - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-013
   teiginys: 'Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.'
   pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Kovo 23 dieną Berlyne A.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
-  pagrindžia:
-    - c-008
-- t-010
-  teiginys: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
-  pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.'
-  pagrindžia:
     - c-011
-- t-012
-  teiginys: 'Naciams iš Berlyno neišleidus LAF vado K.'
-  pagrindžia:
-    - c-012
-- t-013
-  teiginys: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
-  pagrindžia:
-    - c-013
-- t-015
-  teiginys: 'Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­ taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 (AvA), K.'
-  pagrindžia:
-    - c-015
-- t-016
-  teiginys: '1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž. pradžios, 1934).'
-  pagrindžia:
-    - c-016
-- t-017
-  teiginys: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
-  pagrindžia:
-    - c-017
-- t-018
-  teiginys: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
-  pagrindžia:
-    - c-018
-- t-019
+
+- t-014
   teiginys: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   pagrindžia:
-    - c-019
-- t-020
-  teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
+    - c-015
+
+- t-015
+  teiginys: 'Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.'
   pagrindžia:
-    - c-020
-- t-021
-  teiginys: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
+    - c-009
+
+- t-016
+  teiginys: 'K. Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
   pagrindžia:
-    - c-021
+    - c-008
+
+- t-017
+  teiginys: 'Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m.'
+  pagrindžia:
+    - c-001
+
+- t-018
+  teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     IvB = Ivinskis, Z. : Geschichte des Bauernstandes in Litauen.
     Berlynas 1933 (Historische Studien, išl. Dr. Emil Ebering,
     sąs. 236). Nachdruck Lübeck 1965.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-017
+
 - c-002
-  santrauka: '„Systematisches Verzeichnis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kurlands“ buvo išleistas Berlyne 1878 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Petersburg 1904.
-    Tas pat pasakytina apie Livonijos istorijos bibliografiją :
-    Winkelmann, E. : Bibliotheca Livoniae historica. Systematisches Verzeich­
-    nis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kur­
-    lands, Berlynas^2 1878 (fotomechan. perspausdinta 1967 m.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+    Berlyno  karališkosios
+    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
+    Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
+    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
+
 - c-003
-  santrauka: 'K. Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Suprantama, dėmesingai buvo
-    keliamos ir tyrinėjamos lietuvių-lenkų diferencijos, kurių netrūko
-    ir po Liublino unijos. Po šitų bendrų pastabų reikia kuo trum­
-    piausiai paminėti anų istorikų įnašą Lietuvos istoriografijoje.
-    Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
-    taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą
-    iki 1385 (AvA), K. Avižonis atsidėjo poliublininiams laikams
-    ir davė kruopščiai parašytą ir išsamų veikalą « Bajorai valstybi­
-    niame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų
-    studijų istorijos žurnaluose.
-  citata_rodoma: ""
+    Daugumą
+    partizanų sudarė jauni ir vidutinio amžiaus lietuviai: inteligentai, ūkinin-
+    kai, darbininkai, studentai, moksleiviai, kariškiai.
+    Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų
+    arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
+    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
+    demokratų pakraipos asmenys.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-007
+
 - c-004
-  santrauka: 'Z. Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
@@ -202,15 +173,35 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
     ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
     pradžios, 1934).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-012
+
 - c-005
-  santrauka: 'Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O beveik
+    kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar
+    Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
+    Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry
+    (Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel
+    Levinas (Emanuelis Levinas).
+    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
+    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
+    tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
+    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
+    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
+    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
+    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip ir kiti šitame skyriuje toliau minėsimi
@@ -222,34 +213,76 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
     Jakštas paskelbė originalią ir kritišką studiją apie vokiečių
     ordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.'
+    - t-010
+
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
+    Neutralumo politika ir
+    Molotovo–Ribentropo paktas
+    Griūvant Versalio sistemos postulatams, Tautų Sąjungai
+    nebegarantuojant jos narių saugumo, trijų Baltijos šalių užsienio reikalų
+    ministrai 1938 m. vasarą nutarė neleisti užsienio kariuomenėms kirsti
+    jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
+    16-ą straipsnį. Neturėdamos jokio pasirinkimo, trys Baltijos valstybės
+    paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d.
+    Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
+    tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
+    liktą. Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
+    50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
+    Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Suprantama, dėmesingai buvo
+    keliamos ir tyrinėjamos lietuvių-lenkų diferencijos, kurių netrūko
+    ir po Liublino unijos. Po šitų bendrų pastabų reikia kuo trum­
+    piausiai paminėti anų istorikų įnašą Lietuvos istoriografijoje.
+    Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
+    taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą
+    iki 1385 (AvA), K. Avižonis atsidėjo poliublininiams laikams
+    ir davė kruopščiai parašytą ir išsamų veikalą « Bajorai valstybi­
+    niame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų
+    studijų istorijos žurnaluose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-009
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
+    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+    „Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
     areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
     padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
     ti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Kovo 23 dieną Berlyne A.'
+    - t-015
+
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
+    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-
     jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
     Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
     kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
@@ -260,88 +293,68 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     jungti Lietuvą personaline unija su Saksonija arba Prūsija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
-    kur pasirašė 100 mln. markių paskolą ginklams įsigyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-010
-  santrauka: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
-    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
+    - t-002
+
 - c-011
-  santrauka: 'Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
-    tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
-    liktą. Kariuomenės vadas gen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'Naciams iš Berlyno neišleidus LAF vado K.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų
-    arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
-    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
-    demokratų pakraipos asmenys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-013
-  santrauka: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ),
-    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
-    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
-    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
-    tauto Sirvydžio kardiochirurgijos mokykla.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-015
-  santrauka: 'Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­ taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 (AvA), K.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Kaip ir kiti šitame skyriuje toliau minėsimi
+    istorikai, jis stengėsi tyrinėjamąjį Lietuvos praeities darbą tęsti
+    tremtyje^89.
+    Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
+    Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis
+    visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento
+    teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
+    Jakštas paskelbė originalią ir kritišką studiją apie vokiečių
+    ordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-012
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
+    vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­
+    kulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos
+    šaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo
+    bolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­
+    minių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.
+    1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių
+    luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
+    ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
+    pradžios, 1934).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-013
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
+    santykius. Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį
+    Kaunui sakė Maskva ir Berlynas. Lietuvos vyriausybės posėdyje gen.
+    S. Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau
+    Lietuvos kariuomenės paradinė rikiuotė 1937 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-014
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Suprantama, dėmesingai buvo
+    keliamos ir tyrinėjamos lietuvių-lenkų diferencijos, kurių netrūko
+    ir po Liublino unijos. Po šitų bendrų pastabų reikia kuo trum­
+    piausiai paminėti anų istorikų įnašą Lietuvos istoriografijoje.
     Po studijų Lietuvos universitete, 1932 m. parašęs Berlyne diser­
     taciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą
     iki 1385 (AvA), K. Avižonis atsidėjo poliublininiams laikams
@@ -350,100 +363,66 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
     studijų istorijos žurnaluose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-016
-  santrauka: '1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž. pradžios, 1934).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių
-    luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
-    ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
-    pradžios, 1934).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-016
-- c-017
-  santrauka: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis
-    visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento
-    teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
-    Jakštas paskelbė originalią ir kritišką studiją apie vokiečių
-    ordiną ir Lietuvą Vytenio ir Gedimino laikais (JakG).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-018
-  santrauka: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniuje 1868 m.),
-    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
-    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
-    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
-    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
-- c-019
-  santrauka: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
+    - t-003
+
+- c-015
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
     bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
-    Kodeksas rašytas XVI a.
+    Kodeksas rašytas XVI a. viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-019
-- c-020
-  santrauka: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
-    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
-    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
-- c-021
-  santrauka: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
+    - t-014
+
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    po ilgų
-    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-
-    lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
-    pusėje. Paskui Lietuva tikėjosi, kad Klaipėdos klausimas bėra tik vidaus
-    problema, tačiau vokiečiai nemanė, kad techninės sutartys reiškia galuti-
-    nį Klaipėdos atsisakymą.
+    Tačiau lietuviams
+    sovietai nesiasocijavo su tautine valstybe, todėl bolševikų jie neparėmė.
+    Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
+    Vilniaus Rau­donajai armijai, A. Voldemaro vyriausybė neturėjo ginkluo-
+    tųjų pajėgų. 1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
+    kur pasirašė 100 mln. markių paskolą ginklams įsigyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-021
+    - t-018
+
+- c-017
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
+    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
+    tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
+    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
+    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
+    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
+    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
+    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
+    tauto Sirvydžio kardiochirurgijos mokykla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-018
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Petersburg 1904.
+    Tas pat pasakytina apie Livonijos istorijos bibliografiją :
+    Winkelmann, E. : Bibliotheca Livoniae historica. Systematisches Verzeich­
+    nis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kur­
+    lands, Berlynas^2 1878 (fotomechan. perspausdinta 1967 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006

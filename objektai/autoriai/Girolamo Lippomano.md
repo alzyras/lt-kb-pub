@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Girolamo Lippomano'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1575 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1575'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Girolamo Lippomano
 
@@ -27,16 +23,15 @@ tags:
 Žinoma, šie, bent jau žuvusių skaičiai, yra gerokai pamažinti, tačiau galima LAUKO STOVYKLA Ištrauka iš Venecijos pasiuntinio Girolamo Lippomano (1575 m.) Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Girolamo Lippomano 1575 m. aprašė Lenkijos ir Lietuvos kariuomenių stovyklos įsirengimo būdą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Girolamo Lippomano 1575 m. aprašė Lenkijos ir Lietuvos kariuomenių stovyklos įsirengimo būdą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tik viename pranešime apie
@@ -52,11 +47,9 @@ tags:
 
     „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
     labai skiriasi nuo kitų ir dėl to pažymėtinas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

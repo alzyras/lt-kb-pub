@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Tomas Survila'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1380 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1380'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
   - karas
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Tomas Survila
 
@@ -30,16 +26,15 @@ tags:
 Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai Tėvynei du kryžiuočiai lietuviai, Jonas ir Tomas Survilos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tomas Survila žuvo tarnaudamas senajai Tėvynei kaip vienas iš dviejų lietuvių kryžiuočių.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tomas Survila žuvo tarnaudamas senajai Tėvynei kaip vienas iš dviejų lietuvių kryžiuočių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšyje žuvo keliasdešimt (kartais nu-
@@ -57,11 +52,9 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
     kryžiuočių liko tik keletas, tarp jų žuvo
     tarnaudami senajai Tėvynei du kryžiuočiai
     lietuviai, Jonas ir Tomas Survilos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

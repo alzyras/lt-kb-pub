@@ -31,16 +31,16 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - t-001
   teiginys: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Tąkart Vinrichas, vasario pradžioje kirtęs Lie­ tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­ binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių polaidžio.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     30
@@ -61,7 +61,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laimė, kad šio valdovo narsa visada valiodavo išgelbėti

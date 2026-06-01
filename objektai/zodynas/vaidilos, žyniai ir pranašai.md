@@ -28,21 +28,21 @@ amziai:
 - t-001
   teiginys: 'Čia pat medinė šventykla, prie kurios šliejosi pagonių vaidilų būstai.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-003
+- t-002
   teiginys: '3 Dabartinė katedros varpinė, anot Lietuvos kronikininkų ir vietos žmo­ nių padavimų, buvęs tas pats bokš­ tas, iš kurio Lizdeika ir jo pirmtakai iškilmingai pasirodydavę Vilniaus pagonims paskelbti blogos ar geros pranašystės.'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kunigaikščio rūmų pastatai,
@@ -72,9 +72,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikš­
@@ -117,7 +117,7 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

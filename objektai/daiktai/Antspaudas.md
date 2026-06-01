@@ -1,15 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Antspaudas'
-sukurta: '2026-04-28'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-patikimumas: 'aukštas'
-periodas: viduramziai
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - simbolis
@@ -21,102 +16,70 @@ tags:
 1383 m. prie dokumentų turėjo būti pridėti antspaudai. Kriavo akto dokumentą savo antspaudais tvirtino trys Jogailos broliai, o antspaudą pridėjo ir Vytautas.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-007
-  teiginys: 'Prie 1379 m. sutarties buvo Vytauto antspaudas su jo ženklu ir užrašu „S: DUCJS VITAUTE“.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: '1379 m. čia įvardijami kaip pirmoji Vytauto antspaudos pasirodymo data.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
+
+- t-001
   teiginys: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudomis.'
   pagrindžia:
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-002
+
+- t-002
+  teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prie 1379 m. sutarties buvo Vytauto antspaudas su jo ženklu ir užrašu „S: DUCJS VITAUTE“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Būdamas pilnateisis kunigaikštis, šitą aktą pasirašant da­
-    lyvavo ir Vytautas. Pačiame tekste yra pažymėta, kad be ma­
-    gistro ir Jogailos savo antspaudas prie dokumentų prikabino
-    „Kinstutte herczoge czu Tracken und Wytould unsir son“. Iš
-    ```
-    (^1) ) L. E. K. U., III t., 144 nr. (^2) ) Krum., 83 psl.
-
-
-    ```
-    — 9 —
-    ```
     tikro prie šitos sutarties buvo Vytauto antspauda su jo ženklu
     ir užrašu „S: DUCJS VITAUTE”, kas reiškia kunigaikščio
     Vytauto antspaudą. 1379 metai yra pati pirmoji Vytauto ant­
-    spaudos pasirodymo data^1 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-    - t-008
-- c-002
-  santrauka: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prūsų istorikas Voigtas (apie 1825
+    spaudos pasirodymo data^1 ). Prūsų istorikas Voigtas (apie 1825
     metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
     mi tos sutarties originalą, sakė esą matę visų keturių valdovų
     sveikas antspaudas^2 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-003
-  santrauka: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudomis.'
+    - t-002
+
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    (^1) ) a) Vytauto dokumento, duoto 1401 m. sausio 18 d. Vilniuj, yra išli­
+    kęs iki mūsų laikų originalas (kun. Cartoriškių archyve).
+    b) Lietuvių bajorų dokumentas išduotas tais pačiais metais ir tą pačią
+    dieną Vilniuj; originalas žuvęs.
     c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
-  citata_rodoma: ""
+    (^2) ) C. ep. V., 223.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -139,10 +102,8 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Gedimino antspaudas]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
-- [[objektai/asmenys/Gotfridas fon Ustas]]
 - [[objektai/asmenys/Jonas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Jonas Chojevskis]]
-- [[objektai/asmenys/Jonas Rygietis]]
 - [[objektai/asmenys/Jonas iš Zabrežjės]]
 - [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
 - [[objektai/asmenys/Jurgis Astikaitis]]
@@ -152,7 +113,6 @@ Nenurodyta
 - [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mikalojus (Trakų klebonas)]]
-- [[objektai/asmenys/Mikalojus fon Parsau]]
 - [[objektai/asmenys/Mstivojus]]
 - [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]]
 - [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
@@ -160,17 +120,13 @@ Nenurodyta
 - [[objektai/posakiai/Pirma geležis į vašką, o vanduo į plieną pavirs]]
 - [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/paprociai/Raštų ir sutarčių tvirtinimas antspaudais bei antspaudo tikrumo gynimas prakeiksmu]]
-- [[objektai/asmenys/Reimaras fon Hanė]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Steponas Genseris]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
 - [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
-- [[objektai/ivykiai/Trakų sutarties pasirašymas (1379 m. rugsėjo 29 d.)]]
 - [[objektai/grupes/Trakų žydai]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/asmenys/Vaclovas (Medininkų vyskupas)]]
@@ -189,7 +145,6 @@ Nenurodyta
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
 - [[objektai/asmenys/Vimaras [Gneomiras]]]
 - [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]]
-- [[objektai/zodynas/Vogt valdytojas]]
 - [[objektai/asmenys/Vojakas [Vojachas]]]
 - [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]
 - [[objektai/zodynas/indiktas]]
@@ -200,6 +155,5 @@ Nenurodyta
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
-- [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]
 - [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

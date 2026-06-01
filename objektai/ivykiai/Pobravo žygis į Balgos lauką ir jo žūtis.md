@@ -36,12 +36,12 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir variniais, naktį pasiuntė daug pėstininkų į Balgos lauką, o pats anksti rytą su raiteliais užgrobė brolių gyvulius ir užmušė tris juos saugojusius vyrus, brolis Gerhardas iš Reino ir nemaža kitų brolių bei.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Įkūrus Baigos pilį, joje gyvenę broliai  ir ginklanešiai garsėjo tokia narsa  ir drąsa,
@@ -56,7 +56,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Įkūrus Baigos pilį, joje gyvenę broliai  ir ginklanešiai garsėjo tokia narsa  ir drąsa,

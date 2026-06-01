@@ -22,16 +22,16 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių karaliaus sūnus436, daugelio kitų pagonių [gentibus] talkinamas, subūrė kovai iki trisdešimties tūkstančių vyrų ir, atžygiavęs prie Prūsijos žemės, padalijo juos į tris dalis437, kurių vieną nusiuntė prieš.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad 437 D.—in tres turmas, Jer.— in drîe[...] partie[...] teil.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     437 D.—in tres turmas, Jer.— in drîe[...] partie[...] teil. Plg. D. III, 282, 286 —
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     160 (155). Apie Birgelavos pilies sugriovimą

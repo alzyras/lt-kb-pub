@@ -19,12 +19,12 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad lamata buvo į šiaurę nuo Nemuno žemupio, matyt, tarp Skalvos ir Kuršo, nes XIII a.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per šešerius metus, kada vadovavo šiai piliai, privertė visus lietuvius, gyvenusius Nemuno pakrantėje, nuo Neries upės iki Lamatos žemės546, laikytis taikos su krikščionimis, bet Lethovinorum rex), o toliau.'
   pagrindžia:
     - c-001
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -61,4 +61,4 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

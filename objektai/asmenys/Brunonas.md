@@ -1,20 +1,11 @@
 ---
 tipas: asmuo
 pavadinimas: 'Brunonas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -27,74 +18,43 @@ tags:
 Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas. Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų. Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.'
+  teiginys: 'Dusburgietis teigia, kad brunonas pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui; minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge su juo keturiolika kitų vyrų.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-002
+
 - t-002
   teiginys: 'Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
-  teiginys: 'Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-004
-  teiginys: 'Dusburgietis teigia, kad brunonas pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui; minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge su juo keturiolika kitų vyrų.'
-  pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet ir jo misijos
-      nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
-      vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
+    Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
+    jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
+    to paties Boleslovo. Ir Bonifacas buvo paskelbtas šventuoju
+    kankiniu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
+
 - c-002
-  santrauka: 'Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau 1008 m. gale jis iš-
-      vyko iš Lenkijos
-      aisčių krikštyti net
-      su 18 palydovų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ir Bonifacas buvo paskelbtas šventuoju
-      kankiniu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad brunonas pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui; minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge su juo keturiolika kitų vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     4. Apie Kristaus karių ordino brolius
@@ -110,11 +70,51 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+    Bet ir jo misijos
+    nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
+    vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau
+    pas tą patį lenkų
+    kunigaikštį Boles-
+    lovą atvyko naujas
+    misijonierius vo-
+    kietis _Brunonas,_
+    kurs, būdamas vie-
+    nuolis, turėjo _Bo-
+    nifaco_ vardą. Bo-
+    leslovas jo misi-
+    joms pažadėjo pa-
+    ramos. Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

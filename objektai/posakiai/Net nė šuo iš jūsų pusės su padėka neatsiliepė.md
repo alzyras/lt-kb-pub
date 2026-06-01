@@ -1,29 +1,16 @@
 ---
 tipas: posakis
-pavadinimas: "Net nė šuo iš jūsų pusės su padėka neatsiliepė"
-sukurta: '2026-05-27'
-variantai:
-  - "niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė"
-aliases: []
+pavadinimas: 'Net nė šuo iš jūsų pusės su padėka neatsiliepė'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: "aukštas"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
 ---
 # Net nė šuo iš jūsų pusės su padėka neatsiliepė
 
@@ -44,25 +31,25 @@ Frazė vartojama kreipiantis į miestus ir pirklius, kuriems, pasak laiško, Ged
 Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Gedimino laiško vertime adresatams priekaištaujama, kad ankstesni pasiuntiniai, laiškai ir atvertas kraštas nesulaukė atsako."
+  teiginys: 'Gedimino laiško vertime adresatams priekaištaujama, kad ankstesni pasiuntiniai, laiškai ir atvertas kraštas nesulaukė atsako.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: "Priekaištas sustiprintas formule, kad net nė šuo iš adresatų pusės su padėka neatsiliepė."
+  teiginys: 'Priekaištas sustiprintas formule, kad net nė šuo iš adresatų pusės su padėka neatsiliepė.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: 'Mūsų senoliai siuntė jums savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau] niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė dėl tų pasiūlymų.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Citata pagrindžia priekaišto formą ir jos laiško kontekstą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -72,16 +59,14 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
     niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka
     neatsiliepė dėl tų pasiūlymų.
     Tenegąsdina jus tai, kas anksčiau buvo rašyta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
-  santrauka: 'Mūsų senoliai siuntė jums savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau] niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė dėl tų pasiūlymų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Intrent et exe­
@@ -102,9 +87,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
     neatsiliepė dėl tų pasiūlymų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„Palemono universitetu“ „Lietuvos palemoniškųjų miestų sostine“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - posakis
@@ -19,27 +16,28 @@ tags:
 Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kilmės iš romėnų teorija ir lotynų kalbos vartojimas XVII–XVIII a. buvo atsvara savaiminiam lenkėjimui.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kilmės iš romėnų teorija ir lotynų kalbos vartojimas XVII–XVIII a. buvo atsvara savaiminiam lenkėjimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kilmės iš
+    Legendoje nekeliama ir kal-
+    bos problema: tuo metu kalba nebuvo svarbiausias tautos bruožas, nes
+    tada egzistavo ne etninė, bet politinė lietuvių tauta, kurios pagrindinis
+    požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
+    žmonių kilmė ir istorija pasakojama Lietuvos metraščiuose. Kilmės iš
     romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
     visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
     Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

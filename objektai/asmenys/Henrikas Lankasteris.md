@@ -27,24 +27,25 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu Ričardas II, ir prie Vilniaus bu­ vojo ne kas kitas, tik Henrikas Lan­ kasteris, pirm Derbio grafas, vėliau žinomas kunigaikščio Herfordo var­ du, Jono de Gando, Lankasterio ku­.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Taigi Derbio grafas, daly­ vavęs Vilniaus apgultyje 1390 m., negalėjo būti jo tėvas kunigaikštis Lankasteris, mat jis, kelerius metus prabuvęs Ispanijoje, siekdamas už­ imti Kastilijos sostą, bemaž tuo pat metu tiesiai iš ten pargrįžo į Angliją.'
   pagrindžia:
     - c-002
 
 - t-003
-  teiginys: 'Taigi Derbio grafas, daly­ vavęs Vilniaus apgultyje 1390 m., negalėjo būti jo tėvas kunigaikštis Lankasteris, mat jis, kelerius metus prabuvęs Ispanijoje, siekdamas už­ imti Kastilijos sostą, bemaž tuo pat metu tiesiai iš ten pargrįžo į Angliją.'
-  pagrindžia:
-    - c-003
-
-- t-001
-  teiginys: 'liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­ bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­ no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos sostą23.'
+  teiginys: 'Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miechovita, Strijkovskis
@@ -79,9 +80,9 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kol šis kunigaikštis stengėsi pelnyti
@@ -103,9 +104,9 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Strijkovskis apsirinka nurody­
@@ -130,7 +131,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

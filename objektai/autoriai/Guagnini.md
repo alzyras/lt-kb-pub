@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Guagnini'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -24,16 +15,15 @@ tags:
 XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra tikslios.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet
@@ -43,11 +33,9 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
     žiniu noragu. XVI amž. žinios (Herberstein, Guagnini, Lasicius),
     jog Žemaičiuose tebuvę vartojami mediniai arklų noragai, nėra
     tikslios.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

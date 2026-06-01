@@ -1,48 +1,28 @@
 ---
 tipas: grupe
 pavadinimas: 'Stačiatikiai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1323 m.'
-  - '1324 m.'
-  - '1387 m.'
   - '1413 m.'
   - '1418 m.'
-  - '1500 m.'
   - '1587 m.'
-  - '1654 m.'
-  - '1667 m.'
-  - '1668 m.'
-  - '1697 m.'
-  - '1700 m.'
-  - '1721 m.'
   - '1763 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
-  - 'XXI'
 date_start: '1323'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
   - unija
   - valdovas
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Stačiatikiai
 
@@ -51,135 +31,35 @@ tags:
 Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo. Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę. Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: '1418 m. Vytautas į Konstancą siuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.'
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'LDK stačiatikių vienuolynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rašto tradicija, kuri skyrėsi nuo minėtos bažnytinės kalbos.'
-  pagrindžia:
-    - c-004
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
-  pagrindžia:
-    - c-005
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Focijus skaitė save tikruoju Kijevo metropolitu, o Cemblaką — uzurpatorium. Lietuvos stačiatikiams Focijus bu­ vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­ tremti.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę ir buvo atleisti nuo.'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
-  pagrindžia:
-    - c-010
-- t-011
   teiginys: 'Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo.'
   pagrindžia:
-    - c-011
-- t-012
+    - c-003
+
+- t-002
+  teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Lietuvių kalba raštijos tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.'
   pagrindžia:
-    - c-012
+    - c-005
+
+- t-005
+  teiginys: 'Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.'
+  pagrindžia:
+    - c-006
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
-    se, kūrė valdovo raštinę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1418 m. Vytautas į Konstancą siuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vy-
-    tautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į
-    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
-    grįsti siekį gyventi unijoje su Katalikų bažnyčia.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'LDK stačiatikių vienuolynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pradėjo formuotis rašto tradicija, kuri skyrėsi nuo minėtos bažnytinės kalbos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK stačiatikių vienuo-
-    lynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pra-
-    dėjo formuotis rašto tradicija, kuri skyrėsi nuo minėtos bažnytinės kalbos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'LDK buvo šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
-    pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
-    Naugarduke bei Vilniuje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-006
   santrauka: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -190,55 +70,17 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     tikybės plitimą ir jos vietoje į rytus plito katalikų tikėjimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Focijus skaitė save tikruoju Kijevo metropolitu, o Cemblaką — uzurpatorium. Lietuvos stačiatikiams Focijus bu­ vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­ tremti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    ```
-    Pakenkė Vytauto sumanymui ir tai, kad Cemblakas buvo
-    du kartus iškeiktas Konstantinopolio patriarchų ir vieną kartą
-    Eocijaus. Focijus skaitė save tikruoju Kijevo metropolitu, o
-    Cemblaką — uzurpatorium. Lietuvos stačiatikiams Focijus bu­
-    vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo
-    Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­
-    tremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą
-    Maskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­
-    čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
-    Cemblaką, o kiti — Focijų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę ir buvo atleisti nuo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai kurie stačiatikiai, ypač jų di­
-    duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija
-    nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
-    tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
-    ir buvo atleisti nuo daugelio pareigų valstybei.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Antra vertus,
+    Pagal liberum veto
+    teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami
+    vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis
+    santvarkomis ir trukdė stiprinti bei centralizuoti valstybę. Antra vertus,
     tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
     visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
     joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
@@ -254,13 +96,27 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
+    - t-002
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus „rusėnų pusėje“ jau Gedimino laikais
+    stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos
+    kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas
+    toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo, interesams.
+    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
+    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1387 m.
@@ -275,31 +131,11 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     mo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilniaus „rusėnų pusėje“ jau Gedimino laikais
-    stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos
-    kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas
-    toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo, interesams.
-    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
-    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
-    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'Lietuvių kalba raštijos tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.'
+    - t-003
+
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių kalba raštijos
@@ -310,17 +146,28 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     Aiškiai ją skyrė amžininkai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-004
+
+- c-006
+  santrauka: 'Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl 1413 m. Vy-
+    tautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į
+    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
+    grįsti siekį gyventi unijoje su Katalikų bažnyčia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
@@ -345,6 +192,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/asmenys/Bazilijus Ciapinskis]]
 - [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/ivykiai/Brastos bažnytinė unija|Brastos bažnytinė unija (unija)]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/asmenys/Ciprijonas]]
 - [[objektai/asmenys/Daumantas]]
@@ -358,11 +206,13 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
 - [[objektai/asmenys/Gregorijus Cemblakas]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/zodynas/Kanceliarinė rašto kalba]]
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]
@@ -370,6 +220,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]
 - [[objektai/asmenys/Kiprijonas]]
 - [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
@@ -377,6 +228,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/asmenys/Leonas Mamoničius]]
 - [[objektai/posakiai/Lietuva tik iš vardo esanti katalikiška]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
 - [[objektai/grupes/Liuteronai]]
@@ -387,21 +239,25 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
 - [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
+- [[objektai/grupes/Saksų dinastija]]
 - [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/grupes/Sentikiai]]
 - [[objektai/asmenys/Sirputis (Traidenio brolis)]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/asmenys/Sofija]]
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Teodozijus]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]
+- [[objektai/ivykiai/Tvanas]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
+- [[objektai/grupes/Vazų dinastija]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]
 - [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]
@@ -421,6 +277,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
@@ -430,7 +287,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
-- [[objektai/ivykiai/Brastos bažnytinė unija|Brastos bažnytinė unija (unija)]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/asmenys/Liubartas]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]

@@ -1,30 +1,25 @@
 ---
 tipas: saltinis
 pavadinimas: 'A. Tautavičius, Papildomi duomenys apie naujų sidabro lydinių iš XIV a. II pusės - XV a. pradžios Lietuvos monetų radinių Lietuvos TSR terit'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1301 m.'
+  - '1400 m.'
   - '1955 m.'
   - '1960 m.'
   - '1965 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-date_start: '1955'
+date_start: '1301'
 date_end: '1965'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - saltinis
   - tauta
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # A. Tautavičius, Papildomi duomenys apie naujų sidabro lydinių iš XIV a. II pusės - XV a. pradžios Lietuvos monetų radinių Lietuvos TSR terit
 
@@ -33,18 +28,15 @@ tags:
 Tautavičius, A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Tautavičiaus straipsnis apie XIV a. II pusės–XV a. pradžios sidabro lydinius paskelbtas 1965 m. AkMD 18 tome, p. 67–84.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'A. Tautavičiaus straipsnis apie XIV a. II pusės–XV a. pradžios sidabro lydinius paskelbtas 1965 m. AkMD 18 tome, p. 67–84.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     : _Vytauto Didžiojo nuopelnai dvasinės kultūros srityje,_
@@ -59,10 +51,8 @@ Tautavičius, A.
     124 p. — Urbanavičius, V. : _XIV-XVII amžių monetos Lietuvos kapi­
     nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
     amžiais_ , Vilnius 1970.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

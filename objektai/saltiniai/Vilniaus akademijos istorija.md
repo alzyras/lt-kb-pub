@@ -24,19 +24,19 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Balinskio darbas - 1862 m. išleista Vilniaus akademijos istorija.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­ rašymui.'
+  teiginys: 'Balinskio darbas - 1862 m. išleista Vilniaus akademijos istorija.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­ rašymui.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Veikale chronologiškai Vilniaus miesto raida
@@ -49,9 +49,9 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
@@ -65,4 +65,4 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

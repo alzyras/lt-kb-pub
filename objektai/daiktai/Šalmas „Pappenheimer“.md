@@ -39,19 +39,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį naudojo raitarai, o tam tikrais atvejais ir ATR husarų vėliavų eiliniai.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Šalmas „Pappenheimer“ (pavadinmas kilęs nuo garsaus karvedžio pavardės) - tai vakarietiška iš rytų perimto šyšako (vok.'
+  teiginys: 'Buvo kavalerijai skirtas šalmas, kurį ilgą laikotarpį naudojo raitarai, o tam tikrais atvejais ir ATR husarų vėliavų eiliniai.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Šalmas „Pappenheimer“ (pavadinmas kilęs nuo garsaus karvedžio pavardės) - tai vakarietiška iš rytų perimto šyšako (vok.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šalmas
@@ -74,9 +74,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ® Švedų pajėgos bėga iš mūšio lauko.
@@ -97,7 +97,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

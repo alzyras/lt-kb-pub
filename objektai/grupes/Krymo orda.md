@@ -28,26 +28,26 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
 - t-001
   teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
   pagrindžia:
-    - c-001
+    - c-003
 
-- t-004
+- t-002
   teiginys: 'Gausūs Krymo ordos ka­ rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje užkirto šiems azijiečiams kelią į artimiausias šios valsty­ bės vaivadijų sostines47.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-003
   teiginys: 'Tačiau neilga buvo karaliaus vieš­ nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui piešdami ir degindami, prie Lydos prisiartino Krymo cha­ no sūnūs su 20 000 totorių.'
   pagrindžia:
-    - c-003
+    - c-001
 
-- t-002
+- t-004
   teiginys: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
   pagrindžia:
-    - c-002
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miechovita, Bielskis, o ypač
@@ -78,7 +78,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   pagrindžia:
     - t-003
 
-- c-004
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad paskubomis susirinko 10 000 bajorų,
@@ -93,9 +93,9 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
@@ -110,7 +110,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   pagrindžia:
     - t-001
 
-- c-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad tais metais bu­
@@ -132,7 +132,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

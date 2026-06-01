@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Lebedys'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1957 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1957'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # J. Lebedys
 
@@ -27,16 +23,15 @@ tags:
 Lebedžio, Vilnius 1957, 31-35 p.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1 d., Kaunas 1934, 48-81 p.;
@@ -53,10 +48,8 @@ Lebedžio, Vilnius 1957, 31-35 p.
     (^9) **M. Baryczowa : Augustyn Rotundus Mieleski, wójt wileński, pierwszy
     historyk i apologeta, AW, X, 1935, 71-96 p.; XI, 1936, 117-172 p.**
     (^10) **Z. Ivinskis, LE, t. 26, 16 p.**
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -20,7 +20,7 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 ## Teiginiai
 
 - t-001
-  teiginys: 'Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA 1) Gediminas, dievo malone lietuvių ir rusų karalius, Žemgalijos valdovas ir kunigaikštis, mokytiems ir pamal­ diems vyrams, bet kurios dominikonų provincijos magist­ rams ir.'
+  teiginys: 'Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.'
   pagrindžia:
     - c-001
 
@@ -32,6 +32,7 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  Malignantes contra boc scriptum et
@@ -94,5 +95,5 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Dominikonų ordinas]]

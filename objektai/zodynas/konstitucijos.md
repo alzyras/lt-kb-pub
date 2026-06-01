@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'konstitucijos'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - seimas
@@ -27,54 +17,25 @@ tags:
 konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui. konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-002
+
 - t-002
   teiginys: 'konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+    - c-003
+
 - t-003
   teiginys: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi seimo nutarimai, vadinęsi konstituci-
-    jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
-    dinami ir pranešami visam kraštui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu-
-    rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo _limita._
-    Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
@@ -82,11 +43,33 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
     dinami ir pranešami visam kraštui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
+    jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
+    dinami ir pranešami visam kraštui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu-
+    rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo _limita._
+    Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -94,6 +77,7 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]
@@ -111,9 +95,11 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]
 - [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
+- [[objektai/ivykiai/M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
 - [[objektai/ivykiai/Pirmosios Užsienio reikalų ministerijos pradžia|Pirmosios Užsienio reikalų ministerijos pradžia (institucija)]]
@@ -123,17 +109,17 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/autoriai/Tadas Korsakas]]
+- [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/ivykiai/Targovicos konfederacijos akto paskelbimas]]
 - [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/suverenitetas suverenumas]]
 - [[objektai/zodynas/suverenumas suverenitetas]]
+- [[objektai/zodynas/tribunolas]]
 - [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]
 - [[objektai/posakiai/„Šlovinga Lenkijos ir Lietuvos Konstitucija“ „būsimos didybės viltį“]]
 - [[objektai/asmenys/A. Smetona]]
-- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]

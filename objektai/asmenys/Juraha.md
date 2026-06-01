@@ -26,13 +26,14 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 ## Teiginiai
 
 - t-001
-  teiginys: 'Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco, 187 ## Puslapis 204 VILNIAUS MIESTO ISTORIJA I TOMAS Valerijono bursai perleido, nuo kurios studentų dėlei kas­ met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam.'
+  teiginys: 'Akademijos rektorius Juraha 1756 m. Valerijono mūrinį namą priskyrė prie kolegijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Akademijos rektorius Juraha 1756 m. Valerijono mūrinį namą priskyrė prie kolegijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Akademijos Rektorius t. Paulius Bochenas, neturė­
@@ -70,7 +71,6 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
 - [[objektai/zodynas/bursa]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/kahalas]]
 - [[objektai/zodynas/viderkaftas]]

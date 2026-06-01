@@ -1,24 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Survila'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1365 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1365'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Survila
 
@@ -27,24 +24,25 @@ tags:
 Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu, kuris vėliau dažnai da­ lyvaudavo vokiečių derybose vertėju, su savo draugu Survila 1365 metų liepos mėn.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: '1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Patirgas, vyriausias Kęstučio sūnus, 1348—65 metų laiko­
@@ -54,18 +52,17 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     lyvaudavo vokiečių derybose vertėju, su savo draugu Survila
     1365 metų liepos mėn. 25 d. išbėgo Karaliaučiun ir apsikrikštijo
     Henriko vardu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: '1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Pirmą kartą 1365 m., kai di­
+    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
     dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
     sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
     sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
@@ -75,16 +72,16 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     Maišiagalos, priartėjo prie Vilniaus pilių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    Ir todėl, nepaisant viso Algirdo veiklumo, Lietuvos sos­
+    tinė keletą kartų, jam gyvam esant, buvo žiauriai nunioko­
+    ta. Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
     miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
     dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
     sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
@@ -93,11 +90,9 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     tuvą21.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

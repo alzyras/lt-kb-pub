@@ -18,12 +18,12 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad naudžiotas atskleidė visas šios atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai, ypač valstiečiai, susimokė išžudyti visus savo kilminguosius ir netrukus užpuolė brolius bei tikinčiuosius, išsirinkę karvedžiu vieną jaunikaitį, vardu Naudžiotas.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'S. Zaskevičius'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -25,28 +16,39 @@ tags:
 Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Karin. S. Zaskevičius, tuometinis krašto apsaugos viceministras, ėmėsi vadovauti operacijai pavojui neutralizuoti.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+    - c-003
+
+- t-002
   teiginys: 'Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi.'
   pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-001
+
+- t-003
+  teiginys: 'Karin. S. Zaskevičius, tuometinis krašto apsaugos viceministras, ėmėsi vadovauti operacijai pavojui neutralizuoti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karin. S. Zaskevičius, tuometinis krašto apsaugos viceministras, ėmėsi vadovauti operacijai pavojui neutralizuoti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po nepavy-
+    kusio vasario
+    10 d. Jiezno puolimo karin. S. Zaskevičius
+    su likusia rinktinės dalimi traukėsi
+    Tverų kryptimi. Vakare pasiekusi netoli
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     bus ruožas buvo silpnai pridengtas.
@@ -58,15 +60,13 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     pats tuometinis krašto
     apsaugos viceministras
     karin. S. Zaskevičius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.'
+    - t-003
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmasis Jiezno puolimas pirmajai grupei vadovavęs išdavikas rusų
@@ -79,29 +79,11 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     rintos kuopos dydžio S. Zas-
     kevičiaus vadovaujama rinktinė
     artėjo prie Jiezno.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po nepavy-
-    kusio vasario
-    10 d. Jiezno puolimo karin. S. Zaskevičius
-    su likusia rinktinės dalimi traukėsi
-    Tverų kryptimi. Vakare pasiekusi netoli
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

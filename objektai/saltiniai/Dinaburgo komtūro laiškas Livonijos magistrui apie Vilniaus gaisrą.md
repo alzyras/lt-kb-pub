@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1399 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1399'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - pilis
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą
 
@@ -30,28 +24,29 @@ tags:
 136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas. Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas). Totorių didysis chanas atsiuntė jam labai bičiulišką laišką ir kartu didžiulį žvė­ rį, kurį vadina dromedaru.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
-  pagrindžia:
-    - c-001
-- t-002
   teiginys: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Totorių didysis chanas atsiuntė jam labai bičiulišką laišką ir kartu didžiulį žvė­ rį, kurį vadina dromedaru.'
-  pagrindžia:
-    - c-003
-- t-004
+
+- t-002
   teiginys: 'Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­ jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­ tolių už 60 000 sidabro luitų.'
   pagrindžia:
-    - c-004
+    - c-003
+
+- t-003
+  teiginys: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    136, N533
+    Livoniae)
+    TI, p. 136, N533
     Dinaburgo komtūro pranešimas Livonijos magistrui apie
     Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
     nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
@@ -59,13 +54,11 @@ tags:
     riausiai 1399).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos
@@ -99,29 +92,11 @@ tags:
     plieskė ugnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Totorių didysis chanas atsiuntė jam labai bičiulišką laišką ir kartu didžiulį žvė­ rį, kurį vadina dromedaru.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    . Dar iš to paties
-    pasiuntinio turiu, jog (de Vörste) Vytautas su totorių chanu už­
-    mezgė draugiškus ryšius ir sutarė dėl taikos. Totorių didysis
-    chanas atsiuntė jam labai bičiulišką laišką ir kartu didžiulį žvė­
-    rį, kurį vadina dromedaru.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­ jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­ tolių už 60 000 sidabro luitų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gertrūdą.
@@ -131,11 +106,10 @@ tags:
     Dinaburgo komtūras
     (parašas)
     Originalą atitinka:
-    Dr.
+    Dr. Hennigas
+    Karai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002

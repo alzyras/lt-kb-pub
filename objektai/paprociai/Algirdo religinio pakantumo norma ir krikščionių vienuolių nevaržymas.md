@@ -42,16 +42,16 @@ Nenurodyta
 - t-001
   teiginys: 'Algirdas viešai nubaudė to žiauraus poelgio vadei­ vas ir liepė paskelbti visame krašte valią nevaržomiems gyventi visiems krikščionių vienuoliams ir laisvę išpažinti savo tikėjimą.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'To­ leravo Algirdas krikščionybę ir tik­ riausiai išmanė pravarčius jos padarinius esant; tačiau dar nebuvo atėjęs laikas Perkūno garbinimą už­ ginti, todėl pagonių šventyklos ne­ galėjo būti pakeistos krikščionių bažnyčiomis.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Petro bažnyčią klystama
@@ -76,7 +76,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus pranciškonų vienuo-

@@ -28,34 +28,34 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: 'Dusburgietis teigia, kad 421 D.— territorium dictum Algent, Jer.— gebit Algemin; Pamedės valsčius Aliamas (Alyem— 1250 m.) prie Nogato ir to pat valsčiaus centras; manoma, vėliau bei dabar — Štumas (PUB, 1, Nr. 233; GAO, p. 8; Łowmiański H., Studja.., 2, p. 25). Aliamo valsčiaus.'
   pagrindžia:
     - c-005
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami, jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius, subėgusius į kaimą, kitados vadinamą Kalija, o dabar —.'
   pagrindžia:
     - c-004
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad foigtas83.'
-  pagrindžia:
-    - c-001
-
 - t-003
-  teiginys: 'Dusburgietis teigia, kad d. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje ir kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto vieta (CDP, 2, Nr..'
-  pagrindžia:
-    - c-003
-
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 83 Voigt J. Geschichte Preussens, B. 3, S. 603—626.'
+  teiginys: 'Dusburgietis teigia, kad foigtas83.'
   pagrindžia:
     - c-002
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad d. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje ir kitur. Vėlesnė Romehnen Semboje (jos vak. dalyje, netoli Girmavos) XIV a. 1-os pusės dokumentuose vadinama Rommowe, Romaynis; ten buvęs šventas laukas, miškas-kulto vieta (CDP, 2, Nr..'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad 83 Voigt J. Geschichte Preussens, B. 3, S. 603—626.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. Romovės resp. Romuvos nuo XVI a. ieškota Varmėje, Notangoje, Semboje  ir
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
@@ -79,9 +79,9 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     83 Voigt J. Geschichte Preussens, B. 3, S. 603—626.
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -118,7 +118,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,23 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'Maironis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'M'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1944 m.'
+  - '1951 m.'
+date_start: '1944'
+date_end: '1951'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Maironis
 
@@ -26,92 +25,70 @@ tags:
 Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakštas, Tumas ir kt. Kauno kunigų seminariją galutinai sulietuvino jos rektorius poetas pralotas Mačiulis Maironis.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakštas, Tumas ir kt.'
+  teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-002
-  teiginys: 'Kauno kunigų seminariją galutinai sulietuvino jos rektorius poetas pralotas Mačiulis Maironis.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties.'
   pagrindžia:
-    - c-003
+    - c-001
+
+- t-003
+  teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
+  pagrindžia:
+    - c-002
+
 - t-004
   teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
   pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
-  pagrindžia:
-    - c-006
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakštas, Tumas ir kt.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vėliau čia mokėsi visa eilė didžių veikėjų,
-    kaip antai: Maironis, Jakštas, Tumas ir kt. Iš pradžių tautiškas
-    judėjimas seminarijoje buvo neorganizuotas, bet veikiai klieri-
-    kai pradėjo burtis į slaptas kuopeles, laikė slaptų lietuviškų kny-
-    gynėlių, išsirašinėjo laikraščių ir patys juose bendradarbiavo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kauno kunigų seminariją galutinai sulietuvino jos rektorius poetas pralotas Mačiulis Maironis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kauno kunigų seminariją galutinai sulietu-
-    vino jos rektorius poetas pralotas Mačiulis Maironis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Panašiai į ją žiūrėta ir vadovėlinio
-    tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun.
-    Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos
-    žygiams iki Vytauto Didžiojo mirties.
-
-
-    ```
-    PRATARMĖ^5
-    ```
-    1569 metais Liubline « abiejų tautų » galutinai nustatyti tarpu­
-    saviai valstybiniai santykiai, lygiai kaip ir įkandin prasidedąs
-    periodas bendrų renkamųjų valdovų, kurių kiekvienas tapdavo ir
-    didžiuoju Lietuvos kunigaikščiu, nepaliko be neigiamų pasėkų
-    atskiros Lietuvos valstybinės sąmonės lauke.
+    Kultūros suvienodinimas
+    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
+    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
+    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
+    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
+    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
+    Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
+    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
+    gos, tautinio pobūdžio literatūra.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietu-
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
+    kabinėta komunistinių šūkių. Padėtis kultūroje ėmė švelnėti tik šeštojo
+    dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
+    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
+    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
+    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
+    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
+    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
+    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
@@ -129,16 +106,14 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Botyriaus nuotrauka
+    J. Botyriaus nuotrauka
 
     L I E T U V O S  I S T O R I J A
     220
@@ -155,29 +130,9 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
     leidinių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
-    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
-    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
-    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
-    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
-    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

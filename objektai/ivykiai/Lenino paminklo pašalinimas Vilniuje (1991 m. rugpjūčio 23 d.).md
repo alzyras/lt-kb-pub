@@ -1,17 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1991 m.'
+date_start: '1991'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - ivykis
   - kraštas
+amziai:
+  - 'XX'
 ---
 # Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)
 
@@ -20,41 +23,45 @@ tags:
 Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus Vakarų diplomatų epitetą „Baltic.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniuje buvo pašalintas Lenino paminklas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniuje buvo pašalintas Lenino paminklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pakviesti
+    Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę
+    tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo. Jauni įvai-
+    rių sričių specialistai paplūdo į atkurtą Lietuvos Respublikos užsienio rei-
+    kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti
     į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug
     ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio
     entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

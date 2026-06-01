@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Nemuno žiotys'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - vieta
@@ -19,16 +16,15 @@ tags:
 Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
@@ -37,10 +33,8 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
     kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
     gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
     kybą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

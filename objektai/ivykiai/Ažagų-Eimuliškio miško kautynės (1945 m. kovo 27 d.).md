@@ -1,37 +1,18 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Ažagų-Eimuliškio kautynės'
-  - 'Ažagų-Eimuliškio miško mūšis'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1945 m. kovo 27 d.; kovo pradžia kaip priešistorė'
-vaidmenys: []
-dalyviai:
-  - 'Pušaloto'
-  - 'Pasvalio ir Žaliosios girios partizanai'
-  - 'Žaliosios rinktinės Aušros būrys'
-  - 'Ignas Gasčiūnas-Artojas'
-  - 'NKVD divizija'
-  - 'J. Juška'
-susije_irasai: []
 datos:
   - '1945 m.'
-periodas: 'siuolaikine_istorija'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1945'
 date_end: ''
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
+amziai:
+  - 'XX'
 ---
 # Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)
 
@@ -40,88 +21,56 @@ tags:
 NKVD divizija puolė partizanus Panevėžio apskrityje, partizanai pasitraukė į Ažagų-Eimuliškio miškus, o mūšis prasidėjo kovo 27 d. ryte. 1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus Puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų trauktis kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Į kautynes įsitraukė Žaliosios rinktinės Aušros būrys, o partizanai dienos pabaigoje prasiveržė Pakruojo link.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-009
+
+- t-001
   teiginys: 'Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
   pagrindžia:
     - c-005
-- t-010
+
+- t-002
+  teiginys: 'Į kautynes įsitraukė Žaliosios rinktinės Aušros būrys, o partizanai dienos pabaigoje prasiveržė Pakruojo link.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
+  pagrindžia:
+    - c-002
+
+- t-006
   teiginys: 'Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus.'
   pagrindžia:
     - c-006
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mūšis
-    1945 m. kovo pradžioje NKVD divizija puolė
-    Pušaloto, Pasvalio, Žaliosios girios parti-
-    zanus Panevėžio apskrityje. Persekiojami
-    partizanai pasitraukė į Ažagų-Eimuliškio
-    miškus. Puolimas pradėtas iš vakarų į rytus,
-    siekiant atkirsti kelius partizanams trauktis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Persekiojami
-    partizanai pasitraukė į Ažagų-Eimuliškio
-    miškus. Puolimas pradėtas iš vakarų į rytus,
-    siekiant atkirsti kelius partizanams trauktis.
-    Kovo 27 d. mūšis prasidėjo 7 val. ryto.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Į kautynes įsitraukė Žaliosios rinktinės Aušros būrys, o partizanai dienos pabaigoje prasiveržė Pakruojo link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmiausia buvo pulta viena vietinių vyrų,
@@ -134,15 +83,27 @@ Nenurodyta
     vyko atkaklios kautynės. Dienos pabaigoje,
     pasinaudoję tamsa dalis partizanų Jokubavo
     mišku sugebėjo prasiveržti Pakruojo link.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų.'
+    - t-002
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Persekiojami
+    partizanai pasitraukė į Ažagų-Eimuliškio
+    miškus. Puolimas pradėtas iš vakarų į rytus,
+    siekiant atkirsti kelius partizanams trauktis.
+    Kovo 27 d. mūšis prasidėjo 7 val. ryto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai vienoje, tai kitoje miško vietoje
@@ -154,18 +115,32 @@ Nenurodyta
     tus 120-121, paimta į nelaisvę 18-19, iš kurių
     5 sužeisti; tačiau tokio skaičiaus nepatvir-
     tina paimti ginklai).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
-- c-005
-  santrauka: 'Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
+    - t-004
+
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    “
+    Mūšis
+    1945 m. kovo pradžioje NKVD divizija puolė
+    Pušaloto, Pasvalio, Žaliosios girios parti-
+    zanus Panevėžio apskrityje. Persekiojami
+    partizanai pasitraukė į Ažagų-Eimuliškio
+    miškus. Puolimas pradėtas iš vakarų į rytus,
+    siekiant atkirsti kelius partizanams trauktis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūsiškius paliko miške.“
 
     Mūšis
     1945 m. kovo pradžioje NKVD divizija puolė
@@ -175,13 +150,11 @@ Nenurodyta
     miškus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-001
+
 - c-006
-  santrauka: 'Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dienos pabaigoje,
@@ -199,11 +172,9 @@ Nenurodyta
     ūkininkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-010
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,28 +1,10 @@
 ---
-tipas: 'zodyno_irasas'
-pavadinimas: senieji mėnesių vardai ir devintinės
-sukurta: '2026-04-30'
-variantai:
-  - siekis
-  - sausis
-  - kovas
-  - karvelis
-  - balandis
-  - gegužė
-  - kirmėšų
-  - birželis
-  - liepos mėnuo
-  - rugpjūtis
-  - rugsėjis
-  - šilo mėnuo
-  - spalių mėnuo
-  - lapkristis
-  - gruodis
-  - devintines
+tipas: zodyno_irasas
+pavadinimas: 'senieji mėnesių vardai ir devintinės'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-patikimumas: aukštas
-atnaujinta: '2026-04-30'
+  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
+sukurta: ''
+atnaujinta: ''
 ---
 # senieji mėnesių vardai ir devintinės
 
@@ -35,45 +17,40 @@ Senasis metų skirstymas į 13 mėnesių ir mėnesio dalis. Autorius vardija sen
 Pagrindinė forma: `senieji mėnesių vardai ir devintinės`.
 Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `gegužė`, `kirmėšų`, `birželis`, `liepos mėnuo`, `rugpjūtis`, `rugsėjis`, `šilo mėnuo`, `spalių mėnuo`, `lapkristis`, `gruodis`, `devintines`.
 
-## Teiginiai
-- t-004
-  teiginys: 'Senieji metai buvo dalijami į trylika mėnesių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintines.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Senieji metai buvo dalijami į trylika mėnesių.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-    - t-005
-    - t-006
-
 ## Pastabos
 
 - Atskirų mėnesių vardų etimologija tekste neaiškinama, bet jų vartosena ir vieta kalendorinėje sistemoje aiški.
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Senieji metai buvo dalijami į trylika mėnesių.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintines.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -93,7 +70,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]
 - [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
 - [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
-- [[objektai/ivykiai/1991 m. rugpjūčio Maskvos pučas]]
 - [[objektai/ivykiai/1991 m. sausio 13 d]]
 - [[objektai/grupes/2-asis šaulių pulko batalionas]]
 - [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]]
@@ -117,7 +93,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/ivykiai/Akono miesto sugriovimas (1290 m. gegužės 19 d.)]]
 - [[objektai/asmenys/Albrechtas (Prūsijos hercogas)]]
 - [[objektai/asmenys/Alchimas]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Aleksandras Lukašenka]]
 - [[objektai/asmenys/Aleksandras Stulginskis]]
@@ -352,13 +327,13 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Kazimieras Motieka]]
 - [[objektai/asmenys/Kazimieras Nestoras Sapiega]]
+- [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/asmenys/Kazys Ladyga]]
 - [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka]]
 - [[objektai/zodynas/Kerzono linija]]
 - [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
-- [[objektai/asmenys/Kiprijonas (Metonės vyskupas, Vilniaus sufraganas)]]
 - [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/ivykiai/Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)]]
@@ -442,7 +417,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/daiktai/Lietuvos auksas]]
 - [[objektai/grupes/Lietuvos bajorija]]
@@ -457,7 +431,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/ivykiai/Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)]]
 - [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
 - [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]
 - [[objektai/grupes/Lietuvos karo aviacija]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
@@ -525,6 +498,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/asmenys/Matijas Ercbergeris]]
 - [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
 - [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
+- [[objektai/asmenys/Mengli-Girėjus]]
 - [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
 - [[objektai/grupes/Merkinės batalionas]]
 - [[objektai/grupes/Merkio rinktinė]]
@@ -616,6 +590,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/ivykiai/Pirmosios Užsienio reikalų ministerijos pradžia|Pirmosios Užsienio reikalų ministerijos pradžia (institucija)]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis PPS-43]]
 - [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
+- [[objektai/asmenys/Polis Himansas]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/asmenys/Pranas Morkus]]
@@ -624,8 +599,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
 - [[objektai/daiktai/Prūsijos hercogo Albrechto herbas]]
-- [[objektai/zodynas/Puslapis 67]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/autoriai/R. Jasas]]
 - [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]
 - [[objektai/grupes/Raudonoji armija]]
@@ -642,6 +615,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/asmenys/Romas Kalanta]]
 - [[objektai/asmenys/Romas Ubartas]]
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
+- [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]
 - [[objektai/ivykiai/Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.)]]
 - [[objektai/autoriai/Romualdas Naruniec]]
 - [[objektai/autoriai/Ročka M]]
@@ -694,6 +668,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/asmenys/Stasys Lozoraitis]]
 - [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/autoriai/Stasys Šilingas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo reikalavimas įjungti Klaipėdos teritoriją į Lietuvą (1921 m. lapkričio 11 d.)]]
@@ -854,7 +829,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/zodynas/civilinė metrikacija]]
 - [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
 - [[objektai/zodynas/de facto]]
-- [[objektai/zodynas/demarkacijos linija]]
 - [[objektai/zodynas/demobilizacija]]
 - [[objektai/zodynas/deportacijos trėmimai]]
 - [[objektai/zodynas/didysis komtūras arkikomtūras]]
@@ -951,6 +925,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]
 - [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]
 - [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]
+- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
 - [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
@@ -992,6 +967,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/posakiai/„suverenitetų parado“]]
 - [[objektai/posakiai/„valdomos demokratijos“]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]
+- [[objektai/posakiai/„Šalin rankas nuo Lietuvos“ „Gorbačiovai, atsistatydink!“]]
 - [[objektai/posakiai/„Šlovinga Lenkijos ir Lietuvos Konstitucija“ „būsimos didybės viltį“]]
 - [[objektai/asmenys/B. Žarskis]]
 - [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
@@ -1001,7 +977,7 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/autoriai/Filotiejus]]
 - [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
 - [[objektai/asmenys/Jonas (Baigos vicekomtūras)]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
+- [[objektai/asmenys/Jurgis Radvila]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/grupes/Lietuvių nacionalistų partija]]
@@ -1009,11 +985,11 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
 - [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
 - [[objektai/ivykiai/Melno taikos ratifikavimas Veliuonoje (1423 m. gegužė)]]
-- [[objektai/asmenys/Mengli-Girėjus]]
 - [[objektai/asmenys/Nijolė Sadūnaitė]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/grupes/Parusėnai]]
 - [[objektai/asmenys/Petras Cidzikas]]
+- [[objektai/asmenys/Povilas Giedraitis]]
 - [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]

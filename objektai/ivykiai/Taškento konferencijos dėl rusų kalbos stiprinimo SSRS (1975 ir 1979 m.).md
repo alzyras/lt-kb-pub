@@ -1,15 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1979 m.'
+date_start: '1979'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.)
 
@@ -18,31 +21,38 @@ tags:
 1975 ir 1979 m. Taškento konferencijų dalyviai sutarė dėl rusų kalbos stiprinimo SSRS – įvairaus lygio mokymo įstaigose papildomai dėstyti rusų kalbą, didinti rusų kalbos fakultatyvų valandų skaičių, sustiprinti aukštųjų mokyklų rusų kalbos katedrų kadrų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taškento konferencijų dalyviai sutarė dėl
+    Vadovėliai, išskyrus lietuvių kalbos ir literatūros bei Lietuvos istorijos
+    (jai buvo skirta mažai dėmesio, praeities įvykiai klastojami ir interpretuoja-
+    mi pagal klasių kovos principą į pirmą vietą iškeliant visada pozityvų SSRS
+    ir ypač SSKP vaidmenį), versti iš rusų kalbos, o rusų kalbai skirtas ypa-
+    tingas dėmesys. 1975 ir 1979 m. Taškento konferencijų dalyviai sutarė dėl
     rusų kalbos stiprinimo SSRS – įvairaus lygio mokymo įstaigose papildomai
     dėstyti rusų kalbą, didinti rusų kalbos fakultatyvų valandų skaičių, susti-
     printi aukštųjų mokyklų rusų kalbos katedrų kadrų kvalifikaciją, organi-
@@ -51,11 +61,9 @@ Nenurodyta
     bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
     komunikaciją tarp šalies gyventojų, bet ir turėjo slaptą kultūrinės ekspansi-
     jos aspektą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

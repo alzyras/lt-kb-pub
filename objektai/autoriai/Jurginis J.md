@@ -19,39 +19,39 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 
 ## Teiginiai
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad tai atsispindi ir paprotinėje teisėje: už moters užmušimą ar sužeidimą baudžiama dvigubai didesnėmis baudomis negu už vyro (Jurginis J., Lietuvių šeima..., p. 249—255; to paties, Baudžiavos..., p. 96—98; Лукшайтe И.'
-  pagrindžia:
-    - c-006
-
-- t-003
-  teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
-  pagrindžia:
-    - c-003
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad 106—108, 295—297; Pašuta V., Lietuvos..., p. 106—108, 149—165; Jurginis J., Baudžiavos..., p. 106—128; to paties, Lietuvos valstiečių istorija, p. 16).'
-  pagrindžia:
-    - c-005
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J.'
+  teiginys: 'Dusburgietis teigia, kad tai atsispindi ir paprotinėje teisėje: už moters užmušimą ar sužeidimą baudžiama dvigubai didesnėmis baudomis negu už vyro (Jurginis J., Lietuvių šeima..., p. 249—255; to paties, Baudžiavos..., p. 96—98; Лукшайтe И.'
   pagrindžia:
     - c-001
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 148 Jurginis J.'
-  pagrindžia:
-    - c-002
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis J., Pagonybės..., p. 107).'
+  teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 106—108, 295—297; Pašuta V., Lietuvos..., p. 106—108, 149—165; Jurginis J., Baudžiavos..., p. 106—128; to paties, Lietuvos valstiečių istorija, p. 16).'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad 148 Jurginis J.'
+  pagrindžia:
+    - c-006
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis J., Pagonybės..., p. 107).'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
@@ -68,9 +68,9 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     momentus, pabrėžė šio šaltinio svarbą atskleidžiant prūsų
@@ -83,9 +83,9 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas (Jurginis
@@ -94,9 +94,9 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
@@ -109,7 +109,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -124,9 +124,9 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-002
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     148 Jurginis J. Istorija ir kultūra, p. 17; plg. Stakauskas J. Lietuva..., p. 40.
@@ -134,7 +134,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,26 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos TSR Akademija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1935 m.'
   - '1938 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1935'
 date_end: '1938'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos TSR Akademija
 
@@ -29,16 +23,15 @@ tags:
 Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo 1935) universitete tebuvo neetatiniu lektoriumi Lietuvos teisės istorijai, Kauno apygardos teisėju ir Valstybės Tarybos nariu (nuo 1938), tarybiniais metais šalia universitetinio.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antrasis to rinkinio tomas liko rankraštyje.
@@ -52,11 +45,9 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
     jaunos kartos istorikų auklėtoju Vilniaus universitete, bet dar
 
     (^84) **Z. Ivinskis :** **_Prel.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

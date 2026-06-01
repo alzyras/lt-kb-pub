@@ -1,26 +1,16 @@
 ---
 tipas: paprotys
 pavadinimas: 'Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika'
-aliases:
-  - 'Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: '1991 m.'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1991 m.'
+date_start: '1991'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XX'
 ---
 # Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)
 
@@ -32,6 +22,7 @@ Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: socialinė praktika
 
 ## Atlikimas
@@ -44,43 +35,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: 'Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
+    - c-001
+
+- t-002
   teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rengiantis gynybai AT rūsyje įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rengiantis gynybai AT rūsyje buvo įreng-
-    tos ginklų remonto ir šovinių, sprogmenų
-    gamybos dirbtuvės bei šaudykla. Ginklai
-    ir sprogmenys - gyventojų sunešti, gauti
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Benziną padegamiesiems mišiniams, maistą ir statybines medžiagas gynybai tiekė gyventojai, maitinimo įmonės ir statybinės organizacijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Benzinas padegamiesiems
@@ -89,15 +62,26 @@ Nenurodyta
     ir maitinimo įmonės. Statybines medžiagas
     įtvirtinimų statybai tiekė įvairios statybinės
     organizacijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rengiantis gynybai AT rūsyje buvo įreng-
+    tos ginklų remonto ir šovinių, sprogmenų
+    gamybos dirbtuvės bei šaudykla. Ginklai
+    ir sprogmenys - gyventojų sunešti, gauti
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-003
-  santrauka: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     deputatų pastangomis. Medicininę pagalbą
@@ -110,13 +94,11 @@ Nenurodyta
     prieigų, medikamentai ir tvarsliava gauti
     privačia medikų iniciatyva, o vėliau - pa-
     galba ir iš užsienio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

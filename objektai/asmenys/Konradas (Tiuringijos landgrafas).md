@@ -19,24 +19,24 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
   pagrindžia:
-    - c-002
+    - c-003
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas buvo susitepęs paleistuvystės nuodėme.'
   pagrindžia:
-    - c-004
+    - c-002
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   pagrindžia:
     - t-003
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
@@ -69,9 +69,9 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     33. Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
@@ -87,7 +87,7 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

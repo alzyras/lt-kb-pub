@@ -1,26 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Juodelių sodyba'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1949 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1949'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - mūšis
   - vieta
+amziai:
+  - 'XX'
 ---
 # Juodelių sodyba
 
@@ -29,16 +23,15 @@ tags:
 Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris prasiveržė per apsupimo žiedą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kautynių metu iš bunkerio pavyko išsiveržti
@@ -53,10 +46,8 @@ Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris pr
     Didžiausias laisvės kovotojų ir NKVD susi-
     rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
     mis, kai partizanų bunkeriai buvo išduoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

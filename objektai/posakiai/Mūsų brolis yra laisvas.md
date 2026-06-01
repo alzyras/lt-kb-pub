@@ -1,23 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Mūsų brolis yra laisvas'
-sukurta: '2026-04-24'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -34,29 +21,26 @@ tags:
 - Pagrindinė forma: Mūsų brolis yra laisvas
 
 ## Teiginiai
-- t-002
+
+- t-001
   teiginys: 'Jogaila atsakė, kad jo brolis yra laisvas, o Lietuvos kunigaikščiai ir bajorai laisvi bei lygūs Lenkijos ponams.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila atsakė, kad jo brolis yra laisvas, o Lietuvos kunigaikščiai ir bajorai laisvi bei lygūs Lenkijos ponams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
     vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
     broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
     laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

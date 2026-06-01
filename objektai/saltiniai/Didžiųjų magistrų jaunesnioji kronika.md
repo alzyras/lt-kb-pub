@@ -28,21 +28,21 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 - t-001
   teiginys: 'Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Preroch ir Corant (Lettouwen Preroch ende Corant — SRP, 5, p. 67) arba tris pasiuntinius, kurių vardai: Lettouwe, Preroch, Corant.'
   pagrindžia:
-    - c-001
+    - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).'
   pagrindžia:
     - c-003
 
-- t-002
+- t-003
   teiginys: 'Dusburgietis teigia, kad 412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100), kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     412 Naujoji didžiojo magistro kronika patikslina: tai pilis Cenauwe (SRP, 5, p. 100),
@@ -52,9 +52,9 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Didžiųjų
@@ -80,4 +80,4 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

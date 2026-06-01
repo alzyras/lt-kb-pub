@@ -18,13 +18,14 @@ Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## P
 ## Teiginiai
 
 - t-001
-  teiginys: 'Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## Puslapis 275 IV KNYGA Žygimantas Senasis, apdovanotas proto ir charakterio pri­ valumais ir tvirtai siekiantis įvesti tvarką.'
+  teiginys: 'Žygimantas Senasis, perėmęs Lietuvos valdymą, siekė įvesti tvarką ir nukreipė valdymo mechanizmą reikiama kryptimi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žygimantas Senasis, perėmęs Lietuvos valdymą, siekė įvesti tvarką ir nukreipė valdymo mechanizmą reikiama kryptimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet Lietuvos valdymą perėmė karalius

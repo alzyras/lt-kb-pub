@@ -45,24 +45,24 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Laikui bėgant tie atėjūnai uo­ liai ėmėsi prekybos ir, atverdami jai naujus kelius per Lietuvą, suomių ir slavų kraštus, nuo Skandinavijos net iki Graikijos, kurią vadindavo Grikalandu, regis, pirmą kartą visus tuos žmones išvedė iš girių ir liūnų.'
   pagrindžia:
     - c-003
 
-- t-001
-  teiginys: 'Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos.'
-  pagrindžia:
-    - c-001
-
 - t-002
-  teiginys: 'Atšiaurus klimatas, nenaši, uolėta žemė, pagaliau tvarkos stoka ir tar­ pusavio nesantaika atgrasaus barba­ riškumo laikais vertė skandinavus traukti į tas jūros keliones, o kartais į didesnes išvykas, į kitą Baltijos pu­ sę.'
+  teiginys: 'Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: 'Atšiaurus klimatas, nenaši, uolėta žemė, pagaliau tvarkos stoka ir tar­ pusavio nesantaika atgrasaus barba­ riškumo laikais vertė skandinavus traukti į tas jūros keliones, o kartais į didesnes išvykas, į kitą Baltijos pu­ sę.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atšiaurus klimatas, nenaši, uolėta
@@ -86,9 +86,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2
@@ -125,7 +125,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -142,7 +142,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

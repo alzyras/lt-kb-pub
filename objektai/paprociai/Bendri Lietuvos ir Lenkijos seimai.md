@@ -1,13 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Bendri Lietuvos ir Lenkijos seimai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - paprotys
@@ -36,70 +33,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai.'
+  teiginys: 'Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1451 m. į Parčavos seimą lietuviai sutiko vykti tik tada, kai Kazimieras atvyko nuo sienos jų palydėti.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-003
-  teiginys: 'Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.'
+  teiginys: 'Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-004
   teiginys: 'Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau.'
   pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Buvo sušaukta nemaža
-    bendrų seimų, tačiau jie, nieko neišsprendę, pasibaigdavo gana
-    triukšmingai, ir abi pusės, nepatenkintos Kazimieru, grasino jį
-    pašalinti. Savo seimuose lenkai išplūsdavo atvykstančius Lie-
-    tuvos delegatus, o kartą juos net sumušė. Lietuviai irgi atsi-
-    kirsdavo aštriais žodžiais ir demonstratyviai išvažiuodavo na-
-    mo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1451 m. į Parčavos seimą lietuviai sutiko vykti tik tada, kai Kazimieras atvyko nuo sienos jų palydėti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuviai irgi atsi-
-    kirsdavo aštriais žodžiais ir demonstratyviai išvažiuodavo na-
-    mo. Kartais lietuviams Lenkijoje būdavo pavojinga net pasi-
-    rodyti, ir į vieną seimą (Parčavoj) jie sutiko nuvažiuoti tik tada,
-    kai Kazimieras pats atvyko nuo pat sienos jų palydėti (1451 m.).
-    Tame pat seime dalis Lietuvos ponų, pasipiktinusių lenkais, grą-
-    žino jiems herbus, 1413 m. gautus iš lenkų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
@@ -112,15 +69,13 @@ Nenurodyta
     tų bendrą seimą, bendrai vienoje vietoje
     rinktąjį valdovą, bendrą apsaugą ir bendrus
     pinigus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau.'
+    - t-001
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Akte yra sakoma: Kad būtų viena tauta, viena visuomenė,
@@ -129,13 +84,43 @@ Nenurodyta
     bus visų į elekciją atvykusiųjų bendrai renkamas..." Bet kaip tu-
     rėjo būti atliekami tie bendrieji seimai ir bendroji elekcija, tuo tarpu
     nebuvo pasakyta; tai turėjo būti vėliau nustatyta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Buvo sušaukta nemaža
+    bendrų seimų, tačiau jie, nieko neišsprendę, pasibaigdavo gana
+    triukšmingai, ir abi pusės, nepatenkintos Kazimieru, grasino jį
+    pašalinti. Savo seimuose lenkai išplūsdavo atvykstančius Lie-
+    tuvos delegatus, o kartą juos net sumušė. Lietuviai irgi atsi-
+    kirsdavo aštriais žodžiais ir demonstratyviai išvažiuodavo na-
+    mo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuviai irgi atsi-
+    kirsdavo aštriais žodžiais ir demonstratyviai išvažiuodavo na-
+    mo. Kartais lietuviams Lenkijoje būdavo pavojinga net pasi-
+    rodyti, ir į vieną seimą (Parčavoj) jie sutiko nuvažiuoti tik tada,
+    kai Kazimieras pats atvyko nuo pat sienos jų palydėti (1451 m.).
+    Tame pat seime dalis Lietuvos ponų, pasipiktinusių lenkais, grą-
+    žino jiems herbus, 1413 m. gautus iš lenkų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

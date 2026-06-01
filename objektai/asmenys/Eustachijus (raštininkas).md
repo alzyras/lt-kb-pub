@@ -77,7 +77,6 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
 - [[objektai/grupes/Vilniaus Senienų muziejus]]
 - [[objektai/zodynas/manu proprio M.P]]

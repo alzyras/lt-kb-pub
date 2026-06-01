@@ -28,44 +28,44 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m.'
+  teiginys: 'Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į.'
   pagrindžia:
     - c-001
 
-- t-007
-  teiginys: 'Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žūtį 1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos kilmingųjų (Mart.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m.'
   pagrindžia:
-    - c-007
+    - c-002
 
 - t-003
+  teiginys: 'Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žūtį 1268 viešpaties metais anksčiau minėtasis Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos kilmingųjų (Mart.'
+  pagrindžia:
+    - c-004
+
+- t-004
   teiginys: 'Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera.'
   pagrindžia:
-    - c-003
+    - c-006
 
 - t-005
   teiginys: 'Dusburgietis teigia, kad apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus, mirtį 1251 viešpaties metais Konradas, imperatoriaus Fridricho II sūnus, gimęs iš Jeruzalės karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį.'
   pagrindžia:
-    - c-005
-
-- t-004
-  teiginys: 'Dusburgietis teigia, kad todėl kunigaikštis pasiuntė pas minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais klausimais su broliais ir apsvarstęs su jais šį.'
-  pagrindžia:
-    - c-004
+    - c-007
 
 - t-006
+  teiginys: 'Dusburgietis teigia, kad todėl kunigaikštis pasiuntė pas minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais klausimais su broliais ir apsvarstęs su jais šį.'
+  pagrindžia:
+    - c-005
+
+- t-007
   teiginys: 'Dusburgietis teigia, kad apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II nesantuokinio sūnaus, mirtį 1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį Sicilijos karaliumi, kurią jam davė popiežius Urbonas.'
   pagrindžia:
-    - c-006
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dievas jam buvo suteikęs tokių malonių,
@@ -81,9 +81,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     M. Perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises,
@@ -102,9 +102,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karolio vainikavimą Sicilijos karaliumi ir Manfredo, imperatoriaus Fridricho II
@@ -118,9 +118,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-007
 
-- c-007
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     52. Apie Konradino, imperatoriaus Fridricho II anūko, žūtį
@@ -132,9 +132,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
 
-- c-004
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šie vienu balsu pritarė jo sumanymui, pridurdami, kad ir patys esą sužinoję
@@ -153,9 +153,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
 
-- c-003
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
@@ -173,9 +173,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
-- c-005
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     36. Apie Neapolio miesto sugriovimą ir Konrado, imperatoriaus Fridricho II sūnaus,

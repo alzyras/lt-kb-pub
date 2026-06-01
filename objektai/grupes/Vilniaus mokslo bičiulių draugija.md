@@ -21,16 +21,16 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 - t-001
   teiginys: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi draugijos daug dėmesio skyrė
@@ -48,7 +48,7 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, etnografi-

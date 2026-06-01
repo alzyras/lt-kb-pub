@@ -1,30 +1,23 @@
 ---
 tipas: paprotys
 pavadinimas: 'Viešų miesto paslaugų pelno skyrimas Vilniaus iždui'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1500 m.'
-  - '1529 m.'
   - '1538 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 date_start: '1500'
 date_end: '1538'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - paprotys
+amziai:
+  - 'XV'
+  - 'XVI'
 ---
 # Viešų miesto paslaugų pelno skyrimas Vilniaus iždui
 
@@ -33,33 +26,35 @@ tags:
 Tačiau miesto tary­ ba, be tų pačių miestiečių leidimo, negalėjo įvesti jokių naujų mokesčių5. Karalius tai leido ir už­ draudė savo maršalkoms leisti ap­ sistoti kituose miesto namuose į Vilnių pas karalių atvykstantiems Maskvos ir totorių pasiuntiniams, o smuklę atleido nuo kapščiznos (arba akcizo) už alaus ir midaus darymą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau miesto tary­ ba, be tų pačių miestiečių leidimo, negalėjo įvesti jokių naujų mokesčių5.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Karalius tai leido ir už­ draudė savo maršalkoms leisti ap­ sistoti kituose miesto namuose į Vilnių pas karalių atvykstantiems Maskvos ir totorių pasiuntiniams, o smuklę atleido nuo kapščiznos (arba akcizo) už alaus ir midaus darymą.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau miesto tary­ ba, be tų pačių miestiečių leidimo, negalėjo įvesti jokių naujų mokesčių5.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau miesto tary­
@@ -100,45 +95,13 @@ Nenurodyta
     pelną skiriant miesto iždui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Karalius tai leido ir už­ draudė savo maršalkoms leisti ap­ sistoti kituose miesto namuose į Vilnių pas karalių atvykstantiems Maskvos ir totorių pasiuntiniams, o smuklę atleido nuo kapščiznos (arba akcizo) už alaus ir midaus darymą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ) privilegijos patvirtini­
-    mo, leidžiančio parduoti plytinę ir
-    žemes, esančias už Vilijos, ant kal­
-    no priešais tiltą, - tais pačiais me­
-    tais kunigaikščio Poznanės vyskupo,
-    miestui padaryto. Taip pat miestie­
-    čiai prašė, kad jiems būtų leista toje
-    vietoje pastatyti karčemą ir namus,
-    kuriuose galėtų apsistoti Maskvos
-    pasiuntiniai, totoriai ir kiti, ir kad
-    smuklėje būtų leista pardavinėti mi­
-    dų ir alų. Karalius tai leido ir už­
-    draudė savo maršalkoms leisti ap­
-    sistoti kituose miesto namuose į
-    Vilnių pas karalių atvykstantiems
-    Maskvos ir totorių pasiuntiniams, o
-    smuklę atleido nuo kapščiznos (arba
-    akcizo) už alaus ir midaus darymą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/sidabrinė duoklė]]
 - [[objektai/asmenys/Žygimantas]]

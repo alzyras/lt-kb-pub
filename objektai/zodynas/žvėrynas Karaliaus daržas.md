@@ -20,13 +20,14 @@ tags:
 ## Teiginiai
 
 - t-001
-  teiginys: '255 ## Puslapis 272 VILNIAUS MIESTO ISTORIJA// TOMAS upės skiriamas, kelių mylių proskynoje tvarkingai statinių tvora aptvertas, vadinamas žvėrynu.'
+  teiginys: 'Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per pusantros mylios nuo Rūdninkų Men-
@@ -49,4 +50,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/Puslapis 77]]

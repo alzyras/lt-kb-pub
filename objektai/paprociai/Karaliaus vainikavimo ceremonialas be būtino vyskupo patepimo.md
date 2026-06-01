@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - paprotys
@@ -27,37 +18,40 @@ tags:
 Ji turėjo išsklaidyti Vytauto abejones dėl ceremonialo ir išaiškinti, jog karaliaus vainikavimnisi popiežiaus sutikimas nesąs reikalingas. Nurodydamas eilę pavyzdžių, kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­ pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo tarpu imp. Zigmantas pirma išsiuntė
@@ -65,15 +59,13 @@ Nenurodyta
     Cigala^16. Ji turėjo išsklaidyti Vytauto abejones dėl ceremonialo ir
     išaiškinti, jog karaliaus vainikavimnisi popiežiaus sutikimas nesąs
     reikalingas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^374) III skyrius: valstybės suklestėjimas
@@ -85,15 +77,14 @@ Nenurodyta
     jis pats. Cigalos delegacija turėjo sugriauti tezes, kurias savo trak­
     tate buvo iškėlę Krokuvos profesoriai, įrodinėdami, jog Zigmantas
     neturįs teisės niekam suteikti vainiko.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Baptista Cigala]]
 - [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]

@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1927 m.'
+date_start: '1927'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
+amziai:
+  - 'XX'
 ---
 # Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)
 
@@ -19,39 +22,51 @@ tags:
 Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą, tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį susibūrusios grupės perversmo planas, suėmus J.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1927 m. pavasarį, suėmus Juozą Pajaujį, žlugo apie jį susibūrusios grupės perversmo planas grąžinti Seimą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1927 m. pavasarį, suėmus Juozą Pajaujį, žlugo apie jį susibūrusios grupės perversmo planas grąžinti Seimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Atsitokėjusi
+    A. Smetona ir A. Voldemaras
+    atvirai pabrėždavo stiprių prezi-
+    dento galių būtinybę, nevertino
+    politinių partijų vaidmens, esą
+    atstovavusių tik dalies, o ne vi-
+    sos tautos valiai, ir neketino su-
+    grįžti į vadinamuosius „seimų
+    laikus“, prilygintus netvarkai ir
+    anarchijai. III Seimo pradėti dar-
+    bai įvardyti kaip neįvykdomi ir
+    „priešingi pagrindiniams tautos
+    psichikos dėsniams“. Atsitokėjusi
     kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
     tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
     susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

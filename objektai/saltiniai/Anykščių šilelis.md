@@ -1,30 +1,26 @@
 ---
 tipas: saltinis
 pavadinimas: 'Anykščių šilelis'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1801 m.'
   - '1835 m.'
   - '1859 m.'
+  - '1900 m.'
   - '1902 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
-date_start: '1835'
+date_start: '1801'
 date_end: '1902'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigas
   - mokslininkas
   - saltinis
   - tauta
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Anykščių šilelis
 
@@ -33,18 +29,15 @@ tags:
 Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau antros šio sąjūdžio kartos atstovas, aukš-
@@ -54,10 +47,8 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
     / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
     visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
     civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

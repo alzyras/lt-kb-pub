@@ -25,19 +25,19 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
+  teiginys: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
@@ -52,9 +52,9 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wilna, 1. 177.
@@ -75,4 +75,4 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

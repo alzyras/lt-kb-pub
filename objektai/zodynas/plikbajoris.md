@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'plikbajoris'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - didikas
@@ -28,96 +18,46 @@ tags:
 Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo. Taip pat iš anksto didiko atgabentos virtuvės pa- gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu. Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'Taip pat iš anksto didiko atgabentos virtuvės pa- gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
+
+- t-002
   teiginys: 'Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-004
-  teiginys: 'o kad seimeliai būtų tvarkin- gesni, — kad susivaržę didikai negalėtų nustelbti vidutinės bajorijos, prisivežę į seimelį iš savo dvarų plikbajorių, — buvo nustatyta, kad seimely gali dalyvauti tik tie, kurie turi savo že- mės arba yra nuomininkai ir moka.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-005
+
+- t-003
   teiginys: 'Taip pat iš anksto didiko atgabentos virtuvės pagamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
   pagrindžia:
-    - c-005
+    - c-004
+
+- t-004
+  teiginys: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
+    Todėl didikai stengėsi patraukti į savo
+    pusę daugumą bajorijos. O ją patraukti tebuvo galima tik protek-
+    cijomis ir nuolatinėmis puotomis savo dvaruose. Į seimelius tam
+    pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
     nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Taip pat iš anksto didiko atgabentos virtuvės pa- gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Atvežti
-    jie tuojau būdavo sutalpinami iš anksto pasamdytose smuklėse ir
-    šiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-
-    gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
-    alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'o kad seimeliai būtų tvarkin- gesni, — kad susivaržę didikai negalėtų nustelbti vidutinės bajorijos, prisivežę į seimelį iš savo dvarų plikbajorių, — buvo nustatyta, kad seimely gali dalyvauti tik tie, kurie turi savo že- mės arba yra nuomininkai ir moka.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    o kad seimeliai būtų tvarkin-
-    gesni, — kad susivaržę didikai negalėtų nustelbti vidutinės bajorijos, prisivežę į seimelį iš savo dvarų plikbajorių, — buvo
-    nustatyta, kad seimely gali dalyvauti tik tie, kurie turi savo že-
-    mės arba yra nuomininkai ir moka valstybei mokesčius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Taip pat iš anksto didiko atgabentos virtuvės pagamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl jie va-
@@ -128,11 +68,70 @@ tags:
     alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet
+    jei taip nukentėjusių vadas seimely nieko nelaimėdavo arba būdavo
+    priešingos partijos priverstas pabėgti, tai nieko negaudavo nė nuken-
+    tėję. Jiems tekdavo laukti kito seimelio ir tikėtis savo poną apginti.
+    Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl jie va-
+    žiuodavo triukšmingai garbindami juos vežantį didiką. Atvežti
+    jie tuojau būdavo sutalpinami iš anksto pasamdytose smuklėse ir
+    šiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-
+    gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
+    alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-005
+  santrauka: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O ją patraukti tebuvo galima tik protek-
+    cijomis ir nuolatinėmis puotomis savo dvaruose. Į seimelius tam
+    pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
+    nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
+    šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
+    vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
+    Į seimelius tokių plikbajorių atsigabendavo visi didikai, ir todėl
+    seimeliai buvo nuolatinių muštynių vieta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-006
+  santrauka: 'Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jiems tekdavo laukti kito seimelio ir tikėtis savo poną apginti.
+    Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.
+    Todėl, seimeliui pasibaigus, girtuokliavimas trukdavo dar keletą
+    dienų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'tvirta, net plieninė ranka, didelis protas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,16 +15,15 @@ tags:
 Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kęstučio sūnus Vytautas turėjo tvirtą, net plieninę ranką ir didelį protą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kęstučio sūnus Vytautas turėjo tvirtą, net plieninę ranką ir didelį protą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tam buvo reikalinga tvirta, net plieninė ran­
@@ -41,11 +31,9 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
     sūnus. Todėl nenuostabu, kad jam ir atiteko Lietuva, ir jos
 
     (^1) ) Proch.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

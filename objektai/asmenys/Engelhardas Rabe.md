@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Engelhardas Rabe'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1390 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1390'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Engelhardas Rabe
 
@@ -28,16 +24,15 @@ tags:
 Veiklus ordino maršalas Engelhardas Rabe paėmė Maišiagalą, sudegino Kernavę.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1390 m. ordino maršalas Engelhardas Rabe paėmė Maišiagalą ir sudegino Kernavę.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1390 m. ordino maršalas Engelhardas Rabe paėmė Maišiagalą ir sudegino Kernavę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytauto lydimi kryžiuočiai darė vieną po kito didelius žygius,
@@ -45,11 +40,9 @@ Veiklus ordino maršalas Engelhardas Rabe paėmė Maišiagalą, sudegino Kernav�
     Engelhardas Rabe paėmė Maišiagalą, sudegino Kernavę. 1390 m.
     ankstyvą rudenį į didelį karo žygį, sąjungoje su Žemaičiais, išsi­
     ruošė Livonijos magistras.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -27,12 +27,12 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kraštus, rado savo genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.'
   pagrindžia:
     - c-001
@@ -58,7 +58,7 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -83,4 +83,4 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

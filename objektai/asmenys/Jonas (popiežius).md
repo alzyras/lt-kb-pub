@@ -19,12 +19,12 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Jonas (popiežius) padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­ tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes norime], kad greičiau būtų pabaigtas dievo darbas ir nie­ kais pavirstų klastinga apgaulė.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu.'
   pagrindžia:
     - c-001
@@ -60,7 +60,7 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -90,7 +90,7 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

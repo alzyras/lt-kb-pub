@@ -28,13 +28,14 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
 ## Teiginiai
 
 - t-001
-  teiginys: 'Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS STEPONO BATORO PRIVILEGIJA, KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE, PO IŠDAVIKO GRIGALIAUS ASTIKO DOVANOJAMAS GABRIELIUI BEKEŠUI.'
+  teiginys: 'Grigalius Astikas privilegijoje vadinamas išdaviku, po kurio Alantos dvaras 1581 m. vasario 13 d. dovanotas Gabrieliui Bekešui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Grigalius Astikas privilegijoje vadinamas išdaviku, po kurio Alantos dvaras 1581 m. vasario 13 d. dovanotas Gabrieliui Bekešui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalia dalyvaujant didžiai gerbia­

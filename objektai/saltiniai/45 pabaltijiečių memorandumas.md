@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: '45 pabaltijiečių memorandumas'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
@@ -25,18 +16,15 @@ tags:
 Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos valstybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos Demokratinės.
 
 ## Teiginiai
+
 - t-001
   teiginys: '45 pabaltijiečių memorandumas buvo svarbiausias LLL paskelbtas dokumentas, turėjęs tarptautinį rezonansą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '45 pabaltijiečių memorandumas buvo svarbiausias LLL paskelbtas dokumentas, turėjęs tarptautinį rezonansą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dar didesnio atgarsio susilaukė va-
@@ -52,10 +40,8 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
     231
     pakto  slaptuosius protokolus, pripažinti jį negaliojančiu nuo pasirašymo
     datos ir likviduoti jo padarinius – išvesti svetimą kariuomenę iš Pabaltijo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

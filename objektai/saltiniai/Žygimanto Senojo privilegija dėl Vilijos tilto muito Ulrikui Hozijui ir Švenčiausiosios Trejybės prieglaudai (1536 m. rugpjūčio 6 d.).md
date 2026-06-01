@@ -25,27 +25,27 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
+  pagrindžia:
+    - c-006
+
+- t-002
+  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
   pagrindžia:
     - c-007
 
-- t-005
-  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+- t-003
+  teiginys: '1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegija suteikė teisę rinkti muitą iš praeivių per Vilijos upės tiltą.'
+  pagrindžia:
+    - c-004
+
+- t-004
+  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
   pagrindžia:
     - c-005
 
-- t-001
-  teiginys: 'Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA ULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS.'
-  pagrindžia:
-    - c-001
-
-- t-002
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
-  pagrindžia:
-    - c-002
-
-- t-003
+- t-005
   teiginys: 'Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę, rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­ las.'
   pagrindžia:
     - c-003
@@ -53,21 +53,21 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 - t-006
   teiginys: 'Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų.'
   pagrindžia:
-    - c-006
+    - c-001
+
+- t-007
+  teiginys: 'O kad tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­ dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­ vavimą minėtos administracijos šviesiausiajam Kristuje tė­ vui.'
+  pagrindžia:
+    - c-002
 
 - t-008
-  teiginys: 'O kad tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­ dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­ vavimą minėtos administracijos šviesiausiajam Kristuje tė­ vui.'
+  teiginys: 'Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas.'
   pagrindžia:
     - c-008
 
-- t-004
-  teiginys: 'Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė.'
-  pagrindžia:
-    - c-004
-
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad norėdami tokį mūsų va­
@@ -100,7 +100,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   pagrindžia:
     - t-006
 
-- c-008
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kad
@@ -137,7 +137,7 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-007
 
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -159,9 +159,10 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-005
 
-- c-001
+- c-004
+  santrauka: '1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegija suteikė teisę rinkti muitą iš praeivių per Vilijos upės tiltą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
@@ -194,9 +195,9 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-002
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai mes ankstesniais metais svarstėme mūsų LDK val­
@@ -237,9 +238,9 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-007
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­
@@ -268,9 +269,9 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-005
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat norime
@@ -297,9 +298,10 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-002
 
-- c-004
+- c-008
+  santrauka: 'Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis garbingasis Ulrikas Hozijus,
@@ -335,4 +337,4 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-008

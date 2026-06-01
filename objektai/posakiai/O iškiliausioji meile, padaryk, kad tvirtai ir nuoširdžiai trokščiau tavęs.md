@@ -25,12 +25,12 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir jam bylojantį: „Albertai, jeigu nori išvengti sunkių pagundų, privalai kiekvieną dieną nuolankiai sukalbėti šią maldą.'
   pagrindžia:
     - c-001
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -71,7 +71,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

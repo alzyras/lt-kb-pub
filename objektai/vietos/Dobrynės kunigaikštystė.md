@@ -21,16 +21,17 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 - t-001
   teiginys: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
-  teiginys: 'Gedimini) fines Christianorum 69 ## Puslapis 86 VILNIAUS MIESTO ISTORIJA I TOMAS nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta apie du tūkstančius gyventojų.'
+  teiginys: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     e. Gedimini) fines Christianorum
@@ -49,7 +50,7 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios

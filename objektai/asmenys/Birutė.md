@@ -1,22 +1,13 @@
 ---
 tipas: asmuo
 pavadinimas: 'Birutė'
-sukurta: '2026-04-25'
-variantai:
-  - Birutės
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - pilis
@@ -28,238 +19,58 @@ tags:
 Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo Žemaičių bajoro Vydimanto duktė; kitame šaltinyje ji siejama su nužudymu Brastoje.
 
 ## Teiginiai
-- t-004
+
+- t-001
   teiginys: 'Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
-  pagrindžia:
-    - c-002
-- t-007
-  teiginys: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
-  pagrindžia:
-    - c-004
-- t-008
-  teiginys: 'Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė.'
-  pagrindžia:
-    - c-005
-- t-009
-  teiginys: '• — 125 ## Puslapis 142 VILNIAUS MIESTO ISTORIJA / TOMAS jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­ nus.'
-  pagrindžia:
-    - c-006
-- t-010
-  teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
-  pagrindžia:
-    - c-007
-- t-011
-  teiginys: '— • — 125 ## Puslapis 142 VILNIAUS MIESTO ISTORIJA / TOMAS jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­ nus.'
-  pagrindžia:
-    - c-008
-- t-012
-  teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
-  pagrindžia:
-    - c-009
-- t-013
-  teiginys: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
-  pagrindžia:
-    - c-010
-- t-014
+
+- t-002
   teiginys: 'Birutė iš jų bus išmokęs skaityti ir rašyti.'
   pagrindžia:
-    - c-011
+    - c-002
+
+- t-003
+  teiginys: 'Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kęstutis, matyt, buvo buvęs du kartu
     vedęs. Pirmoji Kęstučio žmona mums nežinoma, ir turėjo būti
     trijų vyresniųjų Kęstučio sūnų motina. Birutė bus pagimdžiusi
     tris jaunesniuosius sūnus ir tris dukteris^1 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
 - c-002
-  santrauka: 'Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jo tėvas Kęstutis, nuolatinis
-    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
-    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
-    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
-    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
-    savo pavaldiniais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-004
-  santrauka: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šiandien pripažįstama, kad
-    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
-    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
-    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
-    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
-    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
-    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
-    pasakojimai užrašyti XV–XVI a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-005
-  santrauka: 'Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau ir tai negalėjo pasotinti go­
-    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
-    36
-    Klausimas, ar Kęstutis pats pasirin­
-    kęs mirtį, - juk Skirgaila, važiavęs
-    jo aplankyti, netikėtai rado negyvą,
-    ar nužudytas, o jo žmona kunigaikš­
-    tienė Birutė paskandinta, - nėra iki
-    šiol aiškus ir rašantiesiems Lietuvos
-    istoriją dera jo imtis.
-    37
-    Vygandas  savo kronikoje, p.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-006
-  santrauka: '• — 125 ## Puslapis 142 VILNIAUS MIESTO ISTORIJA / TOMAS jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­ nus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    —  •  —
-    125
-
-    ## Puslapis 142
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­
-    nus. Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi
-    žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­
-    du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems,
-    pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir
-    tuščios garbės pasigviešę, iš tolimų kraštų atvyko lieti tokių
-    pačių, kaip ir jie, krikščionių, kraujo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-007
-  santrauka: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Visų pirma atsirado
-    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
-    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
-    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
-    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
-    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
-    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
-    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
-    pasakojimai užrašyti XV–XVI a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-008
-  santrauka: '— • — 125 ## Puslapis 142 VILNIAUS MIESTO ISTORIJA / TOMAS jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­ nus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    45
-    primena, kad lenkų įgula, įsitvirti­
-    nusi Aukštutinėje pilyje, kunigaikš­
-    čio Karigailos į ją neįsileido, o- apie
-    jo mirtį visai nutyli.
-    —  •  —
-    125
-
-    ## Puslapis 142
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­
-    nus. Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi
-    žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­
-    du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems,
-    pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir
-    tuščios garbės pasigviešę, iš tolimų kraštų atvyko lieti tokių
-    pačių, kaip ir jie, krikščionių, kraujo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-009
-  santrauka: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
-    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
-    72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,
-    Raštai, p. 441—442).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-010
-  santrauka: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-
-    ```
-    — 2 —
-    ```
-    Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
-    šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
-    išaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis
-    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
-    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
-    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
-    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
-    savo pavaldiniais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-011
-  santrauka: 'Birutė iš jų bus išmokęs skaityti ir rašyti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet iš ki­
@@ -280,11 +91,113 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     lijona.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-014
+    - t-002
+
+- c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
+    šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
+    išaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis
+    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
+    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
+    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
+    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
+    savo pavaldiniais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visų pirma atsirado
+    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
+    pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
+    patvirtina vienalaikiai rašytiniai šaltiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visų pirma atsirado
+    herojinių dainų, bet jų žinoma labai nedaug. Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
+    pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
+    patvirtina vienalaikiai rašytiniai šaltiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
+    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
+    72). Pagonybės laikų tradicija apie šventąją Birutę išliko iki XIX a. (Jucevičius L. A.,
+    Raštai, p. 441—442).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p. 298,
+    apud V o i g t, V, 372, aprašinėda­
+    mas Kęstučio laidotuves Vilniuje,
+    kur kartu su palaikais buvo sudegin­
+    ti jo rūbai, ginklai, žirgai, medžiok­
+    liniai šunys ir paukščiai, prietarin­
+    gai priduria, kad to deginimo metu
+    stebuklingu būdu žemėje atsivėrusi
+    tokio gylio kiaurymė, jog vienas
+    žmogus galėjęs tilpti, ir įtraukė Kęs­
+    tučio pelenus, ką regėjusi daugybė
+    žmonių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -296,9 +209,6 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vydimantas]]
 - [[objektai/asmenys/Vygandas]]

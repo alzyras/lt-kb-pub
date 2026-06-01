@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'P. Kulikauskas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1951 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1951'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # P. Kulikauskas
 
@@ -27,16 +23,15 @@ tags:
 Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, t. Kulikauskas, P.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'P. Kulikauskas parašė darbą „Kurmaičių (Kretingos raj.) plokštinio kapinyno tyrinėjimai“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'P. Kulikauskas parašė darbą „Kurmaičių (Kretingos raj.) plokštinio kapinyno tyrinėjimai“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1956. — (”) _Žalvario amžius ir Ankstyvasis
@@ -45,10 +40,8 @@ Kulikauskas, pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD, 
     — Kiparski, V. : _Baltische Völker und Sprachen,_ Baltische Lande, I,
     1939, 48-59 p. — Kulikauskas, P. : _Kurmaičių (Kretingos raj.) plokštinio
     kapinyno tyrinėjimai,_ Lietuvos Istorijos instituto Darbai, 1951, 315-365p.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

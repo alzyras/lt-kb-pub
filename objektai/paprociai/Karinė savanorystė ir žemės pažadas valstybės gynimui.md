@@ -1,38 +1,27 @@
 ---
 tipas: paprotys
-pavadinimas: "Karinė savanorystė ir žemės pažadas valstybės gynimui"
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
+pavadinimas: 'Karinė savanorystė ir žemės pažadas valstybės gynimui'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1919-1920 m. nepriklausomybės kovos"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - "1919 m."
-  - "1920 m. rugsėjis"
-periodas: naujieji_laikai
-periodo_grupes:
-  - tarpukaris
-amziai:
-  - XX
-date_start: 1919
-date_end: 1920
-vaidmenys: []
-dalyviai:
-  - "Lietuvos savanoriai"
-  - "Lietuvos vyriausybė"
-susije_irasai: []
-patikimumas: aukštas
-atnaujinta: '2026-05-14'
+  - '1919 m.'
+  - '1920 m.'
+date_start: '1919'
+date_end: '1920'
+sukurta: ''
+atnaujinta: ''
 tags: []
+amziai:
+  - 'XX'
 ---
 # Karinė savanorystė ir žemės pažadas valstybės gynimui
 
 ## Santrauka
+
 Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stojimu į Lietuvos kariuomenę, žemės sklypų pažadu ir platesniu politiniu kvietimu ginti valstybę.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1919-1920 m. nepriklausomybės kovos
 - datos:
   - 1919 m.
@@ -46,66 +35,75 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 - date_end: 1920
 
 ## Kas tai
+
 - kategorija: politinė praktika
 
 ## Atlikimas
+
 - kas atlieka: Lietuvos savanoriai, vyriausybė ir mobilizacijos kvietimus skelbę politikai
 - kada atliekama: 1919-1920 m. nepriklausomybės kovų metu
 - kaip atliekama: savanoriai stojo į kariuomenę, jiems žadėti žemės sklypai, o visuomenė raginta ginklu priešintis įsiveržėliams
 
 ## Paskirtis
+
 - Telkti valstybės gynimą ir socialinį palaikymą nepriklausomybės kovose.
 
 ## Kontekstas
+
 - Karinė savanorystė siejama su Lietuvos kariuomenės augimu, žemės pažadu ir tautinių mažumų įtraukimu.
 
 ## Teiginiai
-- t-005
+
+- t-001
   teiginys: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-002
   teiginys: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sa-
+    Valstybės Tarybos posėdyje A. Smetona išrinktas Lietuvos valstybės pre-
+    zidentu, nes jis galėjo suvienyti tarpusavyje gerokai nebesutariančius kai-
+    riuosius, liberalus ir krikščionis demokratus, garantuoti politinį stabilu-
+    mą. Lietuvos kariuomenė balandžio pabaigoje jau turėjo apie 6 000 vyrų
+    ir nuosekliai didėjo, trūkstant karininkų, jie pradėti rengti Kaune. Sa-
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
     apie 12 000, jiems žadėti žemės sklypai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
 - c-002
-  santrauka: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuviai atmetė
+    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
+    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
+    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
+    riuomenėje kovėsi ir žydų bei baltarusių savanoriai. Lietuviai atmetė
     bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
     lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
     rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
     bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
-  citata_rodoma: ""
+    Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
+    Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
 
 ## Šaltiniai ir įrodymai
+
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

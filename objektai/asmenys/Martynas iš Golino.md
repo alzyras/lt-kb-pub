@@ -1,24 +1,10 @@
 ---
-tipas: 'asmuo'
+tipas: asmuo
 pavadinimas: 'Martynas iš Golino'
-sukurta: '2026-05-29'
-variantai:
-  - 'Martynas'
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-29'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -31,91 +17,93 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 ## Teiginiai
 
 - t-001
-  teiginys: "Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais."
-  pagrindžia:
-    - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Martynas iš Golino šiame šaltinyje minimas tarp belaisvių."
-  pagrindžia:
-    - c-002
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: "Dusburgietis pasakoja, kad sesers nužudymas sukėlė Martynui neapykantą netikėliams ir vėlesnį kerštą."
-  pagrindžia:
-    - c-003
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: "Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės."
-  pagrindžia:
-    - c-004
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: "Dusburgietis pasakoja, kad Martynas su 17 draugų kovėsi prieš 20 prūsų ir liko gyvas sunkiai sužeistas."
+  teiginys: 'Dusburgietis pasakoja, kad Martynas su 17 draugų kovėsi prieš 20 prūsų ir liko gyvas sunkiai sužeistas.'
   pagrindžia:
     - c-005
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: "Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų."
-  pagrindžia:
-    - c-006
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: "Martynui šiame šaltinyje priskiriami keli savarankiški antpuoliai Sūduvoje ir Lietuvoje."
-  pagrindžia:
-    - c-007
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Dusburgietis teigia, kad iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: 'Dusburgietis teigia, kad tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Dusburgietis teigia, kad martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir bus papasakota vėliau.'
-  pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Dusburgietis teigia, kad vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais, du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau.'
-  pagrindžia:
-    - c-011
-- t-012
-  teiginys: 'Dusburgietis teigia, kad dar apie Martyną iš Golino ir jo nuostabią kovą Tuo pat metu 20 prūsų plėšikavo Lenkijoje.'
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė.'
   pagrindžia:
     - c-012
-- t-013
-  teiginys: 'Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų.'
+
+- t-003
+  teiginys: 'Dusburgietis pasakoja, kad sesers nužudymas sukėlė Martynui neapykantą netikėliams ir vėlesnį kerštą.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Martynas iš Golino šiame šaltinyje minimas tarp belaisvių.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad dar apie Martyną iš Golino ir jo nuostabią kovą Tuo pat metu 20 prūsų plėšikavo Lenkijoje.'
+  pagrindžia:
+    - c-015
+
+- t-006
+  teiginys: 'Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės.'
+  pagrindžia:
+    - c-004
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui ir prikrautą prekių laivą, paskui kurį slaptai ir leidosi; kai.'
+  pagrindžia:
+    - c-011
+
+- t-008
+  teiginys: 'Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.'
+  pagrindžia:
+    - c-001
+
+- t-009
+  teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
   pagrindžia:
     - c-013
+
+- t-010
+  teiginys: 'Dusburgietis teigia, kad vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais, du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau.'
+  pagrindžia:
+    - c-017
+
+- t-011
+  teiginys: 'Dusburgietis teigia, kad iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.'
+  pagrindžia:
+    - c-009
+
+- t-012
+  teiginys: 'Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų.'
+  pagrindžia:
+    - c-010
+
+- t-013
+  teiginys: 'Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų.'
+  pagrindžia:
+    - c-006
+
 - t-014
   teiginys: 'Dusburgietis teigia, kad tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones.'
   pagrindžia:
-    - c-014
+    - c-008
+
 - t-015
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė.'
+  teiginys: 'Dusburgietis teigia, kad tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.'
   pagrindžia:
-    - c-015
+    - c-014
+
 - t-016
-  teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
+  teiginys: 'Dusburgietis teigia, kad martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir bus papasakota vėliau.'
   pagrindžia:
     - c-016
+
 - t-017
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui ir prikrautą prekių laivą, paskui kurį slaptai ir leidosi; kai.'
+  teiginys: 'Martynui šiame šaltinyje priskiriami keli savarankiški antpuoliai Sūduvoje ir Lietuvoje.'
   pagrindžia:
-    - c-017
+    - c-007
+
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: Martynas iš Golino čia minimas kaip Ordino labui veikęs žygių dalyvis.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
@@ -125,16 +113,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose  kovose prieš Ordiną
     žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
     XIV a. viduryje134.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-008
+
 - c-002
-  santrauka: Martynas iš Golino čia aiškiai įrašomas į kraštutinio smurto ir šeiminio ryšio epizodą.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai besivydami daugybę išžudė, o kiti pabėgo280. Taigi
@@ -142,16 +127,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
     negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
     į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
+
 - c-003
-  santrauka: Dusburgietis Martynui priskiria kerštą kaip vėlesnį veiksmą.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Taigi
@@ -162,16 +144,13 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
     netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
     bus papasakota vėliau.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: saltinio_vaizdinys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: Martynas iš Golino šiame šaltinyje atpažįstamas kaip žvalgymo epizodo dalyvis.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
@@ -180,32 +159,26 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
     pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
     juodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
+
 - c-005
-  santrauka: Martynas iš Golino šiame šaltinyje siejamas su atskiru mūšio ir persekiojimo epizodu.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
     leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
     sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
     kiek čia jo bendrų ir kur jie.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
 - c-006
-  santrauka: Martynui šiame šaltinyje priskiriamas savarankiškas Sūduvos kaimo užpuolimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
@@ -216,133 +189,31 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
     ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
     kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: adjacent_named_context
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-013
+
 - c-007
-  santrauka: Kitas atskiras epizodas Martynui priskiria pirties užpuolimą ir grobio pagrobimą.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
     ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
     tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
     arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: adjacent_named_context
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Dusburgietis teigia, kad iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
-    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
-    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
-      Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
-    pažinoję teritoriją, kelius ir žmones (III, 74, 223).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Dusburgietis teigia, kad tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
-    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
-    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
-    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
-    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
-    bus papasakota vėliau.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Dusburgietis teigia, kad martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir bus papasakota vėliau.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
-    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
-    bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
-    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Dusburgietis teigia, kad vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais, du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
-    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
-    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
-    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
-    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
-    juodu saugoti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'Dusburgietis teigia, kad dar apie Martyną iš Golino ir jo nuostabią kovą Tuo pat metu 20 prūsų plėšikavo Lenkijoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dar apie Martyną iš Golino ir jo nuostabią kovą
+    - t-017
 
-      Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
-    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
-    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
-    kiek čia jo bendrų ir kur jie.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-013
-  santrauka: 'Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro], vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų.'
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
     krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
     vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
-    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
-    ar išsivarydamas į nelaisvę žmones.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-014
-  santrauka: 'Dusburgietis teigia, kad tas Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas ar išsivarydamas į nelaisvę žmones.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tas
     Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
     ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
     nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
@@ -350,13 +221,61 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-014
-- c-015
-  santrauka: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė.'
+
+- c-009
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
+    Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
+    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
+      Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
+    pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose  kovose prieš Ordiną
+    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
+    XIV a. viduryje134.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-010
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
+    krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
+    vadinamo Štaubemeliu, Kudaro iš Sūduvos, Nakaimo iš Pagudės ir daugybės kitų. Tas
+    Martynas su 4 vokiečiais ir 11 prūsų užgrobė vieną kaimą Sūduvos žemėje, išžudydamas
+    ar išsivarydamas į nelaisvę žmones. Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
+    nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių
+    ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
+    kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-011
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    229 (224). Apie tą patį
+
+      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
+    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
+    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
+    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
+    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
+    po 20 markių dalies.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tą patį
@@ -372,13 +291,11 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
                          200 (195).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
-- c-016
-  santrauka: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
+    - t-002
+
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
@@ -386,33 +303,96 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
     paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
     vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
-    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas. Kai jie priėjo šio
+    kunigaikščio sodybą, užtiko ten sukviestus  į vestuves beveik visus Lietuvos karalystės
+    kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
+    juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
+    ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
+    žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-016
-- c-017
-  santrauka: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui ir prikrautą prekių laivą, paskui kurį slaptai ir leidosi; kai.'
+    - t-009
+
+- c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie tą patį
-
-      Tas pats Martynas su keliais savo bendrais patraukė link Lietuvos ir, tris kartus persikėlęs
-    per patvinusius vandenis, priėjo upę, vardu Bugas, o ten pamatė plaukiantį pasroviui
-    ir prikrautą prekių laivą, paskui kurį slaptai  ir leidosi; kai upeiviai papietavę sugulė
-    pokaičio, Martynas juos užpuolė su savo bendrais, visus išžudė, džiūgaudamas įsibrovė į
-    laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
-    po 20 markių dalies.
+    Taigi
+    surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų  į nelaisvę.
+    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
+    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
+    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
+    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
+    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
+    bus papasakota vėliau.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-017
+    - t-015
+
+- c-015
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dar apie Martyną iš Golino ir jo nuostabią kovą
+
+      Tuo pat metu 20 prūsų plėšikavo Lenkijoje. Rudino brolių įsakytas, Martynas iš Golino
+    leidosi pavymui su 17 kovos draugų. Grįždami iš Lenkijos, prūsai užklupo Martyno
+    sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
+    kiek čia jo bendrų ir kur jie.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-016
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
+    negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
+    į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
+    Martynas taip pasibjaurėjo šitokiu šlykščiu veiksmu, užsidegė tokia neapykanta prieš
+    netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
+    bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
+    žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-017
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
+    neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
+    du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau tas juos
+    nuvedė į priešo žemę. Pastebėję šią klastą, nužudė jį; paskubomis traukdamiesi, buvo
+    pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
+    juodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-018
+  santrauka: 'Dusburgietis teigia, kad apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    199 (194). Apie tą patį
+
+      Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą
+    ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias
+    tarnybas, jį užpuolė, o visus žmones išžudė. Martynas nukovė 10 vyrų pirtyje, pagrobė
+    arklių, gyvulių bei kitko ir išsivarė į nelaisvę moteris bei vaikus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
@@ -448,7 +428,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
 - [[objektai/asmenys/Pelužis]]
 - [[objektai/ivykiai/Pirmosios lietuviškos knygos išspausdinimas]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/ivykiai/Rudino brolių susidūrimas su trimis ir penkiais prūsais]]
 - [[objektai/ivykiai/Sicilijos prancūzų žudynės (1281 m.)]]

@@ -17,13 +17,14 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
 ## Teiginiai
 
 - t-001
-  teiginys: 'f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 Samogitia agri.'
+  teiginys: 'Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Kojelavičius Pagraudenę vadino Žemaitijos apylinke.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To­

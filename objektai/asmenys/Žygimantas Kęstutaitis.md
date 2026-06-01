@@ -1,29 +1,26 @@
 ---
 tipas: asmuo
 pavadinimas: 'Žygimantas Kęstutaitis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1330 m.'
   - '1440 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 date_start: '1330'
 date_end: '1440'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - valstybė
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Žygimantas Kęstutaitis
 
@@ -32,64 +29,88 @@ tags:
 Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai ## Puslapis 69 Žygimanto Kęstutaičio valPo pralaimėjimo Lietuvai yr A \ Vidinė politinė kova. Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus. Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs.'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: '1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Žygimantas Kęstutaitis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
-  pagrindžia:
-    - c-010
-- t-011
   teiginys: 'Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­ rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­ ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai, atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­ skandinti.'
   pagrindžia:
     - c-011
-- t-012
-  teiginys: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+
+- t-002
+  teiginys: 'Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs.'
   pagrindžia:
-    - c-012
-- t-013
-  teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
-  pagrindžia:
-    - c-013
-- t-014
+    - c-007
+
+- t-003
   teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
   pagrindžia:
-    - c-014
+    - c-010
+
+- t-004
+  teiginys: '1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
+  pagrindžia:
+    - c-002
+
+- t-006
+  teiginys: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
+  pagrindžia:
+    - c-008
+
+- t-008
+  teiginys: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+  pagrindžia:
+    - c-003
+
+- t-009
+  teiginys: 'Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.'
+  pagrindžia:
+    - c-006
+
+- t-010
+  teiginys: 'Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.'
+  pagrindžia:
+    - c-012
+
+- t-011
+  teiginys: 'Žygimantas Kęstutaitis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
+  pagrindžia:
+    - c-009
+
+- t-012
+  teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Trakuose jo sušauktas seimas, turėjęs parengti pasku­
+    tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
+    susidorojimą. 1440 metų balandį Žygimantas sąmokslininkų
+    buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
+    pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­
+    niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
+    butas užgrobė naktį26. Vis dėlto Žygimanto palaikai, iš Trakų
+    atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
+    čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos metraščio liudijimu, „Lietuva
@@ -101,78 +122,17 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos didysis kunigaikštis Žygi-
-    mantas Kęstutaitis, sukaupęs „kiek galėjo
-    didžiausias lietuvių jėgas“, gavęs prašytos
-    pagalbos iš Lenkijos karaliaus Vladislovo
-    Jogailaičio, ėjo į Trakus. Tolesniam žygiui
-
-    68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tai buvo
-    „Žalgiris“ Livonijos ordinui. Didysis ku-
-    nigaikštis Žygimantas Kęstutaitis pergalei
-
-    atminti pastatė parapinę bažnyčią (1436-
-    1440 m.), kuri daug kartų perstatyta ir
-    šiandien tebestovi Pabaiske.
-
-    Švitrigaila Algirdaitis siekė Lietuvos
-    valstybės savarankiškumo, jos žemių
-    neliečiamybės, nereiškė paklusnumo
-    Jogailai ir Lenkijai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-006
-  santrauka: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
-    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
-    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
-    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
-    skandinti. O Manvydas, Trakų vaivada, buvo sučiuptas ir,
-    Žygimanto įsakymu, nukirsdintas20. Vėl įsiliepsnojo kelerius
-    metus trukęs karas tarp rusų, vadovaujamų Švitrigailos, ir
-    Lietuvos, valdomos Žygimanto.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.'
+    - t-005
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Žygimantas, no­
+    Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
+    gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­
     rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus
     narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio
     lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­
@@ -182,32 +142,11 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     likimui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau šis Žygimanto galios išaugimas, matyt, bus lėmęs
-    tai, kad greičiau atsiskleidė neigiami jo polinkiai: apiplėšus
-    žudyti ne tik pavienius jam įtartinus asmenis, bet ir ištisas
-    šeimas. Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypa­
-    tingu jo neapykantos taikiniu, išžudyti juos visus aliai vie­
-    no buvo vienintelis jo tikslas, vos tik nustojo jautęs išorinių
-    neramumų grėsmę. Net pirkliai negalėjo jaustis saugūs dėl
-    jo nežaboto gobšumo, ir Vilnius ėmė vis labiau smukti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-008
-- c-009
-  santrauka: '1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1440 metų balandį Žygimantas sąmokslininkų
@@ -222,57 +161,28 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     kapitulai šio kunigaikščio suteikti dovanojimai28.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Žygimantas Kęstutaitis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
+    - t-004
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
-    gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
-    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
-    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
-    vienas vėliau buvo Trakų vaivada,
-    o jo sūnus - Jonas Hanulaitis - Lie­
-    tuvos vėliavininkas; pastarasis Žy­
-    gimanto Kęstutaičio laikais pasižy­
-    mėjo mūšyje prie Pabaisko, iš jo
-    paėjo vadinami Daugėlos (nes jis po
-    šios pergalės buvo lietuviškai pra­
-    mintas Dauggalis - galingas, didis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­ rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­ ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai, atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­ skandinti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Švitrigai­
-    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
-    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
-    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
-    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
     rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
     ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti. O Manvydas, Trakų vaivada, buvo sučiuptas ir,
-    Žygimanto įsakymu, nukirsdintas20.
+    Žygimanto įsakymu, nukirsdintas20. Vėl įsiliepsnojo kelerius
+    metus trukęs karas tarp rusų, vadovaujamų Švitrigailos, ir
+    Lietuvos, valdomos Žygimanto.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+    - t-006
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
@@ -286,33 +196,67 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     likimui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
-- c-013
-  santrauka: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
+    - t-009
+
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Trakuose jo sušauktas seimas, turėjęs parengti pasku­
-    tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
-    susidorojimą. 1440 metų balandį Žygimantas sąmokslininkų
-    buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
-    pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­
-    niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
-    butas užgrobė naktį26. Vis dėlto Žygimanto palaikai, iš Trakų
-    atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
-    čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
+    Tačiau šis Žygimanto galios išaugimas, matyt, bus lėmęs
+    tai, kad greičiau atsiskleidė neigiami jo polinkiai: apiplėšus
+    žudyti ne tik pavienius jam įtartinus asmenis, bet ir ištisas
+    šeimas. Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypa­
+    tingu jo neapykantos taikiniu, išžudyti juos visus aliai vie­
+    no buvo vienintelis jo tikslas, vos tik nustojo jautęs išorinių
+    neramumų grėsmę. Net pirkliai negalėjo jaustis saugūs dėl
+    jo nežaboto gobšumo, ir Vilnius ėmė vis labiau smukti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-013
-- c-014
-  santrauka: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+    - t-002
+
+- c-008
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos didysis kunigaikštis Žygi-
+    mantas Kęstutaitis, sukaupęs „kiek galėjo
+    didžiausias lietuvių jėgas“, gavęs prašytos
+    pagalbos iš Lenkijos karaliaus Vladislovo
+    Jogailaičio, ėjo į Trakus. Tolesniam žygiui
+
+    68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-009
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jau turėjo prasidėti susirė­
+    mimas, kai kryžiuočių klasta rado kitą būdą tam kivirčui
+    užbaigti. Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
+    gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
+    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
+    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
+    vienas vėliau buvo Trakų vaivada,
+    o jo sūnus - Jonas Hanulaitis - Lie­
+    tuvos vėliavininkas; pastarasis Žy­
+    gimanto Kęstutaičio laikais pasižy­
+    mėjo mūšyje prie Pabaisko, iš jo
+    paėjo vadinami Daugėlos (nes jis po
+    šios pergalės buvo lietuviškai pra­
+    mintas Dauggalis - galingas, didis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
@@ -353,11 +297,49 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     ventojams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-014
+    - t-003
+
+- c-011
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti. O Manvydas, Trakų vaivada, buvo sučiuptas ir,
+    Žygimanto įsakymu, nukirsdintas20.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-012
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tai buvo
+    „Žalgiris“ Livonijos ordinui. Didysis ku-
+    nigaikštis Žygimantas Kęstutaitis pergalei
+
+    atminti pastatė parapinę bažnyčią (1436-
+    1440 m.), kuri daug kartų perstatyta ir
+    šiandien tebestovi Pabaiske.
+
+    Švitrigaila Algirdaitis siekė Lietuvos
+    valstybės savarankiškumo, jos žemių
+    neliečiamybės, nereiškė paklusnumo
+    Jogailai ir Lenkijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

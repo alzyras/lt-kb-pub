@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Hozijus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1545 m.'
   - '1547 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1545'
 date_end: '1547'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas Hozijus
 
@@ -31,47 +27,35 @@ tags:
 Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui. Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė. 1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.'
   pagrindžia:
-    - c-001
+    - c-004
+
 - t-002
-  teiginys: 'Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: '1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.'
   pagrindžia:
-    - c-003
+    - c-002
+
+- t-003
+  teiginys: 'Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Dėl to taip pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­ nėtąjį Jo šv.'
+  pagrindžia:
+    - c-005
+
 - t-005
   teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
   pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dėl to taip pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­ nėtąjį Jo šv.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
-  pagrindžia:
-    - c-007
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    D) Šv. Jono Ak ademi jos Spaustuvės kronika
-    1547. Sklypas tas ir mūrinis namas, kuriame yra spaustu­
-    vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dominikonai tiktai sergėjo, kad pats miestas į jų vienuolyną vieną kanalą nukreiptų ir kad nedraustų nutiesti vamzdžių į Vilniaus pilininko Jono Hozijaus namus, esančius Vokiečių gatvėje, nes jam suteikta tokia teisė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     už
@@ -98,13 +82,11 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     legija patvirtinome].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.'
+    - t-003
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trejybės prie­
@@ -119,16 +101,17 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     nėjant aplinkinius namus prie Švč.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-005
-  santrauka: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
+    - t-002
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Taip pat
+    Tad tokiai prie­
+    glaudai ir joje gyvenantiems vargšams mes karališkąja malo­
+    ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­
+    kams atiduoti, dovanoti, paskirti ir užrašyti. Taip pat
     atiduodame, dovanojame, skiriame ir užrašome pagal žemiau
     išvardintas tokias sąlygas ir formas, tokiu būdu. Kol minėtai
     prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­
@@ -149,16 +132,28 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     priimti ir apgyvendinti, patogiai gyventi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Dėl to taip pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­ nėtąjį Jo šv.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Dėl to taip
+    D) Šv. Jono Ak ademi jos Spaustuvės kronika
+    1547. Sklypas tas ir mūrinis namas, kuriame yra spaustu­
+    vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
+    bei administravimu bei jai skirtomis pajamomis. Dėl to taip
     pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis
     Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį
     tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­
@@ -171,51 +166,13 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     spaudas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jos statybą prieš tai buvo pradė­
-    jęs, norėjo užbaigti ir jau nemažą jos dalį išmūrijęs buvo, bet
-    pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
-    nėms, atsisveikino su šiuo pasauliu. Mes į jo vietą garbingąjį
-    Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
-    ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam
-    patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­
-    kimai vykdydamas, gerai mums užsirekomendavo, taip pat
-    ir, mūsų valia bei paliepimu, taisydamas tą patį tiltą, kurį pra­
-    ėjusį pavasarį didelės vandens ir ledų sangrūdos sugadino ir
-    sulaužė, parodė savo uolumą, tiltui suteikdamas pirmykštį
-    tvirtumą ir pritaikydamas jį žmonėms naudotis, iš anksto
-    surinkęs šiek tiek pinigų iš ano muito ir tikėdamasis iš jo
-    tolesnių pajamų. Taigi mes, pageidaudami, kad šis tiltas taip
-    visiems būsimiems laikams ir tuo atveju, ar dėl kokio priešo
-    užpuolimo, bėgant laikui, arba dėl galingo vandens protrū­
-    kio pakenktas, vėl galėtų būti atstatytas ir pataisytas, minė­
-    tą muitą arba mokestį, aukščiau aprašytą, kurį minėti Ulri­
-    kas Hozijus ir jo sūnus Jonas mūsų aukščiau įvardintu
-    sprendimu ir valia rinko, tikra mūsų žinia ir karališkąja va­
-    lia nusprendėme skirti tam pačiam tiltui ir šiuo mūsų raštu
-    patvirtiname, kad žmonės su savo daiktais ir prekėmis per
-    jį pereinantys, pagal mūsų nurodymą, aukščiau pareikštą, pri­
-    valo mokėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/daiktai/Spaustuvės]]
 - [[objektai/daiktai/Vamzdžiai]]

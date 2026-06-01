@@ -37,27 +37,27 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu tebuvo du vyrai: vienas brolis bei jo tarnas.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Dusburgietis teigia, kad ir štai kokie stebuklai! Kai jie pabeldė į vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio šikšnogalio, arba diržo, kurį patraukus kad ir mažuoju pirštu, pilies vartai būtų atsivėrę ir, savaime aišku, jie būtų iš pamatų.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su.'
   pagrindžia:
-    - c-003
+    - c-005
     - c-004
 
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
   pagrindžia:
-    - c-005
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ir štai kokie stebuklai! Kai jie pabeldė  į
@@ -71,7 +71,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
@@ -84,7 +84,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-005
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     110 (105). Apie Rinavos valsčiaus sembų naują atskalūnybę
@@ -112,7 +112,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 
-- c-003
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     111 (106). Apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį

@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Boleslovas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1224 m.'
   - '1225 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1224'
 date_end: '1225'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Boleslovas
 
@@ -30,55 +26,36 @@ tags:
 Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boleslovo, 3) Lenkijos vicekanclerio Donino, 4) Vilniaus vaivados Alberto Manvydo), 5) Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo. Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boleslovo, 3) Lenkijos vicekanclerio Donino, 4) Vilniaus vaivados Alberto Manvydo), 5) Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-002
   teiginys: 'Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
-- t-003
+    - c-001
+
+- t-002
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boleslovo, 3) Lenkijos vicekanclerio Donino, 4) Vilniaus vaivados Alberto Manvydo), 5) Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Prie jo buvo
-      prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boleslovo, 3)
-      Lenkijos vicekanclerio Donino, 4) Vilniaus vaivados Alberto Manvydo),
-      5) Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo
+    Lietuvos valstybei grėsė pavo-
+    jus pakrikti. O momentas buvo labai svarbus: tuo metu smar-
+    kiai padidėjo ordino puolimai, ir vienam, ordino pasienį valdan-
+    čiam, Kęstučiui būtų buvę sunku atsispirti.
+    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
+    gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
+    vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kunigaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip tik prieš Gedimino mirtį buvo miręs Mozūrų kuni-
-      gaikštis Boleslovas, kuris su Gedimino sūnum Liubartu buvo
-      vedę po Voluinės kunigaikštytę ir valdė po dalį Voluinės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
@@ -101,11 +78,9 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -114,8 +89,6 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai]]

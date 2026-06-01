@@ -17,13 +17,14 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
 ## Teiginiai
 
 - t-001
-  teiginys: 'Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­ rasis" romantikas - tik „naujasis klasikas".'
+  teiginys: 'Požiūris į Jono Sniadeckio darbus laikytas romantikų, prepozityvistų ir „naujųjų klasikų“ skirties požymiu.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Požiūris į Jono Sniadeckio darbus laikytas romantikų, prepozityvistų ir „naujųjų klasikų“ skirties požymiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savotiškai isto­
@@ -42,4 +43,3 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Naujasis klasikas ir prepozityvistai]]
-- [[objektai/asmenys/Jonas Sniadeckis]]

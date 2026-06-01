@@ -27,20 +27,20 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad iII, 75 paragrafe minimo Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-003
   teiginys: 'Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija vokiečiai Volfenbiutelis Volferštorfas Volynė Vona, Vonė Vonbžeznas Vonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis) Vroclavas Vundenava, Vuntenovė (žr.'
   pagrindžia:
-    - c-004
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -79,9 +79,9 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
-- c-004
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Viškonys
@@ -110,7 +110,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -128,4 +128,4 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001

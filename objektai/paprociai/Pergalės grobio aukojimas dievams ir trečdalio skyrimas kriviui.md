@@ -46,22 +46,22 @@ Nenurodyta
 - t-001
   teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
   pagrindžia:
+    - c-002
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad šiuo metu lietuviai ir kiti tose žemėse gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet, prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali pastovėti. Prūsai retai kada imasi kokio.'
+  pagrindžia:
+    - c-003
     - c-001
 
 - t-003
-  teiginys: 'Dusburgietis teigia, kad šiuo metu lietuviai ir kiti tose žemėse gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet, prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali pastovėti. Prūsai retai kada imasi kokio.'
-  pagrindžia:
-    - c-002
-    - c-003
-
-- t-002
   teiginys: 'Dusburgietis teigia, kad po pergalės jie aukoja savo dievams padėkos auką iš viso grobio, pergalingoje kovoje laimėto, trečdalį atiduodami minėtajam kriviui, kuris tą dalį degino.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po pergalės jie
@@ -75,9 +75,9 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio krivis
@@ -91,7 +91,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 
-- c-002
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dėl šitų mirusiųjų nutikdavo tokių velniškų
@@ -109,8 +109,8 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
     - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

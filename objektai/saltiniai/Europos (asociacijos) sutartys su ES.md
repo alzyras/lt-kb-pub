@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Europos (asociacijos) sutartys su ES'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - sutartis
@@ -20,27 +17,26 @@ tags:
 Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
+    Lietuva ir ES pasirašė Prekybos
+    ir komercinio bei ekonominio bendradarbiavimo sutartį ir priėmė dekla-
+    raciją dėl politinio dialogo tarp ES ir Lietuvos. Nuo oficialių diplomatinių
+    santykių su Lietuva užsimezgimo ES per PHARE programą pradėjo teikti
+    pagalbą Lietuvai. Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
     (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
     tapti ES narėmis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

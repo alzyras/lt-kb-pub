@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Jedlno'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - unija
@@ -27,16 +18,15 @@ tags:
 Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasakyta, kad valdovus renka viena pusė su žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios ir pritarimo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jedlnos nutarimais lenkai išsirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jedlnos nutarimais lenkai išsirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sužinojęs iš savo pasiuntinio apie suvažiavimo pa­
@@ -48,10 +38,8 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
     žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
     Vytauto ir lietuvių bajorų žinios ir pritarimo. Tuo patys lenkai
     sulaužė uniją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

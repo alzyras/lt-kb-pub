@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'jurisdikcija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1578 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1578'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - sąvoka
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # jurisdikcija
 
@@ -30,37 +24,35 @@ tags:
 Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­ dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­ demijos kancleriu, o Žemaičių - globėju. Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo. Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­ dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­ demijos kancleriu, o Žemaičių - globėju.'
   pagrindžia:
     - c-001
+
 - t-002
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
   pagrindžia:
-    - c-003
-- t-004
+    - c-002
+
+- t-003
   teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Tam pačiam ponui dabartiniam vyskupui ir jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­ są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.'
-  pagrindžia:
-    - c-006
-- t-007
+
+- t-004
   teiginys: 'Toliau dėl tų namų, kuriuos pačiai Bursos studentų bendrijai davėme ir užrašėme, jurisdikcijos: kadangi namai stovi, žinoma, vyskupijos žemėje, nenorėdami dėl šio daly­ ko mūsų įpėdiniams padaryti žalos, jiems ir jų garbingie­ siems pareigūnams paliekame.'
   pagrindžia:
-    - c-007
+    - c-005
+
+- t-005
+  teiginys: 'Tam pačiam ponui dabartiniam vyskupui ir jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­ są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasaulietinei jurisdikcijai ir nuo bet kokių mokesčių atleido, Rektoriui pave­ dė būti Akademijos teisėju; pagaliau vyskupus: Vilniaus - Aka­ demijos kancleriu, o Žemaičių - globėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1578 metais Karalius Steponas Batoras, šias funduotas mo­
@@ -73,45 +65,11 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Civitatis
-    famulos et Officiales, ob receptum a subditis Capituli vinum
-    sublimatum, et panes contra constitutionem minores factos,
-    —  • -
-    378
-
-    ## Puslapis 395
-
-    IV KNYGA
-    Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­
-    tuvos, Rusios ir visos Prūsijos bei Mazovijos ir 1.1, kunigaikš­
-    tis. Ponas ir tėvonis. Šiuo raštu skelbiame visiems, kam da­
-    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
-    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
-    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
-    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
-    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
-    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
-    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
-    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
-    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
@@ -142,59 +100,11 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     paprotį, iki šiol tvirtai saugotą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nusprendėme ir šiuo raštu nu­
-    sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­
-    nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su
-    ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­
-    tintą Apaštalų Sosto, turėti ir ja laisvai naudotis gali ir pri­
-    valo. Ir todėl tos pačios kapitulos priimtas sprendimas eks­
-    komunikuoti miesto tarnus už plėšikavimą buvo gerai ir
-    pagal įstatymus mestas ir išplatintas. O Vilniaus gyvento­
-    jams jokia jurisdikcija pačių kapitulos valdinių atžvilgiu mū­
-    sų ar mūsų pirmtakų nėra suteikta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Venceslao Mednicensi Episcopis, nec non
-    402
+    - t-002
 
-    ## Puslapis 419
-
-    IV KNYGA
-    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
-    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
-    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
-    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
-    se, dominijose. Norime, kad ponai vyskupai turėtų įgalioji­
-    mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto
-    neaprobuotas santuokas, o paklusti nenorinčius bausti baž­
-    nytinėmis bausmėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Tam pačiam ponui dabartiniam vyskupui ir jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­ są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.'
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi mes jo
@@ -217,13 +127,30 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     mo ir kilmės žmonėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Toliau dėl tų namų, kuriuos pačiai Bursos studentų bendrijai davėme ir užrašėme, jurisdikcijos: kadangi namai stovi, žinoma, vyskupijos žemėje, nenorėdami dėl šio daly­ ko mūsų įpėdiniams padaryti žalos, jiems ir jų garbingie­ siems pareigūnams paliekame.'
+    - t-005
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nusprendėme ir šiuo raštu nu­
+    sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­
+    nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su
+    ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­
+    tintą Apaštalų Sosto, turėti ir ja laisvai naudotis gali ir pri­
+    valo. Ir todėl tos pačios kapitulos priimtas sprendimas eks­
+    komunikuoti miesto tarnus už plėšikavimą buvo gerai ir
+    pagal įstatymus mestas ir išplatintas. O Vilniaus gyvento­
+    jams jokia jurisdikcija pačių kapitulos valdinių atžvilgiu mū­
+    sų ar mūsų pirmtakų nėra suteikta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio pobūdžio studentų bendriją (congregatio) ir mi­
@@ -245,15 +172,12 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     sų įpėdinių rūpesčiui ir malonei.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/daiktai/Namas]]
@@ -262,14 +186,12 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - [[objektai/zodynas/bursa]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/prelatai ir kanauninkai]]
-- [[objektai/zodynas/vaitas]]
 - [[objektai/paprociai/Akademijos profesorių ir studentų jurisdikcinės bei mokestinės privilegijos]]
 - [[objektai/grupes/Apaštalų Sostas]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
 - [[objektai/zodynas/Cechas]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Steponas Genseris]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]

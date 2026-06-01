@@ -1,20 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Abiejų Tautų Respublikos kariuomenė'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -26,16 +16,15 @@ tags:
 ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoje xVII a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'ATR kariuomenės XVII a. pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebebuvo naudojamos.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'ATR kariuomenės XVII a. pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebebuvo naudojamos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     _ palydos poreikius.
@@ -48,11 +37,9 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
     pralaužiamosios kavalerijos atakos nebuvo naudojamos
 
     tai, sudarę vėliavą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

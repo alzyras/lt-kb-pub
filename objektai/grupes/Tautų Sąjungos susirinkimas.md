@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Tautų Sąjungos susirinkimas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - sutartis
@@ -21,28 +18,25 @@ tags:
 Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
-  teiginys: 'Visuotinis Tautų Sąjungos susirinkimas nusprendė būsimą Pabaltijo valstybių priėmimą sieti su pasižadėjimais saugoti mažumų teises.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Visuotinis Tautų Sąjungos susirinkimas nusprendė būsimą Pabaltijo valstybių priėmimą sieti su pasižadėjimais saugoti mažumų teises.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis visuotinis Tautų S-gos susirinkimas (1920. XI. 15 —
@@ -53,42 +47,55 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
     pakto (str. 10) uždedamų prievolių ginti tas naujas valstybes
     prieš kaimynų agresiją ar apskritai vengė čia susirišti kuo nors
     buvusios ar būsimos Rusijos .atžvilgiu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Visuotinis Tautų Sąjungos susirinkimas nusprendė būsimą Pabaltijo valstybių priėmimą sieti su pasižadėjimais saugoti mažumų teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visuotinis T. S-gos susirinkimas, be
+    klausimą atidėti, ligi sąlygos leis jį galutinai išspręsti, o tuo
+    tarpu Pabaltijo valstybėms parodė savo palankumą, leisdamos
+    joms dalyvauti techniškose T. S-gos organizacijose, kur gali ben-
+    dradarbiauti ir nenariai. Visuotinis T. S-gos susirinkimas, be
     to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. S-gą
     suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo
     padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
     Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)
     visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai
-    išspręstas, tačiau ne be sunkenybių Lietuvai.
-  citata_rodoma: ""
+    išspręstas, tačiau ne be sunkenybių Lietuvai. Tuo metu didžio-
+    sios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,
+    o Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-
+    fliktas su Lenkija.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    klausimą atidėti, ligi sąlygos leis jį galutinai išspręsti, o tuo
+    tarpu Pabaltijo valstybėms parodė savo palankumą, leisdamos
+    joms dalyvauti techniškose T. S-gos organizacijose, kur gali ben-
+    dradarbiauti ir nenariai. Visuotinis T. S-gos susirinkimas, be
+    to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. S-gą
+    suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo
+    padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t.
+    Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)
+    visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai
+    išspręstas, tačiau ne be sunkenybių Lietuvai. Tuo metu didžio-
+    sios valstybės Latviją ir Estiją jau buvo pripažinusios de jure,
+    o Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-
+    fliktas su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

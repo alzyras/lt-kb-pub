@@ -17,12 +17,12 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Smetona, Steponas Kairys, J.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,7 +66,7 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

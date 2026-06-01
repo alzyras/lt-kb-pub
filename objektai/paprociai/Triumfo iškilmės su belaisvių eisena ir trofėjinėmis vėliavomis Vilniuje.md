@@ -42,17 +42,17 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Valdovui grįžus į Vilnių, čia įvyko triumfo iškilmės su belaisviais Maskvos karvedžiais ir kariais.'
   pagrindžia:
     - c-001
 
-- t-004
+- t-002
   teiginys: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
   pagrindžia:
     - c-002
 
-- t-005
+- t-003
   teiginys: 'Čia, valdovui grįžus, įvyko triumfo iškilmės, eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, Vilniaus katedroje pakabintos trofėjinės vėliavos.'
   pagrindžia:
     - c-003
@@ -74,7 +74,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -91,7 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -108,7 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
 - c-004
   santrauka: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
@@ -128,7 +128,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

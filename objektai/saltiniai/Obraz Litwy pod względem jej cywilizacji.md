@@ -1,24 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Obraz Litwy pod względem jej cywilizacji'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1801 m.'
   - '1846 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1846'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+  - '1900 m.'
+date_start: '1801'
+date_end: '1900'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Obraz Litwy pod względem jej cywilizacji
 
@@ -27,18 +23,15 @@ tags:
 : Obraz Litwy pod względem jej cywilizacji , I, Vilnius 1846.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išleistas Vilniuje 1846 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išleistas Vilniuje 1846 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     —Ivinskis,
@@ -51,10 +44,8 @@ tags:
     t. 2, 1957, 51-67 p. — (”) _Arimo įrankių reikšmė žemdirbystės sistemoms,_
     ILKI, IV, 1964, 156-163 p. —Karys, J. K. : _Seniausieji lietuvių «pini­
     gai ».
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

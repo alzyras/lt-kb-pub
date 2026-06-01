@@ -1,18 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kazys Grinius'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1918 m.'
+  - '1926 m.'
+date_start: '1918'
+date_end: '1926'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
   - seimas
   - tauta
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Kazys Grinius
 
@@ -21,80 +27,125 @@ tags:
 Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė. Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius. Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino M.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Birželio 19-ąją buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Kazys Grinius buvo išrinktas prezidentu kaip valstiečių liaudininkų lyderis.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
+
+- t-002
   teiginys: 'Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Birželio 19-ąją buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Birželio 19-ąją buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vasario 16 Aktas, skelbė,
+    Vien-
+    balsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo
+    dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė,
     kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
     tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
     planų, turint viltį, kad teritorija padidės. Steigiamojo Seimo pirmininku
     išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
     išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
     Kazio Griniaus vadovaujama vyriausybė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
+    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
+    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
+    lyderis Kazys Grinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Kazys Grinius buvo išrinktas prezidentu kaip valstiečių liaudininkų lyderis.'
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    diktatoriumi, tačiau netrukus pasiūlė šį savo postą pirmajam Lietuvos
+    valstybės prezidentui A. Smetonai. Šis sutiko, nes karininkai įvykdė jo
+    keltą sąlygą – perversmas pavyko be šūvio.
+    Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+    ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  santrauka: 'Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
+    balsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo
+    dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė,
+    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
+    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
+    planų, turint viltį, kad teritorija padidės. Steigiamojo Seimo pirmininku
+    išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
+    išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
+    Kazio Griniaus vadovaujama vyriausybė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
-    lyderis Kazys Grinius.
-  citata_rodoma: ""
+    lyderis Kazys Grinius. Socialdemokratai jį parėmė tik su sąlyga, kad jis
+    derins visus žingsnius su jais.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
-    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
-    ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/grupes/Ministerių kabinetas]]
+- [[objektai/ivykiai/Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

@@ -17,13 +17,14 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 ## Teiginiai
 
 - t-001
-  teiginys: 'Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.'
+  teiginys: 'Vaistininkas Antanas nuo liepos 10 d. iki rugpjūčio 18 d. turėjo tris sidabrinius dubenis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vaistininkas Antanas nuo liepos 10 d. iki rugpjūčio 18 d. turėjo tris sidabrinius dubenis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     18 dienos] už tris šimtus flor. Nuo to

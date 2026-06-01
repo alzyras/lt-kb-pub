@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Michailas Bulgakovas-Golica'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1516 m.'
   - '1551 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1516'
 date_end: '1551'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - mūšis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Michailas Bulgakovas-Golica
 
@@ -30,19 +26,20 @@ tags:
 Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Po Oršos mūšio patekęs į nelaisvę, jis joje ir mirė - Vilniuje, 1516 m. Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
+  pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po Oršos mūšio
@@ -61,15 +58,13 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
     37 m. praleidęs nelais-
     vėje Lietuvoje, jau senas,
     1551 m. grįžo į tėvynę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Po Oršos mūšio patekęs į nelaisvę, jis joje ir mirė - Vilniuje, 1516 m. Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po Oršos mūšio
@@ -85,12 +80,12 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
     gelį amžininkų, kurie
     kovėsi mūšyje, ir net
 
-    37 m.
+    37 m. praleidęs nelais-
+    vėje Lietuvoje, jau senas,
+    1551 m. grįžo į tėvynę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

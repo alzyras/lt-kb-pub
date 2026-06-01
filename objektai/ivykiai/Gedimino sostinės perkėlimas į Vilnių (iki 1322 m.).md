@@ -41,12 +41,12 @@ Nenurodyta
 - t-001
   teiginys: 'Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama.'
   pagrindžia:
-    - c-002
+    - c-001
 
 - t-003
   teiginys: 'Gediminas Vilniun jau buvo perkėlęs savo sostinę^15.'
@@ -55,7 +55,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
@@ -70,7 +70,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun

@@ -22,12 +22,12 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Die 18 Augusti [rugpjūčio 18 dieną] Vilniuje Anno 1571 (1571 metais) 666 kapoms lietuviškomis monetomis išlaidos: 91 flor., 19 grašių, 6 liet.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
   pagrindžia:
     - c-001
@@ -49,7 +49,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -64,7 +64,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

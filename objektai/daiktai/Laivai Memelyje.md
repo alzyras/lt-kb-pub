@@ -47,13 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: 'J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.'
+  teiginys: 'Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Žemaičiai Memelyje sunaikino didelių ir mažų laivų, o kryžiuočių pilis išliko sveika.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Energingas Garteno (Gar­

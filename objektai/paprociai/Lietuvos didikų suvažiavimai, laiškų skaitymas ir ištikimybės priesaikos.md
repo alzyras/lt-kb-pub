@@ -40,7 +40,7 @@ Nenurodyta
 ## Teiginiai
 
 - t-001
-  teiginys: '144 ## Puslapis 161 Il KNYGA keti činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas karaliaus Vladislovo Jogailos jai atiduotas kaip vestuvinė do­ vana.'
+  teiginys: 'Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą, liepė jiems skaityti laišką ir klausė dėl pavaldumo Lenkijai.'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,7 @@ Nenurodyta
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą, liepė jiems skaityti laišką ir klausė dėl pavaldumo Lenkijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     144
@@ -124,5 +125,4 @@ Nenurodyta
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/činšas]]

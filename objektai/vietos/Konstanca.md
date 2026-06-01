@@ -1,31 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Konstanca'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1415 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XV'
-  - 'XXI'
 date_start: '1415'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - krikštas
   - tauta
   - unija
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
 ---
 # Konstanca
 
@@ -34,42 +27,44 @@ tags:
 1418 m. Vytautas siunčia į Konstancą jau minėtą G.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą Konstancoje.'
   pagrindžia:
     - c-002
-- t-003
+
+- t-002
   teiginys: 'Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos, kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.'
   pagrindžia:
     - c-003
 
+- t-003
+  teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    G. Camblako ekume-
+    1418 m. Vytautas siunčia į
+    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
+    grįsti siekį gyventi unijoje su Katalikų bažnyčia. G. Camblako ekume-
     ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
     imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
     prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
     lių bendriją vaizduojančią Strasbūro freską.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą Konstancoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    (spalio 7 d.) padaryti paliaubas, kurios vėliau vis buvo prailginamos.
     Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
     delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
     ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą
@@ -78,13 +73,11 @@ tags:
     į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos, kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos,
@@ -92,8 +85,6 @@ tags:
     (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

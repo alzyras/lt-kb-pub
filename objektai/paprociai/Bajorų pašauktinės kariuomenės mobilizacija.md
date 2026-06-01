@@ -1,24 +1,16 @@
 ---
 tipas: paprotys
 pavadinimas: 'Bajorų pašauktinės kariuomenės mobilizacija'
-sukurta: '2026-05-02'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: 'po totorių plėšimų; 1506 m. liepa; Lyda'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1506 m.'
+date_start: '1506'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-02'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVI'
 ---
 # Bajorų pašauktinės kariuomenės mobilizacija
 
@@ -30,6 +22,7 @@ Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, 
 Nenurodyta
 
 ## Kas tai
+
 - kategorija: politinė praktika
 
 ## Atlikimas
@@ -42,41 +35,20 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad jos jau nebereikėdavo.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: 'Po totorių plėšimų buvo paskelbta bajorų mobilizacija.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad jos jau nebereikėdavo.'
+  pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad jos jau nebereikėdavo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš kitos pusės, nesant masinės reguliarios
-    kariuomenės, bajorų pašauktinės kariuo-
-    menės mobilizacija galėdavo užtrukti tol,
-    kol jos jau nebereikėdavo, nes po apiplė-
-    šimo totoriai stengdavosi pasitraukti kuo
-    sparčiau. Būtent šios struktūrinės-orga-
-    nizacinės Lietuvos karinės organizacijos
-    silpnosios vietos leido totoriams dažnai
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Po totorių plėšimų buvo paskelbta bajorų mobilizacija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmomis dienomis po žinios apie toto-
@@ -87,13 +59,28 @@ Nenurodyta
     Glinskis išsiuntė žvalgybinį husarų
     būrį, kuriam pavyko užklupti nedi-
     delį totorių padalinį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Iš kitos pusės, nesant masinės reguliarios
+    kariuomenės, bajorų pašauktinės kariuo-
+    menės mobilizacija galėdavo užtrukti tol,
+    kol jos jau nebereikėdavo, nes po apiplė-
+    šimo totoriai stengdavosi pasitraukti kuo
+    sparčiau. Būtent šios struktūrinės-orga-
+    nizacinės Lietuvos karinės organizacijos
+    silpnosios vietos leido totoriams dažnai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

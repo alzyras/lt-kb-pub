@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Baudžiavos panaikinimo manifestas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - reforma
   - saltinis
@@ -19,24 +16,34 @@ tags:
 Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos imperijoje buvo panaikinta baudžiava, o valstiečiams duota teisė per 49 metus išsipirkti žemę. Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
+  pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
+    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
+    Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal
+    manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
+    per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nebuvo tik sutikimo dėl tolimesnio jų li-
@@ -47,26 +54,8 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
     pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
     rijoje buvo panaikinta baudžiava, o valstiečiams
     duota teisė per 49 metus išsipirkti žemę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
-    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
-    Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal
-    manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
-    per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

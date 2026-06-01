@@ -1,25 +1,10 @@
 ---
 tipas: saltinis
-pavadinimas: "Descriptive Ethnology"
-sukurta: '2026-05-13'
-variantai:
-  - "Aprašomoji etnologija"
-aliases: []
+pavadinimas: 'Descriptive Ethnology'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-laikotarpis: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-13'
-tags: []
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Descriptive Ethnology
 
@@ -34,60 +19,41 @@ tags: []
 - Vartojimo kontekstas: įvado epigrafas.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "„Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas."
+  teiginys: '„Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-002
-  teiginys: "Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“."
+  teiginys: 'Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-003
   teiginys: 'VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“).'
   pagrindžia:
     - c-002
+
 - t-004
   teiginys: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
   pagrindžia:
-    - c-003
-
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: Epigrafo nuoroda pagrindžia autorių, anglišką pavadinimą ir lietuvišką pavadinimo formą.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Bibliografinė nuoroda yra trumpa epigrafo atribucija; leidimo metai ir išsamūs leidybiniai duomenys šiame šaltinyje nepateikti."
-  pagrindžia:
-    - t-001
-    - t-002
+    - c-001
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“).'
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-003
-  santrauka: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sauliui Kaubriui ir daugeliui
+    Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
+    istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
+    damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti
+    visą Lietuvos istorijos distanciją iš nūdienos perspektyvos bendru, atsa-
+    kingu ir taupiu žvilgsniu.
+    Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos
+    nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip
+    pat dr. Vytautui Žaliui, Romanui Judinui, labai ačiū recenzavusiems šią
+    knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
     kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
     atrinkimo.
        Alfonsas Eidintas,
@@ -103,8 +69,55 @@ tags: []
     Geografinis Europos centras?
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Į v a d a s
+    LIETUVA –
+    VIDURIO EUROPOS DALIS
+    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+    didesnis, negu su bet kuria kita kalba šioje žemėje“
+    Iš britų mokslininko Robert Gordon Latham
+    „Descriptive Ethnology“ („Aprašomoji etnologija“)
+    Geografinis Europos centras?
+    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
+    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
+    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
+    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
+    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
+    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
+    25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Į v a d a s
+    LIETUVA –
+    VIDURIO EUROPOS DALIS
+    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+    didesnis, negu su bet kuria kita kalba šioje žemėje“
+    Iš britų mokslininko Robert Gordon Latham
+    „Descriptive Ethnology“ („Aprašomoji etnologija“)
+    Geografinis Europos centras?
+    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
+    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
+    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
+    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
+    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
+    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
+    25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+    - t-002

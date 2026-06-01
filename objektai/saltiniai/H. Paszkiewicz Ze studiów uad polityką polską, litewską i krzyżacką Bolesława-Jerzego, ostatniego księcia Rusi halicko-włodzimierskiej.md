@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1924 m.'
   - '1928 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1924'
 date_end: '1928'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej
 
@@ -28,18 +22,15 @@ tags:
 Paszkiewicz, H.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ivinskis, Z. : Liubartas Gediminaitis , LE, t. 16, 318-320 p. — Kra­
@@ -52,10 +43,8 @@ Paszkiewicz, H.
     355-356 p. — Presnjakov, A. : Obrazovanie velikorusskogo gosudarstva,
     Petrograd 1918. — Puzyna, J. : Korjat i Korjatowicze , AW, t. 7, 1930,
     425-455 p. (papildymai ten pat t. 11,1936, 61-97 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,39 +1,29 @@
 ---
 tipas: vieta
 pavadinimas: 'Galvės ežero salos pilis (pilis)'
-sukurta: '2026-04-28'
-variantai:
-  - 'Galvės ežero salos pilis'
-aliases:
-  - 'Galvės ežero salos pilis'
 saltiniai:
-  - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-bukle: juodrastis
-laikotarpis: "Vytauto laikai"
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - "1414 m."
-periodas: "viduramziai"
-periodo_grupes: []
+  - '1414 m.'
+date_start: '1414'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 amziai:
-  - "XV"
-date_start: "1414"
-date_end: "1414"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukstas"
-atnaujinta: '2026-04-28'
-tags: []
+  - 'XV'
 ---
 # Galvės ežero salos pilis (pilis)
 
 ## Santrauka
+
 Galvės ežero salos pilis šiame šaltinyje aprašoma kaip žymiausias Vytauto garbės ir pasididžiavimo statinys. Šiame šaltinyje taip pat nurodoma, kad 1414 m. joje apsilankė Burgundijos riteris Guillebert de Lannoy.
 
 ## Pavadinimai šaltiniuose
+
 - Galvės ežero salos pilis
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Vytauto laikai
 - datos: 1414 m.
 - periodas: viduramziai
@@ -42,32 +32,40 @@ Galvės ežero salos pilis šiame šaltinyje aprašoma kaip žymiausias Vytauto 
 - date_end: 1414
 
 ## Kas tai
+
 Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
 
 ## Geografinis ir istorinis kontekstas
+
 - tipas: pilis
 - regionas: Trakai, Galvės ežeras
-- susiję žmonės: [[objektai/asmenys/Vytautas|Vytautas]]
+- susiję žmonės: [[objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.)|Vytautas]]
 - susiję įvykiai:
 - susijusios grupės:
 
+## Šaltiniai ir įrodymai
+
+Nenurodyta
+
+## Pastabos
+
+Nenurodyta
+
 ## Teiginiai
+
 - t-001
-  teiginys: 'Galvės ežero salos pilis buvo žymiausias Vytauto garbės ir pasididžiavimo statinys.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Guillebert de Lannoy.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Galvės ežero salos pilis buvo žymiausias Vytauto garbės ir pasididžiavimo statinys.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Galvės ežero salos pilis buvo žymiausias Vytauto garbės ir pasididžiavimo statinys.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ar iš tikrųjų Vytauto epochai gali
@@ -86,15 +84,9 @@ Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
 
     ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
     lebert de Lannoy.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
     - t-002
-
-## Šaltiniai ir įrodymai
-
-## Pastabos
+    - t-001

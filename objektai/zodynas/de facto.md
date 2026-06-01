@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'de facto'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1919 m.'
   - '1920 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1919'
 date_end: '1920'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
+amziai:
+  - 'XX'
 ---
 # de facto
 
@@ -29,40 +23,25 @@ tags:
 , Anglija, Prancūzija, Norvegija, Italija, Šveicarija, Švedija, Danija, Olandija, Suomija, Latvija, Lenkija) iš pradžių tepripažino Lietuvą tik de facto, t.
 
 ## Teiginiai
+
 - t-001
-  teiginys: ', Anglija, Prancūzija, Norvegija, Italija, Šveicarija, Švedija, Danija, Olandija, Suomija, Latvija, Lenkija) iš pradžių tepripažino Lietuvą tik de facto, t.'
+  teiginys: 'Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas.'
   pagrindžia:
-    - c-001
+    - c-002
+
 - t-002
   teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   pagrindžia:
-    - c-002
+    - c-003
+
 - t-003
   teiginys: 'Tais metais de facto Lietuvą pripažino Norvegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija (liepos 4 d.).'
   pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas.'
-  pagrindžia:
-    - c-004
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: ', Anglija, Prancūzija, Norvegija, Italija, Šveicarija, Švedija, Danija, Olandija, Suomija, Latvija, Lenkija) iš pradžių tepripažino Lietuvą tik de facto, t.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    , Anglija, Prancūzija, Norvegija, Italija, Šveicarija,
-    Švedija, Danija, Olandija, Suomija, Latvija, Lenkija) iš pradžių
-    tepripažino Lietuvą tik de facto, t. y. nesiimdamos ginti nau-
-    jos valstybės teisių būti nepriklausomai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
@@ -70,32 +49,22 @@ tags:
     Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
     susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
     kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
-    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Tais metais de facto Lietuvą pripažino Norvegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija (liepos 4 d.).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tais metais de facto Lietuvą pripažino Nor-
+    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
+    iš balkono sveikino minias. Tais metais de facto Lietuvą pripažino Nor-
     vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
     (liepos 4 d.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Tačiau pilietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija 1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama tas valstybes ir sustiprindama jų pozicijas.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokie-
+    tijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant
+    grėsmę savo sienoms ir atskiram valstybiniam gyvenimui.
     Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-
     tendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-
     lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
@@ -104,11 +73,29 @@ tags:
     prindama jų pozicijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
+    tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
+    nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
+    apie padėtį Lietuvoje.
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
+    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
+    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
+    iš balkono sveikino minias.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

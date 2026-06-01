@@ -1,31 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Marienverderis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1009 m.'
-  - '1795 m.'
   - '2005 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XVIII'
-  - 'XXI'
 date_start: '1009'
 date_end: '2005'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - miestas
   - pilis
   - tikėjimas
+amziai:
+  - 'XI'
+  - 'XXI'
 ---
 # Marienverderis
 
@@ -34,38 +27,36 @@ tags:
 Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams]. Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t.'
+  teiginys: 'Marienverderio kryžiuočių pilies kapitelio, puošusio koloną, kopija (išklotinė).'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams].'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Marienverderio kryžiuočių pilies kapitelio, puošusio koloną, kopija (išklotinė).'
-  pagrindžia:
-    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Jo nuomone, Marienverderio pilis pavyslyje pastatyta,
-    „kad dievas palaimintų mums kelią į kaimynines netikėlių žemes“ (III, 9), t. y. į vakarines
-    prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,
-    315), t.
+    p. 32, Kryžiuočių kovos su lietuviais scena. x1v a. Marienverderio kryžiuočių pilies kapitelio,
+    puošusio koloną, kopija (išklotinė). Bumblauskas A. Senosios Lietuvos istorija 1009-1795,
+    Vilnius, 2005, p. 86.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams].'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,11 +72,10 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -103,22 +93,6 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     buvo arba paimti į nelaisvę, arba užmušti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Marienverderio kryžiuočių pilies kapitelio, puošusio koloną, kopija (išklotinė).'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 32, Kryžiuočių kovos su lietuviais scena. x1v a. Marienverderio kryžiuočių pilies kapitelio,
-    puošusio koloną, kopija (išklotinė). Bumblauskas A. Senosios Lietuvos istorija 1009-1795,
-    Vilnius, 2005, p.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004

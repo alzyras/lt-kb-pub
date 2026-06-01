@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Žemės reformos įstatymas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - reforma
   - saltinis
@@ -21,24 +18,20 @@ tags:
 20 d. įstatymu), kad tam tikslui bus suvartotos ne tik valstybei priklausančios žemės, bet ir privatinės. Didžiosios žemės reformos įstatymas buvo išleistas tik 1922 metais (kovo 29 d.).
 
 ## Teiginiai
+
 - t-001
   teiginys: '1919 m. birželio 20 d. įstatymas numatė žemės reformai naudoti ne tik valstybės, bet ir privačią žemę.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Didžiosios žemės reformos įstatymas buvo išleistas tik 1922 metais (kovo 29 d.).'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1919 m. birželio 20 d. įstatymas numatė žemės reformai naudoti ne tik valstybės, bet ir privačią žemę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jau tada
@@ -55,15 +48,13 @@ tags:
     pašalpos — medžių ligi 100 kelmų ir javų ligi 30 pūdų žieminių
     ir 50 pūdų vasarinių. Gautoji žemė negalėjo būti nei kam nors
     parduota nei kitaip kaip perleista be vyriausybės sutikimo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Didžiosios žemės reformos įstatymas buvo išleistas tik 1922 metais (kovo 29 d.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiosios žemės reformos įstatymas buvo
@@ -73,10 +64,9 @@ tags:
     ūkiui, — pirmiausia smulkiajam ir vidutiniajam ūkiui. Reforma,
     be to, dar norėjo perimti į valstybės nuosavybę tuos žemės tur-
     tus, kuriuos valstybė gali tikslingiau sunaudoti ir apsaugoti,
-  citata_rodoma: ""
+    negu privatiniai asmens.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002

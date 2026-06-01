@@ -29,22 +29,22 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: 'Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
   pagrindžia:
     - c-004
 
 - t-003
-  teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
-  pagrindžia:
-    - c-003
-
-- t-001
   teiginys: 'Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskupus 1491 metais, šešiolika metų eidamas ga­ nytojo pareigas įgijo šalyje didelę įtaką ir pagarsėjo taryboje nuovoka kaip reta kas.'
   pagrindžia:
     - c-001
 
-- t-002
+- t-004
   teiginys: 'Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasininku, su­ tuokė didįjį kunigaikštį su Elena, virš jos galvos kunigaikš­ tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­ linę vyno42.'
   pagrindžia:
     - c-002
@@ -68,7 +68,7 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -85,9 +85,9 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
-- c-004
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kilo didelis pavojus karaliaus
@@ -102,9 +102,9 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-003
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miestiečiai prie jų
@@ -121,7 +121,7 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

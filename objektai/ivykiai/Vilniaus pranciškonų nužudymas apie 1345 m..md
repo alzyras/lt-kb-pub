@@ -1,34 +1,18 @@
 ---
 tipas: ivykis
-pavadinimas: "Vilniaus pranciškonų nužudymas apie 1345 m."
-sukurta: '2026-05-27'
-variantai:
-  - "Pranciškonų nukankinimas Vilniuje"
-  - "Keturiolikos pranciškonų nužudymas"
-  - "1341 m. pranciškonų nužudymo versija"
-  - "1333 m. pranciškonų nukankinimo versija"
-aliases: []
+pavadinimas: 'Vilniaus pranciškonų nužudymas apie 1345 m.'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "apie 1345 m.; šaltinyje taip pat aptariamos 1333 m. ir 1341 m. versijos"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1333 m.'
   - '1341 m.'
   - '1345 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1333'
 date_end: '1345'
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
-tags: []
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
 ---
 # Vilniaus pranciškonų nužudymas apie 1345 m.
 
@@ -37,6 +21,7 @@ tags: []
 Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną: septyni vienuoliai buvo nužudyti turgaus aikštėje, o dar septyni, sučiupti ant Plikojo kalno, žuvo Vilnioje. Balińskis kartu pateikia ir ankstesnių autorių versijas apie 1333 m. arba 1341 m. žudynes, bet pažymi jų painiavą.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: apie 1345 m.; aptariamos 1333 m. ir 1341 m. versijos
 - datos:
   - apie 1345 m.
@@ -48,37 +33,39 @@ Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną: se
 - date_end: 1345
 
 ## Dalyviai ir vaidmenys
+
 - Vilniaus prastuomenė: pagrindiniame pasakojime užėmė pranciškonų vienuolyną ir nužudė vienuolius.
 - Pranciškonai: įvykio aukos.
 - Algirdas ir Goštautas: minimi kaip tuo metu išvykę iš Vilniaus.
 
 ## Eiga
+
 Pagrindinis pasakojimas sieja įvykį su Algirdo ir Goštauto nebuvimu Vilniuje. Išnašose pateikiamos skirtingos ankstesnių autorių versijos dėl datos, aukų skaičiaus ir Goštauto vaidmens.
 
 ## Rezultatas
+
 Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama aiški istoriografinė abejonė dėl alternatyvių versijų.
 
 ## Teiginiai
+
 - t-001
-  teiginys: "Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
+  teiginys: 'Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: "Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą."
+
+- t-002
+  teiginys: 'Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą.'
   pagrindžia:
-    - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-004
+    - c-002
+
+- t-003
   teiginys: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
   pagrindžia:
-    - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Pagrindinis pasakojimas apie pranciškonų vienuolyno užėmimą ir vienuolių nužudymą apie 1345 m.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -92,15 +79,13 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
     bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
     atminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Pagrindinis tekstas tiesiogiai aprašo įvykį, bet pats šaltinis pateikia ir alternatyvias versijas."
+  statusas: verified
   pagrindžia:
     - t-001
-- c-003
-  santrauka: Grzybowskio versija apie 1341 m. miestiečių ir totorių užpuolimą.
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visos detalės apie Lietu­
@@ -121,18 +106,19 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     naują vienuolyną, visus 36 vienuo­
     lius ir su jais sykiu Goštautą nukan­
     kino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pateikia šaltinyje referuojamą kitą versiją, ne tiesiogiai patvirtintą vieną datą."
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
+    - t-002
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Grzybowski  s, pranciško­
+    Visos detalės apie Lietu­
+    vos pranciškonus yra šio didžiulio
+    ordino analų rinkinio septintame to­
+    me. Grzybowski  s, pranciško­
     nas, anksčiau nurodytoje knygoje
     (8 p.) sako, kad Goštautas pranciš­
     konu tapęs Krokuvoje, o paskui ap­
@@ -149,11 +135,9 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     kino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

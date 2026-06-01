@@ -26,18 +26,18 @@ amziai:
 ## Teiginiai
 
 - t-001
-  teiginys: '67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.'
+  teiginys: '1586 m. liepos 11 d. karaliaus Stepono sprendimu visiems Vilniaus gyventojams įsakyta pagarbiai švęsti iškilmingas šventes pagal naują kalendorių.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: '149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem ex seriis partium controversiis anno 1586 die 11 Julii latum, quo festa.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be karaliaus Stepono laiškų, rašytų
@@ -84,7 +84,8 @@ amziai:
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
+  santrauka: '1586 m. liepos 11 d. karaliaus Stepono sprendimu visiems Vilniaus gyventojams įsakyta pagarbiai švęsti iškilmingas šventes pagal naują kalendorių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     21.

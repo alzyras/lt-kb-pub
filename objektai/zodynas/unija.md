@@ -1,23 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: unija
-sukurta: '2026-04-25'
-variantai:
-  - unija
-  - nauja unija
-aliases: []
+pavadinimas: 'unija'
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: vidutinis
-atnaujinta: '2026-04-25'
-tags: []
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # unija
 
@@ -26,63 +13,25 @@ tags: []
 Valstybinė santvarka po Liublino unijos.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
+
+- t-001
   teiginys: '1401 m. sausio 18 d. aktu buvo atnaujinta Lietuvos priklausomybė Lenkijai.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
+
+- t-002
   teiginys: 'Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­ kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­ damas pastangų atsiimti lietuvišką kraštą — Žemaitija.'
   pagrindžia:
-    - c-003
+    - c-001
+
+- t-003
+  teiginys: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
-    stiprinęs savo padėtį viduje, vėl ėmė nesutikti su Ordinu. Tam
-    buvo priežasčių. Nors Vytautas, darydamas Salyno taiką ir
-    buvo jam pavedęs Žemaičius, bet jie geruoju naujiems šeiminin­
-    kams nepasidavė ir nemanė pasiduoti: reikėjo juos jėga užka­
-    riauti. Jie į tai atsakydavo sukilimais, kuriuos Ordinas žiau­
-    riai malšindavo. Tame darbe jiems iš pradžių talkininkavo ir
-    Vytautas. Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­
-    kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
-    damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: '1401 m. sausio 18 d. aktu buvo atnaujinta Lietuvos priklausomybė Lenkijai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ne­
-    trukus atėjo ir Vytautui eilė: 1401 m. sausio 18 d. buvo vėl at­
-    naujintas aktas Lietuvos priklausomybės Lenkijai, kas paskutinį
-    kartą buvo pareikšta 1392 m.^3 ) ir nuo to laiko toji priklausomy­
-    bė buvo gerokai apardyta.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-003
-  santrauka: 'Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­ kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­ damas pastangų atsiimti lietuvišką kraštą — Žemaitija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
@@ -97,23 +46,57 @@ Valstybinė santvarka po Liublino unijos.
     damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-003
+
+- c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl jie pasiskubina jo sustiprėjimą sulai­
+    kyti. Lenkija tuojau pareikalavo iš Lietuvos Rusijos kunigaikš­
+    čių, kurie iki tol išimtinai priklausė Vytautui, priesaikos ir
+    pripažinimo savo sričių lėniškos priklausomybės Lenkijai. Ne­
+    trukus atėjo ir Vytautui eilė: 1401 m. sausio 18 d. buvo vėl at­
+    naujintas aktas Lietuvos priklausomybės Lenkijai, kas paskutinį
+    kartą buvo pareikšta 1392 m.^3 ) ir nuo to laiko toji priklausomy­
+    bė buvo gerokai apardyta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
+    stiprinęs savo padėtį viduje, vėl ėmė nesutikti su Ordinu. Tam
+    buvo priežasčių. Nors Vytautas, darydamas Salyno taiką ir
+    buvo jam pavedęs Žemaičius, bet jie geruoju naujiems šeiminin­
+    kams nepasidavė ir nemanė pasiduoti: reikėjo juos jėga užka­
+    riauti. Jie į tai atsakydavo sukilimais, kuriuos Ordinas žiau­
+    riai malšindavo. Tame darbe jiems iš pradžių talkininkavo ir
+    Vytautas. Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­
+    kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
+    damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/santvarka]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
 - [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
 - [[objektai/autoriai/A. E. Presniakov]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
-- [[objektai/asmenys/Absalomas Mžiglodas]]
 - [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
@@ -153,13 +136,16 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jeronimas Opachovskis]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/autoriai/K. Chodynickis]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
 - [[objektai/autoriai/Kochanovskis]]
@@ -198,7 +184,6 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/Rašliava]]
 - [[objektai/asmenys/Romanas Dmovskis]]
 - [[objektai/grupes/Romanovų dinastija]]
@@ -213,13 +198,15 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]
+- [[objektai/daiktai/Valstybės antspaudai]]
 - [[objektai/ivykiai/Varšuvos konfederacija]]
+- [[objektai/paprociai/Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]
 - [[objektai/asmenys/Vilhelmas fon Urachas]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
-- [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
+- [[objektai/asmenys/Vladislovas Jogailaitis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
@@ -233,6 +220,7 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/atskiri seimai]]
+- [[objektai/zodynas/aukso laisvė]]
 - [[objektai/zodynas/bajoriškoji demokratija]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
 - [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]

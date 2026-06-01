@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Merlinas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
@@ -25,22 +16,20 @@ tags:
 Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių link. Merlinas išsiuntė raportą gen.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mjr. Merlinas buvo pasiųstas per Viešintas Šimonių link su pusantros kuopos pėstininkų ir 70 kazokų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Mjr. Merlinas, atsitraukęs į kaimo gilumą, išsiuntė raportą gen. mjr. I. Ganeckiui apie sukilėlių pasitraukimą Gudiškio link.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mjr. Merlinas buvo pasiųstas per Viešintas Šimonių link su pusantros kuopos pėstininkų ir 70 kazokų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gegužės 4 d. rusai pasiekė Anykščius ir
@@ -51,15 +40,13 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
     mjr. Merliną su pusantros kuopos pėsti-
     ninkų ir 70 kazokų per Viešintas Šimonių
     link.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Mjr. Merlinas, atsitraukęs į kaimo gilumą, išsiuntė raportą gen. mjr. I. Ganeckiui apie sukilėlių pasitraukimą Gudiškio link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atsitraukęs kaimo gilumon, mjr. Mer-
@@ -75,11 +62,9 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
     vienkiemio link,
     kuriame buvo įsi-
     kūrusi girininkija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

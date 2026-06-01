@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Maskvėnai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -18,25 +15,26 @@ tags:
 LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu LDK rytų slavus – lietuviais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu LDK rytų slavus – lietuviais.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu LDK rytų slavus – lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LDK rytų slavai Rusijos žmones vadino maskvėnais, o
+    Juk pusė senosios Kijevo Ru-
+    sios valstybės pateko į Lietuvos ir Lenkijos sudėtį, ir nuo XIV a. senrusių
+    bajorijos, kunigaikščių savimonė buvo veikiama šiose valstybėse vykstan-
+    čių procesų. XVI a. rusėnai pasijuto visai atskira tauta, kitokia nei Mas-
+    kvos valstybės rusai. LDK rytų slavai Rusijos žmones vadino maskvėnais, o
     maskvėnai savo ruožtu LDK rytų slavus – lietuviais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

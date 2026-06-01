@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'flangas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - sąvoka
@@ -25,22 +16,20 @@ tags:
 Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol į mūšį neįsitraukė pagrindinės lenkų pajėgos, nes priešingu atveju būtų pavojingai atidengtas lietuvių sąjungininkų dešinysis flangas. Tuo momentu buvo aktyvuotas lenkų rezervas, kuris pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol į mūšį neįsitraukė pagrindinės lenkų pajėgos, nes priešingu atveju būtų pavojingai atidengtas lietuvių sąjungininkų dešinysis flangas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Lenkų rezervas pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol į mūšį neįsitraukė pagrindinės lenkų pajėgos, nes priešingu atveju būtų pavojingai atidengtas lietuvių sąjungininkų dešinysis flangas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kova su priešo sunkiąja kavalerija lietu-
@@ -53,15 +42,13 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
     priešingu atveju būtų pavojingai atideng-
     tas lietuvių sąjungininkų dešinysis flan-
     gas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Lenkų rezervas pradėjo apeiti kryžiuočius kairėje iš jų dešiniojo flango.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočiai, pamanę, jog mūšis laimė-
@@ -75,11 +62,9 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
     ## Puslapis 67
 
     pajėgos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -98,5 +83,6 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/rezervas]]
+- [[objektai/zodynas/šachmatinė tvarka]]
 - [[objektai/posakiai/„Kristus prisikėlė“]]
 - [[objektai/asmenys/Michailas Bulgakovas-Golica]]

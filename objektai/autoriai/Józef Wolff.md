@@ -1,33 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Józef Wolff'
-sukurta: '2026-05-05'
-variantai:
-  - 'Wolff'
-  - 'Wolffas'
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-bukle: juodrastis
-laikotarpis: '1886 m.'
 datos:
   - '1886 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1886'
 date_end: ''
-vaidmenys:
-  - 'istorikas'
-  - 'autorius'
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-05-05'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Józef Wolff
 
@@ -40,36 +27,32 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 - Ród Gediminą
 
 ## Teiginiai
-- t-003
+
+- t-001
   teiginys: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
+
+- t-002
   teiginys: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
     nius, 1848.
     Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
 - c-002
-  santrauka: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
@@ -81,13 +64,11 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
     puose 1348 metais pasirodo jau subrendęs vyras ir duktė Rin­
     gailė, ištekėjusi 1392 metais, vadinasi, po 44 metų, — būtų buvę
     gimę iš vienos motinos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  citata_rodoma: ''
+  teiginio_tipas: interpretacija
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

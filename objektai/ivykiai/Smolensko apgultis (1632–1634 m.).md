@@ -1,34 +1,19 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Smolensko apgultis (1632–1634 m.)'
-sukurta: '2026-05-02'
-variantai:
-  - 'Smolensko apgultis'
-  - 'Smolensko kampanija'
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-bukle: 'juodrastis'
-laikotarpis: '1632–1634 m.'
 datos:
-  - '1632–1634 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVII'
+  - '1632 m.'
+  - '1634 m.'
 date_start: '1632'
 date_end: '1634'
-vaidmenys: []
-dalyviai:
-  - 'Michailas Šejinas'
-  - 'Vladislovas Vaza'
-  - 'Kristupas Radvila'
-  - 'Aleksandras Gonsevskis'
-susije_irasai: []
-patikimumas: 'aukstas'
-atnaujinta: '2026-05-02'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
+amziai:
+  - 'XVII'
 ---
 # Smolensko apgultis (1632–1634 m.)
 
@@ -49,34 +34,30 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją siekdama atgauti Smolenską ir lapkričio 14 d. apsiautė miestą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
+
+- t-001
   teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
+
+- t-002
+  teiginys: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
+  pagrindžia:
+    - c-002
+
+- t-003
   teiginys: 'Prie Polianovkos buvo sudaryta „amžinosios taikos“ sutartis tarp Lietuvos, Lenkijos ir Rusijos.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-004
+  teiginys: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją siekdama atgauti Smolenską ir lapkričio 14 d. apsiautė miestą.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją siekdama atgauti Smolenską ir lapkričio 14 d. apsiautė miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -91,15 +72,13 @@ Nenurodyta
 
     jama Michailo Šejino, lapkričio 14 d. ap-
     gulė šį miestą. Rusų kariuomenėje buvo
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
+
 - c-002
-  santrauka: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Smolenską gynė apie 2 tūkst. Lietuvos
@@ -111,15 +90,13 @@ Nenurodyta
     dymus organizavo Smolensko vaivada
     Aleksandras Gonsevskis su 6 tūkst. apy-
     linkėse veikusių karių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
+
 - c-003
-  santrauka: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
@@ -145,15 +122,13 @@ Nenurodyta
     susirėmimų nustūmė rusus nuo miesto,
     apsupo sumenkusias priešo pajėgas ir
     1634 m. sausio 24 d. privertė kapituliuoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
+
 - c-004
-  santrauka: 'Prie Polianovkos buvo sudaryta „amžinosios taikos“ sutartis tarp Lietuvos, Lenkijos ir Rusijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prie Polianovkos upės Lietuva ir Lenkija su
@@ -163,13 +138,11 @@ Nenurodyta
     po to priklausė Lietuvai. Sutartis galiojo iki
     1654 m., kai sulaužę ją rusai vėl įsiveržė į
     Lietuvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   pagrindžia:
     - c-002
@@ -65,7 +65,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
     - t-002
 
 - c-002
@@ -85,7 +85,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-003
   santrauka: 'Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.'

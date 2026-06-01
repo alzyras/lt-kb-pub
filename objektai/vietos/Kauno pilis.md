@@ -1,41 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Kauno pilis (pilis)'
-sukurta: '2026-05-20'
-variantai:
-  - 'Kauno pilis'
-aliases:
-  - 'Kauno pilis'
 saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1252 m.'
-  - '1361 m.'
-  - '1362 m.'
-  - '1466 m.'
-  - '1932 m.'
-  - '1933 m.'
-  - '1934 m.'
-  - '1978 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1252'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XIII'
+  - 'XXI'
 ---
 # Kauno pilis (pilis)
 
@@ -44,48 +27,30 @@ tags:
 Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m., Kęstučio sūnaus Butauto pabėgimą (Židi­ nys, 1932), apie bandymus pakrikštyti Lietuvą Algirdo ir Kęstučio laikais (TK, 1932, Nr. 12).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šležas rašė apie Kauno pilies išgriovimą 1362 m.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-003
+
 - t-002
   teiginys: 'Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba.'
   pagrindžia:
-    - c-002
+    - c-001
+
 - t-003
   teiginys: 'Kauno pilies apgula Ordino ir talkininkų kariuomenė šį kartą Nemunu laivais, pučiant vakarų vėjui, tyliai aplenkdama Veliuonos ir Pieštvės pilis, pasiekė Kauną.'
   pagrindžia:
-    - c-003
+    - c-002
+
 - t-004
   teiginys: 'Kryžiuočių pajėgos Kauno pilį puolė - Ordino magistro Vinricho iš Kniprodės, didžiojo komtūro, didžiojo maršalo, Elbingo, Christburgo, Balgos komtūrų ir kitų vadovaujamos kryžiuočių pajėgos, Livonijos ordino daliniai, talkininkai-kryžininkai iš Anglijos.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šležas rašė apie Kauno pilies išgriovimą 1362 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Suredagavęs monografiją apie Vytautą D., jis pats ten rašė
-    du straipsnius apie Vytauto santykius su Lenkija ir apie jo kon­
-    fliktą dėl karūnacijos. Pažymėtini Šležo stambesni darbai (at­
-    spaudai) : 1) «Klaipėdos miesto istorija 1252-1466 » (MŽ, 1933);
-    2) «Mindaugas-Lietuvos karalius» (t. p. 1934), ir 3) «Kęstučio
-    šeima » (t. p. 1933). Iš Kęstučio laikotarpio jis rašė dar apie Kauno
-    pilies išgriovimą 1362 m., Kęstučio sūnaus Butauto pabėgimą (Židi­
-    nys, 1932), apie bandymus pakrikštyti Lietuvą Algirdo ir Kęstučio
-    laikais (TK, 1932, Nr. 12).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Grįžęs namo, jis vėl
@@ -97,13 +62,11 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     svarbioje vietoje - Nemuno ir Nėries santakoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Kauno pilies apgula Ordino ir talkininkų kariuomenė šį kartą Nemunu laivais, pučiant vakarų vėjui, tyliai aplenkdama Veliuonos ir Pieštvės pilis, pasiekė Kauną.'
+
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kauno pilies apgula
@@ -114,16 +77,36 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 
     vės pilis, pasiekė Kauną. Išsilaipino že-
     miau Kauno, keletą dienų statė tiltus ir
-    trečiąją dieną atžygiavo prie pilies.
+    trečiąją dieną atžygiavo prie pilies. Po
+    kovo 13-osios kryžiuočiai apgulė pilį, tarp
+    Neries ir Nemuno įrengė savo įtvirtini-
+    mus - griovį, pylimus su kuorais, izo-
+    liuodami pilį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Suredagavęs monografiją apie Vytautą D., jis pats ten rašė
+    du straipsnius apie Vytauto santykius su Lenkija ir apie jo kon­
+    fliktą dėl karūnacijos. Pažymėtini Šležo stambesni darbai (at­
+    spaudai) : 1) «Klaipėdos miesto istorija 1252-1466 » (MŽ, 1933);
+    2) «Mindaugas-Lietuvos karalius» (t. p. 1934), ir 3) «Kęstučio
+    šeima » (t. p. 1933). Iš Kęstučio laikotarpio jis rašė dar apie Kauno
+    pilies išgriovimą 1362 m., Kęstučio sūnaus Butauto pabėgimą (Židi­
+    nys, 1932), apie bandymus pakrikštyti Lietuvą Algirdo ir Kęstučio
+    laikais (TK, 1932, Nr. 12).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-004
-  santrauka: 'Kryžiuočių pajėgos Kauno pilį puolė - Ordino magistro Vinricho iš Kniprodės, didžiojo komtūro, didžiojo maršalo, Elbingo, Christburgo, Balgos komtūrų ir kitų vadovaujamos kryžiuočių pajėgos, Livonijos ordino daliniai, talkininkai-kryžininkai iš Anglijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočių pajėgos
@@ -147,8 +130,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     trečiąją dieną atžygiavo prie pilies.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

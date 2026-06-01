@@ -26,94 +26,94 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 
 ## Teiginiai
 
-- t-003
+- t-001
   teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
   pagrindžia:
-    - c-003
-
-- t-013
-  teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
-  pagrindžia:
-    - c-013
-
-- t-014
-  teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
-  pagrindžia:
-    - c-014
-
-- t-007
-  teiginys: 'Dusburgietis teigia, kad apie vienos pilaitės užkariavimą Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją įsibrovė ir, pagavę bei išžudę visus žmones.'
-  pagrindžia:
-    - c-007
-
-- t-011
-  teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
-  pagrindžia:
-    - c-011
-
-- t-009
-  teiginys: 'Dusburgietis teigia, kad apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie Pagudės kilmingieji, tiesa, vos.'
-  pagrindžia:
-    - c-009
+    - c-019
 
 - t-002
-  teiginys: 'Dusburgietis teigia, kad 193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113— 114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę.'
+  teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   pagrindžia:
-    - c-002
+    - c-008
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
   pagrindžia:
-    - c-006
+    - c-010
 
 - t-004
-  teiginys: 'Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.'
+  teiginys: 'Dusburgietis teigia, kad apie vienos pilaitės užkariavimą Susibūrę pagudėnai vėl įsigeidė pradėti karą; patraukę prie Kristburgo, jie smarkiai užpuolė vieną pilaitę, esančią netoliese, kurioje gyveno tikintieji pamedėnai, galop į ją įsibrovė ir, pagavę bei išžudę visus žmones.'
   pagrindžia:
     - c-004
 
-- t-012
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį 1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei broliams nukamuoti nesibaigiančių žygių bei išlaidų, pagudėnai, ir dabar nemanydami nusileisti, paslėpė.'
+  pagrindžia:
+    - c-013
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir apie kai kuriuos tikinčiuosius pagudėnus, prisidėjusius prie brolių Kai antrosios atskalūnybės metais stiprėjo krikščionių persekiojimas, kurie ne kurie Pagudės kilmingieji, tiesa, vos.'
+  pagrindžia:
+    - c-016
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad 193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113— 114). Žemės vardas gretinamas su pr. gudde, ‘krūmai’. Prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekė dab. Elbingo apylinkes, o rytuose — Alnos upę.'
+  pagrindžia:
+    - c-006
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
+  pagrindžia:
+    - c-003
+
+- t-009
+  teiginys: 'Dusburgietis teigia, kad tą patį viešai sakė ir kiti pagudėnai, buvę tuo metu šioje kariuomenėje, kai jie vėliau priėmė Kristaus tikėjimą.'
+  pagrindžia:
+    - c-001
+
+- t-010
   teiginys: 'Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai pradėjo įtikinėti krikščionis atiduoti jiems pilį ir patiems pasiduoti, antraip visi būsią išžudyti ir sunaikinti.'
   pagrindžia:
     - c-012
 
-- t-017
+- t-011
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę ir ją nusiaubė, degindami bei piešdami, daugybę paėmė į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo šeimyna patraukė link Lietuvos į Gardino pilies apygardą [territorium], o.'
+  pagrindžia:
+    - c-007
+
+- t-012
+  teiginys: 'Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
+  pagrindžia:
+    - c-011
+
+- t-013
+  teiginys: 'Dusburgietis teigia, kad konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę, išsivarė į nelaisvę moteris ir vaikus. Kai šitai vyko, ir vyrai, ir moterys.'
+  pagrindžia:
+    - c-015
+
+- t-014
+  teiginys: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
+  pagrindžia:
+    - c-002
+
+- t-015
+  teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
+  pagrindžia:
+    - c-009
+
+- t-016
+  teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
   pagrindžia:
     - c-017
 
-- t-001
-  teiginys: 'Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
-  pagrindžia:
-    - c-001
-
-- t-016
-  teiginys: 'Dusburgietis teigia, kad konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės žemę ir, išžudę nesuskaičiuojamą galybę vyrų, ugnimi nusiaubę visą žemę bei ją apiplėšę, išsivarė į nelaisvę moteris ir vaikus. Kai šitai vyko, ir vyrai, ir moterys.'
-  pagrindžia:
-    - c-016
-
-- t-018
-  teiginys: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
-  pagrindžia:
-    - c-020
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad nuo tol pamedėnai, pagudėnai, varmiai, notangai ir bartai311, šitaip viską patvarkius viešpačiui Jėzui Kristui, kurio rankose aukščiausia visų karalysčių valdžia ir teisė, sugrįžo į tikėjimą ir, davę broliams įkaitų, iš naujo pasidavė.'
-  pagrindžia:
-    - c-005
-
-- t-010
-  teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
-  pagrindžia:
-    - c-010
-
-- t-008
+- t-017
   teiginys: 'Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­ medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį Divanas, pravarde Klokinis418, bartų vadas, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
   pagrindžia:
-    - c-008
+    - c-014
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     nė tiksliai aprašyti, nė atpasakoti. Vis dėlto papasakosiu vieną pažymėtiną nuostabų
@@ -131,9 +131,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-009
 
-- c-020
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat velnias, žmonių giminės
@@ -147,9 +147,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-018
+    - t-014
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų,
@@ -167,9 +167,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-008
 
-- c-007
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
@@ -187,9 +187,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-004
 
-- c-019
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1273 viešpaties metais, kai sembai, notangai, bartai ir varmiai pasidavė tikėjimui bei
@@ -205,9 +205,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-005
 
-- c-002
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     193 D.— Pogesania, Jer.— Pogezênen. Lie. Pagudė įteisinta K. Būgos (3, p. 113—
@@ -217,9 +217,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-007
 
-- c-017
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     191 (186). Dar apie tą patį
@@ -238,9 +238,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-017
+    - t-011
 
-- c-013
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
@@ -258,9 +258,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-013
+    - t-002
 
-- c-005
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Įvyko šitaip todėl, kad pats Kristus,
@@ -278,9 +278,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-015
 
-- c-014
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
@@ -298,9 +298,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-014
+    - t-003
 
-- c-001
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Antra — Pamedė192, kurioje [gyveno] pamedėnai. Trečia — Pagudė193,
@@ -309,7 +309,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-012
 
 - c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -325,9 +325,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-012
+    - t-010
 
-- c-011
+- c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     170 (165). Apie Liefardo malūno paėmimą ir daugybės Elbingo miestiečių žūtį
@@ -343,9 +343,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-011
+    - t-005
 
-- c-008
+- c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
@@ -362,9 +362,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-017
 
-- c-016
+- c-015
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Konradas iš Tirbergo, magistras, ir broliai, subūrę didelę kariuomenę, įsiveržė į Pagudės
@@ -378,9 +378,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-016
+    - t-013
 
-- c-009
+- c-016
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     168 (163). Apie Elbingo brolių bei miestiečių kovas antrosios atskalūnybės metais ir
@@ -399,9 +399,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-009
+    - t-006
 
-- c-010
+- c-017
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     169 (164). Apie Veklico pilies ir vienos pilaitės sugriovimą
@@ -415,7 +415,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-010
+    - t-016
 
 - c-018
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -432,9 +432,9 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-008
+    - t-017
 
-- c-003
+- c-019
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su pagudėnais ir Elbingo pilies pastatymą
@@ -451,7 +451,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

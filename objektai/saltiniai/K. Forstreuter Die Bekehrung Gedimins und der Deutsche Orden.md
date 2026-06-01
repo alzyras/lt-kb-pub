@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'K. Forstreuter Die Bekehrung Gedimins und der Deutsche Orden'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1928 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1928'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # K. Forstreuter Die Bekehrung Gedimins und der Deutsche Orden
 
@@ -27,18 +21,15 @@ tags:
 : Die Bekehrung Gedimins und der Deutsche Orden, AP, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Forstreuterio „Die Bekehrung Gedimins und der Deutsche Orden“ 1928 m. paskelbtas AP 5 tome, 239–268 puslapiuose.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'K. Forstreuterio „Die Bekehrung Gedimins und der Deutsche Orden“ 1928 m. paskelbtas AP 5 tome, 239–268 puslapiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
@@ -51,10 +42,8 @@ tags:
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

@@ -19,13 +19,14 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
 ## Teiginiai
 
 - t-001
-  teiginys: 'IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai, visas jų teises, taip ir religijos bei tikėjimo papročius, jei pasižadėtų, nepa­ keistus išsaugoti.'
+  teiginys: 'Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     SIGISMUNDUS AUGUSTUS Rex.
@@ -50,4 +51,3 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/dominija]]
-- [[objektai/zodynas/Puslapis 77]]

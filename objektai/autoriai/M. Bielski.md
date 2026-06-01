@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'M. Bielski'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -24,16 +15,15 @@ tags:
 Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstamų aptariamam autoriui.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstamų aptariamam autoriui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Laikydama pagrindu Lietuvos valstybės žemes, ji
@@ -43,11 +33,9 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
     ir Livonijos kronikas. Iš lenkų kronikų jam buvo pažįstamas J.
     Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio
     ir M. Kromerio kronikos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

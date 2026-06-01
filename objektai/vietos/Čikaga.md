@@ -27,12 +27,12 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 
 ## Teiginiai
 
-- t-004
+- t-001
   teiginys: '1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-002
   teiginys: 'Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV).'
   pagrindžia:
     - c-001
@@ -42,7 +42,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   pagrindžia:
     - c-003
 
-- t-002
+- t-004
   teiginys: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
   pagrindžia:
     - c-002
@@ -59,7 +59,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -83,7 +83,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -123,4 +123,4 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001

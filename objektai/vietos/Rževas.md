@@ -34,7 +34,7 @@ amziai:
     - c-001
 
 - t-002
-  teiginys: '(piečiau Smolensko) ir galutinai įsitvirtino Mūšio priešistorė Rževe.'
+  teiginys: 'Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,7 @@ amziai:
     - t-001
 
 - c-002
+  santrauka: 'Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos valstybės dominavimas šiose te-

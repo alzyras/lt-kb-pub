@@ -1,17 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Gyventojų išlaidų normuojamasis įstatymas (lex sumptuaria, 1776 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+datos:
+  - '1776 m.'
+date_start: '1776'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - saltinis
   - seimas
+amziai:
+  - 'XVIII'
 ---
 # Gyventojų išlaidų normuojamasis įstatymas (lex sumptuaria, 1776 m.)
 
@@ -20,44 +23,20 @@ tags:
 Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria). 1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi prižiūrėti jo vykdymą.
 
 ## Teiginiai
+
 - t-001
-  teiginys: '1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: '1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi prižiūrėti jo vykdymą.'
   pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: '1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
+  pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kadangi visas aukštesnysis sluoksnis buvo užsikrėtęs vakarų
-    Europos madomis, tai iš užsienio reikėjo įvežti labai daug prekių,
-    ir prekybos balansas būdavo pasyvus. Tad, norėdamas sumažinti im-
-    portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
-    išlaidų normuojamąjį įstatymą **_(lex sumptuaria)._** Juo visiems mies-
-    tiečiams ir bajorijai buvo uždrausta taisytis užsienio medžiagomis,
-    ponams buvo įsakyta savo tarnus taisyti kuo pigiausiai, o visų vai-
-    vadijų bajorijai įsakyta nešioti tam tikros spalvos vietinės medžiagos
-    mundierius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi prižiūrėti jo vykdymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad, norėdamas sumažinti im-
@@ -69,10 +48,26 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
     mundierius. 1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
     ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
     prižiūrėti jo vykdymą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kadangi visas aukštesnysis sluoksnis buvo užsikrėtęs vakarų
+    Europos madomis, tai iš užsienio reikėjo įvežti labai daug prekių,
+    ir prekybos balansas būdavo pasyvus. Tad, norėdamas sumažinti im-
+    portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
+    išlaidų normuojamąjį įstatymą **_(lex sumptuaria)._** Juo visiems mies-
+    tiečiams ir bajorijai buvo uždrausta taisytis užsienio medžiagomis,
+    ponams buvo įsakyta savo tarnus taisyti kuo pigiausiai, o visų vai-
+    vadijų bajorijai įsakyta nešioti tam tikros spalvos vietinės medžiagos
+    mundierius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002

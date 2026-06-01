@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Bajorijos konfederacija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
@@ -25,19 +16,20 @@ tags:
 Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi norinti sujungti į vieną kūną visas buvusios Respublikos žemes ir visus kvietė į bendrą darbą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Bet bajorija į laikinę vyriausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pagauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas jo apsivylimas daug prisidėjo, kad jis vis nieko
@@ -47,15 +39,13 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
     tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri
     skelbėsi norinti sujungti į vieną kūną visas buvusios Respubli-
     kos žemes ir visus kvietė į bendrą darbą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Bet bajorija į laikinę vyriausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pagauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet bajorija į laikinę vy-
@@ -67,9 +57,7 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
     karštai sutiko Vilniaus universiteto jaunuomenė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

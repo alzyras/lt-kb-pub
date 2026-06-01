@@ -19,12 +19,12 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religinė viršenybė rusiškojo tikėjimo vyskupų Lietuvo­ je atžvilgiu.'
   pagrindžia:
     - c-001
@@ -55,7 +55,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -81,7 +81,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -91,5 +91,4 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/asmenys/Fotijus]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/metropolitas metropolija]]

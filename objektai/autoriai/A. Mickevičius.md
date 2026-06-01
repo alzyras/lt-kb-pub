@@ -1,13 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'A. Mickevičius'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - krikštas
@@ -21,16 +18,15 @@ tags:
 Mickevičiaus, J.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
@@ -38,12 +34,14 @@ Mickevičiaus, J.
     liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
     J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
     savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
-    ba rašyta poezija.
-  citata_rodoma: ""
+    ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
+    ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi-
+    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
+    pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
+    Žymantienės-Žemaitės sodri realistinė sociali proza.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

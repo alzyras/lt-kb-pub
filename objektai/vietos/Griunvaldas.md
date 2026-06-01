@@ -27,24 +27,25 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 
 ## Teiginiai
 
-- t-006
-  teiginys: 'Lietuvos mūšiai 15 ## Puslapis 18 AG Li; Žalgirio mūšio inscenizacija Griunvaldo apylinkėse Lenkijoje: Lietuvos kariuomenė, kartu su sąjungininkais lenkais; | 2 1410 m.'
+- t-001
+  teiginys: '1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordiną.'
   pagrindžia:
-    - c-006
+    - c-001
 
 - t-002
   teiginys: 'NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija.'
   pagrindžia:
     - c-002
 
-- t-007
+- t-003
   teiginys: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
   pagrindžia:
-    - c-007
+    - c-004
 
 ## Reikšmingi paminėjimai
 
-- c-006
+- c-001
+  santrauka: '1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su sąjungininkais lenkais sutriuškino Kryžiuočių ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos mūšiai 15
@@ -62,7 +63,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-001
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -76,7 +77,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   pagrindžia:
     - t-002
 
-- c-001
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl vienas dideles savo jėgas jis paliko sau-
@@ -87,7 +88,7 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   teiginio_tipas: faktas
   statusas: verified
 
-- c-007
+- c-004
   santrauka: 'Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -99,4 +100,4 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-003

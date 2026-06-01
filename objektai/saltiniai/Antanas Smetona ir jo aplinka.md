@@ -24,17 +24,17 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012).'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) ir A.'
   pagrindžia:
     - c-003
 
-- t-001
+- t-003
   teiginys: 'Antanas Smetona ir jo aplinka.'
   pagrindžia:
     - c-001
@@ -51,7 +51,7 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -65,7 +65,7 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,4 +79,4 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002

@@ -1,20 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Geležiniai įrankiai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - įrankis
@@ -26,31 +16,35 @@ tags:
 Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.^104 E.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvoje (AkMD, t. 16, 1964, 63-80 p.), apie sidabrą kaip vertės
@@ -62,11 +56,9 @@ Nenurodyta
     apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII
     a.^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
     skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -80,5 +72,6 @@ Nenurodyta
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/autoriai/J. Stankus]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/daiktai/Skydai]]

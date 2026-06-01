@@ -1,30 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Lietuviška Lietuva'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1939 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1939'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
   - valstybė
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Lietuviška Lietuva
 
@@ -33,44 +25,29 @@ tags:
 Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia, kokia yra.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Nepriklausomybės karta Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija.'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 177 Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų.'
   pagrindžia:
-    - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos vyrų
-    krepšinio rinktinė antrą kartą tapo Europos čempionais
+    - c-002
 
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    177
-    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
-    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
-    kokia yra. Gana tipiškas to meto Europai A.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-002
+  teiginys: 'Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Nepriklausomybės karta Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija.'
+    - c-003
+
+- t-003
+  teiginys: 'Nepriklausomybės karta Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
+    žimas, nors ir dėl visai skirtingų priežasčių.
     Nepriklausomybės karta
     Per nepilnus du dešimtmečius Lietuva galutinai tapo lietu-
     viška, jos nebegalėjai supainioti nei su Lenkija, nei su Rusija. A. Smetonos
@@ -78,13 +55,11 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
     tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 177 Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų.'
+    - t-003
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno sporto halėje 1939 m. Lietuvos vyrų
@@ -94,14 +69,41 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
     177
     Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
     tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
-    kokia yra. Gana tipiškas to meto Europai A.
+    kokia yra. Gana tipiškas to meto Europai A. Smetonos valstybės modelis,
+    įdiegtas tautiškumas, patriotizmas savotiškai tarsi paruošė nepriklauso-
+    mybės vaikus viena po kitos ėjusioms trims okupacijoms, net 50 metų už-
+    truksiančiam sovietų valdymui, o Lietuvos nepriklausomybės idėja, viltis
+    vėl gyventi laisvėje duos jėgų išsaugoti gimtąją kalbą, kultūrą, kai greitai
+    besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
+    geriausioms tautos dukterims ir sūnums.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kauno sporto halėje 1939 m. Lietuvos vyrų
+    krepšinio rinktinė antrą kartą tapo Europos čempionais
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    177
+    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
+    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
+    kokia yra. Gana tipiškas to meto Europai A. Smetonos valstybės modelis,
+    įdiegtas tautiškumas, patriotizmas savotiškai tarsi paruošė nepriklauso-
+    mybės vaikus viena po kitos ėjusioms trims okupacijoms, net 50 metų už-
+    truksiančiam sovietų valdymui, o Lietuvos nepriklausomybės idėja, viltis
+    vėl gyventi laisvėje duos jėgų išsaugoti gimtąją kalbą, kultūrą, kai greitai
+    besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
+    geriausioms tautos dukterims ir sūnums.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

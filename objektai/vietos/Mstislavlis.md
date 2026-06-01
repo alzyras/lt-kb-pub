@@ -1,31 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Mstislavlis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1362 m.'
-  - '1907 m.'
-  - '2013 m.'
   - '2026 m.'
-  - '1358 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1362'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XIV'
+  - 'XXI'
 ---
 # Mstislavlis
 
@@ -34,126 +23,59 @@ tags:
 Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Mstislavlyje esanti Basųjų karmelitų bažnyčia laikoma ryčiausiu Vilniaus baroko mokyklos ir J. K. Glaubitzo kūriniu.'
+  teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.'
   pagrindžia:
-    - c-002
+    - c-001
+
 - t-003
   teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: ': | kunigaikštystė ae r fo} | O Čeboksarai | | ''Karamyšas Būlgaras Tuo metu, kai Algirdas kovojo ja BoE Oveliz Vi rata G prieš Aukso ordą, prie Mėlynųjų 1358 m. Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
-  pagrindžia:
-    - c-006
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mstislavlyje esanti Basųjų karmelitų bažnyčia laikoma ryčiausiu Vilniaus baroko mokyklos ir J. K. Glaubitzo kūriniu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O toliau – ištisa plejada modernaus meno, literatūros, architektūros
-    kūrėjų, suspėjusių per du dešimtmečius pakeisti Lietuvos veidą ir krašto-
-    Ryčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos
-    ir garsiausio jos architekto J. K. Glaubitzo kūrinys –
-    Basųjų karmelitų bažnyčia Mstislavlyje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iki 1362 jis užėmė Smolensko
+    jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
     kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.
     Pats Smolenskas tapo apsuptas Algirdo valdomis, taigi jo valiai
     (^16) **MLLG, V, 1907, 358-361 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Būdamas sąjungoje su
-    Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-    Bet maištininkai greitai buvo įveikti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pačiam Sviatoslavui žuvus
+    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
     prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
     Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko
+    - t-001
 
-    atiteko Mstislavlis. 2 Kalugą 2.
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Už pažadą ginti nuo priešų, jis ordinui buvo
+    užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
+    Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
+    Bet maištininkai greitai buvo įveikti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: ': | kunigaikštystė ae r fo} | O Čeboksarai | | ''Karamyšas Būlgaras Tuo metu, kai Algirdas kovojo ja BoE Oveliz Vi rata G prieš Aukso ordą, prie Mėlynųjų 1358 m. Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    :
-    | kunigaikštystė ae r fo} | O Čeboksarai |
-    | 'Karamyšas
-    Būlgaras
-
-    Tuo metu, kai Algirdas kovojo
-
-    ja BoE Oveliz Vi rata G prieš Aukso ordą, prie Mėlynųjų
-    1358 m. Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko
-
-    atiteko Mstislavlis. 2 Kalugą 2.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-003

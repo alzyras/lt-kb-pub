@@ -27,34 +27,35 @@ amziai:
 
 ## Teiginiai
 
-- t-004
-  teiginys: '263 ## Puslapis 280 VILNIAUS MIESTO ISTORIJA// TOMAS gesinti pristigo vandens10.'
+- t-001
+  teiginys: 'Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais.'
   pagrindžia:
     - c-004
 
-- t-001
+- t-002
   teiginys: '12 000 žmonių vedini, pakeliui sudeginę Trakų mies­ tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti, 1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­ mis prie Vilniaus.'
   pagrindžia:
-    - c-001
+    - c-005
 
 - t-003
   teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
   pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
+  pagrindžia:
     - c-003
 
 - t-005
-  teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
+  teiginys: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
   pagrindžia:
-    - c-005
-
-- t-002
-  teiginys: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
-  pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
+  santrauka: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     T. VII, p. 370-374. Re­
@@ -75,9 +76,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
@@ -95,7 +96,7 @@ amziai:
   pagrindžia:
     - t-003
 
-- c-005
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
@@ -109,9 +110,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
 - c-004
+  santrauka: 'Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     263
@@ -133,9 +135,9 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
-- c-001
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
@@ -150,4 +152,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

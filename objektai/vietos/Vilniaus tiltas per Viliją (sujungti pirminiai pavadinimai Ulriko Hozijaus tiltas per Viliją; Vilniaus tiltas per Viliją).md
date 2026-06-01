@@ -1,28 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1522 m.'
   - '1529 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1522'
 date_end: '1529'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - tauta
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją)
 
@@ -31,37 +25,40 @@ tags:
 O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus malūnas. ) Žy­ gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­ niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą jo tėviško rūpinimosi tauta. Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus malūnas.'
+  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
   pagrindžia:
-    - c-001
+    - c-004
+
 - t-002
   teiginys: ') Žy­ gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­ niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą jo tėviško rūpinimosi tauta.'
   pagrindžia:
-    - c-002
+    - c-006
+
 - t-003
-  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė.'
-  pagrindžia:
-    - c-005
-- t-007
   teiginys: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
   pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+    - c-003
+
+- t-004
+  teiginys: 'O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus malūnas.'
   pagrindžia:
-    - c-008
+    - c-001
+
+- t-005
+  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  pagrindžia:
+    - c-002
+
+- t-006
+  teiginys: 'Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus malūnas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O po kele­
@@ -75,57 +72,17 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     gavo teisę visiems laikams imti mokestį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
+
 - c-002
-  santrauka: ') Žy­ gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­ niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą jo tėviško rūpinimosi tauta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ) Žy­
-    gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­
-    niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą
-    jo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­
-    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
-    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
-    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
-    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
-    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
-    išlaidos, prie dominikonų Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dvasios bažnyčios pastatyti vie­
-    šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
-    vaujant Vilniaus vyskupui18. Ulrikas uoliai įvykdė karaliaus
-    pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos
-    jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties
-    statybą užbaigė jo sūnus Jonas.
-    Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo
-    prekyba, mieste atsirado daug lobingų, su svečiais kraštais
-    mainus vykdančių pirklių19.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai mes ankstesniais metais svarstėme mūsų LDK val­
+    Šiuo raštu
+    skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
+    esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­
+    sieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­
     dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,
     kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto
     patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­
@@ -160,39 +117,11 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dvasios bažnyčios,
-    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
-    ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,
-    387
-
-    ## Puslapis 404
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą
-    Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir
-    išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam
-    amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­
-    kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
-    nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
-    gant laikui išskaičiavo ir susigrąžino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-007
-  santrauka: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
@@ -223,43 +152,71 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
     žiūrą atimant turtą ir kitas bausmes skiriant.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+    - t-003
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Jos statybą prieš tai buvo pradė­
-    jęs, norėjo užbaigti ir jau nemažą jos dalį išmūrijęs buvo, bet
-    pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
-    nėms, atsisveikino su šiuo pasauliu. Mes į jo vietą garbingąjį
-    Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
-    ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam
-    patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­
-    kimai vykdydamas, gerai mums užsirekomendavo, taip pat
-    ir, mūsų valia bei paliepimu, taisydamas tą patį tiltą, kurį pra­
-    ėjusį pavasarį didelės vandens ir ledų sangrūdos sugadino ir
-    sulaužė, parodė savo uolumą, tiltui suteikdamas pirmykštį
-    tvirtumą ir pritaikydamas jį žmonėms naudotis, iš anksto
-    surinkęs šiek tiek pinigų iš ano muito ir tikėdamasis iš jo
-    tolesnių pajamų. Taigi mes, pageidaudami, kad šis tiltas taip
-    visiems būsimiems laikams ir tuo atveju, ar dėl kokio priešo
-    užpuolimo, bėgant laikui, arba dėl galingo vandens protrū­
-    kio pakenktas, vėl galėtų būti atstatytas ir pataisytas, minė­
-    tą muitą arba mokestį, aukščiau aprašytą, kurį minėti Ulri­
-    kas Hozijus ir jo sūnus Jonas mūsų aukščiau įvardintu
-    sprendimu ir valia rinko, tikra mūsų žinia ir karališkąja va­
-    lia nusprendėme skirti tam pačiam tiltui ir šiuo mūsų raštu
-    patvirtiname, kad žmonės su savo daiktais ir prekėmis per
-    jį pereinantys, pagal mūsų nurodymą, aukščiau pareikštą, pri­
-    valo mokėti.
+    Dvasios bažnyčios pastatyti vie­
+    šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
+    vaujant Vilniaus vyskupui18. Ulrikas uoliai įvykdė karaliaus
+    pavedimus; per upę stojo išmūrytas tiltas ir špitolės sienos
+    jau buvo gerokai pakilusios, bet vis dėlto po Ulriko mirties
+    statybą užbaigė jo sūnus Jonas.
+    Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo
+    prekyba, mieste atsirado daug lobingų, su svečiais kraštais
+    mainus vykdančių pirklių19.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-008
+    - t-001
+
+- c-005
+  santrauka: 'Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dominyko ordino brolių pa­
+    mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
+    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
+    ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,
+    387
+
+    ## Puslapis 404
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą
+    Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir
+    išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam
+    amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­
+    kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
+    nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
+    gant laikui išskaičiavo ir susigrąžino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    dėlto, atrodo, kad Goštautas nežinia kodėl šia karaliaus pri­
+    vilegija nepasinaudojo, nes po septynerių metų (1536 m.) Žy­
+    gimantas Senasis, garbingo žmogaus Ulriko Hozijaus, Vil­
+    niaus pilininko, patarimu, ėmėsi įgyvendinti mintį, išties vertą
+    jo tėviško rūpinimosi tauta. Suteikdamas Hozijui teisę pasta­
+    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
+    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
+    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
+    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
+    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
+    išlaidos, prie dominikonų Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

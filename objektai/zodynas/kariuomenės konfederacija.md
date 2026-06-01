@@ -1,14 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kariuomenės konfederacija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - karas
@@ -22,22 +18,20 @@ tags:
 Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfederacija: lietuva ir Lenkija visada turėjo atskiras kariuomenes, vadovaujamas savų hetmonų. Jas išlai- kydavo kiekviena valstybė pati iš savo pajamų ir mokesčių. Kiekvienos valstybės kariuomenė nuolat stovė- jo tik savo valstybėje; kitai valstybei į pagalbą ji ga-.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Toks jų susibūrimas vadinosi kariuomenės konfederacija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
 - t-002
   teiginys: 'kariuomenės konfederacija: lietuva ir Lenkija visada turėjo atskiras kariuomenes, vadovaujamas savų hetmonų. Jas išlai- kydavo kiekviena valstybė pati iš savo pajamų ir mokesčių. Kiekvienos valstybės kariuomenė nuolat stovė- jo tik savo valstybėje; kitai valstybei į pagalbą ji ga-.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Toks jų susibūrimas vadinosi kariuomenės konfederacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai nemokėdavo algos, jie paprastai visi atsisakydavo
@@ -51,13 +45,11 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
     išnykti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'kariuomenės konfederacija: lietuva ir Lenkija visada turėjo atskiras kariuomenes, vadovaujamas savų hetmonų. Jas išlai- kydavo kiekviena valstybė pati iš savo pajamų ir mokesčių. Kiekvienos valstybės kariuomenė nuolat stovė- jo tik savo valstybėje; kitai valstybei į pagalbą ji ga-.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuva ir Lenkija visada turėjo atskiras
@@ -70,9 +62,7 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
     hetmonų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

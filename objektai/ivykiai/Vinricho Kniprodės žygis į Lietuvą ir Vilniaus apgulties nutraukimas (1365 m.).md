@@ -1,29 +1,18 @@
 ---
 tipas: ivykis
-pavadinimas: "Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "1365 m."
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1365 m.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1365'
 date_end: ''
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-27'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
+amziai:
+  - 'XIV'
 ---
 # Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)
 
@@ -32,6 +21,7 @@ tags:
 1365 m. didysis Prūsijos magistras Vinrichas Kniprodė, pasinaudodamas Butauto ir Survilos pabėgimu, įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių. Butauto tarnų perbėgimas į Vilnių suardė magistro planus, todėl apgultis buvo nutraukta, o traukdamasi kariuomenė degino ir siaubė miesto apylinkes.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: 1365 m.
 - datos:
   - 1365 m.
@@ -41,33 +31,37 @@ tags:
 - date_end: 1365
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių."
+  teiginys: '1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių.'
   pagrindžia:
     - c-001
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
   pagrindžia:
-    - c-002
+    - c-003
+
 - t-003
   teiginys: 'Tačiau keturių Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į Vilnių suardė didžiojo magistro karinius planus, ir šis pa­ būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Kniprodės žygio pradžia ir priartėjimas prie Vilniaus pilių.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
@@ -79,34 +73,13 @@ Nenurodyta
     tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
     deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
     Maišiagalos, priartėjo prie Vilniaus pilių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmą kartą 1365 m., kai di­
-    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
-    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
-    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
-    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
-    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
-    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
-    Maišiagalos, priartėjo prie Vilniaus pilių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Tačiau keturių Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į Vilnių suardė didžiojo magistro karinius planus, ir šis pa­ būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo.'
+    - t-001
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau keturių
@@ -152,11 +125,27 @@ Nenurodyta
     degindamas ir siaubdamas miesto apylinkės22.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
+    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
+    Maišiagalos, priartėjo prie Vilniaus pilių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'eurokomunistinio tipo partija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - reforma
   - sąvoka
@@ -19,27 +16,26 @@ tags:
 Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Savarankiška LKP tapo nacionaline eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Savarankiška LKP tapo nacionaline eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taip atsirado nacionalinė eurokomunistinio tipo partija,
+    Suvažiavimo metu „už savarankišką LKP, tu-
+    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
+    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
     pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
     cialdemokratinę orientaciją.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

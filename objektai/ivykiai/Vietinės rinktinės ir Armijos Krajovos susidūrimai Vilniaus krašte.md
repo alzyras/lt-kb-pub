@@ -34,12 +34,12 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: 'Naciams Vilniaus kraštą priskyrus Lietuvos generalinei sričiai ir lietuvių administracijai, lietuvių ir lenkų santykiai susiklostė komplikuotai.'
   pagrindžia:
     - c-001
@@ -65,7 +65,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,7 +81,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-003
   santrauka: 'Komplikuotai susiklostė lietuvių ir lenkų santykiai Vilniaus krašte, kurį naciai padarė Lietuvos generalinės srities dalimi ir priskyrė lietuvių administracijai.'

@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Sentikiai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -18,25 +15,28 @@ tags:
 Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir persekiojamų Rusijoje – antrojoje XVII a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sentikiai, atsiskyrę nuo stačiatikių dėl liturgijos ir persekioti Rusijoje, XVII a. antroje pusėje kėlėsi į LDK.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sentikiai, atsiskyrę nuo stačiatikių dėl liturgijos ir persekioti Rusijoje, XVII a. antroje pusėje kėlėsi į LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
+    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
     Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir
     persekiojamų Rusijoje – antrojoje XVII a. pusėje jie kėlėsi į LDK.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

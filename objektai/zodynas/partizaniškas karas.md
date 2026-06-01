@@ -1,14 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'partizaniškas karas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - kraštas
@@ -22,36 +18,43 @@ tags:
 partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą. partizaniškas karas: kryžiuočiai ėmė trauktis; Vy- tautas tuo tarpu buvo sunaiki- nęs jų atgaliniam kely paruoštą maisto atsargą, ir jų kariuome- nėje kilo badas. Kęstučio ir Vytauto būriai puolė kryžiuo- čius kur galėdami, ir iš didelio žygio savo kraštą pasiekė vos maži.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
 - t-002
   teiginys: 'partizaniškas karas: kryžiuočiai ėmė trauktis; Vy- tautas tuo tarpu buvo sunaiki- nęs jų atgaliniam kely paruoštą maisto atsargą, ir jų kariuome- nėje kilo badas. Kęstučio ir Vytauto būriai puolė kryžiuo- čius kur galėdami, ir iš didelio žygio savo kraštą pasiekė vos maži.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
+    Žuvusiam maršalkai Schindekopui pamin-
+    klinis kryžius buvo pastatytas tuojau po
+    mūšio; jam sugriuvus, ant tų pačių pa-
+    matų 1835 m. buvo šis pastatytas. 1870 m.
+    trečią kartą atnaujintas, jis dabar vėl
+    kitaip atrodo.
+    tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
+    padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
+    pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
+    Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'partizaniškas karas: kryžiuočiai ėmė trauktis; Vy- tautas tuo tarpu buvo sunaiki- nęs jų atgaliniam kely paruoštą maisto atsargą, ir jų kariuome- nėje kilo badas. Kęstučio ir Vytauto būriai puolė kryžiuo- čius kur galėdami, ir iš didelio žygio savo kraštą pasiekė vos maži.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tada
+    Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
     Kryžiuočiai ėmė trauktis; Vy-
     tautas tuo tarpu buvo sunaiki-
     nęs jų atgaliniam kely paruoštą
@@ -64,9 +67,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     jų kariuomenės likučiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

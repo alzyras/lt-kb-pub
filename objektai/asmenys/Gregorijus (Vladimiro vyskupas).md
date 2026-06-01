@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Gregorijus (Vladimiro vyskupas)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -26,16 +17,15 @@ tags:
 Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­ rėjo tame.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.
@@ -49,11 +39,9 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
     kai, nors daug kur buvo dar kūrenama šventoji lietuvių ugnis
     ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
     Dievui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -62,6 +50,7 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/ivykiai/Grabovo derybos]]
 - [[objektai/asmenys/Gregorijus Cemblakas]]
 - [[objektai/grupes/Domininkonų ordinas]]

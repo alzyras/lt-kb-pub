@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'T. Lackis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
@@ -25,22 +16,20 @@ tags:
 Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į besikaunančių švedų raitelių kairįjį sparną.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į besikaunančių švedų raitelių kairįjį sparną.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ® Švedų gvardijos kavaleriją pasitinka
@@ -48,15 +37,13 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
     bloškia švedų raituosius gvardiečius.
 
     ® Švedų pajėgos bėga iš mūšio lauko.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į besikaunančių švedų raitelių kairįjį sparną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     nas suprato, kad pats laikas mesti į mūšį
@@ -68,13 +55,11 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
     besikaunančius švedų pėstininkus, kurie
     kovėsi su rotmistro V. Vainos ir Kuršo rei-
     tarais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

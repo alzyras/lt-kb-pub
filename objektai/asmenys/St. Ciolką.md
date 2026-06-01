@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'St. Ciolką'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - popiežius
@@ -26,16 +17,15 @@ tags:
 Ciolką.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ypač jie buvo susvyravę Vytauto amžiaus pabaigoj, kai
@@ -46,11 +36,9 @@ Ciolką.
     rėmė ciesoriaus Zigmanto sumanymą tiems reikalams sušaukti
     Bažnyčios visuotinį susirinkimą, kurio popiežius tuo tarpu ne­
     norėjo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 

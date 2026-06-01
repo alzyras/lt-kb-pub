@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Radomo konfederacija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -20,22 +17,20 @@ tags:
 Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno patsai Repninas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Radomo konfederacija 1767 m. buvo sudaryta Rusijos kariuomenės apsuptame Radome.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno patsai Repninas.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Radomo konfederacija 1767 m. buvo sudaryta Rusijos kariuomenės apsuptame Radome.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Radomo konfederacija.** 1767 m. Repninui kurstant, visuose
@@ -70,24 +65,29 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
     vadino, kardinalines teises; be to, iš Rusijos buvo
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista. Noroms nenoroms konfederatai turėjo pasirašyti aktą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno patsai Repninas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tačiau ir jis ir visi kon-
+    federatai labai apsivylė: Rado-
+    me rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-
+    deracijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-
+    lių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti
+    pareigą" saugoti Respublikos konstituciją, arba, kaip ją tada
+    vadino, kardinalines teises; be to, iš Rusijos buvo
+    paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
+    keista. Noroms nenoroms konfederatai turėjo pasirašyti aktą.
     Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur
     gyveno patsai Repninas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

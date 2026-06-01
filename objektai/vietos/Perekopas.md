@@ -27,34 +27,34 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 
 ## Teiginiai
 
-- t-005
+- t-001
   teiginys: '61, 62, 293, 373, 378 Perejeslavlis 272 Perekopas (Krymo) 311 Peremišlis 313, 321 Perkūnas, dievas 143, 144, 146 Perlbach M.'
   pagrindžia:
-    - c-005
+    - c-004
 
-- t-003
+- t-002
   teiginys: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
   pagrindžia:
-    - c-003
+    - c-002
 
-- t-001
+- t-003
   teiginys: 'Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.'
   pagrindžia:
-    - c-001
+    - c-003
 
 - t-004
   teiginys: 'Čia, Vilniuje (1443 metais), totorių pasiuntinių prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­ tas Perekopo chanu.'
   pagrindžia:
-    - c-004
+    - c-001
 
-- t-006
+- t-005
   teiginys: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 
-- c-004
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daug jų vyko
@@ -74,7 +74,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   pagrindžia:
     - t-004
 
-- c-003
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daug jų vyko
@@ -92,9 +92,9 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
-- c-001
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
@@ -107,9 +107,9 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
-- c-005
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     240
@@ -126,9 +126,9 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-006
+- c-005
   santrauka: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -143,4 +143,4 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005

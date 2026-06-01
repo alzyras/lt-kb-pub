@@ -1,14 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-bukle: juodrastis
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
@@ -22,53 +18,58 @@ tags:
 Susipratę vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, padedami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn. Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Susipratę vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, padedami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
+
 - t-002
   teiginys: 'Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Susipratę vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, padedami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Susipratę
+    Paruo-
+    šiamieji darbai Paryžiuje parodė, kad tos komisijos sumany-
+    muose buvo ir „laisvojo krašto" idėja. Pačiame krašte vokiečiai
+    varė kaskart vis didesnę ir griežtesnę propagandą už tą idėją,
+    nepaisydami ekonominių sunkenybių ir nuostolių. Susipratę
     vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, pade-
     dami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš
     vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn.
     pradžioj užėmė kraštą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klaipėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo
+    Didžiosios
+    valstybės, arba vadinamoji Ambasadorių Konferencija, buvo
     patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu
     visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klai-
     pėdos kraštą priskirti prie Lietuvos valstybės, pačiam kraštui
@@ -81,9 +82,7 @@ Nenurodyta
     ferencija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

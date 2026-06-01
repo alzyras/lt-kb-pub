@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'P. Būtėnas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1924 m.'
   - '1973 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1924'
 date_end: '1973'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kraštas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # P. Būtėnas
 
@@ -29,25 +25,25 @@ tags:
 Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė, E. 112 I SKYRIUS: LIETUVOS PROISTORE Būtėnas, P. Būtėnas, P.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: ': Lietuvių kalbos žodynas , I-II, Kaunas 1924 (svarbus įva­ das).— Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
@@ -58,15 +54,13 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
     AkMD, t. 17, 1964, 23-39 p. — (”) _Ankstyvosios brūkšniuotosios kerami­
     kos kilmės klausimu_ , AkMD, t. 21, 1966, 111-125 p. — (”) _Lietuvos brūkš­
     niuotosios keramikos ornamentas_ , AkMD, t. 26, 1968, 41-57 p. — (”)
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
+
 - c-002
-  santrauka: 'P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
@@ -79,24 +73,26 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
     AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: ': Lietuvių kalbos žodynas , I-II, Kaunas 1924 (svarbus įva­ das).— Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    : _Lietuvių kalbos žodynas_ , I-II, Kaunas 1924 (svarbus įva­
-    das).— Būtėnas, P.: _Gintaro šneka_ , Karys, 1973, 110-115, 159-164 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
+    ryšių, buvo ryškesnė medžiaginės kultūros skatintoja.
+    Būga, K. : _Lietuvių kalbos žodynas_ , I-II, Kaunas 1924 (svarbus įva­
+    das).— Būtėnas, P.: _Gintaro šneka_ , Karys, 1973, 110-115, 159-164 p.
+    — Danilaitė, E. : _Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje_ ,
+    AkMD, t. 17, 1964, 23-39 p. — (”) _Ankstyvosios brūkšniuotosios kerami­
+    kos kilmės klausimu_ , AkMD, t. 21, 1966, 111-125 p. — (”) _Lietuvos brūkš­
+    niuotosios keramikos ornamentas_ , AkMD, t. 26, 1968, 41-57 p. — (”)
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
 

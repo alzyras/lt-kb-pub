@@ -20,13 +20,14 @@ Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome a
 ## Teiginiai
 
 - t-001
-  teiginys: 'Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvonia dissidiantur et in omnibus civitatibus et locis maritimis notificant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum 91 ## Puslapis 108.'
+  teiginys: 'Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Panašių

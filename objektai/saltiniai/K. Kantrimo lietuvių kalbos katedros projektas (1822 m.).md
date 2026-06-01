@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'K. Kantrimo lietuvių kalbos katedros projektas (1822 m.)'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
@@ -19,24 +16,35 @@ tags:
 Šito sąjūdžio metu, ne be sąryšio su Baužos darbais, iškilo projektas įkurti Vilniaus universitete lietuvių kalbos katedrą (1822 m.). Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'K. Kantrimo 1822 m. projektas numatė Vilniaus universitete įkurti lietuvių kalbos katedrą, tačiau nebuvo įgyvendintas.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-002
+
 - t-002
   teiginys: 'K. Kantrimas memoriale kuratoriui Čartoriskiui rašė, kad didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbėjo lietuviškai.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'K. Kantrimo 1822 m. projektas numatė Vilniaus universitete įkurti lietuvių kalbos katedrą, tačiau nebuvo įgyvendintas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Kantrimas** savo memoriale kuratoriui Čartoriskiui rašo, esą,
+    didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.
+    Nemaža lietuviškai kalbančių esą ir Lenkų karalystėj (t. y. Užnemu-
+    nėj) ir Prūsuose. Tilžėj, Klaipėdoj, iš dalies ir Karaliaučiuj lietuviškai
+    esą atliekami net prekybos reikalai; tose srityse lietuviškai atliekama
+    dalis pamaldų ir lietuviškai žmonės mokomi tikybos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šito sąjū-
@@ -48,23 +56,8 @@ tags:
     tik tuo metu prasidėjo rusų reakcija prieš lenkiškąją universiteto
     linkmę, ir vadovybei nebebuvo kada galvoti apie savo darbo
     plėtimą; reikėjo tik rūpintis išlaikyti tai, kas pasiekta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'K. Kantrimas memoriale kuratoriui Čartoriskiui rašė, kad didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbėjo lietuviškai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Kantrimas** savo memoriale kuratoriui Čartoriskiui rašo, esą,
-    didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

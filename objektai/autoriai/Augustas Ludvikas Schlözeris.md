@@ -1,27 +1,10 @@
 ---
-tipas: 'autorius'
+tipas: autorius
 pavadinimas: 'Augustas Ludvikas Schlözeris'
-sukurta: '2026-04-28'
-variantai:
-  - 'A. Schlözeris'
-  - 'Schlözeris'
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-laikotarpis: '1785 m.'
-vaidmenys:
-  - 'vokiečių istorikas'
-  - 'autorius'
-dalyviai: []
-susije_irasai: []
-patikimumas: 'aukštas'
-atnaujinta: '2026-04-28'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -38,63 +21,56 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 ## Teiginiai
 
 - t-001
-  teiginys: 'Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
-- t-002
-  teiginys: 'Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
-- t-003
   teiginys: 'Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų^32.'
   pagrindžia:
     - c-003
 
-- t-004
+- t-002
   teiginys: 'Matusas : Schlözer A.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
-  santrauka: 'Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Europoje paskleistą me­
+    džiagą apie Lietuvą, patiekė susistemintą ir, palyginti, kritiškai.
+    Jis, pvz., su pagrindu visą XII amž. chronologiją laiko « didžiuliu
+    paklydimu », įtardamas net ir Mindaugo laikų datas.
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
     Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos
     Kunigaikštystės istoriją iki 1569 metų^32.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 - c-002
-  santrauka: 'Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Autorius nuoširdžiai prisi­
     pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su­
     trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-003
-  santrauka: 'Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas Ludvikas Schlözeris, 1785 m. išleisdamas Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų^32.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
@@ -104,14 +80,11 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
     trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
 
 - c-004
-  santrauka: 'Matusas : Schlözer A.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ten teveikė viena istorijos katedra su
@@ -122,27 +95,23 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
     (^33) **Z.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
 - c-005
-  santrauka: Augustas Ludvikas Schlözeris papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Autorius nuoširdžiai prisi­
     pažino, kad jis davęs ne originalų veikalą, o tik perdirbęs ir su­
     trumpinęs Kojalavičių, kurio vertę, kaip istoriko, aukštai kėlė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/posakiai/didžiuliu paklydimu]]

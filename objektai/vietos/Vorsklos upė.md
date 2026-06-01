@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vorsklos upė'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - mūšis
@@ -21,16 +18,15 @@ tags:
 Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiuočiai irgi ėjo po jo vėliava (o kaip dar ne-
@@ -38,10 +34,8 @@ Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mū
     Vytautas susitiko su totoriais prie Vorsklos upės ir skau-
     džiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir dau-
     gybė kunigaikščių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

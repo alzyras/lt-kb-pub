@@ -25,44 +25,45 @@ periodo_grupes: []
 
 ## Teiginiai
 
-- t-007
+- t-001
   teiginys: 'Anupras Minkevičius, buvo vaitas: 1753 ir 1758 23.'
   pagrindžia:
-    - c-007
-
-- t-004
-  teiginys: '300 ## Puslapis 317 IV KNYGA Paliko vaito pareigas to paties karaliaus sutikimu kovo 11 d. - 1620 Burmistrai: nuo katalikų - Petras Pliuščius - 1620 nuo stačiatikių - Leonas Mamoničius 11.'
-  pagrindžia:
     - c-004
+
+- t-002
+  teiginys: '1620 m. burmistrais nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
+  pagrindžia:
+    - c-006
 
 - t-003
   teiginys: 'Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10.'
   pagrindžia:
-    - c-003
+    - c-007
 
-- t-005
+- t-004
   teiginys: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
   pagrindžia:
-    - c-005
+    - c-002
 
-- t-002
+- t-005
   teiginys: 'Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurinavičius.'
   pagrindžia:
-    - c-002
+    - c-005
 
 - t-006
   teiginys: 'Jokūbas Vargalovskis Stefanovičius dar buvo vaitas - 1713 ir 1721 21.'
   pagrindžia:
-    - c-006
+    - c-003
 
-- t-001
-  teiginys: '72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1.'
+- t-007
+  teiginys: 'Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žr. IX priedą.
@@ -85,9 +86,9 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-007
 
-- c-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juozapas Petravičius, iš Vilniaus miesto
@@ -106,9 +107,9 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-004
 
-- c-006
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Steponas Morozas - - 1701
@@ -122,7 +123,7 @@ periodo_grupes: []
   pagrindžia:
     - t-006
 
-- c-007
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jurgis Fedaravičius
@@ -150,9 +151,9 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-007
+    - t-001
 
-- c-002
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jachna Laurinavičius žinomas nuo - 1485 m.
@@ -162,9 +163,10 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-005
 
-- c-004
+- c-006
+  santrauka: '1620 m. burmistrais nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,
@@ -191,9 +193,9 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-003
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9. Motiejus (arba Matas) Božiminskis, iš bajorų,

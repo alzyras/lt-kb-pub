@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Ateitis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - mokslininkas
@@ -20,16 +17,15 @@ tags:
 Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 
 ## Teiginiai
+
 - t-001
   teiginys: '1911 m. įsteigta „Ateitis“ buvo pirmoji lietuvių moksleivių organizacija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1911 m. įsteigta „Ateitis“ buvo pirmoji lietuvių moksleivių organizacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ėmė kurtis lietuviškosios drau-
@@ -37,11 +33,9 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
     eivių organizacija, įsteigta 1911 m., buvo „Ateitis". Tai bu-
     vo katalikiška ir tautiška organizacija, kuriai priklausė beveik
     visa mokslus einančioji jaunuomenė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -51,7 +45,6 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje|1917 m. lietuvių seimas Petrapilyje (seimas, XX a.)]]
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
 - [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/ivykiai/Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.)]]
 - [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
@@ -73,6 +66,7 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/asmenys/Eimaras iš Cezarėjos]]
 - [[objektai/asmenys/Elena]]
+- [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
 - [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
@@ -94,10 +88,12 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/asmenys/Jonas (kancleris)]]
 - [[objektai/asmenys/Jonas Hozijus]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Jonas iš Hibelino]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/asmenys/Karolis (Prancūzijos karaliaus brolis)]]
 - [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
+- [[objektai/grupes/Kijevo Rusia]]
 - [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
 - [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]
 - [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]
@@ -131,7 +127,6 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/daiktai/Popiežiaus vainikas]]
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/ivykiai/Prūsų puolimai prieš Dobrynės pilį|Prūsų puolimai prieš Dobrynės pilį (pilis, XIII a.)]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/posakiai/Raštu neužrašyti darbai pražūna iš atminties]]
 - [[objektai/asmenys/Reinoldas]]
 - [[objektai/zodynas/Rinkos ekonomika]]
@@ -158,6 +153,7 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Volfgeris]]
 - [[objektai/asmenys/Vudrau Vilsonas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/autoriai/Vėlius N]]
 - [[objektai/asmenys/Zemovitas]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]
@@ -170,6 +166,7 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/zodynas/oficijolas]]
 - [[objektai/posakiai/prisiekęs dievų galybe]]
 - [[objektai/zodynas/prokuratorius ir provizorius]]
+- [[objektai/zodynas/rusinimas dvikalbystė]]
 - [[objektai/zodynas/tenuta laikytojas]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/asmenys/Žygimantas Senasis]]
@@ -177,5 +174,6 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
 - [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
+- [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]

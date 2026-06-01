@@ -39,19 +39,19 @@ Nenurodyta
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gražus šilas, Žgviždos Vienos iš Rūdninkų girios dalies bu­ vęs pavadinimas (vert.'
-  pagrindžia:
-    - c-002
-
 - t-001
-  teiginys: 'Vis dėlto esama vieno gana nemažo iš plytų ir akmens sumūryto pastato pamatų griuvėsių.'
+  teiginys: 'Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gražus šilas, Žgviždos Vienos iš Rūdninkų girios dalies bu­ vęs pavadinimas (vert.'
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Vis dėlto esama vieno gana nemažo iš plytų ir akmens sumūryto pastato pamatų griuvėsių.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per pusantros mylios nuo Rūdninkų Men-
@@ -70,9 +70,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto esama vieno gana nemažo
@@ -97,7 +97,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

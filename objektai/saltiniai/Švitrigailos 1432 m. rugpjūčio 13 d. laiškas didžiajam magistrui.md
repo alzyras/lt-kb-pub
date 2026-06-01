@@ -25,12 +25,12 @@ amziai:
 
 ## Teiginiai
 
-- t-002
-  teiginys: 'Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vroclavo vyskupą, mylimą brolį, pa­ geidaudamas, kad didysis magistras lieptų jį palydėti į Kistriną ir pasi­ teirauti kunigaikščio Štolpenskio, ar minėtasis vyskupas turįs ar neturįs dėl ko.'
+- t-001
+  teiginys: 'Švitrigaila laiške prašė didžiojo magistro palydėti Vroclavo vyskupą Konradą į Kistriną ir suteikti garantiją Vroclavo gyventojams.'
   pagrindžia:
     - c-002
 
-- t-001
+- t-002
   teiginys: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
   pagrindžia:
     - c-001
@@ -67,9 +67,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 - c-002
+  santrauka: 'Švitrigaila laiške prašė didžiojo magistro palydėti Vroclavo vyskupą Konradą į Kistriną ir suteikti garantiją Vroclavo gyventojams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jame pasakoja, kad „pasiunčiau nuo
@@ -100,4 +101,4 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001

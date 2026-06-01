@@ -33,30 +33,30 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   pagrindžia:
     - c-001
 
-- t-004
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašautas šis mūšis Kai brolis Hermanas, vadinamas Saracėnu, turėjo iš Karaliaučiaus pilies drauge su kitais broliais vykti į šį karą Kurše, švenčiausioji mergelė Marija, jam pasirodžiusi, tarė: „Hermanai, aš tave kviečiu į.'
-  pagrindžia:
-    - c-004
-
-- t-005
-  teiginys: 'Dusburgietis teigia, kad šit bėga prūsai, bėga Livonijos žmonės, šit broliai ir kai kurie kiti, iš visų pusių priešo apsupti, tvirtai laikosi ir narsiai ginasi, vaje, šit jie žūsta, dabar matau švenčiausiąją mergelę Mariją, šventąsias mergeles ir dievo angelus, kylančius su jų.'
   pagrindžia:
     - c-005
 
-- t-002
-  teiginys: 'Dusburgietis teigia, kad mergelė Marija trečią dieną, kaip buvo sakęs, pasimirė, o visi žmonės patikėjo jos žodžiais.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad šit bėga prūsai, bėga Livonijos žmonės, šit broliai ir kai kurie kiti, iš visų pusių priešo apsupti, tvirtai laikosi ir narsiai ginasi, vaje, šit jie žūsta, dabar matau švenčiausiąją mergelę Mariją, šventąsias mergeles ir dievo angelus, kylančius su jų.'
   pagrindžia:
     - c-002
 
-- t-006
-  teiginys: 'Dusburgietis teigia, kad tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.'
+- t-004
+  teiginys: 'Dusburgietis teigia, kad mergelė Marija trečią dieną, kaip buvo sakęs, pasimirė, o visi žmonės patikėjo jos žodžiais.'
   pagrindžia:
     - c-006
 
-- t-003
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis.'
+- t-005
+  teiginys: 'Dusburgietis teigia, kad tačiau kitą naktį jam pasirodė švenčiausioji mergelė Marija, kuri jį taip pagydė vienu švelniu savo rankos prilietimu, kad minėtasis brolis Petras, antrą kartą jį išvydęs, nepastebėjo ant jo odos jokių sužalojimo žymių.'
   pagrindžia:
     - c-003
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Su šiuo broliu Hermanu, jau priimtu į Ordiną ir darančiu vieną dorovingą darbą po kito, švenčiausioji mergelė Marija ne kartą buvo kalbėjusi slaptai ir draugiškai, o vieną sykį švenčiausioji mergelė jam pasirodė nuliūdusiu veidu ir, kai jis.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   pagrindžia:
     - t-001
 
-- c-005
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -92,9 +92,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-005
+    - t-003
 
-- c-006
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Paprastai, susiruošęs  į
@@ -112,9 +112,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-006
+    - t-005
 
-- c-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -133,9 +133,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-006
 
-- c-004
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
@@ -154,9 +154,9 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
 
-- c-002
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     41. Apie vieną stebuklą
@@ -178,7 +178,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 - c-007
   santrauka: 'Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe Teutonų namų ordino brolių, kuriuos jis nuolankiai paprašė, kad jam vis dėlto leistų pasilikti savo brolių bendrijoje.'

@@ -1,31 +1,18 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Lenino paminklas Vilniuje"
-sukurta: '2026-05-14'
-variantai:
-  - "Lenino paminklas Vilniuje"
-  - "Lenino paminklas"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Lenino paminklas Vilniuje'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "1991 m. rugpjūčio 23 d. sovietinių simbolių šalinimo kontekstas"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - "1991 m. rugpjūčio 23 d."
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "nepriklausomybes-atkurimas"
-amziai:
-  - "XX"
-date_start: "1991"
-date_end: "1991"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-14'
+  - '1991 m.'
+date_start: '1991'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - simbolis
+amziai:
+  - 'XX'
 ---
 # Lenino paminklas Vilniuje
 
@@ -34,9 +21,11 @@ tags:
 Lenino paminklas Vilniuje minimas kaip 1991 m. rugpjūčio 23 d. pašalinamas materialus sovietinis politinis monumentas.
 
 ## Pavadinimai šaltiniuose
+
 - Lenino paminklas
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
@@ -48,43 +37,56 @@ Paminklas Vilniuje.
 Pašalintas Vilniuje 1991 m. rugpjūčio 23 d.
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1991 m. rugpjūčio 23 d. Vilniuje pašalintas Lenino paminklas."
+  teiginys: '1991 m. rugpjūčio 23 d. Vilniuje pašalintas Lenino paminklas.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vilniuje pašalinamas Lenino paminklas.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Iliustracijos antraštė fiksuoja Lenino paminklo pašalinimą Vilniuje.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vilniuje pašalinamas Lenino paminklas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
+    Jauni įvai-
+    rių sričių specialistai paplūdo į atkurtą Lietuvos Respublikos užsienio rei-
+    kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti
+    į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug
+    ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio
+    entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
+    Vakarų diplomatų epitetą „Baltic Kindergarten“…
+    Vilniuje pašalinamas Lenino paminklas.
     1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jauni įvai-
+    rių sričių specialistai paplūdo į atkurtą Lietuvos Respublikos užsienio rei-
+    kalų ministeriją, daugelis šalių kvietė juos mokytis diplomatijos. Pakviesti
+    į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug
+    ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio
+    entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
+    Vakarų diplomatų epitetą „Baltic Kindergarten“…
+    Vilniuje pašalinamas Lenino paminklas.
+    1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-002
 

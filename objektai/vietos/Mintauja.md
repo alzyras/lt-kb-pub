@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Mintauja'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - vieta
@@ -25,16 +16,15 @@ tags:
 Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šios Sapiegų kariuomenės
@@ -52,10 +42,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     persekiojęs respublikonų kariuome-
     nės dalinys įžengė į Vilnių Sapiegoms
     jau išvykus iš miesto.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

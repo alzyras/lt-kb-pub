@@ -114,7 +114,6 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
 - [[objektai/asmenys/Ričardas II]]
 - [[objektai/asmenys/Vilhelmas Douglas]]

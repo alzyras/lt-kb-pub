@@ -16,19 +16,19 @@ tags:
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas ąžuolas, kurio kamienas buvęs padalytas į tris lygias dalis, kiekvienoje jų — iškirstas langas ar uoksas, juose stovėję dievų trejybės stabai; Perkūno, Patulo ir Patrimpo.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė dviem minėtiems.'
   pagrindžia:
-    - c-003
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
@@ -44,7 +44,7 @@ tags:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -57,7 +57,7 @@ tags:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

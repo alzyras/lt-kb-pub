@@ -19,24 +19,24 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 
 ## Teiginiai
 
-- t-002
+- t-001
   teiginys: 'Dusburgietis teigia, kad kai galop visi krikščionys ir prūsai jau gulėjo nukauti, sargybinis, kuris buvo pririštas prie medžio, sutraukė raiščius, nuėjo į kovos vietą, surado čia Martyną, smarkiai sužeistą, bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge.'
   pagrindžia:
     - c-002
 
-- t-003
+- t-002
   teiginys: 'Dusburgietis teigia, kad apie Rudino brolių kovą ir tenykščio miesto sugriovimą Vargu ar kas stengtų išsamiai aprašyti bei papasakoti, kiek vargų antrosios atskalūnybės metais patyrė Rudino broliai bei miestiečiai, gindami krikščionių tikėjimą nuo prūsų, nes šiomis vietomis prūsai.'
-  pagrindžia:
-    - c-003
-
-- t-001
-  teiginys: 'Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės arba paimti į nelaisvę, arba išžudyti.'
   pagrindžia:
     - c-001
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės arba paimti į nelaisvę, arba išžudyti.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-003
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Rudino brolių kovą ir tenykščio miesto sugriovimą
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-003
+    - t-002
 
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -67,9 +67,9 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
 
-- c-001
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pasak
@@ -84,4 +84,4 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
-    - t-001
+    - t-003

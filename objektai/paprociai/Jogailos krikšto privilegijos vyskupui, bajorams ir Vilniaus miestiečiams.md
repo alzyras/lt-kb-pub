@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
-  - 'Kandidatas 20 Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
-  - 'Kandidatas Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
-aliases:
-  - 'Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
-  - 'Kandidatas 20 Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
-  - 'Kandidatas Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
@@ -27,37 +18,40 @@ tags:
 O juk Lietuvos krikšto metu Jogaila suteikė privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijų Vilniaus vyskupui, bajorams patvirtino nuosavybę, o Vilniaus miestiečiams suteikė savivaldą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Petro Naujosios bažnyčios
@@ -68,16 +62,15 @@ Nenurodyta
     ir Viduramžių luomų idėją. O juk Lietuvos krikšto metu Jogaila suteikė
     privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/senjoras]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/tripartitio christiana luominė visuomenė]]

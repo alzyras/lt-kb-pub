@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'MGB-KGB agentai smogikai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - grupe
@@ -19,47 +16,54 @@ tags:
 Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius. MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti, kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius, vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tuo laikotarpiu okupacinė valdžia kovai su partizanais
+    Daugybė aukų, persekiojimai suar-
+    dė būrių ir apygardų ryšius, silpnėjo būrių kontrolė. Pereita prie įprasto
+    partizaninio karo taktikos: pasalų organizavimo, sovietinių pareigūnų ir
+    šnipų naikinimo. Tuo laikotarpiu okupacinė valdžia kovai su partizanais
     vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
     tizanų ir MGB kadrinių karininkų) būrius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    MGB-KGB agentai smogikai nau-
+    Dislo-
+    kuoti visuose valsčiuo-
+    se jie saugojo sovietinį
+    aktyvą.
+    Represinės instituci-
+    jos, slopindamos parti-
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
+    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
+    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
+    čia užkasdavo pelkėse ar šiukšlynuose. MGB-KGB agentai smogikai nau-
     dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
     kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
     vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
 

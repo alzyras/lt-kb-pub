@@ -19,16 +19,16 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
 - t-001
   teiginys: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
   pagrindžia:
-    - c-001
+    - c-002
 
 - t-002
   teiginys: 'Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d. (R.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 
-- c-002
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ginkluoti partizanai
@@ -50,7 +50,7 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   pagrindžia:
     - t-002
 
-- c-001
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Specialiosios SD grupės (Tilžės gestapo būrys)

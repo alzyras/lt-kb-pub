@@ -1,29 +1,24 @@
 ---
 tipas: grupe
 pavadinimas: 'Bazilijonų ordinas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1936'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigas
   - ordinas
   - popiežius
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Bazilijonų ordinas
 
@@ -32,58 +27,64 @@ tags:
 Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
   pagrindžia:
-    - c-002
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-004
+
 - t-002
   teiginys: 'Bazilijaus ordino vienuolius.'
   pagrindžia:
     - c-003
+
 - t-003
   teiginys: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
   pagrindžia:
-    - c-004
+    - c-002
+
 - t-004
-  teiginys: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
+  teiginys: 'Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daug geriau buvo sutvarkytas
     unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
     laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
     zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
-    savo vienuolynų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jų vienuolynų buvo net Žemaičiuose (Padu-
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
     bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mamoničių namai sto­
+    vėjo, rodos, toje vietoje, kur dabar Sle-
+    dzinskio namai, Nr. 203, o šalia,
+    kampiniame name, seniau buvo
+    cerkvelė. Vėliau Mamoničių spaus­
+    tuvė, matyt, atiteko bazilijonams.
+    69
+    Perlas paimtas iš pranašo Habukuko ir
+    Kalėdoms dovanotas Jonui Hlebavičiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-003
-  santrauka: 'Bazilijaus ordino vienuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik tuo
@@ -93,46 +94,38 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     dino Šv. Bazilijaus ordino vienuolius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-004
-  santrauka: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    203, o šalia,
-    kampiniame name, seniau buvo
-    cerkvelė. Vėliau Mamoničių spaus­
-    tuvė, matyt, atiteko bazilijonams.
-    69
-    Perlas paimtas iš pranašo Habukuko ir
-    Kalėdoms dovanotas Jonui Hlebavičiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-005
-  santrauka: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Buvęs Karaliaučiaus archyvo (dabar
 
-    (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
-    niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;
-    Acta S. Gongr. de Propaganda Fide ; Litterae S. Gongr. de Prop. Fide ; Lit-
-    terae Nuntiorum Apostolicorum ; Epistolae Metropolitarum et Episcoporum ;
-    Monumentą Bio-Hagiographica_** **(S. Iosaphat Kuncevyč),** **_Audientiae Sanc-
-    tissimi,_** **ir kt.
+- c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Daug geriau buvo sutvarkytas
+    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-005
+  santrauka: 'Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
+    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
+    ir aukštesniųjų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-004
 
