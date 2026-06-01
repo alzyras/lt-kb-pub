@@ -197,6 +197,9 @@ function createFolderNode(
   }
 
   for (const child of node.children) {
+    if (folderPath === "objektai" && !child.isFolder) {
+      continue
+    }
     const childNode = child.isFolder
       ? createFolderNode(currentSlug, child, opts)
       : createFileNode(currentSlug, child)
