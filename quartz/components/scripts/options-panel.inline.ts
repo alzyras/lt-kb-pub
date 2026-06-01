@@ -24,7 +24,7 @@ type CitationSourceGlobal = typeof globalThis & {
   fetchCitationSources?: Promise<CitationSourceRegistryEntry[]>
 }
 
-const OPTIONS_STORAGE_KEY = "ltkb-options-v3"
+const OPTIONS_STORAGE_KEY = "ltkb-options-v4"
 const DEFAULT_STATE: OptionsState = {
   minClaimCount: 5,
   sourceSelectionMode: "all",
@@ -298,9 +298,13 @@ function applyListFilters() {
 
 function applyExplorerFilters() {
   const evaluateLeaf = (item: HTMLLIElement): boolean => {
-    item.dataset.optionsMatch = "true"
-    item.hidden = false
-    return true
+    const filterable = item.dataset.citationFilterable === "true"
+    const claimCount = Number(item.dataset.claimCount ?? "0")
+    const sourceIds = parseSourceIds(item.dataset.citationSources)
+    const optionsOk = optionsMatchItem({ filterable, claimCount, sourceIds })
+    item.dataset.optionsMatch = optionsOk ? "true" : "false"
+    item.hidden = !optionsOk
+    return optionsOk
   }
 
   const evaluateFolder = (item: HTMLLIElement): boolean => {
