@@ -128,8 +128,9 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Keep CI builds offline-safe: per-page OG images fetch remote TTF fonts during build.
+      // The site still publishes a shared social image through quartz/static/og-image.png.
+      // Plugin.CustomOgImages(),
     ],
   },
 }
