@@ -8,6 +8,9 @@ import { collectCitationMetadata, isObjectPage } from "../../util/citationFilter
 export type CitationSourceRegistryEntry = {
   id: string
   title: string
+  objectCount: number
+  quoteCount: number
+  /** Backward-compatible quote count for older clients. */
   count: number
 }
 
@@ -25,11 +28,15 @@ export function buildCitationSourceRegistry(content: ProcessedContent[]): Citati
     for (const source of metadata.sources) {
       const existing = registry.get(source.id)
       if (existing) {
-        existing.count += source.count
+        existing.objectCount += 1
+        existing.quoteCount += source.count
+        existing.count = existing.quoteCount
       } else {
         registry.set(source.id, {
           id: source.id,
           title: source.title,
+          objectCount: 1,
+          quoteCount: source.count,
           count: source.count,
         })
       }
@@ -37,8 +44,11 @@ export function buildCitationSourceRegistry(content: ProcessedContent[]): Citati
   }
 
   return [...registry.values()].sort((a, b) => {
-    if (b.count !== a.count) {
-      return b.count - a.count
+    if (b.objectCount !== a.objectCount) {
+      return b.objectCount - a.objectCount
+    }
+    if (b.quoteCount !== a.quoteCount) {
+      return b.quoteCount - a.quoteCount
     }
     return a.title.localeCompare(b.title, "lt", { sensitivity: "base" })
   })

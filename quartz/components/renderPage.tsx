@@ -29,13 +29,13 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260530-search"
+  const assetVersion = "20260601-source-counts"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
-  const contentMetaPath = joinSegments(baseDir, "static/contentMeta.json")
-  const searchIndexPath = joinSegments(baseDir, "static/searchIndex.json")
-  const graphIndexPath = joinSegments(baseDir, "static/graphIndex.json")
-  const randomClaimsPath = joinSegments(baseDir, "static/randomClaims.json")
-  const citationSourcesPath = joinSegments(baseDir, "static/citationSources.json")
+  const contentMetaPath = versionedAsset(joinSegments(baseDir, "static/contentMeta.json"))
+  const searchIndexPath = versionedAsset(joinSegments(baseDir, "static/searchIndex.json"))
+  const graphIndexPath = versionedAsset(joinSegments(baseDir, "static/graphIndex.json"))
+  const randomClaimsPath = versionedAsset(joinSegments(baseDir, "static/randomClaims.json"))
+  const citationSourcesPath = versionedAsset(joinSegments(baseDir, "static/citationSources.json"))
   const staticIndexScript = `
 globalThis.__ltkbStaticJsonCache ??= new Map()
 globalThis.loadStaticJson ??= (path) => {

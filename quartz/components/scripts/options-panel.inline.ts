@@ -1,6 +1,8 @@
 type CitationSourceRegistryEntry = {
   id: string
   title: string
+  objectCount?: number
+  quoteCount?: number
   count: number
 }
 
@@ -48,9 +50,26 @@ function normalizeSources(sources: CitationSourceRegistryEntry[]): CitationSourc
     .map((source) => ({
       id: source.id.trim(),
       title: source.title.trim(),
-      count: Number.isFinite(source.count) ? Math.max(0, Number(source.count)) : 0,
+      objectCount: Number.isFinite(source.objectCount)
+        ? Math.max(0, Number(source.objectCount))
+        : 0,
+      quoteCount: Number.isFinite(source.quoteCount)
+        ? Math.max(0, Number(source.quoteCount))
+        : Number.isFinite(source.count)
+          ? Math.max(0, Number(source.count))
+          : 0,
+      count: Number.isFinite(source.quoteCount)
+        ? Math.max(0, Number(source.quoteCount))
+        : Number.isFinite(source.count)
+          ? Math.max(0, Number(source.count))
+          : 0,
     }))
     .sort((a, b) => {
+      const aObjects = Number(a.objectCount ?? 0)
+      const bObjects = Number(b.objectCount ?? 0)
+      if (bObjects !== aObjects) {
+        return bObjects - aObjects
+      }
       if (b.count !== a.count) {
         return b.count - a.count
       }
@@ -70,11 +89,12 @@ function deriveSourcesFromDom(): CitationSourceRegistryEntry[] {
     const existing = byId.get(id)
     if (existing) {
       existing.count += 1
+      existing.quoteCount = Number(existing.quoteCount ?? 0) + 1
       if (!existing.title && title) {
         existing.title = title
       }
     } else {
-      byId.set(id, { id, title: title || id, count: 1 })
+      byId.set(id, { id, title: title || id, objectCount: 1, quoteCount: 1, count: 1 })
     }
   })
 
@@ -83,9 +103,9 @@ function deriveSourcesFromDom(): CitationSourceRegistryEntry[] {
     ids.forEach((id) => {
       const existing = byId.get(id)
       if (existing) {
-        existing.count += 1
+        existing.objectCount = Number(existing.objectCount ?? 0) + 1
       } else {
-        byId.set(id, { id, title: id, count: 1 })
+        byId.set(id, { id, title: id, objectCount: 1, quoteCount: 0, count: 0 })
       }
     })
   })
@@ -95,7 +115,7 @@ function deriveSourcesFromDom(): CitationSourceRegistryEntry[] {
 
 async function fetchRegistryAt(url: string): Promise<CitationSourceRegistryEntry[] | null> {
   try {
-    const response = await fetch(url, { cache: "force-cache" })
+    const response = await fetch(url, { cache: "no-store" })
     if (!response.ok) {
       return null
     }
@@ -514,7 +534,7 @@ function renderSourceList(root: HTMLElement, sources: CitationSourceRegistryEntr
             <input type="checkbox" value="${source.id}" data-options-source-checkbox="" ${checked} />
             <span class="options-panel-source-title">${escapeOptionsHtml(source.title)}</span>
           </label>
-          <span class="options-panel-source-count">${source.count}</span>
+          <span class="options-panel-source-count">${Number(source.objectCount ?? 0)} ob. (${Number(source.quoteCount ?? source.count ?? 0)} cit.)</span>
         </div>
       `
     })

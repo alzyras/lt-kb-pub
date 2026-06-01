@@ -129,6 +129,8 @@ describe("citationFilter metadata", () => {
       {
         id: sapokaId,
         title: "A. Šapoka (red.), Lietuvos istorija (1936 m.)",
+        objectCount: 2,
+        quoteCount: 4,
         count: 4,
       },
     )
@@ -137,6 +139,8 @@ describe("citationFilter metadata", () => {
       {
         id: ivinskisId,
         title: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)",
+        objectCount: 2,
+        quoteCount: 2,
         count: 2,
       },
     )
