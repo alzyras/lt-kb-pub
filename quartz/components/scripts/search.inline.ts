@@ -25,7 +25,7 @@ type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
 let idDataMap: FullSlug[] = []
-const OPTIONS_STORAGE_KEY = "ltkb-options-v3"
+const OPTIONS_STORAGE_KEY = "ltkb-options-v4"
 const DEFAULT_SEARCH_OPTIONS_STATE: SearchOptionsState = {
   minClaimCount: 5,
   sourceSelectionMode: "all",
@@ -551,9 +551,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
         </a>`
       }
     } else {
-      if (filteredResultCount > 0) {
-        results.append(createFilteredCard())
-      }
       results.append(...finalResults.map(resultToHTML))
     }
 
