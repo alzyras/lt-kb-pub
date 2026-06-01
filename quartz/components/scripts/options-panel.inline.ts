@@ -319,6 +319,11 @@ function applyListFilters() {
 function applyExplorerFilters() {
   const evaluateLeaf = (item: HTMLLIElement): boolean => {
     const filterable = item.dataset.citationFilterable === "true"
+    if (!filterable) {
+      item.dataset.optionsMatch = "true"
+      item.hidden = false
+      return true
+    }
     const claimCount = Number(item.dataset.claimCount ?? "0")
     const sourceIds = parseSourceIds(item.dataset.citationSources)
     const optionsOk = optionsMatchItem({ filterable, claimCount, sourceIds })
