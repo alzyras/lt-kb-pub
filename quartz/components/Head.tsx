@@ -34,7 +34,7 @@ export default (() => {
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
     )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image-ldk-map.jpg`
 
     return (
       <head>
@@ -68,10 +68,9 @@ export default (() => {
             <meta property="og:image" content={ogImageDefaultPath} />
             <meta property="og:image:url" content={ogImageDefaultPath} />
             <meta name="twitter:image" content={ogImageDefaultPath} />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-            />
+            <meta property="og:image:width" content="1200" />
+            <meta property="og:image:height" content="675" />
+            <meta property="og:image:type" content="image/jpeg" />
           </>
         )}
 

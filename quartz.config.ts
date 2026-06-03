@@ -129,7 +129,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Keep CI builds offline-safe: per-page OG images fetch remote TTF fonts during build.
-      // The site still publishes a shared social image through quartz/static/og-image.png.
+      // The site still publishes a shared social image through quartz/static/og-image-ldk-map.jpg.
       // Plugin.CustomOgImages(),
     ],
   },
