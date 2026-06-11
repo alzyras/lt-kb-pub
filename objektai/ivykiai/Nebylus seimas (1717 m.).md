@@ -89,5 +89,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/seimas]]

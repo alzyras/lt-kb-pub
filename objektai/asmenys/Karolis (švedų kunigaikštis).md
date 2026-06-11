@@ -57,6 +57,7 @@ tags:
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Notangai]]

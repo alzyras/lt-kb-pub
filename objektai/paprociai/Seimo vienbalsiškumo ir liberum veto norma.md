@@ -77,5 +77,6 @@ Nenurodyta
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]

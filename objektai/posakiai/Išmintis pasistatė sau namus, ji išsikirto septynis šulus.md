@@ -120,6 +120,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Celestinas III]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Popiežius Celestinas III]]
 - [[objektai/grupes/Teutonai]]

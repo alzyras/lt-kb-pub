@@ -61,5 +61,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]

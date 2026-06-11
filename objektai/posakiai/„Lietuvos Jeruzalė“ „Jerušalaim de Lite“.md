@@ -78,7 +78,8 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Karaimai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/grupes/Žydai]]

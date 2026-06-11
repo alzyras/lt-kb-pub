@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Kunonas (Brandenburgo komtūras)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1299 m.'
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Kunonas (Brandenburgo komtūras)
 
 ## Santrauka
@@ -36,6 +38,11 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   teiginys: 'Dusburgietis teigia, kad apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius ir keletą dienų jos.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad kunonas, gavęs žinią apie priešą, spėjo, jog šie braunasi į Notangą (mat ši buvo arčiausiai); tada sku biai patraukė su būriu į šalį ir, parinkęs gerą vietą pasaloms, pradėjo laukti jų pasirodant.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -80,12 +87,26 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
-- [[objektai/ivykiai/Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Notangos žemės nuniokojimas ir 250 krikščionių žūtis (1299 m.)]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad kunonas, gavęs žinią apie priešą, spėjo, jog šie braunasi į Notangą (mat ši buvo arčiausiai); tada sku biai patraukė su būriu į šalį ir, parinkęs gerą vietą pasaloms, pradėjo laukti jų pasirodant.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai
+    Nemune vyko šios laivų grumtynės, šeši šimtai raite­
+    lių įsiveržė į Prūsiją ir, nuniokoję pražygiuojamus kai­
+    mus, įvarė baimės aplinkinėms žemėms, nes kaimiečiai
+    nežinojo, kuria kryptimi ir kokiomis jėgomis priešas
+    puls. Kunonas, gavęs žinią apie priešą, spėjo, jog šie
+    braunasi į Notangą (mat ši buvo arčiausiai); tada sku­
+    biai patraukė su būriu į šalį ir, parinkęs gerą vietą
+    pasaloms, pradėjo laukti jų pasirodant. Be abejonės,
+    lietuviai būtų buvę sumušti, jeigu, neatsargiai veikda­
+    mi, būtų patekę į šias pasalas, tačiau, laiku sužinoję
+    per žvalgus apie klastą, tol tūnojo nesirodydami miš­
+    kų tankmėse, kol Kunonas, pamanęs, jog jie jau bus
+    pasitraukę ir aplink visur saugu, paleido kariuomenę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

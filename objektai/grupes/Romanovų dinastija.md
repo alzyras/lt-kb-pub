@@ -115,6 +115,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
 - [[objektai/grupes/Hohenzollernai]]
 - [[objektai/grupes/Riurikaičių dinastija]]

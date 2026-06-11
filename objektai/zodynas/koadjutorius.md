@@ -43,5 +43,5 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jurgis Radvila]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+- [[objektai/asmenys/Radvila]]

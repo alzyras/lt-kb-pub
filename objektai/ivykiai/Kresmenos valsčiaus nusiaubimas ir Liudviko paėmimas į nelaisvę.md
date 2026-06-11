@@ -121,4 +121,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

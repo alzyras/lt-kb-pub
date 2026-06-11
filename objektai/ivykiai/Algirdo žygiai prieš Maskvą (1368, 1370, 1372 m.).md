@@ -156,5 +156,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Rusėnai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]

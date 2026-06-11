@@ -82,5 +82,6 @@ Nenurodyta
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]

@@ -54,3 +54,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Liublino seimas]]
+- [[objektai/zodynas/seimas]]

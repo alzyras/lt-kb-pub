@@ -93,7 +93,6 @@ Nenurodyta
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/Lažas|lažas]]
 - [[objektai/zodynas/unija]]

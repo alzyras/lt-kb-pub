@@ -52,4 +52,5 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Švitrigaila]]

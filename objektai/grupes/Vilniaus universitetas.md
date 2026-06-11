@@ -435,6 +435,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Sniadeckis]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
 - [[objektai/autoriai/Lelevelis]]

@@ -105,5 +105,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Sapiegos]]
+- [[objektai/zodynas/seimas]]

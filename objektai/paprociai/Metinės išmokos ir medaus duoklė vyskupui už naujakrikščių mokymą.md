@@ -80,7 +80,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Karigaila]]
 - [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Andrius Važila]]

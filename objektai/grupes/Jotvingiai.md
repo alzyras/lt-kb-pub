@@ -343,6 +343,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/ivykiai/Jotvingių ir lietuvių prisidėjimas prie pamarėnų-prūsų sąjungos (1245 m.)]]
+- [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]
 - [[objektai/autoriai/Nalepa J]]
 - [[objektai/grupes/Pamarėnai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]

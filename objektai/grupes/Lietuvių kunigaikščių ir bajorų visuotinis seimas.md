@@ -57,5 +57,6 @@ Tuoj pat sušauktas lietuvių ku­ nigaikščių ir bajorų visuotinis seimas pa
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]

@@ -63,6 +63,7 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kuršiečiai]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]

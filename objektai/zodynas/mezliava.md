@@ -69,4 +69,5 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Duona]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]

@@ -74,7 +74,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]]

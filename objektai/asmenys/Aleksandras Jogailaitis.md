@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Aleksandras Jogailaitis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1492 m.'
@@ -20,6 +21,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Aleksandras Jogailaitis
 
 ## Santrauka
@@ -55,6 +57,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   - santrauka: Pasakojime Aleksandro veiksmams priskiriama ryžto stoka, o jo valdžia Vilniaus administracijos kontekste vadinama silpna.
     šaltiniai:
       - Michał Baliński, Vilniaus miesto istorija (2007 m.)
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Elena]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Aleksandras]]
 
 ## Teiginiai
 
@@ -167,6 +184,36 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   teiginys: 'Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.'
   pagrindžia:
     - c-008
+
+- t-023
+  teiginys: 'Kojelavičius teigia, kad paskui paragino Joną ir Aleksandrą pasirūpinti broliu Žygimantu.'
+  pagrindžia:
+    - c-020
+
+- t-024
+  teiginys: 'Kojelavičius teigia, kad be to, ir pats Aleksandras, jaunikaitis, kupinas valdovui de ramų savybių, žadino viltį, jog per savo gabumus susi lauks tokios pat sėkmės, kokios iš pradžių buvo susi laukęs jo tėvas.'
+  pagrindžia:
+    - c-021
+
+- t-025
+  teiginys: 'Kojelavičius teigia, kad at vyko ir tokie žymūs vyrai, 5 4 2 neleido atidėlioti vainikavimo P a k ėlim a s į so stą dienos: iš tos vietos, kur po sėdžiavo seimas, valdovo ap daru pasipuošusį Aleksandrą palydėjo į šv.'
+  pagrindžia:
+    - c-022
+
+- t-026
+  teiginys: 'Kojelavičius teigia, kad apie šį pralaimėjimą Aleksandras sužinojo prie Bobro upės; norėdamas su stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuose.'
+  pagrindžia:
+    - c-023
+
+- t-027
+  teiginys: 'Kojelavičius teigia, kad neatsispyręs kas dieną girdimiems Glinskio klastingiems raginimams, Karalius pasmerkia Aleksandras pasmerkė mirmirčiai žymiausius čiai Žemaitijos seniūną StaLietuvos didikus nislovą Žarnovskį, Smolens ko vietininką Stanislovą Kiš ką, Polocko vaivadą.'
+  pagrindžia:
+    - c-024
+
+- t-028
+  teiginys: 'Kojelavičius teigia, kad aleksandras jį pasitiko už penkių mylių: pastačius plyname lauke puošnią pala pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie karaliaus.'
+  pagrindžia:
+    - c-025
 
 ## Reikšmingi paminėjimai
 
@@ -667,48 +714,141 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   pagrindžia:
     - t-013
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Bona]]
-- [[objektai/zodynas/Cechas]]
-- [[objektai/asmenys/Elena]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/Zabójnica]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/indiktas]]
-- [[objektai/zodynas/Karšinčius|karšinčius]]
-- [[objektai/zodynas/klebonija]]
-- [[objektai/zodynas/kustodas]]
-- [[objektai/zodynas/metrika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
-- [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]
-- [[objektai/grupes/Radvilų giminė]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/grupes/Krymo totoriai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Perekopo orda]]
-- [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
-- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
-- [[objektai/zodynas/svečiai Svečių namai]]
-- [[objektai/asmenys/Šach Achmedas]]
+- c-020
+  santrauka: 'Kojelavičius teigia, kad paskui paragino Joną ir Aleksandrą pasirūpinti broliu Žygimantu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai gydytojas Jokūbas Zaleskis, palieptas atvirai išklo­
+    ti, ar karalius atlaikys ligą, nieko gero negalėjo paža­
+    dėti, karalius pasakė: „Vadinasi, reikia mirti" ir visą
+    savo dėmesį nukreipė į paskutiniuosius mirtingųjų rū­
+    pesčius. Sudaręs testamentą, visus pinigus, po ranka
+    turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į
+    lenkų didikus, prašydamas, kad, jam mirus, paskirtų
+    sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė
+    trumpą kalbą lietuviams, reikalaudamas, kad Aleksand­
+    rą paskelbtų Lietuvos valdovu. Paskui paragino Joną ir
+    Aleksandrą pasirūpinti broliu Žygimantu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-023
+
+- c-021
+  santrauka: 'Kojelavičius teigia, kad be to, ir pats Aleksandras, jaunikaitis, kupinas valdovui de ramų savybių, žadino viltį, jog per savo gabumus susi lauks tokios pat sėkmės, kokios iš pradžių buvo susi laukęs jo tėvas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gerokai nesutarė tie, kurie, visaip meilin-
+    damiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie
+    atvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus
+    sutramdė dar tebegyva jų širdyse Kazimiero įtaka ir
+    pagarba jam: jie negalėjo aplenkti jo sūnų, ypač Alek­
+    sandro, kurį paskutinę gyvenimo valandą Kazimieras
+    priešmirtiniais žodžiais jiems pasiūlė į valdovus. Be to,
+    ir pats Aleksandras, jaunikaitis, kupinas valdovui de­
+    ramų savybių, žadino viltį, jog per savo gabumus susi­
+    lauks tokios pat sėkmės, kokios iš pradžių buvo susi­
+    laukęs jo tėvas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-024
+
+- c-022
+  santrauka: 'Kojelavičius teigia, kad at vyko ir tokie žymūs vyrai, 5 4 2 neleido atidėlioti vainikavimo P a k ėlim a s į so stą dienos: iš tos vietos, kur po sėdžiavo seimas, valdovo ap daru pasipuošusį Aleksandrą palydėjo į šv.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Akivaizdus ir nepaprastas tautos pritarimas
+    ju  k u n ig a ik ščiu
+    susirinko į Vilniaus seimą. At­
+    vyko ir tokie žymūs vyrai,
+    5 4 2
+
+    ## Puslapis 541
+
+    neleido atidėlioti vainikavimo
+    P a k ėlim a s į so stą
+    dienos: iš tos vietos, kur po­
+    sėdžiavo seimas, valdovo ap­
+    daru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo
+    katedrą ir pasodino į tėvo sostą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-025
+
+- c-023
+  santrauka: 'Kojelavičius teigia, kad apie šį pralaimėjimą Aleksandras sužinojo prie Bobro upės; norėdamas su stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-026
+
+- c-024
+  santrauka: 'Kojelavičius teigia, kad neatsispyręs kas dieną girdimiems Glinskio klastingiems raginimams, Karalius pasmerkia Aleksandras pasmerkė mirmirčiai žymiausius čiai Žemaitijos seniūną StaLietuvos didikus nislovą Žarnovskį, Smolens ko vietininką Stanislovą Kiš ką, Polocko vaivadą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neatsispyręs kas dieną girdimiems Glinskio
+    klastingiems
+    raginimams,
+    Karalius
+    pasmerkia
+    Aleksandras pasmerkė mir-
+    mirčiai
+    žymiausius
+    čiai Žemaitijos seniūną Sta-
+    Lietuvos didikus
+    nislovą Žarnovskį, Smolens­
+    ko vietininką Stanislovą Kiš­
+    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
+    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
+    tos pačios minties žmones. Jis sušaukė Breste seimą,
+    ketindamas kokia nors dingstimi sukviesti ten žymiau­
+    sius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-027
+
+- c-025
+  santrauka: 'Kojelavičius teigia, kad aleksandras jį pasitiko už penkių mylių: pastačius plyname lauke puošnią pala pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie karaliaus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Į seimą atvyko iš Vilniaus
+    Skitas Sich Achmetas
+    Šich Achmetas, Užvolgio ski-
+    tariasi su karaliumi
+    tų valdovas, o šiuo metu
+    Breste ir Radome
+    tremtinys ir beveik belaisvis.
+    Aleksandras jį pasitiko už
+    penkių mylių: pastačius plyname lauke puošnią pala­
+    pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo
+    Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
+    karaliaus. Aleksandras Šich Achmetą priėmė su didele
+    pagarba ir pasisodino dešinėje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-028

@@ -98,6 +98,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Andrius Kopernikas]]
 - [[objektai/asmenys/Fabianas (Varmės vyskupas)]]
 - [[objektai/grupes/Varmės kapitula]]

@@ -76,5 +76,6 @@ Nenurodyta
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Šlėktų luomas]]
 - [[objektai/zodynas/šlėktų luomas Magdeburgo teisės]]

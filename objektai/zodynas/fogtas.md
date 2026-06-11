@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'fogtas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1273 m.'
@@ -9,8 +10,9 @@ datos:
   - '1277 m.'
   - '1278 m.'
   - '1292 m.'
+  - '1305 m.'
 date_start: '1273'
-date_end: '1292'
+date_end: '1305'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +20,7 @@ tags:
   - sąvoka
 amziai:
   - 'XIII'
+  - 'XIV'
 ---
 # fogtas
 
@@ -46,6 +49,16 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   teiginys: 'Dusburgietis teigia, kad 459 Ditrichas iš Lidelau Sembos fogtu buvo 1278—1292 m. (Voigt J., Namen-.., p. 76).'
   pagrindžia:
     - c-003
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad kryžiuočiai, vedami Sembos fogto, savo ruož tu, negalėdami pasivyti traukiančio namo Kęstučio, nu siaubė Ariogalos žemes.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -111,18 +124,48 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Dargis]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
-- [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
-- [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to, nusiau­
+    bęs aplinkinius kaimus, išžudė daugybę žmonių, o sa­
+    viškių neteko vos trisdešimt. Kitais metais, kai Vytenis
+    abu luomus sukvietė į pasi-
+    1305 m e ta i
+    tarimą, Sembos vyskupystės
+    V y te n is
+    p e rse k io ja
+    fogtas Pilypas fon Bolandas,
+    k ry žiu o č iu s g ro b ik u s
+    pasinaudojęs progą, kad bu­
+    vo išvykę kunigaikščiai ir
+    bajorai, nusiaubė pasienio kaimiečius. Kai valdovui
+    pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
+    mus, jis greitosiomis su tūkstančiu penkiais šimtais
+    raitelių patraukė sustabdyti tolesnio veržimosi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad kryžiuočiai, vedami Sembos fogto, savo ruož tu, negalėdami pasivyti traukiančio namo Kęstučio, nu siaubė Ariogalos žemes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kurį laiką Kęstutis laikėsi ramiai, tačiau
+    žemėmis. Kryžiuočiai, vedami Sembos fogto, savo ruož­
+    tu, negalėdami pasivyti traukiančio namo Kęstučio, nu­
+    siaubė Ariogalos žemes. Kai Algirdas bei Aleksandras
+    Karijotaitis su keliomis žygio voromis padalyta kariuo­
+    mene iš karto nuniokojo daugelį Prūsijos vietų ir, su­
+    griovę svarbias pilis Tilžę bei Ragainę ir daugybę kitų
+    miestų, išsivarė aštuonis šimtus belaisvių, Prūsijos ma­
+    gistras irgi sėkmingai nusiaubė didelius Lietuvos plo­
+    tus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

@@ -86,4 +86,5 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
 - [[objektai/grupes/brigada]]
 - [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Rusijos kariuomenės korpusas]]

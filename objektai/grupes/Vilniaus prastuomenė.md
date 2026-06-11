@@ -92,7 +92,7 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
@@ -104,6 +104,7 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 - [[objektai/asmenys/Boucicaut]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/autoriai/J. Dlugošas Długosz]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/posakiai/Menko grobio ir tuščios garbės pasigviešę]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]

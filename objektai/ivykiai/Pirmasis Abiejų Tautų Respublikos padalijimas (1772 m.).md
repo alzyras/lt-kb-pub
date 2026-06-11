@@ -65,4 +65,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/delegacinis seimas|delegacinis seimas (seimas)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

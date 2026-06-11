@@ -62,5 +62,6 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/saar]]

@@ -1,0 +1,76 @@
+---
+tipas: ivykis
+pavadinimas: 'Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1292 m.'
+date_start: '1292'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIII'
+---
+
+# Meinhardo žygis į Lietuvą ir pasitraukimas dėl išduoto sumanymo (1292 m.)
+
+## Santrauka
+
+Kojelavičius teigia, kad suma nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir sustiprinęs kariuomenę, nu- 1292 m e ta i tarė su visomis jėgomis iš karto žygiuoti į Lietuvą, no rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka laviju; perėjęs miškais sienas, jis jau ketino.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad suma nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir sustiprinęs kariuomenę, nu- 1292 m e ta i tarė su visomis jėgomis iš karto žygiuoti į Lietuvą, no rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka laviju; perėjęs miškais sienas, jis jau ketino.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad suma nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir sustiprinęs kariuomenę, nu- 1292 m e ta i tarė su visomis jėgomis iš karto žygiuoti į Lietuvą, no rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka laviju; perėjęs miškais sienas, jis jau ketino.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Suma­
+    nęs atkeršyti, Meinhardas, ta proga vėl sutelkęs ir
+    sustiprinęs kariuomenę, nu-
+    1292 m e ta i
+    tarė su visomis jėgomis iš
+    karto žygiuoti į Lietuvą, no­
+    rėdamas kuo plačiausiai nusiaubti šalį ugnimi ir ka­
+    laviju; perėjęs miškais sienas, jis jau ketino išsklai­
+    dyti pulkus kaimų niokoti. Vytenis, neturėdamas pa­
+    kankamai jėgų priešui at-
+    A tre m ia m i
+    k iy ž iu o -
+    remti atviroje kovoje, grie-
+    čia i, n io k o ja n ty s Lie-
+    besi klastos: išdėstęs patogio-
+    tu v ą
+    se miško vietose karius, jis
+    susitarė su prūsais (kurie,
+    aišku, patys jautė priešiškumą kryžiuočių valdymui,
+    o pakursčius tą neapykantą visokiausiais kaltinimais,
+    netruko išduoti), kad, pradėjus jų pirmiesiems būriams
+    bėgti, šie iš sparnų pultų priešą. Įspėtas apie išdavys­
+    tę, Meinhardas vargais negalais išvengė pavojaus anks­
+    čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka­
+    riuomenę į Prūsiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001

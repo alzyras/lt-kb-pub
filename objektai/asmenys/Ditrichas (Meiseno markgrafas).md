@@ -69,5 +69,6 @@ Dusburgietis teigia, kad ditrichas (Meiseno markgrafas) sušakosiąs ir ateityje
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

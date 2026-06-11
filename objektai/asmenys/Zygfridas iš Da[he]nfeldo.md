@@ -75,6 +75,7 @@ periodo_grupes:
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Jonas Lonei]]

@@ -78,6 +78,7 @@ tags:
 - [[objektai/autoriai/Adomas Honorijus Kirkoras]]
 - [[objektai/ivykiai/Antrasis LLV padalijimas]]
 - [[objektai/asmenys/Bazilijus Ciapinskis]]
+- [[objektai/asmenys/Bogdanas Chmelnickis]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]

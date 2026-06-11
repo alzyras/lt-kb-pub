@@ -91,4 +91,4 @@ periodo_grupes:
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]

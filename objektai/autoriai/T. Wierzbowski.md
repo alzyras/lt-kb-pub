@@ -50,3 +50,4 @@ Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W.
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/poliublininiai laikai]]
+- [[objektai/zodynas/seimas]]

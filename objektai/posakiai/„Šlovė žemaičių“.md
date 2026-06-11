@@ -63,4 +63,5 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
 - [[objektai/autoriai/S. Daukantas]]
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/autoriai/Simonas Stanevičius]]
+- [[objektai/zodynas/senatas]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]

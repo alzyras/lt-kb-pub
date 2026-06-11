@@ -69,4 +69,5 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/daiktai/Paplotėlis]]

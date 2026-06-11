@@ -87,7 +87,9 @@ Nenurodyta
 - [[temos/transportas]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

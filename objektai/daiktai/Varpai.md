@@ -167,7 +167,7 @@ Nenurodyta
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pagonybė]]

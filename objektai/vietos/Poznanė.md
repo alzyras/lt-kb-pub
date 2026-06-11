@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Poznanė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -19,6 +20,7 @@ amziai:
   - 'XII'
   - 'XXI'
 ---
+
 # Poznanė
 
 ## Santrauka
@@ -96,6 +98,11 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginys: '„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško.'
   pagrindžia:
     - c-002
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -273,3 +280,21 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   statusas: verified
   pagrindžia:
     - t-012
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad keliaudamas iš Poznanės į Srodą, vos neprarado gyvybės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pa­
+    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
+    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
+    Srodą, vos neprarado gyvybės. Mat juodi debesys ap­
+    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
+    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
+    lydovus, keturis arklius iš šešių ir penktą ginklanešio
+    žirgą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015

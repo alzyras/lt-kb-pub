@@ -60,5 +60,6 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/piktadarystė]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Abelis]]

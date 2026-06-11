@@ -63,4 +63,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje]]

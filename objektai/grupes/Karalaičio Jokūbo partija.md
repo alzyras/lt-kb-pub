@@ -70,5 +70,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/zodynas/elektorius]]

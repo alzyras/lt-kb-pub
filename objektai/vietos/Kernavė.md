@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Kernavė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -21,6 +22,7 @@ amziai:
   - 'XX'
   - 'XXI'
 ---
+
 # Kernavė
 
 ## Santrauka
@@ -83,6 +85,21 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginys: 'XVI amž. plačioji Lietuvos metraščio redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug žvėrienos.'
   pagrindžia:
     - c-009
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad todėl, norėdamas su rišti priešui rankas, įkūrė pirmą nausėdiją ant upės kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos sostinę.'
+  pagrindžia:
+    - c-010
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad šitaip sutvarkęs vals tybės reikalus ir perkėlęs kunigaikštystės sostinę iš Naugarduko į Kernavę, jis ėmė galvoti apie karo da lykus.'
+  pagrindžia:
+    - c-011
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad šitokia padėtis paskatino Kernavės ku nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten išvaryti.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -255,3 +272,81 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   statusas: verified
   pagrindžia:
     - t-011
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad todėl, norėdamas su rišti priešui rankas, įkūrė pirmą nausėdiją ant upės kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos sostinę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl, norėdamas su­
+    rišti priešui rankas, įkūrė pirmą nausėdiją ant upės
+    kranto ir pastatė pilį, kurios tvirtumą lėmė ir pati jos
+    64
+
+    ## Puslapis 63
+
+    padėtis, ir įgula: įkūrė Kernavę, kadainykštę Lietuvos
+    sostinę. Ši vietovė po šiai dienai išsaugojo vardą, gau­
+    dėj o dirbti pakrantėje laukus, rusai, su įtarimu žiūrėję
+    į naujuosius kaimynus, ėmėsi smurto ir ginklo. Šie
+    veiksmai priminė veikiau atkarų plėšikavimą nei gar­
+    bingą karą: nuolatiniais antpuoliais buvo siaubiami
+    naujakuriai;
+    Kernius bei Gimbutas dėjosi nematą
+    skriaudų, tačiau paslapčiomis ryžosi pulti Rusią.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad šitaip sutvarkęs vals tybės reikalus ir perkėlęs kunigaikštystės sostinę iš Naugarduko į Kernavę, jis ėmė galvoti apie karo da lykus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tad, su Traideniu tvarkydamas vals­
+    140
+
+    ## Puslapis 139
+
+    tybės reikalus, tuo pačiu jis stiprino šio galią ir, ne­
+    paisydamas brolio priešiškumo, teikė jam vilčių, jog
+    ateityje jam atiteksianti valstybė. Šitaip sutvarkęs vals­
+    tybės reikalus ir perkėlęs kunigaikštystės sostinę iš
+    Naugarduko į Kernavę, jis ėmė galvoti apie karo da­
+    lykus. Nuolatos keičiantis valdovams, jie eidavo savo
+    pareigas vos metus, todėl kariuomenės reikalai buvo
+    gana prasti, nes ir tarybos, ir karo stovyklų vadai mir­
+    davo dar tada, kai būdavo pradedama rengtis karui
+    ar vos imama kariauti; turbūt dėl tos priežasties per
+    ištisus šešiolika metų nepavyko nieko padaryti reikš­
+    mingesnio, kad iš lenkų būtų atsiimti jotvingiai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad šitokia padėtis paskatino Kernavės ku nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten išvaryti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šios įgulos nepaprastai kenkė aplinkiniam
+    kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
+    daug žalos menkais, bet dažnais išpuoliais, rengiamais
+    nedidelių būrių. Šitokia padėtis paskatino Kernavės ku­
+    nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten
+    išvaryti. Puldamas Ritersver-
+    A le k sa n d ra s V y g a n -
+    derį su trimis lenkų pėstinin-
+    das n e sė k m in g a i puo-
+    kų ir keliais lietuvių raitelių
+    ia pilis
+    būriais, kunigaikštis, be abe­
+    jonės, būtų netrukęs užimti
+    pilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,
+    kai gynėjai jau ketino pasiduoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014

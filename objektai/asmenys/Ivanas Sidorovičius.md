@@ -60,12 +60,12 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Ivanas]]
 - [[objektai/asmenys/Joachimas Pavlovičius]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/zodynas/posadnikas bojarinas vietininkas]]

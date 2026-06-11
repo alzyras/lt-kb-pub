@@ -63,6 +63,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]

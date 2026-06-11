@@ -102,7 +102,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/autoriai/Petras Skarga]]
 - [[objektai/asmenys/Steponas]]

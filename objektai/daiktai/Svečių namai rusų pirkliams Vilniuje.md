@@ -97,7 +97,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusų pirkliai]]
 - [[objektai/grupes/Vokiečiai]]

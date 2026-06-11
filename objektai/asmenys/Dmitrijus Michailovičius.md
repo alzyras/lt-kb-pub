@@ -61,4 +61,5 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/Rusios didysis kunigaikštis]]
+- [[objektai/zodynas/didysis kunigaikštis]]

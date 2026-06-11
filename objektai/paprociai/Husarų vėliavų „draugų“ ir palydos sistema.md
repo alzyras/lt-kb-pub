@@ -174,6 +174,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/daiktai/Vėliavos]]

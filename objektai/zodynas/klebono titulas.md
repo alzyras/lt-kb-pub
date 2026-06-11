@@ -40,3 +40,7 @@ Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai pri
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kūnas]]

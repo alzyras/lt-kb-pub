@@ -163,4 +163,5 @@ Nenurodyta
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/konfederacija]]

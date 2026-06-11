@@ -53,7 +53,7 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]

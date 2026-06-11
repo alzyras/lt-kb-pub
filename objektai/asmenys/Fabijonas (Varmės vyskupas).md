@@ -66,6 +66,7 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/Apaštalų Sostas]]
 - [[objektai/grupes/Varmės kapitula]]

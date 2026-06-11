@@ -107,11 +107,11 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zbignevas Olesnickis]]
+- [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/asmenys/imperatorius Zigmantas]]

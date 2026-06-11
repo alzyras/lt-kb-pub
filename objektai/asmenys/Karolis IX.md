@@ -157,6 +157,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]

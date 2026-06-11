@@ -86,7 +86,6 @@ amziai:
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Sabinas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]

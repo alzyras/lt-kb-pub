@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Manvydas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1396 m.'
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Manvydas
 
 ## Santrauka
@@ -51,6 +53,11 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginys: 'O Manvydas, Trakų vaivada, buvo sučiuptas ir, Žygimanto įsakymu, nukirsdintas20.'
   pagrindžia:
     - c-004
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -173,15 +180,22 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   pagrindžia:
     - t-004
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]]
-- [[objektai/zodynas/manu proprio M.P]]
-- [[objektai/zodynas/pataurininkis rykūnė]]
-- [[objektai/zodynas/rotmistras]]
+- c-006
+  santrauka: 'Kojelavičius teigia, kad manvydas susitarė su Goštautu bei Astiku, laikantis senojo susitarimo su len kais, paskelbti valdovu patį karalių Vladislovą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais. Manvydas susitarė su
+    Goštautu bei Astiku, laikantis senojo susitarimo su len­
+    kais, paskelbti valdovu patį karalių Vladislovą. Kiti
+    manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu
+    gali atnešti daugiau žalos nei naudos, nes, neseniai pa­
+    keltas į Vengrijos karaliaus sostą ir atskirtas nuo Lietu­
+    vos tokių didelių nuotolių, negalėsiąs laiku nei žinios
+    apie pavojų gauti, nei ką padėti, todėl griežtai prieši­
+    nosi karaliaus kandidatūrai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

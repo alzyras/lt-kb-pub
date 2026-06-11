@@ -1,0 +1,75 @@
+---
+tipas: ivykis
+pavadinimas: 'Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1291 m.'
+date_start: '1291'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIII'
+---
+
+# Kryžiuočių žygis į Junigedos apylinkes ir Kolainių pilies sudeginimas (1291 m.)
+
+## Santrauka
+
+Kojelavičius teigia, kad vasario pradžioje Bertoldas Briuhavenas, Ka- 1291 m e ta i raliaučiaus komtūras, atvedė L ie tu v ą sia u b ia k iy - daugiau kaip tūkstantį penkis žiu o č ia i šimtus raitelių į Junigedos apylinkes.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad vasario pradžioje Bertoldas Briuhavenas, Ka- 1291 m e ta i raliaučiaus komtūras, atvedė L ie tu v ą sia u b ia k iy - daugiau kaip tūkstantį penkis žiu o č ia i šimtus raitelių į Junigedos apylinkes.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad vasario pradžioje Bertoldas Briuhavenas, Ka- 1291 m e ta i raliaučiaus komtūras, atvedė L ie tu v ą sia u b ia k iy - daugiau kaip tūkstantį penkis žiu o č ia i šimtus raitelių į Junigedos apylinkes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to abi pusės liovėsi vie­
+    na kitą puldinėjusios, tačiau ne dėl to, kad buvo pa­
+    darytos paliaubos, bet dėl to, kad trukdė rudens orai;
+    todėl
+    tik ruduo
+    buvo
+    ramus.
+    Vasario
+    pradžioje
+    165
+
+    ## Puslapis 164
+
+    Bertoldas Briuhavenas, Ka-
+    1291 m e ta i
+    raliaučiaus komtūras, atvedė
+    L ie tu v ą  sia u b ia  k iy -
+    daugiau kaip tūkstantį penkis
+    žiu o č ia i
+    šimtus raitelių į Junigedos
+    apylinkes. Iš baimės išsibė­
+    giojus gynėjams, buvo užimta ir sudeginta Kolainių
+    pilis, vėliau, nuniokojus kaimus, be kito grobio, išsi­
+    varyta į vergiją septyni šimtai žmonių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001

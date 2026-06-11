@@ -81,5 +81,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]

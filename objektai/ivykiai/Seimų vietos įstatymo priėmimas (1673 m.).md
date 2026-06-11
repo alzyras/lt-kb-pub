@@ -62,3 +62,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/seimas]]

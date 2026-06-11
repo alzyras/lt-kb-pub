@@ -75,5 +75,6 @@ Nenurodyta
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/asmenys/Steponas Batoras]]

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Bartos žemė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1347 m.'
@@ -14,6 +15,7 @@ tags:
 amziai:
   - 'XIV'
 ---
+
 # Bartos žemė
 
 ## Santrauka
@@ -31,6 +33,11 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
   teiginys: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad lietuviai nuvedė prisiplėšusius grobio karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -76,3 +83,28 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad lietuviai nuvedė prisiplėšusius grobio karius į Bartos žemę, kur atvirame lauke sustojo pailsėti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sutelkta
+    keturi tūkstančiai rinktinių karių; su šia kariuomene
+    balandžio mėnesį Vytenis užpuolė Varmės žemę, po
+    siaubingo nuniokojimo' visame krašte nieko nebeliko,
+    tik pusiau apdegusios Heilsbergo ir Varmės pilys:
+    kaimai, miestai, bažnyčios —
+    viskas sudeginta ir su žeme
+    sulyginta. Lietuviai nuvedė
+    prisiplėšusius grobio karius
+    į Bartos žemę, kur atvirame
+    lauke sustojo pailsėti. Kai čia
+    ilsėdamiesi skaičiavo grobį,
+    belaisviai išvydo atnešant sidabrinį, visiems krikščio­
+    nims šventą indą, kur esti saugomas švenčiausias die­
+    vo kūnas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

@@ -117,7 +117,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

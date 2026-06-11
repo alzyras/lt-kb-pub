@@ -41,4 +41,5 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/rusinimas]]

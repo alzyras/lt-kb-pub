@@ -181,6 +181,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Čupurna]]

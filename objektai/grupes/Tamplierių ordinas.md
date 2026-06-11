@@ -126,6 +126,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/ekskomunikuoti]]
+- [[objektai/zodynas/erezija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švento Jono ligoninės ordinas]]

@@ -96,4 +96,5 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/NKVD]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]

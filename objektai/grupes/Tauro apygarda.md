@@ -126,6 +126,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
 - [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
 - [[objektai/asmenys/Vytautas Gužas-Kardas]]

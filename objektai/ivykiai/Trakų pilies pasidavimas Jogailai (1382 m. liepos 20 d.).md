@@ -87,3 +87,4 @@ Nenurodyta
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/įgula]]

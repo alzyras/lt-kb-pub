@@ -3,6 +3,7 @@ tipas: zodyno_irasas
 pavadinimas: 'vaivada'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
@@ -12,16 +13,23 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # vaivada
 
 ## Santrauka
 
 Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame šaltinyje vaivados apibrėžti kaip Vilniaus ir Trakų sričių lenkiškojo tipo urėdai, o šiame šaltinyje terminas vartojamas ir bendram Lietuvos, Rusios, lenkų bei vokiečių vaivadų sluoksniui, ir konkrečiam Krokuvos vaivadai įvardyti.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/zodynas/kaštelionas]]
 
 ## Teiginiai
 
@@ -39,6 +47,11 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginys: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -85,160 +98,23 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
-### Susiję objektai
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Albertas Janavičius]]
-- [[objektai/asmenys/Aleksandras Gonsevskis]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Aleksandras Jurgėvičius]]
-- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
-- [[objektai/daiktai/Aleksandro laikų Vilniaus monetos ir kalyklos metalai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Andrius Kopernikas]]
-- [[objektai/asmenys/Aštikas]]
-- [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]
-- [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
-- [[objektai/grupes/Bernardinų ordinas]]
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
-- [[objektai/asmenys/Cvinglis]]
-- [[objektai/zodynas/Czopowe]]
-- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
-- [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
-- [[objektai/asmenys/Elena]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
-- [[objektai/asmenys/Fulvio Ruggieri]]
-- [[objektai/asmenys/Gedgaudas]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/autoriai/Grzybowski]]
-- [[objektai/asmenys/Ivanas Vasiljevičius]]
-- [[objektai/asmenys/Jonas (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Jonas Chojevskis]]
-- [[objektai/asmenys/Jonas Hlebavičius]]
-- [[objektai/asmenys/Jonas Zabžezinskis]]
-- [[objektai/asmenys/Jonas iš Zabrežjės]]
-- [[objektai/asmenys/Jurgis (Lucko vyskupas)]]
-- [[objektai/asmenys/Jurgis Astikaitis]]
-- [[objektai/asmenys/Jurgis Boliminas]]
-- [[objektai/asmenys/Jurgis Geldgaudas]]
-- [[objektai/asmenys/Jurgis Radvila]]
-- [[objektai/autoriai/Karamzin]]
-- [[objektai/grupes/Karmelitų ordinas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
-- [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
-- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
-- [[objektai/grupes/Lenkijos senatas]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
-- [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
-- [[objektai/asmenys/Liutauras Chreptavičius]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
-- [[objektai/asmenys/Maksimas Vasiljevičius]]
-- [[objektai/grupes/Maloningosios Dievo Motinos brolija]]
-- [[objektai/asmenys/Manvydas]]
-- [[objektai/daiktai/Manvydo rūmai ir Aukštutinės pilies mūrai]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/asmenys/Markvardas Zalzbachas]]
-- [[objektai/asmenys/Martynas Liuteris]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/grupes/Maskvos pasiuntiniai]]
-- [[objektai/asmenys/Mathias Ziindt]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
-- [[objektai/asmenys/Mikalojus Michalovskis]]
-- [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/asmenys/Mikalojus Radvila II]]
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/asmenys/Milonas]]
-- [[objektai/asmenys/Mingaila]]
-- [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
-- [[objektai/asmenys/Mykolas Rusalka]]
-- [[objektai/asmenys/Mykolas Sapienskis]]
-- [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]
-- [[objektai/asmenys/Petras Białas]]
-- [[objektai/asmenys/Petrašu Montgirdaitis]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Radvilų giminė]]
-- [[objektai/asmenys/Rumbaudas]]
-- [[objektai/asmenys/Rumbautas]]
-- [[objektai/asmenys/Sebastijonas Vitinskis]]
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
-- [[objektai/asmenys/Simonas Rapolovskis]]
-- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
-- [[objektai/asmenys/Spytekas iš Melštyno]]
-- [[objektai/asmenys/Spytkas iš Melsztyno]]
-- [[objektai/asmenys/Stanislovas Goštautas]]
-- [[objektai/asmenys/Stanislovas Leščinskis]]
-- [[objektai/asmenys/Stanislovas Veenas]]
-- [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/zodynas/Szosowe]]
-- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
-- [[objektai/asmenys/Tochtamišas]]
-- [[objektai/grupes/Tochtamišo totoriai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
-- [[objektai/asmenys/Ulrikas Hozijus]]
-- [[objektai/asmenys/Vaclovas (Medininkų vyskupas)]]
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
-- [[objektai/asmenys/Vaitiekus Janavičius]]
-- [[objektai/asmenys/Vaitiekus Narutavičius]]
-- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
-- [[objektai/asmenys/Vasilijus Vasiljevičius]]
-- [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]
-- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
-- [[objektai/grupes/Vokietijos kunigaikščiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/asmenys/Zbignevas Olesnickis]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/disidentai reformatai reformatoriai]]
-- [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]
-- [[objektai/zodynas/in partibus infidelium]]
-- [[objektai/zodynas/indiktas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/monopolis privati prekyba]]
-- [[objektai/zodynas/muitas thelonea]]
-- [[objektai/zodynas/neofitai]]
-- [[objektai/zodynas/pataurininkas]]
-- [[objektai/zodynas/reformacija]]
-- [[objektai/zodynas/tenuta laikytojas]]
-- [[objektai/zodynas/trečias grūdas]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/zodynas/vaivada kaštelionas]]
-- [[objektai/zodynas/virvės ištempimas]]
-- [[objektai/asmenys/Čupurva]]
-- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/paprociai/Žemaičių atvertimo į krikščionybę veikla iš Vilniaus]]
-- [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/zodynas/urėdas]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
-- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
-- [[objektai/asmenys/Mykolas Pacas]]
-- [[objektai/asmenys/Simonas Lengvenis]]
+- c-004
+  santrauka: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

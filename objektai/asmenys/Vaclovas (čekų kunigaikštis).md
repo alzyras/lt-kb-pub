@@ -47,4 +47,5 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/piktadarystė]]
 - [[objektai/grupes/Čekai]]

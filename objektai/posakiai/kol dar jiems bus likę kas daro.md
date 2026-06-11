@@ -48,5 +48,6 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/grupes/Nadruviai]]

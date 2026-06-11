@@ -50,4 +50,4 @@ tags:
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
 - [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

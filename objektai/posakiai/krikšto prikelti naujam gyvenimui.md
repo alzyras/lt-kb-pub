@@ -62,6 +62,7 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Maudelis]]
 - [[objektai/grupes/Nadruviai]]
 - [[objektai/zodynas/magistras]]

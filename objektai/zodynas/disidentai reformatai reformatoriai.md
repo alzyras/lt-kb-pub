@@ -157,6 +157,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Cvinglis]]
 - [[objektai/autoriai/Liuteris]]
 - [[objektai/asmenys/Martynas iš Golino]]

@@ -43,7 +43,7 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Oginskiai]]
 - [[objektai/asmenys/Albrechtas Radvila]]
-- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]
 - [[objektai/daiktai/Kardinalijos namų kompleksas]]
 - [[objektai/grupes/Tiškevičiai]]

@@ -130,4 +130,5 @@ Nenurodyta
 - [[objektai/grupes/Dembinskio rinktinė]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Rohlando būrys]]

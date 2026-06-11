@@ -3,12 +3,14 @@ tipas: vieta
 pavadinimas: 'Palenkė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1345 m.'
+  - '1440 m.'
   - '2026 m.'
 date_start: '1345'
 date_end: '2026'
@@ -125,6 +127,21 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginys: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Palenkę ir kitas LDK teritorijas.'
   pagrindžia:
     - c-008
+
+- t-021
+  teiginys: 'Kojelavičius teigia, kad atsikratęs šito rūpesčio, Vytautas ramia galva pra dėjo telkti karius Žemaitijoje ir Palenkėję.'
+  pagrindžia:
+    - c-016
+
+- t-022
+  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  pagrindžia:
+    - c-017
+
+- t-023
+  teiginys: 'Kojelavičius teigia, kad į seimą atvyko ir lenkų atstovai, kurie senato bei bajorų akivaizdoje rim čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū tų vieną kartą sudaryta galutinė lenkų ir lietuvių są junga, vadinamoji.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 
@@ -377,3 +394,84 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   statusas: verified
   pagrindžia:
     - t-020
+
+- c-016
+  santrauka: 'Kojelavičius teigia, kad atsikratęs šito rūpesčio, Vytautas ramia galva pra dėjo telkti karius Žemaitijoje ir Palenkėję.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pirmiausia jis susitarė su
+    kryžiuočiais, kurie ne tik pasižadėjo laikytis taikos, kai
+    Vytautas patrauks į karą, bet ir pasiuntė, kaip neseniai
+    buvo susitarta, penkis šimtus rinktinių riterių į pagal­
+    bą. Atsikratęs šito rūpesčio, Vytautas ramia galva pra­
+    dėjo telkti karius Žemaitijoje ir Palenkėję. Galybė len­
+    kų didikų patys pasisiūlė traukti į šį nelyginant šventąjį
+    žygį prieš krikščionių tikėjimo priešus mahometonus:
+    Rapolas iš Tarnovo, Spitekas iš Melštino, Krokuvos
+    vaivada, Socha, Plocko vaivada, Jonas Glovačas, Ma­
+    zovijos vaivada, Jonas iš Dombrovos, Dobrogostas iš
+    Šamotulų, Varsas iš Michovo, Ostrorogas, Pilikas, Bo-
+    gušas ir kiti didikai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-021
+
+- c-017
+  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kurie, prisi-
+    džiovinę medžių lapų ir juos
+    sutrynę, kepėsi duonos, tie
+    tarėsi prabangiai besimaitiną,
+
+    ## Puslapis 465
+
+    P e n k t a  k n y g a
+    APIE LIETUVIŲ PRAEITĮ,
+    KAI VALDE KAZIMIERAS II JOGAILAITIS
+    1440 m eta i
+    M a z o v ijo s
+    k u n ig a i­
+    kštis užim a
+    P a len kę
+    Nužudžius Žygimantą, ra­
+    dosi daugybė priežasčių, ga­
+    linčių sukelti neramumus val­
+    stybės viduje ir už jos ribų.
+    Užpuolęs Palenkę, Boleslovas,
+    Mazovijos kunigaikštis, užėmė Melniką, Belską ir Dro-
+    hičiną. Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
+    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
+    pritardami naujajam valdovui, o kiti jam priešindamie­
+    si.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-022
+
+- c-018
+  santrauka: 'Kojelavičius teigia, kad į seimą atvyko ir lenkų atstovai, kurie senato bei bajorų akivaizdoje rim čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū tų vieną kartą sudaryta galutinė lenkų ir lietuvių są junga, vadinamoji.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Rugsėjo pabaigoje luomai susirinko Vilniuje į
+    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
+    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
+    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
+    niekas taip nekenkia visuomenės reikalams, kaip as­
+    meniniai atskirų didikų nesutarimai. Į seimą atvyko ir
+    lenkų atstovai, kurie senato bei bajorų akivaizdoje rim­
+    čių rimčiausiai pareikalavo, kad, atidavus Lenkijos ka­
+    ralystei Palenkę, Volynę, Kijevo ir Seversko žemes, bū­
+    tų vieną kartą sudaryta galutinė lenkų ir lietuvių są­
+    junga, vadinamoji unija. Jie vis dėlto nieko nepešė,
+    nes lietuviai tiesiai atrėžė, jog Lenkija neturinti jokių
+    teisių į tas žemes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-023

@@ -56,7 +56,7 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Laurynas Volskis]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/fundacija]]

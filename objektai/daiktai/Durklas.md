@@ -57,4 +57,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Karakašas]]
+- [[objektai/paprociai/Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas]]

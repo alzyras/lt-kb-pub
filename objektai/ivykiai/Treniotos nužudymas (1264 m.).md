@@ -62,6 +62,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Treniota]]
 - [[objektai/zodynas/koniuši]]

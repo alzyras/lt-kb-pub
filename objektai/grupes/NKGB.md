@@ -137,6 +137,7 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Marcinkevičius]]
 - [[objektai/grupes/NKVD]]

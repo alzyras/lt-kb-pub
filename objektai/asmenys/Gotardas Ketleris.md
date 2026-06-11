@@ -99,6 +99,7 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/Augsburgo Augustino tikėjimas]]

@@ -106,6 +106,7 @@ Nenurodyta
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]

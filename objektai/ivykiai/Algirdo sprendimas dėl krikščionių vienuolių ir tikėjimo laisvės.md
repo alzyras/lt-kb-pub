@@ -92,6 +92,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/zodynas/regula]]

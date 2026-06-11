@@ -58,4 +58,5 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]

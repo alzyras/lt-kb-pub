@@ -187,11 +187,14 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/K. Avižonis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Žygimantas]]

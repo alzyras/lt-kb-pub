@@ -75,4 +75,6 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/zodynas/įkaitai]]
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]

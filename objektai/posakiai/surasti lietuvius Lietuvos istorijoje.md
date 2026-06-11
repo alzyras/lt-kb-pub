@@ -59,6 +59,7 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/poliublininiai laikai]]

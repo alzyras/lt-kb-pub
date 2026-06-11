@@ -46,4 +46,5 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/zodynas/netikėliai]]

@@ -119,6 +119,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/zodynas/vaitas]]

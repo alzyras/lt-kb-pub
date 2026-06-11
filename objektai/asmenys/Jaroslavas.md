@@ -42,6 +42,7 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
 - [[objektai/asmenys/Jurgis Lengvenaitis]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]

@@ -64,7 +64,6 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Elena]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]

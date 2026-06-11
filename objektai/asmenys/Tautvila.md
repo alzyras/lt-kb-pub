@@ -77,6 +77,7 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Patirgas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

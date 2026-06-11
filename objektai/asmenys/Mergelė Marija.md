@@ -203,6 +203,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Teutonai]]

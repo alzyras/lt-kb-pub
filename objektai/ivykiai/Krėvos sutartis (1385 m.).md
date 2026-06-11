@@ -150,15 +150,16 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/applicare]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„prišlieti“]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]

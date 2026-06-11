@@ -80,6 +80,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Karolis XII]]

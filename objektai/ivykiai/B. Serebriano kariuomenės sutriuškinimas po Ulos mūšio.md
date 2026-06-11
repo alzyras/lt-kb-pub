@@ -96,6 +96,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]

@@ -46,6 +46,6 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/zodynas/protestantizmas]]

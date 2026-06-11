@@ -53,7 +53,7 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]

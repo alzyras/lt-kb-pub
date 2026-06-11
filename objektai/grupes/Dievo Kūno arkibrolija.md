@@ -74,5 +74,6 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/arkibrolija arkikonfratrija]]

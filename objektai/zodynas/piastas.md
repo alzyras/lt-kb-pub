@@ -66,5 +66,8 @@ reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekviena
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/grupes/Piastų dinastija]]

@@ -40,4 +40,5 @@ Tos vė­ liavos buvusios smolenskiečių.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui]]
 - [[objektai/daiktai/Vėliavos]]

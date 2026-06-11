@@ -202,6 +202,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Kardas]]

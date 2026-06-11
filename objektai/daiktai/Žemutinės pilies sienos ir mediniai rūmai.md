@@ -73,7 +73,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/daiktai/Mediniai rūmai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]

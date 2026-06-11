@@ -78,4 +78,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/husarai]]

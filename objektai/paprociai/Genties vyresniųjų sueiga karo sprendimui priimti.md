@@ -70,4 +70,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Skalviai]]
+- [[objektai/zodynas/sueiga]]
 - [[objektai/zodynas/žygis]]

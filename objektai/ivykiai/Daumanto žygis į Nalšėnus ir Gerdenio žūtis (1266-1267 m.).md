@@ -61,6 +61,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Daumantas]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/žygis]]

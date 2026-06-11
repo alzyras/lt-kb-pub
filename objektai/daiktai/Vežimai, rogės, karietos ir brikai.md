@@ -103,7 +103,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Sudimantas]]
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/zodynas/kapitula]]

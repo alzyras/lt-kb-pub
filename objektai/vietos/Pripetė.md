@@ -3,7 +3,7 @@ tipas: vieta
 pavadinimas: 'Pripetė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
@@ -30,6 +30,16 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   teiginys: 'Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką Piną su Bugo intaku Muchavcu.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad pripetės žiotyse įrengęs ka ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,43 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad pripetės žiotyse įrengęs ka ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Valdingai pasi-
+    keliais nuvesti iki sienos. Kaidanas, pasiuntiniams per
+    ilgai užsibuvus, įtarė, jog nesumani pasiuntinybė ap­
+    gaudinėjama atidėliojant reikalą ir persikėlė per Dnep-
+    rą, norėdamas savo siekius paremti ginklu ir jėga pri­
+    versti paklusti jo valdžiai. Pripetės žiotyse įrengęs ka­
+    ro stovyklą, jis išsiuntė galybę būrių krašto niokoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad galop nugalėję lietuviai išvijo barbarus iš stovyklos: galybė priešų krito mūšyje, kur kas dau giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri gėrusių Dnepro ir Pripetės duburiuose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tiesa, kai buvę toliau
+    nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­
+    vina kova. Galop nugalėję lietuviai išvijo barbarus iš
+    stovyklos: galybė priešų krito mūšyje, kur kas dau­
+    giau krito bėgančiųjų, žuvusių nuo kalavijų arba pri­
+    gėrusių Dnepro ir Pripetės duburiuose. Ši pergalė buvo
+    D u o k lės p ra ša n tiem s
+    sk ita m s E rd vila s siu n ­
+    čia  d v i strė le s
+    šaukęs pasiuntinius, jis atsi­
+    sakė duoklės, paskelbė karą
+    ir įteikė jų kunigaikščiui do­
+    vaną— dvi strėles.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

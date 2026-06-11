@@ -49,5 +49,6 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
 ### Susiję objektai
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]

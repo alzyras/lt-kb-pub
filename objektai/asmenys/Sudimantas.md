@@ -91,6 +91,7 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
 - [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
 - [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]

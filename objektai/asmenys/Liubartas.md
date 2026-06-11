@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Liubartas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -23,6 +24,11 @@ periodo_grupes:
 ## Santrauka
 
 Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos paveldėjimo teisių turėtojas, ilgai gynęs Lietuvos interesus prieš Lenkiją.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
 
 ## Teiginiai
 
@@ -71,6 +77,36 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   teiginys: '1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.'
   pagrindžia:
     - c-004
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.'
+  pagrindžia:
+    - c-009
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  pagrindžia:
+    - c-010
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvovą, Kęstutis — dideles žemes kitur Rusioje, o Jurgis Narimantaitis, jų brolėnas,— Kremenecą.'
+  pagrindžia:
+    - c-011
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad to pat karo metu Vladimire apsuptas Liubartas išvengė lenkų ne laisvės dėl vieno kario ypatingo drąsumo.'
+  pagrindžia:
+    - c-012
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad tais pačiais metais Kazimieras, Lenkijos kara lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo lynės Algirdo brolį Liubartą.'
+  pagrindžia:
+    - c-013
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad liubartas be kovos ir be didesnių pastangų atgavo neseniai iš jo atimtą tėvoniją, seno je medinėje pilyje įrengė visokių gynybinių įtvirtini mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa kymu dvejus metus statytą iš degtų plytų ir pareika lavusią.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -196,17 +232,170 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   pagrindžia:
     - t-009
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/autoriai/J. Puzyna]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
-- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
-- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
+- c-009
+  santrauka: 'Kojelavičius teigia, kad pirmiausia jis ap žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl imanti šviesti
+    viltis, jog tie, kurie paveldėjo tėvų valdas bei nesan­
+    taiką, paveldėsią taip pat ir jų lemtį. Pirmiausia jis ap­
+    žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš
+    šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.
+    Prikalbino taip pat stoti į karą prieš bendrą priešą
+    rusų kunigaikščius: Kijevo — Sviatoslavą, Drucko —
+    Simeoną, Lucko bei Volynės — Dovydą, Utenį irgi
+    įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
+    Livonijos ordinu, nesuteikė beveik jokios pagalbos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mažai vis dėlto ką pe­
+    šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios
+    upės trukdė sprunkantiesiems ir juos skandino savo
+    verpetuose. Šiame mūšyje žuvo Drucko kunigaikštis
+    Michailas, Lucko valdovas Andrejus ir Pisimantas bei
+    Liubartas, Treniotos broliai. Šit todėl Treniota, neno­
+    rėdamas, kad po kunigaikščių mirties šiaurinėje Ru­
+    sioje kas pasikeistų, pavedė baigti karą su skitais ir
+    01
+
+    ## Puslapis 90
+
+    A lg im a n ta s — L ietu ­
+    v o s  ir
+    N a u g a rd u k o
+    k u n ig a ik štis
+    valstybę tvarkyti sūnui Al­
+    gimantui; pats su nedidele
+    kariauna
+    ten
+    nuskubėjęs,
+    nuslopino
+    beprasidedantį
+    maištą ir prijungė prie vals­
+    tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
+    teise.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad mat Rusią valdė Algirdo broliai: Liubartas — Lvovą, Kęstutis — dideles žemes kitur Rusioje, o Jurgis Narimantaitis, jų brolėnas,— Kremenecą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tad šis, norėdamas apginti savo teises į Ru­
+    sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
+    Mat Rusią valdė Algirdo broliai: Liubartas — Lvovą,
+    Kęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-
+    mantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai
+    turėjo vengti karo su lietuviais, antraip galėjo palūžti
+    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
+    bių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad to pat karo metu Vladimire apsuptas Liubartas išvengė lenkų ne laisvės dėl vieno kario ypatingo drąsumo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kovėsi jis
+    ir su vienu lietuvių pulku, užpuolusiu karaliaus sto­
+    vyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis
+    L en kai,
+    su m u šę
+    lie ­
+    tu v iu s, atg a u n a  d a lį
+    V o ly n ė s
+    238
+
+    ## Puslapis 237
+
+    Kęstutis gyvas pakliuvo į priešų rankas. To pat karo
+    metu Vladimire apsuptas Liubartas išvengė lenkų ne­
+    laisvės dėl vieno kario ypatingo drąsumo. Pastarąjį
+    šaukė Bogdanu iš Ivanicos: gūdžią naktį įsėlinęs į len­
+    kų stovyklą ir viską paeiliui pilnaties šviesoje išžval-
+    gęs, jis papasakojo kunigaikščiui, ką matęs, patarda­
+    mas, kaip ir pro kur sprukti iš pavojaus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad tais pačiais metais Kazimieras, Lenkijos kara lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo lynės Algirdo brolį Liubartą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kęstutis mė­
+    gino sutrukdyti, tačiau, du
+    K a zim ie ra s, L e n k ijo s
+    kartus saugos karių atrem-
+    k a ra liu s, a tim a  iš Jie-
+    tas, galop išsižadėjo šio su-
+    tu v ių  R u sią
+    manymo. Tais pačiais metais
+    Kazimieras,
+    Lenkijos kara­
+    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
+    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
+    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad liubartas be kovos ir be didesnių pastangų atgavo neseniai iš jo atimtą tėvoniją, seno je medinėje pilyje įrengė visokių gynybinių įtvirtini mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa kymu dvejus metus statytą iš degtų plytų ir pareika lavusią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo
+    š io je  p rie š len k u s
+    metu Aleksandras buvo iš­
+    vykęs į Krokuvą, kur derė­
+    josi su lenkais; iškeliavusį valdovą Vladimire pava­
+    davo lenkų riteris Petras Turskis; pilis turėjo pakan­
+    kamai maisto ir galėjo atlaikyti ilgesnę apsuptį, tačiau
+    pilies viršininkas visai prarado narsą, kai pasirodė
+    ginkluoti būriai; jis iš niekur nesitikėjo paramos, to­
+    dėl, išsiderėjęs, kad šie paliktų jo žmones gyvus ir
+    neliestų turtų, bemat pasidavė, šitaip išvengdamas ka­
+    muojančios apgulos. Liubartas be kovos ir be didesnių
+    pastangų atgavo neseniai iš jo atimtą tėvoniją, seno­
+    je medinėje pilyje įrengė visokių gynybinių įtvirtini­
+    mų ir įkurdino stiprią įgulą, o naują, Kazimiero įsa­
+    kymu dvejus metus statytą iš degtų plytų ir pareika­
+    lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
+    Po to sutelktas jėgas nuvedė į Lenkiją ir smarkiai nu-
+    254
+
+    ## Puslapis 253
+
+    L ie tu v ia i sia u b ia  L en ­
+    k iją
+    niokojo Liublino bei Sando-
+    miro kraštus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016

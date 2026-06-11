@@ -100,6 +100,7 @@ Nenurodyta
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/komtūras]]

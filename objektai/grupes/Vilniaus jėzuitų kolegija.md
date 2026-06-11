@@ -233,6 +233,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/zodynas/Jus Patronatus]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
@@ -241,7 +242,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/paprociai/Jėzuitų pamokslininko siuntimas į Šv. Onos bažnyčią sekmadieniais ir per šventes]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]

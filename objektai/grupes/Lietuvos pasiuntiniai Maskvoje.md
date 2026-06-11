@@ -53,12 +53,12 @@ Pirmiausia Maskvoje (1494 m.) balandžio 18 d. amžinos taikos sutartį su caru 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/asmenys/Petras Białas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Goštautas]]
 - [[objektai/grupes/Maskvos pasiuntiniai]]

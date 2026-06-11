@@ -46,5 +46,6 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 ### Susiję objektai
 - [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
 - [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]

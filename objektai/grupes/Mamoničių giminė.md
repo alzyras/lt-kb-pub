@@ -87,7 +87,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]]
 - [[objektai/asmenys/Jonas Semenavičius Zažeckis]]
 - [[objektai/asmenys/Jurgis Chodkevičius]]

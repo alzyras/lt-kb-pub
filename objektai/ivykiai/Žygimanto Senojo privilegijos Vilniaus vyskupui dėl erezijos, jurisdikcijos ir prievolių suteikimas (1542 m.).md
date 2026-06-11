@@ -89,7 +89,6 @@ Nenurodyta
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/instigatorius]]
 - [[objektai/zodynas/statutas]]

@@ -44,5 +44,6 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]

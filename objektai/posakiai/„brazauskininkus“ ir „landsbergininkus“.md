@@ -59,4 +59,5 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Brazauskininkai ir landsbergininkai]]

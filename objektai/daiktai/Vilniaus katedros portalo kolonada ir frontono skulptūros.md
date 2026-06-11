@@ -77,7 +77,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/globėjas]]

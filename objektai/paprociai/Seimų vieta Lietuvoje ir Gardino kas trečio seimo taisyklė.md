@@ -142,5 +142,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Liublino seimas]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]

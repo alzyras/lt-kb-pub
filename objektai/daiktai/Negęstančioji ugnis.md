@@ -61,5 +61,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/posakiai/negęstančiąją ugnį]]

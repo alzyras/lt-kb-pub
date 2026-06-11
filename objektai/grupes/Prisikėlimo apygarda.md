@@ -127,7 +127,6 @@ amziai:
 - [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Maironio rinktinė]]

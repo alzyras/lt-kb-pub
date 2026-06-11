@@ -133,6 +133,7 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]

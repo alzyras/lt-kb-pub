@@ -44,5 +44,6 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/grupes/Švedai]]

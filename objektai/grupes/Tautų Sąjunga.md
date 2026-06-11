@@ -128,6 +128,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 - [[objektai/asmenys/L. Želigovskis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
 - [[objektai/grupes/Želigovskininkai]]
 - [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]

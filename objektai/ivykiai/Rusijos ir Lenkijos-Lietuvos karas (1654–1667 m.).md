@@ -120,12 +120,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/ivykiai/Tvanas]]

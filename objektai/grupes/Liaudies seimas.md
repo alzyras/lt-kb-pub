@@ -84,6 +84,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/Baltijos šalių paskelbimas sovietų socialistinėmis respublikomis (1940 m. liepos 21 d.)]]
 - [[objektai/autoriai/Justas Paleckis]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]

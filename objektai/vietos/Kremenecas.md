@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Kremenecas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1407 m.'
@@ -16,6 +17,7 @@ tags:
 amziai:
   - 'XV'
 ---
+
 # Kremenecas
 
 ## Santrauka
@@ -28,6 +30,11 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
   teiginys: 'Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad bajorai, vadovaujami karaliaus vadų Cioleko ir Šafraneco, griebėsi ginklo: pirmas baisiai sumušė įsi brovėlius netoli Chelmo, o antras — prie Kremeneco.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +54,27 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad bajorai, vadovaujami karaliaus vadų Cioleko ir Šafraneco, griebėsi ginklo: pirmas baisiai sumušė įsi brovėlius netoli Chelmo, o antras — prie Kremeneco.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Abie­
+    jų šalių pasiuntiniams ginči-
+    Išsk la id o  le n k ų  jė g a s
+    jantis dėl taikos sąlygų, Bo­
+    leslovas įsiveržė į Chelmo
+    apygardą, atėmė iš karaliaus Ratną, labai patogioje vie­
+    toje esančią bei svarbią tvirtovę, ir nusiaubė jo apylin­
+    kes. Bajorai, vadovaujami karaliaus vadų Cioleko ir
+    Šafraneco, griebėsi ginklo: pirmas baisiai sumušė įsi­
+    brovėlius netoli Chelmo, o antras — prie Kremeneco.
+    Tuo tarpu karalius po senovei iš visų pusių kamavo
+    antpuoliais Lucko pilį, tačiau apsuptieji neprarado nei
+    drąsos, nei vilties, anaiptol, jų narsa rodėsi panaši į
+    laukinių žvėrių įsiūtį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

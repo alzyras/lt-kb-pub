@@ -193,6 +193,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/kunigaikščiai]]

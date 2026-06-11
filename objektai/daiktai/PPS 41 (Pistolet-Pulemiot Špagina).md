@@ -65,6 +65,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/zodynas/pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis]]

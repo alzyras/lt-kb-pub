@@ -193,5 +193,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/asmenys/K. Dragunevičius]]

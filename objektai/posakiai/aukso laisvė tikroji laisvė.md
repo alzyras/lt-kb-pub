@@ -83,5 +83,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/zodynas/aukso laisvė]]

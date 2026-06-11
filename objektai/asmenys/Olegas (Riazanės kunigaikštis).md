@@ -60,6 +60,7 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Dmitrijus Kaributas]]

@@ -88,9 +88,11 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Hanulas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/Pilininkas]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Hanulas, arba Hanka]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Gotai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -9,6 +10,7 @@ tags:
   - grupe
   - upė
 ---
+
 # Gotai
 
 ## Santrauka
@@ -21,6 +23,11 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
   teiginys: 'Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į rytus, į Rytprūsių plotą iki Alnos upės.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio vimo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -43,23 +50,21 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/autoriai/Jordanas]]
-- [[objektai/autoriai/Jordanes]]
-- [[objektai/autoriai/Jornandesas]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/autoriai/Kassiodoras]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/autoriai/Thunmanas]]
-- [[objektai/grupes/Vidivarii]]
-- [[objektai/zodynas/Vidivarijai]]
-- [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/posakiai/pacatum hominum genus omnino]]
-- [[objektai/grupes/Žemaičiai]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio vimo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Viena sarmatų
+    gentis — alanai.
+    Dalis alanų drauge su gotais ir hunais dalyvavo didžiajame tautų
+    kraustymesi ir prisidėjo prie vergovinės Romos imperijos sugrio­
+    vimo.
+    Renesanso epochoje, kai Europos tautos suskato ieškotis savo
+    pirmtakų senovės Rytų gentyse ir antikinėse tautose, Sarmatija ima­
+    ma vadinti Vidurio ir Rytų Europos kraštai, gyvenami daugiausia
+    slavų ir baltų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

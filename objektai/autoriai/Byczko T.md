@@ -52,3 +52,4 @@ Dusburgietis teigia, kad тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byc
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/įgula]]

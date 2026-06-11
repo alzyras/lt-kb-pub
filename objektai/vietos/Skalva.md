@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Skalva'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1253 m.'
@@ -18,6 +19,7 @@ tags:
 amziai:
   - 'XIII'
 ---
+
 # Skalva
 
 ## Santrauka
@@ -55,6 +57,11 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: 'Dusburgietis teigia, kad kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją, pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina kaip prūsų gyvenamą3.'
   pagrindžia:
     - c-004
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad pirmąjį stai gų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -153,3 +160,22 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad pirmąjį stai gų smūgį ketino nukreipti į Skalvių miestą ir pilį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto vis­
+    kas baigėsi visai kitaip, nei buvo norėta. Pirmąjį stai­
+    gų smūgį ketino nukreipti į Skalvių miestą ir pilį. Ir
+    tikrai per pirmąjį antpuolį lengvai pavyko išžudyti
+    tuos, kurie, nieko nežinodami, pakliuvo puolantiesiems
+    po ranka, žuvo ten ir Liudvikas Oksė, kilmingiausias
+    ordino žmogus, vis dėlto nepavyko greitai užbaigti ko­
+    vos, nes smarkiai į priekį veržęsi kariai buvo atstumti
+    nuo vartų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

@@ -74,4 +74,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Klemensas V]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Urbonas IV]]

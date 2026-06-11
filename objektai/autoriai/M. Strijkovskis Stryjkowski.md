@@ -646,6 +646,7 @@ periodo_grupes:
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Škotai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]

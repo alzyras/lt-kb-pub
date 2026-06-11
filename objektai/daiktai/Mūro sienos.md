@@ -134,7 +134,6 @@ Nenurodyta
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vengrai]]

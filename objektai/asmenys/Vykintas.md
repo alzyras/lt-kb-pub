@@ -48,8 +48,9 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/zodynas/didysis kunigaikštis]]
+- [[objektai/paprociai/Jaunikaičių siuntimas puldinėti kaimynus karo mokymuisi]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/posakiai/jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/posakiai/kein Soule sie karten wider]]

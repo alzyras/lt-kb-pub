@@ -85,5 +85,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/zodynas/protestantizmas]]

@@ -72,7 +72,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Mongolų imperija]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/didvalstybė]]

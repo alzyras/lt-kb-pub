@@ -101,6 +101,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
 - [[objektai/autoriai/Jerošinas Jeroschin]]

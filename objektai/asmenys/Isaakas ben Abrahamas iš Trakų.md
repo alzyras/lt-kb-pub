@@ -56,6 +56,7 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Karaimai]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/grupes/Žydai]]

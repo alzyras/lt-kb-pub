@@ -67,3 +67,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/seimas]]

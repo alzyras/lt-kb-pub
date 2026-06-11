@@ -214,6 +214,7 @@ Nenurodyta
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

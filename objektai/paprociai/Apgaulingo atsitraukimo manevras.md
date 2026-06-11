@@ -107,5 +107,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Švedai]]

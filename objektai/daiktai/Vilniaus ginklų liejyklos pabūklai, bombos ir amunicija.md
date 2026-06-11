@@ -81,7 +81,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/daiktai/Bomba]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Žygimantas]]

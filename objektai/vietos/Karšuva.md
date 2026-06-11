@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Karšuva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -19,6 +20,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Karšuva
 
 ## Santrauka
@@ -51,6 +53,16 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   teiginys: 'Nesisekė tada lietuviams ir Karšuvos srityje.'
   pagrindžia:
     - c-002
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -128,3 +140,44 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sutelktu būriu užgriuvę iš pasalų nieko nenu-
+    jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

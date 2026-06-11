@@ -57,3 +57,5 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
+- [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]
+- [[objektai/zodynas/fogtas]]

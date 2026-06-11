@@ -66,6 +66,7 @@ Nenurodyta
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/zodynas/žygis]]

@@ -63,3 +63,4 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/karyba]]
+- [[objektai/daiktai/Ginklai]]

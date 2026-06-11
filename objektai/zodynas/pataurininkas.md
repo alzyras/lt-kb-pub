@@ -51,7 +51,6 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
 - [[objektai/zodynas/Pataurininkis]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/maršalka]]

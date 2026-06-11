@@ -55,3 +55,4 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/zodynas/globėjas]]

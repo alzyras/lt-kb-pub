@@ -87,6 +87,7 @@ Nenurodyta
 - [[temos/kasdienybė]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/supirkinėtojai ir padienininkai]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

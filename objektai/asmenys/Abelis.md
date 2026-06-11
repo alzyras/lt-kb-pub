@@ -64,5 +64,6 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/piktadarystė]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Henrikas (Danijos karalius)]]

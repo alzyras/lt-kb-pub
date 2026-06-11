@@ -95,7 +95,7 @@ Nenurodyta
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/pagonybė]]

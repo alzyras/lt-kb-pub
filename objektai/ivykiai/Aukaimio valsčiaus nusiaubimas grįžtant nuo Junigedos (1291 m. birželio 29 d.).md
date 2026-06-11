@@ -91,6 +91,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/vėliava]]

@@ -98,6 +98,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Maudelis]]
 - [[objektai/grupes/Nadruviai]]
 - [[objektai/asmenys/Svisdeta]]

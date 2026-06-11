@@ -160,6 +160,7 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
 - [[objektai/daiktai/Lankai, strėlės ir šaudyklės]]
 - [[objektai/grupes/Livonijos ordinas]]

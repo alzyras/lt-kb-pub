@@ -49,6 +49,6 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu]]
-- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]

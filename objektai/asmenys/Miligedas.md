@@ -58,4 +58,5 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Vytis]]

@@ -54,3 +54,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]

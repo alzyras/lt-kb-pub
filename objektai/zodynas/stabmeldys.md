@@ -97,6 +97,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

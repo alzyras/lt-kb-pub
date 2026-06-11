@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Rūdninkai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -11,6 +12,7 @@ tags:
   - miestas
   - vieta
 ---
+
 # Rūdninkai
 
 ## Santrauka
@@ -33,6 +35,11 @@ tags:
   teiginys: 'Rūdninkuose bažnyčia galėjo būti nuo seno, bet klebonijos fundacija datuojama Zigmanto III laikais.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad netikėtai mišA tle id ž ia n e tik ė ta i kuose netoli Rūdninkų miesp a k e lė je s u tik ta m telio jis užšoko ant Kazimiero M y k o lu i palydos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -99,3 +106,37 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad netikėtai mišA tle id ž ia n e tik ė ta i kuose netoli Rūdninkų miesp a k e lė je s u tik ta m telio jis užšoko ant Kazimiero M y k o lu i palydos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių. Netikėtai miš-
+    A tle id ž ia
+    n e tik ė ta i
+    kuose netoli Rūdninkų mies-
+    p a k e lė je
+    s u tik ta m
+    telio jis užšoko ant Kazimiero
+    M y k o lu i
+    palydos. Patekęs į tokią ne­
+    aiškią padėtį, jis, be galo išsi­
+    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
+    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
+    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
+    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
+    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
+    nei, neatiduoti žmogžudžiams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

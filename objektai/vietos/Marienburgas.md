@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Marienburgas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -20,6 +21,7 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
+
 # Marienburgas
 
 ## Santrauka
@@ -107,6 +109,11 @@ rijenburgas.
   teiginys: 'Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.'
   pagrindžia:
     - c-002
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad jo atvykimas (tiesą sakant, P a šn e n k a m a s m o zū rų daug kas manė, jog dėl gik u n ig a ik štis H enriminystės jis gali likti nepask a s tebėtas) anaiptol negalėjo ne sukelti kryžiuočiams įtarimo, tačiau tuo pat metu Vytautas Marienburge surengė sa vo.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -335,3 +342,33 @@ rijenburgas.
   statusas: verified
   pagrindžia:
     - t-010
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad jo atvykimas (tiesą sakant, P a šn e n k a m a s m o zū rų daug kas manė, jog dėl gik u n ig a ik štis H enriminystės jis gali likti nepask a s tebėtas) anaiptol negalėjo ne sukelti kryžiuočiams įtarimo, tačiau tuo pat metu Vytautas Marienburge surengė sa vo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Priėmus nutarimą, ieškota žmogaus, kuriam be
+    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
+    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
+    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
+    dovauti galop parinko Henriką, mozūrų kunigaikščio
+    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
+    Jo atvykimas (tiesą sakant,
+    P a šn e n k a m a s m o zū rų
+    daug kas manė, jog dėl gi-
+    k u n ig a ik štis
+    H enri-
+    minystės jis gali likti nepas-
+    k a s
+    tebėtas) anaiptol negalėjo ne­
+    sukelti kryžiuočiams įtarimo,
+    tačiau tuo pat metu Vytautas Marienburge surengė sa­
+    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
+    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
+    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
+    Vytauto žmonos Onos brolis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

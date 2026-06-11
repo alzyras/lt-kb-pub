@@ -95,11 +95,14 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/erezija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]

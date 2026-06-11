@@ -164,7 +164,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Walenrodto]]

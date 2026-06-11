@@ -66,4 +66,4 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
 - [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

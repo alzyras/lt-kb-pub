@@ -100,5 +100,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/autoriai/Ričardas Čekutis]]

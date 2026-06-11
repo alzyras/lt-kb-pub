@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Lenkija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -11,6 +12,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1008 m.'
+  - '1306 m.'
   - '1570 m.'
   - '1815 m.'
   - '1831 m.'
@@ -466,6 +468,21 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginys: 'Kitaip tuo tarpu buvo Lenkijoje.'
   pagrindžia:
     - c-073
+
+- t-092
+  teiginys: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  pagrindžia:
+    - c-077
+
+- t-093
+  teiginys: 'Kojelavičius teigia, kad kai karalius išvyko į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje tūnantį įniršį: neilgai trukus galingai prasiveržė į vie šumą tai, ką iki šiol slėpė.'
+  pagrindžia:
+    - c-078
+
+- t-094
+  teiginys: 'Kojelavičius teigia, kad kai ši žinia pasiekė Lenkiją, Augustas, sku biai pasiuntęs žygūną, paragino savo legatus pasikal bėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų.'
+  pagrindžia:
+    - c-079
 
 ## Reikšmingi paminėjimai
 
@@ -1833,3 +1850,71 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-091
     - t-058
+
+- c-077
+  santrauka: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Valdovas, sugrįžęs iš Prūsijos, gavo ži­
+    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
+    giuoti. Sutelkęs karius prie
+    S u g rįžęs iš P rū sijos,
+    Gardino, jis subūrė nemažą
+    p a tra u k ia  į L en k iją
+    kariuomenę ir, netrukdomas
+    mozūrų, o gal šiems nieko
+    nežinant (šitai rodosi panašu į tiesą), nes kariuomenė
+    buvo vedama slaptais ir be-
+    1306 m e ta i
+    veik nepraeinamais keliais
+    per Mazovijos miškus, įsi­
+    veržė į Didžiosios Lenkijos žemes. Staigiu antpuoliu
+    užėmė Kališo ir Stavišino miestus; gyventojai būtų nė
+    nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs
+    183
+
+    ## Puslapis 182
+
+    siautėti miestuose degindamas ir žudydamas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-092
+
+- c-078
+  santrauka: 'Kojelavičius teigia, kad kai karalius išvyko į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje tūnantį įniršį: neilgai trukus galingai prasiveržė į vie šumą tai, ką iki šiol slėpė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Daugeliui atrodė, jog žaizda ap­
+    skritai ne pagydyta, bet tik sutvarstyta.
+    Tiesą sakant, tik asmeniškas karaliaus autoritetas ga­
+    lėjo sulaikyti tuos žmones, kad jie neaptemdytų džiaugs­
+    mingų iškilmių naujais sąmyšiais. Kai karalius išvyko
+    į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje
+    tūnantį įniršį: neilgai trukus galingai prasiveržė į vie­
+    šumą tai, ką iki šiol slėpė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-093
+
+- c-079
+  santrauka: 'Kojelavičius teigia, kad kai ši žinia pasiekė Lenkiją, Augustas, sku biai pasiuntęs žygūną, paragino savo legatus pasikal bėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
+    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
+    kų kolegiją. Kai ši žinia pasiekė Lenkiją, Augustas, sku­
+    biai pasiuntęs žygūną, paragino savo legatus pasikal­
+    bėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų. Tuo
+    tarpu priešas, apsvaigęs nuo šitokių laimėjimų ir pra­
+    radęs saiko jausmą, nei pats paisė teisingumo, nei lega­
+    tams leido ką siūlyti dėl Livonijos ir net dėl taikos su
+    Lietuva.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-094

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Kuoknesė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1581 m.'
@@ -21,6 +22,7 @@ amziai:
   - 'XVI'
   - 'XX'
 ---
+
 # Kuoknesė
 
 ## Santrauka
@@ -63,6 +65,11 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   teiginys: 'Paėmė beveik visus laivus, kuriais Dauguvos upe švedai atplukdė 96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d. L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos SadSijimunds Tereu Pisa S See Regs ac newfie Kuoknesés mūšis 1601 m. XVIII a.'
   pagrindžia:
     - c-005
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad daugybė bajorų stojo už teisybę bei arki vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -170,3 +177,26 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   statusas: verified
   pagrindžia:
     - t-007
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad daugybė bajorų stojo už teisybę bei arki vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Paleidęs seimą liepos pabaigoje, atvirai užpuolė
+    arkivyskupo valdas ir nelyginant koks priešas smarkiai
+    nusiaubė. Daugybė bajorų stojo už teisybę bei arki­
+    vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­
+    ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.
+    Ilgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­
+    sinės uolos, atremdami vieną po kito visus antpuolius,
+    69 7
+
+    ## Puslapis 696
+
+    vis dėlto galop badas privertė pasiduoti tuos, kurių
+    nepalaužė ginklas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008

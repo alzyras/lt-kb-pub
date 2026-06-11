@@ -60,7 +60,7 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Žydai]]

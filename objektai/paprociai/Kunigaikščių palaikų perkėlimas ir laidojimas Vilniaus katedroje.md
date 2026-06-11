@@ -103,7 +103,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/asmenys/Daugirdas]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
@@ -111,4 +112,4 @@ Nenurodyta
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

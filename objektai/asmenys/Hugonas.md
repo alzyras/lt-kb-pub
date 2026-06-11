@@ -69,5 +69,6 @@ Dusburgietis teigia, kad hugonas sušakosiąs ir ateityje duosiąs gausybę vais
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

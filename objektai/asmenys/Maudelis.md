@@ -47,6 +47,7 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/įkaitai]]

@@ -119,7 +119,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
@@ -128,7 +128,8 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]

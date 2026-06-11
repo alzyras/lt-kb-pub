@@ -103,7 +103,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

@@ -69,4 +69,5 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

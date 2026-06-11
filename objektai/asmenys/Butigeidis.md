@@ -46,7 +46,7 @@ Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo prie�
 
 ### Susiję objektai
 - [[objektai/asmenys/Butvydas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/kunigaikštija]]

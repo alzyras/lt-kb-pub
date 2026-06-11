@@ -50,5 +50,6 @@ Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžint
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)]]
 - [[objektai/posakiai/„seimų laikus“]]

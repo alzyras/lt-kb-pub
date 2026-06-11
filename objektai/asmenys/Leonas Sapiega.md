@@ -56,3 +56,4 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pakancleris]]
+- [[objektai/zodynas/seimas]]

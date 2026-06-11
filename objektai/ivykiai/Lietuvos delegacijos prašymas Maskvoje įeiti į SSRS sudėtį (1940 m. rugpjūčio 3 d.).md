@@ -97,4 +97,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/aneksija]]

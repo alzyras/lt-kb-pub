@@ -65,4 +65,5 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - [[objektai/autoriai/V. Pisani]]
 - [[objektai/asmenys/Visvaldis]]
 - [[objektai/autoriai/W. Schmidt]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/daiktai/Šarvai]]

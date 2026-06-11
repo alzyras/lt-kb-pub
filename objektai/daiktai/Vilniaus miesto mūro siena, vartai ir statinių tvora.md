@@ -130,8 +130,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/barbarai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

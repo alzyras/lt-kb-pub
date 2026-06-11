@@ -53,4 +53,5 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

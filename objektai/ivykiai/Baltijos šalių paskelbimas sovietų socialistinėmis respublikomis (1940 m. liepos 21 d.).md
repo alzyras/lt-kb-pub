@@ -78,4 +78,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)]]

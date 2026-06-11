@@ -150,7 +150,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/daiktai/Vytis]]

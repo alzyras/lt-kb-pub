@@ -175,6 +175,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 - [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/zodynas/Tautinės mažumos]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
 - [[objektai/grupes/Steigiamasis seimas]]

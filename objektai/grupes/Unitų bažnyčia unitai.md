@@ -83,6 +83,7 @@ amziai:
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

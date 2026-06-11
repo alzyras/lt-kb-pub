@@ -91,5 +91,6 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

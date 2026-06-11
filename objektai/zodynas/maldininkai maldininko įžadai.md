@@ -273,6 +273,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/asmenys/Fridrichas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/daiktai/Laivai]]
@@ -283,6 +284,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]

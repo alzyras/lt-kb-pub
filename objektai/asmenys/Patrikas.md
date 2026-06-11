@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Patrikas'
+pavadinimas: 'Patrikas (kunigaikštis, XIV a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -14,12 +15,14 @@ atnaujinta: ''
 tags:
   - asmuo
   - krikštas
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
 ---
-# Patrikas
+
+# Patrikas (kunigaikštis, XIV a.)
 
 ## Santrauka
 
@@ -36,6 +39,11 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad išvydo tėvui gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel tas (jis buvo tauraus būdo ir S ū n au s m eilė tė v u i labai mylėjo tėvą) pavarė ir karių m e ilė v a d u i žirgą link susigrūdusių prie šų, norėdamas pagelbėti tė vui; aklai kalaviju.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -69,9 +77,40 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Simonas Lengvenis]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad išvydo tėvui gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel tas (jis buvo tauraus būdo ir S ū n au s m eilė tė v u i labai mylėjo tėvą) pavarė ir karių m e ilė v a d u i žirgą link susigrūdusių prie šų, norėdamas pagelbėti tė vui; aklai kalaviju.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kęstutį, kuris ban­
+    dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­
+    ką irstančioje rikiuotėje, galingais kalavijo smūgiais
+    atremdamas kiekvieną narsų priešą, nubloškė nuo žir­
+    go Henrikas Ekersbergas, riteris paauksuotais šarvais,
+    kuris smogė arkliui ietimi iš šono; netrukus apsuptas
+    subėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui
+    gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­
+    tas (jis buvo tauraus būdo ir
+    S ū n au s
+    m eilė
+    tė v u i
+    labai mylėjo tėvą) pavarė
+    ir karių  m e ilė v a d u i
+    žirgą link susigrūdusių prie­
+    šų, norėdamas pagelbėti tė­
+    vui; aklai kalaviju skindamasis kelią prie tėvo, jis
+    susilaukė bemaž tokio pat likimo: kryžiuotis Henri­
+    kas Hochbergas ietimi nutrenkė jį nuo žirgo. Jis iš pas­
+    kutiniųjų kovėsi kalaviju pėsčiomis, tačiau negalėjo
+    įveikti galybės priešų; tuo metu keli lietuvių būriai,
+    smogę pleišto rikiuote, nuvijo priešą, išvadavo kuni­
+    244
+
+    ## Puslapis 243
+
+    gaikštį ir išsigabeno iš mūšio lauko, neiškrikdami iš
+    rikiuotės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

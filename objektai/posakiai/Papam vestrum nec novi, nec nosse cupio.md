@@ -108,3 +108,4 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - [[objektai/autoriai/Albertas Krantzas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]

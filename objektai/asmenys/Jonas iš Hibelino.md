@@ -69,5 +69,6 @@ Dusburgietis teigia, kad jonas iš Hibelino sušakosiąs ir ateityje duosiąs ga
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

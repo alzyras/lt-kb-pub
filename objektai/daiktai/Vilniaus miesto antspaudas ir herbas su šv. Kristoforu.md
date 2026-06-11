@@ -211,6 +211,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/daiktai/Herbas]]
@@ -218,6 +219,8 @@ Nenurodyta
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/daiktai/Antspaudai]]

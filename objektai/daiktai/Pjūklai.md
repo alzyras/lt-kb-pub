@@ -65,3 +65,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vengrai]]
+- [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]

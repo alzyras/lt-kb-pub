@@ -43,4 +43,5 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Steigiamasis seimas]]

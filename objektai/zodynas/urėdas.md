@@ -98,7 +98,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/autoriai/Petras Skarga]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/asmenys/Grigalius Astikas]]

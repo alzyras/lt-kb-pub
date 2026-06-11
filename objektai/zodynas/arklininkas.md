@@ -36,3 +36,9 @@ Arkliams prižiūrėti ir šerti buvo specialūs valstiečiai, vadinami arklinin
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Atmesti paminėjimai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]

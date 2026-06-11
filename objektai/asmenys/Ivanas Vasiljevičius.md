@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Ivanas Vasiljevičius'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -11,6 +12,7 @@ tags:
   - kunigaikštis
   - miestas
 ---
+
 # Ivanas Vasiljevičius
 
 ## Santrauka
@@ -28,6 +30,11 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad nieko nepešę, kara liaus legatai iškeliavo iš Maskvos, o netrukus pas ka ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim tesnės užduoties, tik po senovei protestavęs dėl kaimy nų daromų skriaudų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -106,15 +113,24 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/grašis]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Krymo orda]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad nieko nepešę, kara liaus legatai iškeliavo iš Maskvos, o netrukus pas ka ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim tesnės užduoties, tik po senovei protestavęs dėl kaimy nų daromų skriaudų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nieko nepešę, kara­
+    liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
+    ralių atvyko Ivano pasiuntinys, neturėjęs jokios rim­
+    tesnės užduoties, tik po senovei protestavęs dėl kaimy­
+    nų daromų skriaudų. Šiaip pasiuntinybė turėjo visai
+    kitą tikslą: įteikus karaliui laišką, kaip visuomet įžūlų
+    ir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar
+    vieną titulą, pasirašydamas Livonijos valdovu. Kara­
+    lius atmetė nepagrįstus skundus, savo ruožtu pareiškęs,
+    jog maskvėnai po senovei skriaudžia Lietuvą, o laiš­
+    kuose uždraudė minėti ir Maskvos caro, ir Livonijos
+    valdovo titulus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

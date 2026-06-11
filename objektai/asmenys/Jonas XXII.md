@@ -138,6 +138,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]

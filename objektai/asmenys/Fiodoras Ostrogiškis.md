@@ -1,0 +1,83 @@
+---
+tipas: asmuo
+pavadinimas: 'Fiodoras Ostrogiškis'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+
+# Fiodoras Ostrogiškis
+
+## Santrauka
+
+Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pats nuvedė į Lietuvą, o kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim ti Podolę. Kojelavičius teigia, kad kunigaikštis Fiodoras, manydamas, jog lenkams į pagalbą atskuba didelės jėgos, anksčiau už kitus paspruko su rinkti niais kariais iš kovos lauko į saugesnę vietą, o paskui, vadą be tvarkos pasileido ir visa kariuomenė.
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pats nuvedė į Lietuvą, o kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim ti Podolę.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad kunigaikštis Fiodoras, manydamas, jog lenkams į pagalbą atskuba didelės jėgos, anksčiau už kitus paspruko su rinkti niais kariais iš kovos lauko į saugesnę vietą, o paskui, vadą be tvarkos pasileido ir visa kariuomenė.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad padalijęs savo jėgas dviem žygio voromis, vieną pats nuvedė į Lietuvą, o kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim ti Podolę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kryžiuočiai
+    mėgina
+    sudrumsti taikų len­
+    kų ir lietuvių sugy­
+    venimą
+    4 4 4
+
+    ## Puslapis 443
+
+    Tuo metu, kai Žygimantas
+    Š v itrig a ila
+    įs iv e ržia
+    tvarkė Lietuvą, Boleslovas
+    į L ietu vą , o į P o d o lę
+    telkė kariuomenę Rusioje, ku-
+    p a siu n čia
+    O stro g o
+    rią bemaž visą buvo patrau-
+    k u n ig a ik štį
+    kęs dosnumu į savo pusę, ke­
+    tindamas pradėti karą iš kar­
+    to ir su Žygimantu, ir su Jogaila. Padalijęs savo jėgas
+    dviem žygio voromis, vieną pats nuvedė į Lietuvą, o
+    kunigaikščiui Fiodorui Ostrogiškiui su kita įsakė užim­
+    ti Podolę. Sėkmingai susiklostė Fiodorui žygio pradžia,
+    tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
+    mo ne visuomet leidžia sulaukti panašaus galo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad kunigaikštis Fiodoras, manydamas, jog lenkams į pagalbą atskuba didelės jėgos, anksčiau už kitus paspruko su rinkti niais kariais iš kovos lauko į saugesnę vietą, o paskui, vadą be tvarkos pasileido ir visa kariuomenė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lenkai atgavo drąsą ir ūpą, tuo
+    tarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­
+    surado nei savo vėliavų, nei savo būrių. Kunigaikštis
+    Fiodoras, manydamas, jog lenkams į pagalbą atskuba
+    didelės jėgos, anksčiau už kitus paspruko su rinkti­
+    niais kariais iš kovos lauko į saugesnę vietą, o paskui,
+    vadą be tvarkos pasileido ir visa kariuomenė. Kur kas
+    daugiau jų žuvo bėgant, nei kovojant.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

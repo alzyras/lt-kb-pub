@@ -133,10 +133,13 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/zodynas/Liberum veto]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/zodynas/jakobinizmas]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/luomai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]

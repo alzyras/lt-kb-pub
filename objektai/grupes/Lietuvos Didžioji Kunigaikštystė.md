@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Lietuvos Didžioji Kunigaikštystė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -23,11 +24,18 @@ amziai:
   - 'XVI'
   - 'XXI'
 ---
+
 # Lietuvos Didžioji Kunigaikštystė
 
 ## Santrauka
 
 Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas. Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės. Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas]]
 
 ## Teiginiai
 
@@ -55,6 +63,11 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   teiginys: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   pagrindžia:
     - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad lenkai, at skirai pasitarę, atsakė, kad esanti vienui viena veiks minga priemonė šiam ginčui baigti, būtent nutarti, jog ateityje Podolė priklausysianti lygiomis teisėmis ir len kams, ir lietuviams.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -170,20 +183,24 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/asmenys/Bazilius (Vasilius) II]]
-- [[objektai/grupes/Edukacinė Komisija]]
-- [[objektai/asmenys/Fulvio Ruggieri]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Rygos vyskupija]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Monetos]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Lietuvos ponų taryba]]
-- [[objektai/grupes/Livonijos konfederacija]]
-- [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas|rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)]]
-- [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
+- c-006
+  santrauka: 'Kojelavičius teigia, kad lenkai, at skirai pasitarę, atsakė, kad esanti vienui viena veiks minga priemonė šiam ginčui baigti, būtent nutarti, jog ateityje Podolė priklausysianti lygiomis teisėmis ir len kams, ir lietuviams.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lenkai, at­
+    skirai pasitarę, atsakė, kad esanti vienui viena veiks­
+    minga priemonė šiam ginčui baigti, būtent nutarti, jog
+    ateityje Podolė priklausysianti lygiomis teisėmis ir len­
+    kams, ir lietuviams. Šitai galima pasiekti tada, kai abi
+    tautos gyvensiančios vienodomis teisėmis, valdomos vie­
+    no karaliaus, vienoje Lenkijos karalystėje, panaikinus
+    Lietuvos Didžiosios Kunigaikštystės bei visų Lietuvos
+    pareigybių vardus, kurie, pirma, rodo, jog valstybė
+    esanti padalyta, o antra — visada duos dingstį nesan­
+    taikai. Šitaip atsakydami, jie nelyginant įpylė į ugnį aly­
+    vos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

@@ -47,5 +47,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Žygimantas]]

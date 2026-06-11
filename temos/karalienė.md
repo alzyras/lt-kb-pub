@@ -20,6 +20,6 @@ Objektų skaičius: 4.
 
 ### Asmenys
 - [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Ona Jogailaitė]]

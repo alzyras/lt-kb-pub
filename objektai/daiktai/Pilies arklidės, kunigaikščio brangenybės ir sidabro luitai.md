@@ -71,7 +71,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

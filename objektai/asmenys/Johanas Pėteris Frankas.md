@@ -56,6 +56,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - [[objektai/asmenys/Joachimas Lelevelis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Sniadeckis]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/autoriai/Lelevelis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/istorinė Lietuva]]

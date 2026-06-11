@@ -145,7 +145,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Morta]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Tautvilas]]

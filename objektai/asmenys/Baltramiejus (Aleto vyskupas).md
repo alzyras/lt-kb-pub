@@ -64,4 +64,5 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/netikėliai]]

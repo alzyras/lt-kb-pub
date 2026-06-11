@@ -1,0 +1,104 @@
+---
+tipas: ivykis
+pavadinimas: 'Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1432 m.'
+date_start: '1432'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XV'
+---
+
+# Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)
+
+## Santrauka
+
+Kojelavičius teigia, kad neilgai trukus, tai yra gruodžio 2 d., Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias dešimties tūkstančių kariuomene, įrengusia prie Ašme nos stovyklą. Kojelavičius teigia, kad žygimantas, nenorėdamas, kad pergalę laimėjusi ka riuomenė plėšikautų jo valdose, patraukė, leidęs jai po mūšio šiek tiek pailsėti, į Livoniją, nes gavo žinių, kad Livonijos riteriai, laužydami susitarimą, teikė Boleslovui pagalbą.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad neilgai trukus, tai yra gruodžio 2 d., Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias dešimties tūkstančių kariuomene, įrengusia prie Ašme nos stovyklą.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad žygimantas, nenorėdamas, kad pergalę laimėjusi ka riuomenė plėšikautų jo valdose, patraukė, leidęs jai po mūšio šiek tiek pailsėti, į Livoniją, nes gavo žinių, kad Livonijos riteriai, laužydami susitarimą, teikė Boleslovui pagalbą.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad neilgai trukus, tai yra gruodžio 2 d., Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias dešimties tūkstančių kariuomene, įrengusia prie Ašme nos stovyklą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
+    pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
+    dešimties tūkstančių kariuomene, įrengusia prie Ašme­
+    nos stovyklą. Į pagalbą jam
+    Ž y g im a n ta s
+    su m u ša
+    atėjo beveik visa Rusia, ne
+    Š v itrig a ilą
+    tik ta, kuri priklausė Lietuvos
+    didžiajam kunigaikščiui, tai
+    yra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,
+    Volynės žemės, bet atžygiavo kariuomenė iš Maskvos,
+    Riazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­
+    čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
+    siuntė į pagalbą kelis būrius vokiečių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad žygimantas, nenorėdamas, kad pergalę laimėjusi ka riuomenė plėšikautų jo valdose, patraukė, leidęs jai po mūšio šiek tiek pailsėti, į Livoniją, nes gavo žinių, kad Livonijos riteriai, laužydami susitarimą, teikė Boleslovui pagalbą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai
+    pasklido kalbos, jog Jurgis
+    Lengvenaitis, karaliaus brolė­
+    nas, Mstislavlio valdovas, iš­
+    vytas iš savo valdų ir Tra­
+    kuose įmestas į kalėjimą, jog
+    Daugirdas Gedgaudaitis, kunigaikštis Fiodoras Odin-
+    cevičius ir kiti yra kalinami kur kas sunkesnėmis sąly­
+    gomis, nei leistų jų kilmė bei orumas, o Jonui Man-
+    vydui, Vilniaus vaivadai, Rumbaudui, Lietuvos marša­
+    lui, kaltinamiems maišto kėlimu, nukirto galvas, visi,
+    ir kilmingi, ir nekilmingi, suprato, jog naujojo valdovo
+    širdis kieta ir žiauri, ir dėl to pranašavo, kad, jam val­
+    dant, prasidės tikrai baisi tironija, kurios ir baisėjosi.
+    Žygimantas, nenorėdamas, kad pergalę laimėjusi ka­
+    riuomenė plėšikautų jo valdose, patraukė, leidęs jai
+    po mūšio šiek tiek pailsėti, į
+    Livoniją, nes gavo žinių, kad
+    Livonijos riteriai, laužydami
+    susitarimą, teikė Boleslovui
+    pagalbą. Baisiai nusiaubę visą
+    šalį, ir kariai, kurie džiaugėsi dėl didelio grobio, ir va­
+    das, atkeršijęs už skriaudas, sugrįžo žiemoti į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

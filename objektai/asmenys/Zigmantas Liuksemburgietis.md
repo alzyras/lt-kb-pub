@@ -227,6 +227,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Hanza]]
 - [[objektai/grupes/Husitai]]
 - [[objektai/daiktai/Kardas]]
@@ -239,6 +240,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/zodynas/žygis]]

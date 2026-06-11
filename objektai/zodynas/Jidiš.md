@@ -38,6 +38,7 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]

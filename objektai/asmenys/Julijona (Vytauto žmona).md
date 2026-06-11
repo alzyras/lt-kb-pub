@@ -2,19 +2,16 @@
 tipas: asmuo
 pavadinimas: 'Julijona (Vytauto žmona)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-date_start: ''
-date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-amziai: []
-periodo_grupes: []
 ---
+
 # Julijona (Vytauto žmona)
 
 ## Santrauka
@@ -117,6 +114,16 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   teiginys: 'Po Vytauto mirties jį apraudojo jo žmona kunigaikštienė Julijona.'
   pagrindžia:
     - c-001
+
+- t-020
+  teiginys: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  pagrindžia:
+    - c-014
+
+- t-021
+  teiginys: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -416,37 +423,44 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
     - t-008
     - t-018
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/asmenys/Rusdorfas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/indiktas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
-- [[objektai/autoriai/Johannes Voigt Foigtas]]
-- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/asmenys/Ona (Vytauto žmona)]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- c-014
+  santrauka: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
+    didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
+    mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
+    šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
+    rusiajai buvo teta.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-020
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl Petras, Vilniaus vyskupas,
+    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
+    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
+    pritarimu ir būtų privertęs
+    V y ta u ta s  v e d a
+    Vytautą atsisakyti šio suma­
+    nymo, jeigu nebūtų parėmęs
+    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
+    vykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus
+    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
+    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
+    3 9 6
+
+    ## Puslapis 395
+
+    mos bažnyčia.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-021

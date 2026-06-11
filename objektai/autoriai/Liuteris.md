@@ -78,7 +78,13 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
+- [[objektai/paprociai/Bažnytinio turto grobstymas ir vienuolynų užgrobimas reformacijos neramumų metu Livonijoje]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Kryžiuočių ordino pareigūnų įžadų laužymas ir tuokimasis]]
+- [[objektai/ivykiai/Liuteronų maištas Gdanske ir jo numalšinimas]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
+- [[objektai/ivykiai/Valstiečių karas Vokietijoje (1525 m.)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]
 - [[objektai/zodynas/reformacija]]

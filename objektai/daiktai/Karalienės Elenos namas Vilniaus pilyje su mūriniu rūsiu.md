@@ -81,7 +81,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/bojarinai]]

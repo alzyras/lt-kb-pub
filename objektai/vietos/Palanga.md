@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Palanga'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -36,6 +37,11 @@ amziai:
   teiginys: 'Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.'
   pagrindžia:
     - c-001
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -72,3 +78,24 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu
+    miškuose, prikirtę medžių, suvertę juos kaip papuolė į
+    krūvas, lietuviai užvertė visas praminąs, kuriomis net­
+    gi nešuliais neapsikrovę pėstininkai negalėjo prasibrau­
+    ti, o juo labiau — sunkieji raiteliai. Štai todėl Livoni­
+    jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad
+    apie Palangą, smėlėtame pajūryje, bus rečiau medžių
+    ir lygesnis kelias. Atspėję jų sumanymą, lietuvių kariai
+    prikasė vieškelyje daugybę nedidelių griovių, padengė
+    juos plona, nepastebima, bet žirgo neatlaikančia dan­
+    ga, o patys išsislapstė gretimuose miškuose.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

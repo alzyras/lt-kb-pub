@@ -49,3 +49,5 @@ O brangiausius mūsų brolius Viešpatyje, Vilniaus bažnyčios prelatus ir kana
 ### Susiję objektai
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/fundacija]]
+- [[objektai/asmenys/Mykolas Glinskis]]
+- [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais]]

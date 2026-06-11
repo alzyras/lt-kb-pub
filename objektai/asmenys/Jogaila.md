@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jogaila'
+pavadinimas: 'Jogaila (kunigaikštis, XIV–XV a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -24,7 +25,8 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Jogaila
+
+# Jogaila (kunigaikštis, XIV–XV a.)
 
 ## Santrauka
 
@@ -201,6 +203,106 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   teiginys: 'Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui.'
   pagrindžia:
     - c-001
+
+- t-035
+  teiginys: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+  pagrindžia:
+    - c-035
+
+- t-036
+  teiginys: 'Kojelavičius teigia, kad mat Jogaila, pa skelbtas vėliau Lenkijos karaliumi, ir vieno, ir kito turtus perdavė karalystės iždui.'
+  pagrindžia:
+    - c-036
+
+- t-037
+  teiginys: 'Kojelavičius teigia, kad 2 7 0 Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi jos, jau traukė su kariuomene iš Vilniaus.'
+  pagrindžia:
+    - c-037
+
+- t-038
+  teiginys: 'Kojelavičius teigia, kad abi ka riuomenės kovos tvarka stovėjo priešais viena kitą: šiapus — nevilties į priekį varomi Kęstučio kariai, pa siryžę atkakliai žingsnis po žingsnio veržtis į kovą ir mirtį, anapus — Jogaila, kuris nors neabejojo savųjų pergale, numanė, jog kova.'
+  pagrindžia:
+    - c-038
+
+- t-039
+  teiginys: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  pagrindžia:
+    - c-039
+
+- t-040
+  teiginys: 'Kojelavičius teigia, kad apie tai sužinojo kai myninių šalių valdovai, ir ši žinia paskatino Jogailą prašyti karalienės rankos.'
+  pagrindžia:
+    - c-040
+
+- t-041
+  teiginys: 'Kojelavičius teigia, kad jogaila asmeniškai pasveikino karalienę, kitą dieną per brolius Skirgailą bei Vytautą pasiuntė jai gausių dovanų.'
+  pagrindžia:
+    - c-041
+
+- t-042
+  teiginys: 'Kojelavičius teigia, kad jogaila, neilgai tru kus gavęs žinią apie tuos įvykius, ne tiek pykdamas dėl žemės netekimo, kiek dėl nešlovės (mat jam pra nešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu vęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė dėti karą prieš Vytautą.'
+  pagrindžia:
+    - c-042
+
+- t-043
+  teiginys: 'Kojelavičius teigia, kad vis dėlto radosi ir tokių, kurie, norėdami nu malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž jau įsiplieskiančią karo ugnį.'
+  pagrindžia:
+    - c-043
+
+- t-044
+  teiginys: 'Kojelavičius teigia, kad norėdamas palengvinti nuniokotos tėvynės dalią, Jogaila įsakė pakrauti visokiais grūdais dvidešimt di delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa sienį, o iš ten pasieniu vežimais nugabenti viską į Lie tuvą.'
+  pagrindžia:
+    - c-044
+
+- t-045
+  teiginys: 'Kojelavičius teigia, kad jogaila viešpataująs valstybėje, kurioje svarbiais reikalais nieko negalįs nutarti be luomų pritarimo.'
+  pagrindžia:
+    - c-045
+
+- t-046
+  teiginys: 'Kojelavičius teigia, kad karalius Jogaila, matydamas tokią kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
+  pagrindžia:
+    - c-046
+
+- t-047
+  teiginys: 'Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.'
+  pagrindžia:
+    - c-047
+
+- t-048
+  teiginys: 'Kojelavičius teigia, kad jogaila, aptaręs su senatu ir Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio niškųjų šalių valdovai susitarsią ne tik narsiai paskelb ti turkams karą, bet visomis jėgomis kuo atkakliausiai jį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito kios.'
+  pagrindžia:
+    - c-048
+
+- t-049
+  teiginys: 'Kojelavičius teigia, kad jogaila sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nuspręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
+  pagrindžia:
+    - c-049
+
+- t-050
+  teiginys: 'Kojelavičius teigia, kad karalius Jogaila, sužinojęs iš pasiuntinių, kaip pa krypo šis reikalas, susimanė ieškoti užtarėjų ir, kreipęsis į aukščiausiąją krikščioniškojo pasaulio galybę, apie viską pranešė Romos popiežiui.'
+  pagrindžia:
+    - c-050
+
+- t-051
+  teiginys: 'Kojelavičius teigia, kad vis dėlto Jogaila po senovei sakėsi nieko nedarysiąs, kam nepritartų lenkų senatoriai, ku riuos jam priskyrusi valstybė.'
+  pagrindžia:
+    - c-051
+
+- t-052
+  teiginys: 'Kojelavičius teigia, kad jų raginamas Jogaila neilgai priešinosi, nes ir jam Boleslovas buvo neapsakomai įkyrėjęs.'
+  pagrindžia:
+    - c-052
+
+- t-053
+  teiginys: 'Kojelavičius teigia, kad dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
+  pagrindžia:
+    - c-053
+
+- t-054
+  teiginys: 'Kojelavičius teigia, kad jogaila nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?'
+  pagrindžia:
+    - c-054
 
 ## Reikšmingi paminėjimai
 
@@ -844,223 +946,468 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   pagrindžia:
     - t-033
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/zodynas/Pataurininkis]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Valstybės Taryba]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/lenas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/lėnas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„prišlieti“]]
-- [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
-- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
-- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
-- [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas]]
-- [[objektai/asmenys/Andriejus]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
-- [[objektai/asmenys/Andrius iš Vasilevo Važila]]
-- [[objektai/daiktai/Armotos]]
-- [[objektai/ivykiai/Astravos sutartis]]
-- [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/asmenys/Barbora Cyleikaitė]]
-- [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose]]
-- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
-- [[objektai/asmenys/Bodzanta]]
-- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
-- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
-- [[objektai/grupes/Didžlenkiai]]
-- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
-- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
-- [[objektai/grupes/Europos kryžininkai]]
-- [[objektai/zodynas/Feodalinė visuomenė lenas vienvaldystė]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/grupes/Jastžembcų giminė]]
-- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)]]
-- [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
-- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
-- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
-- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]
-- [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi]]
-- [[objektai/paprociai/Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams|Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)]]
-- [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes]]
-- [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
-- [[objektai/ivykiai/Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.)]]
-- [[objektai/ivykiai/Jogailos pašalinimas iš Vilniaus]]
-- [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos|Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)]]
-- [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
-- [[objektai/autoriai/Kliausis, lg]]
-- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
-- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
-- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
-- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
-- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
-- [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]
-- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
-- [[objektai/grupes/Lenkų bajorai]]
-- [[objektai/grupes/Lenkų didžponiai]]
-- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]
-- [[objektai/ivykiai/Lenčicos suvažiavimas (1409 m.)]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
-- [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/asmenys/Maldžykas]]
-- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/grupes/Moldovos kunigaikščiai]]
-- [[objektai/posakiai/Mūsų brolis yra laisvas]]
-- [[objektai/zodynas/Paliaubos induciae]]
-- [[objektai/grupes/Pamario kunigaikščių sąjunga]]
-- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/daiktai/Pilies raktai|Pilies raktai (pilis)]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/ivykiai/Pirmoji Lietuvos Bažnyčiai privilegija|Pirmoji Lietuvos Bažnyčiai privilegija (privilegija)]]
-- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
-- [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
-- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
-- [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą]]
-- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/grupes/Venedai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, pavaldumas seniūnui ir pilies saugojimo prievolė]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
-- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
-- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
-- [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
-- [[objektai/ivykiai/Vytauto derybos su kryžiuočiais]]
-- [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
-- [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
-- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
-- [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]
-- [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.)]]
-- [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Zofija Algimantaitė]]
-- [[objektai/zodynas/applicare prišlieti]]
-- [[objektai/zodynas/apsaugos raštas]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/diarchija]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/posakiai/dux Russiae]]
-- [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]
-- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
-- [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
-- [[objektai/zodynas/karūnacija karūnuotis]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/klebonija]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/autoriai/lg. Kliausis]]
-- [[objektai/zodynas/lėnininkai]]
-- [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
-- [[objektai/posakiai/ne tik tavo galvą, bet ir tavo tėvynę Lietuvą]]
-- [[objektai/zodynas/nukirsdinti]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/posakiai/patraukti, pašaukti, net jėga priversti]]
-- [[objektai/zodynas/pereinamasis laikotarpis]]
-- [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
-- [[objektai/zodynas/prelatai ir kanauninkai]]
-- [[objektai/zodynas/privilegija lex privata]]
-- [[objektai/posakiai/savo užantyje maitinti gyvatę]]
-- [[objektai/zodynas/supremus dux magnus dux]]
-- [[objektai/zodynas/suverenas]]
-- [[objektai/zodynas/tripartitio christiana luominė visuomenė]]
-- [[objektai/posakiai/turi sekti kataliką, ar katalikę]]
-- [[objektai/zodynas/tėvonija tėvų palikimas]]
-- [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/posakiai/vardan tos Lietuvos]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Švitrigailos šalininkai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
-- [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
-- [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]
-- [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]
-- [[objektai/asmenys/Vaidila]]
-- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
-- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
-- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
-- [[objektai/ivykiai/Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti|Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti (privilegija, XIV a.)]]
-- [[objektai/ivykiai/Jogailos brolių sukilimas|Jogailos brolių sukilimas (sukilimas)]]
-- [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
-- [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]
-- [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
-- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]
-- [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
-- [[objektai/asmenys/Klemensas iš Moskoževo]]
-- [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
-- [[objektai/ivykiai/Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.)]]
-- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
-- [[objektai/posakiai/kur Dievas paskirsiąs, ten būsią gerai]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/zodynas/činšas]]
-- [[objektai/zodynas/rublis]]
+- c-035
+  santrauka: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Visa tai jis aukojęs tėvynės labui. Užleidęs
+    valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
+    nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa­
+    žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris
+    savo dėdei atsimokėjęs klastingu nužudymu. Nors Jo­
+    gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir
+    27
+
+    ## Puslapis 26
+
+    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
+    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
+    kai nepateisinami.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-035
+
+- c-036
+  santrauka: 'Kojelavičius teigia, kad mat Jogaila, pa skelbtas vėliau Lenkijos karaliumi, ir vieno, ir kito turtus perdavė karalystės iždui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vieną šaukė Petru Pšon-
+    Išd a v ik a s, išd a v ę s sa-
+    ka, kitą — Otonu Čecharovi-
+    v išk iu s, žū sta
+    čiumi: u ž nedorumą ilgainiui
+    jiems ir atkeršijo tie, kurie
+    ir sukurstė padaryti šį nusikaltimą. Mat Jogaila, pa­
+    skelbtas vėliau Lenkijos karaliumi, ir vieno, ir kito
+    turtus perdavė karalystės iždui. Lietuviai ketino neti-
+    239
+
+    ## Puslapis 238
+
+    ketai įsiveržti į Lenkijos gilumą, tačiau šį sumanymą
+    įgyvendinti trukdė didžiausia to krašto upė Vysla, te­
+    kanti gana plačia ir gilia vaga.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-036
+
+- c-037
+  santrauka: 'Kojelavičius teigia, kad 2 7 0 Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi jos, jau traukė su kariuomene iš Vilniaus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat tuo metu
+    paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
+    nutaręs, jog dabar tinkama proga nebaudžiamam su­
+    laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
+    žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
+    2 7 0
+
+    ## Puslapis 269
+
+    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
+    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-037
+
+- c-038
+  santrauka: 'Kojelavičius teigia, kad abi ka riuomenės kovos tvarka stovėjo priešais viena kitą: šiapus — nevilties į priekį varomi Kęstučio kariai, pa siryžę atkakliai žingsnis po žingsnio veržtis į kovą ir mirtį, anapus — Jogaila, kuris nors neabejojo savųjų pergale, numanė, jog kova.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ta­
+    čiau šis senas karys ir vadas, pasikliaudamas savo rei­
+    kalo teisumu ir žinodamas, jog atsitraukimas neatneš
+    išsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­
+    gailą ir atvirame lauke išrikiavo savo pulkus. Abi ka­
+    riuomenės kovos tvarka stovėjo priešais viena kitą:
+    šiapus — nevilties į priekį varomi Kęstučio kariai, pa­
+    siryžę atkakliai žingsnis po žingsnio veržtis į kovą ir
+    mirtį, anapus — Jogaila, kuris nors neabejojo savųjų
+    pergale, numanė, jog kova pareikalaus didelių aukų,
+    ir todėl nutarė pirmiau pabandyti vilioti patiklias šir­
+    dis klastingais žodžiais nei pulti kovų užgrūdintus vy-
+    monėmis. Tegu jie atsimeną, jog viena prieš kitą sto­
+    vinčios ne priešų, bet giminaičių rikiuotės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-038
+
+- c-039
+  santrauka: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-039
+
+- c-040
+  santrauka: 'Kojelavičius teigia, kad apie tai sužinojo kai myninių šalių valdovai, ir ši žinia paskatino Jogailą prašyti karalienės rankos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Galop visi vieningai nutarė paskelb­
+    ti karaliene Jadvygą, karaliaus Liudviko jaunesniąją
+    dukterį, ir, pašalinę Zigmantą Brandenburgietį, kuriam
+    karaliaus motina Elžbieta buvo leidusi tvarkyti vals­
+    tybės reikalus, o kurie ne kurie bajorai visai neseniai
+    buvo paskelbę Lenkijos karaliumi, po iškilmingų mi­
+    šių Krokuvoje Gnezno arkivyskupas Bodzanta apvai­
+    nikavo ją karaliaus vainiku; ji turėjo rūpintis valstybės
+    reikalais, kol senatas valstybės labui neparinks jai su­
+    žadėtinio — būsimo karaliaus. Apie tai sužinojo kai­
+    myninių šalių valdovai, ir ši žinia paskatino Jogailą
+    prašyti karalienės rankos. Į Lenkiją nutarė siųsti be
+    279
+
+    ## Puslapis 278
+
+    1385 m e ta i
+    J o g a ila  p erša si J a d ­
+    v y g a i, len k ų  k a ra lie ­
+    nei
+    galo garbingus piršlius, pa­
+    siuntinybei vadovavo Skir­
+    gaila ir Vygandas Vasilijus,
+    arba, kaip kiti vadina, Bori­
+    sas, valdovo broliai, be to,
+    Hanulas, Vilniaus seniūnas;
+    jie vežėsi puikiausių dovanų karalienei bei didikams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-040
+
+- c-041
+  santrauka: 'Kojelavičius teigia, kad jogaila asmeniškai pasveikino karalienę, kitą dieną per brolius Skirgailą bei Vytautą pasiuntė jai gausių dovanų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tą pačią dieną
+    jis asmeniškai pasveikino karalienę, kitą dieną per
+    brolius Skirgailą bei Vytautą
+    pasiuntė jai gausių dovanų.
+    Po to vasario 16 dieną, kuri
+    paskirta šv. Valentinui, Gnez-
+    no
+    arkivyskupo
+    Bodzantos
+    apkrikštytas, gavo Vladislo­
+    vo vardą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-041
+
+- c-042
+  santrauka: 'Kojelavičius teigia, kad jogaila, neilgai tru kus gavęs žinią apie tuos įvykius, ne tiek pykdamas dėl žemės netekimo, kiek dėl nešlovės (mat jam pra nešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu vęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė dėti karą prieš Vytautą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tad Švitrigaila, būdamas tikras, jog ru­
+    sai jam pasiduos, tyliai pa-
+    U žim a  V ite b s k o  že-
+    traukė žinomais keliais per
+    puolė Vitebską, be didelio vargo užėmė Vitebsko miestą
+    ir dvi pilis, šiaip sunkiai įveikiamas ne tik dėl įtvirtini­
+    mų, bet ir dėl neprieinamos vietos, rusams be kovos
+    pasiduodant, o po to į savo rankas paėmė Oršą ir visą
+    kraštą tarp Dnepro ir Dauguvos. Jogaila, neilgai tru­
+    kus gavęs žinią apie tuos įvykius, ne tiek pykdamas
+    dėl žemės netekimo, kiek dėl nešlovės (mat jam pra­
+    nešė, kad jo vietininkas Vesna Švitrigailos įsakymu bu­
+    vęs nustumtas nuo sienos ir šitaip gavęs galą), paliepė
+    dėti karą prieš Vytautą. Ne-
+    mę
+    Polocko girias su keliais tūks­
+    tančiais Livonijos karių, už-
+    348
+
+    ## Puslapis 347
+
+    Vytautui tol kariauti, kol neatsiims žemės ir nesutriuš­
+    kins Švitrigailos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-042
+
+- c-043
+  santrauka: 'Kojelavičius teigia, kad vis dėlto radosi ir tokių, kurie, norėdami nu malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž jau įsiplieskiančią karo ugnį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto radosi ir tokių, kurie, norėdami nu­
+    malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
+    pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž
+    jau įsiplieskiančią karo ugnį. Susitaręs su Vytautu, Jo­
+    gaila, dėdamasis turįs visai kitų ketinimų, atvyko į
+    Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
+    vadovus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-043
+
+- c-044
+  santrauka: 'Kojelavičius teigia, kad norėdamas palengvinti nuniokotos tėvynės dalią, Jogaila įsakė pakrauti visokiais grūdais dvidešimt di delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa sienį, o iš ten pasieniu vežimais nugabenti viską į Lie tuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lietuva juto baisią maisto sto­
+    ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
+    Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
+    delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­
+    sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­
+    tuvą. Užgrobę visus grūdus,
+    J ie  su daro k elia s pro-
+    gabenamus Vysla, kryžiuočiai
+    gas karu i
+    juos išsivežė kitur.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-044
+
+- c-045
+  santrauka: 'Kojelavičius teigia, kad jogaila viešpataująs valstybėje, kurioje svarbiais reikalais nieko negalįs nutarti be luomų pritarimo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gal vengdamas aiškaus atsakymo į kry­
+    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
+    373
+
+    ## Puslapis 372
+
+    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
+    je svarbiais reikalais nieko negalįs nutarti be luomų
+    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
+    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
+    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
+    gų, visokiais būdais skatinti magistrą draugiškai už­
+    baigti ginčą su Vytautu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-045
+
+- c-046
+  santrauka: 'Kojelavičius teigia, kad karalius Jogaila, matydamas tokią kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai pasidavė Bobrovnikai
+    ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
+    ties užėmė Zlotoriją. Karalius Jogaila, matydamas tokią
+    kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti
+    į kovą su Prūsija. Mažosios Lenkijos bei Volynės ka­
+    riams paliepė rinktis į Volbožą, Didžiosios Lenkijos —
+    į Lenčicą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-046
+
+- c-047
+  santrauka: 'Kojelavičius teigia, kad kai Edigejus siaubė Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir Leopoldas, Austrijos erchercogas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius, padrąsintas Vytauto tylėjimo, nu­
+    mojo ranka į visokius nemalonumus, kurių ši santuoka
+    galėjo pridaryti valdovo rūmams. Kai Edigejus siaubė
+    Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su
+    Elžbieta ir iškėlė vestuvių puotą, kurioje dalyvavo ir
+    Leopoldas, Austrijos erchercogas. Aptemdė vestuvių
+    džiaugsmą visuotinis žmonių nepritarimas, o Rusioje —
+    baisus pralaimėjimas, kurį, pasak žmonių, siuntęs dan­
+    gus, nes niekas neabejojo, kad ir dangus smerkė tai,
+    ką atmetė lyg susitarę žmonės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-047
+
+- c-048
+  santrauka: 'Kojelavičius teigia, kad jogaila, aptaręs su senatu ir Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio niškųjų šalių valdovai susitarsią ne tik narsiai paskelb ti turkams karą, bet visomis jėgomis kuo atkakliausiai jį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito kios.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti. Jogaila, aptaręs su senatu ir
+    Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­
+    niškųjų šalių valdovai susitarsią ne tik narsiai paskelb­
+    ti turkams karą, bet visomis jėgomis kuo atkakliausiai
+    jį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito­
+    kios ginklų sąjungos. Tuo tarpu, raginamas vien tik
+    imperatoriaus, du kartus Vengrijoje turkų sumušto, jis
+    negalįs nepaisyti sudarytų susitarimų, kuriuos lengva
+    sulaužyti, bet sunku atnaujinti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-048
+
+- c-049
+  santrauka: 'Kojelavičius teigia, kad jogaila sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nuspręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-049
+
+- c-050
+  santrauka: 'Kojelavičius teigia, kad karalius Jogaila, sužinojęs iš pasiuntinių, kaip pa krypo šis reikalas, susimanė ieškoti užtarėjų ir, kreipęsis į aukščiausiąją krikščioniškojo pasaulio galybę, apie viską pranešė Romos popiežiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šitaip jis kalbėjo viešai, tuo
+    tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
+    ir nustatė, jog tai įvyks kitų metų rugsėjo 16.
+    Karalius Jogaila, sužinojęs iš pasiuntinių, kaip pa­
+    krypo šis reikalas, susimanė
+    ieškoti užtarėjų ir, kreipęsis į
+    aukščiausiąją krikščioniškojo
+    pasaulio galybę, apie viską
+    pranešė Romos popiežiui. O
+    šis, neabejodamas, jog Vytau­
+    to vainikavimo sukelti didžiuliai sąmyšiai iš pamatų su-
+    krės krikščioniškąją valstybę, paragino Zigmantą bei
+    Vytautą atsisakyti savo sumanymo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-050
+
+- c-051
+  santrauka: 'Kojelavičius teigia, kad vis dėlto Jogaila po senovei sakėsi nieko nedarysiąs, kam nepritartų lenkų senatoriai, ku riuos jam priskyrusi valstybė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šitaip pakalbėjęs, jis įniko
+    426
+
+    ## Puslapis 425
+
+    valdovui nederamu būdu prašyti bei maldauti ir tokio­
+    mis priemonėmis, nuolatos pabrėždamas pusbrolio tei­
+    ses bei ankstesnius savo nuopelnus, vos nepalaužė Jo­
+    gailos atkaklumo. Vis dėlto Jogaila po senovei sakėsi
+    nieko nedarysiąs, kam nepritartų lenkų senatoriai, ku­
+    riuos jam priskyrusi valstybė. Tada Vytautas sugalvojo
+    perkalbėti lenkus, o pirmiausia — Zbignevą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-051
+
+- c-052
+  santrauka: 'Kojelavičius teigia, kad jų raginamas Jogaila neilgai priešinosi, nes ir jam Boleslovas buvo neapsakomai įkyrėjęs.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jų raginamas Jogaila neilgai priešinosi,
+    nes ir jam Boleslovas buvo neapsakomai įkyrėjęs. Štai
+    todėl išsiuntė karaliaus bei valstybės vardu žygūnus
+    ir paragino Žygimantą griebtis ginklo prieš Boleslovą.
+    Lenkai pažadėjo jam teikti pagalbą, o vėliau atiduoti
+    nelyginant atlyginimą už pergalę Lietuvos Didžiąją
+    Kunigaikštystę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-052
+
+- c-053
+  santrauka: 'Kojelavičius teigia, kad dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vėliau, susi­
+    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
+    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
+    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
+    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
+    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
+    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
+    dėl anų susitarimų patirtų kokių nuostolių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-053
+
+- c-054
+  santrauka: 'Kojelavičius teigia, kad jogaila nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    A p sk rita i n e o ru  to k iam
+    v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
+    k iu s n esu d erin am u s d alykus. A rg i jis nesusipažinęs su
+    L ietuvos isto rija, k u r aišk iai p asak y ta, k ad  jo  p irm tak ai
+    Jo g a ila  bei V y tau tas p a p rastai už p inigus L iv o n ijo je
+    sam dydavęsi k arių? V a rg u  jie  šitaip  b ū tų  d arę, je ig u
+    L ivonija nuo seno b ū tų  L ietuvos d id žių jų  k u n ig aik ščių
+    tėv o n ija.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-054

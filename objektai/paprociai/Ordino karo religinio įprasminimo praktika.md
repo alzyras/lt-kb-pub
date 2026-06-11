@@ -160,8 +160,10 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/Dusburgas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]

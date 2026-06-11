@@ -54,4 +54,5 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Mykolas Sleževičius]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]

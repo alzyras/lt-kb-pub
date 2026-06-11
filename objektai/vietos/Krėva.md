@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Krėva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -21,6 +22,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Krėva
 
 ## Santrauka
@@ -88,6 +90,16 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginys: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
   pagrindžia:
     - c-008
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  pagrindžia:
+    - c-009
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -255,3 +267,56 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   statusas: verified
   pagrindžia:
     - t-012
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad vienas sargybinis kar tą įspėjo Oną, jog Vytautui gresianti mirtis, pridurdamas, kad Jogailos siųsti budeliai jau atvyko į Krėvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
+    tą įspėjo Oną, jog Vytautui
+    gresianti mirtis, pridurdamas,
+    kad Jogailos siųsti budeliai
+    jau atvyko į Krėvą. Žmona
+    apie viską pranešė vyrui ir
+    patarė apsirengus merginos drabužiais apgauti sargy­
+    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
+    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
+    bėgliui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014

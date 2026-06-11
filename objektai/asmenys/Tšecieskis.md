@@ -49,6 +49,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Protestantai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/grupes/Vilniaus reformatai ir disidentai]]
 - [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]

@@ -50,5 +50,5 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Inocentas IV]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

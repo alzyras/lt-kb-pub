@@ -180,6 +180,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maršalas]]

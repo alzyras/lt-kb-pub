@@ -194,6 +194,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - [[objektai/grupes/ATAS]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vora]]
 - [[objektai/daiktai/Šarvuočiai]]

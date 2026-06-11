@@ -87,5 +87,6 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/dominija]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/cesija ir decesija]]

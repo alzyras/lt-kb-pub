@@ -45,6 +45,7 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/asmenys/Benito Musolinis]]

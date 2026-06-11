@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Treiderės upė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1298 m.'
@@ -19,6 +20,7 @@ amziai:
   - 'XIII'
   - 'XV'
 ---
+
 # Treiderės upė
 
 ## Santrauka
@@ -31,6 +33,11 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginys: '1298 m. birželio 1 d. Livonijos magistras Brunonas užpuolė Vytenį pajūryje prie Treiderės upės.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +61,22 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

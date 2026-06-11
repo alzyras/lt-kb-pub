@@ -113,7 +113,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/asmenys/Leonas]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/daiktai/Vaišių stalai]]
 - [[objektai/zodynas/pakancleris]]

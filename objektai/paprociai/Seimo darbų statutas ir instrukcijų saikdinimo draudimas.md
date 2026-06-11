@@ -89,4 +89,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/statutas]]

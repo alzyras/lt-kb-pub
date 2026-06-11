@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Smolenskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -10,6 +11,7 @@ saltiniai:
 datos:
   - '1239 m.'
   - '1396 m.'
+  - '1470 m.'
   - '1654 m.'
 date_start: '1239'
 date_end: '1654'
@@ -211,6 +213,41 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginys: 'Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.'
   pagrindžia:
     - c-020
+
+- t-038
+  teiginys: 'Kojelavičius teigia, kad vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų, įsakė kariuomenės būriams, traukiantiems į Lietuvą, nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš to priešus, užpuolė Smolenską, maišto pradininką.'
+  pagrindžia:
+    - c-027
+
+- t-039
+  teiginys: 'Kojelavičius teigia, kad kaip įprasta tiems, kurių visas karingumas tik ant liežuvio, Jurijus, suvokęs, jog netrukus prasidės grumtynės, o jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai į kovos lauką traukti, nei už Smolensko pylimų gintis, todėl, nieko nelaukęs, pabėgo su.'
+  pagrindžia:
+    - c-028
+
+- t-040
+  teiginys: 'Kojelavičius teigia, kad sutartą dieną ten atvyko Rumbaudas, Lietuvos maršalas, atsivedęs lietuvius ir že maičius, Olelka, arba Aleksandras, Slucko kunigaikštis, su kryžiuočiais ir Volynės kariais, Ivanas Boreikaitis Chodkevičius su Seversko bei Smolensko kariais, Len kijoje.'
+  pagrindžia:
+    - c-029
+
+- t-041
+  teiginys: 'Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolenske paliko vietininku Andrių Sakavičių.'
+  pagrindžia:
+    - c-030
+
+- t-042
+  teiginys: 'Kojelavičius teigia, kad nepakęsda mas atidėliojimo, pats patraukė į Smolenską, nors kar vedžiai iš paskutiniųjų įtikinėjo, jog metų laikas nieku būdu netinkąs karui.'
+  pagrindžia:
+    - c-031
+
+- t-043
+  teiginys: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  pagrindžia:
+    - c-032
+
+- t-044
+  teiginys: 'Kojelavičius teigia, kad karvedžių pasitarime nusprendė, kad karalius su smulkesniais būriais apsistosiąs Smolensko apylinkėse, o Firlėjus su lenkais bei Ostrogiškis su lietuviais įženg siąs į Maskvos kunigaikštystę, viską pakeliui siaubda mi ir visur gaudydami paklydusius bėglius.'
+  pagrindžia:
+    - c-033
 
 ## Reikšmingi paminėjimai
 
@@ -680,3 +717,214 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   statusas: verified
   pagrindžia:
     - t-015
+
+- c-027
+  santrauka: 'Kojelavičius teigia, kad vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų, įsakė kariuomenės būriams, traukiantiems į Lietuvą, nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš to priešus, užpuolė Smolenską, maišto pradininką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat Jurijaus
+    uošvis, Riazanės kunigaikštis Olegas, regėdamas neto­
+    liese augančią Vytauto galią, iš baimės ir pavydo ska­
+    tino jaunuolio užmojus ir žadino visokius sumanymus.
+    Vytautas, nutaręs užgesinti vis įsiliepsnojant) pavojų,
+    įsakė kariuomenės būriams, traukiantiems į Lietuvą,
+    nedelsiant pasukti atgal į Rusią, išvijęs iš Oršos kraš­
+    to priešus, užpuolė Smolenską, maišto pradininką. Kaip
+    įprasta tiems, kurių visas karingumas tik ant liežuvio,
+    350
+
+    ## Puslapis 349
+
+    Jurijus, suvokęs, jog netrukus prasidės grumtynės, o
+    jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai
+    į kovos lauką traukti, nei už Smolensko pylimų gintis,
+    todėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su-
+    kursčiusį šį karą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-038
+
+- c-028
+  santrauka: 'Kojelavičius teigia, kad kaip įprasta tiems, kurių visas karingumas tik ant liežuvio, Jurijus, suvokęs, jog netrukus prasidės grumtynės, o jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai į kovos lauką traukti, nei už Smolensko pylimų gintis, todėl, nieko nelaukęs, pabėgo su.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip
+    įprasta tiems, kurių visas karingumas tik ant liežuvio,
+    350
+
+    ## Puslapis 349
+
+    Jurijus, suvokęs, jog netrukus prasidės grumtynės, o
+    jam neužtenka nei jėgų, nei narsos, nedrįso nei atvirai
+    į kovos lauką traukti, nei už Smolensko pylimų gintis,
+    todėl, nieko nelaukęs, pabėgo su žmona pas uošvį, su-
+    kursčiusį šį karą. Kunigaikš-
+    Jo b ro liu i G leb u i ati-
+    čio palikti smolenskiečiai dar
+    d u o d a  v a ld ž ią
+    geresnėmis
+    sąlygomis
+    nei
+    anksčiau atidavė pilį ir visą
+    žemę Vytautui. Jurijaus brolis Glėbas nesunkiai išprašė,
+    kad jo, nekalto, rodos, dėl brolio padarytų nusikaltimų,
+    neištiktų toks pat likimas ir kad iš jo nebūtų atimta
+    tėvonija.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-039
+
+- c-029
+  santrauka: 'Kojelavičius teigia, kad sutartą dieną ten atvyko Rumbaudas, Lietuvos maršalas, atsivedęs lietuvius ir že maičius, Olelka, arba Aleksandras, Slucko kunigaikštis, su kryžiuočiais ir Volynės kariais, Ivanas Boreikaitis Chodkevičius su Seversko bei Smolensko kariais, Len kijoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sutartą dieną ten atvyko
+    Rumbaudas, Lietuvos maršalas, atsivedęs lietuvius ir že­
+    maičius, Olelka, arba Aleksandras, Slucko kunigaikštis,
+    su kryžiuočiais ir Volynės kariais, Ivanas Boreikaitis
+    Chodkevičius su Seversko bei Smolensko kariais, Len­
+    kijoje pasamdyti raitieji ietininkai, vedami Zbignevo iš
+    Bžezės, ir Prūsijos magistro
+    V y ta u ta s
+    įsiv e ržia
+    į
+    pasiųstas į pagalbą pėstinin-
+    M a s k v o s  v a ld a s
+    kų būrys.
+    Patikrinęs prie
+    Smolensko karių kovinę pa­
+    rengtį, Vytautas atskyrė lengvąją kavaleriją ir įsakė jai
+    žygiuoti sparnuose, gerokai atsitraukus nuo pagrindinių
+    jėgų, ir ugnimi bei kalaviju siaubti šalį iki pat Okos,
+    kur turėjo sustoti. Pats Vytautas nuvedė tiesiai į priekį
+    tarp niokojančių raitijos būrių sunkiau ginkluotus ka­
+    rius bei gurguoles.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-040
+
+- c-030
+  santrauka: 'Kojelavičius teigia, kad mat neseniai, vykdamas į Lietuvą, Goštautas Smolenske paliko vietininku Andrių Sakavičių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasibaigus seimui, iš­
+    siuntė
+    Goštautą numalšinti
+    Rusios. Mat
+    neseniai,
+    vykdamas į Lietuvą, Goštautas Smolenske
+    paliko
+    vietininku Andrių Sakavičių.
+    G o šta u tą  siunčia m al-
+    Išgirdę apie Žygimanto galą,
+    sinti S m o len sk o
+    smolenskiečiai,
+    nenorėdami
+    taikstytis su priespauda, apsi­
+    ginklavo ir apsupo iš visų pusių pilį; niekieno dorai ne­
+    vadovaujami, jie veikiau triukšmavo, nei rimtai kovojo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-041
+
+- c-031
+  santrauka: 'Kojelavičius teigia, kad nepakęsda mas atidėliojimo, pats patraukė į Smolenską, nors kar vedžiai iš paskutiniųjų įtikinėjo, jog metų laikas nieku būdu netinkąs karui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nenusise­
+    kęs žygis smarkiai suerzino Kazimierą, mat jaunikaitis
+    dar nemokėjo ramiai žiūrėti
+    Pats p a tra u k ia  p rieš
+    į nesėkmę ir, neraukdamas
+    sm o le n sk ie č iu s ir at-
+    kaktos, lyg niekur nieko taik-
+    siim a p ilį
+    stytis su permainingo liki­
+    mo išdaigomis. Nepakęsda­
+    mas atidėliojimo, pats patraukė į Smolenską, nors kar­
+    vedžiai iš paskutiniųjų įtikinėjo, jog metų laikas nieku
+    būdu netinkąs karui. Visuomet kariuomenė sėkmingai
+    kariauja, kai valdovas ne tik jai duoda nurodymų, o
+    betarpiškai ją veda į kovą, nes jo dalyvavimas rodo,
+    kad karas esąs labai svarbus, todėl neilgai trukus Kazi­
+    mieras nesunkiai užėmė pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-042
+
+- c-032
+  santrauka: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žiemos viduryje ap­
+    lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
+    popiežiaus ir imperatoriaus įsikišimas. Mat popiežius,
+    priekaištingai
+    tvirtindamas, kad Vladislovas kol kas
+    niekuo nenusipelnęs tikėjimui, o Motiejus didžiai nu­
+    sipelnęs, atvirai rėmė Motiejų, rodydamas jam palan­
+    kumą. Tiesą sakant, turint galvoje tikėjimo reikalus,
+    negalima buvo nė dvejoti, kad Čekijai reikalingas toks
+    karalius, kuris, pagarsėjęs karo žygiais, nepriklausytų
+    nuo sektantų malonės, kaip dabar galima buvo tikė­
+    tis, ir pastoviai remtų bažnyčią, vis dėlto Kazimieras
+    jautėsi įžeistas, kad šiuo atveju žiūrima nuopelnų, ne­
+    lyginant būtų visiškai abejotinos teisės, kurias turėjo
+    jo vaikai dėl kilmės bei įpėdinystės. Tuo tarpu impe­
+    ratorius Fridrichas papiršo į Vladislovo žmonas savo
+    dukterį Kunegundą, o savo sūnui Maksimilijonui pa­
+    prašė Kazimiero dukters Jadvygos rankos, norėdamas
+    šia dviguba santuoka sustiprinti sąjungą ir, nušalinus
+    1470 m eta i
+    P o p iežiu s ii im p e r a to ­
+    rius p riešin a si
+    tvarkė taikos bei karo rei­
+    kalus, o išaušus pavasariui,
+    sugrįžo į Lenkiją ir vėl įniko
+    į Čekijos reikalus, kuriuos
+    sėkmingai užbaigti sutrukdė
+    520
+
+    ## Puslapis 519
+
+    Motiejų ir Jurgį, bendromis pastangomis bei jungtinė­
+    mis karo jėgomis suteikti Čekijos sostą Vladislovui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-043
+
+- c-033
+  santrauka: 'Kojelavičius teigia, kad karvedžių pasitarime nusprendė, kad karalius su smulkesniais būriais apsistosiąs Smolensko apylinkėse, o Firlėjus su lenkais bei Ostrogiškis su lietuviais įženg siąs į Maskvos kunigaikštystę, viską pakeliui siaubda mi ir visur gaudydami paklydusius bėglius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat,
+    nors pakrikas priešo atsitraukimas žadėjo nesunkią per­
+    galę, bet, turėdami galvoje, kad keliai visai nepažįsta­
+    mi ir neprieinami, o tarp miškų ir pelkių gali pasitai­
+    kyti visokių pasalų, nutarė, jog susilauks daugiau pa­
+    vojų, nei turės vilčių sėkmingai baigti žygį, jeigu
+    kariai, nuvargę po tokio ilgo kelio, imsią persekioti
+    priešą. Štai todėl pulkai patraukė į Oršą; be didelio
+    vargo atgavus pilį, visos jėgos pasuko link Smolens­
+    ko. Karvedžių pasitarime nusprendė, kad karalius su
+    smulkesniais būriais apsistosiąs Smolensko apylinkėse,
+    o Firlėjus su lenkais bei Ostrogiškis su lietuviais įženg­
+    siąs į Maskvos kunigaikštystę, viską pakeliui siaubda­
+    mi ir visur gaudydami paklydusius bėglius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-044

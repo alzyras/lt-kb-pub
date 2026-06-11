@@ -92,6 +92,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Polockiečiai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Totoriai]]

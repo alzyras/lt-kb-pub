@@ -70,4 +70,5 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 ### Susiję objektai
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/asmenys/Motiejus Kaviečnijskis]]
+- [[objektai/zodynas/florinai]]
 - [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]

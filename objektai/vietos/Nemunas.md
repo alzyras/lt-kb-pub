@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Nemunas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -359,6 +360,41 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   teiginys: 'Dusburgietis Nemuną vadina Memela (plg.'
   pagrindžia:
     - c-024
+
+- t-066
+  teiginys: 'Kojelavičius teigia, kad tėvui mirus, sū nūs šitaip pasiskirstė žemes: Barkus, į Nemuną įtekančios Jūros žiotyse pasistatęs Jur barko pilį, gavo valdyti tą Žemaitijos dalį (mat Žemai tija jau buvo prisijungusi prie Lietuvos), kuri plyti nuo Jūros ir Nemuno ligi Kuršių įlankos.'
+  pagrindžia:
+    - c-049
+
+- t-067
+  teiginys: 'Kojelavičius teigia, kad kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Duby sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu) Nerimi.'
+  pagrindžia:
+    - c-050
+
+- t-068
+  teiginys: 'Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikščių, Treniotos ar Dau manto sūnus, persekiojamas L ie tu v a n io k o ja m a k ry žiu o č ių užšalęs Nemunas leidoleng vai persikelti ledu, įsiveržė į Lietuvą vedami magistro Konrado fon Tirbergo.'
+  pagrindžia:
+    - c-051
+
+- t-069
+  teiginys: 'Kojelavičius teigia, kad pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų.'
+  pagrindžia:
+    - c-052
+
+- t-070
+  teiginys: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  pagrindžia:
+    - c-053
+
+- t-071
+  teiginys: 'Kojelavičius teigia, kad netekęs vilties, kad užkariaus pilį, be to, nenorė damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie ko nenuveikė, jis pasitraukė į Nemuno salas, esančias už vienos mylios, ir pastatė čia naujas pilis.'
+  pagrindžia:
+    - c-054
+
+- t-072
+  teiginys: 'Kojelavičius teigia, kad gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Alberto Goštauto, subruz do ginti pilies, o kiti pasitraukė už Nemuno.'
+  pagrindžia:
+    - c-055
 
 ## Reikšmingi paminėjimai
 
@@ -1207,3 +1243,160 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   statusas: verified
   pagrindžia:
     - t-065
+
+- c-049
+  santrauka: 'Kojelavičius teigia, kad tėvui mirus, sū nūs šitaip pasiskirstė žemes: Barkus, į Nemuną įtekančios Jūros žiotyse pasistatęs Jur barko pilį, gavo valdyti tą Žemaitijos dalį (mat Žemai tija jau buvo prisijungusi prie Lietuvos), kuri plyti nuo Jūros ir Nemuno ligi Kuršių įlankos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Valdęs
+    valstybę
+    ilgus metus, Palemonas pa­
+    sitraukė iš šio pasaulio, palikdamas tris sūnus, tinka­
+    mus valdyti. Tėvui mirus, sū­
+    nūs šitaip pasiskirstė žemes:
+    Barkus, į Nemuną įtekančios
+    Jūros žiotyse pasistatęs Jur­
+    barko pilį, gavo valdyti tą
+    Žemaitijos dalį (mat Žemai­
+    tija jau buvo prisijungusi prie Lietuvos), kuri plyti
+    nuo Jūros ir Nemuno ligi Kuršių įlankos. Kūno, arba
+    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
+    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
+    Nerimi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-066
+
+- c-050
+  santrauka: 'Kojelavičius teigia, kad kūno, arba Kūnasijaus, valstybė buvo ribojama Nemunu, Duby sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu) Nerimi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kūno, arba
+    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
+    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
+    Nerimi. Tų žemių sostinę įkurdino pačioje Neries ir
+    Nemuno santakoje. Tas miestas su pilimi, įkūrėjo at­
+    minimui pavadintas Kaunu, po šiai dienai tebėra vie­
+    nas iš žymiausių Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-067
+
+- c-051
+  santrauka: 'Kojelavičius teigia, kad mat šis, ki lęs iš Lietuvos didžiųjų ku nigaikščių, Treniotos ar Dau manto sūnus, persekiojamas L ie tu v a n io k o ja m a k ry žiu o č ių užšalęs Nemunas leidoleng vai persikelti ledu, įsiveržė į Lietuvą vedami magistro Konrado fon Tirbergo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taigi kai lietuviai įrudenėjus buvo užsi­
+    ėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai
+    v q
+    L ietu vis P elužis k u rs­
+    to p rū su s p rieš Lietu-
+    neapsirinku spėliodamas, su­
+    kurstyti Pelužio. Mat šis, ki­
+    lęs iš Lietuvos didžiųjų ku­
+    nigaikščių, Treniotos ar Dau­
+    manto sūnus, persekiojamas
+    157
+
+    ## Puslapis 156
+
+    L ie tu v a
+    n io k o ja m a
+    k ry žiu o č ių
+    užšalęs Nemunas leido- leng­
+    vai persikelti ledu, įsiveržė
+    į Lietuvą vedami magistro
+    Konrado fon Tirbergo. Ka­
+    riuomenė žygiavo dviem voromis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-068
+
+- c-052
+  santrauka: 'Kojelavičius teigia, kad pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ka­
+    riuomenė žygiavo dviem voromis. Pirmoji apsupo Bi-
+    senės pilį ir po kovos, trukusios nuo Aušros ligi vi­
+    durdienio, užėmė ją bei sudegino; kita vora nuniokojo
+    aplinkines žemes, tačiau, traukdami atgal, patyrė di­
+    delių nuostolių, nes Nemuno ledas, nepakankamai tuo
+    metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
+    riuomenės bei grobio paskendo verpetuose. Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-069
+
+- c-053
+  santrauka: 'Kojelavičius teigia, kad pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Už žalą, padarytą per šį niokojamą iš­
+    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
+    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
+    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
+    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
+    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
+    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
+    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
+    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
+    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
+    apsuptą pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-070
+
+- c-054
+  santrauka: 'Kojelavičius teigia, kad netekęs vilties, kad užkariaus pilį, be to, nenorė damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie ko nenuveikė, jis pasitraukė į Nemuno salas, esančias už vienos mylios, ir pastatė čia naujas pilis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
+    stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
+    kai. Netekęs vilties, kad užkariaus pilį, be to, nenorė­
+    damas, kad pasklistų kalbos, jog priešas šiuo žygiu nie­
+    ko nenuveikė, jis pasitraukė į Nemuno salas, esančias
+    už vienos mylios, ir pastatė čia naujas pilis. Dviejose
+    salose, Naujojoje ir Riterių, pavadintose Nojerverde-
+    riu ir Ritersverderiu, kryžiuo-
+    Stato L ie tu v o je  паи-
+    čiai paliko savo įgulą, o tre­
+    jas pilis
+    čiojoje, vadinamoje Marien­
+    burgu, įkurdino savo karius
+    Vytautas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-071
+
+- c-055
+  santrauka: 'Kojelavičius teigia, kad gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Alberto Goštauto, subruz do ginti pilies, o kiti pasitraukė už Nemuno.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
+    jami Naugarduko vaivados Alberto Goštauto, subruz­
+    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
+    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
+    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-072

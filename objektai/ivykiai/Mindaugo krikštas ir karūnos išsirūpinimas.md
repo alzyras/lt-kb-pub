@@ -90,7 +90,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/asmenys/Morta]]

@@ -95,5 +95,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/grupes/Žiemgaliai]]

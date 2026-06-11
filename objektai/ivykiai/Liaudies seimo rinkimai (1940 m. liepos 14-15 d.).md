@@ -164,6 +164,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]

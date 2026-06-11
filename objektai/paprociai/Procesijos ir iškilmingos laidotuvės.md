@@ -111,5 +111,6 @@ Nenurodyta
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/ivykiai/Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)]]

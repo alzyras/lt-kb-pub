@@ -70,6 +70,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/tripartitio christiana luominė visuomenė]]

@@ -55,3 +55,4 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]
+- [[objektai/ivykiai/Smolensko prijungimas prie Lietuvos apgaunant Glėbą]]

@@ -77,5 +77,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AK-74]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AK-47]]

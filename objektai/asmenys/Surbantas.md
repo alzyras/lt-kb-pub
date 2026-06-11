@@ -2,13 +2,23 @@
 tipas: asmuo
 pavadinimas: 'Surbantas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1269 m.'
+date_start: '1269'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karas
   - tikėjimas
+  - šeima
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Surbantas
 
@@ -22,6 +32,11 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   teiginys: 'Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad tokio paties likimo ištikti skalvių di dikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje, persikraustė su savo turtais ir žmonėmis toliau į Lie tuvą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -45,6 +60,21 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - t-002
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Skalviai]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad tokio paties likimo ištikti skalvių di dikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje, persikraustė su savo turtais ir žmonėmis toliau į Lie tuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tiesą sakant,
+    tą pasitraukimą su visa manta ir vaikais į Lietuvą, kur
+    gyveno tos pačios kilmės tauta, vargu ar galima va­
+    dinti tremtimi. Tokio paties likimo ištikti skalvių di­
+    dikai Surbantas, Svisdeta ir Surdeta, atsidūrę bėdoje,
+    persikraustė su savo turtais ir žmonėmis toliau į Lie­
+    tuvą. Tuo tarpu kilo neramu-
+    1269 m e ta i
+    mai Lenkijoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

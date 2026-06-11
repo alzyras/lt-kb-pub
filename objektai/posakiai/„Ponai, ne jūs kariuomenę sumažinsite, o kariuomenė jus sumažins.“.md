@@ -51,4 +51,5 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/daiktai/Raudonos vėliavos]]

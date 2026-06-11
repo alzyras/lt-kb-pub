@@ -104,6 +104,7 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Prancūziškoji partija]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/A. Nelepcos]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
 - [[objektai/asmenys/Kristupas Pacas]]

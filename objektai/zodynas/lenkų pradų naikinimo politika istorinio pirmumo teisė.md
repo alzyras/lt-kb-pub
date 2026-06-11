@@ -53,7 +53,6 @@ L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/unija]]

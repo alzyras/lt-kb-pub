@@ -76,5 +76,6 @@ amziai:
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
 - [[objektai/grupes/Lotynai]]
+- [[objektai/autoriai/Albertas Vijūkas-Kojelavičius]]
 - [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
 - [[objektai/grupes/Vyriausioji Lietuvos Mokykla]]

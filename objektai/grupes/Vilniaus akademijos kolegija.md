@@ -103,13 +103,14 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/zodynas/Jus Patronatus]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]
 - [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]

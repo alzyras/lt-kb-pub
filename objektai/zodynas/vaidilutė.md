@@ -38,4 +38,7 @@ Pav., lieka dar labai ginčytinas klausimas, ar Vytauto motina Birutė buvo vaid
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Birutė]]
+- [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Leopoldas]]
 - [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]

@@ -45,5 +45,6 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/zodynas/netikėliai]]

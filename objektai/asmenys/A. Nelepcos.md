@@ -46,4 +46,5 @@ Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus, kuriuose buv
 - [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/muškietininkai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]

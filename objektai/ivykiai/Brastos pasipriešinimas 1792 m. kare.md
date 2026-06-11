@@ -83,9 +83,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]

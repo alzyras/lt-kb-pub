@@ -98,6 +98,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 - [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Liublino seimas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/urėdas]]

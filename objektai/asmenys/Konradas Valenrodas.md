@@ -175,6 +175,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/asmenys/Henrikas Lankasteris]]

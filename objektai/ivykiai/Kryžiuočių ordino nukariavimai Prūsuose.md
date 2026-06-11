@@ -211,4 +211,5 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Pilys]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/ekspansija]]

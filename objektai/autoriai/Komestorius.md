@@ -48,4 +48,5 @@ Dusburgietis teigia, kad pasak Komestoriaus, panašūs ženklai šitaip rodęsi 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/senatas]]
 - [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]

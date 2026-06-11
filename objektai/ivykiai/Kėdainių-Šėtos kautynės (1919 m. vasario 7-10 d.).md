@@ -217,6 +217,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
 - [[objektai/asmenys/K. Dragunevičius]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]

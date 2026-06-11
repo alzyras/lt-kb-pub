@@ -59,5 +59,6 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
 - [[objektai/zodynas/kankinių vainikai]]

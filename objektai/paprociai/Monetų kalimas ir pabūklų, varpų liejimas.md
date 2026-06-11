@@ -75,7 +75,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/daiktai/Monetos]]
 - [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]

@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'regula'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -10,6 +11,7 @@ tags:
   - pilis
   - sąvoka
 ---
+
 # regula
 
 ## Santrauka
@@ -22,6 +24,11 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
   teiginys: 'Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten palinko niekinti visa, kas žemiška, todėl, išpažinęs griežtesnių regulų gyve nimą pagal Grigorijaus iš Polonos mokslą, gyveno Galiče.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -53,15 +60,25 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
-- [[objektai/autoriai/Antoni Melissanius de Macro]]
-- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/autoriai/Waddyngas Luca Vaddingo]]
-- [[objektai/zodynas/vaitas ir tarėjai]]
-- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
-- [[objektai/asmenys/Goštautas]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad didžiai pasi keitus aplinkybėms, jo širdis ten palinko niekinti visa, kas žemiška, todėl, išpažinęs griežtesnių regulų gyve nimą pagal Grigorijaus iš Polonos mokslą, gyveno Galiče.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vaišvilkas mat, pasipiktinęs savo tėvo Min­
+    daugo atsimetimu nuo krikščionių tikybos, pabėgo pas
+    rusus, kur kitados gyveno kaip įkaitas. Didžiai pasi­
+    keitus aplinkybėms, jo širdis ten palinko niekinti visa,
+    kas žemiška, todėl, išpažinęs griežtesnių regulų gyve­
+    nimą pagal Grigorijaus iš Polonos mokslą, gyveno Ga-
+    liče. Gal dėl kitos priežasties, o gal vildamasis atvers­
+    ti į krikščionių tikėjimą tėvą karalių bei savo tautą,
+    iš ten jis vėl persikraustė į Lietuvą; netoli Naugardu­
+    ko Nemuno pakrantėje pasistatęs vienuolyną, ten ėmė
+    su daugeliu tokio pat gyvenimo bendrininkų dievo­
+    baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
+    kurstomas didikų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

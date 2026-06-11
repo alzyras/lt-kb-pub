@@ -98,5 +98,6 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/asmenys/Getautas]]
+- [[objektai/asmenys/Gimbutas]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Gediminaičių dinastija]]

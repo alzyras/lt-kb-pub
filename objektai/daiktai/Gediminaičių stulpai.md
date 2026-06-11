@@ -84,6 +84,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]

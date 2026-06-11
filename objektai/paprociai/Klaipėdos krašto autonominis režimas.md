@@ -147,6 +147,7 @@ Nenurodyta
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/zodynas/autonominis vienetas]]
 - [[objektai/zodynas/klaipėdiečiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]

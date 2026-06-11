@@ -56,7 +56,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Augustas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/zodynas/konstitucijos]]

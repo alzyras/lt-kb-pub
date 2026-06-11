@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Mozyrius'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1936 m.'
@@ -17,6 +18,7 @@ amziai:
   - 'XX'
   - 'XXI'
 ---
+
 # Mozyrius
 
 ## Santrauka
@@ -39,6 +41,11 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   teiginys: 'Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad jo sumany mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -79,3 +86,31 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   pagrindžia:
     - t-003
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad jo sumany mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Skirman­
+    tas, nepasitenkindamas šia pergale, vedė toliau kariuo­
+    menę, kad, išvadavęs iš skitų jungo daugelį Rusios
+    miestų, toliau nuo savęs nustumtų priešą. Jo sumany­
+    mą lydėjo sėkmė, jis išplėšė iš priešo rankų Mozyrių,
+    Starodubą, Černigovą, Karačevą ir beveik visą Severs-
+    ko žemę. Tada, sūnums Liu-
+    L ietu via i, iš v iję  s k i-
+    bartui ir Pisimantui atidalijęs
+    tus, u žim a M o zy rių  ir
+    šias
+    sritis,
+    jauniausiajam
+    v is ą  S e v e rsk o  že m ę
+    Treniotai testamentu pasky­
+    rė Lietuvos žemes
+    šiapus
+    Neries, Naugarduko ir Poleksijos kunigaikštystes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

@@ -95,6 +95,7 @@ Nenurodyta
 - [[objektai/grupes/Mongolai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/kondominiumas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

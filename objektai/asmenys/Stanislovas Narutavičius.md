@@ -49,7 +49,7 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 ### Susiję objektai
 - [[objektai/asmenys/Gabrielis Narutovičius]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/grupes/Oberostas]]

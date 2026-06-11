@@ -122,6 +122,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/magistras]]

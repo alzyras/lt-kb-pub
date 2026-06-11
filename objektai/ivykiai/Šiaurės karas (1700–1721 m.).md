@@ -96,6 +96,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/ivykiai/Šiaurės karas]]

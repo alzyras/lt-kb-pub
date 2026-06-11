@@ -67,6 +67,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

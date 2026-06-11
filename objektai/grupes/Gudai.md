@@ -42,7 +42,7 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/grupes/Dregovičiai]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]

@@ -114,6 +114,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/asmenys/Valteris R. Hesas]]
 - [[objektai/grupes/Vokiečiai]]

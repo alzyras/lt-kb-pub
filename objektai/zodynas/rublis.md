@@ -102,4 +102,4 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/zodynas/grašis]]
 - [[objektai/daiktai/Monetos]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

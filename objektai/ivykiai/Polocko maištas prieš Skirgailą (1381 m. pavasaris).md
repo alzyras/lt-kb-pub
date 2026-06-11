@@ -82,7 +82,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/metropolitas]]

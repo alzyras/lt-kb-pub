@@ -112,6 +112,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/bajorija]]

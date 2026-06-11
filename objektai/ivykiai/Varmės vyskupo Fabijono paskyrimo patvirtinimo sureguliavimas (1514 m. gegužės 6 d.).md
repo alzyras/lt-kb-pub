@@ -114,5 +114,6 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

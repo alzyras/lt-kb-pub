@@ -104,6 +104,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Lietuviai]]

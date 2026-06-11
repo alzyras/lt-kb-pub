@@ -129,7 +129,7 @@ Nenurodyta
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Urbonas VI]]
 - [[objektai/zodynas/brevė]]

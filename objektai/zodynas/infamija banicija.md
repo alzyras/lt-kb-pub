@@ -48,4 +48,5 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]

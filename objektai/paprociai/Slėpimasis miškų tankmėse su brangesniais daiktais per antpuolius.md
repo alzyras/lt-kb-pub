@@ -1,0 +1,58 @@
+---
+tipas: paprotys
+pavadinimas: 'Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+
+# Slėpimasis miškų tankmėse su brangesniais daiktais per antpuolius
+
+## Santrauka
+
+Kojelavičius teigia, kad vis dėlto žmonių ne daug žuvo, nes gyventojai, palikę namus priešų valiai, patys su visais brangesniais daiktais išsislapstė miškų tankmėse.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad vis dėlto žmonių ne daug žuvo, nes gyventojai, palikę namus priešų valiai, patys su visais brangesniais daiktais išsislapstė miškų tankmėse.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad vis dėlto žmonių ne daug žuvo, nes gyventojai, palikę namus priešų valiai, patys su visais brangesniais daiktais išsislapstė miškų tankmėse.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai lietuviai niokojo kryžiuočių kraštą,
+    šie irgi neliko ramūs. Magistras Konradas, su didžiule
+    kariuomene užpuolęs Žemai-
+    S a v o  ru o žtu  k ry žiu o -
+    tiją, nusiaubė Karšuvos že-
+    č ia i sia u b ia  L ie tu vą
+    mę. Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001

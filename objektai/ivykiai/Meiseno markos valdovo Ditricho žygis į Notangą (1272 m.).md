@@ -102,4 +102,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Giunteris iš Regenšteino]]

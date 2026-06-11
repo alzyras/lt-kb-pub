@@ -208,7 +208,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 ### Susiję objektai
 - [[objektai/autoriai/A. Plateris]]
 - [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
-- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
@@ -234,6 +234,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
 - [[objektai/zodynas/klierikų kolegija seminarija]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
 - [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]

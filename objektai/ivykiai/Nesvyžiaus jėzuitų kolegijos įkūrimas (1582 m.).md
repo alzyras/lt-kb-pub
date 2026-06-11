@@ -61,4 +61,4 @@ Nenurodyta
 - [[objektai/grupes/Kalvinai]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Kristupas Radvila]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]

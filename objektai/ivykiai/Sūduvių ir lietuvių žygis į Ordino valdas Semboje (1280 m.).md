@@ -75,7 +75,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Nameisis]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]

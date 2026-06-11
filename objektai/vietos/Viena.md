@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Viena'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -20,6 +21,7 @@ amziai:
   - 'XX'
   - 'XXI'
 ---
+
 # Viena
 
 ## Santrauka
@@ -57,6 +59,11 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
   pagrindžia:
     - c-005
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad maksimilijonas nepaprastai troško karalių pri imti ir pavaišinti Vienoje, karaliaus rūmuose, tačiau tam prieštaravo Vladislovas, kadangi vengrai, kažkuo nepasitikėdami, to nenorėjo.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -170,3 +177,32 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad maksimilijonas nepaprastai troško karalių pri imti ir pavaišinti Vienoje, karaliaus rūmuose, tačiau tam prieštaravo Vladislovas, kadangi vengrai, kažkuo nepasitikėdami, to nenorėjo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žygimantą supo lenkų, lietuvių bei rusų
+    raitelių būriai, apsivilkę turkų, persų, maskvėnų ir ski­
+    tų drapanomis, žirgus išpuošę žėrinčiais perlais ir auk­
+    su; brangakmeniais nusagstytos jų strėlinės, makštys ir
+    šalmai spindėte spindėjo, žavėdami žiūrovų akis bei
+    636
+
+    ## Puslapis 635
+
+    širdis. Maksimilijonas nepaprastai troško karalių pri­
+    imti ir pavaišinti Vienoje, karaliaus rūmuose, tačiau
+    tam prieštaravo Vladislovas, kadangi vengrai, kažkuo
+    nepasitikėdami, to nenorėjo. Žygimantas šitaip atsakė
+    imperatoriaus atstovui Strigonos kardinolui, Esą jis
+    taip toli nuvykęs iš savo karalystės daugiausia todėl,
+    kad norėjęs pamatyti imperatorių ir su juo pabend­
+    rauti; kadangi kol kas jis jaučiąsis dar ne visai pa­
+    tenkinęs savo norus, mielai keliausiąs ten, kur pasiū­
+    lysiąs imperatorius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

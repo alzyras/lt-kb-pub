@@ -59,7 +59,7 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]

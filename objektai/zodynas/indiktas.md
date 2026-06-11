@@ -135,7 +135,6 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]

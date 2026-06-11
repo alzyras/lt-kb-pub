@@ -159,5 +159,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
 - [[objektai/zodynas/urėdas]]

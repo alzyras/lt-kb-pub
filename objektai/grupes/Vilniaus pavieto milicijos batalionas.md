@@ -45,4 +45,5 @@ tags:
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/zodynas/pavietas]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/T. Korsakas]]

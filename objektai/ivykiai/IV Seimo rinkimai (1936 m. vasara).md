@@ -107,4 +107,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lietuvių tautininkų sąjunga]]

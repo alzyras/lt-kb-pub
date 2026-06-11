@@ -74,9 +74,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Daumantas]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
 - [[objektai/asmenys/Klemensas IV]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/apostazija]]

@@ -102,7 +102,7 @@ Nenurodyta
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Jonas (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Jonas Chojevskis]]
-- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/grupes/Trakų žydai]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/asmenys/Žygimantas Senasis]]

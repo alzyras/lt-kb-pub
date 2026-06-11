@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Čekai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1413 m.'
@@ -47,6 +48,16 @@ amziai:
   teiginys: 'Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti.'
   pagrindžia:
     - c-004
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad kai paaiškėjo, kad imperatoriaus sprendimai nesiremia teisingumu, kad jo skelbiamos ištarmės pažeidžia net moralės nor mas, jie atsisakė jo tarpinin- 1420 m e ta i kavimo ir pasiryžo ginklu įrokilusių tikybinių nesutarimų čekai atsisakė klausyti Romos.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad tačiau čekai neišsižadėjo savo sumanymo, manydami, jog troškimas gauti karaliaus vainiką įveiks kiekvieną atkaklų užsispyrėlį.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -131,75 +142,52 @@ amziai:
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Husitai]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Abelis]]
-- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Bajazitas]]
-- [[objektai/asmenys/Boleslovas Maldingasis]]
-- [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
-- [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių]]
-- [[objektai/asmenys/Enejas Silvijus Picolomini]]
-- [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/asmenys/Henrikas (Danijos karalius)]]
-- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
-- [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/asmenys/Jedigėjus]]
-- [[objektai/grupes/Jogailos palikuonys]]
-- [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]]
-- [[objektai/asmenys/Jurgis Lengvenaitis]]
-- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
-- [[objektai/grupes/Krimo orda]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/asmenys/Martynas V]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/grupes/Moravai]]
-- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
-- [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
-- [[objektai/asmenys/Prokopas]]
-- [[objektai/asmenys/Rusdorfas]]
-- [[objektai/asmenys/Russdorfas]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
-- [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą]]
-- [[objektai/asmenys/Vaclovas (čekų kunigaikštis)]]
-- [[objektai/asmenys/Vaclovas Pragiečius]]
-- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
-- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
-- [[objektai/asmenys/Zbignevas iš Bžezės]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/asmenys/Zigmantas Kaributas]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/asmenys/Zindramas iš Maškovičių]]
-- [[objektai/zodynas/ekskomunika]]
-- [[objektai/zodynas/grašis]]
-- [[objektai/posakiai/in odium Sigismundi]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/zodynas/rublis]]
-- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/grupes/Čekų ir Silezijos savanoriai]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas Kaributaitis]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/asmenys/Hinka iš Valdšteino]]
+- c-006
+  santrauka: 'Kojelavičius teigia, kad kai paaiškėjo, kad imperatoriaus sprendimai nesiremia teisingumu, kad jo skelbiamos ištarmės pažeidžia net moralės nor mas, jie atsisakė jo tarpinin- 1420 m e ta i kavimo ir pasiryžo ginklu įrokilusių tikybinių nesutarimų čekai atsisakė klausyti Romos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jogaila
+    1419 m e ta i
+    ir Vytautas, įsitikinę, jog len­
+    kų reikalavimai teisėti, neat­
+    metė šitokios galimybės ginčui išspręsti. Kai paaiškėjo,
+    kad imperatoriaus sprendimai nesiremia teisingumu,
+    kad jo skelbiamos ištarmės pažeidžia net moralės nor­
+    mas, jie atsisakė jo tarpinin-
+    1420 m e ta i
+    kavimo ir pasiryžo ginklu įro-
+    kilusių tikybinių nesutarimų čekai atsisakė klausyti
+    Romos bažnyčios, pradėjo atvirai maištauti prieš savo
+    karalių ir, kaip jau esu sakęs, sugalvojo paieškoti kai­
+    myninėse šalyse jėgų, kuriomis galėtų remtis kovoje
+    prieš imperatoriaus galybę. Žinodami, kad pastarojo
+    Č ek a i siūlo karaliaus
+    v a in ik ą
+    Jog a ila i
+    ir
+    V y ta u tu i
+    šiaurėje bei rytuose ir paska­
+    tino kaimynus čekus, atsikra­
+    čius teisėto valdovo valdžios,
+    pasisiūlyti į valdinius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad tačiau čekai neišsižadėjo savo sumanymo, manydami, jog troškimas gauti karaliaus vainiką įveiks kiekvieną atkaklų užsispyrėlį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Panašų atsakymą gavo jie ir iš
+    Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
+    manydami, jog troškimas gauti karaliaus vainiką įveiks
+    kiekvieną atkaklų užsispyrėlį. Antrą kartą pasiuntę žy­
+    gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
+    dis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

@@ -84,4 +84,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Žydai]]

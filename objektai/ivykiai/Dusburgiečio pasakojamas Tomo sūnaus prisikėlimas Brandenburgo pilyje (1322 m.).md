@@ -75,5 +75,6 @@ Nenurodyta
 - [[objektai/asmenys/Gebhardas]]
 - [[objektai/asmenys/Gebhardas iš Manstfeldo]]
 - [[objektai/asmenys/Hertvigas]]
+- [[objektai/zodynas/atskala]]
 - [[objektai/asmenys/Hertvigas iš Pokarvių]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

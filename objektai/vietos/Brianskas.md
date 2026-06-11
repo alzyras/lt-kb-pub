@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Brianskas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1255 m.'
@@ -19,6 +20,7 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
+
 # Brianskas
 
 ## Santrauka
@@ -36,6 +38,11 @@ amziai:
   teiginys: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -67,3 +74,23 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

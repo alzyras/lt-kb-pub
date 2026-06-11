@@ -54,5 +54,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]

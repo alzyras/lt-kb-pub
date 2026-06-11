@@ -45,5 +45,6 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Parakas]]

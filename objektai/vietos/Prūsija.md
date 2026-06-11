@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Prūsija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -11,6 +12,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1231 m.'
+  - '1294 m.'
+  - '1419 m.'
   - '1629 m.'
   - '1806 m.'
 date_start: '1231'
@@ -428,6 +431,76 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginys: 'To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių.'
   pagrindžia:
     - c-062
+
+- t-081
+  teiginys: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  pagrindžia:
+    - c-064
+
+- t-082
+  teiginys: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  pagrindžia:
+    - c-065
+
+- t-083
+  teiginys: 'Kojelavičius teigia, kad į pagalbą buvo sutraukta galybė kariuomenės iš Vokietijos: puikiai ginkluotų karių, patyrusių kariauti vadų; rodėsi, jog nieko netrūksta Prūsijos ir Žemaitijos žemdirbiams išžudyti.'
+  pagrindžia:
+    - c-066
+
+- t-084
+  teiginys: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  pagrindžia:
+    - c-067
+
+- t-085
+  teiginys: 'Kojelavičius teigia, kad beveik tris mė nesius visą Prūsiją siaubė žudynės ir gaisrai.'
+  pagrindžia:
+    - c-068
+
+- t-086
+  teiginys: 'Kojelavičius teigia, kad sėkmingai užbaigti kovos nedavė Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu: užpuolęs su nepavargusia kariuomene sunkios apgulties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau gybė žuvo.'
+  pagrindžia:
+    - c-069
+
+- t-087
+  teiginys: 'Kojelavičius teigia, kad vos priešas pa sitraukė iš Lietuvos, Kęstutis slaptomis miškų praminomis pasileido įpėdin ir užpuolė Prūsiją.'
+  pagrindžia:
+    - c-070
+
+- t-088
+  teiginys: 'Kojelavičius teigia, kad tačiau kry žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk dantį bėgti.'
+  pagrindžia:
+    - c-071
+
+- t-089
+  teiginys: 'Kojelavičius teigia, kad nugalėtojai, išžudę ko vos lauke visus laikančius rankose ginklą, negalėdami gauti daugel kartų nuniokotuose kaimuose jokio gro bio, sugrįžo į Prūsiją.'
+  pagrindžia:
+    - c-072
+
+- t-090
+  teiginys: 'Kojelavičius teigia, kad šie papildė regulia riąją kariuomenę paraginę imtis ginklo Prūsijos vyrus, be to, pakvietė nemaža pa galbininkų iš kitur— iš Silezijos, Austrijos ir visos Vo kietijos; daug karių susiruošė į šlovės žygį iš Anglijos bei Prancūzijos.'
+  pagrindžia:
+    - c-073
+
+- t-091
+  teiginys: 'Kojelavičius teigia, kad norėdamas palengvinti nuniokotos tėvynės dalią, Jogaila įsakė pakrauti visokiais grūdais dvidešimt di delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa sienį, o iš ten pasieniu vežimais nugabenti viską į Lie tuvą.'
+  pagrindžia:
+    - c-074
+
+- t-092
+  teiginys: 'Kojelavičius teigia, kad karalius Jogaila, matydamas tokią kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
+  pagrindžia:
+    - c-075
+
+- t-093
+  teiginys: 'Kojelavičius teigia, kad sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek pailsėjo ir patraukė iš vakarų į rytus.'
+  pagrindžia:
+    - c-076
+
+- t-094
+  teiginys: 'Kojelavičius teigia, kad štai to dėl karalius, nusprendęs, jog nėra jokio reikalo malšinti nuolatos stiprėjančio sopu lio kad ir stipriomis, bet laikinomis priemonėmis, o rei kia ieškoti tokių vaistų, kurie visiems laikams išgydy tų negalę, sušaukė, susiruošęs traukti į Prūsiją.'
+  pagrindžia:
+    - c-077
 
 ## Reikšmingi paminėjimai
 
@@ -1669,3 +1742,355 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   statusas: verified
   pagrindžia:
     - t-080
+
+- c-064
+  santrauka: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-081
+
+- c-065
+  santrauka: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-082
+
+- c-066
+  santrauka: 'Kojelavičius teigia, kad į pagalbą buvo sutraukta galybė kariuomenės iš Vokietijos: puikiai ginkluotų karių, patyrusių kariauti vadų; rodėsi, jog nieko netrūksta Prūsijos ir Žemaitijos žemdirbiams išžudyti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Į pagalbą buvo sutraukta galybė
+    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
+    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
+    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
+    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
+    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
+    P rūsai
+    išsiža d a
+    k r i­
+    k ščio n ių
+    tik ė jim o  ir
+    a tsim e ta
+    n u o
+    k r y ­
+    žiu o čių
+    riuos beįmanė pagauti, žiau­
+    riai nukankino; jie nepaliko
+    neišniekinę nė vienos krikš­
+    čionių
+    šventenybės,
+    kurią
+    tik valiojo pasiekti jų stai­
+    gus įsiūtis. Todėl krikščio-
+    106
+
+    ## Puslapis 105
+
+    ko stovyklai vietą, iš kurios patogu bet kuria krypti­
+    mi puldinėti priešą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-083
+
+- c-067
+  santrauka: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
+    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
+    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
+    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
+    didžiulį grobį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-084
+
+- c-068
+  santrauka: 'Kojelavičius teigia, kad beveik tris mė nesius visą Prūsiją siaubė žudynės ir gaisrai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis
+    dėlto kryžiuočiai, padarę savo darbą, jau buvo sku­
+    biai pasitraukę, todėl Vytenis ėmė juos vytis grįžtan­
+    čius, tykoti priešo jo žemėje, o vėliau, niekur neuž­
+    tikęs nei pačios kariuomenės, nei stovyklos, bastytis
+    su pulkais po visą kraštą ir niokoti. Beveik tris mė­
+    nesius visą Prūsiją siaubė žudynės ir gaisrai. Tuo tar­
+    pu kryžiuočiai, nedrįsdami sueiti į atvirą kovą su ga­
+    lybe siautėjančių karių, laukė tinkamos progos, galop
+    jie užklupo lietuvius, kai šie, grįždami siaurais keliais,
+    susigrūdo, apsikrovę grobiu, į krūvą, ir beveik visus
+    išžudė, išsigelbėjo nedidelis
+    1294 m e ta i
+    būrelis, kurie su Vyteniu, pa-
+    K ry žiu o č ia i d a u g  k a i-
+    likę kitus karius, išsislapstė
+    tų p u o la  L ie tu vą
+    miškuose.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-085
+
+- c-069
+  santrauka: 'Kojelavičius teigia, kad sėkmingai užbaigti kovos nedavė Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu: užpuolęs su nepavargusia kariuomene sunkios apgulties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau gybė žuvo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sėkmingai užbaigti kovos nedavė
+    Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs­
+    tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu:
+    užpuolęs su nepavargusia kariuomene sunkios apgul-
+    ties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau­
+    gybė žuvo, daugybė nuskendo upėje, per kurią bėg­
+    dami turėjo keltis. Šiek tiek vėliau Vytenis, gal bijo­
+    damas, kad po jo pergalės pablogėjusi Livonijos ordino
+    padėtis, Prūsijos kryžiuočiams suteikus pagalbą ko­
+    voje prieš Rygą, nesustiprėtų, gal norėdamas gandais
+    apie vidaus sąmyšius atgrasinti Prūsijos kryžiuočius
+    nuo karo Livonijoje, o gai trokšdamas atsiteisti už pra­
+    laimėjimą, kurį patyrė prie Nojermiuieno sumušta jo
+    kariauna,
+    pasiuntė
+    keletą
+    P rū sija
+    n io k o ja m a
+    lengvosios raitijos būrių į
+    lie tu v ių
+    Prūsiją
+    pasiieškoti
+    grobio.
+    Šis žygis iš pradžių labai se­
+    kėsi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-086
+
+- c-070
+  santrauka: 'Kojelavičius teigia, kad vos priešas pa sitraukė iš Lietuvos, Kęstutis slaptomis miškų praminomis pasileido įpėdin ir užpuolė Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Įgulos vadas Goštautas,
+    nors pats pasidavęs priešams, žuvo nuo nugalėtojų
+    rankų, kai šie susiginčijo dėl belaisvio. Vos priešas pa­
+    sitraukė iš Lietuvos, Kęstutis slaptomis miškų prami-
+    nomis pasileido įpėdin ir užpuolė Prūsiją. Jis nunio­
+    kojo Jurgenburgo apylinkes, išsivarė daugybę belais-
+    248
+
+    ## Puslapis 247
+
+    K ę stu č io
+    ž y g ia i
+    d ė l
+    tė v y n ė s
+    vių ir išsigabeno visokiausio
+    grobio, nė vieno savo kario
+    nepraradęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-087
+
+- c-071
+  santrauka: 'Kojelavičius teigia, kad tačiau kry žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk dantį bėgti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš pradžių
+    užpuolęs ariergardinę vorą ir būrius, paliktus gurguo­
+    lių apsaugai, jis sumušė priešą ir atsiėmė grobį; po
+    to kuo skubiausiai patraukė su pergalę laimėjusiais
+    kariais prieš patį kariuomenės branduolį. Tačiau kry­
+    žiuočiai, sutrikę dėl ariergardo pralaimėjimo, skubiai
+    pasitraukė į Prūsiją išmetę pakelėse gausų grobį, truk­
+    dantį bėgti. Kurį laiką Kęstutis laikėsi ramiai, tačiau
+    žemėmis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-088
+
+- c-072
+  santrauka: 'Kojelavičius teigia, kad nugalėtojai, išžudę ko vos lauke visus laikančius rankose ginklą, negalėdami gauti daugel kartų nuniokotuose kaimuose jokio gro bio, sugrįžo į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Netekęs ka­
+    riuomenės, vargais negalais jis paspruko į Trakus, nors
+    vargstančiai tėvynei būtų daugiau pagelbėjęs, likdamas
+    kautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­
+    gą valdymą ir Lietuvos bėdas. Nugalėtojai, išžudę ko­
+    vos lauke visus laikančius rankose ginklą, negalėdami
+    gauti daugel kartų nuniokotuose kaimuose jokio gro­
+    bio, sugrįžo į Prūsiją. Ten
+    N io k o ja  Ž e m a itiją
+    leidęs šiek tiek kariuomenei
+    pailsėti, vėl įsiveržė į Žemai­
+    tiją, kur nuniokojo dvi apygardas, ligi šiol karo nepa­
+    liestas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-089
+
+- c-073
+  santrauka: 'Kojelavičius teigia, kad šie papildė regulia riąją kariuomenę paraginę imtis ginklo Prūsijos vyrus, be to, pakvietė nemaža pa galbininkų iš kitur— iš Silezijos, Austrijos ir visos Vo kietijos; daug karių susiruošė į šlovės žygį iš Anglijos bei Prancūzijos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šie papildė regulia­
+    riąją kariuomenę paraginę
+    imtis ginklo Prūsijos vyrus, be to, pakvietė nemaža pa­
+    galbininkų iš kitur— iš Silezijos, Austrijos ir visos Vo­
+    kietijos; daug karių susiruošė į šlovės žygį iš Anglijos
+    bei Prancūzijos. Mat teutonų riterių, arba kryžiuočių,
+    ordinas dėl nuolatinių karų tuo metu ten buvo laikomas
+    3 3 5
+
+    ## Puslapis 334
+
+    nelyginant kokia arena, kur galima pelnyti karo šlovę,
+    todėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,
+    bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
+    didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
+    čių į Prūsiją. Riterių magistras Konradas su savo bei
+    svetimšalių kariuomene pava-
+    Įsiv e ržia  į L ietu vą
+    sario pabaigoje patraukė į
+    Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-090
+
+- c-074
+  santrauka: 'Kojelavičius teigia, kad norėdamas palengvinti nuniokotos tėvynės dalią, Jogaila įsakė pakrauti visokiais grūdais dvidešimt di delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa sienį, o iš ten pasieniu vežimais nugabenti viską į Lie tuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lietuva juto baisią maisto sto­
+    ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
+    Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
+    delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­
+    sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­
+    tuvą. Užgrobę visus grūdus,
+    J ie  su daro k elia s pro-
+    gabenamus Vysla, kryžiuočiai
+    gas karu i
+    juos išsivežė kitur.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-091
+
+- c-075
+  santrauka: 'Kojelavičius teigia, kad karalius Jogaila, matydamas tokią kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai pasidavė Bobrovnikai
+    ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
+    ties užėmė Zlotoriją. Karalius Jogaila, matydamas tokią
+    kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti
+    į kovą su Prūsija. Mažosios Lenkijos bei Volynės ka­
+    riams paliepė rinktis į Volbožą, Didžiosios Lenkijos —
+    į Lenčicą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-092
+
+- c-076
+  santrauka: 'Kojelavičius teigia, kad sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek pailsėjo ir patraukė iš vakarų į rytus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat juodi debesys ap­
+    traukė dangų, pakilo nepaprasta audra, sugriaudėjo
+    perkūnas, ir žaibas nutrenkė du karaliaus kinkinio pa­
+    lydovus, keturis arklius iš šešių ir penktą ginklanešio
+    žirgą.
+    Sugrįžusi iš Prūsijos, lietuvių kariuomenė šiek tiek
+    pailsėjo ir patraukė iš vakarų į rytus. Užvolgio skitai,
+    netekę mirusio chano Saladi-
+    1419 m eta i
+    no, suskilo atskiromis grupė-
+    S k itų  ta u to m s V y ta u -
+    mis: vieni vieną, kiti kitą
+    tas p a s k y r ė  v a ld o v u s
+    mirusio valdovo sūnų siūlė
+    sosto įpėdiniu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-093
+
+- c-077
+  santrauka: 'Kojelavičius teigia, kad štai to dėl karalius, nusprendęs, jog nėra jokio reikalo malšinti nuolatos stiprėjančio sopu lio kad ir stipriomis, bet laikinomis priemonėmis, o rei kia ieškoti tokių vaistų, kurie visiems laikams išgydy tų negalę, sušaukė, susiruošęs traukti į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi skausmas dėl patirtos skriau­
+    dos, tai yra dėl atimtų žemių, tebuvo tik sušvelnėjus,
+    karaliaus akivaizdoje jie, tiesa, nerodė ypatingo įkar­
+    ščio, tačiau, jam išvykus, vėl
+    K araliui p a v y k s ta  n u-
+    ryžtingai rengdavosi karui ir
+    ram inti
+    griebdavosi ginklų. Štai to­
+    dėl karalius, nusprendęs, jog
+    nėra jokio reikalo malšinti nuolatos stiprėjančio sopu­
+    lio kad ir stipriomis, bet laikinomis priemonėmis, o rei­
+    kia ieškoti tokių vaistų, kurie visiems laikams išgydy­
+    tų negalę, sušaukė, susiruošęs traukti į Prūsiją, Vilniuje
+    lietuvių seimą.
+    Atvyko į jį prieš Velykas gausybė žmonių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-094

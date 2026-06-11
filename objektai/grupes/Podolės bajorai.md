@@ -53,7 +53,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Gregoras Kierdėjus]]

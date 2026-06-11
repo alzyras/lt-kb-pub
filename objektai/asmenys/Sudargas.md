@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Sudargas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1308 m.'
@@ -13,12 +14,14 @@ atnaujinta: ''
 tags:
   - asmuo
   - karas
+  - kronika
   - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
 ---
+
 # Sudargas
 
 ## Santrauka
@@ -36,6 +39,11 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   teiginys: 'Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad sis pralaimėjimas atnešė nelaimę ne tik kraštui, bet ir Sudargo šeimynai, nes netikėtai pasirodęs priešas paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -70,14 +78,24 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albrechtas]]
-- [[objektai/asmenys/Albrechtas iš Hageno]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
-- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
-- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad sis pralaimėjimas atnešė nelaimę ne tik kraštui, bet ir Sudargo šeimynai, nes netikėtai pasirodęs priešas paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai Chris-
+    1316 m e ta i
+    tmemelio įgula buvo įviliota
+    į pasalas ir sunaikinta, jie
+    nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
+    Sis pralaimėjimas atnešė nelaimę ne tik kraštui, bet
+    ir Sudargo šeimynai, nes netikėtai pasirodęs priešas
+    paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.
+    Pagrindinį karo smūgį magistras nukreipė prieš Ge­
+    dimino pilį; mat jis manė, jog, staiga pritraukęs jėgų,
+    galėsiąs lengvai palaužti negausių gynėjų atkaklų prie­
+    šinimąsi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

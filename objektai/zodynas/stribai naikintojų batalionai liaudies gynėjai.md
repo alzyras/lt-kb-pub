@@ -83,6 +83,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/grupes/Lietuviai]]

@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Vytenis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -28,6 +29,11 @@ periodo_grupes:
 ## Santrauka
 
 Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą. Vytenis pradėjo valdyti Lietuvą greičiausiai 1295 m., nes 1294 m. dar tebebuvo gyvas jo tėvas.
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/mūšis]]
 
 ## Teiginiai
 
@@ -140,6 +146,51 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
   pagrindžia:
     - c-011
+
+- t-030
+  teiginys: 'Kojelavičius teigia, kad staigiai ir be var go iškilęs į valdžios viršūnes, Vytenis turėjo pamato įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa ma padėtis negali nekurstyti pavydo, neteikti progos maištams, ypač dėl to, kad negalėjo stigti maištui nei kurstytojų, nei.'
+  pagrindžia:
+    - c-021
+
+- t-031
+  teiginys: 'Kojelavičius teigia, kad kai po šio smūgio Lietuva šiek tiek atsiga vo, Vytenis, surinkęs visose valdose lėšų, vieną ka riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo čius.'
+  pagrindžia:
+    - c-022
+
+- t-032
+  teiginys: 'Kojelavičius teigia, kad gavęs šią ži nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto mis kitam žygiui, kuo greičiausiai ten nuskubėjo.'
+  pagrindžia:
+    - c-023
+
+- t-033
+  teiginys: 'Kojelavičius teigia, kad vytenis nebežinąs, kad, kaip mena tėvai, didelė Rusios dalis buvusi užimta tada, kai rusų kunigaikščiai buvę įsileidę į vidaus nesantarvės ir nepajėgė pavieniui atsispirti priešui?'
+  pagrindžia:
+    - c-024
+
+- t-034
+  teiginys: 'Kojelavičius teigia, kad vieną pulką atidavė rygiečiams Nojermiulenui apsiaus ti ir aplinkiniams kaimams plėšti, Pagrindines jėgas Vytenis pats atvedė prie Karksio: po ryžtingos apsupties įsiveržė į sutvirtinimus, pa ėmė pilį, visi gynėjai buvo išžudyti, liko gyvi vos keturi.'
+  pagrindžia:
+    - c-025
+
+- t-035
+  teiginys: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  pagrindžia:
+    - c-026
+
+- t-036
+  teiginys: 'Kojelavičius teigia, kad vytenis subūrė nemažą p a tra u k ia į L en k iją kariuomenę ir, netrukdomas mozūrų, o gal šiems nieko nežinant (šitai rodosi panašu į tiesą), nes kariuomenė buvo vedama slaptais ir be- 1306 m e ta i veik nepraeinamais keliais per Mazovijos miškus, įsiveržė į Didžiosios Lenkijos žemes.'
+  pagrindžia:
+    - c-027
+
+- t-037
+  teiginys: 'Kojelavičius teigia, kad pats Vytenis, sun kiai į galvą sužeistas, palikęs stovyklą ir kariuomenę, vargais negalais, dviejų karių lydimas, paspruko nuo priešo ir išvengė tykančių pavojų.'
+  pagrindžia:
+    - c-028
+
+- t-038
+  teiginys: 'Kojelavičius teigia, kad vytenis taip pat nedrįso stoti į atvirą kovą; kad priešas nebaudžiamas nesiautėtų krašte, jis, kitais keliais pasukęs į Prūsij ą, pats iš keršto panašiai nu siaubė kryžiuočių žemes.'
+  pagrindžia:
+    - c-029
 
 ## Reikšmingi paminėjimai
 
@@ -547,49 +598,224 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   pagrindžia:
     - t-010
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Butvydas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Traidenis]]
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vergai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/asmenys/Butigeidis]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Henrikas Cutsvertas]]
-- [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
-- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
-- [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]
-- [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]
-- [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
-- [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia]]
-- [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/posakiai/mano priešo priešas yra mano draugas]]
-- [[objektai/zodynas/popiežiaus legatas]]
-- [[objektai/zodynas/tautiška politika]]
-- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
-- [[objektai/posakiai/„mano priešo priešas yra mano draugas“]]
-- [[objektai/autoriai/Karamzinas]]
-- [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lenčicos žudynės]]
+- c-021
+  santrauka: 'Kojelavičius teigia, kad staigiai ir be var go iškilęs į valdžios viršūnes, Vytenis turėjo pamato įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa ma padėtis negali nekurstyti pavydo, neteikti progos maištams, ypač dėl to, kad negalėjo stigti maištui nei kurstytojų, nei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Staigiai ir be var­
+    go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
+    įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­
+    ma padėtis negali nekurstyti pavydo, neteikti progos
+    maištams, ypač dėl to, kad negalėjo stigti maištui nei
+    kurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė
+    vado būsimam vidaus karui, kol, jam valdant, Trai-
+    verstas pradėti karą dėl visai kitų priežasčių, ypač pa­
+    brėždamas tą žinomiausią: būsią keršijama lenkams už
+    patirtą praėjusiais metais Jotvingijoje pralaimėjimą.
+    Sutelkęs didesnę nei paprastai kariuomenę, jis patrau­
+    kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo
+    apygardas, nuvedė kariuomenę į Sandomiro žemę. Len­
+    kams pasitraukus į miestus ir neleidus savo turtą nio­
+    koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­
+    šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­
+    nius kaimus ir dvarus, išžudęs galybę silpnų senių bei
+    vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
+    nių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-030
+
+- c-022
+  santrauka: 'Kojelavičius teigia, kad kai po šio smūgio Lietuva šiek tiek atsiga vo, Vytenis, surinkęs visose valdose lėšų, vieną ka riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo čius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šitaip viena pra­
+    gaištinga puota privertė gedėti dėl artimųjų mirties
+    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
+    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
+    turtingiausieji, kaip tada buvo įprasta, susivežė ten
+    kartu su žmonomis ir vaikais visus lobius, norėdami
+    pasigirti. Kai po šio smūgio Lietuva šiek tiek atsiga­
+    vo, Vytenis, surinkęs visose valdose lėšų, vieną ka­
+    riuomenę nukreipė į Dobrynę, o kitą — prieš kryžiuo­
+    čius. Ir vienas, ir kitas žygis, kaip ir tikėtasi, pasisekė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-031
+
+- c-023
+  santrauka: 'Kojelavičius teigia, kad gavęs šią ži nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto mis kitam žygiui, kuo greičiausiai ten nuskubėjo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gavęs šią ži­
+    nią, Vytenis su didžiulėmis jėgomis, neseniai sutelkto­
+    mis kitam žygiui, kuo greičiausiai ten nuskubėjo. Vis
+    dėlto kryžiuočiai, padarę savo darbą, jau buvo sku­
+    biai pasitraukę, todėl Vytenis ėmė juos vytis grįžtan­
+    čius, tykoti priešo jo žemėje, o vėliau, niekur neuž­
+    tikęs nei pačios kariuomenės, nei stovyklos, bastytis
+    su pulkais po visą kraštą ir niokoti. Beveik tris mė­
+    nesius visą Prūsiją siaubė žudynės ir gaisrai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-032
+
+- c-024
+  santrauka: 'Kojelavičius teigia, kad vytenis nebežinąs, kad, kaip mena tėvai, didelė Rusios dalis buvusi užimta tada, kai rusų kunigaikščiai buvę įsileidę į vidaus nesantarvės ir nepajėgė pavieniui atsispirti priešui?'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Argi jis nebežinąs, kad, kaip mena
+    tėvai, didelė Rusios dalis buvusi užimta tada, kai ru­
+    sų kunigaikščiai buvę įsileidę į vidaus nesantarvės ir
+    nepajėgė pavieniui atsispirti priešui? Vis dėlto atsar­
+    gus valdovas, gerai žinodamas, jog priešų nesantaika
+    jam labai patogi, aiškiai matė, jog šiuo metu nesantar­
+    vė jam bus naudingesnė taikiai gyvenant, negu kariau­
+    jant. Mat vos atsiradusi nesantarvė bet kurioje vals­
+    tybėje lengvai pagydoma nelyginant nesena kūno žaiz­
+    da, o įsisenėjusi — sėtrija ir gilėja.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-033
+
+- c-025
+  santrauka: 'Kojelavičius teigia, kad vieną pulką atidavė rygiečiams Nojermiulenui apsiaus ti ir aplinkiniams kaimams plėšti, Pagrindines jėgas Vytenis pats atvedė prie Karksio: po ryžtingos apsupties įsiveržė į sutvirtinimus, pa ėmė pilį, visi gynėjai buvo išžudyti, liko gyvi vos keturi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip tikėjosi, taip ir įvyko kitais me-
+    176
+
+    ## Puslapis 175
+
+    1298 m e ta i
+    L ie tu v ia i
+    k v ie č ia m i
+    ry g ie č ių  į k o v ą  prieš
+    k ry žiu o č iu s;
+    jų
+    ž y ­
+    g ia i L iv o n ijo je
+    tais: pažadėjus gerą atlygini­
+    mą, jis sutelkė deramą ka­
+    riuomenę, kurią galėjo pri­
+    reikus padalyti į dvi dalis.
+    Vieną pulką atidavė rygie-
+    čiams Nojermiulenui apsiaus­
+    ti ir aplinkiniams kaimams
+    plėšti, Pagrindines jėgas Vytenis pats atvedė prie Kark-
+    sio: po ryžtingos apsupties įsiveržė į sutvirtinimus, pa­
+    ėmė pilį, visi gynėjai buvo išžudyti, liko gyvi vos
+    keturi riteriai, komtūro sauga ir šiek tiek vertingesnių
+    belaisvių. Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-034
+
+- c-026
+  santrauka: 'Kojelavičius teigia, kad kitais metais, kai Vytenis abu luomus sukvietė į pasi- 1305 m e ta i tarimą, Sembos vyskupystės V y te n is p e rse k io ja fogtas Pilypas fon Bolandas, k ry žiu o č iu s g ro b ik u s pasinaudojęs progą, kad bu vo išvykę kunigaikščiai ir bajorai, nusiaubė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kitais metais, kai Vytenis
+    abu luomus sukvietė į pasi-
+    1305 m e ta i
+    tarimą, Sembos vyskupystės
+    V y te n is
+    p e rse k io ja
+    fogtas Pilypas fon Bolandas,
+    k ry žiu o č iu s g ro b ik u s
+    pasinaudojęs progą, kad bu­
+    vo išvykę kunigaikščiai ir
+    bajorai, nusiaubė pasienio kaimiečius. Kai valdovui
+    pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
+    mus, jis greitosiomis su tūkstančiu penkiais šimtais
+    raitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-035
+
+- c-027
+  santrauka: 'Kojelavičius teigia, kad vytenis subūrė nemažą p a tra u k ia į L en k iją kariuomenę ir, netrukdomas mozūrų, o gal šiems nieko nežinant (šitai rodosi panašu į tiesą), nes kariuomenė buvo vedama slaptais ir be- 1306 m e ta i veik nepraeinamais keliais per Mazovijos miškus, įsiveržė į Didžiosios Lenkijos žemes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Valdovas, sugrįžęs iš Prūsijos, gavo ži­
+    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
+    giuoti. Sutelkęs karius prie
+    S u g rįžęs iš P rū sijos,
+    Gardino, jis subūrė nemažą
+    p a tra u k ia  į L en k iją
+    kariuomenę ir, netrukdomas
+    mozūrų, o gal šiems nieko
+    nežinant (šitai rodosi panašu į tiesą), nes kariuomenė
+    buvo vedama slaptais ir be-
+    1306 m e ta i
+    veik nepraeinamais keliais
+    per Mazovijos miškus, įsi­
+    veržė į Didžiosios Lenkijos žemes. Staigiu antpuoliu
+    užėmė Kališo ir Stavišino miestus; gyventojai būtų nė
+    nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs
+    183
+
+    ## Puslapis 182
+
+    siautėti miestuose degindamas ir žudydamas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-036
+
+- c-028
+  santrauka: 'Kojelavičius teigia, kad pats Vytenis, sun kiai į galvą sužeistas, palikęs stovyklą ir kariuomenę, vargais negalais, dviejų karių lydimas, paspruko nuo priešo ir išvengė tykančių pavojų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sumišai bėgančius kryžiuočiai
+    skerste skerdė, kas po skerdynių liko gyvas, tas arba
+    prigėrė, arba badu miškuose išmirė. Pats Vytenis, sun­
+    kiai į galvą sužeistas, palikęs stovyklą ir kariuomenę,
+    vargais negalais, dviejų karių lydimas, paspruko nuo
+    priešo ir išvengė tykančių pavojų. Po to kryžiuočiai
+    dar įnirtingiau niokojo antpuoliais Lietuvą ir Žemaitiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-037
+
+- c-029
+  santrauka: 'Kojelavičius teigia, kad vytenis taip pat nedrįso stoti į atvirą kovą; kad priešas nebaudžiamas nesiautėtų krašte, jis, kitais keliais pasukęs į Prūsij ą, pats iš keršto panašiai nu siaubė kryžiuočių žemes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vytenis taip pat nedrįso stoti į atvirą kovą;
+    kad priešas nebaudžiamas nesiautėtų krašte, jis, kitais
+    keliais pasukęs į Prūsij ą, pats iš keršto panašiai nu­
+    siaubė kryžiuočių žemes. Sugrįžęs iš šio žygio, netrukus
+    ir mirė, valdęs dvidešimt dvejus metus, nukamuotas
+    metų naštos, karo rūpesčių ir visokiausių nesėkmių.
+    Pragaištingi lietuviams buvo šie metai: mirė valdovas,
+    be to, badas ir maras sunkia našta užgulė žmones.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-038

@@ -279,6 +279,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

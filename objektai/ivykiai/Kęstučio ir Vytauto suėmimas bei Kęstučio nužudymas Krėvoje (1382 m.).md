@@ -141,5 +141,6 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Hanulaitis]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/budeliai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Skirgaila]]

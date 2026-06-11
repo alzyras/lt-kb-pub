@@ -121,6 +121,7 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
 - [[objektai/asmenys/Antanas Buračas]]

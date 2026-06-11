@@ -96,5 +96,6 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/ekskomunikuoti]]
+- [[objektai/zodynas/erezija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]

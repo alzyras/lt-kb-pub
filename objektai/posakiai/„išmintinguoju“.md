@@ -40,5 +40,5 @@ Net savo priešų Mindaugas buvo vadinamas išmintinguoju.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/diplomatija]]

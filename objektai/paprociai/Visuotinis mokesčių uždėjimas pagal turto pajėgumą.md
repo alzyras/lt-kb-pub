@@ -76,3 +76,4 @@ Nenurodyta
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vilhelmas]]
+- [[objektai/zodynas/prastuomenė]]

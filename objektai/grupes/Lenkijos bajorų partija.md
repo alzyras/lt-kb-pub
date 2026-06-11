@@ -74,3 +74,4 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Prancūziškoji partija]]
+- [[objektai/zodynas/seimas]]

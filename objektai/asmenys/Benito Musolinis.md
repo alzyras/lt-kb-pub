@@ -45,5 +45,6 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„seimokratija“]]

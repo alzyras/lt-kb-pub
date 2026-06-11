@@ -496,7 +496,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 - [[objektai/grupes/Miestelėnų luomas]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Kiška]]
 - [[objektai/autoriai/Kotzebue]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

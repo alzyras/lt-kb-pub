@@ -132,5 +132,6 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Steponas Batoras]]

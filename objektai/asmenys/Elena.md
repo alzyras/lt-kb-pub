@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Elena'
+pavadinimas: 'Elena (vyskupas, XV–XVI a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1494 m.'
@@ -18,7 +19,8 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Elena
+
+# Elena (vyskupas, XV–XVI a.)
 
 ## Santrauka
 
@@ -46,6 +48,29 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 
 - karalienė
 - didžioji kunigaikštienė
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/karalienė]]
+
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/daiktai/Aleksandro lektika]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/metrika]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał]]
+- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
 
 ## Teiginiai
 
@@ -128,6 +153,11 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   teiginys: 'Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   pagrindžia:
     - c-007
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad kol karalius bei didikai E lena m ėg in a p a b ė g ti į M a sk v o s k u n i g a ik š ty s tę tvarkė seime valstybės rei kalus, karalienė Elena, seno kai puoselėjusi mintį pabėgti į Maskvos kunigaikštystę, pamėgino, didikams išvykus, įgyvendinti šį sumanymą.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -480,50 +510,36 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     - t-010
     - t-007
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalienė]]
+- c-014
+  santrauka: 'Kojelavičius teigia, kad kol karalius bei didikai E lena m ėg in a p a b ė g ti į M a sk v o s k u n i g a ik š ty s tę tvarkė seime valstybės rei kalus, karalienė Elena, seno kai puoselėjusi mintį pabėgti į Maskvos kunigaikštystę, pamėgino, didikams išvykus, įgyvendinti šį sumanymą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mengli Girėjus, gavęs pinigų, paliovė, tiesa, niokojęs
+    Rusią, nenorėdamas laužyti visai neseniai sudaryto su­
+    sitarimo, tačiau, porą kartų nusiaubęs Valachiją, Len­
+    kijos karalystės priklausomybėje esančią žemę, aiškiai
+    parodė, kokios taikos galima tikėtis iš žmonių, įpratu­
+    sių gyventi iš plėšikavimo. Kol karalius bei didikai
+    616
 
-### Susiję objektai
-- [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/posakiai/Kto w Wilnie nie bywał, tot czudes nie widał]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/metrika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/grupes/Maskvos pasiuntiniai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusų pirkliai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/kustodas]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]
-- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
-- [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]
-- [[objektai/grupes/Krymo orda]]
-- [[objektai/asmenys/Mendli Girėjus]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Nogajaus orda]]
-- [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
-- [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
-- [[objektai/posakiai/Vendimus abscedimus, et resignamus]]
-- [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
-- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
-- [[objektai/zodynas/svečiai Svečių namai]]
-- [[objektai/zodynas/tenuta laikytojas]]
-- [[objektai/asmenys/Šach Achmedas]]
-- [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]
-- [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]
+    ## Puslapis 615
+
+    E lena m ėg in a  p a b ė g ­
+    ti į M a sk v o s
+    k u n i­
+    g a ik š ty s tę
+    tvarkė seime valstybės rei­
+    kalus, karalienė Elena, seno­
+    kai puoselėjusi mintį pabėgti
+    į
+    Maskvos
+    kunigaikštystę,
+    pamėgino, didikams išvykus,
+    įgyvendinti šį sumanymą. Netoli Maskvos kunigaikš­
+    tystės sienos ji valdė iš valstybės asmeninėms išlai­
+    doms gautą Breslaujos apskritį su dideliais dvarais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

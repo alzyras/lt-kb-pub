@@ -95,4 +95,5 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Herbas]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/zodynas/vaitas]]

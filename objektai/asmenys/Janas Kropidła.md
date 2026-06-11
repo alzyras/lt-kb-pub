@@ -57,7 +57,7 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/asmenys/Kerimberdėjus]]
 - [[objektai/asmenys/Petras (Vilniaus vyskupas)]]
 - [[objektai/asmenys/Saladinas]]

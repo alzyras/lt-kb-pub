@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Petras Goštautas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1333 m.'
@@ -17,6 +18,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Petras Goštautas
 
 ## Santrauka
@@ -49,6 +51,23 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - didikas
 - vaivada
 - valdovo vietininkas
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Goštautas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 
 ## Teiginiai
 
@@ -116,6 +135,26 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginys: 'Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną.'
   pagrindžia:
     - c-002
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad surminas grįžo pas valdovą nugalė toju, visiems nešdamas džiaugsmą, o pats slėpdamas širdyje liūdesį, nes šioje pergalingoje kovoje jis ne teko savo brolio Goštauto drauge su kitais narsiais kariais.'
+  pagrindžia:
+    - c-007
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad šventus nužudytųjų kūnus Goštautas įsakė surasti ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris taus žodį.'
+  pagrindžia:
+    - c-008
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad petras Goštautas leidosi iš Podolės pas Vengrijos karalių pagalbos, išsiveždamas visus pinigus ir auksą) ir neskubėjo grįžti su kariuomene, Algirdas užėmė reikšmingas Braclavo, Smotričiaus, Sokoleco, Skalos, Kameneco, Červonogrado pilis, vienur stodamas į atvirą kovą, kitur greitumu palauždamas gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė jos seniūnu Goštautą.'
+  pagrindžia:
+    - c-009
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad įgulos vadas Goštautas, nors pats pasidavęs priešams, žuvo nuo nugalėtojų rankų, kai šie susiginčijo dėl belaisvio.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -304,22 +343,101 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-008
     - t-007
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/regula]]
-- [[objektai/daiktai/Goštauto liepa]]
-- [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
-- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
-- [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad surminas grįžo pas valdovą nugalė toju, visiems nešdamas džiaugsmą, o pats slėpdamas širdyje liūdesį, nes šioje pergalingoje kovoje jis ne teko savo brolio Goštauto drauge su kitais narsiais kariais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Smarkiausia ir sunkiausia kova vyko prie to di­
+    džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
+    191
+
+    ## Puslapis 190
+
+    jis, nukirtus inkarų virves, buvo srovės užneštas ant
+    seklumos, kur vos nesudužo, čia jį galop lietuviai už­
+    ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
+    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
+    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
+    teko savo brolio Goštauto drauge su kitais narsiais
+    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
+    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
+    dininkų valsčių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad šventus nužudytųjų kūnus Goštautas įsakė surasti ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris taus žodį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vienas būrelis iš sep­
+    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
+    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
+    tuo būdu pašventindami savo krauju lietuvių žemes
+    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
+    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
+    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
+    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
+    nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
+    ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
+    taus žodį. Sugrįžęs iš Maskvos žygio, Algirdas, gal
+    paskatintas nepaprastai žiauraus nusikaltimo, gal dėl
+    to, kad dabar palankiau nei
+    V iln ie č ia i n u bau džia-
+    anksčiau žiūrėjo į krikščio-
+    m i už k rik šč io n y b ė s
+    nis, o gal Goštauto sukursty-
+    sk e lb ė jų  n u žu d ym ą
+    tas, įsakė ištardyti bruzdėji­
+    mo vadovus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad petras Goštautas leidosi iš Podolės pas Vengrijos karalių pagalbos, išsiveždamas visus pinigus ir auksą) ir neskubėjo grįžti su kariuomene, Algirdas užėmė reikšmingas Braclavo, Smotričiaus, Sokoleco, Skalos, Kameneco, Červonogrado pilis, vienur stodamas į atvirą kovą, kitur greitumu palauždamas gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė jos seniūnu Goštautą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karą prieš maištininką pradėjo pats Algir­
+    das. Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
+    se stiprias valachų įgulas, jis leidosi iš Podolės pas
+    Vengrijos karalių pagalbos, išsiveždamas visus pini­
+    gus ir auksą) ir neskubėjo grįžti su kariuomene, Al­
+    girdas užėmė reikšmingas Braclavo, Smotričiaus, So-
+    koleco, Skalos, Kameneco, Červonogrado pilis, vienur
+    stodamas į atvirą kovą, kitur greitumu palauždamas
+    gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė
+    jos seniūnu Goštautą. Visas valachų įgulas jis sumušė,
+    o Nestaną, valdžiusį Teodoro vardu Podolę, paėmė Ka-
+    menece į nelaisvę ir išsiuntė į Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad įgulos vadas Goštautas, nors pats pasidavęs priešams, žuvo nuo nugalėtojų rankų, kai šie susiginčijo dėl belaisvio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš pradžių Ragainės komtūras išsklaidė dar­
+    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
+    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
+    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
+    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
+    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
+    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
+    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
+    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
+    pilį, daug gynėjų žuvo ugnyje. Įgulos vadas Goštautas,
+    nors pats pasidavęs priešams, žuvo nuo nugalėtojų
+    rankų, kai šie susiginčijo dėl belaisvio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

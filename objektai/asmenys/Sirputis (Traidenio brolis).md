@@ -88,4 +88,4 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

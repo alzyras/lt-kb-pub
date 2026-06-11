@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Bodzanta'
+pavadinimas: 'Bodzanta (arkivyskupas, XIV a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -18,11 +19,17 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Bodzanta
+
+# Bodzanta (arkivyskupas, XIV a.)
 
 ## Santrauka
 
 Bodzanta Vladislovo vardu.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 
 ## Teiginiai
 
@@ -40,6 +47,11 @@ Bodzanta Vladislovo vardu.
   teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad valentinui, Gnezno arkivyskupo Bodzantos apkrikštytas, gavo Vladislo vo vardą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -79,18 +91,35 @@ Bodzanta Vladislovo vardu.
     - t-003
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Rykai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad valentinui, Gnezno arkivyskupo Bodzantos apkrikštytas, gavo Vladislo vo vardą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to vasario 16 dieną, kuri
+    paskirta šv. Valentinui, Gnez-
+    no
+    arkivyskupo
+    Bodzantos
+    apkrikštytas, gavo Vladislo­
+    vo vardą. Pakeitė kartu su
+    tikėjimu vardus ir kiti kunigaikščiai, kurie dar nebuvo
+    priėmę krikščionybės: Vygandas su Vytautu tapo Alek­
+    sandrais, Skirgaila ir Karigaila — Kazimierais, Švitri-
+    1386 m eta i
+    Jo g a ila
+    a tv y k s ta
+    į
+    K ro k u v ą , jis a p k rik š-
+    ti jam as,
+    v a in ik u o  ja-
+    m a s
+    282
+
+    ## Puslapis 281
+
+    gaila — Boleslovu, Daujotas — Jurgiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

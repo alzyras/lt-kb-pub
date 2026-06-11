@@ -70,6 +70,7 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/etmonas]]

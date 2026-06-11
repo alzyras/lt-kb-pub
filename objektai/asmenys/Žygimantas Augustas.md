@@ -1,14 +1,15 @@
 ---
 tipas: asmuo
-pavadinimas: 'Žygimantas Augustas'
+pavadinimas: 'Žygimantas Augustas (arkivyskupas, XVI a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
-  - '1546 m.'
+  - '1543 m.'
   - '1572 m.'
-date_start: '1546'
+date_start: '1543'
 date_end: '1572'
 sukurta: ''
 atnaujinta: ''
@@ -20,7 +21,8 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Žygimantas Augustas
+
+# Žygimantas Augustas (arkivyskupas, XVI a.)
 
 ## Santrauka
 
@@ -92,6 +94,26 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   teiginys: 'Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
   pagrindžia:
     - c-013
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad 1543 m e ta i Ž y g im a n ta s A u g u s ta s v e d a a u strų k u n ig a ik š ty tę E lžb ietą Sugrįžęs į Lenkiją, kara lius suskato apvesdinti sūnų Augustą.'
+  pagrindžia:
+    - c-014
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad sužinojęs apie šį sambrūzdį, karalius Augustas, suskatęs ginti arkivyskupą, išsiuntė pas magistrą vie ną kilmingą bajorą.'
+  pagrindžia:
+    - c-015
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad jų atsimetimą nuo prosenelių tikėjimo karalius Augustas slėpė net ir Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.'
+  pagrindžia:
+    - c-016
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad šis veiksmas didžiai įžeidė Romos popiežių, kuris, Augustui tuokiantis su Kotryna, leido jam ne paisyti įstatymų, draudžiančių K a ra liu s A u g u sta s išpo žmonos mirties vesti jos sisk iria su žm o n a seserį.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 
@@ -346,49 +368,102 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
   pagrindžia:
     - t-013
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- [[objektai/grupes/Lietuvos ponų taryba]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/zodynas/Magdeburgo teisė]]
-- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
-- [[objektai/paprociai/Privalomas lietuviškos monetos priėmimas ir baudų išieškojimas]]
-- [[objektai/grupes/Radvilų giminė]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/paprociai/Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/grupes/Vilniaus pirkliai]]
-- [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
-- [[objektai/zodynas/muitas thelonea]]
-- [[objektai/zodynas/sufraganas kleras arkipresbiteris]]
-- [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
-- [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/grupes/Vilniaus akademijos kolegija]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
-- [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
-- [[objektai/zodynas/mansionieriai]]
-- [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
-- [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]
-- [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
-- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
-- [[objektai/asmenys/Kotryna Jogailaitė]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
-- [[objektai/zodynas/supirkinėtojai ir padienininkai]]
-- [[objektai/daiktai/Šakutė]]
+- c-014
+  santrauka: 'Kojelavičius teigia, kad 1543 m e ta i Ž y g im a n ta s A u g u s ta s v e d a a u strų k u n ig a ik š ty tę E lžb ietą Sugrįžęs į Lenkiją, kara lius suskato apvesdinti sūnų Augustą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a  a u strų  k u ­
+    n ig a ik š ty tę  E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad sužinojęs apie šį sambrūzdį, karalius Augustas, suskatęs ginti arkivyskupą, išsiuntė pas magistrą vie ną kilmingą bajorą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kapituliacijos sąlygos nebuvo sun­
+    kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei
+    Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša­
+    lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­
+    jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
+    ryti. Sužinojęs apie šį sambrūzdį, karalius Augustas,
+    suskatęs ginti arkivyskupą, išsiuntė pas magistrą vie­
+    ną kilmingą bajorą. Tuo tarpu naujo tikėjimo šalinin­
+    kai taip jau nebesiskaitė su įstatymais, kad suėmė ke­
+    liaujantį pasiuntinį ir nužudė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-016
+  santrauka: 'Kojelavičius teigia, kad jų atsimetimą nuo prosenelių tikėjimo karalius Augustas slėpė net ir Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neteisėtu būdu įsigiję žemių ir dvarų, jie pa­
+    sirūpino sutvarkyti šį reikalą, bijodami, kad jų bend­
+    rininkai Kunheimas ir Štrubicas, nepatekę į šventojo
+    R y g o s k a te d ro s k o le ­
+    g ija  a tsisa k o  k a ta lik ų
+    tik ė jim o
+    738
+
+    ## Puslapis 737
+
+    turto dalybas, nepradėtų ginčo ir neatimtų to, ką už­
+    grobė asmeniško godumo skatinami. Jų atsimetimą nuo
+    prosenelių tikėjimo karalius Augustas slėpė net ir
+    Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso­
+    kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.
+    Žmonės dar labiau patikėjo šiais gandais, kai jis ga­
+    lop ryžosi įvykdyti prieš kelerius metus sugalvotą su­
+    manymą ir atvirai išsiskyrė su austrų kunigaikštyte
+    Kotryna.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-017
+  santrauka: 'Kojelavičius teigia, kad šis veiksmas didžiai įžeidė Romos popiežių, kuris, Augustui tuokiantis su Kotryna, leido jam ne paisyti įstatymų, draudžiančių K a ra liu s A u g u sta s išpo žmonos mirties vesti jos sisk iria su žm o n a seserį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šis veiksmas didžiai įžeidė Romos popiežių,
+    kuris, Augustui tuokiantis su Kotryna, leido jam ne­
+    paisyti įstatymų, draudžiančių
+    K a ra liu s A u g u sta s iš-
+    po žmonos mirties vesti jos
+    sisk iria  su  žm o n a
+    seserį. Karalius teisinosi, jog
+    jam geriau mirti, nei su Kot­
+    ryna gyventi, nes dangus, bausdamas jį už nedorovin­
+    gas jungtuves, pasiuntęs ir jo šeimai, ir valstybei ne­
+    gandų ir neramumų. Aiškiai šitokius ir kitokius daly­
+    kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,
+    tuo tarpu žmonėse sklido kalbos, jog šitos apgau­
+    lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
+    lė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

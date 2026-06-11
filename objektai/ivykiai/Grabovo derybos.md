@@ -83,7 +83,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/zodynas/seniūnas]]

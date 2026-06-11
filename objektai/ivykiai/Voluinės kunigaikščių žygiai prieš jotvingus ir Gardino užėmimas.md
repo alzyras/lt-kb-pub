@@ -87,7 +87,7 @@ Nenurodyta
 - [[objektai/grupes/Jotvingai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikščiai]]

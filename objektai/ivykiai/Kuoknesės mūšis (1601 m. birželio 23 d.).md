@@ -127,16 +127,18 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Švedijos kariuomenė]]
 - [[objektai/autoriai/Karolis Zikaras]]

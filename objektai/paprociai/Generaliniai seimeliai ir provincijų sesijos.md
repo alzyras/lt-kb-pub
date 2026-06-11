@@ -82,4 +82,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/generaliniai seimeliai]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Provincijų sesijos]]

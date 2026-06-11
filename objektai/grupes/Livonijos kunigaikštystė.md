@@ -88,7 +88,7 @@ amziai:
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]

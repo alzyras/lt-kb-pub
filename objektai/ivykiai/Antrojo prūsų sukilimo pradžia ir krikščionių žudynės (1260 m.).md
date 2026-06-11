@@ -103,6 +103,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Pagudėnai]]

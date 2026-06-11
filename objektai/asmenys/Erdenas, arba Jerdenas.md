@@ -59,5 +59,5 @@ Tasai Dovilas ar Dovydas turėjo būti pir­ masis Vilniaus kunigaikštis, Vido,
 - [[objektai/asmenys/Dovydas]]
 - [[objektai/asmenys/Maukoldas]]
 - [[objektai/asmenys/Dovilas, arba Dovydas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vidas, pramintas Vilku]]

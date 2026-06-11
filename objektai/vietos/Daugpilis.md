@@ -2,11 +2,13 @@
 tipas: vieta
 pavadinimas: 'Daugpilis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1396 m.'
   - '1920 m.'
   - '2026 m.'
-date_start: '1920'
+date_start: '1396'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -15,9 +17,10 @@ tags:
   - paliaubos
   - vieta
 amziai:
-  - 'XX'
+  - 'XIV'
   - 'XXI'
 ---
+
 # Daugpilis
 
 ## Santrauka
@@ -45,6 +48,11 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
   pagrindžia:
     - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -118,3 +126,32 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vytautas, ligi šiol laikęs savo kariuomenę
+    Rusioje žiemos stovykloje, negalėjo su keliais būriais,
+    jį palydėjusiais į Lietuvą, im-
+    1396 m e ta i
+    tis jokių veiksmingesnių žy­
+    gių: nei niokojančių atremti,
+    nei traukiančių namo vytis. Norėdamas vis dėlto atsi­
+    lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
+    telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,
+    užėmė
+    Daugpilį
+    Dauguvos
+    V y ta u ta s  n io k o ja  Li-
+    pakrantėje. Esu tikras, jog
+    v o n iją
+    Vytautas turėjo tam tikrą
+    tikslą, siųsdamas Į Livoniją
+    savo kariuomenę, mat iš žvalgų jis sužinojo, kad Švitri­
+    gaila perėjęs iš Prūsijos į Livoniją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

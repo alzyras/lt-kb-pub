@@ -59,4 +59,5 @@ Kosakovskis.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/etmonas]]

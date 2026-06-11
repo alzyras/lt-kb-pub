@@ -52,6 +52,7 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Arabai]]
+- [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
 - [[objektai/asmenys/Jagurčinas]]
 - [[objektai/asmenys/Jonas Chodkevičius]]

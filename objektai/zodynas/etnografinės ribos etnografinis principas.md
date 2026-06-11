@@ -198,6 +198,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„Lithuania Propria“]]

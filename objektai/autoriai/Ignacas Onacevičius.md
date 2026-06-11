@@ -210,6 +210,7 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]

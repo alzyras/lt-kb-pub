@@ -102,4 +102,5 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]

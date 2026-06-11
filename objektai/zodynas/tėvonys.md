@@ -39,5 +39,6 @@ Podolės žemės tėvonys bei paveldėtojai“.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
 - [[objektai/zodynas/atamanas]]

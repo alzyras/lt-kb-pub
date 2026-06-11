@@ -84,13 +84,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/asmenys/Pranciškus]]
 - [[objektai/autoriai/Pranciškus Skorina]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/reformacija]]

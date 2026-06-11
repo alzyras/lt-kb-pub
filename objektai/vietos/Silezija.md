@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Silezija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -20,6 +21,7 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
+
 # Silezija
 
 ## Santrauka
@@ -77,6 +79,11 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginys: 'Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.'
   pagrindžia:
     - c-001
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad brolis neatsisakė, ir jie susitarė šito kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be neficiją Sileziją.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -237,3 +244,22 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   statusas: verified
   pagrindžia:
     - t-005
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad brolis neatsisakė, ir jie susitarė šito kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be neficiją Sileziją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tačiau Vladislovas tuojau pat po
+    pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
+    tarvės sudarymo. Brolis neatsisakė, ir jie susitarė šito­
+    kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu­
+    mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto
+    įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be­
+    neficiją Sileziją.
+    Apie šiuos susitarimus karalius nieko nežinojo, mat
+    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

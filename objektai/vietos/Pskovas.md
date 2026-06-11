@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Pskovas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -303,6 +304,11 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   teiginys: 'MAŽOJI LEN r Krokuva NAUGARDAS Didysis Naugardas Pskovas Įprieš Lietuvą nukreiptą koaliciją įsijungia ir šiaurės vakarų rusėnai - Naugardo ir Pskovo žemės.'
   pagrindžia:
     - c-029
+
+- t-058
+  teiginys: 'Kojelavičius teigia, kad šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu.'
+  pagrindžia:
+    - c-040
 
 ## Reikšmingi paminėjimai
 
@@ -1074,3 +1080,33 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   statusas: verified
   pagrindžia:
     - t-057
+
+- c-040
+  santrauka: 'Kojelavičius teigia, kad šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi nė sienos nega­
+    lėjo ilgiau jo apsaugoti, nes matė, jog bus priverstas
+    neišvengiamai pasiduoti arba dėl apsupties, arba dėl
+    bado, kai nebegaus maisto, jis stengėsi kelti saviškiams
+    nuotaiką viltimi, jog skubiai ateisianti artimųjų pa­
+    galba; tuo tarpu pats, nieko gero nesitikėdamas, paža­
+    dėjęs greitai atvykti su kariuomene ir pralaužti ap­
+    supimą, nakčia, išleistas iš pilies, paspruko per supan­
+    čiųjų eiles. Šaltiniai pasakoja, jog, patekęs po to į
+    Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš
+    Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie­
+    na gynybinė siena vadinama statytojo Daumanto vardu.
+    142
+
+    ## Puslapis 141
+
+    Tvirtovės įgula, laukdama kunigaikščio ir paramos, ke­
+    letą dienų narsiai gynėsi nuo apsupusiųjų, bet, nieko
+    nesulaukusi, ji vis dėlto suprato, koks reikalas, ir pa­
+    sidavė Narimantui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-058

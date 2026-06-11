@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Druckas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -17,6 +18,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Druckas
 
 ## Santrauka
@@ -39,6 +41,11 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   teiginys: 'Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolensko, kita, vadovaujama patyrusio karvedžio kunigaikščio Petro Šuiskio, iš Polocko traukė į Drucką.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad greitai užpuolęs ir užėmęs Oršą, jis patraukė į Drucką.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -97,3 +104,35 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad greitai užpuolęs ir užėmęs Oršą, jis patraukė į Drucką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
+    Baltarusijos žemės būtų pa-
+    V y ta u ta s
+    traukia
+    klusnesnės Lietuvos didžia-
+    p rieš
+    Š vitrig a ilą
+    jam kunigaikščiui, nei ligi
+    šiol, todėl mielai ėmėsi viso
+    šio reikalo. Greitai užpuolęs ir užėmęs Oršą, jis patraukė
+    į Drucką. Drucko kunigaikščiai, pirmųjų Rusios valdo­
+    vų palikuonys, kurie šių neramumų pradžioje mažai
+    klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
+    antpuolio sutriuškinti, supra-
+    S u tra m d o  rusų didi-
+    to, jog kur kas geriau mal­
+    kus
+    dauti Vytautą — kad ir ne­
+    patikimo — atlaidumo, nei iš
+    naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai,
+    pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
+    niams, susilaukė, ko prašė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

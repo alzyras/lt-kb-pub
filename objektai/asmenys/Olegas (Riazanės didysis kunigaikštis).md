@@ -48,4 +48,4 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]

@@ -69,7 +69,7 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/zodynas/pastočių davimas]]

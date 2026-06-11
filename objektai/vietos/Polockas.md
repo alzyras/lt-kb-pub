@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Polockas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -12,6 +13,7 @@ datos:
   - '1183 m.'
   - '1392 m.'
   - '1396 m.'
+  - '1470 m.'
   - '1580 m.'
 date_start: '1183'
 date_end: '1580'
@@ -298,6 +300,21 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginys: 'Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos.'
   pagrindžia:
     - c-042
+
+- t-062
+  teiginys: 'Kojelavičius teigia, kad kaip ir vylėsi, galėjo be didelio vargo spęsti broliui pinkles, sakydamasis norįs taikos ir kukliai pri sipažindamas nusikaltęs, todėl nesunkiai ir su broliu susitaikė, ir gavo valdyti Polocko kraštą.'
+  pagrindžia:
+    - c-043
+
+- t-063
+  teiginys: 'Kojelavičius teigia, kad jis kol kas turėjo nedidelę ka riuomenę, laukė pagrindinių dalinių, kurie su naugardukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo už dienos ar kitos pasirodyti.'
+  pagrindžia:
+    - c-044
+
+- t-064
+  teiginys: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  pagrindžia:
+    - c-045
 
 ## Reikšmingi paminėjimai
 
@@ -1070,3 +1087,99 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   statusas: verified
   pagrindžia:
     - t-061
+
+- c-043
+  santrauka: 'Kojelavičius teigia, kad kaip ir vylėsi, galėjo be didelio vargo spęsti broliui pinkles, sakydamasis norįs taikos ir kukliai pri sipažindamas nusikaltęs, todėl nesunkiai ir su broliu susitaikė, ir gavo valdyti Polocko kraštą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tad Daumantas nutarė nesigriebti ginklo,
+    bet neužmiršti ir neapykantos: išsižadėjus smurto, ban­
+    dyti klasta slaptai ir saugiai patenkinti savimeilę ir
+    pyktį. Kaip ir vylėsi, galėjo be didelio vargo spęsti
+    broliui pinkles, sakydamasis norįs taikos ir kukliai pri­
+    sipažindamas nusikaltęs, todėl nesunkiai ir su broliu
+    susitaikė, ir gavo valdyti Polocko kraštą. Po to Dau­
+    144
+
+    ## Puslapis 143
+
+    mantas ramiai rūpinosi savo reikalais, laukdamas tin­
+    kamos progos nuversti Traidenį ir, pamynus tėvo ir
+    brolio teises, pasigrobti valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-062
+
+- c-044
+  santrauka: 'Kojelavičius teigia, kad jis kol kas turėjo nedidelę ka riuomenę, laukė pagrindinių dalinių, kurie su naugardukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo už dienos ar kitos pasirodyti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tai šen, tai ten liepsnojo prie­
+    šo padegti kaimai, kylantys
+    G ed im in a s
+    su m u ša
+    dūmai žadino skausmą, o
+    k ry ž iu o č iu s  ir a tim a
+    skausmas — drąsą, tačiau ap-
+    iš jų  Ž e m a itiją
+    dairiam
+    kunigaikščiui
+    tuo
+    tarpu daugiau rūpėjo, kieno
+    pusėje jėgų persvara. Jis kol kas turėjo nedidelę ka­
+    riuomenę, laukė pagrindinių dalinių, kurie su naugar-
+    dukiečiais ir polockiečiais, atėjusiais į pagalbą, turėjo
+    už dienos ar kitos pasirodyti. Todėl ir delsė, tramdy­
+    damas įniršį, kurį kėlė akivaizdūs priešo siautėjimo
+    ženklai: nenorėjo nei neapdairiai pulti į kovą, nei nie­
+    ko nedaryti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-063
+
+- c-045
+  santrauka: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žiemos viduryje ap­
+    lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
+    popiežiaus ir imperatoriaus įsikišimas. Mat popiežius,
+    priekaištingai
+    tvirtindamas, kad Vladislovas kol kas
+    niekuo nenusipelnęs tikėjimui, o Motiejus didžiai nu­
+    sipelnęs, atvirai rėmė Motiejų, rodydamas jam palan­
+    kumą. Tiesą sakant, turint galvoje tikėjimo reikalus,
+    negalima buvo nė dvejoti, kad Čekijai reikalingas toks
+    karalius, kuris, pagarsėjęs karo žygiais, nepriklausytų
+    nuo sektantų malonės, kaip dabar galima buvo tikė­
+    tis, ir pastoviai remtų bažnyčią, vis dėlto Kazimieras
+    jautėsi įžeistas, kad šiuo atveju žiūrima nuopelnų, ne­
+    lyginant būtų visiškai abejotinos teisės, kurias turėjo
+    jo vaikai dėl kilmės bei įpėdinystės. Tuo tarpu impe­
+    ratorius Fridrichas papiršo į Vladislovo žmonas savo
+    dukterį Kunegundą, o savo sūnui Maksimilijonui pa­
+    prašė Kazimiero dukters Jadvygos rankos, norėdamas
+    šia dviguba santuoka sustiprinti sąjungą ir, nušalinus
+    1470 m eta i
+    P o p iežiu s ii im p e r a to ­
+    rius p riešin a si
+    tvarkė taikos bei karo rei­
+    kalus, o išaušus pavasariui,
+    sugrįžo į Lenkiją ir vėl įniko
+    į Čekijos reikalus, kuriuos
+    sėkmingai užbaigti sutrukdė
+    520
+
+    ## Puslapis 519
+
+    Motiejų ir Jurgį, bendromis pastangomis bei jungtinė­
+    mis karo jėgomis suteikti Čekijos sostą Vladislovui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-064

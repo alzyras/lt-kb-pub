@@ -133,6 +133,7 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]

@@ -96,6 +96,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/asmenys/Vasilijus]]
 - [[objektai/asmenys/Zubovas]]
 - [[objektai/asmenys/Bogdanas Knorringas]]

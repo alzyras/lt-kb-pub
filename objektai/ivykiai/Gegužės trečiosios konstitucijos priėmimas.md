@@ -161,6 +161,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
 - [[objektai/grupes/Teisių sargyba]]

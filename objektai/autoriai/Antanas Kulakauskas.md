@@ -147,7 +147,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
 - [[objektai/zodynas/apsikarūnavimas]]

@@ -109,4 +109,6 @@ periodo_grupes:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kuratorius]]
+- [[objektai/zodynas/seimas]]

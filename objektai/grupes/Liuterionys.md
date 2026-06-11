@@ -40,5 +40,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalvinai]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]

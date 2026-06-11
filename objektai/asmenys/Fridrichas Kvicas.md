@@ -155,6 +155,7 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 ### Susiję objektai
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]

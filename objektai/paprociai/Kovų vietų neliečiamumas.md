@@ -82,5 +82,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/Liuosybė|liuosybė]]
 - [[objektai/zodynas/Karmūšų|karmūšų]]

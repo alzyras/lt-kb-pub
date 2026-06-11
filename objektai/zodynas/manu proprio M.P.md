@@ -44,7 +44,7 @@ tags:
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/asmenys/Eustachijus (raštininkas)]]
-- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/asmenys/Leonas]]
 - [[objektai/asmenys/Manvydas]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Eustachijus Valavičius]]

@@ -70,6 +70,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]

@@ -188,9 +188,11 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jaunutis]]
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]

@@ -138,6 +138,7 @@ Nenurodyta
 - [[objektai/asmenys/Stanta]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/piktadarystė]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
 - [[objektai/grupes/Notangai]]

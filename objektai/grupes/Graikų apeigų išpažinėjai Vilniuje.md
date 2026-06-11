@@ -115,7 +115,6 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Sabinas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Stanislovas Sabina]]

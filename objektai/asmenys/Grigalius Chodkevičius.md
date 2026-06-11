@@ -2,12 +2,14 @@
 tipas: asmuo
 pavadinimas: 'Grigalius Chodkevičius'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
 ---
+
 # Grigalius Chodkevičius
 
 ## Santrauka
@@ -20,6 +22,11 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   teiginys: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad iš lietuvių puošniausiai atrodė Radvila bei Grigalius Chodkevičius.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -50,15 +57,23 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Kunzas Lochneris]]
-- [[objektai/asmenys/Romanas Sanguška]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad iš lietuvių puošniausiai atrodė Radvila bei Grigalius Chodkevičius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Liepos mėnesį Krokuvoje
+    iškelta nepaprastai prabangios vestuvės, jose visi di­
+    dikai lyg susitarę stengėsi vienas kitą pralenkti apda­
+    rų puošnumu bei turtingumu. Iš lietuvių puošniausiai
+    atrodė Radvila bei Grigalius Chodkevičius. Beje, ši­
+    taip iškilmingai atšvęstos vestuvės, sukėlusios tada vi­
+    suotinę linksmybę, neatnešė džiaugsmo pačiam kara­
+    liui, nes Augustas netrukus taip atšalo nuo Kotrynos,
+    kad apskritai nutarė su ja išsiskirti, aiškindamasis tuo,
+    jog santuoka esanti neteisėta, nes negalima, girdi,
+    vesti mirusios žmonos sesers.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

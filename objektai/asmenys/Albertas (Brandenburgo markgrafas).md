@@ -69,6 +69,7 @@ Dusburgietis teigia, kad albertas (Brandenburgo markgrafas) sušakosiąs ir atei
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Fridrichas]]

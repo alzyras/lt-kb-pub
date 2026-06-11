@@ -171,10 +171,13 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Ketverių metų seimas]]
+- [[objektai/asmenys/Kotryna]]
 - [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Augustas]]

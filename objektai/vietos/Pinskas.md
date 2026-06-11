@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Pinskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -24,6 +25,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Pinskas
 
 ## Santrauka
@@ -81,6 +83,11 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
   pagrindžia:
     - c-008
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad polesė — baltarusių gyvenama te ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodokas.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -247,3 +254,18 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad polesė — baltarusių gyvenama te ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodokas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų
+    neskyrė Polesės (lenk. Polesie) nuo kaimynystėje buvusios Palenkės
+    (lenk. Poleksia, vėliau — Podlasie). Polesė — baltarusių gyvenama te­
+    ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodo-
+    kas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

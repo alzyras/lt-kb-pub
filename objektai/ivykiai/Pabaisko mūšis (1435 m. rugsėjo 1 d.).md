@@ -206,7 +206,7 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Kerskorfas]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/maršalas]]

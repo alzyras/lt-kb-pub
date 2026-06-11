@@ -194,6 +194,7 @@ Nenurodyta
 - [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
 - [[objektai/asmenys/Vimaras [Gneomiras]]]
 - [[objektai/asmenys/Vojakas [Vojachas]]]
+- [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]
 - [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus]]
 - [[objektai/posakiai/metus ir dieną]]
 - [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]

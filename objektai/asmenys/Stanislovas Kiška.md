@@ -2,11 +2,13 @@
 tipas: asmuo
 pavadinimas: 'Stanislovas Kiška'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1442 m.'
   - '1502 m.'
-date_start: '1502'
-date_end: ''
+date_start: '1442'
+date_end: '1502'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -14,15 +16,23 @@ tags:
   - karvedys
   - transportas
 amziai:
+  - 'XV'
   - 'XVI'
 periodo_grupes:
   - 'LDK'
 ---
+
 # Stanislovas Kiška
 
 ## Santrauka
 
 Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patirties kovose su totoriais ir maskvėnais (po to, kai 1502 m. jam pavyko apginti Smolenską nuo maskvėnų, jam buvo patikėtos etmono pareigos). Rugpjūčio 5 d. paryčiais žygio vargai etmoną Stanislovą Kišką išvertė iš kojų.
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/karvedys]]
+- [[temos/transportas]]
 
 ## Teiginiai
 
@@ -35,6 +45,21 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   teiginys: 'Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad kitiems pulkams pamažėle žygiuojant iš paskos, jis išsiuntė į priekį kariuomenės vadą Stanislovą Kišką, įsakydamas su turimomis jėgo mis sustabdyti priešų antpuolius.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad ir Stanislovas Kiška, vargais negalais pra sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti mas apygardas, visur žudydamas ir degindamas.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad ostrogiškio ir Kiškos vedami kariai nioko ja Maskvos kuni gaikštystę Apie tai sužinojęs, Kiška paprašė karalių pagalbos.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -76,13 +101,77 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-- [[temos/transportas]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad kitiems pulkams pamažėle žygiuojant iš paskos, jis išsiuntė į priekį kariuomenės vadą Stanislovą Kišką, įsakydamas su turimomis jėgo mis sustabdyti priešų antpuolius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Netruko surengti tokį žy­
+    gį Maskvos kunigaikštis: pa-
+    1442 m eta i
+    sikvietęs
+    į
+    sąjungininkus
+    U žp u o la  M a s k v o s  ku-
+    Kazanės chaną, viską nioko-
+    n ig a ik štis
+    damas ir siaubdamas, pirmo­
+    siomis karo dienomis jis įsi­
+    veržė į Viazmos apygardą, Kazimieras, gerai suprasda­
+    mas, jog sulauks iš kitų priešų deramos pagarbos tik
+    tada, kai tinkamai atsiteis maskvėnams už šį žygį, sku­
+    biai patraukė į Smolenską. Kitiems pulkams pamažėle
+    žygiuojant iš paskos, jis išsiuntė į priekį kariuomenės
+    vadą Stanislovą Kišką, įsakydamas su turimomis jėgo­
+    mis sustabdyti priešų antpuolius. Skubiai patraukęs į žy­
+    gį, bet niekur Lietuvos žemėse neužtikęs priešo, nes šis,
+    išsivaręs daugybę gyvulių ir žmonių, jau buvo pasitrau­
+    kęs, Kiška nusiaubė Maskvos valdas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
 
-### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/Miera|miera]]
+- c-004
+  santrauka: 'Kojelavičius teigia, kad ir Stanislovas Kiška, vargais negalais pra sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti mas apygardas, visur žudydamas ir degindamas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto Ostro­
+    giškis su keliomis lengvųjų
+    raitelių vėliavomis įsiveržė
+    nepraeinamais keliais į prie­
+    šo kraštą ir išsivarė iš ten
+    daug grobio. Ir Stanislovas Kiška, vargais negalais pra­
+    sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti­
+    mas apygardas, visur žudydamas ir degindamas. Šis
+    įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad ostrogiškio ir Kiškos vedami kariai nioko ja Maskvos kuni gaikštystę Apie tai sužinojęs, Kiška paprašė karalių pagalbos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šis
+    įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
+    Ostrogiškio ir Kiškos
+    vedami kariai nioko­
+    ja
+    Maskvos
+    kuni­
+    gaikštystę
+    606
+
+    ## Puslapis 605
+
+    Apie tai sužinojęs, Kiška paprašė karalių pagalbos. Šis
+    įsakė Firlėjui kuo skubiausiai patraukti su lenkų al­
+    gininkais į pagalbą puolamam Kiškai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

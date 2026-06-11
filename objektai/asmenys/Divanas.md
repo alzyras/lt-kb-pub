@@ -163,6 +163,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Sembai]]

@@ -74,5 +74,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Juozas Pajaujis]]
 - [[objektai/posakiai/„seimų laikus“]]

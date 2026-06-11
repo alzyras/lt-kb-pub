@@ -68,3 +68,7 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/įgula]]

@@ -81,5 +81,5 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Mikalojus Radvila]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Augustinijonų ordinas]]

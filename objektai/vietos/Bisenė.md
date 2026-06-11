@@ -2,12 +2,14 @@
 tipas: vieta
 pavadinimas: 'Bisenė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1313 m.'
   - '1316 m.'
+  - '1322 m.'
 date_start: '1313'
-date_end: '1316'
+date_end: '1322'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,6 +20,7 @@ tags:
 amziai:
   - 'XIV'
 ---
+
 # Bisenė
 
 ## Santrauka
@@ -45,6 +48,11 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
   pagrindžia:
     - c-001
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad baigiantis dve jų metų paliauboms, kryžiuo čių riteriai pradėjo rengti diniekur nestodami į tikrą kovą, pulkai, niokoję kraštą, buvo sutraukti prie Bisenės pilies, kurią jie ir apgulė.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -118,3 +126,35 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad baigiantis dve jų metų paliauboms, kryžiuo čių riteriai pradėjo rengti diniekur nestodami į tikrą kovą, pulkai, niokoję kraštą, buvo sutraukti prie Bisenės pilies, kurią jie ir apgulė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
+    gėda apėmė ginkluotus karius, kad nelyginant plėši­
+    kai siaubia beginklius žmones ir kaimiečių lūšneles,
+    1322 m eta i
+    V o k ie č ių  ir k r y ž iu o ­
+    čių
+    š v e n ta sis
+    karas
+    prieš lietu viu s
+    Šiais dalykais ir rūpinosi
+    Gediminas, kai jį užgriuvo
+    naujos bėdos. Baigiantis dve­
+    jų metų paliauboms, kryžiuo­
+    čių riteriai pradėjo rengti di-
+    207
+
+    ## Puslapis 206
+
+    niekur nestodami į tikrą kovą, pulkai, niokoję kraštą,
+    buvo sutraukti prie Bisenės pilies, kurią jie ir apgulė.
+    Ir viena, ir kita pusė iš pradžių kovojo su didžiuliu
+    įkarščiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

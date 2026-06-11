@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Vengrai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
@@ -11,6 +12,7 @@ tags:
   - grupe
   - tauta
 ---
+
 # Vengrai
 
 ## Santrauka
@@ -28,6 +30,21 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   teiginys: 'Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad jonas beturėjo vos keturis tūkstančius karių, kai susi dūrė su stipria vengrų kariuomene.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -72,56 +89,54 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/daiktai/Pjūklai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
-- [[objektai/grupes/7-ojo fuzilierių regimento]]
-- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
-- [[objektai/zodynas/Cechai]]
-- [[objektai/zodynas/Cechas]]
-- [[objektai/asmenys/Dobeslavas Skoračevskis]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]
-- [[objektai/asmenys/Gabrielius Bekešas]]
-- [[objektai/asmenys/Henrikas I Paukštininkas]]
-- [[objektai/autoriai/J. Dlugošas]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/posakiai/Kodėl siaubi mano žemę, aplaistytą daugybės krikščionių krauju Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties]]
-- [[objektai/grupes/Krimo orda]]
-- [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
-- [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
-- [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
-- [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Marija (Liudviko duktė)]]
-- [[objektai/daiktai/Mūro sienos]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/asmenys/Otonas Didysis]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
-- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
-- [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]
-- [[objektai/asmenys/Vilhelmas]]
-- [[objektai/asmenys/Vilhelmas (vengrų karvedys)]]
-- [[objektai/asmenys/Vilhelmas Habsburgas]]
-- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
-- [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/zodynas/applicare]]
-- [[objektai/posakiai/dievas pavydus ir keršijąs, viešpats yra keršytojas savo nedraugams, ir jis rūstinasi ant savo priešų]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/inkorporacija]]
-- [[objektai/grupes/ojo fuzilierių regimento]]
-- [[objektai/daiktai/Karūna]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi tėvas karštai
+    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
+    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
+    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
+    grįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­
+    pešęs, turėjo grįžti į Lenkiją. Sį laimės ar žmonių ne­
+    pastovumą kur kas nuosaikiau sutiko jaunikaitis nei
+    jo iškaršęs tėvas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad jonas beturėjo vos keturis tūkstančius karių, kai susi dūrė su stipria vengrų kariuomene.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jonas beturėjo vos keturis tūkstančius karių, kai susi­
+    dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
+    ne drąsos, štai todėl ir su tokia maža kariauna jis sto­
+    jo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš
+    nugalėtojo rankų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to Lietuvos Didžiosios Kunigaikštystės
+    vardu sudarė taiką su Steponu, Valachijos valdovu,
+    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

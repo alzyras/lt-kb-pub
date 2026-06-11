@@ -58,6 +58,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kauneckas]]
+- [[objektai/asmenys/Jurijus]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/asmenys/Eitanas Finkelšteinas]]

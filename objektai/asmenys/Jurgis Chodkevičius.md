@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jurgis Chodkevičius'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1575 m.'
@@ -17,6 +18,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Jurgis Chodkevičius
 
 ## Santrauka
@@ -29,6 +31,11 @@ periodo_grupes:
   teiginys: 'Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį žmonės vadina Lietuvos Didžiosios Kunigaikštystės archikamerarij ūmi.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +71,24 @@ periodo_grupes:
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/grupes/Mamoničių giminė]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad seimo pradžioje, kai pradė jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį žmonės vadina Lietuvos Didžiosios Kunigaikštystės archikamerarij ūmi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius
+    B resto  se im a s
+    atvyko su sūnumi Augustu.
+    Seimo pradžioje, kai pradė­
+    jo dalyti pareigybes, Jurgį Chodkevičių paskyrė vy­
+    riausiuoju kunigaikščio miegamojo prižiūrėtoju, kurį
+    žmonės vadina Lietuvos Didžiosios Kunigaikštystės ar-
+    chikamerarij ūmi. Kai pradėta nagrinėti valstybės rei­
+    kalai, karalius, pareiškęs, kad jo sveikata pakirsta me­
+    tų bei ligų, perdavė savo sūnui Augustui Lietuvos
+    Didžiosios Kunigaikštystės valdymą, o luomai tam pri­
+    tarė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

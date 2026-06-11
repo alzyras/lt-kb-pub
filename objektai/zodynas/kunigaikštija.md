@@ -105,7 +105,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/savarankiškumas]]
@@ -200,12 +200,12 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 - [[objektai/zodynas/švietimo apygarda]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
 - [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Napoleonas Bonapartas]]
 - [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
 - [[objektai/asmenys/Vosylius]]

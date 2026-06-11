@@ -2,12 +2,14 @@
 tipas: vieta
 pavadinimas: 'Melnikas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1440 m.'
   - '2013 m.'
   - '2026 m.'
-date_start: '2013'
+date_start: '1440'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -15,8 +17,10 @@ tags:
   - pilis
   - vieta
 amziai:
+  - 'XV'
   - 'XXI'
 ---
+
 # Melnikas
 
 ## Santrauka
@@ -34,6 +38,11 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   teiginys: 'Vytauto laikais Melnike, Palenkėje, imta statyti pilis rusėniškose LDK žemėse toli nuo etninės Lietuvos.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -73,3 +82,38 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kurie, prisi-
+    džiovinę medžių lapų ir juos
+    sutrynę, kepėsi duonos, tie
+    tarėsi prabangiai besimaitiną,
+
+    ## Puslapis 465
+
+    P e n k t a  k n y g a
+    APIE LIETUVIŲ PRAEITĮ,
+    KAI VALDE KAZIMIERAS II JOGAILAITIS
+    1440 m eta i
+    M a z o v ijo s
+    k u n ig a i­
+    kštis užim a
+    P a len kę
+    Nužudžius Žygimantą, ra­
+    dosi daugybė priežasčių, ga­
+    linčių sukelti neramumus val­
+    stybės viduje ir už jos ribų.
+    Užpuolęs Palenkę, Boleslovas,
+    Mazovijos kunigaikštis, užėmė Melniką, Belską ir Dro-
+    hičiną. Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
+    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
+    pritardami naujajam valdovui, o kiti jam priešindamie­
+    si.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

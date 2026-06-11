@@ -68,3 +68,4 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bojarinai]]
+- [[objektai/zodynas/seimas]]

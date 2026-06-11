@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Jurbarkas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1259 m.'
@@ -18,6 +19,7 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
+
 # Jurbarkas
 
 ## Santrauka
@@ -55,6 +57,11 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   teiginys: 'Dabar sienos ir trys kiti bokštai gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į Jurbarką krosnims ir dūmtraukiams mūryti.'
   pagrindžia:
     - c-004
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad nebetoli su kariuomene buvo ir Gediminas, įrengęs stovyklą tarp Jurbarko ir Kauno.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -119,3 +126,35 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindžia:
     - t-006
     - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad nebetoli su kariuomene buvo ir Gediminas, įrengęs stovyklą tarp Jurbarko ir Kauno.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto, kai, pilyje užkūrus laužą ir šitaip
+    7*
+    195
+
+    ## Puslapis 194
+
+    padavus pavojaus ženklą, kaimynai įspėti šoko gink­
+    luotis, magistras turėjo palikti pilį ramybėje. Nebetoli
+    su kariuomene buvo ir Gediminas, įrengęs stovyklą
+    tarp Jurbarko ir Kauno. Tai šen, tai ten liepsnojo prie­
+    šo padegti kaimai, kylantys
+    G ed im in a s
+    su m u ša
+    dūmai žadino skausmą, o
+    k ry ž iu o č iu s  ir a tim a
+    skausmas — drąsą, tačiau ap-
+    iš jų  Ž e m a itiją
+    dairiam
+    kunigaikščiui
+    tuo
+    tarpu daugiau rūpėjo, kieno
+    pusėje jėgų persvara.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

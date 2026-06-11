@@ -90,7 +90,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Donatas Malinauskas]]
-- [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

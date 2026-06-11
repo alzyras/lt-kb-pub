@@ -56,5 +56,4 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

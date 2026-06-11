@@ -3,11 +3,14 @@ tipas: vieta
 pavadinimas: 'Ariogala'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1254 m.'
+  - '1322 m.'
+  - '1363 m.'
   - '1377 m.'
   - '2026 m.'
 date_start: '1254'
@@ -20,6 +23,7 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
+
 # Ariogala
 
 ## Santrauka
@@ -67,6 +71,16 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   teiginys: 'Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose.'
   pagrindžia:
     - c-001
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  pagrindžia:
+    - c-008
+
+- t-010
+  teiginys: 'Kojelavičius teigia, kad prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -181,3 +195,62 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   statusas: verified
   pagrindžia:
     - t-007
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
+    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
+    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
+    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
+    gėda apėmė ginkluotus karius, kad nelyginant plėši­
+    kai siaubia beginklius žmones ir kaimiečių lūšneles,
+    1322 m eta i
+    V o k ie č ių  ir k r y ž iu o ­
+    čių
+    š v e n ta sis
+    karas
+    prieš lietu viu s
+    Šiais dalykais ir rūpinosi
+    Gediminas, kai jį užgriuvo
+    naujos bėdos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neatnešė ato­
+    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
+    paramos iš Bavarijos grafo Volfgango ir Livonijos
+    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
+    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
+    joje tapo visai sunaikintos. Sėkmingai išsigabenus vi­
+    są grobį ir išsivedus visus belaisvius, grėsmingai įsi­
+    veržė į Lietuvą Prūsijos maršalas Šindekopfas ir
+    2 47
+
+    ## Puslapis 246
+
+    apsupo Gardiną; kadangi Pat-
+    1363 m e ta i
+    rikas, vadovavęs pilies gyny-
+    P iū sų
+    ž y g ia i
+    į
+    Lie-
+    bai, narsiai atrėmė keletą
+    tu v ą  ir Ž e m a itiją
+    antpuolių, kryžiuotis, išsiža­
+    dėjęs minties užimti pilį, iš­
+    siuntė karius niokoti kaimų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010

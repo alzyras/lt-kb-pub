@@ -76,7 +76,8 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pacai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Henrikas von Plauenas]]
 - [[objektai/grupes/Karalaičio Jokūbo partija]]
 - [[objektai/asmenys/Karolis VI]]

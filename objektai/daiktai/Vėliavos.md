@@ -2,6 +2,7 @@
 tipas: daiktas
 pavadinimas: 'Vėliavos'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -150,6 +151,11 @@ Nenurodyta
   teiginys: 'Kai ryte po pamaldų „Maskvos kunigaikštis su bajorais ir su kunigaikščiais išeina iš cerkvės, Algirdas su visomis savo pajėgomis, išskleidęs savo vėliavas, pasirodė ant Pasveikinimo kalno (Paklonaja gara)“ prie Maskvos.'
   pagrindžia:
     - c-013
+
+- t-023
+  teiginys: 'Kojelavičius teigia, kad atidžiau ją skaitydamas, suvokiau, jog ši kalba visai pavirtę sąjungininkais ir priskirti prie pagalbinės ka riuomenės, daugelį amžių ėjo karo tarnybą, gindami romėnų vėliavas.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 
@@ -451,7 +457,43 @@ Nenurodyta
   pagrindžia:
     - t-022
 
+- c-020
+  santrauka: 'Kojelavičius teigia, kad atidžiau ją skaitydamas, suvokiau, jog ši kalba visai pavirtę sąjungininkais ir priskirti prie pagalbinės ka riuomenės, daugelį amžių ėjo karo tarnybą, gindami romėnų vėliavas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pagaliau herulai, dėl įvairių prie­
+    žasčių atplėšti nuo savo krašto, daug kartų siaubė Ro­
+    mos imperiją ir pačią Italiją, o truputį vėliau, iš priešų
+    L ie tu v ia i —
+    h eru lų
+    g im in a ičia i
+    ties dydžio raidėmis šventą­
+    ją maldą jų kasdienine šne­
+    ka. Atidžiau ją skaitydamas,
+    suvokiau, jog ši kalba visai
+    45
+
+    ## Puslapis 44
+
+    pavirtę sąjungininkais ir priskirti prie pagalbinės ka­
+    riuomenės, daugelį amžių ėjo karo tarnybą, gindami
+    romėnų vėliavas. Tačiau niekur nerandu patikimų ži­
+    nių, kokia proga ir kuriame
+    Iš k u i k ilę s  L ie tu v o s
+    amžiuje viena ar gotų, ar
+    p a v a d in im a s ir a p ie
+    kimbrų, ar (o šitai arčiau tie-
+    L italan ą V y re sn i]}
+    sos) herulų triba ėmė vadin­
+    tis Lietuva.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-023
+
 ## Ryšiai
+
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
@@ -460,57 +502,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Skydas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/posakiai/Christ ist erstanden]]
-- [[objektai/daiktai/Druska]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Perveiza|perveiza]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/zodynas/Tėvūnija|tėvūnija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Šv. Jurgio vėliava]]
-- [[objektai/grupes/Žemlionys]]
-- [[objektai/posakiai/„Kristus prisikėlė“]]
-- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
-- [[objektai/grupes/7-ojo fuzilierių regimento]]
-- [[objektai/asmenys/B. P. Sapiega]]
-- [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
-- [[objektai/asmenys/H. Brantas]]
-- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
-- [[objektai/asmenys/J. P. Sapiega]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
-- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
-- [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
-- [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
-- [[objektai/daiktai/Lietuvos herbas Vytis]]
-- [[objektai/grupes/Lietuvos totoriai]]
-- [[objektai/daiktai/Lietuvos valstybės vėliava]]
-- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- [[objektai/asmenys/Mykolas Kiełbasa]]
-- [[objektai/grupes/Panevėžio batalionas]]
-- [[objektai/daiktai/Panevėžio bataliono vėliava]]
-- [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/asmenys/T. Dambrava]]
-- [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/grupes/ojo fuzilierių regimento]]
-- [[objektai/zodynas/petihorai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Jeronimas]]
-- [[objektai/asmenys/Jonas Lonei]]
-- [[objektai/daiktai/Riterių vėliava]]
-- [[objektai/grupes/Smolenskiečiai]]
-- [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]
-- [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/asmenys/Zyndramas iš Moškovicų]]

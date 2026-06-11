@@ -301,6 +301,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
 - [[objektai/grupes/Ateitis]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]

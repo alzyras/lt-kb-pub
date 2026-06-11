@@ -316,6 +316,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Estai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Glapas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas Botelis]]

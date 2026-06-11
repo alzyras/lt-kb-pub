@@ -44,5 +44,6 @@ Dusburgietis teigia, kad kai brolis Petras, kunigas ir jo nuodėmklausys, jį su
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/daiktai/Šarvai]]

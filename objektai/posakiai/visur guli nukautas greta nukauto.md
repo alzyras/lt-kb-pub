@@ -46,4 +46,4 @@ Po mūšio Kitą dieną po kautynių Mykolas Radvila Rudasis laiške savo pusbro
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]

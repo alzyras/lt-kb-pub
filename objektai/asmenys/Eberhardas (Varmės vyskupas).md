@@ -110,6 +110,7 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/asmenys/Eberhardas de Virnemburgas]]
 - [[objektai/asmenys/Konradas Lichtenhagenas]]
+- [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Rygos miestiečiai]]

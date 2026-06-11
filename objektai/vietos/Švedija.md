@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Švedija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -110,6 +111,11 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginys: 'Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija.'
   pagrindžia:
     - c-012
+
+- t-018
+  teiginys: 'Kojelavičius teigia, kad karalius, nutaręs ginklu atsikeršyti už skriau das, pakvietė į karo sąjungininkus Švedijos karalių.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -340,3 +346,22 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   statusas: verified
   pagrindžia:
     - t-017
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad karalius, nutaręs ginklu atsikeršyti už skriau das, pakvietė į karo sąjungininkus Švedijos karalių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neilgai trukus ten nu­
+    vyko su panašia užduotimi Žemaitijos vyskupas, tačiau
+    nei jo pastangos, nei karaliaus autoritetas nesutramdė
+    pasiutėlio. Karalius, nutaręs ginklu atsikeršyti už skriau­
+    das, pakvietė į karo sąjungininkus Švedijos karalių.
+    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
+    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
+    ros, Augustas laiškais stengėsi sutaikyti švedus bei
+    maskvėnus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-018

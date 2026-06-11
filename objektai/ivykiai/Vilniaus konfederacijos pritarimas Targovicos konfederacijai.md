@@ -63,6 +63,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/konfederacija]]

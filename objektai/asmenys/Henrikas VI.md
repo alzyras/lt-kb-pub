@@ -119,6 +119,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/posakiai/lydimojo rašto]]

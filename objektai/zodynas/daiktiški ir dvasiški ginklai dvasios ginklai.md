@@ -42,6 +42,7 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/zodynas/daiktiški ir dvasiški ginklai]]

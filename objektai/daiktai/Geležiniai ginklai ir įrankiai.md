@@ -89,5 +89,6 @@ Nenurodyta
 - [[temos/įrankis]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Gintaras]]
 - [[objektai/daiktai/Papuošalai]]

@@ -37,3 +37,7 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]

@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Pranciškonų ordinas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -20,11 +21,27 @@ amziai:
   - 'XI'
   - 'XXI'
 ---
+
 # Pranciškonų ordinas
 
 ## Santrauka
 
 Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje pranciškonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai, jo dvaro aplinkoje veikę vienuoliai ir vėlesnių Vilniaus legendų objektas.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/asmenys/Henrikas (pranciškonas)]]
+- [[objektai/asmenys/Jurgis Matulaitis]]
+- [[objektai/paprociai/Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/zodynas/regimentorius]]
 
 ## Teiginiai
 
@@ -272,6 +289,11 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginys: 'Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną.'
   pagrindžia:
     - c-001
+
+- t-050
+  teiginys: 'Kojelavičius teigia, kad naują to paties ordino vienuolių būrį pakvietė Goštautas į Vil nių ir paskyrė jiems vietą netoli Vingrių pelkės, ža dėdamas pastatyti ten pat šv.'
+  pagrindžia:
+    - c-036
 
 ## Reikšmingi paminėjimai
 
@@ -1018,131 +1040,19 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindžia:
     - t-015
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/asmenys/Henrikas (pranciškonas)]]
-- [[objektai/asmenys/Jurgis Matulaitis]]
-- [[objektai/paprociai/Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis]]
-- [[objektai/asmenys/Narimantas Gediminaitis]]
-- [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]]
-- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
-- [[objektai/zodynas/regimentorius]]
-- [[objektai/asmenys/Aaronas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Andrius iš Vasilevo]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/autoriai/Grzybowski]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/asmenys/Isamas (Rygos arkivyskupas)]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/autoriai/Jordanas]]
-- [[objektai/asmenys/Jordanas iš Pelplino]]
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/autoriai/Kotzebue]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Paulius iš Olivos]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
-- [[objektai/grupes/Romai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Rykai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/asmenys/Vitas]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vosylius]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/in partibus infidelium]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/vaitas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/paprociai/Algirdo religinio pakantumo norma ir krikščionių vienuolių nevaržymas]]
-- [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
-- [[objektai/daiktai/Bažnyčių altoriai, paveikslai, skulptūros, freskos ir vargonai]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
-- [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius]]
-- [[objektai/daiktai/Gedimino antspaudas]]
-- [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
-- [[objektai/paprociai/Gotikinės architektūros perėmimas ir mūrinių sakralinių bei gynybinių statinių statyba]]
-- [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]
-- [[objektai/asmenys/Jonas (popiežius)]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/paprociai/Kruvini bajorijos susibūrimai, ypač seimeliuose]]
-- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
-- [[objektai/grupes/Perkūno garbintojai ir šventos ugnies saugotojai]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/asmenys/Petrašu Montgirdaitis]]
-- [[objektai/asmenys/Pranciškus (popiežiaus legatas)]]
-- [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
-- [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
-- [[objektai/grupes/Venedai]]
-- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
-- [[objektai/autoriai/Waddyngas Luca Vaddingo]]
-- [[objektai/posakiai/kiekvienam geros valios žmogui]]
-- [[objektai/zodynas/popiežiaus legatas]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Jokūbas I]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
-- [[objektai/zodynas/jurisdikcija]]
-- [[objektai/zodynas/kustodas]]
-- [[objektai/autoriai/Antoni Melissanius de Macro]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
-- [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
-- [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]
-- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
-- [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]
-- [[objektai/zodynas/oratorija]]
-- [[objektai/asmenys/Andrius iš Vasilevo Važila]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
-- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
-- [[objektai/asmenys/Gotfridas fon Ustas]]
-- [[objektai/grupes/Jastžembcų giminė]]
-- [[objektai/asmenys/Jonas Pliekta]]
-- [[objektai/asmenys/Jonas Rygietis]]
-- [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
-- [[objektai/grupes/Lenkų didžponiai]]
-- [[objektai/asmenys/Liudvikas (Sicilijos karaliaus Roberto brolis)]]
-- [[objektai/asmenys/Mikalojus fon Parsau]]
-- [[objektai/asmenys/Reimaras fon Hanė]]
-- [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia]]
-- [[objektai/zodynas/kustodas ir gvardijonas]]
-- [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]
+- c-036
+  santrauka: 'Kojelavičius teigia, kad naują to paties ordino vienuolių būrį pakvietė Goštautas į Vil nių ir paskyrė jiems vietą netoli Vingrių pelkės, ža dėdamas pastatyti ten pat šv.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Naują to
+    paties ordino vienuolių būrį pakvietė Goštautas į Vil­
+    nių ir paskyrė jiems vietą netoli Vingrių pelkės, ža­
+    dėdamas pastatyti ten pat šv. Mergelės Marijos baž­
+    nyčią. Pirmtakų krauju sudrėkintas laukas, įpėdiniams
+    negailint triūso, atnešė gausų pamaldumo derlių, ku­
+    riuo mes ligi šiol džiaugiamės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-050

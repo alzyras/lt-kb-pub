@@ -117,6 +117,7 @@ Nenurodyta
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Senasis]]

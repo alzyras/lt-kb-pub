@@ -153,4 +153,5 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

@@ -68,6 +68,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/statutas]]

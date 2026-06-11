@@ -94,9 +94,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/erezija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/statutas]]

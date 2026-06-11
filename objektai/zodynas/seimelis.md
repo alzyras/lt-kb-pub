@@ -125,6 +125,7 @@ amziai:
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/pavietas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]

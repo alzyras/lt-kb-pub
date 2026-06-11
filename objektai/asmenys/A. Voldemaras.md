@@ -242,6 +242,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - [[objektai/ivykiai/Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)]]
 - [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“]]
 - [[objektai/posakiai/„seimų laikus“]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]
 - [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]

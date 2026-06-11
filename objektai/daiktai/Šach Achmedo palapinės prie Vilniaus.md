@@ -73,7 +73,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Šach Achmedas]]
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/grupes/Nogajaus orda]]

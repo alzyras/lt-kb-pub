@@ -155,11 +155,12 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Ivanas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/asmenys/Steponas Batoras]]

@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Birutė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -12,11 +13,22 @@ tags:
   - asmuo
   - pilis
 ---
+
 # Birutė
 
 ## Santrauka
 
 Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo Žemaičių bajoro Vydimanto duktė; kitame šaltinyje ji siejama su nužudymu Brastoje.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
+- [[objektai/grupes/Tauro apygarda]]
+- [[objektai/zodynas/vaidilutė]]
+- [[objektai/asmenys/Vydimantas]]
 
 ## Teiginiai
 
@@ -54,6 +66,16 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   teiginys: 'Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.'
   pagrindžia:
     - c-006
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad kęstutis, sugrįžęs į Lietuvą, kur paėmė į žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve nimu, nors labai norėjo užmiršti savo vargus.'
+  pagrindžia:
+    - c-007
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad vytautas, iš draugų apie viską sužinojęs, spėjo su pamote Birute pasitraukti į Gardiną.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -182,30 +204,47 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   pagrindžia:
     - t-007
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
-- [[objektai/grupes/Tauro apygarda]]
-- [[objektai/zodynas/vaidilutė]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vydimantas]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
-- [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
-- [[objektai/autoriai/Józef Wolff]]
-- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
-- [[objektai/grupes/Lietuvos partizanų Vyriausioji vadovybė]]
-- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
-- [[objektai/zodynas/Paliaubos induciae]]
-- [[objektai/asmenys/Patirgas]]
-- [[objektai/autoriai/Vygandas Marburgietis]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad kęstutis, sugrįžęs į Lietuvą, kur paėmė į žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve nimu, nors labai norėjo užmiršti savo vargus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu lietuviai, išsaugoję likusius
+    karius, ramiai patraukė namo, išsigabendami laimikį —
+    visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
+    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
+    nimu, nors labai norėjo užmiršti savo vargus. Mat Aust­
+    rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją
+    didžiulę kariuomenę; šių jė­
+    gų remiami kryžiuočiai už­
+    puolė Žemaitiją ir, padaliję
+    pulkus keturiomis žygio vo­
+    romis, nusiaubė visą kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad vytautas, iš draugų apie viską sužinojęs, spėjo su pamote Birute pasitraukti į Gardiną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo būdu
+    užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
+    ją, prašydamas pagalbos; pats, palikęs mieste stiprią
+    savo įgulą, pailsėjusią ir papildytą kariuomenę nuve­
+    dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
+    viską sužinojęs, spėjo su pamote Birute pasitraukti į
+    Gardiną.
+    Jogaila
+    atkakliai
+    U žkariauja T rakus
+    puolė Trakus, ir trakiškiai
+    ilgai neatsilaikė: nesitikėda­
+    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
+    duodami miestą, pilis bei turtą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

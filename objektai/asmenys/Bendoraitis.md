@@ -43,3 +43,4 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/daiktai/Stulpai]]

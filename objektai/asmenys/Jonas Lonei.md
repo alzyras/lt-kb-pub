@@ -75,6 +75,7 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/Vėliavos]]

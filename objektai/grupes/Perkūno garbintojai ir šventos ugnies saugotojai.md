@@ -65,3 +65,4 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
 ### Susiję objektai
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/prastuomenė]]

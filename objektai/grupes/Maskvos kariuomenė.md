@@ -97,7 +97,6 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 - [[objektai/asmenys/Madykas]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/zodynas/murza]]
 - [[objektai/grupes/Livonijos valstybė]]
 - [[objektai/asmenys/Zigmantas Herberšteinas]]

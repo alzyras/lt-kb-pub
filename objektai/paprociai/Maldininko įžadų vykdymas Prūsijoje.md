@@ -85,4 +85,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]

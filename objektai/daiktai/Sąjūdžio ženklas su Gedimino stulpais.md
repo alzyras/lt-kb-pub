@@ -101,6 +101,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

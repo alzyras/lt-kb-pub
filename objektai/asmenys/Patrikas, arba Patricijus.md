@@ -62,4 +62,5 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Simonas Lengvenis]]
+- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

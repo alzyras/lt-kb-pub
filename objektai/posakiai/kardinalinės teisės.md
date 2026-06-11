@@ -134,6 +134,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]

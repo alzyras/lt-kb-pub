@@ -91,6 +91,7 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/zodynas/organas]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Bronius Liesis-Naktis]]
 - [[objektai/grupes/Dainavos apygarda]]
 - [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]

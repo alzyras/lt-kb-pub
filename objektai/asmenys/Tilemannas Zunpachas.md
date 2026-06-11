@@ -46,3 +46,4 @@ Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpach
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/įgula]]

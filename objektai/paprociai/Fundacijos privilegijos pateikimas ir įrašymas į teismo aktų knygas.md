@@ -203,6 +203,7 @@ Nenurodyta
 - [[objektai/asmenys/Rusdorfas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/klebonija]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/luomas]]

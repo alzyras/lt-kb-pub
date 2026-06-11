@@ -51,7 +51,7 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
 - [[objektai/asmenys/Kiška]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/santvarka]]

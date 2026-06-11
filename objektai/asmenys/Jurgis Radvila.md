@@ -1,8 +1,9 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jurgis Radvila'
+pavadinimas: 'Jurgis Radvila (vyskupas, XVI a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -20,11 +21,17 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Jurgis Radvila
+# Jurgis Radvila (vyskupas, XVI a.)
 
 ## Santrauka
 
 verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos tėvas, 1510— 1514 m.Kijevo vaivada; 1522—1527 m Trakų, o 1527-1541 m. Vilniaus kaštelionas; 1521 — 1531 m. lauko (kiemo) hetmonas, 1531—1541 m. d. hetmonas. Jurgis Radvila 1582 m. įkūrė visiškai atskirą kunigų seminariją (joje turėjo būti 12 klierikų).
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/zodynas/koadjutorius]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 
 ## Teiginiai
 
@@ -107,6 +114,11 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   teiginys: 'Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, Vilniaus ir vėliau Krokuvos vyskupas.'
   pagrindžia:
     - c-010
+
+- t-020
+  teiginys: 'Kojelavičius teigia, kad sverčovskis, lenkų kariuomenės vadas, metė prieš jį samdytinių hu sarų vėliavas, o Jurgis Radvila — lengvąją kavaleriją.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -408,32 +420,18 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/zodynas/koadjutorius]]
-- [[objektai/zodynas/Cechas]]
-- [[objektai/grupes/Goštautai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Tridento Sinodas]]
-- [[objektai/posakiai/Viešpaties vardu Amen]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/tribunolas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Kardinalijos namų kompleksas]]
-- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
-- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
-- [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]
-- [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]
+- c-013
+  santrauka: 'Kojelavičius teigia, kad sverčovskis, lenkų kariuomenės vadas, metė prieš jį samdytinių hu sarų vėliavas, o Jurgis Radvila — lengvąją kavaleriją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Čeliadninas kaip ir anksčiau tebestovėjo su pa­
+    grindinėmis jėgomis toje pačioje vietoje. Sverčovskis,
+    lenkų kariuomenės vadas, metė prieš jį samdytinių hu­
+    sarų vėliavas, o Jurgis Radvila — lengvąją kavaleriją.
+    Neilgai atsilaikė priešas, palaužtas jau tada, kai iš­
+    vydo saviškių skerdynes ir bėgimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-020

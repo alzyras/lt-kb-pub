@@ -64,4 +64,5 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 ### Susiję objektai
 - [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]

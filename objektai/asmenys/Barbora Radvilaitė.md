@@ -2,21 +2,20 @@
 tipas: asmuo
 pavadinimas: 'Barbora Radvilaitė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1828 m.'
-date_start: '1828'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
   - karalienė
-amziai:
-  - 'XIX'
-periodo_grupes:
-  - 'naujieji laikai'
+amziai: []
+periodo_grupes: []
 ---
+
 # Barbora Radvilaitė
 
 ## Santrauka
@@ -50,6 +49,25 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 
 - karalienė
 
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/didikas]]
+- [[temos/karalienė]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/asmenys/Ona Jogailaitė]]
+- [[objektai/zodynas/lėnininkai]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas]]
+
 ## Teiginiai
 
 - t-001
@@ -60,8 +78,8 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - t-002
   teiginys: 'Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.'
   pagrindžia:
-    - c-006
     - c-001
+    - c-006
 
 - t-003
   teiginys: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
@@ -112,6 +130,16 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   teiginys: 'Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.'
   pagrindžia:
     - c-005
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad jaunatviškai lengvabū diškas, be to, iš mažumės taip išauklėtas, kad mėgo puotauti, šokti ir visaip link- 1545 m e ta i M iršta A u strijo s k u n ig a ik š ty tė E lžb ieta , A u g u sto žm on a 6 7 4 smintis su moterimis, pradėjo lankyti Barborą Radvi.'
+  pagrindžia:
+    - c-008
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad barbora Radvilaitė — mano žmona, sutuokta su manimi su visomis krikščioniškomis apeigomis jos giminaičių akivaizdoje.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -294,35 +322,63 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - t-010
     - t-006
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karalienė]]
+- c-008
+  santrauka: 'Kojelavičius teigia, kad jaunatviškai lengvabū diškas, be to, iš mažumės taip išauklėtas, kad mėgo puotauti, šokti ir visaip link- 1545 m e ta i M iršta A u strijo s k u n ig a ik š ty tė E lžb ieta , A u g u sto žm on a 6 7 4 smintis su moterimis, pradėjo lankyti Barborą Radvi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
+    ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
+    ir karaliaus Aleksandro pa­
+    laikai, Augustas neilgai ge­
+    dėjo. Jaunatviškai lengvabū­
+    diškas, be to, iš mažumės
+    taip išauklėtas, kad mėgo
+    puotauti, šokti ir visaip link-
+    1545 m e ta i
+    M iršta  A u strijo s k u ­
+    n ig a ik š ty tė
+    E lžb ieta ,
+    A u g u sto  žm on a
+    6 7  4
 
-### Susiję objektai
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/lėnininkai]]
-- [[objektai/asmenys/Gzovskis]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Barbora Cyleikaitė]]
-- [[objektai/daiktai/Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos]]
-- [[objektai/ivykiai/Biblioteka Warszawska steigimas]]
-- [[objektai/asmenys/Ditrichas iš Bernheimo]]
-- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]]
-- [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]
-- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
-- [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Ona Jogailaitė]]
-- [[objektai/grupes/Radvilų giminė]]
-- [[objektai/grupes/Radvilų prokuratorija]]
-- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
-- [[objektai/zodynas/mansionieriai]]
-- [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+    ## Puslapis 673
+
+    smintis su moterimis, pradėjo lankyti Barborą Radvi­
+    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
+    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad barbora Radvilaitė — mano žmona, sutuokta su manimi su visomis krikščioniškomis apeigomis jos giminaičių akivaizdoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kreipdamasis į
+    6?8
+
+    ## Puslapis 677
+
+    senatorius, tada ir pasakė: „Šiandien jums pasakysiu
+    tai, apie ką ligi šiol tylėjau dėl pateisinamų ir svarbių
+    priežasčių. Barbora Radvilaitė — mano žmona, sutuokta
+    su manimi su visomis krikščioniškomis apeigomis jos
+    giminaičių akivaizdoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014

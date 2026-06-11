@@ -125,9 +125,9 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/seimelis]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]

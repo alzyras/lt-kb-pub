@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Dubrovna'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1562 m.'
@@ -16,6 +17,7 @@ tags:
 amziai:
   - 'XVI'
 ---
+
 # Dubrovna
 
 ## Santrauka
@@ -28,6 +30,11 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   teiginys: '1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad, turėdamas Dneprą už nugaros, gali būti priverstas kau tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė gas už upės, apsistojo Kropivnos upės pakrantėse, tarp Oršos ir Dubrovnos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +61,24 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad po šių įvykių Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad, turėdamas Dneprą už nugaros, gali būti priverstas kau tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė gas už upės, apsistojo Kropivnos upės pakrantėse, tarp Oršos ir Dubrovnos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo
+    pat metu netikėtai susidūrė prie Bobro abiejų kariuo­
+    menių sargybiniai būriai; lietuviai mūšyje maskvėnus
+    atstūmė ir daugybę jų paėmė į nelaisvę. Po šių įvykių
+    Čeliadninas, praradęs pirmykštį užmojį, pamanė, kad,
+    turėdamas Dneprą už nugaros, gali būti priverstas kau­
+    tis nepatogiomis sąlygomis, todėl, atitraukęs visas jė­
+    gas už upės, apsistojo Kropivnos upės pakrantėse, tarp
+    Oršos ir Dubrovnos. Ostrogiškis, ryžtingai jį persekio­
+    damas, pirmiausia patraukė į Oršą, ketindamas ten
+    persikelti per Dneprą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

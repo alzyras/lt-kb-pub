@@ -1,8 +1,9 @@
 ---
 tipas: asmuo
-pavadinimas: 'Traidenis'
+pavadinimas: 'Traidenis (valdovas, XIII a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -21,7 +22,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Traidenis
+# Traidenis (valdovas, XIII a.)
 
 ## Santrauka
 
@@ -103,6 +104,16 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
   pagrindžia:
     - c-002
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad mat tie, kurie vadinami jo sūnumis, buvo jau to kio amžiaus, kad jauniausias iš jų, Traidenis, Romuntui dar gyvam esant, vadovavo kariuomenei kaip vyriausiasis vadas.'
+  pagrindžia:
+    - c-012
+
+- t-018
+  teiginys: 'Kojelavičius teigia, kad valdovo sūnus ar seserėnas Traidenis, pačiam Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink lavęs asmeniškomis lėšomis trisdešimties tūkstančių kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo menės jis nusiaubė Mazoviją, o su likusiais dviem.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -278,37 +289,47 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   pagrindžia:
     - t-013
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Nameisis]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Apgulties mašinos]]
-- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
-- [[objektai/grupes/Gudai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
-- [[objektai/asmenys/Sirputis (Traidenio brolis)]]
-- [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
-- [[objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/lietopisis]]
-- [[objektai/zodynas/lietopisis lietopisiai]]
-- [[objektai/zodynas/tautiška politika]]
-- [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]
-- [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]
-- [[objektai/asmenys/Traidenis I]]
+- c-012
+  santrauka: 'Kojelavičius teigia, kad mat tie, kurie vadinami jo sūnumis, buvo jau to kio amžiaus, kad jauniausias iš jų, Traidenis, Romuntui dar gyvam esant, vadovavo kariuomenei kaip vyriausiasis vadas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip tei­
+    giama įvairių rašytojų, Ro­
+    muntas paliko penketą sūnų,
+    tačiau artesnis tiesai vos ke­
+    lių šaltinių minimas pasakojimas, jog jis mirė bevai­
+    kis. Mat tie, kurie vadinami jo sūnumis, buvo jau to­
+    kio amžiaus, kad jauniausias iš jų, Traidenis, Romun-
+    tui dar gyvam esant, vadovavo kariuomenei kaip
+    vyriausiasis vadas. Vargu ar galima patikėti, kad per
+    tokį trumpą laiką po Šventaragio mirties (tai yra vos
+    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
+    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
+    valdyti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad valdovo sūnus ar seserėnas Traidenis, pačiam Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink lavęs asmeniškomis lėšomis trisdešimties tūkstančių kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo menės jis nusiaubė Mazoviją, o su likusiais dviem.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vargu ar galima patikėti, kad per
+    tokį trumpą laiką po Šventaragio mirties (tai yra vos
+    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
+    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
+    valdyti. Valdovo sūnus ar seserėnas Traidenis, pačiam
+    Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink­
+    lavęs asmeniškomis lėšomis trisdešimties tūkstančių
+    kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
+    menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
+    daliais— Kulmo žemę. Po atkaklios apsiausties užėmęs
+    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
+    vė pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-018

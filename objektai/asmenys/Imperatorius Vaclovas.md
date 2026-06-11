@@ -49,3 +49,4 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Prancūzai]]
+- [[objektai/zodynas/įgula]]

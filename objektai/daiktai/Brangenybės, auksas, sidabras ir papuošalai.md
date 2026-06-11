@@ -75,7 +75,7 @@ Nenurodyta
 - [[temos/papuošalas]]
 
 ### Susiję objektai
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Pilies arklidės, kunigaikščio brangenybės ir sidabro luitai]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

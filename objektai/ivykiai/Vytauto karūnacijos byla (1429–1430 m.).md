@@ -3,13 +3,23 @@ tipas: ivykis
 pavadinimas: 'Vytauto karūnacijos byla (1429–1430 m.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1429 m.'
+  - '1430 m.'
+date_start: '1429'
+date_end: '1430'
 sukurta: ''
 atnaujinta: ''
 tags:
   - karūnacija
+  - konfliktas
+amziai:
+  - 'XV'
 ---
+
 # Vytauto karūnacijos byla (1429–1430 m.)
 
 ## Santrauka
@@ -50,17 +60,24 @@ Nenurodyta
 - t-003
   teiginys: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
   pagrindžia:
+    - c-003
     - c-007
 
 - t-004
   teiginys: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
   pagrindžia:
     - c-003
+    - c-001
 
 - t-005
   teiginys: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
   pagrindžia:
     - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad atvykęs į Lenkiją, jis sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nu spręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -211,19 +228,32 @@ Nenurodyta
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karūnacija]]
+- c-009
+  santrauka: 'Kojelavičius teigia, kad atvykęs į Lenkiją, jis sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nu spręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
+    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
+    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
+    iš Volynės į Vengriją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
 
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/bajorija - karalius]]
+
+### Laikotarpiai
+- XV amžius

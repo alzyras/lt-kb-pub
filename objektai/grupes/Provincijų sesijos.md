@@ -70,4 +70,5 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/generaliniai seimeliai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos]]

@@ -68,7 +68,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
 - [[objektai/asmenys/Antanas Goreckis]]
 - [[objektai/asmenys/Edvardas Riomeris]]

@@ -312,6 +312,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/daiktai/Rūbai]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]

@@ -68,5 +68,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/Savanoris]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/I. Drakša]]

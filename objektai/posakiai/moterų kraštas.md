@@ -42,6 +42,5 @@ Apie tokią moterų «karalystę» kalbėjo ir Adomas Bremenietis, kuris šiaip 
 ### Susiję objektai
 - [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]]
 - [[objektai/grupes/Lietgaliai]]
 - [[objektai/autoriai/Adomas Bremenietis]]

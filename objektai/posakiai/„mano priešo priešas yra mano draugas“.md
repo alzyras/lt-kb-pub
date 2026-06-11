@@ -74,7 +74,7 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/posakiai/mano priešo priešas yra mano draugas]]

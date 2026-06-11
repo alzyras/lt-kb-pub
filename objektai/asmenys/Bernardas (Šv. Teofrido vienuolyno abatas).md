@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Bernardas (Šv. Teofrido vienuolyno abatas)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1324 m.'
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Bernardas (Šv. Teofrido vienuolyno abatas)
 
 ## Santrauka
@@ -31,6 +33,11 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   teiginys: 'Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad teofrido vienuolyno abatas Bernardas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -60,8 +67,20 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/netikėliai]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad teofrido vienuolyno abatas Bernardas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo rei­
+    kalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­
+    rėdamas Livonijos ordiną aukščiausios galios vardu
+    priversti pagalvoti apie taiką, o lietuvius, garbingai
+    pasiuntinybei tarpininkaujant, paskatinti priimti krikš­
+    čionybę. Ir viena, ir kita šalis uoliai veikė: pasiunti­
+    niais tapo Alėto vyskupas Baltramiejus ir šv. Teofrido
+    vienuolyno abatas Bernardas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

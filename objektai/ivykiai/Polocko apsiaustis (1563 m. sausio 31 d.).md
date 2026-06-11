@@ -88,10 +88,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Ivanas]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/asmenys/Ivanas Rūstusis]]
 - [[objektai/ivykiai/Polocko praradimas]]
 - [[objektai/zodynas/apsiaustis]]

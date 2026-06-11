@@ -46,4 +46,5 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]
 - [[objektai/ivykiai/Totorių invazija į Vengriją ir Lenkiją (1241 m.)]]

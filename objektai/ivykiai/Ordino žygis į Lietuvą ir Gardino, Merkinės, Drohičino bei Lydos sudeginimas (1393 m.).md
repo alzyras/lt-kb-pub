@@ -64,4 +64,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/žygis]]

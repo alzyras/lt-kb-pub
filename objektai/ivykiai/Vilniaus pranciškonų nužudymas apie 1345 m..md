@@ -116,7 +116,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
@@ -124,3 +124,4 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/prastuomenė]]

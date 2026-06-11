@@ -103,5 +103,5 @@ Nenurodyta
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/autoriai/Albertas Goštautas]]
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]

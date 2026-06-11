@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Kuršiai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -16,6 +17,7 @@ atnaujinta: ''
 tags:
   - grupe
   - upė
+  - šventė
 amziai:
   - 'XIII'
   - 'XXI'
@@ -97,6 +99,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.'
   pagrindžia:
     - c-008
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad staiga kilusi grėsmė išjudino galybę kuršių, žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan čią vergovę, varganas likimas akivaizdžiausiai rodė, kaip labai pavojinga iš pat pradžių neatremti visomis jėgomis į kovą pakilusio priešo.'
+  pagrindžia:
+    - c-012
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad kitais metais Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę tik savo šalyje priešintis LiL en kai k v ie č ia iš V o - vonijos riteriams, dabar liek ie tijo s į P rū siją k r y - tuviai buvo nusiųsti pulti žiu o č iu s priešų žemių.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -280,59 +292,48 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   pagrindžia:
     - t-015
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietgaliai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Vikingai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vienkiemiai]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje]]
-- [[objektai/ivykiai/Apuolės apgula (853 m.)]]
-- [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
-- [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
-- [[objektai/asmenys/Engelbertas]]
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Fridrichas, vadinamas Hole]]
-- [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
-- [[objektai/asmenys/Konradas Žakas]]
-- [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
-- [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]
-- [[objektai/grupes/Lamatiečiai]]
-- [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
-- [[objektai/grupes/Lybiai]]
-- [[objektai/autoriai/Mažiulis V]]
-- [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]
-- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
-- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
-- [[objektai/autoriai/Rimbertas]]
-- [[objektai/autoriai/Rimberto, Rimbertas]]
-- [[objektai/autoriai/Saxo Grammaticus]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Skandinavai]]
-- [[objektai/asmenys/Sklodas iš Kvedenavos]]
-- [[objektai/autoriai/V. Mažiulis]]
-- [[objektai/asmenys/Volkvinas]]
-- [[objektai/zodynas/atskalūnybė atskalūnai]]
-- [[objektai/zodynas/kuopiniai kaimai]]
-- [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]
-- [[objektai/daiktai/Šventojo kryžiaus ženklas]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- [[objektai/zodynas/vakariniai baltai]]
-- [[objektai/grupes/Sėliai]]
+- c-012
+  santrauka: 'Kojelavičius teigia, kad staiga kilusi grėsmė išjudino galybę kuršių, žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan čią vergovę, varganas likimas akivaizdžiausiai rodė, kaip labai pavojinga iš pat pradžių neatremti visomis jėgomis į kovą pakilusio priešo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kolonijos Agripinos6 ar­
+    kivyskupas Avigenas ne tik pats su kariuomene pa­
+    traukė į žygį, bet netgi jai nelyginant etmonas vado­
+    vavo. Staiga kilusi grėsmė išjudino galybę kuršių,
+    žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan­
+    čią vergovę, varganas likimas akivaizdžiausiai rodė,
+    kaip labai pavojinga iš pat pradžių neatremti visomis
+    jėgomis į kovą pakilusio priešo. Šitokios mintys teikė
+    nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
+    sos, kad, greitosiomis sutelktai miniai užpuolus, pirma­
+    me susidūrime buvo sutriuškinti prityrę krikščionių
+    kariai, o pats arkivyskupas žuvo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad kitais metais Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę tik savo šalyje priešintis LiL en kai k v ie č ia iš V o - vonijos riteriams, dabar liek ie tijo s į P rū siją k r y - tuviai buvo nusiųsti pulti žiu o č iu s priešų žemių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kitais metais
+    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
+    tik savo šalyje priešintis Li-
+    L en kai k v ie č ia  iš V o -
+    vonijos riteriams, dabar lie-
+    k ie tijo s  į P rū siją  k r y -
+    tuviai buvo nusiųsti pulti
+    žiu o č iu s
+    priešų žemių. Sutelkus di­
+    džiulę
+    kuršių ir žemaičių
+    kariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­
+    taip Utenis privertė priešą liautis puldinėjus Žemaiti­
+    ją ir ginti savo kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

@@ -68,3 +68,8 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
+- [[objektai/zodynas/seimas]]

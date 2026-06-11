@@ -78,7 +78,8 @@ Nenurodyta
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Augustas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

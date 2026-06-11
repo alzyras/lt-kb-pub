@@ -91,6 +91,7 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
 - [[objektai/grupes/Anglai]]
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Prancūzai]]

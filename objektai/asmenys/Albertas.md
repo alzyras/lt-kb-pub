@@ -120,6 +120,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
 - [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
 - [[objektai/asmenys/Albertas iš Meiseno]]
+- [[objektai/daiktai/Antspaudas]]
 - [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
 - [[objektai/asmenys/Ditrichas (Meiseno markgrafas)]]
 - [[objektai/grupes/Dobrinės ordinas]]

@@ -66,7 +66,7 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Andrejus Tyckis]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/autoriai/Ignacas Danilavičius Danilowicz]]
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/autoriai/Ignas Danilavičius]]

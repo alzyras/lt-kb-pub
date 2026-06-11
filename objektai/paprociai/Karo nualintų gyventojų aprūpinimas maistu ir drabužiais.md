@@ -79,6 +79,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/grupes/Vilniaus gyventojai]]

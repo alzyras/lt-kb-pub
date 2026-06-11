@@ -167,6 +167,7 @@ amziai:
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Manfredas]]
 - [[objektai/grupes/NATO]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

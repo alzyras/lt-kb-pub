@@ -83,6 +83,7 @@ Nenurodyta
 - [[objektai/asmenys/Janas Chodzka]]
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Jokūbas Šimkevičius]]
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - [[objektai/asmenys/Juozapas Zavadskis]]
 - [[objektai/asmenys/Kazimieras Kontrimas]]
 - [[objektai/asmenys/Janas Lasickis]]

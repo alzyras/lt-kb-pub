@@ -50,4 +50,5 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/prastuomenė]]
 - [[objektai/zodynas/vergai]]

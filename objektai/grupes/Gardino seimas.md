@@ -104,6 +104,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Karo ir iždo komisijos]]
 - [[objektai/grupes/Nuolatinė Taryba]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

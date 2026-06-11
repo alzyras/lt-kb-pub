@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Oka'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -9,6 +10,7 @@ tags:
   - upė
   - vieta
 ---
+
 # Oka
 
 ## Santrauka
@@ -21,6 +23,11 @@ tags:
   teiginys: '339, 344 Oeselio (Saaremos) sala 202 Oka, upė 21, 38, 124, 159, 262, 313, 320-322, 371 Olafas Tryggvasonar 114, 115 Olandijos grafas Vilhelmas 249 Olegas Jonaitis, Riazanės kng.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad patikrinęs prie Smolensko karių kovinę pa rengtį, Vytautas atskyrė lengvąją kavaleriją ir įsakė jai žygiuoti sparnuose, gerokai atsitraukus nuo pagrindinių jėgų, ir ugnimi bei kalaviju siaubti šalį iki pat Okos, kur turėjo sustoti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +66,34 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad patikrinęs prie Smolensko karių kovinę pa rengtį, Vytautas atskyrė lengvąją kavaleriją ir įsakė jai žygiuoti sparnuose, gerokai atsitraukus nuo pagrindinių jėgų, ir ugnimi bei kalaviju siaubti šalį iki pat Okos, kur turėjo sustoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sutartą dieną ten atvyko
+    Rumbaudas, Lietuvos maršalas, atsivedęs lietuvius ir že­
+    maičius, Olelka, arba Aleksandras, Slucko kunigaikštis,
+    su kryžiuočiais ir Volynės kariais, Ivanas Boreikaitis
+    Chodkevičius su Seversko bei Smolensko kariais, Len­
+    kijoje pasamdyti raitieji ietininkai, vedami Zbignevo iš
+    Bžezės, ir Prūsijos magistro
+    V y ta u ta s
+    įsiv e ržia
+    į
+    pasiųstas į pagalbą pėstinin-
+    M a s k v o s  v a ld a s
+    kų būrys.
+    Patikrinęs prie
+    Smolensko karių kovinę pa­
+    rengtį, Vytautas atskyrė lengvąją kavaleriją ir įsakė jai
+    žygiuoti sparnuose, gerokai atsitraukus nuo pagrindinių
+    jėgų, ir ugnimi bei kalaviju siaubti šalį iki pat Okos,
+    kur turėjo sustoti. Pats Vytautas nuvedė tiesiai į priekį
+    tarp niokojančių raitijos būrių sunkiau ginkluotus ka­
+    rius bei gurguoles.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

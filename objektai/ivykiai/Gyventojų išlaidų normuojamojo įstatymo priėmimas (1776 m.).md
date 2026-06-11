@@ -85,3 +85,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/seimas]]

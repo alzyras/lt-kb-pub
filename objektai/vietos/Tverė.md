@@ -3,12 +3,14 @@ tipas: vieta
 pavadinimas: 'Tverė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1328 m.'
+  - '1486 m.'
   - '2026 m.'
 date_start: '1328'
 date_end: '2026'
@@ -175,6 +177,16 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginys: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
   pagrindžia:
     - c-021
+
+- t-031
+  teiginys: 'Kojelavičius teigia, kad gyvendamas Vilniuje, priėmė į sve čius Tverės didįjį kunigaikštį, atklydusį iš tolimos Rusios.'
+  pagrindžia:
+    - c-023
+
+- t-032
+  teiginys: 'Kojelavičius teigia, kad žadėdamas amžiną santarvę ir deramą karinę pagalbą bet kuriuo at- 1486 m e ta i veju, jis ragino ir kalbino karalių atkeršyti už jam pa darytą skriaudą, ypač dėl to, kad visa Tverė, atsikra čiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais, o šia.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 
@@ -573,3 +585,63 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   statusas: verified
   pagrindžia:
     - t-030
+
+- c-023
+  santrauka: 'Kojelavičius teigia, kad gyvendamas Vilniuje, priėmė į sve čius Tverės didįjį kunigaikštį, atklydusį iš tolimos Rusios.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sutvarkęs Valachijos reikalus, karalius nuvyko į
+    Lietuvą, nes, bėgant metams ir nykstant dvasios žva­
+    lumui, vis labiau vengė valstybinių reikalų ir vis smar­
+    kiau mėgo medžioklę,
+    o ypač taurų, kurių Lenkijoje
+    negalima užtikti. Gyvendamas Vilniuje, priėmė į sve­
+    čius Tverės didįjį kunigaikštį, atklydusį iš tolimos
+    533
+
+    ## Puslapis 532
+
+    Rusios. Kai Tvėrėje ar dėl
+    M a s k v o s
+    ku n ig a ik š-
+    Maskvos valdovo Vasiljevi-
+    tis užima T v e r ę
+    čiaus klastos, ar dėl kokių ki­
+    tų priežasčių kilo maištas, ku­
+    nigaikštis, valdinių išvytas iš savo senolių valdų, pabė­
+    go pas karalių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-031
+
+- c-024
+  santrauka: 'Kojelavičius teigia, kad žadėdamas amžiną santarvę ir deramą karinę pagalbą bet kuriuo at- 1486 m e ta i veju, jis ragino ir kalbino karalių atkeršyti už jam pa darytą skriaudą, ypač dėl to, kad visa Tverė, atsikra čiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais, o šia.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai Tvėrėje ar dėl
+    M a s k v o s
+    ku n ig a ik š-
+    Maskvos valdovo Vasiljevi-
+    tis užima T v e r ę
+    čiaus klastos, ar dėl kokių ki­
+    tų priežasčių kilo maištas, ku­
+    nigaikštis, valdinių išvytas iš savo senolių valdų, pabė­
+    go pas karalių. Žadėdamas amžiną santarvę ir deramą
+    karinę pagalbą bet kuriuo at-
+    1486 m e ta i
+    veju, jis ragino ir kalbino
+    karalių atkeršyti už jam pa­
+    darytą skriaudą, ypač dėl to, kad visa Tverė, atsikra­
+    čiusi teisėto kunigaikščio valdžios, susivienijo su mas-
+    kvėnais, o šia sąjunga Vasiljevičius galėjo smarkiai
+    sustiprinti savo jėgas, jeigu jam kuo greičiausiai nebū­
+    siąs duotas atkirtis. Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-032

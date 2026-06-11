@@ -2,12 +2,14 @@
 tipas: asmuo
 pavadinimas: 'Albertas iš Meiseno'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
 ---
+
 # Albertas iš Meiseno
 
 ## Santrauka
@@ -55,6 +57,11 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   pagrindžia:
     - c-005
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -154,12 +161,20 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   pagrindžia:
     - t-006
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/daiktai/Deglas]]
-- [[objektai/daiktai/Paplotėlis]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tegu su kariais netikėtai pasirodąs, iš pa­
+    čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
+    sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­
+    nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,
+    kuris parėmė sumanymą. Žygis nereikalavo didelės ka­
+    riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
+    lengvai ginkluotų, bet drąsių, ne per daug besidomin­
+    čių vado planais karių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

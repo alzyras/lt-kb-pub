@@ -57,6 +57,7 @@ Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmoni�
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Maudelis]]
 - [[objektai/grupes/Nadruviai]]
 - [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]

@@ -238,6 +238,7 @@ Nenurodyta
 - [[objektai/asmenys/A. Liuneburgietis]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Machmetas]]
 - [[objektai/grupes/Sapiegos]]

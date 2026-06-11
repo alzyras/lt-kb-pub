@@ -179,6 +179,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Karūna]]
@@ -186,10 +187,11 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/asmenys/Lizdeika]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/posakiai/Rex Lethowye]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]

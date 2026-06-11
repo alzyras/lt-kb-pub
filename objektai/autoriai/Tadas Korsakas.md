@@ -100,6 +100,7 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

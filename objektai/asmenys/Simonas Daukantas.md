@@ -203,6 +203,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vilniaus archeologijos komisija]]
 - [[objektai/zodynas/metrika]]
+- [[objektai/zodynas/senatas]]
 - [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
 - [[objektai/posakiai/„Šlovė žemaičių“]]

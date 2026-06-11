@@ -128,4 +128,3 @@ periodo_grupes:
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]

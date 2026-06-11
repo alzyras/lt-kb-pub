@@ -140,5 +140,6 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Ketverių metų seimas]]

@@ -56,8 +56,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Šach Achmedas]]

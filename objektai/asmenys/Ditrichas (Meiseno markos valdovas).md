@@ -57,3 +57,4 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
 ### Susiję objektai
 - [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įgula]]

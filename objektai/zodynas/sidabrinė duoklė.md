@@ -77,4 +77,5 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]
 - [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/sidabrinė duoklė tributum serebsčina]]

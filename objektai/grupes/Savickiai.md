@@ -49,10 +49,11 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Cimermanas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Neliubovičiai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Zalivskiai]]
 - [[objektai/asmenys/Jonas Neliubovičius]]
 - [[objektai/asmenys/Kristupas Zalivskis]]

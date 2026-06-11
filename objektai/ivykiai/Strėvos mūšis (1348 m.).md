@@ -194,6 +194,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Karolis Zikaras]]

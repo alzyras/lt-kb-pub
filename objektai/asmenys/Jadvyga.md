@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jadvyga'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -55,6 +56,11 @@ periodo_grupes:
   teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-004
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad tarpininke patys kunigaikščiai pasirinko karalienę Jadvygą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -151,34 +157,23 @@ periodo_grupes:
   pagrindžia:
     - t-007
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/posakiai/„Šventos santuokos“]]
-- [[objektai/asmenys/Andrius iš Vasilevo Važila]]
-- [[objektai/asmenys/Bodzanta]]
-- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
-- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/grupes/Jastžembcų giminė]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/grupes/Lenkų didžponiai]]
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]
-- [[objektai/grupes/Piastų dinastija]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/posakiai/wieszczym duchem]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad tarpininke patys kunigaikščiai pasirinko karalienę Jadvygą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Siekdamas santarvės, pats
+    nesiėmė tarpininkauti, nenorėdamas sukelti abipu­
+    sės brolių neapykantos. Tarpininke patys kunigaikščiai
+    pasirinko karalienę Jadvygą.
+    K a ra lien ei
+    tarpinin-
+    Jos rūpesčiu, po ilgų žodinių
+    kau ja n t, S k irgaila ir
+    ginčų galop buvo susitarta
+    V y ta u ta s  su sita ik o
+    šitokiomis sąlygomis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008

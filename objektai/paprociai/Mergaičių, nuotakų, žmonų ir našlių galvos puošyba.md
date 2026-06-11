@@ -121,6 +121,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Nuometai]]

@@ -124,6 +124,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/separatizmas]]

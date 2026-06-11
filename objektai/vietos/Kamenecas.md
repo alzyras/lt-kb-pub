@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Kamenecas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -11,6 +12,7 @@ tags:
   - valdovas
   - vieta
 ---
+
 # Kamenecas
 
 ## Santrauka
@@ -28,6 +30,16 @@ tags:
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad kamenecą atėmė iš priešo po as tuonių apsiausties dienų.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas, Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini gų, atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą, Červonogradą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -83,3 +95,46 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad kamenecą atėmė iš priešo po as tuonių apsiausties dienų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Praėjus kelioms
+    dienoms, pasidavė Suražas, vėliau po staigaus antpuolio
+    275
+
+    ## Puslapis 274
+
+    užėmė Melniką. Kamenecą atėmė iš priešo po as­
+    tuonių apsiausties dienų. Sėkmingai atgavus Poleksi-
+    ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
+    nę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad kadangi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas, Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini gų, atidavė karalystei ir karaliui Kamenecą, Smotričių, Skalą, Červonogradą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Veikiau norėdamas len­
+    kus labiau palenkti į karalių, Vytautas galop sutiko nu­
+    sileisti, bet pareikalavo kaip atlyginimo keturiasdešimt
+    tūkstančių lenkų auksinų (vadinamųjų florinų). Kadan-
+    346
+
+    ## Puslapis 345
+
+    gi valstybės iždas buvo dėl karų ištuštėjęs, Vytautas,
+    Spitekui iš Melštino, Krokuvos vaivadai, parūpinus pini­
+    gų, atidavė karalystei ir karaliui Kamenecą, Smotričių,
+    Skalą, Červonogradą. Vėliau šių valdų vietininku kara­
+    lius laikinai buvo paskyręs Spiteką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Dovydas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
@@ -12,6 +13,7 @@ tags:
   - karas
   - pilis
 ---
+
 # Dovydas
 
 ## Santrauka
@@ -24,6 +26,11 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginys: 'Dovydas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę ir ją nusiaubė prieš pat minėtas paliaubas.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad dėl vieno bajoro nepaprastos drąsos žuvo pulko vadas Dovydas, garsus sveL ietu vio v a d o D o v y - timuose kraštuose karo žy do š lo v ė ir m irtis giais, o tėvynėje aukščiau siomis pareigybėmis ir gimi nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -78,17 +85,26 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Dovilas, arba Dovydas]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/asmenys/Erdenas, arba Jerdenas]]
-- [[objektai/asmenys/Maukoldas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Vidas, pramintas Vilku]]
-- [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
-- [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad dėl vieno bajoro nepaprastos drąsos žuvo pulko vadas Dovydas, garsus sveL ietu vio v a d o D o v y - timuose kraštuose karo žy do š lo v ė ir m irtis giais, o tėvynėje aukščiau siomis pareigybėmis ir gimi nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dėl vieno bajoro nepaprastos drąsos žuvo pulko
+    vadas Dovydas, garsus sve-
+    L ietu vio  v a d o  D o v y -
+    timuose kraštuose karo žy­
+    do š lo v ė  ir m irtis
+    giais, o tėvynėje aukščiau­
+    siomis pareigybėmis ir gimi­
+    nyste su valdovu, kurio dukterį buvo vedęs; jis žuvo
+    tada, kai, grįždamas su kariuomene namo, siaubė Ma-
+    zoviją. Šis didvyris iš tiesų buvo vertas geresnio liki­
+    mo. Visada jis rodydavęs tokį karinį sumanumą, vi­
+    sada jį lydėjusi tokia lemtinga sėkmė, kad ligi tol be­
+    maž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­
+    gai užbaigęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

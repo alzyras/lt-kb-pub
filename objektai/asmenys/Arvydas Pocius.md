@@ -107,5 +107,6 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/ivykiai/1991 m. rugpjūčio Maskvos pučas]]

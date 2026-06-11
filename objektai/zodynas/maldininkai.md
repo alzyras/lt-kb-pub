@@ -170,12 +170,14 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Fridrichas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/asmenys/Simeonas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/žygis]]

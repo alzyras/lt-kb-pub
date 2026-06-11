@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Zemovitas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1224 m.'
@@ -20,6 +21,7 @@ amziai:
 periodo_grupes:
   - 'viduramžiai'
 ---
+
 # Zemovitas
 
 ## Santrauka
@@ -32,6 +34,16 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad zemovitas netruko pajusti esąs nemalonus svečias: abudu nesistengė suteikti pabėgėliui deramos pagalbos; iškilo aikštėn jųdviejų baimė, nors ir slepiama: mat nenorėjo jiedu nei neramios Vytauto širdies užgauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus karui, patys vienaip ar kitaip išvengtų bėdos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -62,15 +74,58 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]
-- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
+    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
+    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
+    norėdamas turėti laisvesnes
+    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
+    užmegzta rusų ir lietuvių
+    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
+    Mazovijos žemėn. Mindaugas, susilaukęs paramos iš
+    rusų, slaptai ir netikėtai didžiulių miškų takais įsibro­
+    vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei
+    jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa­
+    ros karštymetyje gyvenančius su visa palyda. Metus
+    burtus, Zemovitas pakliuvo Švarnui į nelaisvę, o Kon­
+    radas — Mindaugui; pastarasis buvo draugiškai lietu­
+    vio priimtas, o jo žmonėms sumokėjus išpirką, sugrą­
+    žintas į tėvo valdas, vargšas Zemovitas tuo tarpu žu­
+    vo ruso netrukus žiauriai nukankintas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad zemovitas netruko pajusti esąs nemalonus svečias: abudu nesistengė suteikti pabėgėliui deramos pagalbos; iškilo aikštėn jųdviejų baimė, nors ir slepiama: mat nenorėjo jiedu nei neramios Vytauto širdies užgauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus karui, patys vienaip ar kitaip išvengtų bėdos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nieko nepešęs
+    klasta, metė savo sumanymus ir, aplinkybių verčiamas,
+    ėmė rengtis atvirai kovai, būdamas tikras, jog ir Kazi­
+    mieras netruks prieš jį griebtis ginklo, ir karalius Jo­
+    gaila skubiai iš Lenkijos atsiųs pagalbos. Smarkiai su­
+    stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių
+    karių įgulas Gardine, Suraže, Breste, Kamenece ir ki­
+    tose pilyse, pats su žmona, šeimyna, brangiaisiais in­
+    dais bei savo šalininkais pa-
+    P abėga į M a z o v iją
+    sitraukė į Mazoviją pas ku­
+    nigaikščius Jonušą ir Zemo-
+    vitą, savo giminaičius. Šiedu vis dėlto Vytautą taip
+    priėmė, jog jis netruko pajusti esąs nemalonus svečias:
+    abudu nesistengė suteikti pabėgėliui deramos pagal­
+    bos; iškilo aikštėn jųdviejų baimė, nors ir slepiama:
+    mat nenorėjo jiedu nei neramios Vytauto širdies už­
+    gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
+    rui, patys vienaip ar kitaip išvengtų bėdos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

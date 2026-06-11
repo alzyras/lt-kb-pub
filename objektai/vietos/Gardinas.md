@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Gardinas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -11,6 +12,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1295 m.'
+  - '1304 m.'
+  - '1468 m.'
   - '1568 m.'
 date_start: '1295'
 date_end: '1568'
@@ -397,6 +400,31 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginys: 'Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.'
   pagrindžia:
     - c-017
+
+- t-077
+  teiginys: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  pagrindžia:
+    - c-055
+
+- t-078
+  teiginys: 'Kojelavičius teigia, kad atvykus šiems pagalbinin kams, magistras Konradas, atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą ir žiauriai nuniokojo visą Gardino kraštą.'
+  pagrindžia:
+    - c-056
+
+- t-079
+  teiginys: 'Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.'
+  pagrindžia:
+    - c-057
+
+- t-080
+  teiginys: 'Kojelavičius teigia, kad iš ten karalius nuvyko į Lietuvą ir likusius žiemos mėnesius praleido Kaune, nes Vil niuje ir Gardine siautė maras.'
+  pagrindžia:
+    - c-058
+
+- t-081
+  teiginys: 'Kojelavičius teigia, kad gardino seime luomai svarstė visokiausius valsty bės reikalus tuo metu, kai visuotinę baimę sukėlė dantikresnę pranašystę atvežė Mengli Girėjaus pasiuntiniai, sakydami, kad Užvolgio skitų chanas Maniakas rengia karą prieš Rusią.'
+  pagrindžia:
+    - c-059
 
 ## Reikšmingi paminėjimai
 
@@ -1433,3 +1461,130 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   statusas: verified
   pagrindžia:
     - t-076
+
+- c-055
+  santrauka: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
+    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
+    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
+    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
+    didžiulį grobį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-077
+
+- c-056
+  santrauka: 'Kojelavičius teigia, kad atvykus šiems pagalbinin kams, magistras Konradas, atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą ir žiauriai nuniokojo visą Gardino kraštą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Grafas Verneris fon Hoinbergas ir
+    Adolfas fon Vintimelis bei
+    kiti Reino krašto didikai kaip
+    tik buvo atvykę į Prūsiją.
+    Atvykus šiems pagalbinin­
+    kams,
+    magistras Konradas,
+    atgavęs drąsą, dviem žygio voromis įsiveržė į Lietuvą
+    ir žiauriai nuniokojo visą Gardino kraštą. Taip pat Ka­
+    raliaučiaus komtūras Eberhardas fon Firneburgas, po
+    1304 m e ta i
+    P rū sijos
+    k ry žiu o čių
+    karas p rie š lie tu v iu s
+    182
+
+    ## Puslapis 181
+
+    Svirtilo išdavystės vėl užėmęs Aukaimio pilį, kurią,
+    kryžiuočių sugriautą, lietuviai buvo atstatę, išžudė gy­
+    nėjus ir sulygino su žeme įtvirtinimus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-078
+
+- c-057
+  santrauka: 'Kojelavičius teigia, kad magistras Konradas, gavęs ži nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė Albertui Hagenui staiga užpulti Gardino pilį ir miestą, likusius be gynėjų, ir užimti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kol lietuviai šitaip siautėjo Lenkijoje,
+    niekas jiems nepastojo kelio ir niekas nedrįso perse­
+    kioti traukiančių namo. Magistras Konradas, gavęs ži­
+    nią apie lenkų pralaimėjimą, pamanė, kad Gardino gy­
+    nėjai su kitais kariais išvesti į Lenkiją, todėl įsakė
+    Albertui Hagenui staiga užpulti Gardino pilį ir miestą,
+    likusius be gynėjų, ir užimti. Linksmai nusiteikę, prie­
+    šai iš arti grasino piliai, vildamiesi, jog klastingas su­
+    manymas pasiseks, tačiau jų kėslus suardė kilusi ne­
+    regėta audra.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-079
+
+- c-058
+  santrauka: 'Kojelavičius teigia, kad iš ten karalius nuvyko į Lietuvą ir likusius žiemos mėnesius praleido Kaune, nes Vil niuje ir Gardine siautė maras.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi menkame miestelyje nebuvo nei tinkamų būs­
+    tų gyventi, nei deramos menės bendriems posėdžiams,
+    be to, vargu ar čia galėjo tikėtis kokių patogumų žie-
+    5 1 4
+
+    ## Puslapis 513
+
+    mą, vėl visą reikalą atidėjo kitiems metams ir, nieko
+    nenuveikę, išsiskirstė. Iš ten karalius nuvyko į Lietuvą
+    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
+    niuje ir Gardine siautė maras.
+    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
+    vikas, Antiochijos
+    patriar­
+    chas, popiežiaus pasiuntinys.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-080
+
+- c-059
+  santrauka: 'Kojelavičius teigia, kad gardino seime luomai svarstė visokiausius valsty bės reikalus tuo metu, kai visuotinę baimę sukėlė dantikresnę pranašystę atvežė Mengli Girėjaus pasiuntiniai, sakydami, kad Užvolgio skitų chanas Maniakas rengia karą prieš Rusią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    T aigi n u m o jęs ra n k a  į Č ekiją, k araliu s sugrįžo į Lie-
+    gaus reiškiniai, ištisas p en k io lik a d ien ų  šiau rės ly tu o se
+    spindėjo didžiulė kom eta, kuri, p asak  daugelio, p ra ­
+    našav u si visiem s didžiulius negandus. V is dėlto k u r k as
+    SIS
+    S k ita i a u k štin a  K a z i­
+    m ierą
+    valdovui Ač Girėjui, jo sū­
+    nus Mengli Girėjus, paskel­
+    btas sosto įpėdiniu, atsiuntė
+    didelę pasiuntinybę, sakyda-
+    1468 m e ta i
+    N io k o ja  Rusią
+    tuvą. Gardino seime luomai
+    svarstė visokiausius valsty­
+    bės reikalus tuo metu, kai
+    visuotinę baimę sukėlė dan-
+
+    ## Puslapis 517
+
+    tikresnę pranašystę atvežė Mengli Girėjaus pasiuntiniai,
+    sakydami, kad Užvolgio skitų chanas Maniakas rengia
+    karą prieš Rusią.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-081

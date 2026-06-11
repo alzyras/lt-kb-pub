@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Žygimantas Kaributaitis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -37,6 +38,11 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   teiginys: '1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.'
   pagrindžia:
     - c-001
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad kol dar žinia apie šį susitarimą nebuvo pasie kusi Lietuvos, kunigaikštis Žygimantas Kaributaitis, staiga įsiveržęs į Prūsiją, užėmė tris miestus su tvirto vėmis ir nuniokojo aplinkines žemes.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -105,14 +111,27 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių]]
+- c-004
+  santrauka: 'Kojelavičius teigia, kad kol dar žinia apie šį susitarimą nebuvo pasie kusi Lietuvos, kunigaikštis Žygimantas Kaributaitis, staiga įsiveržęs į Prūsiją, užėmė tris miestus su tvirto vėmis ir nuniokojo aplinkines žemes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi karalius
+    labiau troško taikos nei karo, kryžiuočiai, pasirodžius
+    taikos prošvaistėms, be didelio vargo pasiekė, kad jis,
+    išleidęs iš rankų progą sėkmingai užbaigti karą, sutiko
+    sudaryti paliaubas, kurios turėjo trukti ligi kitų metų
+    birželio. Kol dar žinia apie šį susitarimą nebuvo pasie­
+    kusi Lietuvos, kunigaikštis Žygimantas Kaributaitis,
+    staiga įsiveržęs į Prūsiją, užėmė tris miestus su tvirto­
+    vėmis ir nuniokojo aplinkines žemes. Kai žinia apie šį
+    žygį pasiekė karaliaus rūmus, Jogaila, bijodamas, kad
+    savo ruožtu kryžiuočiai nesurengtų šitokio išpuolio, be­
+    matant pasiuntė žygūnus, stengdamasis magistrui pasi­
+    teisinti dėl Žygimanto veiksmų ir reikalaudamas, kad
+    visa tai, kas įvyko nežinant apie paliaubas, nieku būdu
+    nepažeistų neseniai sudaryto susitarimo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

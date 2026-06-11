@@ -47,6 +47,5 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/asmenys/Fulvio Ruggieri]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

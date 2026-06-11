@@ -2,11 +2,13 @@
 tipas: vieta
 pavadinimas: 'Pagraudė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1316 m.'
   - '1317 m.'
-date_start: '1317'
-date_end: ''
+date_start: '1316'
+date_end: '1317'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -44,6 +46,11 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginys: 'Dusburgietis teigia, kad trečią dieną po to tas pat brolis Eberhardas su savo kariuomene staiga įsiveržė, kaip, beje, magistro ir buvo iš anksto nurodyta, į Lietuvos valsčių, vardu Pagraudė, ir nusiaubė didžiąją jo dalį, degindamas ir plėšdamas.'
   pagrindžia:
     - c-003
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -129,3 +136,23 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   statusas: verified
   pagrindžia:
     - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kitų metų pradžioje kryžiuočiai, pasinaudodami
+    pergale, pasiuntė skirtingais keliais skirtingas kariau­
+    nas krašto niokoti. Kai Chris-
+    1316 m e ta i
+    tmemelio įgula buvo įviliota
+    į pasalas ir sunaikinta, jie
+    nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
+    Sis pralaimėjimas atnešė nelaimę ne tik kraštui, bet
+    ir Sudargo šeimynai, nes netikėtai pasirodęs priešas
+    paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

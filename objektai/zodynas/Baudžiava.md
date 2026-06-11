@@ -326,6 +326,7 @@ Nenurodyta
 - [[objektai/autoriai/Adomas Honorijus Kirkoras]]
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/ivykiai/Aleksandro II reformų pradžia]]
+- [[objektai/asmenys/Bogdanas Chmelnickis]]
 - [[objektai/asmenys/Eustachijus Tiškevičius]]
 - [[objektai/ivykiai/Napoleono karo kampanija Rusijos imperijos gilumoje]]
 - [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]

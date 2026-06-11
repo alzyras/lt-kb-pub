@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Vytautas (Lietuvos valdovas, XIV–XV a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -11,9 +12,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1387 m.'
-  - '1430 m.'
+  - '1500 m.'
 date_start: '1387'
-date_end: '1430'
+date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -52,6 +53,298 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     šaltiniai:
       - Vytautas Didysis 1350-1430 (1930 m.)
 
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/daiktai/Karinė ginkluotė]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
+- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/grupes/Moravai]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vydimantas]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/christianizacija]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vasalystė]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]
+- [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
+- [[objektai/grupes/ATAS]]
+- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
+- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
+- [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/paprociai/Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių]]
+- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
+- [[objektai/asmenys/Danuta]]
+- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
+- [[objektai/autoriai/Detmaro Liubeko]]
+- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]
+- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas ir jo tėvynė]]
+- [[objektai/grupes/Didžlenkiai]]
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
+- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/daiktai/Halka]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
+- [[objektai/grupes/JAV lietuviai]]
+- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
+- [[objektai/asmenys/Jonas Paleologas]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]
+- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
+- [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Karo partija]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/posakiai/Kiedy tak, užyję ja innych środków do dopięcia celu]]
+- [[objektai/autoriai/Kliausis, lg]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
+- [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
+- [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
+- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
+- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
+- [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
+- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]
+- [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
+- [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/Mahometoniškas tikėjimas]]
+- [[objektai/asmenys/Maldžykas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Manuelis]]
+- [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/asmenys/Muradas II]]
+- [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
+- [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
+- [[objektai/posakiai/Ne bičiulystės, o teisybės]]
+- [[objektai/grupes/Okos aukštupio kunigaikščiai]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/daiktai/Palapinės]]
+- [[objektai/grupes/Pamario kunigaikščių sąjunga]]
+- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
+- [[objektai/grupes/Pietų Lietuvos sritis]]
+- [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo]]
+- [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
+- [[objektai/grupes/Podoliečiai]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
+- [[objektai/ivykiai/Salyno sutartis|Salyno sutartis (sutartis)]]
+- [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
+- [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
+- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
+- [[objektai/asmenys/Spytekas iš Melštyno]]
+- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
+- [[objektai/grupes/Taikos partija]]
+- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/asmenys/Tochtamišas]]
+- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/grupes/Totorių pajėgos]]
+- [[objektai/posakiai/Trojos gudrumu]]
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
+- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
+- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
+- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
+- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/ivykiai/Vorsklos katastrofa]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/asmenys/Vygandas von Baldersheimas]]
+- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
+- [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
+- [[objektai/paprociai/Vytauto donacijos Medininkų vyskupijai ir bažnyčioms]]
+- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
+- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
+- [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
+- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
+- [[objektai/posakiai/Vytauto politika lyg koks didelis tinklas jis jo akis tai suveda, tai paleidžia, tai naujai sumezga]]
+- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
+- [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/paprociai/Vytauto tarpininkavimas ginčuose laiškais ir dovanomis]]
+- [[objektai/daiktai/Vytauto ženklas]]
+- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
+- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/asmenys/Zofija Algimantaitė]]
+- [[objektai/zodynas/avantiūristas]]
+- [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
+- [[objektai/zodynas/bažnytinė provincija]]
+- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/dominija]]
+- [[objektai/posakiai/du priešai, šaltis ir totoriai]]
+- [[objektai/posakiai/dux Russiae]]
+- [[objektai/zodynas/ekskomunika]]
+- [[objektai/zodynas/emyras]]
+- [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]
+- [[objektai/posakiai/galingi gyvenimo faktai toliau už jas nužengia arba jas padaro be vertės, tylinčiais popieriais]]
+- [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/zodynas/indulgencija]]
+- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
+- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
+- [[objektai/posakiai/juo didesnis žmogus, juo didesnes ir klaidas gali padaryti]]
+- [[objektai/zodynas/karo taryba|karo taryba (institucija)]]
+- [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
+- [[objektai/zodynas/kondominiumas]]
+- [[objektai/zodynas/kultūrinimas]]
+- [[objektai/zodynas/lenkinti]]
+- [[objektai/posakiai/lenkų ponus „užglostyti”]]
+- [[objektai/autoriai/lg. Kliausis]]
+- [[objektai/zodynas/lėnininkai]]
+- [[objektai/posakiai/mokslo laikas]]
+- [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
+- [[objektai/zodynas/nukirsdinti]]
+- [[objektai/zodynas/nuomininkas]]
+- [[objektai/zodynas/pravoslavai]]
+- [[objektai/zodynas/protežė]]
+- [[objektai/zodynas/rezervai]]
+- [[objektai/posakiai/savo „karaliaus Vytauto”]]
+- [[objektai/zodynas/superarbitras]]
+- [[objektai/zodynas/suverenas]]
+- [[objektai/posakiai/vardan tos Lietuvos]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/zodynas/vikariatas]]
+- [[objektai/posakiai/wieszczym duchem]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]
+- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
+- [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
+- [[objektai/posakiai/„Didžiuoju“]]
+- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
+- [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]
+- [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
+- [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“]]
+- [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
+- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
+- [[objektai/posakiai/„iki gyvos galvos“]]
+- [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]
+- [[objektai/daiktai/Vytauto paveikslas]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
+- [[objektai/ivykiai/Atskiros Lietuvos didžiojo kunigaikščio valdžios projektas ir jo žlugimas]]
+- [[objektai/ivykiai/Bandymas įsiveržti į parlamentą (1991 m. sausio 8 d.)]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
+- [[objektai/zodynas/Machtmensch]]
+- [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]
+- [[objektai/posakiai/Ne ko nors klausyti, bet valdyti jis buvo gimęs|Ne ko nors klausyti, bet valdyti jis buvo gimęs.]]
+- [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
+- [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
+- [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
+- [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
+- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
+- [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/ne tik tavo galvą, bet ir tavo tėvynę Lietuvą]]
+- [[objektai/posakiai/prieš vėją nepapūs]]
+- [[objektai/zodynas/saar]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/posakiai/tvirta, net plieninė ranka, didelis protas]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]
+- [[objektai/zodynas/šlėkta]]
+- [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]
+
 ## Teiginiai
 
 - t-001
@@ -87,8 +380,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-007
   teiginys: 'Vytautas gynė visos Lietuvos reikalus ir jos nepriklausomybę, nepakęsdamas Didžiosios Lietuvos Kunigaikštystės žeminimo.'
   pagrindžia:
-    - c-107
     - c-027
+    - c-107
 
 - t-008
   teiginys: 'Trakų Galvės ežero salos pilis šaltinyje vadinama Vytauto Didžiojo pasididžiavimu.'
@@ -98,9 +391,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-009
   teiginys: '1392 m. gavęs Vilnių Vytautas įgijo didžiojo Lietuvos kunigaikščio titulą.'
   pagrindžia:
-    - c-026
     - c-014
     - c-021
+    - c-026
 
 - t-010
   teiginys: 'Algirdo pasiektas Okos šaltinių valdas papildomai teužvaldė Vytautas, paimdamas Okos aukštupių kunigaikštijas.'
@@ -147,16 +440,19 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
   pagrindžia:
     - c-007
+    - c-164
 
 - t-019
   teiginys: '1430 m. spalio 27 d. mirė Vytautas Didysis Kęstutaitis, šaltinyje įvardijamas valstybės galybės kūrėju.'
   pagrindžia:
+    - c-165
     - c-040
 
 - t-020
   teiginys: 'Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune.'
   pagrindžia:
     - c-116
+    - c-166
 
 - t-021
   teiginys: 'Vytautas iš Krėvos pabėgo su žmona Ona ir paspruko pas Jonušą.'
@@ -207,10 +503,12 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje išteklius.'
   pagrindžia:
     - c-101
+    - c-145
 
 - t-031
   teiginys: 'Vytautas augo susidurdamas ir su pagoniška pasaulėžiūra, ir su krikščionybės idėjomis.'
   pagrindžia:
+    - c-131
     - c-061
 
 - t-032
@@ -251,6 +549,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-039
   teiginys: 'Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.'
   pagrindžia:
+    - c-151
     - c-083
 
 - t-040
@@ -277,6 +576,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: '1377 m. Vytautas surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
   pagrindžia:
     - c-010
+    - c-170
 
 - t-045
   teiginys: 'LDK tradicija, lietuvių ir jų kunigaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.'
@@ -302,6 +602,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.'
   pagrindžia:
     - c-074
+    - c-175
 
 - t-050
   teiginys: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.'
@@ -362,6 +663,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Nuo jaunystės Vytautas mėgo karo dalykus ir sekė Vakarų Europos naujoves.'
   pagrindžia:
     - c-013
+    - c-139
 
 - t-062
   teiginys: 'Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.'
@@ -377,10 +679,12 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: '1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą.'
   pagrindžia:
     - c-012
+    - c-136
 
 - t-065
   teiginys: 'Vytautas šiame veikale pavadintas žymiausiu dinastijos atstovu.'
   pagrindžia:
+    - c-167
     - c-081
 
 - t-066
@@ -507,6 +811,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Vytautas, nesulaukęs Jogailos įsakymo pradėti mūšį, surizikavo ir pirmasis pasiuntė į kovą Lietuvos kariuomenę.'
   pagrindžia:
     - c-056
+    - c-149
 
 - t-093
   teiginys: '1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti tik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio 27 d. mirė.'
@@ -517,6 +822,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.'
   pagrindžia:
     - c-009
+    - c-168
 
 - t-095
   teiginys: 'Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje.'
@@ -722,6 +1028,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: '1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą.'
   pagrindžia:
     - c-011
+    - c-135
 
 - t-137
   teiginys: 'Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.'
@@ -746,6 +1053,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-141
   teiginys: 'Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas.'
   pagrindžia:
+    - c-143
     - c-095
 
 - t-142
@@ -767,6 +1075,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis ir taip slėpė jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
   pagrindžia:
     - c-051
+    - c-147
 
 - t-146
   teiginys: 'Karaliui išvykus į Lenkiją, akylai stebimas Vytautas negalėjo savarankiškai imtis veiksmų.'
@@ -776,6 +1085,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-147
   teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
   pagrindžia:
+    - c-144
     - c-124
 
 - t-148
@@ -812,6 +1122,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Žalgirio mūšio rytą Vytautas siekė lemiamo mūšio, o Jogaila delsė, laukdamas Ordino pasiūlymo derėtis.'
   pagrindžia:
     - c-099
+    - c-149
 
 - t-155
   teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai iki Osos yra jo tėvų palikimas.'
@@ -831,6 +1142,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-159
   teiginys: 'Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.'
   pagrindžia:
+    - c-146
     - c-100
 
 - t-160
@@ -892,6 +1204,116 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.'
   pagrindžia:
     - c-140
+
+- t-176
+  teiginys: 'Kojelavičius teigia, kad tuo būdu užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni ją, prašydamas pagalbos; pats, palikęs mieste stiprią savo įgulą, pailsėjusią ir papildytą kariuomenę nuve dė į Trakus prieš Vytautą.'
+  pagrindžia:
+    - c-142
+
+- t-177
+  teiginys: 'Kojelavičius teigia, kad todėl Jogai la išsiuntė savo brolį Skirgailą, kuris, prisiekęs visais dievais, savo bei Jogailos vardu turėjo viešai paža dėti saugumą ir neliečiamybę tiems, kurie, susitikę tarp dviejų karo stovyklų, tarsis dėl taikos, o pirmiausia — Vytautui.'
+  pagrindžia:
+    - c-143
+
+- t-178
+  teiginys: 'Kojelavičius teigia, kad ši aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais vę: dažnai juk likimą lemia menkų menkiausios prie žastys.'
+  pagrindžia:
+    - c-144
+
+- t-179
+  teiginys: 'Kojelavičius teigia, kad šiedu vis dėlto Vytautą taip priėmė, jog jis netruko pajusti esąs nemalonus svečias: abudu nesistengė suteikti pabėgėliui deramos pagal bos; iškilo aikštėn jųdviejų baimė, nors ir slepiama: mat nenorėjo jiedu nei neramios Vytauto širdies už gauti, nei.'
+  pagrindžia:
+    - c-145
+
+- t-180
+  teiginys: 'Kojelavičius teigia, kad vytautas siūlė šiam visko, ko tik reikia karui f'' pats iš visos širdies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo valdas, Konradas gana greitai paskyrė karių bei lėšų kaiui.'
+  pagrindžia:
+    - c-146
+
+- t-181
+  teiginys: 'Kojelavičius teigia, kad tuo metu kaip tik pasitaikė tinV iln ių b an do u žgrobkarna proga, nes sklido ganti k lasta dai, esą tariamasi dėl Henri ko, Mazovijos kunigaikščio, bei Ringailės, Vytauto sesers, santuokos.'
+  pagrindžia:
+    - c-147
+
+- t-182
+  teiginys: 'Kojelavičius teigia, kad vytautas, nuvijęs iš mūšio lauko karaliaus karius, visas savo jėgas nukreipė į Vilnių, norėdamas užimti pilis.'
+  pagrindžia:
+    - c-148
+
+- t-183
+  teiginys: 'Kojelavičius teigia, kad olesnickis, iš anksto gavęs karaliaus nurodymus, nerimastingai visą laiką laukė Vytauto, dabar, rodydamas atvykusiam visokiausią prielankumą, įlydėjo jį į miestą.'
+  pagrindžia:
+    - c-149
+
+- t-184
+  teiginys: 'Kojelavičius teigia, kad kadangi Vytautas jiems paro dė palankumą, apsuptieji visiškai pasidavė jo malonei.'
+  pagrindžia:
+    - c-150
+
+- t-185
+  teiginys: 'Kojelavičius teigia, kad vytautui ir pačiam rūpėjo šis karas, nes troško, kad Baltarusijos žemės būtų paV y ta u ta s traukia klusnesnės Lietuvos didžiap rieš Š vitrig a ilą jam kunigaikščiui, nei ligi šiol, todėl mielai ėmėsi viso šio reikalo.'
+  pagrindžia:
+    - c-151
+
+- t-186
+  teiginys: 'Kojelavičius teigia, kad galop trisdešimtą dieną Vytauto kariai įsiveržė pro visiškai sugriautus įtvirtinimus į žemutinę pilį.'
+  pagrindžia:
+    - c-152
+
+- t-187
+  teiginys: 'Kojelavičius teigia, kad vytautas įsakė visų Lietuvos žemių karo jėgoms susirinkti į Smolenską.'
+  pagrindžia:
+    - c-153
+
+- t-188
+  teiginys: 'Kojelavičius teigia, kad vytautas kiekvieną dieną vis labiau juto maisto stoką.'
+  pagrindžia:
+    - c-154
+
+- t-189
+  teiginys: 'Kojelavičius teigia, kad vytautas pats ėmėsi šio uždavinio: pasikvietęs į palydovus didikus Goštautą, Rumbaudą bei Radvilą, jis išvyko pas imperatorių.'
+  pagrindžia:
+    - c-155
+
+- t-190
+  teiginys: 'Kojelavičius teigia, kad padėjus daug pastangų, Vytautui galop pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
+  pagrindžia:
+    - c-156
+
+- t-191
+  teiginys: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  pagrindžia:
+    - c-157
+
+- t-192
+  teiginys: 'Kojelavičius teigia, kad beje, ir Vytautas ne tiek paisė ką tik patirtos ne sėkmės, kiek rūpinosi asmenine garbe ir nauda, norė damas savo nuožiūra skirti šioms karingoms tautoms valdovus.'
+  pagrindžia:
+    - c-158
+
+- t-193
+  teiginys: 'Kojelavičius teigia, kad senoji valdovų liga — garbės troškimas — taip aptemdė Vytautui, žmogui ga na atsargiam ir pažįstančiam Zigmanto klastas, protą, jog jam nė į galvą neatėjo, kad šiais siūlymais sten giamasi ne tiek jį išaukštinti, kiek sugriauti lietuvių bei lenkų sandraugą.'
+  pagrindžia:
+    - c-159
+
+- t-194
+  teiginys: 'Kojelavičius teigia, kad vytautas vėl pradėjo puoselėti senąsias viltis ir pasiuntiniams kuo griežčiausiai atsakė.'
+  pagrindžia:
+    - c-160
+
+- t-195
+  teiginys: 'Kojelavičius teigia, kad juo labiau artėjo laukiama diena, juo didesnį neri mą Vytautui kėlė galimos kliūtys.'
+  pagrindžia:
+    - c-161
+
+- t-196
+  teiginys: 'Kojelavičius teigia, kad mat sąmoksli ninkams nedera jausti neapykantos nužudytajam, o nečia, surengę iškilmingas laidotuves, į kurias suplaukė gausybė paprastų žmonių bei senatorių, palaidojo jį ta me pačiame kape, kur jau ilsėjosi jo brolio Vytauto pa laikai.'
+  pagrindžia:
+    - c-162
+
+- t-197
+  teiginys: 'Kojelavičius teigia, kad vytautas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?'
+  pagrindžia:
+    - c-163
 
 ## Reikšmingi paminėjimai
 
@@ -3554,482 +3976,498 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-175
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]
-- [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
-- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
-- [[objektai/grupes/ATAS]]
-- [[objektai/daiktai/Apgulties mašinos]]
-- [[objektai/ivykiai/Atskiros Lietuvos didžiojo kunigaikščio valdžios projektas ir jo žlugimas]]
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
-- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/paprociai/Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių]]
-- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
-- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]
-- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas ir jo tėvynė]]
-- [[objektai/grupes/Didžlenkiai]]
-- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
-- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
-- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
-- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
-- [[objektai/daiktai/Halka]]
-- [[objektai/grupes/Husitai]]
-- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
-- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
-- [[objektai/grupes/JAV lietuviai]]
-- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)]]
-- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
-- [[objektai/asmenys/Jonas Paleologas]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
-- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]
-- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
-- [[objektai/posakiai/Kad tik be arklio nebūtų]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Karaimai]]
-- [[objektai/daiktai/Karinė ginkluotė]]
-- [[objektai/grupes/Karo partija]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
-- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/daiktai/Kristaus Kančios relikvija]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
-- [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]
-- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
-- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
-- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkų bajorai]]
-- [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
-- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]
-- [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
-- [[objektai/zodynas/Machtmensch]]
-- [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/zodynas/Mahometoniškas tikėjimas]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Manuelis]]
-- [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/grupes/Miestelėnų luomas]]
-- [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]
-- [[objektai/grupes/Moravai]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
-- [[objektai/posakiai/Ne bičiulystės, o teisybės]]
-- [[objektai/posakiai/Ne ko nors klausyti, bet valdyti jis buvo gimęs|Ne ko nors klausyti, bet valdyti jis buvo gimęs.]]
-- [[objektai/grupes/Okos aukštupio kunigaikščiai]]
-- [[objektai/daiktai/Palapinės]]
-- [[objektai/grupes/Pamario kunigaikščių sąjunga]]
-- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
-- [[objektai/grupes/Pietų Lietuvos sritis]]
-- [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo]]
-- [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
-- [[objektai/grupes/Podoliečiai]]
-- [[objektai/grupes/Pravoslavai]]
-- [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/grupes/Pskovo respublika]]
-- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
-- [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
-- [[objektai/ivykiai/Salyno sutartis]]
-- [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
-- [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
-- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
-- [[objektai/grupes/Taikos partija]]
-- [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
-- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
-- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
-- [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
-- [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/asmenys/Tochtamišas]]
-- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Totorių pajėgos]]
-- [[objektai/posakiai/Trojos gudrumu]]
-- [[objektai/ivykiai/Užpelkių kautynės]]
-- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
-- [[objektai/grupes/Valachai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
-- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
-- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
-- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
-- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/ivykiai/Vorsklos katastrofa]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
-- [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]
-- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
-- [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
-- [[objektai/paprociai/Vytauto donacijos Medininkų vyskupijai ir bažnyčioms]]
-- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
-- [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
-- [[objektai/daiktai/Vytauto paveikslas]]
-- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
-- [[objektai/posakiai/Vytauto politika lyg koks didelis tinklas jis jo akis tai suveda, tai paleidžia, tai naujai sumezga]]
-- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
-- [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
-- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/paprociai/Vytauto tarpininkavimas ginčuose laiškais ir dovanomis]]
-- [[objektai/daiktai/Vytauto ženklas]]
-- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
-- [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
-- [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]
-- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
-- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
-- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/avantiūristas]]
-- [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
-- [[objektai/zodynas/bažnytinė provincija]]
-- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
-- [[objektai/zodynas/diplomatija]]
-- [[objektai/zodynas/dominija]]
-- [[objektai/posakiai/du priešai, šaltis ir totoriai]]
-- [[objektai/posakiai/dux Russiae]]
-- [[objektai/zodynas/ekskomunika]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/zodynas/emyras]]
-- [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]
-- [[objektai/posakiai/galingi gyvenimo faktai toliau už jas nužengia arba jas padaro be vertės, tylinčiais popieriais]]
-- [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]
-- [[objektai/zodynas/grašis]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/posakiai/in odium Sigismundi]]
-- [[objektai/zodynas/indulgencija]]
-- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
-- [[objektai/posakiai/juo didesnis žmogus, juo didesnes ir klaidas gali padaryti]]
-- [[objektai/zodynas/karo taryba|karo taryba (institucija)]]
-- [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
-- [[objektai/zodynas/karūnacija karūnuotis]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kondominiumas]]
-- [[objektai/zodynas/kontribucija]]
-- [[objektai/zodynas/kultūrinimas]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/lenkinti]]
-- [[objektai/posakiai/lenkų ponus „užglostyti”]]
-- [[objektai/zodynas/lėnininkai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/posakiai/mokslo laikas]]
-- [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
-- [[objektai/posakiai/ne tik tavo galvą, bet ir tavo tėvynę Lietuvą]]
-- [[objektai/zodynas/nukirsdinti]]
-- [[objektai/zodynas/nuomininkas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/posakiai/prieš vėją nepapūs]]
-- [[objektai/zodynas/protežė]]
-- [[objektai/zodynas/rezervai]]
-- [[objektai/zodynas/saar]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/posakiai/savo „karaliaus Vytauto”]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/seniūnas storasta]]
-- [[objektai/zodynas/separatizmas]]
-- [[objektai/zodynas/superarbitras]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/suverenas]]
-- [[objektai/posakiai/tvirta, net plieninė ranka, didelis protas]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/posakiai/vardan tos Lietuvos]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/vasalystė]]
-- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/vikariatas]]
-- [[objektai/posakiai/wieszczym duchem]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/zodynas/činšas]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
-- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
-- [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]
-- [[objektai/zodynas/šlėkta]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]
-- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
-- [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]
-- [[objektai/posakiai/„Didžiuoju“]]
-- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
-- [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]
-- [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
-- [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“]]
-- [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
-- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
-- [[objektai/posakiai/„iki gyvos galvos“]]
-- [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/daiktai/Altorius]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/asmenys/Bona]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Gotai]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/asmenys/Janas Kropidła]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
-- [[objektai/autoriai/Jornandesas]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/asmenys/Kerimberdėjus]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/daiktai/Medžioklių trobelės]]
-- [[objektai/posakiai/Nuo Baltijos iki pat Juodosios jūros]]
-- [[objektai/asmenys/Paleologas]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/zodynas/Sanctuarium]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
-- [[objektai/grupes/Vidivarii]]
-- [[objektai/zodynas/Vidivarijai]]
-- [[objektai/asmenys/Vydimantas]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/indiktas]]
-- [[objektai/zodynas/jubiliejus]]
-- [[objektai/zodynas/kitatikiai]]
-- [[objektai/zodynas/klebonija]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
-- [[objektai/ivykiai/Astravos sutartis]]
-- [[objektai/grupes/Aukso orda]]
-- [[objektai/asmenys/Barbora Cyleikaitė]]
-- [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
-- [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
-- [[objektai/asmenys/Danuta]]
-- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
-- [[objektai/autoriai/Detmaro Liubeko]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
-- [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių]]
-- [[objektai/asmenys/Edyga]]
-- [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]
-- [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
-- [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/asmenys/Ivanas Sidorovičius]]
-- [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/daiktai/JAV vieno cento moneta]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/asmenys/Joachimas Pavlovičius]]
-- [[objektai/ivykiai/Jogailos pašalinimas iš Vilniaus]]
-- [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
-- [[objektai/autoriai/Johannes Voigt Foigtas]]
-- [[objektai/asmenys/Jonas Olesnickis]]
-- [[objektai/asmenys/Jurgis (Vytauto sūnus)]]
-- [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį]]
-- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/daiktai/Karinės vėliavos ir ženklai]]
-- [[objektai/daiktai/Kariuomenės ženklai]]
-- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
-- [[objektai/asmenys/Kazimieras Karigaila]]
-- [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- [[objektai/autoriai/Kliausis, lg]]
-- [[objektai/grupes/Krymo totoriai]]
-- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
-- [[objektai/asmenys/Lengvenis Algirdaitis]]
-- [[objektai/grupes/Lenkijos senatas]]
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)]]
-- [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
-- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
-- [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
-- [[objektai/asmenys/Maldžykas]]
-- [[objektai/grupes/Maskvos metropolitai]]
-- [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]
-- [[objektai/grupes/Mongolų imperija]]
-- [[objektai/asmenys/Muradas II]]
-- [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]
-- [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.)]]
-- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
-- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
-- [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
-- [[objektai/zodynas/Planinė ekonomika]]
-- [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]
-- [[objektai/ivykiai/Racionžo taika]]
-- [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
-- [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
-- [[objektai/asmenys/Saladinas]]
-- [[objektai/grupes/Smolensko pulkai]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/asmenys/Spytekas iš Melštyno]]
-- [[objektai/grupes/Tauro apygarda]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
-- [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
-- [[objektai/daiktai/Trakų kunigaikščio žvėrynas]]
-- [[objektai/ivykiai/Trakų užėmimas ir apgultis]]
-- [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės]]
-- [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]
-- [[objektai/asmenys/Vaclovas Čekietis]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
-- [[objektai/posakiai/Vakkis Ahridlis]]
-- [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/grupes/Vilniaus Romos katalikai]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
-- [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
-- [[objektai/grupes/Vokiečių pirkliai]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
-- [[objektai/asmenys/Vosylius I]]
-- [[objektai/asmenys/Vygandas von Baldersheimas]]
-- [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
-- [[objektai/ivykiai/Vytauto ir Vosyliaus susivažiavimai Smolenske ir Kolomnoje (1396 m.)]]
-- [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]
-- [[objektai/ivykiai/Vytauto karūnacijos byla]]
-- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
-- [[objektai/paprociai/Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika]]
-- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
-- [[objektai/daiktai/Vytauto paminklai]]
-- [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]
-- [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
-- [[objektai/ivykiai/Vytauto privilegijos žydams|Vytauto privilegijos žydams (privilegija)]]
-- [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.)]]
-- [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]
-- [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]
-- [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]
-- [[objektai/asmenys/Zbignevas Olesnickis]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/asmenys/Zofija Algimantaitė]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
-- [[objektai/zodynas/laisvojo miesto statusas|laisvojo miesto statusas (miestas)]]
-- [[objektai/autoriai/lg. Kliausis]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/metropolitas metropolija]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/zodynas/patepimas į valdžią]]
-- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
-- [[objektai/zodynas/posadnikas bojarinas vietininkas]]
-- [[objektai/zodynas/pravoslavai]]
-- [[objektai/zodynas/siuzerenas]]
-- [[objektai/zodynas/tėvonija tėvų palikimas]]
-- [[objektai/zodynas/ulusas]]
-- [[objektai/zodynas/vaivada kaštelionas]]
-- [[objektai/ivykiai/Žemaičių sukilimas (1401 m. pavasaris)]]
-- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
-- [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
-- [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
-- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]
-- [[objektai/posakiai/„Vytauto politika lyg koks didelis tinklas...“]]
-- [[objektai/posakiai/„idealiąją Lietuvą“]]
-- [[objektai/asmenys/Karigaila]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/zodynas/kompromisas]]
-- [[objektai/posakiai/„nuo jūros iki jūros“]]
-- [[objektai/posakiai/Alexander alias Witowdus dei gracia magnus dux Litwanie]]
-- [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
-- [[objektai/asmenys/Dmitrijus Kaributas]]
-- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]
-- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
-- [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
-- [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
-- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
-- [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
-- [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
-- [[objektai/grupes/Vytauto šalininkai]]
-- [[objektai/zodynas/hegemonija]]
-- [[objektai/zodynas/lėnas]]
-- [[objektai/zodynas/partizaniškas karas]]
-- [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]
-- [[objektai/ivykiai/Žemaičių sukilimas 1418 m|Žemaičių sukilimas 1418 m (sukilimas)]]
-- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
-- [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
-- [[objektai/asmenys/Ona (Vytauto sesuo)]]
-- [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
-- [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]
-- [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]
-- [[objektai/zodynas/konversija christianizacija europeizacija]]
-- [[objektai/zodynas/metropolija bažnytinė provincija]]
-- [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
-- [[objektai/posakiai/„švento valdovo“ įvaizdis]]
+- c-142
+  santrauka: 'Kojelavičius teigia, kad tuo būdu užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni ją, prašydamas pagalbos; pats, palikęs mieste stiprią savo įgulą, pailsėjusią ir papildytą kariuomenę nuve dė į Trakus prieš Vytautą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo būdu
+    užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
+    ją, prašydamas pagalbos; pats, palikęs mieste stiprią
+    savo įgulą, pailsėjusią ir papildytą kariuomenę nuve­
+    dė į Trakus prieš Vytautą. Vytautas, iš draugų apie
+    viską sužinojęs, spėjo su pamote Birute pasitraukti į
+    Gardiną.
+    Jogaila
+    atkakliai
+    U žkariauja T rakus
+    puolė Trakus, ir trakiškiai
+    ilgai neatsilaikė: nesitikėda­
+    mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
+    duodami miestą, pilis bei turtą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-176
+
+- c-143
+  santrauka: 'Kojelavičius teigia, kad todėl Jogai la išsiuntė savo brolį Skirgailą, kuris, prisiekęs visais dievais, savo bei Jogailos vardu turėjo viešai paža dėti saugumą ir neliečiamybę tiems, kurie, susitikę tarp dviejų karo stovyklų, tarsis dėl taikos, o pirmiausia — Vytautui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl Jogai­
+    la išsiuntė savo brolį Skirgailą, kuris, prisiekęs visais
+    dievais, savo bei Jogailos vardu turėjo viešai paža­
+    dėti saugumą ir neliečiamybę tiems, kurie, susitikę tarp
+    dviejų karo stovyklų, tarsis dėl taikos, o pirmiausia —
+    Vytautui. Ilgai tarėsi kunigaikščiai Vytautas bei Jo­
+    gaila dėl taikos sąlygų, tuo tarpu abi ginkluotos ka­
+    riuomenės stovėjo pasirengusios kovai; kadangi nieko
+    tikro negalėjo sutarti be Kęstučio, nusprendė ir jį pa­
+    kviesti. Jogaila vėl prisiekė laikytis žodžio; Kęstutis,
+    visaip iš pradžių išsisukinėjęs, atvyko pas Jogailą, kai
+    Skirgaila tvirtai pasižadėjo
+    K ę stu tis
+    k la stin gai
+    rūpintis saugumu, o Vytau-
+    įv ilio ja m a s
+    į
+    J o gai-
+    tas patarė atjoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-177
+
+- c-144
+  santrauka: 'Kojelavičius teigia, kad ši aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais vę: dažnai juk likimą lemia menkų menkiausios prie žastys.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ši
+    aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
+    vę: dažnai juk likimą lemia menkų menkiausios prie­
+    žastys. Vienas sargybinis kar­
+    tą įspėjo Oną, jog Vytautui
+    gresianti mirtis, pridurdamas,
+    kad Jogailos siųsti budeliai
+    jau atvyko į Krėvą. Žmona
+    apie viską pranešė vyrui ir
+    patarė apsirengus merginos drabužiais apgauti sargy­
+    binius ir pasprukti iš priešo rankų ir nuo tikros mir­
+    ties: draugai jau, girdi, parūpinę visko, kas reikalinga
+    bėgliui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-178
+
+- c-145
+  santrauka: 'Kojelavičius teigia, kad šiedu vis dėlto Vytautą taip priėmė, jog jis netruko pajusti esąs nemalonus svečias: abudu nesistengė suteikti pabėgėliui deramos pagal bos; iškilo aikštėn jųdviejų baimė, nors ir slepiama: mat nenorėjo jiedu nei neramios Vytauto širdies už gauti, nei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nieko nepešęs
+    klasta, metė savo sumanymus ir, aplinkybių verčiamas,
+    ėmė rengtis atvirai kovai, būdamas tikras, jog ir Kazi­
+    mieras netruks prieš jį griebtis ginklo, ir karalius Jo­
+    gaila skubiai iš Lenkijos atsiųs pagalbos. Smarkiai su­
+    stiprinęs Palenkę ir Polesę, įkurdinęs stiprias vokiečių
+    karių įgulas Gardine, Suraže, Breste, Kamenece ir ki­
+    tose pilyse, pats su žmona, šeimyna, brangiaisiais in­
+    dais bei savo šalininkais pa-
+    P abėga į M a z o v iją
+    sitraukė į Mazoviją pas ku­
+    nigaikščius Jonušą ir Zemo-
+    vitą, savo giminaičius. Šiedu vis dėlto Vytautą taip
+    priėmė, jog jis netruko pajusti esąs nemalonus svečias:
+    abudu nesistengė suteikti pabėgėliui deramos pagal­
+    bos; iškilo aikštėn jųdviejų baimė, nors ir slepiama:
+    mat nenorėjo jiedu nei neramios Vytauto širdies už­
+    gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
+    rui, patys vienaip ar kitaip išvengtų bėdos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-179
+
+- c-146
+  santrauka: 'Kojelavičius teigia, kad vytautas siūlė šiam visko, ko tik reikia karui f'' pats iš visos širdies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo valdas, Konradas gana greitai paskyrė karių bei lėšų kaiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš M a z o v ijo s  į Prū-
+    Nors Urbonas IV, Romos po-
+    siją
+    piežius, prieš metus ir buvo
+    išleidęs raštą, rimtai ragin­
+    damas ir karalių, ir kryžiuočių riterius laikytis taikos,
+    tačiau Celneris su džiaugsmu nutarė nepraleisti pro­
+    gos pradėti karą. Dėdamasis, kad gailisi tremtinio, jis
+    siūlė šiam visko, ko tik reikia karui f' pats iš visos šir­
+    dies trokšdamas ir tikėdamasis Lietuvoje išplėsti savo
+    valdas, Konradas gana greitai paskyrė karių bei lėšų
+    kaiui. Buvo aišku, kad pagalbą jis ne duoda, bet par­
+    duoda, tikėdamasis, kad visas pelnas ilgainiui atiteks
+    kryžiuočiams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-180
+
+- c-147
+  santrauka: 'Kojelavičius teigia, kad tuo metu kaip tik pasitaikė tinV iln ių b an do u žgrobkarna proga, nes sklido ganti k lasta dai, esą tariamasi dėl Henri ko, Mazovijos kunigaikščio, bei Ringailės, Vytauto sesers, santuokos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo
+    metu kaip tik pasitaikė tin-
+    V iln ių  b an do u žgrob-
+    karna proga, nes sklido gan-
+    ti k lasta
+    dai, esą tariamasi dėl Henri­
+    ko, Mazovijos kunigaikščio,
+    bei Ringailės, Vytauto sesers, santuokos. Pasinaudojęs
+    šia dingstimi, jis paleido gandą, kad vestuvės būsian­
+    čios Vilniuje. Kai šios paskalos pasklido visur kuo pla­
+    čiausiai ir kai jomis patikėjo labai daug žmonių, jis
+    parinko būrį bajorų, pasirengusių tokiam žygiui, ir jį
+    išsiuntė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-181
+
+- c-148
+  santrauka: 'Kojelavičius teigia, kad vytautas, nuvijęs iš mūšio lauko karaliaus karius, visas savo jėgas nukreipė į Vilnių, norėdamas užimti pilis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Išlikę po mūšio gyvi, narsiai grumdamiesi su puo­
+    lančiu nugalėtoju, pasitraukė su Skirgaila į Trakus.
+    Vytautas, nuvijęs iš mūšio lauko karaliaus karius,
+    visas savo jėgas nukreipė į Vilnių, norėdamas užimti
+    pilis. Jas užkariauti vis dėlto pasirodė kur kas sunkiau,
+    nei tikėjosi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-182
+
+- c-149
+  santrauka: 'Kojelavičius teigia, kad olesnickis, iš anksto gavęs karaliaus nurodymus, nerimastingai visą laiką laukė Vytauto, dabar, rodydamas atvykusiam visokiausią prielankumą, įlydėjo jį į miestą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Išsiuntęs žygūną,
+    turintį Olesnickiui pranešti apie jo atvykimą, patraukė
+    liesiai į Vilnių. Olesnickis, iš anksto gavęs karaliaus
+    nurodymus, nerimastingai visą laiką laukė Vytauto,
+    dabar, rodydamas atvykusiam visokiausią prielankumą,
+    įlydėjo jį į miestą. Jis rodė
+    O lesn ick is
+    iškilm in-
+    visokeriopą pagarbą tam, ku-
+    gai įv e d a  į V iln ių
+    ris, kaip gerai žinojo, atvyko,
+    turėdamas vilties užimti val­
+    džią.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-183
+
+- c-150
+  santrauka: 'Kojelavičius teigia, kad kadangi Vytautas jiems paro dė palankumą, apsuptieji visiškai pasidavė jo malonei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi Vytautas jiems paro­
+    dė palankumą, apsuptieji visiškai pasidavė jo malonei.
+    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
+    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
+    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
+    na išgabeno į Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-184
+
+- c-151
+  santrauka: 'Kojelavičius teigia, kad vytautui ir pačiam rūpėjo šis karas, nes troško, kad Baltarusijos žemės būtų paV y ta u ta s traukia klusnesnės Lietuvos didžiap rieš Š vitrig a ilą jam kunigaikščiui, nei ligi šiol, todėl mielai ėmėsi viso šio reikalo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
+    Baltarusijos žemės būtų pa-
+    V y ta u ta s
+    traukia
+    klusnesnės Lietuvos didžia-
+    p rieš
+    Š vitrig a ilą
+    jam kunigaikščiui, nei ligi
+    šiol, todėl mielai ėmėsi viso
+    šio reikalo. Greitai užpuolęs ir užėmęs Oršą, jis patraukė
+    į Drucką. Drucko kunigaikščiai, pirmųjų Rusios valdo­
+    vų palikuonys, kurie šių neramumų pradžioje mažai
+    klausė Vytauto ir atvirai rėmė Švitrigailą, po staigaus
+    antpuolio sutriuškinti, supra-
+    S u tra m d o  rusų didi-
+    to, jog kur kas geriau mal­
+    kus
+    dauti Vytautą — kad ir ne­
+    patikimo — atlaidumo, nei iš
+    naujo ginkluotis ir griebtis kalavijo, todėl nesunkiai,
+    pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
+    niams, susilaukė, ko prašė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-185
+
+- c-152
+  santrauka: 'Kojelavičius teigia, kad galop trisdešimtą dieną Vytauto kariai įsiveržė pro visiškai sugriautus įtvirtinimus į žemutinę pilį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto
+    kariai įsiveržė pro visiškai sugriautus įtvirtinimus į
+    žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas
+    kitas pilėnas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-186
+
+- c-153
+  santrauka: 'Kojelavičius teigia, kad vytautas įsakė visų Lietuvos žemių karo jėgoms susirinkti į Smolenską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat tų pačių metų pabaigoje, sudeginęs Briansko ir
+    Starodubo pilis, jis perdavė kunigaikščiui Vasilijui Nau-
+    gardą, Seversko žemės sosti-
+    1407 m e ta i
+    nę, o pats pabėgo į Maskvą.
+    Taigi jis ir privertė Vy­
+    tautą vėl imtis ginklo ir, gerai pasirengus, pradėti karą
+    su Vasilijumi. Vytautas įsakė visų Lietuvos žemių karo
+    jėgoms susirinkti į Smolenską.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-187
+
+- c-154
+  santrauka: 'Kojelavičius teigia, kad vytautas kiekvieną dieną vis labiau juto maisto stoką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Stovėdamas su' raitija toje
+    pačioje vietoje, jis kiekvieną dieną vis labiau juto mais­
+    to stoką. Viską apgalvojęs, galop įsakė kavalerijos pul­
+    kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
+    peršų ir jomis pasileisti siaubti Vasilijaus valdų. Vasi­
+    lijus, neilgai trukus pajutęs šį
+    M a s k v o s
+    v a ld o v a s
+    niokojamą smūgį, turėjo pra-
+    p r iv e ič ia m a s
+    p ra šy-
+    syti taikos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-188
+
+- c-155
+  santrauka: 'Kojelavičius teigia, kad vytautas pats ėmėsi šio uždavinio: pasikvietęs į palydovus didikus Goštautą, Rumbaudą bei Radvilą, jis išvyko pas imperatorių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-189
+
+- c-156
+  santrauka: 'Kojelavičius teigia, kad padėjus daug pastangų, Vytautui galop pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi
+    šias negeras naujoves vykdė ne paprasti žmonės, o žy­
+    mieji vyskupai, ypač tie, kurie kilę iš graikų, užkirsti
+    kelią plintančiai blogybei buvo galima ne kitaip, kaip
+    sukvietus viešą pačių ganytojų suvažiavimą. Padėjus
+    daug pastangų, Vytautui galop pavyko sušaukti rusų
+    tautos suvažiavimą Lietuvos Naugarduke. Konstantino
+    Didžiojo pavyzdžiu jis ir pats
+    h  u žgniaužia N augar-
+    jame dalyvavo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-190
+
+- c-157
+  santrauka: 'Kojelavičius teigia, kad nutaręs sutelkti didesnę kariuomenę, Vytautas patraukė į Trakus ir čia, mirus jo žmonai Onai, nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
+    didesnę kariuomenę, Vytautas patraukė į Trakus ir čia,
+    mirus jo žmonai Onai, nutarė tuoktis su Julijona, Al-
+    šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
+    rusiajai buvo teta.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-191
+
+- c-158
+  santrauka: 'Kojelavičius teigia, kad beje, ir Vytautas ne tiek paisė ką tik patirtos ne sėkmės, kiek rūpinosi asmenine garbe ir nauda, norė damas savo nuožiūra skirti šioms karingoms tautoms valdovus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Beje, ir Vytautas ne tiek paisė ką tik patirtos ne­
+    sėkmės, kiek rūpinosi asmenine garbe ir nauda, norė­
+    damas savo nuožiūra skirti šioms karingoms tautoms
+    valdovus. Todėl ir Jerim Berdį iškilmingai paskelbė
+    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
+    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
+    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
+    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
+    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
+    menę ir su ja palydėti Jerim Berdį į Skitiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-192
+
+- c-159
+  santrauka: 'Kojelavičius teigia, kad senoji valdovų liga — garbės troškimas — taip aptemdė Vytautui, žmogui ga na atsargiam ir pažįstančiam Zigmanto klastas, protą, jog jam nė į galvą neatėjo, kad šiais siūlymais sten giamasi ne tiek jį išaukštinti, kiek sugriauti lietuvių bei lenkų sandraugą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lietuvos isto rija
+    417
+
+    ## Puslapis 416
+
+    susilygintų karališkomis insignijomis su kitais valdovais,
+    jeigu, žinoma, panorėsiąs su juo užmegzti draugiškus
+    santykius ir vėliau jų laikytis. Senoji valdovų liga —
+    garbės troškimas — taip aptemdė Vytautui, žmogui ga­
+    na atsargiam ir pažįstančiam Zigmanto klastas, protą,
+    jog jam nė į galvą neatėjo, kad šiais siūlymais sten­
+    giamasi ne tiek jį išaukštinti, kiek sugriauti lietuvių bei
+    lenkų sandraugą. Štai todėl jis sutiko su pasiūlymu ir
+    susidraugavo su imperatoriumi sau pačiam davęs žodį
+    nieko nedaryti be karaliaus žinios ir sutikimo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-193
+
+- c-160
+  santrauka: 'Kojelavičius teigia, kad vytautas vėl pradėjo puoselėti senąsias viltis ir pasiuntiniams kuo griežčiausiai atsakė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip kieti kūnai, iš
+    422
+
+    ## Puslapis 421
+
+    aukštai krisdami, arba sudūž-
+    V y ta u ta s
+    n e p riim a
+    ta, arba atšoka, trenkęsi į
+    p a siū ly m o
+    švelnią žemę, taip ir jam jau
+    užgulė širdį gailestis dėl ši­
+    tokio savo elgesio. Tačiau netrukus, gavęs slaptų laiš­
+    kų iš kai kurių lenkų, kuriems ne tiek rūpėjo visuotinė
+    gerovė, kiek jų paties nauda, jis vėl pradėjo puoselėti
+    senąsias viltis ir pasiuntiniams kuo griežčiausiai atsa­
+    kė. Jis, girdi, pasirodytų esąs tikras begėdis, ko gero,
+    nedorėlis, kurį amžinai blogu žodžiu minėtų busimo­
+    sios kartos, jeigu nutrauktų nuo pusbrolio galvos kara­
+    liškąjį vainiką ir pats jį užsidėtų, tada neabejotinai pa­
+    tirtų iš žmonių daugiau gėdos nei garbės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-194
+
+- c-161
+  santrauka: 'Kojelavičius teigia, kad juo labiau artėjo laukiama diena, juo didesnį neri mą Vytautui kėlė galimos kliūtys.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ginkluoti didžia-
+    lą, pasiuntiniai pasuko į Fran­
+    kfurtą ir, du mėnesius ten bergždžiai sugaišę ir nieko
+    nepešę, sugrįžo pas imperatorių.
+    Juo labiau artėjo laukiama diena, juo didesnį neri­
+    mą Vytautui kėlė galimos kliūtys. Antra vertus, neleido
+    tuščiai laiko: nesakydamas tikros priežasties, pasikvietė
+    Vilniun į iškilmes daugybę valdovų: Maskvos, Tverės,
+    Odojevo kunigaikščius, skitų chanus, kryžiuočių ma­
+    gistrus, kuriuos visus svetingai vaišino valstybės lė­
+    šomis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-195
+
+- c-162
+  santrauka: 'Kojelavičius teigia, kad mat sąmoksli ninkams nedera jausti neapykantos nužudytajam, o nečia, surengę iškilmingas laidotuves, į kurias suplaukė gausybė paprastų žmonių bei senatorių, palaidojo jį ta me pačiame kape, kur jau ilsėjosi jo brolio Vytauto pa laikai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Luomai, susirinkę į Tra­
+    kus, nutarė, pasiūlius Goštautui bei Kęsgailai, surengti
+    kuo puikiausias šermenis Žygimantui. Mat sąmoksli­
+    ninkams nedera jausti neapykantos nužudytajam, o ne-
+    čia, surengę iškilmingas laidotuves, į kurias suplaukė
+    gausybė paprastų žmonių bei senatorių, palaidojo jį ta­
+    me pačiame kape, kur jau ilsėjosi jo brolio Vytauto pa­
+    laikai. Nelaimingi metai, ne tik dėl to, kad tapo nužu­
+    dytas valdovas, bet ir todėl, kad krito galybė paprastų
+    atsitiko.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-196
+
+- c-163
+  santrauka: 'Kojelavičius teigia, kad vytautas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    A p sk rita i n e o ru  to k iam
+    v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
+    k iu s n esu d erin am u s d alykus. A rg i jis nesusipažinęs su
+    L ietuvos isto rija, k u r aišk iai p asak y ta, k ad  jo  p irm tak ai
+    Jo g a ila  bei V y tau tas p a p rastai už p inigus L iv o n ijo je
+    sam dydavęsi k arių? V a rg u  jie  šitaip  b ū tų  d arę, je ig u
+    L ivonija nuo seno b ū tų  L ietuvos d id žių jų  k u n ig aik ščių
+    tėv o n ija.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-197

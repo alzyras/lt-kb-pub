@@ -63,14 +63,16 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/asmenys/Jeronimas Opachovskis]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/miestiečių luomas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
 - [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

@@ -192,6 +192,7 @@ Nenurodyta
 - [[temos/karvedys]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/daiktai/Vežimai]]

@@ -46,5 +46,6 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Lenkijos senatas]]

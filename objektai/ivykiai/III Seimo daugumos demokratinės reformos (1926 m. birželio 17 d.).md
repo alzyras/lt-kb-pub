@@ -94,6 +94,7 @@ Nenurodyta
 - [[temos/politinis-sprendimas]]
 
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/III Seimas]]

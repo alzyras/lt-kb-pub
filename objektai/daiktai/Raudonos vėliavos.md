@@ -68,4 +68,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/posakiai/„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“]]

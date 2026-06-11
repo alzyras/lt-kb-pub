@@ -87,6 +87,7 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Terleckas]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/asmenys/Romaldas Juozas Ragaišis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

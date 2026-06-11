@@ -65,5 +65,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Parakas]]
 - [[objektai/daiktai/Revolveriai]]

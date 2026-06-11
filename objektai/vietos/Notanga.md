@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Notanga'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -11,6 +12,7 @@ tags:
   - upė
   - vieta
 ---
+
 # Notanga
 
 ## Santrauka
@@ -48,6 +50,11 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: 'Dusburgietis teigia, kad apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma, nei vandenimis — upe.'
   pagrindžia:
     - c-001
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad per Notangos kraštą įžengę į priešų žemę, jie, ketindami per kelti karo židinį į šalies gilumą, Prūsijos centre parin P rūsai išsiža d a k r i k ščio n ių tik ė jim o ir a tsim e ta n u o k r y žiu o čių riuos beįmanė pagauti, žiau riai nukankino; jie.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -149,3 +156,42 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad per Notangos kraštą įžengę į priešų žemę, jie, ketindami per kelti karo židinį į šalies gilumą, Prūsijos centre parin P rūsai išsiža d a k r i k ščio n ių tik ė jim o ir a tsim e ta n u o k r y žiu o čių riuos beįmanė pagauti, žiau riai nukankino; jie.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Į pagalbą buvo sutraukta galybė
+    kariuomenės iš Vokietijos: puikiai ginkluotų karių,
+    patyrusių kariauti vadų; rodėsi, jog nieko netrūksta
+    Prūsijos ir Žemaitijos žemdirbiams išžudyti. Per No-
+    tangos kraštą įžengę į priešų žemę, jie, ketindami per­
+    kelti karo židinį į šalies gilumą, Prūsijos centre parin­
+    P rūsai
+    išsiža d a
+    k r i­
+    k ščio n ių
+    tik ė jim o  ir
+    a tsim e ta
+    n u o
+    k r y ­
+    žiu o čių
+    riuos beįmanė pagauti, žiau­
+    riai nukankino; jie nepaliko
+    neišniekinę nė vienos krikš­
+    čionių
+    šventenybės,
+    kurią
+    tik valiojo pasiekti jų stai­
+    gus įsiūtis. Todėl krikščio-
+    106
+
+    ## Puslapis 105
+
+    ko stovyklai vietą, iš kurios patogu bet kuria krypti­
+    mi puldinėti priešą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

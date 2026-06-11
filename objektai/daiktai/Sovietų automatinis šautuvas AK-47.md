@@ -131,6 +131,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Statybininkų šalmai]]
 - [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]
 - [[objektai/asmenys/M. Kalašnikovas]]

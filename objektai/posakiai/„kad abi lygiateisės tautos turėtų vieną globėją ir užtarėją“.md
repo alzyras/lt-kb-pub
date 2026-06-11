@@ -42,7 +42,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šv. Stanislovas]]

@@ -72,4 +72,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]

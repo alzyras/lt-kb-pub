@@ -59,6 +59,7 @@ Vartojamos formos: `veldėme`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]

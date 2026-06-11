@@ -89,6 +89,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/asmenys/Loreta Asanavičiūtė]]

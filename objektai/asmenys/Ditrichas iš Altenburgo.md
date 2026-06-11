@@ -117,6 +117,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas Kvicas]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/komtūras]]

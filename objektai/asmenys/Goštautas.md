@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Goštautas'
+pavadinimas: 'Goštautas (vyskupas, XV a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -18,11 +19,20 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Goštautas
+
+# Goštautas (vyskupas, XV a.)
 
 ## Santrauka
 
 Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vilniuje ir vieną Nau­ garduke, o Algirdui viešpataujant, vienas didikas Goštautas apgyvendino Vilniuje dar 12 pranciškonų ir įkūrė jiems vie­ nuolyną.
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
 
 ## Teiginiai
 
@@ -50,6 +60,21 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   teiginys: 'Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.'
   pagrindžia:
     - c-001
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad vytautas pats ėmėsi šio uždavinio: pasikvietęs į palydovus didikus Goštautą, Rumbaudą bei Radvilą, jis išvyko pas imperatorių.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  pagrindžia:
+    - c-006
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val da, paskirdamas vietininku Goštautą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -178,30 +203,73 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   pagrindžia:
     - t-004
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/daiktai/Goštauto liepa]]
-- [[objektai/ivykiai/Grabovo derybos]]
-- [[objektai/ivykiai/Kriavo aktas]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
-- [[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)]]
-- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
-- [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]
-- [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]
-- [[objektai/zodynas/regula]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad vytautas pats ėmėsi šio uždavinio: pasikvietęs į palydovus didikus Goštautą, Rumbaudą bei Radvilą, jis išvyko pas imperatorių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad į Korčino seimą Vytautas iš pradžių nusiuntė Vil niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val da, paskirdamas vietininku Goštautą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mirus Konstantinui Karijotaičiui, Podolės kuni­
+    gaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.
+    Kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš­
+    čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­
+    da, paskirdamas vietininku Goštautą. Atidžiau pavartę
+    praėjusių laikų istoriją, lenkai, be abejo, gautų akivaiz­
+    džių įrodymų, jog tuo metu, kai Kazimieras Didysis rei­
+    kalavo, remdamasis giminyste, po Boleslovo, Mazovijos
+    kunigaikščio, mirties dalies Rusios žemių, esančių tarp
+    Lvovo ir Galičo, kita Podolės dalis priklausė lietuviams:
+    būtent
+    Liubartui — Lvovas,
+    Goštautui — Kamenecas,
+    Narimantui — Kremenecas, Kęstučiui — kitos pilys ir
+    dvarai, todėl, pasitenkinęs Boleslovo turėtomis valdo­
+    mis, nelietęs krašto, pavaldaus Lietuvai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008

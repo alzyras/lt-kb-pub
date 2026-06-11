@@ -588,6 +588,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/asmenys/Romualdas Ozolas]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

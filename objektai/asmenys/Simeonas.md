@@ -47,6 +47,7 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
 ### Susiję objektai
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/asmenys/Dovydas Gardiniškis]]
+- [[objektai/asmenys/Gurka]]
 - [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

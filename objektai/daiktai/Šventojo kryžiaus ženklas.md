@@ -63,6 +63,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Paplotėlis]]
 - [[objektai/zodynas/komtūras]]

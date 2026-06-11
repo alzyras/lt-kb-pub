@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Gediminas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -34,6 +35,94 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 ## Vaidmenys
 
 - Lietuvos valdovas
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/asmenys/Kęstutis]]
+- [[objektai/zodynas/Arkivyskupija]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
+- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
+- [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas|Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)]]
+- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/asmenys/Dovydas Gardiniškis]]
+- [[objektai/daiktai/Druska]]
+- [[objektai/asmenys/Edividas]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
+- [[objektai/ivykiai/Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)]]
+- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
+- [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/autoriai/J. Puzyna]]
+- [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
+- [[objektai/asmenys/Jonas Kalita]]
+- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
+- [[objektai/zodynas/Kanceliarinė rašto kalba]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/grupes/Kijevo kunigaikštystė]]
+- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
+- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
+- [[objektai/daiktai/Kryžius ant kardo galo]]
+- [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
+- [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
+- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/posakiai/Lietuvos ir daugelio rusų karalium]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/asmenys/Liutaveras (Pukaveras)]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
+- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/daiktai/Mūro pilys]]
+- [[objektai/asmenys/Patrikas]]
+- [[objektai/zodynas/Pilininkas]]
+- [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]]
+- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
+- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
+- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
+- [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
+- [[objektai/asmenys/Teodoras (Gedimino brolis)]]
+- [[objektai/asmenys/Traidenis I]]
+- [[objektai/asmenys/Uzbeko]]
+- [[objektai/asmenys/Vikintas]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
+- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
+- [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]
+- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
+- [[objektai/posakiai/`rex` `bazileus`]]
+- [[objektai/zodynas/ankstyvasis feodalizmas kiemai]]
+- [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]
+- [[objektai/zodynas/denariukas]]
+- [[objektai/zodynas/diarchija]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai]]
+- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
+- [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]
+- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/grupes/Gedimino būrys]]
+- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
+- [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
+- [[objektai/posakiai/Net nė šuo iš jūsų pusės su padėka neatsiliepė]]
+- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
+- [[objektai/posakiai/`Rex Lethowye`]]
+- [[objektai/zodynas/kondominiumas]]
 
 ## Teiginiai
 
@@ -486,6 +575,26 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
   pagrindžia:
     - c-059
+
+- t-093
+  teiginys: 'Kojelavičius teigia, kad to dėl ir manau, kad dingstį šitokiems svetimšalių post ringavimams apie Gediminą davęs Pelužis, pirmųjų valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at kakliai savinęsis didžiojo kunigaikščio vardą ir kry žiuočių remiamas labai kenkęs savo tėvynei.'
+  pagrindžia:
+    - c-078
+
+- t-094
+  teiginys: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  pagrindžia:
+    - c-079
+
+- t-095
+  teiginys: 'Kojelavičius teigia, kad gediminas vis dėlto ne norėjo nei krikščionybės priimti, nei sutarties sudaryti su krikščionimis, todėl visai nutraukė pradėtas dery bas.'
+  pagrindžia:
+    - c-080
+
+- t-096
+  teiginys: 'Kojelavičius teigia, kad išsiuntė į Lietuvą pasiun tinius, turėjusius prašyti Gedimino dukters Aldonos rankos Kazimierui, Lenkijos valdovui; lietuviai drau giškai priėmė pasiuntinybę, abi šalys susitarė, kad, valdovams susigiminiavus, būsianti tarp abiejų tautų tvirta taika.'
+  pagrindžia:
+    - c-081
 
 ## Reikšmingi paminėjimai
 
@@ -2097,298 +2206,105 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - t-092
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Arkivyskupija]]
-- [[objektai/grupes/Aukso orda]]
-- [[objektai/daiktai/Aukuras]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas|Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)]]
-- [[objektai/daiktai/Druska]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
-- [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/grupes/Gedimino būrys]]
-- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
-- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
-- [[objektai/ivykiai/Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
-- [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
-- [[objektai/daiktai/Herbai]]
-- [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
-- [[objektai/asmenys/Jonas Kalita]]
-- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
-- [[objektai/zodynas/Kanceliarinė rašto kalba]]
-- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/grupes/Kijevo kunigaikštystė]]
-- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
-- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
-- [[objektai/daiktai/Kryžius ant kardo galo]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
-- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
-- [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
-- [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
-- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/posakiai/Lietuvos ir daugelio rusų karalium]]
-- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/asmenys/Lokietka]]
-- [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
-- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
-- [[objektai/grupes/Mongolų imperija]]
-- [[objektai/daiktai/Mūro pilys]]
-- [[objektai/posakiai/Net nė šuo iš jūsų pusės su padėka neatsiliepė]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
-- [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]]
-- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
-- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
-- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
-- [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
-- [[objektai/asmenys/Teodoras (Gedimino brolis)]]
-- [[objektai/asmenys/Traidenis I]]
-- [[objektai/asmenys/Uzbeko]]
-- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
-- [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]
-- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
-- [[objektai/posakiai/`Rex Lethowye`]]
-- [[objektai/posakiai/`rex` `bazileus`]]
-- [[objektai/zodynas/ankstyvasis feodalizmas kiemai]]
-- [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]
-- [[objektai/zodynas/denariukas]]
-- [[objektai/zodynas/diarchija]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/zodynas/kondominiumas]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai]]
-- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
-- [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]
-- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Bremeno pirkliai]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/daiktai/Gedimino antspaudas]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/grupes/Mongolai]]
-- [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/posakiai/Rex Lethowye]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Sandara]]
-- [[objektai/grupes/Skyrai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/daiktai/Vaškas]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/didvalstybė]]
-- [[objektai/zodynas/diplomatija]]
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/karyba]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/santvarka]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/asmenys/Albrechtas iš Hageno]]
-- [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Aleksandras (Mykolo sūnus)]]
-- [[objektai/grupes/Anglų riteriai]]
-- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
-- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
-- [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]
-- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
-- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
-- [[objektai/asmenys/Daumantas]]
-- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
-- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
-- [[objektai/asmenys/Ditrichas iš Altenburgo]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/asmenys/Dovydas Gardiniškis]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Eberhardas de Virnemburgas]]
-- [[objektai/asmenys/Edividas]]
-- [[objektai/zodynas/Feodalinis ir leninis valdymas]]
-- [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
-- [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]
-- [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
-- [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]
-- [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
-- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]
-- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
-- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
-- [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
-- [[objektai/posakiai/Geležinis vilkas ir šimtas vilkų]]
-- [[objektai/ivykiai/Gnievkovo suvažiavimas]]
-- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]
-- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]
-- [[objektai/grupes/Hanza Šiaurės Vokietijos pajūrio miestai]]
-- [[objektai/asmenys/Hartmanas]]
-- [[objektai/autoriai/J. Puzyna]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]
-- [[objektai/asmenys/Jonas iš Endorfo]]
-- [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]
-- [[objektai/posakiai/Jure civili utantur Rigensis Civitatis]]
-- [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje]]
-- [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
-- [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]
-- [[objektai/grupes/Kiršenšteinai]]
-- [[objektai/asmenys/Kiršenšteinas]]
-- [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise]]
-- [[objektai/asmenys/Konradas Lichtenhagenas]]
-- [[objektai/asmenys/Konradas, vadinamas Tušenfeldu]]
-- [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]
-- [[objektai/paprociai/Kryžiaus statymas ant Veliuonos Gedimino kapu laikyto pilkapio]]
-- [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/ivykiai/Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.)]]
-- [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]
-- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
-- [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
-- [[objektai/daiktai/Lietuvos trispalvė]]
-- [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]
-- [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Liudvikas Bavaras]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]
-- [[objektai/daiktai/M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“]]
-- [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
-- [[objektai/asmenys/Marija (Algirdo žmona)]]
-- [[objektai/asmenys/Marija (Gedimino duktė)]]
-- [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
-- [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas]]
-- [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
-- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
-- [[objektai/zodynas/Papilys suburbium]]
-- [[objektai/asmenys/Patrikas]]
-- [[objektai/asmenys/Paulius iš Olivos]]
-- [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]
-- [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]
-- [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/zodynas/Pilininkai kaštelionai seniūnas]]
-- [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
-- [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]
-- [[objektai/paprociai/Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje]]
-- [[objektai/grupes/Riurikaičių dinastija]]
-- [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės]]
-- [[objektai/zodynas/Rygos miesto teisė]]
-- [[objektai/grupes/Rygos pirkliai]]
-- [[objektai/daiktai/Rykai]]
-- [[objektai/daiktai/Rūbai]]
-- [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas]]
-- [[objektai/asmenys/Sudargas]]
-- [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
-- [[objektai/asmenys/Tautvilas]]
-- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
-- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
-- [[objektai/daiktai/Trakų kunigaikščio žvėrynas]]
-- [[objektai/grupes/Venedai]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
-- [[objektai/asmenys/Vikintas]]
-- [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]
-- [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]
-- [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]
-- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
-- [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“]]
-- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
-- [[objektai/daiktai/Vilnonės medžiagos]]
-- [[objektai/posakiai/Visa Rusija turi priklausyti Lietuvai]]
-- [[objektai/asmenys/Vladislovas Łokietka]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
-- [[objektai/zodynas/bombarda]]
-- [[objektai/zodynas/civilizacinė monada]]
-- [[objektai/zodynas/dešimtinė]]
-- [[objektai/posakiai/kiekvienam geros valios žmogui]]
-- [[objektai/zodynas/kustodas ir gvardijonas]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/mišparai]]
-- [[objektai/zodynas/oktava]]
-- [[objektai/zodynas/papilys]]
-- [[objektai/posakiai/rex` `bazileus]]
-- [[objektai/zodynas/siuzerenas]]
-- [[objektai/zodynas/ulusas]]
-- [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
-- [[objektai/zodynas/čiornai čiornyje liūdi]]
-- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
-- [[objektai/grupes/Šv. Bazilijaus ordinas]]
-- [[objektai/asmenys/Šventaragis]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/paprociai/Žynio sapno aiškinimas ir aukojimas prieš miesto statybą]]
-- [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]
-- [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/zodynas/Feodalinė visuomenė lenas vienvaldystė]]
-- [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius]]
-- [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
-- [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
-- [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]
-- [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]
-- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
-- [[objektai/daiktai/Geležinis vilkas kaip simbolinis regėjimo objektas]]
-- [[objektai/asmenys/Jonas (popiežius)]]
-- [[objektai/daiktai/Kilpinė ir strėlė]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/daiktai/Mediniai namai, trobos ir trobelės]]
-- [[objektai/daiktai/Mediniai rūmai]]
-- [[objektai/daiktai/Mūrinė pilis]]
-- [[objektai/daiktai/Mūro sienos]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Rygos miestiečiai]]
-- [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
-- [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
+- c-078
+  santrauka: 'Kojelavičius teigia, kad to dėl ir manau, kad dingstį šitokiems svetimšalių post ringavimams apie Gediminą davęs Pelužis, pirmųjų valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at kakliai savinęsis didžiojo kunigaikščio vardą ir kry žiuočių remiamas labai kenkęs savo tėvynei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    To­
+    dėl ir manau, kad dingstį šitokiems svetimšalių post­
+    ringavimams apie Gediminą davęs Pelužis, pirmųjų
+    valdovų įpėdinis, nors ir ištremtas iš Lietuvos, bet at­
+    kakliai savinęsis didžiojo kunigaikščio vardą ir kry­
+    žiuočių remiamas labai kenkęs savo tėvynei; norėda­
+    mas sukelti užuojautą dėl savo padėties, jis niekinamai
+    vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį
+    esą jo paties valdinys Gediminas, kitados savo valdo­
+    vų arklininkas, nugalėjęs ir nužudęs. Tuo tarpu rusų
+    metraštininkai, kurie šią savo priešams lietuviams pri­
+    kišamą nuodėmę vargu ar būtų nutylėję ir kurie savo
+    amžiaus įvykius, tai yra visa, kas dėjosi jų akyse, iš
+    G edim in as,
+    V y te n io
+    sūnus,
+    p a v e ld i
+    v a l­
+    džią
+    Neišmanantys reikalo es­
+    mės ar dėl to, kad gyveno
+    toli nuo vietų, kur šitai dė­
+    josi, ar dėl to, kad nuo ap-
+    m
+
+    ## Puslapis 193
+
+    arti matė ir, patikimai atpasakoję, paliko ateinančioms
+    kartoms, lyg susitarę tvirtina, jog Gediminas buvo iš­
+    rinktas į savo tėvo Vytenio sostą pritariant ir palai­
+    kant visiems luomams. Jo valdymo pradžia, Prūsijos
+    bei Livonijos kryžiuočiams stojus į karą, buvo ne tik
+    nerami, bet ir liūdna.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-093
+
+- c-079
+  santrauka: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl pa­
+    sitarę nusprendė patys ati­
+    duoti pilį ir miestą. Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-094
+
+- c-080
+  santrauka: 'Kojelavičius teigia, kad gediminas vis dėlto ne norėjo nei krikščionybės priimti, nei sutarties sudaryti su krikščionimis, todėl visai nutraukė pradėtas dery bas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Teofrido
+    vienuolyno abatas Bernardas. Gediminas vis dėlto ne­
+    norėjo nei krikščionybės priimti, nei sutarties sudaryti
+    su krikščionimis, todėl visai nutraukė pradėtas dery­
+    bas. Jo pasiuntinys Livonijoje išraiškingai prisipažino,
+    kad valdovas esąs nusistatęs niekada neišsižadėti pro­
+    tėvių tikėjimo ir nesudaryti sutarčių, reikalaujančių
+    keisti tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-095
+
+- c-081
+  santrauka: 'Kojelavičius teigia, kad išsiuntė į Lietuvą pasiun tinius, turėjusius prašyti Gedimino dukters Aldonos rankos Kazimierui, Lenkijos valdovui; lietuviai drau giškai priėmė pasiuntinybę, abi šalys susitarė, kad, valdovams susigiminiavus, būsianti tarp abiejų tautų tvirta taika.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kuo greičiausiai ir kuo ryžtingiausiai
+    reikią kelti kalaviją prieš tuos, kurie iš arti graso, o
+    su tolesniais, suėjus į tariamą draugystę, nesunkiai bū­
+    sią galima ramiai gyventi. Išsiuntė į Lietuvą pasiun­
+    tinius, turėjusius prašyti Gedimino dukters Aldonos
+    rankos Kazimierui, Lenkijos valdovui; lietuviai drau­
+    giškai priėmė pasiuntinybę, abi šalys susitarė, kad,
+    valdovams susigiminiavus, būsianti tarp abiejų tautų
+    tvirta taika. Dvidešimt keturis tūkstančius lenkų be­
+    laisvių dovanojo nelyginant kraitį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-096

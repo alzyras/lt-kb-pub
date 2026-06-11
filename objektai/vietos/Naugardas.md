@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Naugardas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -119,6 +120,16 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   teiginys: 'Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją.'
   pagrindžia:
     - c-003
+
+- t-021
+  teiginys: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  pagrindžia:
+    - c-015
+
+- t-022
+  teiginys: 'Kojelavičius teigia, kad staigiu antpuoliu užėmęs Seversko Naugardą, Aleksandro var du jį bei kitas vietoves, pasidavusias geruoju, atidavė valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru vinose kautynėse sumušė Mechmet Girėjų, Krymo kunigaikštį, išdrįsusį jam pastoti kelią su.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -380,3 +391,55 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   statusas: verified
   pagrindžia:
     - t-020
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad sutelkę jėgas, visi kartu užpuolė Brianską ir dėl rusų klastingos išdavystės be vargo užėmė miestą, o netrukus prie išdavikų prisidėjo visa Seversko žemė — Černigovas, Starodubas, Naugardas ir Rylskas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip
+    atlyginimą už išdavystę, prisiekdamas visomis švente­
+    nybėmis, pažadėjo, kad jie paveldėsią miestus ir kraš­
+    tus, kurie bus nuo Lietuvos atplėšti. Žmonės, didžiai
+    nepalankūs Aleksandrui bei Lietuvai dėl skirtingo ti-
+    558
+
+    ## Puslapis 557
+
+    kėjimo, netruko pasiduoti įkalbami ir užmiršti ankš­
+    čiau duotą žodį. Sutelkę jėgas, visi kartu užpuolė
+    Brianską ir dėl rusų klastingos išdavystės be vargo
+    užėmė miestą, o netrukus prie išdavikų prisidėjo visa
+    Seversko žemė — Černigovas, Starodubas, Naugardas ir
+    Rylskas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-021
+
+- c-016
+  santrauka: 'Kojelavičius teigia, kad staigiu antpuoliu užėmęs Seversko Naugardą, Aleksandro var du jį bei kitas vietoves, pasidavusias geruoju, atidavė valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru vinose kautynėse sumušė Mechmet Girėjų, Krymo kunigaikštį, išdrįsusį jam pastoti kelią su.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sako, jog skitai,
+    laikydamiesi barbariškųjų papročių, šitaip sudarydavę
+    sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą
+    vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po
+    kito siurbė, pridurdami užkeikimo žodžius, kad, girdi,
+    tas, kas pirmas sulaužysiąs šią sutartį, žūsiąs nelygi­
+    nant šis vanduo. Laikydamasis šio susitarimo, Šich
+    Achmetas su šimtu tūkstančių raitelių užpuolė Severs-
+    ko žemę, baisiai siaubdamas valdas didikų, kurie atsi­
+    metė nuo Lietuvos ir prisijungė prie Maskvos. Staigiu
+    antpuoliu užėmęs Seversko Naugardą, Aleksandro var­
+    du jį bei kitas vietoves, pasidavusias geruoju, atidavė
+    valdyti Chaleckiui; perėjęs visą Seversko kraštą, kru­
+    vinose kautynėse sumušė Mechmet
+    Girėjų, Krymo
+    kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
+    būriais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-022

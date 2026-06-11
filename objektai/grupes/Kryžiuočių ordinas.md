@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Kryžiuočių ordinas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -13,10 +14,13 @@ datos:
   - '1163 m.'
   - '1190 m.'
   - '1255 m.'
+  - '1274 m.'
+  - '1297 m.'
   - '1326 m.'
   - '1383 m.'
+  - '1521 m.'
 date_start: '1163'
-date_end: '1383'
+date_end: '1521'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,13 +29,308 @@ tags:
   - sukilimas
 amziai:
   - 'XII'
-  - 'XIV'
+  - 'XVI'
 ---
 # Kryžiuočių ordinas
 
 ## Santrauka
 
 Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių ordinas susiejamas su Marijos Mergelės ordino vardu ir kryžiaus karų tradicija.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Joanitų ordinas]]
+- [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
+- [[objektai/grupes/Templininkų ordinas]]
+- [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose]]
+- [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]
+- [[objektai/ivykiai/1418 m. derybos su Ordinu]]
+- [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/asmenys/Aldona Ona]]
+- [[objektai/asmenys/Aleksandras V]]
+- [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
+- [[objektai/asmenys/Andrius Polockietis]]
+- [[objektai/posakiai/Antemurale Christianitatis]]
+- [[objektai/autoriai/Antoni Prochaska]]
+- [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/autoriai/B. Dundulis]]
+- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
+- [[objektai/asmenys/Benediktas Makra]]
+- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/posakiai/Datum in Lettowia in curia nostra]]
+- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
+- [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/autoriai/E. Thunert]]
+- [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]
+- [[objektai/asmenys/Engelhardas Rabe]]
+- [[objektai/asmenys/Er. Wallenrodas]]
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/F. Gause]]
+- [[objektai/asmenys/Falkenbergas]]
+- [[objektai/autoriai/Fr. Benninghoven]]
+- [[objektai/autoriai/Fr. Mager]]
+- [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]
+- [[objektai/grupes/Galindai]]
+- [[objektai/asmenys/Galminas]]
+- [[objektai/asmenys/Gedgaudas]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/asmenys/Getautas]]
+- [[objektai/asmenys/Gregorijus Cemblakas]]
+- [[objektai/asmenys/Gregorijus XII]]
+- [[objektai/asmenys/Hanulis]]
+- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
+- [[objektai/asmenys/Henrikas (pranciškonas)]]
+- [[objektai/asmenys/Henrikas von Plauen]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
+- [[objektai/autoriai/Henriką von Rebdorf]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/asmenys/Inocentas VII]]
+- [[objektai/grupes/Istorikų kolektyvas]]
+- [[objektai/autoriai/J. Posilge]]
+- [[objektai/asmenys/J. Tiergard’as]]
+- [[objektai/autoriai/J. Voigt]]
+- [[objektai/autoriai/Jakštas, J]]
+- [[objektai/autoriai/Jan Fijałek]]
+- [[objektai/ivykiai/Jogailos brolių sukilimas|Jogailos brolių sukilimas (sukilimas)]]
+- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
+- [[objektai/ivykiai/Jogailos pašalinimas iš Vilniaus]]
+- [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos|Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)]]
+- [[objektai/asmenys/Jonas Survila]]
+- [[objektai/asmenys/Jonas XXIII]]
+- [[objektai/asmenys/Jonas von Posilge]]
+- [[objektai/asmenys/Jonas Šafranas]]
+- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
+- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
+- [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
+- [[objektai/asmenys/Jurgis Vytautaitis]]
+- [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
+- [[objektai/zodynas/Kamarninkas]]
+- [[objektai/asmenys/Karigaila]]
+- [[objektai/daiktai/Karinė ginkluotė]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Karolis IV]]
+- [[objektai/asmenys/Karolis VI]]
+- [[objektai/ivykiai/Kauno pilies statybos pradžia (1384 m. gegužės 13 d.)]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
+- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
+- [[objektai/asmenys/Klausigaila]]
+- [[objektai/asmenys/Konradas fon Jungingenas]]
+- [[objektai/asmenys/Konradas von Jungingen]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
+- [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
+- [[objektai/ivykiai/Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)]]
+- [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]
+- [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]
+- [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
+- [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
+- [[objektai/ivykiai/Lenčicos suvažiavimas (1409 m.)]]
+- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
+- [[objektai/grupes/Lietuvos jungtinės pajėgos]]
+- [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Lietuvos vyskupai]]
+- [[objektai/ivykiai/Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)]]
+- [[objektai/asmenys/Lingvenis]]
+- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Marquardas von Salzbachas]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
+- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
+- [[objektai/asmenys/Mykolas Kiełbasa]]
+- [[objektai/asmenys/Mykolas Küchmeisteris]]
+- [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių. Todėl pasiliksiu prie pagonybės]]
+- [[objektai/ivykiai/Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/autoriai/O. Halecki]]
+- [[objektai/autoriai/O. Urbonas]]
+- [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]
+- [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/daiktai/Parakas]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
+- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
+- [[objektai/daiktai/Patrankos]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]
+- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
+- [[objektai/asmenys/Povilas Russdortas]]
+- [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]
+- [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
+- [[objektai/autoriai/Prochaska]]
+- [[objektai/asmenys/Pršemyslas Otokaras II]]
+- [[objektai/ivykiai/Prūsų sukilimai prieš kryžiuočius]]
+- [[objektai/autoriai/R. Batūra]]
+- [[objektai/autoriai/R. Jasas]]
+- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
+- [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
+- [[objektai/ivykiai/Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)]]
+- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/autoriai/Thunert, E]]
+- [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/asmenys/Tomas Survila]]
+- Torno taika (1411 m.)
+- [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
+- [[objektai/asmenys/Ulrichas fon Jungingenas]]
+- [[objektai/autoriai/Urbonas, O]]
+- [[objektai/asmenys/Vaclovas]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
+- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
+- [[objektai/posakiai/Vakkis Ahridlis]]
+- [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/asmenys/Vasibutas]]
+- [[objektai/ivykiai/Veliuonos suvažiavimas dėl Žemaičių sienos (1420 m. rugsėjo 8 d.)]]
+- [[objektai/asmenys/Vengrijos Zigmantas]]
+- [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
+- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
+- [[objektai/grupes/Vienos universiteto profesoriai]]
+- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
+- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
+- [[objektai/asmenys/Visvaldis]]
+- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
+- [[objektai/asmenys/Vladislovas Oporovskis]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
+- [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
+- [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
+- [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/asmenys/Vyguntas]]
+- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
+- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
+- [[objektai/ivykiai/Vytauto krikštas Tapiau (1383 m. spalio 21 d.)]]
+- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
+- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/autoriai/W. Conze]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/applicare]]
+- [[objektai/zodynas/apsimestinis bėgimas]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/donacija]]
+- [[objektai/posakiai/du priešai, šaltis ir totoriai]]
+- [[objektai/zodynas/ekonomija]]
+- [[objektai/zodynas/flangas]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
+- [[objektai/zodynas/lėnas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/misijų teorija]]
+- [[objektai/posakiai/nei žemės, nei žmonių]]
+- [[objektai/zodynas/neofitas]]
+- [[objektai/zodynas/otčici]]
+- [[objektai/zodynas/partizaniškas karas]]
+- [[objektai/zodynas/poliublininiai laikai]]
+- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]
+- [[objektai/zodynas/rezervai]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/posakiai/savo „karaliaus Vytauto”]]
+- [[objektai/posakiai/sicut anguillam per caudam]]
+- [[objektai/zodynas/stabmeldys]]
+- [[objektai/zodynas/supremacija]]
+- [[objektai/zodynas/vasaliniai feodai]]
+- [[objektai/zodynas/vasalystė]]
+- [[objektai/zodynas/vidaus kolonizacija]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/zodynas/vitingas]]
+- [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]
+- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
+- [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
+- [[objektai/ivykiai/Žemaičių sukilimas (1409 m. gegužė)]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1409 m|Žemaičių sukilimas 1409 m (sukilimas)]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
+- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
+- [[objektai/posakiai/„Kristus prisikėlė“]]
+- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
+- [[objektai/posakiai/„Romos karaliaus garbei“]]
+- [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
+- [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]
+- [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
+- [[objektai/autoriai/Hermanas Vartbergė]]
+- [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
+- [[objektai/daiktai/Kryžius ant kardo galo]]
+- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/asmenys/Markvardas Salzbaclias]]
+- [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]
+- [[objektai/autoriai/Springmann, K]]
+- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
+- [[objektai/asmenys/Vaclovas Pragiečius]]
+- [[objektai/grupes/Vokietijos kunigaikščiai]]
+- [[objektai/posakiai/kein Soule sie karten wider]]
+- [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/supremus dux magnus dux]]
+- [[objektai/zodynas/vokiečių ateivių valstybė]]
 
 ## Teiginiai
 
@@ -163,10 +462,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-026
   teiginys: 'Dusburgietis teigia, kad vizijomis apie brolių žaizdas ir randus, kuriuos rodanti abejojantiems pati švenčiausioji mergelė, teigiama, jog Vokiečių ordinas esąs pats geriausias, labiausiai nusipelnęs tarp kitų panašių brolijų (III, 12).'
   pagrindžia:
-    - c-162
-    - c-228
-    - c-218
     - c-114
+    - c-162
+    - c-218
+    - c-228
 
 - t-027
   teiginys: '1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę.'
@@ -281,18 +580,18 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-049
   teiginys: 'Dusburgietis teigia, kad apie Celestiną III, popiežių, ir Henriką VI, imperatorių Tuo metu, kai radosi ir gavo pradžią Teutonų namų ordinas, tai yra 1190 viešpaties metais, viešpatavo Celestinas III, popiežius, ir Henrikas VI, imperatorius (Dusb.'
   pagrindžia:
-    - c-118
-    - c-251
-    - c-119
-    - c-129
-    - c-180
-    - c-128
-    - c-174
     - c-053
+    - c-118
+    - c-119
+    - c-128
+    - c-129
+    - c-156
+    - c-174
+    - c-178
+    - c-180
     - c-220
     - c-244
-    - c-156
-    - c-178
+    - c-251
 
 - t-050
   teiginys: 'Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių į Vytauto kariuomenę.'
@@ -583,21 +882,21 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - t-108
   teiginys: 'Dusburgietis teigia, kad apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią ir tokią šlovę.'
   pagrindžia:
+    - c-057
+    - c-065
+    - c-100
+    - c-110
     - c-136
     - c-143
-    - c-057
-    - c-206
-    - c-215
-    - c-163
-    - c-157
-    - c-219
-    - c-100
-    - c-210
-    - c-065
-    - c-213
-    - c-110
-    - c-214
     - c-146
+    - c-157
+    - c-163
+    - c-206
+    - c-210
+    - c-213
+    - c-214
+    - c-215
+    - c-219
 
 - t-109
   teiginys: 'Kryžiuočių kairysis sparnas, sutelktas prieš dešiniajame sąjungininkų sparne stovėjusius lietuvių pulkus, buvo sudarytas iš stiprių dalinių.'
@@ -1409,6 +1708,136 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   teiginys: '1431 m. Švitrigaila užmezgė ryšius su abiem Vokiečių ordino šakomis, kai Lenkija negrąžino Podolės.'
   pagrindžia:
     - c-038
+
+- t-279
+  teiginys: 'Kojelavičius teigia, kad nors Jo gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir Lietuvos krikštą, tačiau jo klastingumas, prie kurio priskiriami ir slapti sandėriai su kryžiuočiais, morališ kai nepateisinami.'
+  pagrindžia:
+    - c-253
+
+- t-280
+  teiginys: 'Kojelavičius teigia, kad toji sodyba, tada vadinama R om a n o va , paskui Romnove bei Romove, vėliau tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine, kurią, Gediminui viešpataujaut, iš pamatų išgriovė vokiečių ordino vienuo liai riteriai, paprastai vadinami kryžiuočiais.'
+  pagrindžia:
+    - c-254
+
+- t-281
+  teiginys: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  pagrindžia:
+    - c-255
+
+- t-282
+  teiginys: 'Kojelavičius teigia, kad po šių pergalių iš kryžiuočių buvo atimti Heilsbergo, Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.'
+  pagrindžia:
+    - c-256
+
+- t-283
+  teiginys: 'Kojelavičius teigia, kad be to, jie paėmė nemažą grobį ir Prūsijoje, tačiau prūsų padėtis po kelių sėkmingų žy gių prieš kryžiuočius gerokai sustiprėjo: jie menkai pa juto nuostolius, juo labiau kad sunkesnių plėšikiškų antpuolių atveju čia pat stovėjo pasirengę padėti lie tuvių ir.'
+  pagrindžia:
+    - c-257
+
+- t-284
+  teiginys: 'Kojelavičius teigia, kad nusiaubę Kulmo kraš tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi somis jėgomis ėmus juos pulti, neišdrįso atvirai pra dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir gurguoles, išsislapstė.'
+  pagrindžia:
+    - c-258
+
+- t-285
+  teiginys: 'Kojelavičius teigia, kad su kryžiuočiais kautasi atvirame lauke: mūšyje krito ordino magistras Burchardas Aremas su trisdešimčia to ordino riterių, o lietuviai laimėjo kautynes.'
+  pagrindžia:
+    - c-259
+
+- t-286
+  teiginys: 'Kojelavičius teigia, kad sėkmingai užbaigti kovos nedavė Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu: užpuolęs su nepavargusia kariuomene sunkios apgulties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau gybė žuvo.'
+  pagrindžia:
+    - c-260
+
+- t-287
+  teiginys: 'Kojelavičius teigia, kad skubotai iš abiejų pilies pu sių pastatę įtvirtinimus ir įkurdinę juose stiprias įgu las, kryžiuočiai, patys nelyginant ilsėdamiesi, pradėjo kamuoti pilėnus apsuptimi: neleisdami atsivežti mais to, vylėsi badu priversiu pasiduoti.'
+  pagrindžia:
+    - c-261
+
+- t-288
+  teiginys: 'Kojelavičius teigia, kad pasak metraštininkų, tada kryžiuočiai ėmę var toti geležinius vamzdžius, kurie, užtaisyti paraku ir sviediniais, purkšdami liepsnojantį paraką, be galo smarkiai ir su baisiu trenksmu išmeta sviedinį į prie šą.'
+  pagrindžia:
+    - c-262
+
+- t-289
+  teiginys: 'Kojelavičius teigia, kad kryžiuočiai iš pi lių stebėjo ugnimi siaubiamas apygardas; negalėdami nei klasta, nei jėga nukreipti šios audros į šalį, jie ry žosi galop pristabdyti ją, prašydami paliaubų.'
+  pagrindžia:
+    - c-263
+
+- t-290
+  teiginys: 'Kojelavičius teigia, kad galop po ilgos apsiaus ties didįjį šeštadienį, pasikasę po sienomis ir svaido ma ugnimi padegę pastatus, K ry žiu o č ia i u žim a ir kryžiuočiai palaužė atkaklų išg ria u n a K au n ą gynėjų priešinimąsi ir už ėmė pilį.'
+  pagrindžia:
+    - c-264
+
+- t-291
+  teiginys: 'Kojelavičius teigia, kad pagerbdami didelę šventę,, kitą dieną kryžiuočiai praleido ramiai, tačiau trečią dieną iki pat pamatų sugriovė kur ne kur tarp sudegintos pilies išlikusius gynybinius įren ginius: išvertė sienų likučius, nukasė pylimus, išlygino griovius.'
+  pagrindžia:
+    - c-265
+
+- t-292
+  teiginys: 'Kojelavičius teigia, kad prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos.'
+  pagrindžia:
+    - c-266
+
+- t-293
+  teiginys: 'Kojelavičius teigia, kad palaužęs menką nepasirengusių kovai gynėjų pasipriešinimą, užėmė tvirtovę, visus nelaisvėn pakliuvusius vokiečių pirklius bei karius įsakė išžudyti, o kūnus sumesti į čia pat tekantį Nemuną; žymiuosius kryžiuočius išsivedė su saviU žp u o la ir sugriauna mi.'
+  pagrindžia:
+    - c-267
+
+- t-294
+  teiginys: 'Kojelavičius teigia, kad užgrobę visus grūdus, J ie su daro k elia s progabenamus Vysla, kryžiuočiai gas karu i juos išsivežė kitur.'
+  pagrindžia:
+    - c-268
+
+- t-295
+  teiginys: 'Kojelavičius teigia, kad kadangi karalius nesi ėmė jokių skubių priemonių atsiteisti už šiuos darbus, nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum negalėdami pakęsti beveik ištisus metus trunkančios ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos atidėliojamas karas.'
+  pagrindžia:
+    - c-269
+
+- t-296
+  teiginys: 'Kojelavičius teigia, kad žygū nas, papasakojęs, kas Vytau to valia atsitiko Žemaitijoje, pareiškė ordino vardu, kad jie nepaliks neatkeršiję už šį išpuolį, todėl, jeigu kuo greičiausiai jiems neatlygins nuostolių ir neatiduos Žemaitijos, atvirai paskelbsią Lietuvai karą.'
+  pagrindžia:
+    - c-270
+
+- t-297
+  teiginys: 'Kojelavičius teigia, kad seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys kupą, pas kryžiuočius, įpareigodamas, negailint pastan gų, visokiais būdais skatinti magistrą draugiškai už baigti ginčą su Vytautu.'
+  pagrindžia:
+    - c-271
+
+- t-298
+  teiginys: 'Kojelavičius teigia, kad kadangi kryžiuočiai atmetė vieną po kitos visas 1418 m e ta i siūlomas taikos sąlygas, pasiS u sitik im a s d ė l taipūtėliškai reikalaudami visos k o s a tn eša k a rą Žemaitijos, susitikimas neat nešė jokios naudos, ir netru kus kryžiuočiai iš pasalų.'
+  pagrindžia:
+    - c-272
+
+- t-299
+  teiginys: 'Kojelavičius teigia, kad medžiodamas jis pats kartą vos nepakliuvo į kryžiuočių K araliu s išv e n g ia rankas, tik narsi jo palyda k ry ž iu o č ių pasalų vargais negalais išgelbėjo valdovą nuo pasalų, kurias surengė Rastenburgo komtūras vienoje tam reikalui tinkamoje vietoje.'
+  pagrindžia:
+    - c-273
+
+- t-300
+  teiginys: 'Kojelavičius teigia, kad lenkų ir lietuvių kariuoPrūsija menės, peržengusios sienas, netruko įsiveržti į šį kraštą; visi, o ypač valdovai Jogaila bei Vytautas, ketino ne gailint jėgų pergalingai užbaigti ilgą ir sunkų karą, trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams liktų.'
+  pagrindžia:
+    - c-274
+
+- t-301
+  teiginys: 'Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais.'
+  pagrindžia:
+    - c-275
+
+- t-302
+  teiginys: 'Kojelavičius teigia, kad dėl šių iškilmių didžiai susikrimto Liudvikas, Toninės komtūras, kuris su trimis savo draugais, kryžiuočių ordino riteriais, gy veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš tikrųjų uoliai eidamas žvalgo pareigas.'
+  pagrindžia:
+    - c-276
+
+- t-303
+  teiginys: 'Kojelavičius teigia, kad p areiškęs, k ad tokiam sv arb iam re ik a lu i a p ta rti bei d eram ai jį išn ag rin ėti re ik ia laiko, o jo d a b a r trū k sta d ėl k a r o s u kryžiuočiais, jis p ap rašė viską atidėti.'
+  pagrindžia:
+    - c-277
+
+- t-304
+  teiginys: 'Kojelavičius teigia, kad tuo metu Liuterio sekta, paplitusi Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius, jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že miausi pareigūnai, nieko neK ry žiu o č ių p a d ė tis.'
+  pagrindžia:
+    - c-278
 
 ## Reikšmingi paminėjimai
 
@@ -6353,880 +6782,666 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - t-278
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
-- [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose]]
-- [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]
-- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
-- [[objektai/ivykiai/1418 m. derybos su Ordinu]]
-- [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas]]
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
-- [[objektai/asmenys/Aldona Ona]]
-- [[objektai/asmenys/Aleksandras V]]
-- [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
-- [[objektai/asmenys/Andrius Polockietis]]
-- [[objektai/posakiai/Antemurale Christianitatis]]
-- [[objektai/autoriai/Antoni Prochaska]]
-- [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]
-- [[objektai/grupes/Aukso orda]]
-- [[objektai/autoriai/B. Dundulis]]
-- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
-- [[objektai/asmenys/Benediktas Makra]]
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
-- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
-- [[objektai/posakiai/Datum in Lettowia in curia nostra]]
-- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
-- [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
-- [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
-- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
-- [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/autoriai/E. Thunert]]
-- [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]
-- [[objektai/asmenys/Engelhardas Rabė]]
-- [[objektai/asmenys/Er. Wallenrodas]]
-- [[objektai/grupes/Estai]]
-- [[objektai/autoriai/F. Gause]]
-- [[objektai/asmenys/Falkenbergas]]
-- [[objektai/autoriai/Fr. Benninghoven]]
-- [[objektai/autoriai/Fr. Mager]]
-- [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]
-- [[objektai/grupes/Galindai]]
-- [[objektai/asmenys/Galminas]]
-- [[objektai/asmenys/Gedgaudas]]
-- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/asmenys/Getautas]]
-- [[objektai/asmenys/Gregorijus Cemblakas]]
-- [[objektai/asmenys/Gregorijus XII]]
-- [[objektai/asmenys/Hanulis]]
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
-- [[objektai/asmenys/Henrikas (pranciškonas)]]
-- [[objektai/asmenys/Henrikas von Plauen]]
-- [[objektai/asmenys/Henrikas von Plauenas]]
-- [[objektai/autoriai/Henriką von Rebdorf]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/autoriai/Hermanas Vartbergė]]
-- [[objektai/asmenys/Inocentas VII]]
-- [[objektai/grupes/Istorikų kolektyvas]]
-- [[objektai/autoriai/J. Posilge]]
-- [[objektai/asmenys/J. Tiergard’as]]
-- [[objektai/autoriai/J. Voigt]]
-- [[objektai/autoriai/Jakštas, J]]
-- [[objektai/autoriai/Jan Fijałek]]
-- [[objektai/grupes/Joanitų ordinas]]
-- [[objektai/ivykiai/Jogailos brolių sukilimas|Jogailos brolių sukilimas (sukilimas)]]
-- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
-- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
-- [[objektai/ivykiai/Jogailos pašalinimas iš Vilniaus]]
-- [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos|Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)]]
-- [[objektai/asmenys/Jonas Survila]]
-- [[objektai/asmenys/Jonas XXIII]]
-- [[objektai/asmenys/Jonas von Posilge]]
-- [[objektai/asmenys/Jonas Šafranas]]
-- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
-- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
-- [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
-- [[objektai/asmenys/Jurgis Vytautaitis]]
-- [[objektai/posakiai/Kad tik be arklio nebūtų]]
-- [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
-- [[objektai/zodynas/Kamarninkas]]
-- [[objektai/asmenys/Karigaila]]
-- [[objektai/daiktai/Karinė ginkluotė]]
-- [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Karolis VI]]
-- [[objektai/ivykiai/Kauno pilies statybos pradžia (1384 m. gegužės 13 d.)]]
-- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
-- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
-- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
-- [[objektai/asmenys/Klausigaila]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas fon Jungingenas]]
-- [[objektai/asmenys/Konradas von Jungingen]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
-- [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
-- [[objektai/ivykiai/Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)]]
-- [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]
-- [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
-- [[objektai/daiktai/Kryžius ant kardo galo]]
-- [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]
-- [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
-- [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
-- [[objektai/ivykiai/Lenčicos suvažiavimas (1409 m.)]]
-- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
-- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
-- [[objektai/grupes/Lietuvos jungtinės pajėgos]]
-- [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Lietuvos vyskupai]]
-- [[objektai/ivykiai/Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)]]
-- [[objektai/asmenys/Lingvenis]]
-- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]
-- [[objektai/asmenys/Lokietka]]
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/asmenys/Markvardas Salzbaclias]]
-- [[objektai/asmenys/Markvardas Zalzbachas]]
-- [[objektai/asmenys/Marquardas von Salzbachas]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
-- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
-- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/daiktai/Monetos]]
-- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
-- [[objektai/asmenys/Mykolas Kiełbasa]]
-- [[objektai/asmenys/Mykolas Küchmeisteris]]
-- [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
-- [[objektai/asmenys/Narimantas Gediminaitis]]
-- [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių. Todėl pasiliksiu prie pagonybės]]
-- [[objektai/ivykiai/Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/autoriai/O. Halecki]]
-- [[objektai/autoriai/O. Urbonas]]
-- [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]
-- [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]
-- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/grupes/Parusėnai]]
-- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
-- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
-- [[objektai/asmenys/Povilas Russdortas]]
-- [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]
-- [[objektai/autoriai/Prochaska]]
-- [[objektai/asmenys/Pršemyslas Otokaras II]]
-- [[objektai/ivykiai/Prūsų sukilimai prieš kryžiuočius]]
-- [[objektai/autoriai/R. Jasas]]
-- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
-- [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]
-- [[objektai/autoriai/R. Batūra|Romas Batūra]]
-- [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]
-- [[objektai/asmenys/Rumbaudas]]
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
-- [[objektai/ivykiai/Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)]]
-- [[objektai/ivykiai/Salyno sutartis]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
-- [[objektai/daiktai/Sienodaužiai]]
-- [[objektai/autoriai/Springmann, K]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
-- [[objektai/grupes/Templininkų ordinas]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/autoriai/Thunert, E]]
-- [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
-- [[objektai/grupes/Tochtamišo totoriai]]
-- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
-- [[objektai/asmenys/Tomas Survila]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
-- [[objektai/asmenys/Ulrichas fon Jungingenas]]
-- [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/autoriai/Urbonas, O]]
-- [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Vaclovas Pragiečius]]
-- [[objektai/asmenys/Vaclovas Čekietis]]
-- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
-- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
-- [[objektai/posakiai/Vakkis Ahridlis]]
-- [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/asmenys/Vasibutas]]
-- [[objektai/ivykiai/Veliuonos suvažiavimas dėl Žemaičių sienos (1420 m. rugsėjo 8 d.)]]
-- [[objektai/asmenys/Vengrijos Zigmantas]]
-- [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
-- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
-- [[objektai/grupes/Vienos universiteto profesoriai]]
-- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
-- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
-- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
-- [[objektai/asmenys/Visvaldis]]
-- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
-- [[objektai/asmenys/Vladislovas Oporovskis]]
-- [[objektai/asmenys/Vladislovas Łokietka]]
-- [[objektai/grupes/Vokietijos kunigaikščiai]]
-- [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
-- [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
-- [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]
-- [[objektai/asmenys/Vosylius I]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/asmenys/Vyguntas]]
-- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
-- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
-- [[objektai/ivykiai/Vytauto krikštas Tapiau (1383 m. spalio 21 d.)]]
-- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
-- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
-- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
-- [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/autoriai/W. Conze]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/asmenys/Zenonas]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/zodynas/applicare]]
-- [[objektai/zodynas/apsimestinis bėgimas]]
-- [[objektai/zodynas/baskakas]]
-- [[objektai/zodynas/donacija]]
-- [[objektai/posakiai/du priešai, šaltis ir totoriai]]
-- [[objektai/zodynas/ekonomija]]
-- [[objektai/zodynas/flangas]]
-- [[objektai/posakiai/in odium Sigismundi]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/posakiai/kein Soule sie karten wider]]
-- [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha]]
-- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
-- [[objektai/zodynas/lėnas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/misijų teorija]]
-- [[objektai/posakiai/nei žemės, nei žmonių]]
-- [[objektai/zodynas/neofitas]]
-- [[objektai/zodynas/otčici]]
-- [[objektai/zodynas/partizaniškas karas]]
-- [[objektai/zodynas/poliublininiai laikai]]
-- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
-- [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]
-- [[objektai/zodynas/rezervai]]
-- [[objektai/zodynas/rezervas]]
-- [[objektai/posakiai/savo „karaliaus Vytauto”]]
-- [[objektai/posakiai/sicut anguillam per caudam]]
-- [[objektai/zodynas/stabmeldys]]
-- [[objektai/zodynas/supremacija]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/supremus dux magnus dux]]
-- [[objektai/zodynas/vasaliniai feodai]]
-- [[objektai/zodynas/vasalystė]]
-- [[objektai/zodynas/vidaus kolonizacija]]
-- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
-- [[objektai/zodynas/vitingas]]
-- [[objektai/zodynas/vokiečių ateivių valstybė]]
-- [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
-- [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]
-- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
-- [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
-- [[objektai/ivykiai/Žemaičių sukilimas (1409 m. gegužė)]]
-- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
-- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
-- [[objektai/posakiai/„Kristus prisikėlė“]]
-- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
-- [[objektai/posakiai/„Romos karaliaus garbei“]]
-- [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/zodynas/Arkikomtūras]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/asmenys/Bernardas]]
-- [[objektai/asmenys/Celestinas III]]
-- [[objektai/asmenys/Chadži Girėjus]]
-- [[objektai/daiktai/Deglas]]
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Druzigeris]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Fridrichas II]]
-- [[objektai/grupes/Gediminaičiai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas Duseneris]]
-- [[objektai/asmenys/Henrikas Plauenas]]
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/grupes/Husitai]]
-- [[objektai/asmenys/Isamas (Rygos arkivyskupas)]]
-- [[objektai/asmenys/Jaunutis]]
-- [[objektai/asmenys/Jeronimas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/autoriai/Jordanas]]
-- [[objektai/asmenys/Jordanas iš Pelplino]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
-- [[objektai/grupes/Krivičiai]]
-- [[objektai/daiktai/Kuorai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Lybiai]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Mergelė Marija]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Mongolai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/zodynas/Ordino brolis]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/asmenys/Paulius iš Olivos]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/asmenys/Pipinas]]
-- [[objektai/asmenys/Plihta]]
-- [[objektai/grupes/Pomeranai]]
-- [[objektai/asmenys/Popiežius Celestinas III]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/daiktai/Rūbai]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/grupes/Tamplierių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Tochtamyšas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/autoriai/V. Pašuta]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/asmenys/Zigmantas I]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/imunitetai]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/krašto magistras]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/oktava]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/proistorė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/daiktai/Šv. Jurgio vėliava]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygūnai]]
-- [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]
-- [[objektai/asmenys/Albertas Manvydas]]
-- [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
-- [[objektai/asmenys/Algardas Hohenšteino grafas]]
-- [[objektai/asmenys/Andrius Štirlandas]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/grupes/Anglų riteriai]]
-- [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
-- [[objektai/asmenys/Anonas (didysis magistras)]]
-- [[objektai/paprociai/Apgulties logistika blokuojant maisto tiekimą]]
-- [[objektai/zodynas/Augsburgo Augustino tikėjimas]]
-- [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje]]
-- [[objektai/autoriai/August von Kotzebue]]
-- [[objektai/posakiai/Baigėsi karas su prūsais. Prasidėjo karas su lietuviais]]
-- [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
-- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
-- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
-- [[objektai/autoriai/Basanavičius J]]
-- [[objektai/daiktai/Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste]]
-- [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]
-- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
-- [[objektai/asmenys/Bernardas iš Svidnicos]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/autoriai/Biržiška V]]
-- [[objektai/autoriai/Boetticher A]]
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
-- [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis )]]
-- [[objektai/asmenys/Brunonas]]
-- [[objektai/autoriai/Byczko T]]
-- [[objektai/asmenys/Daugirdas Gedgaila]]
-- [[objektai/asmenys/Daumantas]]
-- [[objektai/autoriai/Detmaro Liubeko]]
-- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/grupes/Dominikonų ordinas]]
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/asmenys/Draika]]
-- [[objektai/daiktai/Du pliki kardai]]
-- [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]
-- [[objektai/asmenys/Edyga]]
-- [[objektai/grupes/Eperješai]]
-- [[objektai/asmenys/Folkvinas]]
-- [[objektai/asmenys/Fotijus]]
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
-- [[objektai/asmenys/Fridrichas fon Quitzas]]
-- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
-- [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]
-- [[objektai/daiktai/Gedimino antspaudas]]
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
-- [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]
-- [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
-- [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.)]]
-- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
-- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
-- [[objektai/grupes/Gelgaudai]]
-- [[objektai/asmenys/Geroldzekas iš Švabijos]]
-- [[objektai/autoriai/Gierszewski S]]
-- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
-- [[objektai/grupes/Glebavičių giminė]]
-- [[objektai/asmenys/Gotardas Ketleris]]
-- [[objektai/daiktai/Goštauto liepa]]
-- [[objektai/asmenys/Gregoras Kierdėjus]]
-- [[objektai/paprociai/Gynyba deginant gyvenvietes ir iškeldinant gyventojus į pilį]]
-- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
-- [[objektai/autoriai/Górski K]]
-- [[objektai/autoriai/H. Paszkiewicz]]
-- [[objektai/asmenys/Hartmanas iš Heldrungeno]]
-- [[objektai/asmenys/Heidenreichas|Heidenreichas (vyskupas, XIII–XIV a.)]]
-- [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]]
-- [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]]
-- [[objektai/autoriai/Henrikas Latvis]]
-- [[objektai/asmenys/Henrikas Valpotas]]
-- [[objektai/asmenys/Henrikas iš Hohenlohės]]
-- [[objektai/asmenys/Henrikas iš Izenbergo]]
-- [[objektai/asmenys/Hermanas Saracėnas]]
-- [[objektai/autoriai/Hermanas iš Vartbergės]]
-- [[objektai/autoriai/I. Štai]]
-- [[objektai/autoriai/Ignacas Onacevičius]]
-- [[objektai/asmenys/Ignas Onacevičius]]
-- [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]
-- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/autoriai/J. Dlugošas]]
-- [[objektai/autoriai/J. Jakštas]]
-- [[objektai/autoriai/J. Užpurvis]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/autoriai/Jerošinas]]
-- [[objektai/autoriai/Jerošinas Jeroschin]]
-- [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]
-- [[objektai/ivykiai/Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)]]
-- [[objektai/autoriai/Johannes Voigt Foigtas]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Jonas (Alšėnų kunigaikštis)]]
-- [[objektai/asmenys/Jonas Olesnickis]]
-- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
-- [[objektai/asmenys/Jonas de Lovenbinkė]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/ivykiai/Jotvingių ir lietuvių prisidėjimas prie pamarėnų-prūsų sąjungos (1245 m.)]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
-- [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
-- [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
-- [[objektai/autoriai/Karamzin]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/daiktai/Karinės vėliavos ir ženklai]]
-- [[objektai/daiktai/Kariuomenės ženklai]]
-- [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]
-- [[objektai/asmenys/Karolis Tryrietis]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
-- [[objektai/asmenys/Kazimieras Karigaila]]
-- [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
-- [[objektai/grupes/Kiršenšteinai]]
-- [[objektai/asmenys/Kiršenšteinas]]
-- [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
-- [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
-- [[objektai/asmenys/Konradas Jungingenas]]
-- [[objektai/asmenys/Konradas Valenrodas]]
-- [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/zodynas/Kristaus kariai]]
-- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]
-- [[objektai/ivykiai/Kristburgo brolių smūgis Divanui prie Gubros upės]]
-- [[objektai/asmenys/Kristijonas]]
-- [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]
-- [[objektai/autoriai/Kromero M]]
-- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
-- [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
-- [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)]]
-- [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]
-- [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.)]]
-- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
-- [[objektai/autoriai/Labuda G]]
-- [[objektai/daiktai/Laivai Memelyje]]
-- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
-- [[objektai/daiktai/Lankai, strėlės ir šaudyklės]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
-- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
-- [[objektai/grupes/Lietuviai Lietuvos kariuomenė]]
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]
-- [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
-- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
-- [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
-- [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
-- [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
-- [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
-- [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
-- [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
-- [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]
-- [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]
-- [[objektai/autoriai/Lindenblattas]]
-- [[objektai/autoriai/Lindenblattas Joannes von der Pusilie]]
-- [[objektai/autoriai/Lindenblattas Johannes Lindenblatt]]
-- [[objektai/asmenys/Liudvikas Bavaras]]
-- [[objektai/ivykiai/Livonijos kalavijuočių derybos dėl prisijungimo prie Vokiečių ordino (1230–1235 m.)]]
-- [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]
-- [[objektai/autoriai/M. Poliakuvna]]
-- [[objektai/autoriai/M. Ročka]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs]]
-- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
-- [[objektai/asmenys/Martynas V]]
-- [[objektai/asmenys/Mata]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
-- [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena]]
-- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/asmenys/Mikalojus Kopernikas]]
-- [[objektai/asmenys/Mikalojus Moskoževskis]]
-- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
-- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
-- [[objektai/grupes/Mokinių slėnio brolių ordinas]]
-- [[objektai/grupes/Moldovos kunigaikščiai]]
-- [[objektai/asmenys/Morta]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/asmenys/Mstivojus]]
-- [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas]]
-- [[objektai/asmenys/Mykolas Zaleskis]]
-- [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
-- [[objektai/asmenys/Nameisis]]
-- [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
-- [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
-- [[objektai/asmenys/Odoničius]]
-- [[objektai/asmenys/Ona]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
-- [[objektai/zodynas/Ordino maršalas didysis maršalas]]
-- [[objektai/asmenys/Otto Blanehom]]
-- [[objektai/autoriai/P. Pakarklis]]
-- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
-- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
-- [[objektai/zodynas/Paliaubos induciae]]
-- [[objektai/grupes/Pamarėnai]]
-- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
-- [[objektai/asmenys/Paulius Rusdorfas]]
-- [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]
-- [[objektai/asmenys/Pelužis]]
-- [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
-- [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]]
-- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
-- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
-- [[objektai/ivykiai/Pipino nukankinimas ir mirtis]]
-- [[objektai/posakiai/Pirma geležis į vašką, o vanduo į plieną pavirs]]
-- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
-- [[objektai/grupes/Podolės bajorai]]
-- [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]
-- [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]
-- [[objektai/posakiai/Praemissa er corde considerantes devoto]]
-- [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Pranciškus (popiežiaus legatas)]]
-- [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
-- [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]
-- [[objektai/zodynas/Prūsijos žemė]]
-- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
-- [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]
-- [[objektai/grupes/Pskovo respublika]]
-- [[objektai/ivykiai/Racionžo taika]]
-- [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
-- [[objektai/paprociai/Raštų ir sutarčių tvirtinimas antspaudais bei antspaudo tikrumo gynimas prakeiksmu]]
-- [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
-- [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
-- [[objektai/asmenys/Ringailė]]
-- [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]
-- [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]
-- [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
-- [[objektai/asmenys/Rusdorfas]]
-- [[objektai/autoriai/Rygos arkivyskupas Fridrichas]]
-- [[objektai/grupes/Rygos kapitula]]
-- [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia]]
-- [[objektai/asmenys/Samboras]]
-- [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
-- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- [[objektai/paprociai/Sekmadieninis kaimo žmonių linksminimasis ir šokiai]]
-- [[objektai/asmenys/Simonas Lengvenis]]
-- [[objektai/ivykiai/Smolensko sukilimas]]
-- [[objektai/asmenys/Sofija]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/autoriai/Stasys Šalkauskis]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/autoriai/Steponavičienė J]]
-- [[objektai/posakiai/Steterunt V septimanis in continuo agone nocte dieque]]
-- [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
-- [[objektai/autoriai/Stryjkowski Strijkovskis]]
-- [[objektai/asmenys/Sudargas]]
-- [[objektai/daiktai/Sunkieji ginklai]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
-- [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
-- [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
-- [[objektai/asmenys/Tautvila]]
-- [[objektai/asmenys/Tautvilas]]
-- [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
-- [[objektai/grupes/Totorių pajėgos]]
-- [[objektai/asmenys/Traidenis]]
-- [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]
-- [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
-- [[objektai/ivykiai/Trakų užėmimas ir apgultis]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]
-- [[objektai/asmenys/Vaidotas]]
-- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
-- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/paprociai/Vakarų riterių stojimas į žygius prieš pagonis]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/asmenys/Vargulis]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės]]
-- [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
-- [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)]]
-- [[objektai/grupes/Venedai]]
-- [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
-- [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka]]
-- [[objektai/asmenys/Vilhelmas fon Helfelšteinas]]
-- [[objektai/zodynas/Vilija Vigilia Neris Nerige]]
-- [[objektai/grupes/Vilniaus gyventojai]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
-- [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]
-- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]
-- [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]
-- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
-- [[objektai/autoriai/Vincas Vyčinas]]
-- [[objektai/asmenys/Vinrichas fon Kniprodė]]
-- [[objektai/asmenys/Vinrichas von Kniprodė]]
-- [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]
-- [[objektai/grupes/Viršilų giminė]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
-- [[objektai/autoriai/Vygandas Marburgietis]]
-- [[objektai/autoriai/Vygandas iš Marburgo]]
-- [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]
-- [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
-- [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.)]]
-- [[objektai/grupes/Vytauto šalininkai]]
-- [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]
-- [[objektai/daiktai/Vėliavos su kryžiais]]
-- [[objektai/paprociai/Vėliavų su kryžiais kėlimas kaip kovos su pagonimis ženklas]]
-- [[objektai/autoriai/Walsinghamas]]
-- [[objektai/autoriai/Wunder H]]
-- [[objektai/asmenys/Zemovitas]]
-- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
-- [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
-- [[objektai/posakiai/apie kuriuos pasakojo juos matę ir juose dalyvavę žmonės]]
-- [[objektai/zodynas/apostazija]]
-- [[objektai/zodynas/dešimtinė]]
-- [[objektai/zodynas/didysis maršalas]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/ekskomunikuoti]]
-- [[objektai/zodynas/emyras]]
-- [[objektai/posakiai/jeigu jis taps krikščionimi, jam nepasiduosime]]
-- [[objektai/zodynas/karo etika]]
-- [[objektai/posakiai/kiekvienam geros valios žmogui]]
-- [[objektai/posakiai/krikščioniškieji plėšikautojai]]
-- [[objektai/zodynas/kryžiaus karas]]
-- [[objektai/zodynas/kuoras propugnaculum pilaitė]]
-- [[objektai/zodynas/landkomtūras]]
-- [[objektai/zodynas/latrunkuliai]]
-- [[objektai/zodynas/magistro kapelionas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/zodynas/papilys]]
-- [[objektai/posakiai/pasak kai kurių]]
-- [[objektai/zodynas/patepimas į valdžią]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/zodynas/protestantizmas]]
-- [[objektai/zodynas/prūsas Prūsa Prūsija]]
-- [[objektai/posakiai/stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje]]
-- [[objektai/zodynas/tautiška politika]]
-- [[objektai/zodynas/territorium lant valsčius]]
-- [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
-- [[objektai/zodynas/činšas]]
-- [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]
-- [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]
-- [[objektai/ivykiai/Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)]]
-- [[objektai/grupes/Švitrigailos šalininkai]]
-- [[objektai/zodynas/šv. Petro skatiko rinkliava]]
-- [[objektai/zodynas/šventas sumanymas]]
-- [[objektai/posakiai/Žemaičių skundas]]
-- [[objektai/asmenys/Žygimantas Kaributaitis]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
-- [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
-- [[objektai/autoriai/Тоерреn M]]
-- [[objektai/posakiai/„tauta galėjo apsisaugoti tik sukūrusi valstybę“]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Gotfridas Lindenas]]
-- [[objektai/asmenys/Grigalius IX]]
-- [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/grupes/Bernardinų ordinas]]
-- [[objektai/asmenys/Gebhardas]]
-- [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]
-- [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]
-- [[objektai/asmenys/Henrikas V]]
-- [[objektai/asmenys/Henrikas iš Kunceno]]
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/ivykiai/Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.)]]
-- [[objektai/asmenys/Jonas (kancleris)]]
-- [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę]]
-- [[objektai/autoriai/Manteufel T]]
-- [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
-- [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.)]]
-- [[objektai/paprociai/Pasalos rengimas kelią užverčiant prikirstais medžiais]]
-- [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
-- [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės]]
-- [[objektai/asmenys/Vilhelmas (dekanas)]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]
-- [[objektai/autoriai/Wenta J]]
-- [[objektai/zodynas/konsistorija]]
-- [[objektai/zodynas/kustodas ir gvardijonas]]
-- [[objektai/zodynas/laisvasis Rygos miestas]]
-- [[objektai/asmenys/Eberhardas iš Manheimo]]
-- [[objektai/grupes/Europos kryžininkai]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]
-- [[objektai/asmenys/Gotfridas fon Ustas]]
-- [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
-- [[objektai/posakiai/Henrikai, kelkis melstis, nes tavo broliai jau pakirdę]]
-- [[objektai/asmenys/Hermanas (Ordino magistras)]]
-- [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
-- [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]
-- [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
-- [[objektai/asmenys/Jonas Rygietis]]
-- [[objektai/asmenys/Jonas iš Endorfo]]
-- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
-- [[objektai/asmenys/Kodrūnas]]
-- [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]
-- [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
-- [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]
-- [[objektai/asmenys/Mikalojus fon Parsau]]
-- [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]
-- [[objektai/daiktai/Ordino magistro valdžios žymenys]]
-- [[objektai/asmenys/Poponas iš Osternos]]
-- [[objektai/ivykiai/Poterbergo pilies perkėlimas ir Mevės pilies pastatymas|Poterbergo pilies perkėlimas ir Mevės pilies pastatymas (pilis, XIII a.)]]
-- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
-- [[objektai/grupes/Prūsijos valstybė]]
-- [[objektai/asmenys/Redigeris Elneris]]
-- [[objektai/asmenys/Reimaras fon Hanė]]
-- [[objektai/grupes/Rygos miestiečiai]]
-- [[objektai/asmenys/Skomantas]]
-- [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]
-- [[objektai/grupes/Valakai]]
-- [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
-- [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia]]
-- [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
-- [[objektai/zodynas/mišparai]]
-- [[objektai/zodynas/pasaulietis]]
-- [[objektai/zodynas/pilėnas pilėnai]]
-- [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]
-- [[objektai/posakiai/šio šventojo žygio atminimas]]
-- [[objektai/zodynas/šventasis žygis]]
-- [[objektai/paprociai/Žemaičių atvertimo į krikščionybę veikla iš Vilniaus]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
-- [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
-- [[objektai/posakiai/„niekieno neatsiklausdamas“]]
+- c-253
+  santrauka: 'Kojelavičius teigia, kad nors Jo gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir Lietuvos krikštą, tačiau jo klastingumas, prie kurio priskiriami ir slapti sandėriai su kryžiuočiais, morališ kai nepateisinami.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Užleidęs
+    valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
+    nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa­
+    žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris
+    savo dėdei atsimokėjęs klastingu nužudymu. Nors Jo­
+    gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir
+    27
+
+    ## Puslapis 26
+
+    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
+    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
+    kai nepateisinami.
+    Kovojant su priešu, klasta gali būti pateisinama,
+    bet ne tarp savųjų, ypač artimų giminaičių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-279
+
+- c-254
+  santrauka: 'Kojelavičius teigia, kad toji sodyba, tada vadinama R om a n o va , paskui Romnove bei Romove, vėliau tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine, kurią, Gediminui viešpataujaut, iš pamatų išgriovė vokiečių ordino vienuo liai riteriai, paprastai vadinami kryžiuočiais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Plaukdami prieš srovę į krašto gilumą, prie Dubysos
+    žiočių, patogioje vietoje, pakrantėmis išsidriekusioje
+    gražioje lygumoje, padėjo savo naujos sodybos pama­
+    tus. Toji sodyba, tada vadinama R om a n o va , paskui
+    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
+    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
+    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
+    liai riteriai, paprastai vadinami kryžiuočiais. Gerokai
+    pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir
+    nusigavo į vietas, kur gyveno alanai, arba lietuviai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-280
+
+- c-255
+  santrauka: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šitoks griežtas atsa­
+    kymas nemokantiems dėl žeminančių sąlygų tvardytis
+    K u ršia i, p a p ra sta i v a -
+    pasipiktinimą. Taigi pasitrau-
+    d in a m i
+    ku ršin in k a is,
+    kę ir atsimetę nuo krikščio-
+    Tada, vienoje pusėje padaugėjus jėgų, kitoje — su­
+    mažėjus, prasidėjo
+    kova: tame mūšyje Livonijos
+    kariuomenė buvo žiauriai sutriuškinta. Žuvo tada
+    pats Livonijos magistras, Prūsijos maršalas Henrikas
+    Botelis ir šimtas penkiasdešimt ordino riterių, papras­
+    tai vadinamų broliais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-281
+
+- c-256
+  santrauka: 'Kojelavičius teigia, kad po šių pergalių iš kryžiuočių buvo atimti Heilsbergo, Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pats va­
+    das, praradęs kariuomenę, pateko į priešų rankas. Po
+    šių pergalių iš kryžiuočių buvo atimti Heilsbergo,
+    Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
+    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
+    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
+    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
+    norėdamas turėti laisvesnes
+    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
+    užmegzta rusų ir lietuvių
+    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
+    Mazovijos žemėn.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-282
+
+- c-257
+  santrauka: 'Kojelavičius teigia, kad be to, jie paėmė nemažą grobį ir Prūsijoje, tačiau prūsų padėtis po kelių sėkmingų žy gių prieš kryžiuočius gerokai sustiprėjo: jie menkai pa juto nuostolius, juo labiau kad sunkesnių plėšikiškų antpuolių atveju čia pat stovėjo pasirengę padėti lie tuvių ir.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be to, jie paėmė nemažą grobį ir
+    Prūsijoje, tačiau prūsų padėtis po kelių sėkmingų žy­
+    gių prieš kryžiuočius gerokai sustiprėjo: jie menkai pa­
+    juto nuostolius, juo labiau kad sunkesnių plėšikiškų
+    antpuolių atveju čia pat stovėjo pasirengę padėti lie­
+    tuvių ir žemaičių būriai. Atrodė, jog kryžiuočiams šį
+    5*
+    131
+
+    ## Puslapis 130
+
+    1274 m eta i
+    Ž em a ičia i gina p r ū ­
+    sus ir m u ša  k r y ž iu o ­
+    čius
+    karą pavyks užbaigti tada, kai sutrauks iš karto visas
+    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
+    tima pagalba. Tuo metu kryžiuočių riterių magistras
+    buvo Henrikas: jis pirmiausia atnaujino santarvę su
+    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
+    viai bei žemaičiai nesikiš j prūsų karą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-283
+
+- c-258
+  santrauka: 'Kojelavičius teigia, kad nusiaubę Kulmo kraš tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi somis jėgomis ėmus juos pulti, neišdrįso atvirai pra dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir gurguoles, išsislapstė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų. Nusiaubę Kulmo kraš­
+    tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­
+    galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­
+    somis jėgomis ėmus juos pulti, neišdrįso atvirai pra­
+    dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir
+    gurguoles, išsislapstė artimiausiuose miškuose. Kry­
+    žiuočių riteriai, džiaugdamie­
+    si nekruvina pergale, tuojau
+    pat be jokios tvarkos išsi­
+    sklaidė grobio ieškoti ir sto­
+    vyklos plėšti; jie puolė, ne­
+    pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
+    ir apskritai elgėsi, nelyginant bet koks pavojus būtų
+    praėjęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-284
+
+- c-259
+  santrauka: 'Kojelavičius teigia, kad su kryžiuočiais kautasi atvirame lauke: mūšyje krito ordino magistras Burchardas Aremas su trisdešimčia to ordino riterių, o lietuviai laimėjo kautynes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
+    D o b iy n ą , ž u d o  k i y -
+    nių ir plėšimo, žuvo liepsno-
+    devynis tūkstančius belaisvių. Su kryžiuočiais kautasi
+    atvirame lauke: mūšyje krito ordino magistras Bur-
+    chardas Aremas su trisdešimčia to ordino riterių, o
+    lietuviai laimėjo kautynes. Vėliau, sužinojus, jog len­
+    kai ketina smarkiai užpulti lietuvius, paliauta rengti
+    žygius į kaimynų šalis ir pradėta laukti karo; lietuviai
+    nenorėjo, vienur išžygiavę, susilaukti audros iš kitos
+    pusės, jie būgštavo, kad, išsklaidę ir nuvarginę karius,
+    1297 m e ta i
+    L ietu via i
+    siaubia
+    ėję iš kaimų į bažnyčias,
+    miestą pavyko užimti staigiu
+    antpuoliu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-285
+
+- c-260
+  santrauka: 'Kojelavičius teigia, kad sėkmingai užbaigti kovos nedavė Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu: užpuolęs su nepavargusia kariuomene sunkios apgulties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau gybė žuvo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Toje stovykloje kartu su ry-
+    giečiais buvo keturi tūkstančiai karių, kurie ryžtingai
+    spaudė apgultuosius. Sėkmingai užbaigti kovos nedavė
+    Bertoldas Briuhavenas, Karaliaučiaus komtūras, pasiųs­
+    tas pagalbon į Livoniją su Prūsijos kryžiuočių daliniu:
+    užpuolęs su nepavargusia kariuomene sunkios apgul-
+    ties išsekintus lietuvius, nugalėjo juos ir išvaikė; dau­
+    gybė žuvo, daugybė nuskendo upėje, per kurią bėg­
+    dami turėjo keltis. Šiek tiek vėliau Vytenis, gal bijo­
+    damas, kad po jo pergalės pablogėjusi Livonijos ordino
+    padėtis, Prūsijos kryžiuočiams suteikus pagalbą ko­
+    voje prieš Rygą, nesustiprėtų, gal norėdamas gandais
+    apie vidaus sąmyšius atgrasinti Prūsijos kryžiuočius
+    nuo karo Livonijoje, o gai trokšdamas atsiteisti už pra­
+    laimėjimą, kurį patyrė prie Nojermiuieno sumušta jo
+    kariauna,
+    pasiuntė
+    keletą
+    P rū sija
+    n io k o ja m a
+    lengvosios raitijos būrių į
+    lie tu v ių
+    Prūsiją
+    pasiieškoti
+    grobio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-286
+
+- c-261
+  santrauka: 'Kojelavičius teigia, kad skubotai iš abiejų pilies pu sių pastatę įtvirtinimus ir įkurdinę juose stiprias įgu las, kryžiuočiai, patys nelyginant ilsėdamiesi, pradėjo kamuoti pilėnus apsuptimi: neleisdami atsivežti mais to, vylėsi badu priversiu pasiduoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sugrįžo jis lydimas naujų kariaunų, kurias
+    iš Bavarijos buvo atvedęs kunigaikštis Henrikas, vis
+    dėlto, ankstesnio pralaimėjimo pamokytas, neišdrįso
+    stoti į atvirą kovą ir pulti. Skubotai iš abiejų pilies pu­
+    sių pastatę įtvirtinimus ir įkurdinę juose stiprias įgu­
+    las, kryžiuočiai, patys nelyginant ilsėdamiesi, pradėjo
+    kamuoti pilėnus apsuptimi: neleisdami atsivežti mais­
+    to, vylėsi badu priversiu pasiduoti. Tuo tarpu Gedimi­
+    nas, norėdamas padėti apsuptai Veliuonai, su didelėmis
+    jėgomis užpuolė Fridburgą ir Bajerburgą; jis laikė šias
+    pilis apsuptas ištisas dvidešimt dienų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-287
+
+- c-262
+  santrauka: 'Kojelavičius teigia, kad pasak metraštininkų, tada kryžiuočiai ėmę var toti geležinius vamzdžius, kurie, užtaisyti paraku ir sviediniais, purkšdami liepsnojantį paraką, be galo smarkiai ir su baisiu trenksmu išmeta sviedinį į prie šą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Artėdami prie
+    gynybinio pylimo, lietuviai čia patyrė smarkų pralai­
+    mėjimą, nes buvo pavartoti ligi tol neregėti negirdėti
+    ginklai. Pasak metraštininkų, tada kryžiuočiai ėmę var­
+    toti geležinius vamzdžius, kurie, užtaisyti paraku ir
+    sviediniais, purkšdami liepsnojantį paraką, be galo
+    smarkiai ir su baisiu trenksmu išmeta sviedinį į prie­
+    šą. Išmoningas to amžiaus išradimas, tačiau kaip jis
+    išniekino buvusią karinę šlovę: kur dėtis buvusiam
+    šaunumui bei drąsai, jeigu silpna ranka, bemaž nieko
+    neveikdama, klote iškloja nesuskaitomas narsiausių
+    karių krūvas?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-288
+
+- c-263
+  santrauka: 'Kojelavičius teigia, kad kryžiuočiai iš pi lių stebėjo ugnimi siaubiamas apygardas; negalėdami nei klasta, nei jėga nukreipti šios audros į šalį, jie ry žosi galop pristabdyti ją, prašydami paliaubų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Visos žemės tarp Karaliaučiaus, Baltijos įlan­
+    kos, Elbingo, Marienburgo, Elsbergo, visa Semba, No-
+    tanga, Varmė ir dalis Pamedės degė nelyginant vienas
+    laužas, virsdamos pelenais ir dūmais. Kryžiuočiai iš pi­
+    lių stebėjo ugnimi siaubiamas apygardas; negalėdami
+    nei klasta, nei jėga nukreipti šios audros į šalį, jie ry­
+    žosi galop pristabdyti ją, prašydami paliaubų. Lietuviai
+    grąžinta Žemaitijos dalis, užimta kryžiuočių, ir lietu­
+    viams perleistos netoli Veliuonos šių jau atstatytos pi­
+    lys.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-289
+
+- c-264
+  santrauka: 'Kojelavičius teigia, kad galop po ilgos apsiaus ties didįjį šeštadienį, pasikasę po sienomis ir svaido ma ugnimi padegę pastatus, K ry žiu o č ia i u žim a ir kryžiuočiai palaužė atkaklų išg ria u n a K au n ą gynėjų priešinimąsi ir už ėmė pilį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Galop po ilgos apsiaus­
+    ties didįjį šeštadienį, pasikasę po sienomis ir svaido­
+    ma ugnimi padegę pastatus,
+    K ry žiu o č ia i u žim a ir
+    kryžiuočiai palaužė atkaklų
+    išg ria u n a  K au n ą
+    gynėjų priešinimąsi ir už­
+    ėmė pilį. Nemaža jų žuvo,
+    kai, veržiantis prie įtvirtinimų, juos užgriuvo pakasta
+    gynybinė siena, tačiau kur kas daugiau nuostolių pa­
+    tyrė lietuviai. Pilies įgulą sudarė trys tūkstančiai rink­
+    tinių karių, apie kurių graudžią mirtį degančios pilies
+    liepsnose paprasti žmonės dar ir dabar tebegieda rau­
+    das. Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
+    tučio sūnumi, gyvi pakliuvo į nelaisvę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-290
+
+- c-265
+  santrauka: 'Kojelavičius teigia, kad pagerbdami didelę šventę,, kitą dieną kryžiuočiai praleido ramiai, tačiau trečią dieną iki pat pamatų sugriovė kur ne kur tarp sudegintos pilies išlikusius gynybinius įren ginius: išvertė sienų likučius, nukasė pylimus, išlygino griovius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
+    tučio sūnumi, gyvi pakliuvo į nelaisvę. Pagerbdami
+    didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
+    tačiau trečią dieną iki pat pamatų sugriovė kur ne
+    kur tarp sudegintos pilies išlikusius gynybinius įren­
+    ginius: išvertė sienų likučius, nukasė pylimus, išlygino
+    griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
+    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
+    antrąją paėmė po keturias dienas užtrukusios apgul-
+    ties.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-291
+
+- c-266
+  santrauka: 'Kojelavičius teigia, kad prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    desnė nelaimė — badas, siau-
+    B adas L ie tu v o je
+    binga našta užgulęs visą Lie­
+    tuvą, galimas daiktas, dėl to,
+    kad tais metais apskritai visur buvo blogas oras, net­
+    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
+    latinių priešo antpuolių iš baimės niekas nebedirbo
+    žemės ar iš viso nebuvo kam ją dirbti. Neatnešė ato­
+    kvėpio nė kitų metų sausis. Prūsų magistras, sulaukęs
+    paramos iš Bavarijos grafo Volfgango ir Livonijos
+    kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą:
+    Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti­
+    joje tapo visai sunaikintos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-292
+
+- c-267
+  santrauka: 'Kojelavičius teigia, kad palaužęs menką nepasirengusių kovai gynėjų pasipriešinimą, užėmė tvirtovę, visus nelaisvėn pakliuvusius vokiečių pirklius bei karius įsakė išžudyti, o kūnus sumesti į čia pat tekantį Nemuną; žymiuosius kryžiuočius išsivedė su saviU žp u o la ir sugriauna mi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nutaikęs progą, nuskubėjo į Marienbur­
+    gą, jam priklausomą pilį, ir netikėtai užpuolė gretimąjį
+    Ritersverderį. Palaužęs menką nepasirengusių kovai
+    gynėjų pasipriešinimą, užėmė tvirtovę, visus nelaisvėn
+    328
+
+    ## Puslapis 327
+
+    pakliuvusius vokiečių pirklius bei karius įsakė išžudyti,
+    o kūnus sumesti į čia pat tekantį Nemuną; žymiuosius
+    kryžiuočius išsivedė su savi-
+    U žp u o la ir sugriauna
+    mi. Bematant pasklidęs gan-
+    k ry žiu o č ių  pilis
+    das apie šį susidorojimą pas­
+    katino gretimų tvirtovių vir­
+    šininkus griebtis ginklo; nebijodami nedidelio Vytauto
+    būrio, o gal tikėdamiesi atsiimti grobį, jie skubiai pa­
+    siuntė raitelių būrį ir pradėjo drąsiai vytis Vytautą,
+    traukiantį toliau į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-293
+
+- c-268
+  santrauka: 'Kojelavičius teigia, kad užgrobę visus grūdus, J ie su daro k elia s progabenamus Vysla, kryžiuočiai gas karu i juos išsivežė kitur.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Norėdamas palengvinti nuniokotos tėvynės dalią,
+    Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
+    delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­
+    sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­
+    tuvą. Užgrobę visus grūdus,
+    J ie  su daro k elia s pro-
+    gabenamus Vysla, kryžiuočiai
+    gas karu i
+    juos išsivežė kitur. Kai kara­
+    lius, pasiuntęs žygūną, parei­
+    kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie
+    atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė
+    tai, ką karalius siuntė stabmeldžių tautai, kovojančiai
+    prieš krikščionis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-294
+
+- c-269
+  santrauka: 'Kojelavičius teigia, kad kadangi karalius nesi ėmė jokių skubių priemonių atsiteisti už šiuos darbus, nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum negalėdami pakęsti beveik ištisus metus trunkančios ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos atidėliojamas karas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat nors jie gerai žinojo, jog lietu­
+    vių tauta su savo didikais daugiau kaip prieš dvidešimt
+    metų priėmė krikščionybę, tačiau po senovei juos va­
+    dino stabmeldžiais, tariamu dievobaimingumu mulkin­
+    dami krikščioniškųjų šalių valdovus (ir net pačius Ro­
+    mos popiežius), dėl kurių paramos ar nuolaidžiavimo
+    ir galėjo tose žemėse kariauti. Kadangi karalius nesi­
+    ėmė jokių skubių priemonių atsiteisti už šiuos darbus,
+    nenorėdamas elgtis neapgalvotai, kryžiuočiai, tarytum
+    negalėdami pakęsti beveik ištisus metus trunkančios
+    ramybės ir to, kad dėl karaliaus nuolaidumo nuolatos
+    atidėliojamas karas, užpuolė Prūsijoje, Ragainėje, lie­
+    tuvių pirklius, kurie čia pagal sutartį ramiai gyveno;
+    vienus nužudė, o iš kitų atėmė visą turtą. Vytautas,
+    gavęs apie tai žinią, nutarė užbėgti priešui už akių
+    gal dėl to, kad iš prigimties buvo smarkesnio būdo, o
+    gal todėl, kad, žinodamas tikrą padėtį, nieku būdu ne­
+    sitikėjo iš kryžiuočių taikos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-295
+
+- c-270
+  santrauka: 'Kojelavičius teigia, kad žygū nas, papasakojęs, kas Vytau to valia atsitiko Žemaitijoje, pareiškė ordino vardu, kad jie nepaliks neatkeršiję už šį išpuolį, todėl, jeigu kuo greičiausiai jiems neatlygins nuostolių ir neatiduos Žemaitijos, atvirai paskelbsią Lietuvai karą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nenorėdami, kad atrody-
+    1409 m e ta i
+    tų, jog jie, susiradę kliautį,
+    K r y ž iu o č ia i
+    sk e lb ia
+    pirmieji pradėjo karą, pasiun-
+    k a rą
+    tė žygūną pas karalių. Žygū­
+    nas, papasakojęs, kas Vytau­
+    to valia atsitiko Žemaitijoje, pareiškė ordino vardu,
+    kad jie nepaliks neatkeršiję už šį išpuolį, todėl, jeigu
+    kuo greičiausiai jiems neatlygins nuostolių ir neatiduos
+    Žemaitijos, atvirai paskelbsią Lietuvai karą. Galop jis
+    pareikalavo, kad karalius atvirai išreikštų savo nuomo­
+    nę ir pasakytų, ar ryžtasi ginti Vytautą, ar, jo neužtar­
+    damas, saugoti neseniai su kryžiuočiais sudarytą taiką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-296
+
+- c-271
+  santrauka: 'Kojelavičius teigia, kad seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys kupą, pas kryžiuočius, įpareigodamas, negailint pastan gų, visokiais būdais skatinti magistrą draugiškai už baigti ginčą su Vytautu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­
+    kupą, pas kryžiuočius, įpareigodamas, negailint pastan­
+    gų, visokiais būdais skatinti magistrą draugiškai už­
+    baigti ginčą su Vytautu. Arkivyskupas ryžtingai ėmėsi
+    jam patikėto uždavinio, tačiau, ką bedarydamas ir ką
+    besakydamas, negalėjo iš magistro išgauti kitokio at­
+    sakymo, nei tas, kad jo žmonės, pakėlę ginklą, jau
+    traukia į Lietuvą. Atmetančio bet kokį taikingą reika­
+    lo sprendimą žmogaus atkarus išdidumas supykdė ar­
+    kivyskupą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-297
+
+- c-272
+  santrauka: 'Kojelavičius teigia, kad kadangi kryžiuočiai atmetė vieną po kitos visas 1418 m e ta i siūlomas taikos sąlygas, pasiS u sitik im a s d ė l taipūtėliškai reikalaudami visos k o s a tn eša k a rą Žemaitijos, susitikimas neat nešė jokios naudos, ir netru kus kryžiuočiai iš pasalų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nus­
+    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
+    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
+    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
+    atmetė vieną po kitos visas
+    1418 m e ta i
+    siūlomas taikos sąlygas, pasi-
+    S u sitik im a s d ė l tai-
+    pūtėliškai reikalaudami visos
+    k o s  a tn eša  k a rą
+    Žemaitijos, susitikimas neat­
+    nešė jokios naudos, ir netru­
+    kus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­
+    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
+    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
+    mų medžioklei ir poilsiui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-298
+
+- c-273
+  santrauka: 'Kojelavičius teigia, kad medžiodamas jis pats kartą vos nepakliuvo į kryžiuočių K araliu s išv e n g ia rankas, tik narsi jo palyda k ry ž iu o č ių pasalų vargais negalais išgelbėjo valdovą nuo pasalų, kurias surengė Rastenburgo komtūras vienoje tam reikalui tinkamoje vietoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasibai­
+    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
+    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
+    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
+    vos nepakliuvo į kryžiuočių
+    K araliu s
+    išv e n g ia
+    rankas, tik narsi jo palyda
+    k ry ž iu o č ių  pasalų
+    vargais
+    negalais
+    išgelbėjo
+    valdovą nuo pasalų, kurias
+    surengė Rastenburgo komtūras vienoje tam reikalui
+    tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-299
+
+- c-274
+  santrauka: 'Kojelavičius teigia, kad lenkų ir lietuvių kariuoPrūsija menės, peržengusios sienas, netruko įsiveržti į šį kraštą; visi, o ypač valdovai Jogaila bei Vytautas, ketino ne gailint jėgų pergalingai užbaigti ilgą ir sunkų karą, trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams liktų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lenkų ir lietuvių kariuo-
+    Prūsija
+    menės, peržengusios sienas,
+    netruko įsiveržti į šį kraštą;
+    visi, o ypač valdovai Jogaila bei Vytautas, ketino ne­
+    gailint jėgų pergalingai užbaigti ilgą ir sunkų karą,
+    trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
+    liktų arba ramūs bei klusnūs, arba draugiški. Tuo tarpu
+    kryžiuočiai, taikos metu be galo aikštingi ir per daug
+    savimi pasitikintys, bemat suvokė esą nepasirengę ka­
+    rui, todėl pareiškė norį susitarti, nors jie ne tiek troško
+    taikos, kiek bijojo pralaimėjimo. Kadangi daliniai jau
+    veržėsi į priekį, degdami noru atkeršyti už skriaudas,
+    jie pasitelkė popiežiaus legato, Milano arkivyskupo
+    Baltramiejaus Kapros, autori-
+    Baigiamas popiežiaus
+    tetą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-300
+
+- c-275
+  santrauka: 'Kojelavičius teigia, kad karaliaus sumanymus sugriauti padėjo ir Torunės komtūras, kryžiuočių pa siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp brolių nesantaiką, be galo naudingą jo ordinui, ir, paža dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti karo su lenkais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Išpuikęs ir pasipūtęs, jis įstengė su­
+    vokti tik betarpišką grėsmę, nei matydamas, nei paisy­
+    damas būsimų ir neaiškių pavojų. Karaliaus sumanymus
+    sugriauti padėjo ir Torunės komtūras, kryžiuočių pa­
+    siųstas pas Boleslovą: jis iš paskutiniųjų kurstė tarp
+    brolių nesantaiką, be galo naudingą jo ordinui, ir, paža­
+    dėjęs rimtą pagalbą, skatino Švitrigailą nesibaiminti
+    karo su lenkais. Netekęs bet kokios vilties pasiekti tai­
+    kos, Jogaila, suvokęs, jog net kraujo giminystė nelei­
+    džia taikstytis su šitokiomis skriaudomis, griebėsi kitų
+    priemonių, norėdamas galop sutramdyti Boleslovą ir
+    nubausti savo karališkųjų tei-
+    K a ra liu s tariasi, k a ip
+    šių pažeidėją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-301
+
+- c-276
+  santrauka: 'Kojelavičius teigia, kad dėl šių iškilmių didžiai susikrimto Liudvikas, Toninės komtūras, kuris su trimis savo draugais, kryžiuočių ordino riteriais, gy veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš tikrųjų uoliai eidamas žvalgo pareigas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tada Žygimantas pagal senus papročius
+    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
+    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
+    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
+    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
+    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
+    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
+    tikrųjų uoliai eidamas žvalgo pareigas. Jis visaip sten­
+    gėsi iššniukštinėti, kas aptariama slaptuose senato po­
+    sėdžiuose, viliojo valdovą bei didikus, žadėdamas kry­
+    žiuočių palankumą, ir ėmėsi visų kitų priemonių, ku­
+    rios, jo galva, priverstų Žy­
+    gimantą netesėti, ką žadėjo
+    lenkams, ir, ko gero, niekais
+    paverstų visus susitarimus ir
+    pačią uniją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-302
+
+- c-277
+  santrauka: 'Kojelavičius teigia, kad p areiškęs, k ad tokiam sv arb iam re ik a lu i a p ta rti bei d eram ai jį išn ag rin ėti re ik ia laiko, o jo d a b a r trū k sta d ėl k a r o s u kryžiuočiais, jis p ap rašė viską atidėti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius, g erai žinodamas, kiek rū­
+    pesčių jo  tėvui sukėlė šitaip valdomos Lietuvos žemės,
+    nutarė atm esti šį siūlym ą, nes su tik d am as užkirstų, ko
+    gero, savo sūnum s k elią į Lietuvos sostą, tačiau atvi­
+    rai nieko n esak ė, n en o rėd am as p erd au g  ankstyvu at­
+    sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
+    sumanymus, g an a tolim us jų reikalavimams. P areiškęs,
+    k ad  tokiam  sv arb iam  re ik a lu i a p ta rti bei d eram ai jį
+    išn ag rin ėti re ik ia laiko, o jo  d a b a r trū k sta  d ėl k a r o s u
+    kryžiuočiais,
+    jis p ap rašė viską atidėti. Šiuo būdu iš­
+    vengęs k ai k u rių  v ald in g ų  v y rų  jam  p asp ę stų  pinklių,
+    jis p a tra u k ė  į P rūsiją, tačiau , g av ęs žinią ap ie motinos
+    mirtį, sugrįžo iš to  žygio ir K aune p ra le id o  rudenį, ta r­
+    pais sielvartą ramindamas m edžioklėm is, tarpais lanky­
+    damas L ietu v o je sk itų  būrius, atsių stu s p ad ė ti k o v o ti
+    prieš kryžiuočius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-303
+
+- c-278
+  santrauka: 'Kojelavičius teigia, kad tuo metu Liuterio sekta, paplitusi Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius, jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že miausi pareigūnai, nieko neK ry žiu o č ių p a d ė tis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Susitarė dėl ketverių
+    metų paliaubų, o per tą lai-
+    1521 m e ta i
+    ką
+    ramiomis
+    aplinkybėmis
+    turėjo būti parengtos sąly­
+    gos amžinai taikai. Tuo metu Liuterio sekta, paplitusi
+    Vokietijoje, rado galybę pasekėjų Prūsijoje, o kry­
+    žiuočių ordinas, išgarsėjęs žygiais prieš stabmeldžius,
+    jau taip buvo ištižęs ir suiręs, kad aukščiausi ir že­
+    miausi pareigūnai, nieko ne-
+    K ry žiu o č ių
+    p a d ė tis
+    paisydami, laužė dievui duo-
+    P rū sijo je
+    tus įžadus ir, išsižadėję se­
+    nolių išpažinto Romos tikė­
+    jimo, puolė šventvagiškai tuoktis. Dėl to visi pradėjo
+    atvirai niekinti senuosius magistrų, maršalų, komtūrų
+    titulus ir galvoti apie valstybinės santvarkos pakei­
+    timą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-304

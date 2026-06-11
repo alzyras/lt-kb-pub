@@ -92,3 +92,4 @@ Nenurodyta
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/zodynas/įgula]]

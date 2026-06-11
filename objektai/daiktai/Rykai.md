@@ -82,7 +82,7 @@ Nenurodyta
 - [[objektai/daiktai/Akademijos aikštės medinis šulinys]]
 - [[objektai/daiktai/Akademijos teatro įranga]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
-- [[objektai/asmenys/Bodzanta]]
+- [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Jastžembcų giminė]]

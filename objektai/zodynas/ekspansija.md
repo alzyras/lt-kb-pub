@@ -58,7 +58,7 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]

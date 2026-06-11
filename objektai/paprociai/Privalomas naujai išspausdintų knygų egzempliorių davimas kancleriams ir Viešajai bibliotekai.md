@@ -81,6 +81,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Augustas III]]
 - [[objektai/asmenys/Stanislovas Augustas]]

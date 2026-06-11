@@ -68,4 +68,5 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - [[objektai/asmenys/Pekarskis]]
 - [[objektai/grupes/Raudonieji]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
+- [[objektai/zodynas/florinai]]
 - [[objektai/zodynas/florinas, zlotas, grašis ir denaras]]

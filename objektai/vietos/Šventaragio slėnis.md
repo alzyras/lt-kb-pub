@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Šventaragio slėnis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -20,6 +21,7 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
+
 # Šventaragio slėnis
 
 ## Santrauka
@@ -102,6 +104,11 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginys: 'Pasakojama, kad Gediminas po Trakų pilies įkūrimo su palyda nusigavo į Šventaragio slėnį prie Vilnios žiočių.'
   pagrindžia:
     - c-009
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotu ves.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -330,3 +337,30 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   pagrindžia:
     - t-014
     - t-005
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotu ves.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė. Skirgaila Šventaragio
+    slėnyje surengė dėdei karališkas šermenis ir laidotu­
+    ves. Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
+    trokštanti, nenurimo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016

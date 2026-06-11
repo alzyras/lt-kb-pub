@@ -122,6 +122,7 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/asmenys/Maudelis]]
 - [[objektai/grupes/Nadruviai]]

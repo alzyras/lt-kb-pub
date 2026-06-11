@@ -53,4 +53,5 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Voldemarininkai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]

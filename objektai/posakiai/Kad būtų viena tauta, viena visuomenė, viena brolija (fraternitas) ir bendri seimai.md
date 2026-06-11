@@ -53,6 +53,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

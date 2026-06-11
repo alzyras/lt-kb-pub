@@ -1,8 +1,9 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jaunutis'
+pavadinimas: 'Jaunutis (valdovas, XIV a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -20,11 +21,18 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Jaunutis
+
+# Jaunutis (valdovas, XIV a.)
 
 ## Santrauka
 
 Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie tėvų Vilniuje. Pirmą kartą, kaip visos Lietuvos valdovas, Algirdas, drauge su Kęstučiu, susidūrė su ordinu tais pačiais metais, kai buvo nuo sosto pašalintas Jaunutis (1345 m.).
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
 
 ## Teiginiai
 
@@ -47,6 +55,21 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   teiginys: 'Jaunutis nebuvo gavęs jokios srities, gyveno prie tėvų Vilniuje, o tėvui mirus tapo Vilniaus ir gretimų sričių valdovu.'
   pagrindžia:
     - c-002
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad jaunutis buG ed im in o sūnūs vo paskyręs Manvydui Kernavę ir Slonimą, Narimantui — Pinską, Mozyrių ir Vladimiro žemės dalį, Algirdui — Krėvą ir visas žemes lig Berezinos, Kęstučiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos, Upytės žemes ir Poleksiją, Karijotui — Naugarduką, Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunučiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Breslaują, be to, pastarąjį jis paskyrė didžiuoju kunigaikščiu.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad pabudęs iš miego ir išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš miško atgal sugrąžino.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -120,14 +143,77 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Augustas II]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
-- [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
-- [[objektai/asmenys/Petras I Didysis]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad užleidęs valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris savo dėdei atsimokėjęs klastingu nužudymu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Visa tai jis aukojęs tėvynės labui. Užleidęs
+    valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
+    nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa­
+    žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris
+    savo dėdei atsimokėjęs klastingu nužudymu. Nors Jo­
+    gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir
+    27
+
+    ## Puslapis 26
+
+    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
+    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
+    kai nepateisinami.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad jaunutis buG ed im in o sūnūs vo paskyręs Manvydui Kernavę ir Slonimą, Narimantui — Pinską, Mozyrių ir Vladimiro žemės dalį, Algirdui — Krėvą ir visas žemes lig Berezinos, Kęstučiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos, Upytės žemes ir Poleksiją, Karijotui — Naugarduką, Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunučiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Breslaują, be to, pastarąjį jis paskyrė didžiuoju kunigaikščiu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be kelių dukterų (kurių
+    vieną buvo išleidęs už Kazimiero, lenkų valdovo, o
+    kitą — už Vaclovo, Mazovijos kunigaikščio), Gedimi­
+    nas turėjo keletą sūnų, dėl to galėjo valstybėje įsi­
+    liepsnoti nesantaika. Todėl, norėdamas iš anksto už­
+    kirsti kelią vaidams, jis bu-
+    G ed im in o  sūnūs
+    vo paskyręs Manvydui Ker­
+    navę ir Slonimą, Nariman­
+    tui — Pinską, Mozyrių ir Vladimiro žemės dalį, Al­
+    girdui — Krėvą ir visas žemes lig Berezinos, Kęstu­
+    čiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos,
+    Upytės žemes ir Poleksiją, Karijotui — Naugarduką,
+    Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunu­
+    čiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Bres-
+    laują, be to, pastarąjį jis paskyrė didžiuoju kunigaikš­
+    čiu. Kiti broliai dėl to piktinosi: ne dėl amžiaus ar
+    narsumo, bet iš neprotingos tėvo meilės jaunikaičiui
+    buvo suteikta pirmenybė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad pabudęs iš miego ir išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš miško atgal sugrąžino.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi Algirdas ar iš-
+    Iš Ja u n u čio  a tim a m a
+    sisukinėjo, ar tikrai sutartu
+    v a ld ž ia
+    laiku negalėjo iš Vitebsko
+    atvykti, Kęstutis, netoli sos­
+    tinės esančiuose Trakuose tvarkęs visus sąmokslo rei­
+    kalus, lapkričio 22 dieną slapta į Vilnių įvedė kariuo­
+    menę ir paryčiu užėmė abi pilis. Pabudęs iš miego ir
+    išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus­
+    nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš
+    miško atgal sugrąžino. Vėlėliau atvyko ir Algirdas su
+    kariuomene.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

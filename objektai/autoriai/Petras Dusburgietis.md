@@ -402,6 +402,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/Ordino brolis]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/asmenys/Vygandas]]

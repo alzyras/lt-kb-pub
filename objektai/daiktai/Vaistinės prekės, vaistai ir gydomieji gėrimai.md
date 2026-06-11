@@ -220,6 +220,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/daiktai/Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė]]

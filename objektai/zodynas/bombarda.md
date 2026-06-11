@@ -69,6 +69,7 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Bombardos]]

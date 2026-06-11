@@ -40,4 +40,5 @@ Lietuvos krikščionėjimo simboliu tapo šv.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/zodynas/didysis kunigaikštis]]

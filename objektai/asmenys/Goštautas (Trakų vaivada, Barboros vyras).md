@@ -61,8 +61,9 @@ periodo_grupes:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]

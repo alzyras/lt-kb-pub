@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Pieštvė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1294 m.'
@@ -17,6 +18,7 @@ tags:
 amziai:
   - 'XIII'
 ---
+
 # Pieštvė
 
 ## Santrauka
@@ -39,6 +41,11 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
   pagrindžia:
     - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad tuo pačiu žygiu sugriovė Pieštvės ir Veliuo nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgulties.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -91,3 +98,30 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad tuo pačiu žygiu sugriovė Pieštvės ir Veliuo nos pilis: pirmąją išsigandę gynėjai atidavė be kovos, antrąją paėmė po keturias dienas užtrukusios apgulties.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pagerbdami
+    didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,
+    tačiau trečią dieną iki pat pamatų sugriovė kur ne
+    kur tarp sudegintos pilies išlikusius gynybinius įren­
+    ginius: išvertė sienų likučius, nukasė pylimus, išlygino
+    griovius. Tuo pačiu žygiu sugriovė Pieštvės ir Veliuo­
+    nos pilis: pirmąją išsigandę gynėjai atidavė be kovos,
+    antrąją paėmė po keturias dienas užtrukusios apgul-
+    ties. Kai priešai sugrįžo į Prūsiją, užgriuvo dar di­
+    desnė nelaimė — badas, siau-
+    B adas L ie tu v o je
+    binga našta užgulęs visą Lie­
+    tuvą, galimas daiktas, dėl to,
+    kad tais metais apskritai visur buvo blogas oras, net­
+    gi Lenkijoje bei Rusioje, galbūt dėl to, kad dėl nuo­
+    latinių priešo antpuolių iš baimės niekas nebedirbo
+    žemės ar iš viso nebuvo kam ją dirbti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

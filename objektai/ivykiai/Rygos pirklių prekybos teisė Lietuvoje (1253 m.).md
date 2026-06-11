@@ -84,7 +84,7 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/daiktai/Vaškas]]
 - [[objektai/zodynas/paliaubos]]

@@ -234,6 +234,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vladislovas]]

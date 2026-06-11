@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Petras (Vilniaus vyskupas)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -11,6 +12,7 @@ tags:
   - mūšis
   - pilis
 ---
+
 # Petras (Vilniaus vyskupas)
 
 ## Santrauka
@@ -23,6 +25,11 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   teiginys: 'Vilniaus vyskupas Petras atsisakė sutuokti Vytautą su Julijona dėl artimos giminystės.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -53,10 +60,22 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Janas Kropidła]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/asmenys/Julijona]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad todėl Petras, Vilniaus vyskupas, labai atkakliai priešinosi šiai santuokai, kad nebūtų pa žeisti dievo bei žmonių įstatymai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Julijona mi-
+    rusiajai buvo teta. Todėl Petras, Vilniaus vyskupas,
+    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
+    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
+    pritarimu ir būtų privertęs
+    V y ta u ta s  v e d a
+    Vytautą atsisakyti šio suma­
+    nymo, jeigu nebūtų parėmęs
+    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
+    vykęs į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

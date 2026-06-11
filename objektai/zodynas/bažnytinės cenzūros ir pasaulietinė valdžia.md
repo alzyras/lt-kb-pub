@@ -52,5 +52,4 @@ Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs b
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Stačiatikiai]]

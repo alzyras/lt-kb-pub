@@ -116,6 +116,7 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
 - [[objektai/daiktai/Karinės vėliavos ir ženklai]]
 - [[objektai/daiktai/Vėliavos su kryžiais]]

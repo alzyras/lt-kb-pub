@@ -55,6 +55,7 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 - [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/asmenys/Stanislovas Kiška]]
 - [[objektai/posakiai/brangią žinių kasyklą]]
 - [[objektai/zodynas/litvomanija]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]

@@ -92,3 +92,4 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 ### Susiję objektai
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/įgula]]

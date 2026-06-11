@@ -128,7 +128,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/grupes/Husitai]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/asmenys/Martynas iš Golino]]

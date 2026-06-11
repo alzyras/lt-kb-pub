@@ -76,6 +76,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/asmenys/Karolis XII]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/asmenys/Stanislovas Leščinskis]]

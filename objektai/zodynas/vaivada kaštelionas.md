@@ -67,10 +67,12 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vaivada]]

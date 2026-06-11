@@ -46,3 +46,4 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
 ### Susiję objektai
 - [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]

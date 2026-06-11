@@ -3,12 +3,14 @@ tipas: vieta
 pavadinimas: 'Liublinas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1251 m.'
+  - '1302 m.'
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
@@ -102,6 +104,11 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
   pagrindžia:
     - c-011
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad mat len kai ginklu stengėsi iš rusų at siimti Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 
@@ -326,3 +333,34 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - t-016
     - t-006
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad mat len kai ginklu stengėsi iš rusų at siimti Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po
+    to santarvė su rusais atitraukė lietuvius nuo žygių į
+    181
+
+    ## Puslapis 180
+
+    1302 m eta i
+    K a  as ta rp
+    len k ų  ir
+    rusų,
+    k u rie m s lie tu ­
+    v ia i ein a  į p a g a lb ą  ir
+    k u rie  su m u ša m i
+    Prūsiją ir Livoniją. Mat len­
+    kai ginklu stengėsi iš rusų at­
+    siimti Liubliną, kurio buvo
+    netekę prieš penkiasdešimt
+    septynerius metus. Abi pusės
+    sutelkė šiam karui didžiules
+    kariuomenes, ypač rusai, ku­
+    rie pagalbon buvo pasikvietę skitus ir lietuvius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

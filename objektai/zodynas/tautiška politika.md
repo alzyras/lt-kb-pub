@@ -100,7 +100,8 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/magistras]]

@@ -67,5 +67,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Saracėnai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/marobortinai]]
 - [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]

@@ -114,4 +114,5 @@ Nenurodyta
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/tautos atstovai]]

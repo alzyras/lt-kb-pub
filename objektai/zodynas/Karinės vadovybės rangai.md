@@ -45,4 +45,5 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]
+- [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]
 - [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]

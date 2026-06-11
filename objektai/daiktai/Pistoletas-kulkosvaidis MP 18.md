@@ -63,6 +63,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]]
 - [[objektai/grupes/Vokiečiai]]

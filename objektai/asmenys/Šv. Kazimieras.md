@@ -107,5 +107,6 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/ivykiai/Šv. Kazimiero kanonizacija]]
 - [[objektai/ivykiai/Šv. Kazimierui priskiriamos Lietuvos kariuomenės pergalės prie Polocko ir Dauguvos]]

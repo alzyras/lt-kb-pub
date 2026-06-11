@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Kijevo Rusia'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -15,6 +16,7 @@ amziai:
   - 'XII'
   - 'XIV'
 ---
+
 # Kijevo Rusia
 
 ## Santrauka
@@ -99,6 +101,21 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.'
   pagrindžia:
     - c-005
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad todėl, būdamas ramus dėl vidaus reikalų, Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
+  pagrindžia:
+    - c-008
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad mat, nors visą Belzo kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo lės kunigaikščiui Aleksandrui Narimantaičiui atidavė Volynę, tačiau abi šias žemes atidavė su ta sąlyga, kad aukščiausią galią į Rusią turėsiąs Lenkijos kara lius, o pilis, miestus bei.'
+  pagrindžia:
+    - c-009
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad vis dėlto garbės jausmą jis puikiausiai galėjo patenkinti karuo se su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos tie, kurie sako, kad jis pradėjo karą su skitais, rūpin damasis apginti Rusią.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -244,3 +261,77 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad todėl, būdamas ramus dėl vidaus reikalų, Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad mat, nors visą Belzo kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo lės kunigaikščiui Aleksandrui Narimantaičiui atidavė Volynę, tačiau abi šias žemes atidavė su ta sąlyga, kad aukščiausią galią į Rusią turėsiąs Lenkijos kara lius, o pilis, miestus bei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kęstutis mė­
+    gino sutrukdyti, tačiau, du
+    K a zim ie ra s, L e n k ijo s
+    kartus saugos karių atrem-
+    k a ra liu s, a tim a  iš Jie-
+    tas, galop išsižadėjo šio su-
+    tu v ių  R u sią
+    manymo. Tais pačiais metais
+    Kazimieras,
+    Lenkijos kara­
+    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
+    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
+    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad vis dėlto garbės jausmą jis puikiausiai galėjo patenkinti karuo se su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos tie, kurie sako, kad jis pradėjo karą su skitais, rūpin damasis apginti Rusią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gerai žinau, kad, pasak kurių ne kurių metrašti­
+    ninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,
+    kad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto
+    garbės jausmą jis puikiausiai galėjo patenkinti karuo­
+    se su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos
+    tie, kurie sako, kad jis pradėjo karą su skitais, rūpin­
+    damasis apginti Rusią. Mat Tamerlanas, nuniokojęs
+    didelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­
+    lybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­
+    sia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­
+    rusiai pražūtingą skitų jėgą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015

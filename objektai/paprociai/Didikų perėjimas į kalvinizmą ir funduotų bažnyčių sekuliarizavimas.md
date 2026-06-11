@@ -91,7 +91,7 @@ Nenurodyta
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]

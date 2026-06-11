@@ -1,17 +1,26 @@
 ---
 tipas: asmuo
-pavadinimas: 'Daumantas'
+pavadinimas: 'Daumantas (kunigaikštis, XV a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1441 m.'
+date_start: '1441'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
-# Daumantas
+
+# Daumantas (kunigaikštis, XV a.)
 
 ## Santrauka
 
@@ -53,6 +62,41 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginys: 'Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.'
   pagrindžia:
     - c-004
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad tuo laiku mirė Mindaugui žmona; šeimy nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū mus atvyko pakviesta Daumanto, Nalšios kunigaikš čio, žmona, karalienės sesuo.'
+  pagrindžia:
+    - c-008
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad kad ir nesitaikstydamas su skriauda, Daumantas, jausdamasis esąs per silpnas, stengėsi atvirai nerodyti, jog trokšta atkeršyti, P roga, d a v u si p ra d žią v id a u s n esu ta ri m am s L ie tu v o je ir M in d a u g o žū čiai šitai slėpė nuo visų, o tuo.'
+  pagrindžia:
+    - c-009
+
+- t-010
+  teiginys: 'Kojelavičius teigia, kad mat tuo metu prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi delį maištą: Mindaugas įsakė Daumantui traukti prieš jį su kariuomene; Daumantas negaišdamas paskatino Treniotą nepraleisti progos: dabar pagaliau atėjęs lai kas veikti, kai jo rankose.'
+  pagrindžia:
+    - c-010
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad daumantui buvo duota Utenos kuni gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa vadinta jo vardu.'
+  pagrindžia:
+    - c-011
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad netikėtai mirė Daumanto, Utenos kunigaikščio, žmona; kaip reikalavo papročiai, į laidotuvių iškilmes atvyko gausybė didikų, be kitų, ir Narimanto žmona, mirusiosios sesuo, pa siryžusi savo bei vyro (pasilikusio namie dėl ligos) vardu apgedėti seserį ir.'
+  pagrindžia:
+    - c-012
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu.'
+  pagrindžia:
+    - c-013
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad šie, išviję arba atleidę iš tarnybų pareigūnus, kuriuos Kęsgailą, vykdamas į seimą, buvo palikęs, ir išsirinkę kunigaikščiu Daumantą, visi lyg vienas rėmė Mykolą.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -174,20 +218,196 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lybiai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
-- [[objektai/ivykiai/Durbės mūšis]]
-- [[objektai/ivykiai/Mindaugo nužudymas]]
-- [[objektai/grupes/Rogvoldovičiai]]
-- [[objektai/grupes/Žemaičiai]]
+- c-008
+  santrauka: 'Kojelavičius teigia, kad tuo laiku mirė Mindaugui žmona; šeimy nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū mus atvyko pakviesta Daumanto, Nalšios kunigaikš čio, žmona, karalienės sesuo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vargu ar prislėgti
+    krikščionys būtų kada lengviau atsikvėpę, jeigu be­
+    kylančios stabmeldžių galios nebūtų palaužusi vidaus
+    nesantarvė. Tuo laiku mirė Mindaugui žmona; šeimy­
+    nos moterų sutvarkyti ir mirusiai šermenų iškelti į rū­
+    mus atvyko pakviesta Daumanto, Nalšios kunigaikš­
+    čio, žmona, karalienės sesuo.
+    Karalius,
+    turėdamas
+    begė­
+    diškų ketinimų, sulaužė įsta­
+    tymą jėga pamynęs moters
+    dorą, jis pasilaikė ją už
+    žmoną.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad kad ir nesitaikstydamas su skriauda, Daumantas, jausdamasis esąs per silpnas, stengėsi atvirai nerodyti, jog trokšta atkeršyti, P roga, d a v u si p ra d žią v id a u s n esu ta ri m am s L ie tu v o je ir M in d a u g o žū čiai šitai slėpė nuo visų, o tuo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius,
+    turėdamas
+    begė­
+    diškų ketinimų, sulaužė įsta­
+    tymą jėga pamynęs moters
+    dorą, jis pasilaikė ją už
+    žmoną. Kad ir nesitaikstyda-
+    mas su skriauda, Daumantas, jausdamasis esąs per
+    silpnas, stengėsi atvirai nerodyti, jog trokšta atkeršyti,
+    P roga,
+    d a v u si
+    p ra ­
+    d žią  v id a u s n esu ta ri­
+    m am s
+    L ie tu v o je
+    ir
+    M in d a u g o  žū čiai
+    109
+
+    ## Puslapis 108
+
+    šitai slėpė nuo visų, o tuo pat metu, rūpindamasis
+    valstybe, mėgino tirti aukštuomenės nuotaikas ir ją
+    atitraukti nuo valdovo; jis dažniausiai dėl to slapta
+    tardavosi su Žemaitijos kunigaikščiu Treniota, Min­
+    daugo sesers sūnumi. Jis, girdi, turįs ryžtis pagaliau
+    tam, ko visi trokštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad mat tuo metu prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi delį maištą: Mindaugas įsakė Daumantui traukti prieš jį su kariuomene; Daumantas negaišdamas paskatino Treniotą nepraleisti progos: dabar pagaliau atėjęs lai kas veikti, kai jo rankose.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat tuo
+    metu
+    prie Dnepro Briansko kunigaikštis buvo sukėlęs nedi­
+    delį maištą: Mindaugas įsakė Daumantui traukti prieš
+    jį su kariuomene; Daumantas negaišdamas paskatino
+    Treniotą nepraleisti progos: dabar pagaliau atėjęs lai­
+    kas veikti, kai jo rankose kariuomenė. Taigi sutartą
+    dieną Treniota slaptai atvedė kariuomenę iš Žemaitijos,
+    o Daumantas iš Rusios9 ir gūdžią naktį įsiveržė į
+    karaliaus rūmus. Kai buvo suimti vartų sargybiniai,
+    žudikai, pasiųsti į miegamąjį, pribaigė valdovą lovo­
+    je.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad daumantui buvo duota Utenos kuni gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa vadinta jo vardu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Giedriui buvo
+    duotos plačios valdos šiaurės pusėje: jis davė pradžią
+    kilniausiajai kunigaikščių Giedraičių šeimai, kuri mū­
+    sų laikais prarado, kaip matome, dėl įpėdinių gausybės
+    senąją galią bei kunigaikščių titulą ir nusmuko ligi
+    paprastų bajorų. Daumantui buvo duota Utenos kuni­
+    gaikštystė: kurie ne kurie šaltiniai mini, jog jis įkūrė
+    Svyrių pilį, o Svyrių kunigaikščių giminė buvusi pa­
+    vadinta jo vardu. Prie savęs valdovas pasiliko tiktai
+    Traidenį, taikos ir karo bendrininką; šitaip darė tur­
+    būt, norėdamas jam deramu laiku patikėti valstybės
+    valdymą, nes pats buvo bevaikis, be to, apdairiai su­
+    gebėdamas numatyti kitų troškimus, jis spėjo, jog ir
+    taryba bei tauta tylomis Traidenį skyrė jo įpėdiniu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad netikėtai mirė Daumanto, Utenos kunigaikščio, žmona; kaip reikalavo papročiai, į laidotuvių iškilmes atvyko gausybė didikų, be kitų, ir Narimanto žmona, mirusiosios sesuo, pa siryžusi savo bei vyro (pasilikusio namie dėl ligos) vardu apgedėti seserį ir.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Netikėtai mirė
+    Daumanto, Utenos kunigaikščio, žmona; kaip reikalavo
+    papročiai, į laidotuvių iškilmes atvyko gausybė didikų,
+    be kitų, ir Narimanto žmona, mirusiosios sesuo, pa­
+    siryžusi savo bei vyro (pasilikusio namie dėl ligos)
+    vardu apgedėti seserį ir pareikšti užuojautą skausmo
+    ištiktam liūdinčiam broliui Daumantui. Kai baigėsi šer­
+    menys, Daumantas, pagarbiai išlydėjęs svečius, prie­
+    varta pasiliko valdovo žmoną, norėdamas, kad ji jam
+    guolyje pavaduotų mirusiąją. Patyręs savo bei žmonos
+    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
+    pu tas, kuris per aistrą buvo
+    U ž D a u m a n to  p ik ta -
+    praradęs protą, nusikaltimą
+    d a r y t ę
+    N a rim a n ta s
+    parėmė užsispyrimu: pamy-
+    k e ršiįa  karu
+    nęs dorovę, jis arba nematė
+    pavojų, arba jų nepaisė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi nė sienos nega­
+    lėjo ilgiau jo apsaugoti, nes matė, jog bus priverstas
+    neišvengiamai pasiduoti arba dėl apsupties, arba dėl
+    bado, kai nebegaus maisto, jis stengėsi kelti saviškiams
+    nuotaiką viltimi, jog skubiai ateisianti artimųjų pa­
+    galba; tuo tarpu pats, nieko gero nesitikėdamas, paža­
+    dėjęs greitai atvykti su kariuomene ir pralaužti ap­
+    supimą, nakčia, išleistas iš pilies, paspruko per supan­
+    čiųjų eiles. Šaltiniai pasakoja, jog, patekęs po to į
+    Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš
+    Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie­
+    na gynybinė siena vadinama statytojo Daumanto vardu.
+    142
+
+    ## Puslapis 141
+
+    Tvirtovės įgula, laukdama kunigaikščio ir paramos, ke­
+    letą dienų narsiai gynėsi nuo apsupusiųjų, bet, nieko
+    nesulaukusi, ji vis dėlto suprato, koks reikalas, ir pa­
+    sidavė Narimantui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad šie, išviję arba atleidę iš tarnybų pareigūnus, kuriuos Kęsgailą, vykdamas į seimą, buvo palikęs, ir išsirinkę kunigaikščiu Daumantą, visi lyg vienas rėmė Mykolą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Likę žiemos mėnesiai buvo
+    1441 m eta i
+    taikūs, tačiau valdovas ne-
+    S u tra m d o
+    Ž e m a itiją
+    leido bergždžiai laiko ir ren­
+    gėsi tais pačiais metais pradė­
+    ti karą su žemaičiais. Šie, išviję arba atleidę iš tarnybų
+    pareigūnus,
+    kuriuos
+    Kęsgailą,
+    vykdamas į seimą,
+    buvo palikęs, ir išsirinkę kunigaikščiu Daumantą, visi
+    lyg vienas rėmė Mykolą. Prašvitus pavasariui, Kazimie­
+    ras,įsakė kariuomenei traukti prie Nevėžio; neilgai už­
+    trukęs, ir pats čia atvyko su ištikimiausiais pulkais,
+    pasiryžęs ginklu sutramdyti pasipūtėlius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014

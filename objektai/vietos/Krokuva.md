@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Krokuva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -401,6 +402,21 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginys: 'Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.'
   pagrindžia:
     - c-033
+
+- t-076
+  teiginys: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  pagrindžia:
+    - c-050
+
+- t-077
+  teiginys: 'Kojelavičius teigia, kad paleidęs seimą, karalius išvyko į Krokuvą.'
+  pagrindžia:
+    - c-051
+
+- t-078
+  teiginys: 'Kojelavičius teigia, kad štai todėl daugelis išsigandusių didikų, nenorėda mi daugiau karaliaus erzinti, ne tik paliovė reikalavę, kad Augustas nutrauktų santuoką, bet sutiko, kad Bar bora kaip ir kitos karalienės būtų Krokuvoje vaini kuota.'
+  pagrindžia:
+    - c-052
 
 ## Reikšmingi paminėjimai
 
@@ -1332,3 +1348,63 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   statusas: verified
   pagrindžia:
     - t-046
+
+- c-050
+  santrauka: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gal priepuolį sukėlė
+    per didelis pyktis, išsiliejus
+    tulžiai, bet žmonės jį išsiaiškino kaip blogą ženklą,
+    kaip dievo kerštą. Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-076
+
+- c-051
+  santrauka: 'Kojelavičius teigia, kad paleidęs seimą, karalius išvyko į Krokuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu senasis Jogailos
+    įstatymas, kurio visi Lietuvos didieji kunigaikščiai šven­
+    tai laikėsi ir kurį jie ne vieną kartą buvo iš naujo pa­
+    tvirtinę, draudė suteikti senatoriaus ar kokią kitą aukš­
+    tą pareigybę žmogui, kuris atsisako paklusti popiežiui.
+    Tol luomai nenurimo, kol negavo iš karaliaus valstybės
+    antspaudais patvirtinto rašto, kuriuo šis savo bei sa-
+    650
+
+    ## Puslapis 649
+
+    vo įpėdinių vardu pasižadėjo niekada neleisti, kad į
+    senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
+    mo. Paleidęs seimą, karalius išvyko į Krokuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-077
+
+- c-052
+  santrauka: 'Kojelavičius teigia, kad štai todėl daugelis išsigandusių didikų, nenorėda mi daugiau karaliaus erzinti, ne tik paliovė reikalavę, kad Augustas nutrauktų santuoką, bet sutiko, kad Bar bora kaip ir kitos karalienės būtų Krokuvoje vaini kuota.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl daugelis išsigandusių didikų, nenorėda­
+    mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
+    kad Augustas nutrauktų santuoką, bet sutiko, kad Bar­
+    bora kaip ir kitos karalienės būtų Krokuvoje vaini­
+    kuota. Augustas, pasiekęs to, ko norėjo, nebesispyrė
+    dėl įstatymo, kuris dabar jam rodėsi visai nereikalin­
+    gas. Neilgai trukus Barbora iškilmingai ir šventiškai
+    buvo apvainikuota Krokuvoje karalienės vainiku.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-078

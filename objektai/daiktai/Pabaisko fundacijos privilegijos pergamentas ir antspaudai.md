@@ -99,6 +99,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lotynai]]
 - [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/asmenys/Žygimantas]]

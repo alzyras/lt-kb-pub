@@ -68,7 +68,6 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 
 ### Susiję objektai
 - [[objektai/daiktai/Akademijos teatro įranga]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/grupes/Lietuviai]]

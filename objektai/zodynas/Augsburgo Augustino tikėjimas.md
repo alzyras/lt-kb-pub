@@ -66,6 +66,7 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Gotardas Ketleris]]

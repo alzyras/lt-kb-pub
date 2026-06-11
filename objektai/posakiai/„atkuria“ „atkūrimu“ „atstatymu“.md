@@ -95,7 +95,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

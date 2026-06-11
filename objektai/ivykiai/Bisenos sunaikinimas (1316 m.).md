@@ -94,4 +94,5 @@ Pilis sudeginta ir liko apleista.
 - [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas Kvicas]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/asmenys/Ditrichas iš Altenburgo]]

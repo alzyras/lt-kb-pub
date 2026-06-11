@@ -70,5 +70,5 @@ Prekybos sutartis su Pskovu, kaip ir prieš metus sudarytoji su Naugardu, buvo p
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/asmenys/Švitrigaila]]

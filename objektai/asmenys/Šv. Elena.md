@@ -48,3 +48,7 @@ Elenos skulptūros ant katedros frontono.
   pagrindžia:
     - t-002
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/globėjas]]

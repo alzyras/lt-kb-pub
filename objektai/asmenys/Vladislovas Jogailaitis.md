@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vladislovas Jogailaitis'
+pavadinimas: 'Vladislovas Jogailaitis (Lenkijos karalius, XV a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1435 m.'
@@ -19,7 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Vladislovas Jogailaitis
+# Vladislovas Jogailaitis (Lenkijos karalius, XV a.)
 
 ## Santrauka
 
@@ -41,6 +42,31 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginys: '1435 m. gruodžio 31 d. sudaryta Bresto (Kujavy) taika tarp Lenkijos karaliaus Vladislovo Jogailaičio, Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio ir Vokiečių-kryžiuočių ordino didžiojo magistro Rusdorfo, atstovaujančio Ordino žemėms Prūsijoje.'
   pagrindžia:
     - c-003
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad jonas nepritarė jų troškimui, nes gerai žinojo, kad seime buvo ginčų ir skirtingų nuomonių, mat dau gelis rėmė jo brolį Vladislovą.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad tačiau Vladislovas tuojau pat po pergalės per pasiuntinius pasiūlė broliui tartis dėl san tarvės sudarymo.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad valdovas, jau ir anksčiau karaliaus Vladislovo atkakliai raginamas nu sileisti, pranešė apie viską vienam didikui.'
+  pagrindžia:
+    - c-008
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona at važiavo važiuoti, o Žygimantas ir Liudvikas raiti at jojo.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -154,10 +180,112 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   pagrindžia:
     - t-004
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/magistras]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad jonas nepritarė jų troškimui, nes gerai žinojo, kad seime buvo ginčų ir skirtingų nuomonių, mat dau gelis rėmė jo brolį Vladislovą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    P a k v ie č ia m a s į V en -
+    Pirmiausia,
+    rodos,
+    šitai
+    g iijo s  sostą, b et ap-
+    padarė vengrai, nes, mirus
+    g au n am as
+    Motiejui Korvinui, karštai jį
+    pakvietė į savo karalystės
+    536
+
+    ## Puslapis 535
+
+    sostą. Jonas nepritarė jų troškimui, nes gerai žinojo,
+    kad seime buvo ginčų ir skirtingų nuomonių, mat dau­
+    gelis rėmė jo brolį Vladislovą. Be to, jis puikiai atsi­
+    minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
+    vengrai lengva ranka apgavo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad tačiau Vladislovas tuojau pat po pergalės per pasiuntinius pasiūlė broliui tartis dėl san tarvės sudarymo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sumuštas vos ne vos paspruko iš
+    nugalėtojo rankų. Tačiau Vladislovas tuojau pat po
+    pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
+    tarvės sudarymo. Brolis neatsisakė, ir jie susitarė šito­
+    kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu­
+    mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto
+    įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be­
+    neficiją Sileziją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad galop visų, o ypač Vladislovo, Vengrijos karaliaus, pastangomis lenkai, vengrai, če kai, lietuviai ir valachai sudarė sutartis, kuriomis ne tik valdovai, bet ir visos jų karalystės bei žemės pa žadėjo viena kitą ginti, kai prasidės karas prieš turkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to Lietuvos Didžiosios Kunigaikštystės
+    vardu sudarė taiką su Steponu, Valachijos valdovu,
+    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad valdovas, jau ir anksčiau karaliaus Vladislovo atkakliai raginamas nu sileisti, pranešė apie viską vienam didikui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasiuntęs per ištikimą savo giminaitį laišką ka­
+    raliui, jis nuolankiai paprašė atleidimo, pasižadėdamas
+    ištikima tarnyba atpirkti savo nusikalstamą veiklą, ku­
+    ria atnešęs tėvynei tiek skausmo. Valdovas, jau ir
+    anksčiau karaliaus Vladislovo atkakliai raginamas nu­
+    sileisti, pranešė apie viską vienam didikui. Gerai žino­
+    damas, jog Maskvos kunigaikštis, Glinskio nebepata­
+    riamas, turės gerokai apmažinti savo užmojus, jis įsakė
+    parašyti laišką ir karaliaus vardu ne tik pažadėti už­
+    miršti viską, kas dėjosi praeityje, bet laiduoti visišką
+    valdovo prielankumą ateityje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad imperatorius, karalius Vladislovas bei jo duktė Ona at važiavo važiuoti, o Žygimantas ir Liudvikas raiti at jojo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kiekvienas apsistojo
+    635
+
+    ## Puslapis 634
+
+    skirtingame miestelyje, o dideliame lauke, esančiame
+    tarp tų miestelių, augo lapuotas medis, kurio pavėsy­
+    je iš tiesų rodėsi labai patogu susitikti valdovams.
+    Imperatorius, karalius Vladislovas bei jo duktė Ona at­
+    važiavo važiuoti, o Žygimantas ir Liudvikas raiti at­
+    jojo. Anksčiau, nei visi pasisveikino, paspausdami vie­
+    ni kitiems rankas, Liudvikas pagerbė Maksimilijoną
+    kaip tėvą ir valdovą, nes Čekijos karalystė priklausė
+    Romos imperijai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

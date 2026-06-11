@@ -70,4 +70,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/III Seimas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

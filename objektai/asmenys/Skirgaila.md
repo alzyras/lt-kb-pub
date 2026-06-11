@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Skirgaila'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -36,6 +37,31 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   - santrauka: Kartu minimas kaip mokėjęs gydyti ar apraišioti sužeistuosius, nes laikytas geru chirurgu.
     šaltiniai:
       - Vytautas Didysis 1350-1430 (1930 m.)
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
+- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
+- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
+- [[objektai/daiktai/Parakas]]
+- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
+- [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
+- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
+- [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
+- [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije]]
+- [[objektai/posakiai/dux Russiae]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
 
 ## Teiginiai
 
@@ -223,6 +249,11 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   teiginys: '1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau.'
   pagrindžia:
     - c-029
+
+- t-039
+  teiginys: 'Kojelavičius teigia, kad skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotu ves.'
+  pagrindžia:
+    - c-030
 
 ## Reikšmingi paminėjimai
 
@@ -771,102 +802,31 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-038
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Apgulties mašinos]]
-- [[objektai/daiktai/Bombardos]]
-- [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
-- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
-- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
-- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
-- [[objektai/daiktai/Parakas]]
-- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
-- [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
-- [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
-- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
-- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
-- [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
-- [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
-- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije]]
-- [[objektai/posakiai/dux Russiae]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos didikai]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/pakancleris]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/zodynas/santvarka]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/tėviškė]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
-- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/daiktai/Armotos]]
-- [[objektai/daiktai/Deglas]]
-- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
-- [[objektai/asmenys/Dmitrijus Doniškis]]
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
-- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
-- [[objektai/asmenys/Jonas Švitrigaila]]
-- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
-- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
-- [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]
-- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
-- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
-- [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
-- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/daiktai/Mediniai miesto namai]]
-- [[objektai/asmenys/Mykolas Skirgaila]]
-- [[objektai/asmenys/Ona (Vytauto sesuo)]]
-- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
-- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]
-- [[objektai/grupes/Rygos, vokiečių ir rusų pirkliai]]
-- [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
-- [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]
-- [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
-- [[objektai/ivykiai/Trakų užėmimas ir apgultis]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]
-- [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
-- [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.)]]
-- [[objektai/grupes/Vytauto šalininkai]]
-- [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]
-- [[objektai/zodynas/patepimas į valdžią]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
-- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
-- [[objektai/asmenys/Andrius Polockietis]]
-- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
-- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
+- c-030
+  santrauka: 'Kojelavičius teigia, kad skirgaila Šventaragio slėnyje surengė dėdei karališkas šermenis ir laidotu ves.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė. Skirgaila Šventaragio
+    slėnyje surengė dėdei karališkas šermenis ir laidotu­
+    ves.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-039

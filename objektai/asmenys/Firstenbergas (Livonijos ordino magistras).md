@@ -57,9 +57,11 @@ Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buv
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

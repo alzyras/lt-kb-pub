@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Sofija (Vytauto duktė)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -9,11 +10,17 @@ tags:
   - asmuo
   - kunigaikštis
 ---
+
 # Sofija (Vytauto duktė)
 
 ## Santrauka
 
 Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Vosylius]]
 
 ## Teiginiai
 
@@ -41,6 +48,11 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
   pagrindžia:
     - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad sofija (Vytauto duktė) turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą vadovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -125,17 +137,32 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/asmenys/Sofija]]
-- [[objektai/grupes/Totoriai]]
+- c-006
+  santrauka: 'Kojelavičius teigia, kad sofija (Vytauto duktė) turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti pasitikėjimą; karaliaus pasiuntinybei pas Vytautą vadovauti galop parinko Henriką, mozūrų kunigaikščio Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Priėmus nutarimą, ieškota žmogaus, kuriam be
+    pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
+    turėtų kryžiuočiams nekelti įtarimo ir Vytautui žadinti
+    pasitikėjimą; karaliaus pasiuntinybei pas Vytautą va­
+    dovauti galop parinko Henriką, mozūrų kunigaikščio
+    Zemovito sūnų, neseniai vainikuotą Plocko vyskupu.
+    Jo atvykimas (tiesą sakant,
+    P a šn e n k a m a s m o zū rų
+    daug kas manė, jog dėl gi-
+    k u n ig a ik štis
+    H enri-
+    minystės jis gali likti nepas-
+    k a s
+    tebėtas) anaiptol negalėjo ne­
+    sukelti kryžiuočiams įtarimo,
+    tačiau tuo pat metu Vytautas Marienburge surengė sa­
+    vo dukteriai Sofijai, tekančiai už Maskvos kunigaikščio
+    Vasilijaus, dideles palydėtuves. Visi manė, jog su kitais
+    kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
+    Vytauto žmonos Onos brolis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

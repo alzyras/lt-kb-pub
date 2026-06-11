@@ -2,12 +2,14 @@
 tipas: vieta
 pavadinimas: 'Drevanta'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1222 m.'
   - '1243 m.'
+  - '1301 m.'
 date_start: '1222'
-date_end: '1243'
+date_end: '1301'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,7 +19,9 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+  - 'XIV'
 ---
+
 # Drevanta
 
 ## Santrauka
@@ -30,6 +34,11 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   teiginys: 'Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto, o jos vardas laikomas baltišku.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad bendras sąjungininkų pralai mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro vusiems kariams persikelti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +55,34 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad bendras sąjungininkų pralai mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro vusiems kariams persikelti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš L iv o n ijo s lie tu v ia i
+    Taigi šeši tūkstančiai karių,
+    ž y g iu o ja
+    Į
+    L en k iją ,
+    staigiai įsiveržusių Į Dobry-
+    n io k o ja  D o b ryn ę
+    nę, nuniokojo visą kraštą.
+    Bendras sąjungininkų pralai­
+    mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
+    patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­
+    vusiems kariams persikelti. Greitosiomis sutelktas len­
+    kų būrys pasivijo besitrau-
+    1301 m e ta i
+    kiančius lietuvius ir, tikėda­
+    masis atsiimti grobį, smarkiai
+    užpuolė ariergardą, nedelsdamas nė valandėlės; ka­
+    dangi ten susidūrė su geriausiais kariuomenės daliniais,
+    o visos gurguolės buvo nuvarytos į priekį, jie nedrįso
+    bandyti laimės tikrose kautynėse ir davė trimitu ženk­
+    lą trauktis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

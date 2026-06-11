@@ -58,5 +58,6 @@ amziai:
 ### Susiję objektai
 - [[objektai/grupes/Dievo Kūno arkibrolija]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]

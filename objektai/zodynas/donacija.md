@@ -43,5 +43,5 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Žiemgaliai]]

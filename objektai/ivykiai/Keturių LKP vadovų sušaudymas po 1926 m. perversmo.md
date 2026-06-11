@@ -66,4 +66,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lietuvos komunistų partija]]

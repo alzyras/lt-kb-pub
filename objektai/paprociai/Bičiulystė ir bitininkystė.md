@@ -152,4 +152,5 @@ Nenurodyta
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vaškas]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/statutas]]

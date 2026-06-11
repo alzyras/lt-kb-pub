@@ -121,6 +121,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]

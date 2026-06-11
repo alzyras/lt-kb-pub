@@ -85,7 +85,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/inkorporacija]]

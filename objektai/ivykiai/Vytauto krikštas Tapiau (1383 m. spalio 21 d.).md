@@ -67,3 +67,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/įgula]]

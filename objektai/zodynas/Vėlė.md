@@ -48,6 +48,7 @@ Vartojamos formos: `vėlės`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje]]
 - [[objektai/asmenys/Tirskas]]

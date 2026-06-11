@@ -74,11 +74,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Kulešinas]]
 - [[objektai/grupes/Maskvos pasiuntiniai]]
 - [[objektai/asmenys/Rapolovska]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]

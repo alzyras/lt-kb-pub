@@ -104,11 +104,13 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jekaterina II]]
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/grupes/Ketverių metų seimas]]

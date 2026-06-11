@@ -62,9 +62,11 @@ Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudai]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]

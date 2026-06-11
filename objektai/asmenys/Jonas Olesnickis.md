@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jonas Olesnickis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -17,6 +18,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Jonas Olesnickis
 
 ## Santrauka
@@ -69,6 +71,21 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   teiginys: 'Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį.'
   pagrindžia:
     - c-005
+
+- t-010
+  teiginys: 'Kojelavičius teigia, kad jį pakeitė Jo nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka ro žygiais, ir protėvių kilmės senumu.'
+  pagrindžia:
+    - c-007
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad olesnickis, gerai žinodamas, kad pirmieji karo žingsniai lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų savųjų narsumo, palikdamas vokiečių akiplėšišką karin gumą nesutramdytą.'
+  pagrindžia:
+    - c-008
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad greitai sutvar kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -192,12 +209,63 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
     - t-008
     - t-006
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/apsiaustis]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/grupes/Vokiečiai]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad jį pakeitė Jo nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka ro žygiais, ir protėvių kilmės senumu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sunkūs, bemaž nuolatiniai
+    priešų antpuoliai, pagaliau Skirgailos puikybė ir žiauru­
+    mas aiškiai palaužė šio vyro kantrybę. Jį pakeitė Jo­
+    nas Olesnickis, kaip reta kas išgarsėjęs Lenkijoje ir ka­
+    ro žygiais, ir protėvių kilmės senumu. Tiesa, liko žmo­
+    nių, kursčiusių vidaus nesantarvę, nes tebebuvo visų
+    nekenčiamas Kazimieras Skirgaila.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad olesnickis, gerai žinodamas, kad pirmieji karo žingsniai lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų savųjų narsumo, palikdamas vokiečių akiplėšišką karin gumą nesutramdytą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mergelės Marijos bažnyčią, plačioje aikštėje.
+    Olesnickis, gerai žinodamas, kad pirmieji karo žingsniai
+    lemia visą tolimesnę sėkmę, bijojo, kad nepalaužtų
+    savųjų narsumo, palikdamas vokiečių akiplėšišką karin­
+    gumą nesutramdytą. Todėl, neilgai laukęs, nutarė pulti
+    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad greitai sutvar kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šios sąlygos buvo įtrauk­
+    tos į protokolą, patvirtintos susitariančiųjų valdovų
+    antspaudais, parašais ir net priesaika ir nusiųstos į Kro­
+    kuvą, į karalystės valstybinį archyvą. Greitai sutvar­
+    kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir­
+    gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.
+
+    ## Puslapis 330
+
+    A n t r a  k n y  g a
+    APIE LIETUVIŲ PRAEITI,
+    KAI VALDE ALEKSANDRAS I VYTAUTAS
+    Paskelbus Aleksandrą Vytautą Lietuvos didžiuoju
+    kunigaikščiu, prasidėjo valstybėje klestėjimo laikai;
+    tiesą sakant, ir prieš jį Lietuvos reikalais negalima bu­
+    vo skųstis, ir po jo valstybė klestėjo, tačiau niekada ji
+    nei žygių šlove, nei valdomų žemių platumu nebuvo
+    didingesnė, kaip viešpataujant Vytautui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Riazanė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -22,6 +23,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Riazanė
 
 ## Santrauka
@@ -99,6 +101,11 @@ amziai:
   teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
   pagrindžia:
     - c-011
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad kai kijeviečiai, įveikę''baimę ir mintis apie pasidavimą, atgavo drąsą ir atstūmė lie tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų trukdydami Gediminui laimėti pergalę, Stanislovas gė dingai pabėgo net į Riazanę, kur, neturėdamas nei ka riuomenės, nei.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -299,3 +306,24 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-014
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad kai kijeviečiai, įveikę''baimę ir mintis apie pasidavimą, atgavo drąsą ir atstūmė lie tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų trukdydami Gediminui laimėti pergalę, Stanislovas gė dingai pabėgo net į Riazanę, kur, neturėdamas nei ka riuomenės, nei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be abejo, miestas ilgai būtų valiojęs stabdyti per­
+    galingą lietuvių veržimąsi, jeigu Stanislovas būtų čia
+    iš visur sutraukęs savo karių ir sąjungininkų būrius
+    ir sudaręs galimybę neįstengiant atnaujinti karo su­
+    laukti kokios paramos. Kai kijeviečiai, įveikę'baimę ir
+    mintis apie pasidavimą, atgavo drąsą ir atstūmė lie­
+    tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų
+    trukdydami Gediminui laimėti pergalę, Stanislovas gė­
+    dingai pabėgo net į Riazanę, kur, neturėdamas nei ka­
+    riuomenės, nei valdžios, išsižadėjo bet kokių vilčių.
+    Valdovo nusivylimas palaužė apgultųjų drąsą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015

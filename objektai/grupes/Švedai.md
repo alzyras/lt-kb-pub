@@ -167,6 +167,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/asmenys/Jurgis Vytautaitis]]
 - [[objektai/posakiai/Jūsų Karališkoji Didenybe, greičiau išvysite Dauguvą aukštyn tekančią]]
+- [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją]]
 - [[objektai/asmenys/Karina Nilsdotter]]
 - [[objektai/ivykiai/Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.)]]
 - [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]

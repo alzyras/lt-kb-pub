@@ -2,7 +2,12 @@
 tipas: vieta
 pavadinimas: 'Severskas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1448 m.'
+date_start: '1448'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -10,7 +15,10 @@ tags:
   - miestas
   - pilis
   - valdovas
+amziai:
+  - 'XV'
 ---
+
 # Severskas
 
 ## Santrauka
@@ -23,6 +31,26 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   teiginys: 'Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad todėl, net nepabandęs laimės kovos lauke, kuo greičiausiai pabėgo į Severską.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad nenorėdamas, kad nugalėtieji turėtų laiko kokioje S u m u ša S e v e r s k o kavietoje atsikvėpti, jis išsiuntė iiu s lengvųjų raitelių būrius bė gančiųjų persekioti, tuo tarpu pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė į Severską.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +82,122 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad todėl, net nepabandęs laimės kovos lauke, kuo greičiausiai pabėgo į Severską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to nuvedė pulkus prieš Levą, Lucko ku-
+    Drohičiną ir Brestą, bet dabar, rodos, neteko ir karin­
+    gumo, ir pasitikėjimo kariais, kuriuos turėjo sutelkęs;
+    išgąsdintas neseniai Vladimirą ištikusio likimo, jis su­
+    abejojo ir dėl savo, būgštaudamas, kad pats tokio pat
+    galo nesusilauktų, pastūmėtas į karą tos pačios dings­
+    ties. Todėl, net nepabandęs laimės kovos lauke, kuo
+    greičiausiai pabėgo į Severską. Gediminas, be kovos
+    užėmęs Lucką ir artimiausias pilis, atsiėmęs Drohičiną
+    ir Brestą, visą kraštą, ką tik iš priešo išplėštą, prijun­
+    gė prie Lietuvos valdų, palikdamas lietuvių įgulas ir
+    vietininkus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad gediminas, pasilsėjęs čia, kol artimiausios pi lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida vė nugalėtojui, patraukė į Severską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai. Gediminas, pasilsėjęs čia, kol artimiausios pi­
+    lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­
+    vė nugalėtojui, patraukė į Severską. Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad nenorėdamas, kad nugalėtieji turėtų laiko kokioje S u m u ša S e v e r s k o kavietoje atsikvėpti, jis išsiuntė iiu s lengvųjų raitelių būrius bė gančiųjų persekioti, tuo tarpu pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė į Severską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vytautas, šitai išvy-
+    S usikauna
+    su D im it-
+    dęs, su visomis jėgomis puo-
+    tu,
+    S e v e r s k o
+    kuni-
+    lė
+    vytis
+    atsitraukiančiųjų,
+    g a ikščiu
+    persekioti pakrikusio priešo,
+    galop, su narsiausiais kariais
+    pasivijęs pagrindinę kovos rikiuotę ir ją pralaužęs, pri­
+    vertė rusus bėgti, kur pakliuvo. Nenorėdamas, kad nu-
+    340
+
+    ## Puslapis 339
+
+    galėtieji turėtų laiko kokioje
+    S u m u ša S e v e r s k o  ka-
+    vietoje atsikvėpti, jis išsiuntė
+    iiu s
+    lengvųjų raitelių būrius bė­
+    gančiųjų persekioti, tuo tarpu
+    pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė
+    į Severską. To krašto sostinė Seversko Naugardas —
+    nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų
+    žmonių turtais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad k ol visi lau k ė šio susitikim o, tu rė ju sio įv y k ti g e gužės pabaigoje, Mykolas su 1448 m e ta i sk itais įsiv eržė į Severską ir, Sum u ša M y k o lą Sesum ušęs greitosiom is sutelkv e r s k e tas jėg as, jam p asto ju sias k e lią, p aėm ė Brianską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

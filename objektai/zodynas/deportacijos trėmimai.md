@@ -49,4 +49,5 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

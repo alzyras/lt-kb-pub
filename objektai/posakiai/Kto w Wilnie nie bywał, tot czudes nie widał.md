@@ -84,4 +84,4 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

@@ -59,7 +59,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/tėvūnas]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

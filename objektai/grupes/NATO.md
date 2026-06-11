@@ -86,6 +86,7 @@ amziai:
 - [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]
 - [[objektai/zodynas/Kolektyvinės savigynos teisė]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/grupes/Lietuvos luomai]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]
 - [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
@@ -97,4 +98,5 @@ amziai:
 - [[objektai/grupes/Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
+- [[objektai/asmenys/Šich Achmetas]]
 - [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

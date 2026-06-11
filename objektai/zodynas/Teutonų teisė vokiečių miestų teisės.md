@@ -61,7 +61,6 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kaštelionas]]

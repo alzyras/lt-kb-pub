@@ -130,6 +130,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Šv. Jurgio vėliava]]
 - [[objektai/asmenys/Jonas (Alšėnų kunigaikštis)]]
 - [[objektai/daiktai/Kariuomenės ženklai]]

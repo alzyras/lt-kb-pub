@@ -2,14 +2,16 @@
 tipas: grupe
 pavadinimas: 'Latviai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1221 m.'
   - '1936 m.'
   - '2026 m.'
-date_start: '1936'
+date_start: '1221'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -18,14 +20,42 @@ tags:
   - ordinas
   - tauta
 amziai:
-  - 'XX'
+  - 'XIII'
   - 'XXI'
 ---
+
 # Latviai
 
 ## Santrauka
 
 Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, tai iš jų visų susiformavo latvių tauta.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/A. Stapulionis]]
+- [[objektai/grupes/Andrejaus Vlasovo armija]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/grupes/Joniškėlio partizanų batalionas]]
+- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
+- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
+- [[objektai/grupes/Lybiai]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
+- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]
+- [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
+- [[objektai/grupes/Prūsijos valstybė]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Tautų Sąjungos susirinkimas]]
+- [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
+- [[objektai/grupes/Vokiečių saksų batalionas]]
+- [[objektai/zodynas/sulatvinimas]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
+- [[objektai/grupes/Aisčiai]]
 
 ## Teiginiai
 
@@ -68,6 +98,11 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   teiginys: 'Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių.'
   pagrindžia:
     - c-001
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad grėsminga tebuvo šiaurė, tačiau tos pusės saugumą laidavo tai, kad vokiečiai ir latviai, įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti Lietuvos.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -184,59 +219,33 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - t-004
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Stapulionis]]
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Andrejaus Vlasovo armija]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/autoriai/H. Lowmiański]]
-- [[objektai/grupes/Joniškėlio partizanų batalionas]]
-- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
-- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
-- [[objektai/grupes/Lybiai]]
-- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
-- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]
-- [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
-- [[objektai/grupes/Prūsijos valstybė]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Tautų Sąjungos susirinkimas]]
-- [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
-- [[objektai/grupes/Vokiečių saksų batalionas]]
-- [[objektai/zodynas/sulatvinimas]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Gotai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Herulai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Prūsijos žemė]]
-- [[objektai/grupes/Sėliai]]
-- [[objektai/zodynas/Vidivarijai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
-- [[objektai/asmenys/Daumantas]]
-- [[objektai/grupes/Estai]]
-- [[objektai/autoriai/F. Bopas]]
-- [[objektai/autoriai/J. Endzelynas]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/Labuda G]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/ivykiai/Nepriklausomosios Latvių valstybės įkūrimas (1918 m. lapkričio 18 d.)]]
-- [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
-- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
-- [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/autoriai/V. Mažiulis]]
-- [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
-- [[objektai/zodynas/akcijos]]
-- [[objektai/zodynas/terrula žemelė]]
-- [[objektai/zodynas/vakariniai baltai]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad grėsminga tebuvo šiaurė, tačiau tos pusės saugumą laidavo tai, kad vokiečiai ir latviai, įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti Lietuvos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kukovaitis, gavęs iš tėvo valdžią, pats stropiai sau-
+    93
+
+    ## Puslapis 84
+
+    1221 m e ta i
+    K u k o v a itis — L ietu ­
+    v o s  ir Ž e m a itijo s k u ­
+    n ig a ik štis
+    gojo taiką, būdamas beveik
+    iš visų pusių apsuptas bičiu­
+    lių; vakaruose—prūsų- rytuo­
+    se — brolio Ginvilos, Poloc­
+    ko kunigaikščio, pietuose
+    jotvingių ir Skirmanto, Nau­
+    garduko kunigaikščio. Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

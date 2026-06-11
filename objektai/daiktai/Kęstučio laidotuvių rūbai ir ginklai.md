@@ -91,6 +91,7 @@ Nenurodyta
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vygandas]]

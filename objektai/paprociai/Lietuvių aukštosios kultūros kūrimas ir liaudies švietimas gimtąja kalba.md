@@ -159,6 +159,7 @@ Nenurodyta
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/autoriai/Simonas Stanevičius]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/senatas]]
 - [[objektai/posakiai/„Šlovė žemaičių“]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
 - [[objektai/grupes/Vilniaus universitetas]]

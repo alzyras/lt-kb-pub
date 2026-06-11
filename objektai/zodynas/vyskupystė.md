@@ -47,7 +47,7 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
@@ -55,6 +55,7 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]
 - [[objektai/asmenys/Henrikas (Varmės vyskupas)]]
+- [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]
 - [[objektai/autoriai/Mažiulis V]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/asmenys/Muka]]
@@ -62,6 +63,9 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 - [[objektai/asmenys/Simeonas]]
 - [[objektai/autoriai/V. Mažiulis]]
 - [[objektai/asmenys/Valteris Goldinas]]
+- [[objektai/ivykiai/Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/fogtas]]
 - [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/autoriai/Grzybowski]]

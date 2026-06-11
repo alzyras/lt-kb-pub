@@ -72,3 +72,4 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 - [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/muškietininkai]]
+- [[objektai/zodynas/įgula]]

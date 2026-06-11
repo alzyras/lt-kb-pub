@@ -168,7 +168,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - [[objektai/asmenys/Juraha]]
 - [[objektai/asmenys/Laurynas Volskis]]
 - [[objektai/asmenys/Mauricijus]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Uršulė]]

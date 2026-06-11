@@ -94,5 +94,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/zodynas/amžina vergovė]]
 - [[objektai/zodynas/amžina vergovė amžini vergai]]

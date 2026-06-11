@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Mstislavlis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1362 m.'
@@ -16,6 +17,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Mstislavlis
 
 ## Santrauka
@@ -38,6 +40,11 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   pagrindžia:
     - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad praradę viltį užkariauti Smolenską, jie savo jėgas patraukė prie Mstislavlio, bet ir čia nesusilaukė dides nės sėkmės.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -79,3 +86,28 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad praradę viltį užkariauti Smolenską, jie savo jėgas patraukė prie Mstislavlio, bet ir čia nesusilaukė dides nės sėkmės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neimdami į rankas kir-
+    paliaubų są ly g a
+    vių, pjūklais kariai prisipjo­
+    vė medžių ir taip žvaliai bei
+    5 67
+
+    ## Puslapis 566
+
+    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
+    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
+    lies. Praradę viltį užkariauti Smolenską, jie savo jėgas
+    patraukė prie Mstislavlio, bet ir čia nesusilaukė dides­
+    nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
+    garsėjęs karvedys, kuriam buvo patikėtas miestas ir
+    apygarda, sėkmingai atrėmė antpuolį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

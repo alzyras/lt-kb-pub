@@ -191,5 +191,6 @@ Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/zodynas/Perveiza|perveiza]]
 - [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/zodynas/vėliavininkas]]
 - [[objektai/daiktai/Šv. Jurgio vėliava]]
 - [[objektai/posakiai/„suverenitetų parado“]]

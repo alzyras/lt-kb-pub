@@ -58,3 +58,4 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/vora]]

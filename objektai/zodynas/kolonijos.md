@@ -64,4 +64,7 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Avigenas]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/zodynas/vokiečių ateivių valstybė]]
+- [[objektai/grupes/Žemaičiai]]

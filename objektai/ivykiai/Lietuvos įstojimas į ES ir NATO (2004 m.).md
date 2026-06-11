@@ -229,6 +229,7 @@ Nenurodyta
 - [[objektai/asmenys/Manfredas]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/peticija]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
 - [[objektai/grupes/Europos Sąjunga]]

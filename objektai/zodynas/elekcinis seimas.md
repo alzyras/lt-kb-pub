@@ -46,7 +46,7 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Stanislovas Leščinskis]]

@@ -85,8 +85,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Graikai]]
+- [[objektai/zodynas/barbarai]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/asmenys/Ona (Vytauto žmona)]]

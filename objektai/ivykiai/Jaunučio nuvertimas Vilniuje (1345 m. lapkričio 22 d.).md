@@ -73,7 +73,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jaunutis]]
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]

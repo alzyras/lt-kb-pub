@@ -55,9 +55,11 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Žemlionys]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]

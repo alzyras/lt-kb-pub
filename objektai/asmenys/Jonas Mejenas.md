@@ -89,4 +89,5 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Jono Mejeno divizija]]

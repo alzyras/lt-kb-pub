@@ -67,4 +67,5 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]

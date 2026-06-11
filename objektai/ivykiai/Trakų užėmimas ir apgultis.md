@@ -69,3 +69,4 @@ Nenurodyta
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/įgula]]

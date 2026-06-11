@@ -91,7 +91,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aukso orda]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Riurikas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]

@@ -39,3 +39,16 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Andrius Mackevičius]]
+- [[objektai/asmenys/Jonas Gornostajus]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Motiejus Kločka]]
+- [[objektai/asmenys/Nestanas]]
+- [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]
+- [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/paprociai/Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vincentas iš Šamotulų]]
+- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]

@@ -56,3 +56,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
 - [[objektai/daiktai/Duona]]
+- [[objektai/asmenys/Kūnas]]

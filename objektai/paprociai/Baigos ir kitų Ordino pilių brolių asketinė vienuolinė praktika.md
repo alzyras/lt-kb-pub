@@ -92,4 +92,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/posakiai/Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai|Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)]]

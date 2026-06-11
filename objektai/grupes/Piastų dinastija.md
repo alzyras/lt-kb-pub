@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Piastų dinastija'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1417 m.'
@@ -12,10 +13,12 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
+  - teisinė-praktika
   - unija
 amziai:
   - 'XV'
 ---
+
 # Piastų dinastija
 
 ## Santrauka
@@ -28,6 +31,11 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
   teiginys: 'Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad štai dėl to sustiprėjo įtaka grupuotės, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -47,11 +55,20 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad štai dėl to sustiprėjo įtaka grupuotės, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Antra vertus, Jono
+    valdingas būdas ir nesėkmingi jo žygiai Vengrijoje
+    smarkiai buvo palaužę žmonių jam anksčiau jaučiamą
+    palankumą. Štai dėl to sustiprėjo įtaka grupuotės, kuri
+    siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą
+    perduoti Piasto palikuonims. Šitokia nuomonių įvairovė
+    paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš­
+    tantį sosto, vykti į Piotrkovą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

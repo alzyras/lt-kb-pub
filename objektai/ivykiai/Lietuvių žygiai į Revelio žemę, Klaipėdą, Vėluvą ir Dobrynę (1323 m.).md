@@ -98,5 +98,6 @@ Nenurodyta
 - [[objektai/asmenys/Mstivojus]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/M. Tepenas]]

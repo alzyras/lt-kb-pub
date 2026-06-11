@@ -1,0 +1,76 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'alanai'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+
+# alanai
+
+## Santrauka
+
+Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų. Kojelavičius teigia, kad gerokai pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir nusigavo į vietas, kur gyveno alanai, arba lietuviai.
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad gerokai pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir nusigavo į vietas, kur gyveno alanai, arba lietuviai.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
+    rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
+    priešų buvo paskelbti už įstatymo ribų; nieku būdu
+    negaliu patikėti, kad čia būtų atvykę atsitiktiniai pasi­
+    klydėliai. Galimas daiktas, alanai, arba herulai (kurie,
+    istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka­
+    ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie
+    pasitraukė iš tėvynės ir pasuko į tas žemes, kurios
+    buvo tinkamiausios įsikurti ir neniokojamos karų. Pa­
+    galiau nesvarbu, dėl kokios dingsties, reikalo ar būti­
+    nybės jie leidosi į tokį tolimą kelią, vieną dalyką se­
+    noliai atkakliai tvirtina: ateivių italų esą buvę penki
+    šimtai kilmingųjų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad gerokai pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir nusigavo į vietas, kur gyveno alanai, arba lietuviai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Toji sodyba, tada vadinama R om a n o va , paskui
+    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
+    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
+    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
+    liai riteriai, paprastai vadinami kryžiuočiais. Gerokai
+    pasistūmėję tolyn, jie persikėlė per Nevėžio upę ir
+    nusigavo į vietas, kur gyveno alanai, arba lietuviai.
+    Ten, negaišdami pasidarę įtvirtinimus, įkurdino juose
+    60
+
+    ## Puslapis 59
+
+    įgulas, kurios galėtų sėkmingai atremti vietinius gy­
+    ventojus, jeigu šie kartais susimanytų pulti naujuosius
+    ateivius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

@@ -58,14 +58,11 @@ periodo_grupes:
 - [[temos/ritualas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Daugirdas]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/autoriai/Algimantas Daugirdas]]
-- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
-- [[objektai/grupes/Podolės bajorai]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

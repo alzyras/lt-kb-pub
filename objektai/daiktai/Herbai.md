@@ -307,6 +307,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
 - [[objektai/grupes/Romėnai]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/bajorija]]

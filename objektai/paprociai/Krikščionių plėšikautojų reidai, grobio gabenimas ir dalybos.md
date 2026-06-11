@@ -126,6 +126,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/daiktai/Namas]]

@@ -97,4 +97,5 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kunigaikščiai]]

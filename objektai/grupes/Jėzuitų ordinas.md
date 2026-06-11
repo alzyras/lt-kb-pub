@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Jėzuitų ordinas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -10,6 +11,8 @@ datos:
   - '1580 m.'
   - '1581 m.'
   - '1651 m.'
+  - '1655 m.'
+  - '1657 m.'
   - '2026 m.'
 date_start: '1540'
 date_end: '2026'
@@ -29,6 +32,11 @@ amziai:
 ## Santrauka
 
 Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu. Be to, vienas iš didžiausių jėzuitų nuopelnų buvo tas, kad jie pirmieji susirūpino liaudimi. Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr.
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/privilegija]]
 
 ## Teiginiai
 
@@ -156,6 +164,16 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginys: 'Be to, vienas iš didžiausių jėzuitų nuopelnų buvo tas, kad jie pirmieji susirūpino liaudimi.'
   pagrindžia:
     - c-021
+
+- t-028
+  teiginys: 'Kojelavičius teigia, kad 1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.'
+  pagrindžia:
+    - c-023
+
+- t-029
+  teiginys: 'Kojelavičius teigia, kad pasirašė Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 
@@ -565,43 +583,47 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   pagrindžia:
     - t-027
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Edukacinė Komisija]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/zodynas/Jus Patronatus]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Radvila (maršalka)]]
-- [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Tšecieskis]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/bursa]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kitatikiai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/protestantizmas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/grupes/Vilniaus kapitula]]
-- [[objektai/asmenys/Ignotas Masalskis]]
-- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
-- [[objektai/grupes/Vilniaus akademijos kolegija]]
-- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- c-023
+  santrauka: 'Kojelavičius teigia, kad 1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
+    okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.
+    A. Kojelavičius dalyvavo ordino narių susirinkime
+    Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
+    tiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­
+    liaubų jis jau vėl Vilniuje. Miestui tebesant Rusijos
+    ir Ukrainos sukilėlių kariuomenės okupuotam, jėzuitai
+    atidarė čia mokyklą, vis dėlto mokslą reikėjo nutrauk­
+    ti dėl prasidėjusio maro ir bado.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-028
+
+- c-024
+  santrauka: 'Kojelavičius teigia, kad pasirašė Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Toliau K. L. Sapiegai sakoma: „Lietuvos istorijos
+    negalėjau kitaip išleisti, kaip Tavo Aukštybės globo­
+    jamas". Globa galėjo pasireikšti leidėjo suradimu, bet
+    to būtų per maža. Daug ką pasako po dedikacijos įdė­
+    tas tekstas: „Leidžiu spausdinti Lietuvos istorijos pirmą
+    9
+
+    ## Puslapis 8
+
+    dalį, tėvo Alberto Kojelavičiaus surašytą ir kelių tos
+    pačios Jėzaus draugijos teologų peržiūrėtą bei ap­
+    robuotą". Pasirašė Andrius Klingeris, jėzuitų Lietuvos
+    provincijos viršininkas. K. L. Sapiega galėjo pagelbė­
+    ti tokį leidimą gauti, nes ordino narys be cenzūros ir
+    viršininkų aprobatos savo raštų kitur, ne ordino spaus­
+    tuvėje, negalėjo spausdinti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-029

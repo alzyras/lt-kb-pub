@@ -173,6 +173,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/saar]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

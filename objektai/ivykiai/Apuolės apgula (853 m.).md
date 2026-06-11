@@ -60,4 +60,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/įkaitai]]

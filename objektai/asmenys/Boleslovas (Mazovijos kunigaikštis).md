@@ -2,10 +2,10 @@
 tipas: asmuo
 pavadinimas: 'Boleslovas (Mazovijos kunigaikštis)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1294 m.'
-date_start: '1294'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
@@ -15,10 +15,10 @@ tags:
   - paliaubos
   - pilis
 amziai:
-  - 'XIII'
-periodo_grupes:
-  - 'LDK'
+  - 'M'
+periodo_grupes: []
 ---
+
 # Boleslovas (Mazovijos kunigaikštis)
 
 ## Santrauka
@@ -36,6 +36,26 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
   teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad vėliau Lauras nieka da nėjo valstybėje jokių pareigų: netoli Naugarduko Nemuno pakrantėje visą laiką tarp vienuolių ligi pat paskutiniosios dienos gyveno tokį gyvenimą, kokį bu vo pasirinkęs; jo sesuo, tėvo, o veikiau brolio išleista, ištekėjo už Boleslovo.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad mat, nors tada mo zūrai bei kryžiuočiai buvo sudarę sąjungą, tačiau kuni gaikštis Boleslovas, nekęsda mas ir lenkų, ir kryžiuočių, laikė toje vietoje lietuvių įgulą.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad zbignevas ir kurie ne kurie kiti rėmė Frid richą, Brandenburgo markgrafą, Jogailos anūkės vyrą, tačiau balsuojant laimėjo tie, kurie, Plocko vyskupo pa tarti, kėlė Mazovijos kunigaikštį Boleslovą.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +100,123 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - t-001
     - t-002
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad vėliau Lauras nieka da nėjo valstybėje jokių pareigų: netoli Naugarduko Nemuno pakrantėje visą laiką tarp vienuolių ligi pat paskutiniosios dienos gyveno tokį gyvenimą, kokį bu vo pasirinkęs; jo sesuo, tėvo, o veikiau brolio išleista, ištekėjo už Boleslovo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi Lauras kuo atkak­
+    liausiai laikėsi savo nuomonės, po ilgų ginčų Vytenis,
+    Laurui pasiūlius, o visiems pritarus, buvo paskelbtas ir
+    150
 
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/zodynas/netikėliai]]
+    ## Puslapis 149
+
+    pakeltas didžiuoju kunigaikščiu. Vėliau Lauras nieka­
+    da nėjo valstybėje jokių pareigų: netoli Naugarduko
+    Nemuno pakrantėje visą laiką tarp vienuolių ligi pat
+    paskutiniosios dienos gyveno tokį gyvenimą, kokį bu­
+    vo pasirinkęs; jo sesuo, tėvo, o veikiau brolio išleista,
+    ištekėjo už Boleslovo, Mazovijos kunigaikščio. Mat šis
+    vylėsi, susigiminiavęs su valdovais, susilaukti šiokio
+    tokio atokvėpio nuo nuolatinių lietuvių užpuldinėjimų,
+    kadangi visos sutartys šiuo atžvilgiu nieko negelbėjo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad mat, nors tada mo zūrai bei kryžiuočiai buvo sudarę sąjungą, tačiau kuni gaikštis Boleslovas, nekęsda mas ir lenkų, ir kryžiuočių, laikė toje vietoje lietuvių įgulą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pats
+    magistras, žiemai einant į pabaigą, nusiaubė Gaižuvos
+    ir Paštuvos valsčius, sudegino dvi pilis, bet prie trečios
+    jis sutiko kur kas didesnį pasipriešinimą, nei tomis ap­
+    linkybėmis galėjo tikėtis; nenorėdamas sulaukti Vyte­
+    nio su kariuomene ir atsidur-
+    1295 m e ta i
+    ti pavojuje, jis, nutraukęs
+    apsuptį, išsiuntė grobį į Prū­
+    siją, o pats nuvedė kariuomenę į Mažo viją, kur už­
+    ėmė ir visiškai sunaikino
+    Vizną. Mat, nors tada mo­
+    zūrai bei kryžiuočiai buvo
+    sudarę sąjungą, tačiau kuni­
+    gaikštis Boleslovas, nekęsda­
+    mas ir lenkų, ir kryžiuočių,
+    laikė toje vietoje lietuvių įgulą. Iš čia protarpiais kai­
+    myniniai lenkų ir prūsų kaimai ne vieną kartą būda­
+    vo puolami ir siaubiami.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kurie, prisi-
+    džiovinę medžių lapų ir juos
+    sutrynę, kepėsi duonos, tie
+    tarėsi prabangiai besimaitiną,
+
+    ## Puslapis 465
+
+    P e n k t a  k n y g a
+    APIE LIETUVIŲ PRAEITĮ,
+    KAI VALDE KAZIMIERAS II JOGAILAITIS
+    1440 m eta i
+    M a z o v ijo s
+    k u n ig a i­
+    kštis užim a
+    P a len kę
+    Nužudžius Žygimantą, ra­
+    dosi daugybė priežasčių, ga­
+    linčių sukelti neramumus val­
+    stybės viduje ir už jos ribų.
+    Užpuolęs Palenkę, Boleslovas,
+    Mazovijos kunigaikštis, užėmė Melniką, Belską ir Dro-
+    hičiną. Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
+    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
+    pritardami naujajam valdovui, o kiti jam priešindamie­
+    si.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad zbignevas ir kurie ne kurie kiti rėmė Frid richą, Brandenburgo markgrafą, Jogailos anūkės vyrą, tačiau balsuojant laimėjo tie, kurie, Plocko vyskupo pa tarti, kėlė Mazovijos kunigaikštį Boleslovą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl, pasiuntę naujų pasiuntinių, dar
+    kartą paklausė Kazimierą, koks jo paskutinis žodis:
+    šiam atsakius kaip ir anksčiau, karalystės regentas, vi­
+    sų karštai palaikomas, sušaukė Piotrkove seimą kara­
+    liui rinkti. Zbignevas ir kurie ne kurie kiti rėmė Frid­
+    richą, Brandenburgo markgrafą, Jogailos anūkės vyrą,
+    tačiau balsuojant laimėjo tie, kurie, Plocko vyskupo pa­
+    tarti, kėlė Mazovijos kunigaikštį Boleslovą. Tada jau
+    ir Kazimieras susivokė be reikalo anksčiau atsikalbinė­
+    jęs ir išsisukinėjęs, krimsda-
+    K a zim iera s
+    p a sm er-
+    masis, kad štai dabar gali ne-
+    kia s a v o išsisukinę-
+    tekti sosto, kurio ilgą laiką
+    ¡im ą
+    galėjo lengvapėdiškai atsisa­
+    kinėti ne todėl, žinoma, kad
+    jo nebūtų norėjęs, bet dėl to, kad troško kitiems šį ne­
+    norą parodyti, bent tol, kol nebuvo reikalo tarti galutinį
+    žodį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

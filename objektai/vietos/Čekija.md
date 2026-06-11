@@ -2,7 +2,7 @@
 tipas: vieta
 pavadinimas: 'Čekija'
 saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -19,6 +19,7 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
+
 # Čekija
 
 ## Santrauka
@@ -41,6 +42,11 @@ amziai:
   teiginys: 'Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.'
   pagrindžia:
     - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad m at, m irus b ev aik iam V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs, m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa imti sau arb a k u riam savo sūnui.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -94,3 +100,20 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad m at, m irus b ev aik iam V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs, m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa imti sau arb a k u riam savo sūnui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    N ei
+    pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
+    K azim ierui, k u ris n e tru k u s sugrįžo į L enkiją, čia rodėsi
+    b ea tsiv e rią k eliai į n a u ja s valdas. M at, m irus b ev aik iam
+    V ladislovui, Čekijos karaliui, kurio seserį buvo vedęs,
+    m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
+    imti sau arb a k u riam  savo sūnui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

@@ -2,14 +2,17 @@
 tipas: vieta
 pavadinimas: 'Mazovija'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1222 m.'
   - '1323 m.'
   - '1324 m.'
+  - '1367 m.'
+  - '1440 m.'
 date_start: '1222'
-date_end: '1324'
+date_end: '1440'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,8 +22,9 @@ tags:
   - vieta
 amziai:
   - 'XIII'
-  - 'XIV'
+  - 'XV'
 ---
+
 # Mazovija
 
 ## Santrauka
@@ -58,6 +62,21 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
   teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   pagrindžia:
     - c-006
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad gal supykę dėl šios lenkų padarytos skriau dos, gal dėl to, kad žmonė- 1367 m e ta i se pasklido kalbos, jog, Po locko vyskupo patarti, kry žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją pasiplėšti.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad iš pradžių jis su kariuomene patraukė prieš Jonušą, Mazovijos ku nigaikštį; iš keršto kaip beįmanydamas nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  pagrindžia:
+    - c-008
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -159,3 +178,97 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
   statusas: verified
   pagrindžia:
     - t-006
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad gal supykę dėl šios lenkų padarytos skriau dos, gal dėl to, kad žmonė- 1367 m e ta i se pasklido kalbos, jog, Po locko vyskupo patarti, kry žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją pasiplėšti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai. Gal supykę dėl šios lenkų padarytos skriau­
+    dos, gal dėl to, kad žmonė-
+    1367 m e ta i
+    se pasklido kalbos, jog, Po­
+    locko vyskupo patarti, kry­
+    žiuočiai, iš naujo įsiveržę, nusiaubė penkias apygar­
+    das, lietuviai, vedami Kęstučio, įsibrovė į Mazoviją
+    pasiplėšti grobio. Staigiai puldami, jie užėmė Pultus-
+    ką, svarbų miestą, priklau-
+    L ie tu v ia i
+    su d eg in a
+    siusį popiežiui; užkariavo ir
+    P u ltu sk ą
+    pilį, kuri, iš visų pusių ap­
+    supta miesto degėsių, pati
+    užsidegė, o įgula nepajėgė kovoti su liepsna; vėliau
+    užgrobė visą kraštą, kurį kareiviai smarkiai nusiaubė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad iš pradžių jis su kariuomene patraukė prieš Jonušą, Mazovijos ku nigaikštį; iš keršto kaip beįmanydamas nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, lenkų žemę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo
+    tarpu Jogaila, atsikratęs rū­
+    pesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis
+    su kariuomene patraukė prieš Jonušą, Mazovijos ku­
+    nigaikštį; iš keršto kaip beįmanydamas nuniokojęs
+    Mazoviją, perkėlė siaubiančius pulkus į Sandomirą,
+    lenkų žemę. Apie šį karą su lenkais nieko nepasakoja
+    Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
+    daugelis rusų metraštininkų, mūsų Strijkovskis pasi­
+    stengė, kad skaitytojas suži-
+    J o g a ilo s ž y g is  j M a-
+    notų, ką šie surašė — gal
+    z o v iją  ir L en k iją
+    klysdami, o gal tikrai žino­
+    dami, jog šitaip iš tikrųjų
+    buvo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kurie, prisi-
+    džiovinę medžių lapų ir juos
+    sutrynę, kepėsi duonos, tie
+    tarėsi prabangiai besimaitiną,
+
+    ## Puslapis 465
+
+    P e n k t a  k n y g a
+    APIE LIETUVIŲ PRAEITĮ,
+    KAI VALDE KAZIMIERAS II JOGAILAITIS
+    1440 m eta i
+    M a z o v ijo s
+    k u n ig a i­
+    kštis užim a
+    P a len kę
+    Nužudžius Žygimantą, ra­
+    dosi daugybė priežasčių, ga­
+    linčių sukelti neramumus val­
+    stybės viduje ir už jos ribų.
+    Užpuolęs Palenkę, Boleslovas,
+    Mazovijos kunigaikštis, užėmė Melniką, Belską ir Dro-
+    hičiną. Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
+    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
+    pritardami naujajam valdovui, o kiti jam priešindamie­
+    si.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

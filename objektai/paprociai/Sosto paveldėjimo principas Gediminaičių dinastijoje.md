@@ -68,4 +68,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Butvydas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

@@ -133,6 +133,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
+- [[objektai/asmenys/Boleslovas Švitrigaila]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]

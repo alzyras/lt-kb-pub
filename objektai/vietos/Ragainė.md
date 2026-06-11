@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Ragainė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -10,6 +11,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1289 m.'
+  - '1299 m.'
   - '2026 m.'
 date_start: '1289'
 date_end: '2026'
@@ -135,6 +137,21 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginys: 'Tačiau ordinas Ragainėje juos sulaikė.'
   pagrindžia:
     - c-002
+
+- t-023
+  teiginys: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  pagrindžia:
+    - c-019
+
+- t-024
+  teiginys: 'Kojelavičius teigia, kad rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
+  pagrindžia:
+    - c-020
+
+- t-025
+  teiginys: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 
@@ -449,3 +466,77 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   statusas: verified
   pagrindžia:
     - t-012
+
+- c-019
+  santrauka: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kur kas didesnės sėkmės kitais metais susilaukė šeši
+    178
+
+    ## Puslapis 177
+
+    šimtai
+    raitelių.
+    Kanonas,
+    1299 m e ta i
+    Brandenburgo komtūras, su
+    nemaža kariuomene įsibro­
+    vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos
+    bei Pieštvės papilyse namus, o po to, papildęs kariuo­
+    menę stipriu Ragainės būriu, nugabeno ją laivais į
+    krašto gilumą. Pasroviui atskubėjo lietuviai ir, praradę
+    tik vieną saviškį, privertė priešą pasukti atgal.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-023
+
+- c-020
+  santrauka: 'Kojelavičius teigia, kad rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip
+    192
+
+    ## Puslapis 191
+
+    šie metai praėjo tėvynėje atremiant priešą, taip ki­
+    tais metais karo veiksmai buvo perkelti į priešo že­
+    mę. Rugpjūčio viduryje žemaičiai nuniokojo Ragainės
+    ir Skalvių apylinkes. Kryžiuočių kariai, atskubėję iš
+    iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­
+    jus pulkus ir nuvedė juos pulti Christmemelio pilies;
+    taranai daužė pilies sienas, galybė strėlių ir iečių
+    nešė pilies gynėjams žaizdas ir mirtį, į pagalbą iš Sem­
+    bos skubėjęs būrys tapo užpultas ir sunaikintas, ap­
+    gultųjų padėtis darėsi visai beviltiška.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-024
+
+- c-021
+  santrauka: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kita vertus, priešas irgi iš pas­
+    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
+    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
+    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
+    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
+    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
+    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
+    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
+    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
+    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
+    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
+    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
+    pilį, daug gynėjų žuvo ugnyje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-025

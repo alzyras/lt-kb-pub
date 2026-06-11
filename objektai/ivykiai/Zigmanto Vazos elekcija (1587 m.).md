@@ -123,6 +123,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/asmenys/Teodoras]]

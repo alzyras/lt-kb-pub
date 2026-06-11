@@ -44,6 +44,7 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/konfederacija]]

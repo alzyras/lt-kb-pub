@@ -51,4 +51,4 @@ Vien to pakaktų Mindaugą laikyti viena iš svarbiausių ir Lietuvai daugiausia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

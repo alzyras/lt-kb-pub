@@ -120,6 +120,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - [[objektai/ivykiai/Kališo taika]]
 - [[objektai/grupes/Smolensko pulkai]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
+- [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Lengvenis Algirdaitis]]
-- [[objektai/asmenys/Simonas Lengvenis]]
+- [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

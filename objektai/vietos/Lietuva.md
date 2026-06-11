@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Lietuva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -10,6 +11,8 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1218 m.'
+  - '1362 m.'
+  - '1364 m.'
   - '1573 m.'
   - '1940 m.'
 date_start: '1218'
@@ -41,6 +44,16 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 ## Geografinis ir istorinis kontekstas
 
 Šaltinyje Lietuva ypač dažnai aptariama Liublino unijos, bendrųjų seimų, atskiros teisės ir Stepono Batoro valdymo kontekste. Akcentuojama, kad bendra valstybė su Lenkija nepanaikino Lietuvos atskiro politinio gyvenimo.
+
+## Ryšiai
+
+### Susiję objektai
+- Kaunas
+- Nemunas
+- Vilnius
+- Žemaitija
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
+- [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]
 
 ## Teiginiai
 
@@ -698,6 +711,76 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginys: 'Iš neprisiekusiųjų buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.'
   pagrindžia:
     - c-041
+
+- t-133
+  teiginys: 'Kojelavičius teigia, kad vaizdingi, nors ir žiaurūs, karo veiksmų aprašy mai su lietuvių kunigaikščių ir karvedžių charakteris tikomis leidžia pastebėti siužetų idėją.'
+  pagrindžia:
+    - c-130
+
+- t-134
+  teiginys: 'Kojelavičius teigia, kad už žalą, padarytą per šį niokojamą iš puolį Sembai, lietuviams buvo atsilyginta kitais ir dar kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu kariaudami, smogė nemažai stiprių smūgių.'
+  pagrindžia:
+    - c-131
+
+- t-135
+  teiginys: 'Kojelavičius teigia, kad pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą.'
+  pagrindžia:
+    - c-132
+
+- t-136
+  teiginys: 'Kojelavičius teigia, kad labiausiai vis dėlto lietu vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie nas po kito palikdavo kaimus, be to, priešas leisda vosi vis toliau į Lietuvos gilumą.'
+  pagrindžia:
+    - c-133
+
+- t-137
+  teiginys: 'Kojelavičius teigia, kad mat Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į pa čią Lietuvos gilumą, kalaviju skindamiesi kelią.'
+  pagrindžia:
+    - c-134
+
+- t-138
+  teiginys: 'Kojelavičius teigia, kad laikantis Jogailos su Lenkija su darytos sutarties, visa Lietuva bei jai priklausoma Ru sia taip Vytauto turinčios būti valdomos, kad pasiliktų Lenkijos karaliaus valdžioje.'
+  pagrindžia:
+    - c-135
+
+- t-139
+  teiginys: 'Kojelavičius teigia, kad riterių magistras Konradas su savo bei svetimšalių kariuomene pavaĮsiv e ržia į L ietu vą sario pabaigoje patraukė į Lietuvą.'
+  pagrindžia:
+    - c-136
+
+- t-140
+  teiginys: 'Kojelavičius teigia, kad vargu ar galima tikėti, kad kara lius nieko nebūtų žinojęs K aralius J o g a ila deapie Vytauto gudrius sumadasi n ie k o n ežin ąs nymus, jis veikiau dėjosi nie ko nežinąs, didžiai trokšdamas, kad išgarsėtų Vytauto bei Lietuvos vardas.'
+  pagrindžia:
+    - c-137
+
+- t-141
+  teiginys: 'Kojelavičius teigia, kad galbūt atkakliu ne pritarimu ir būtų privertęs V y ta u ta s v e d a Vytautą atsisakyti šio suma nymo, jeigu nebūtų parėmęs Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at vykęs į Lietuvą.'
+  pagrindžia:
+    - c-138
+
+- t-142
+  teiginys: 'Kojelavičius teigia, kad pa sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius į Didžiąją Lenkiją.'
+  pagrindžia:
+    - c-139
+
+- t-143
+  teiginys: 'Kojelavičius teigia, kad ligos ten ištiktas, karalius, lapkričio mėnesį su grįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš kelionę visaip sūnų pamokęs ir pagraudenęs.'
+  pagrindžia:
+    - c-140
+
+- t-144
+  teiginys: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  pagrindžia:
+    - c-141
+
+- t-145
+  teiginys: 'Kojelavičius teigia, kad iv an as n ep rie šta rav o , k ai A u gusto p asiu n tin iai p areišk ė Maskvėnai nepritaria n o rį p a sita rti su k araliu m i arpaliauhoms ir įsibrauba b en t laišk u p ak lau sti jį na į Lietuvą nuom onės, tačia u n iek u būdu n en o rėjo su tik ti nei.'
+  pagrindžia:
+    - c-142
+
+- t-146
+  teiginys: 'Kojelavičius teigia, kad mat šis, nepakęsdamas Ivano žiau rumo, kartu su visa šeimyna šiek tiek anksčiau buvo persikėlęs į Lietuvą.'
+  pagrindžia:
+    - c-143
 
 ## Reikšmingi paminėjimai
 
@@ -3255,3 +3338,351 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - t-132
     - t-055
+
+- c-130
+  santrauka: 'Kojelavičius teigia, kad vaizdingi, nors ir žiaurūs, karo veiksmų aprašy mai su lietuvių kunigaikščių ir karvedžių charakteris tikomis leidžia pastebėti siužetų idėją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vaizdingi, nors ir žiaurūs, karo veiksmų aprašy­
+    mai su lietuvių kunigaikščių ir karvedžių charakteris­
+    28
+
+    ## Puslapis 27
+
+    tikomis leidžia pastebėti siužetų idėją. Tie lietuviai
+    pagonys kilnūs, išmintingi ir narsūs, kurie buvo išti­
+    kimi protėvių religijai ir papročiams,— jie sukūrė Lie­
+    tuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­
+    mi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-133
+
+- c-131
+  santrauka: 'Kojelavičius teigia, kad už žalą, padarytą per šį niokojamą iš puolį Sembai, lietuviams buvo atsilyginta kitais ir dar kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu kariaudami, smogė nemažai stiprių smūgių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Už žalą, padarytą per šį niokojamą iš­
+    puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
+    kokios ypatingos progos pasiplėšti, ir vieni, ir kiti vi­
+    są laiką rengė karo žygius; ir vieni, ir kiti, tuo būdu
+    kariaudami, smogė nemažai stiprių smūgių. Pirmiausia
+    ėmėsi kariauti Meinhardas, Prūsijos magistras, apie
+    balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos
+    Nemuno pakrantėje esančią Lietuvos pilį. Penki šim­
+    tai riterių buvo išsiųsta iš stovyklos aplinkinių kaimų
+    niokoti, o du tūkstančiai pėstininkų atkakliai puolė
+    apsuptą pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-134
+
+- c-132
+  santrauka: 'Kojelavičius teigia, kad pavasario pradžioje jis ir išvedė abi kariuo menes į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be
+    nuolatinės kariuomenės, savo rankose turėjo į pagal­
+    bą atvykusius Čekijos, Anglijos, Danijos ir Vokietijos
+    karius. Pavasario pradžioje jis ir išvedė abi kariuo­
+    menes į Lietuvą. Pirmiausia jie užgriuvo Kauną; pilį
+    puolė pasitelkę visokiausių
+    1362 m e ta i
+    prietaisų, pasiryžę nugalėti,
+    ypač po to, kai Algirdas, at-
+    246
+
+    ## Puslapis 245
+
+    vykęs su kariuomene pralaužti apsupimo žiedo, nieko
+    nelaimėjo ir buvo atstumtas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-135
+
+- c-133
+  santrauka: 'Kojelavičius teigia, kad labiausiai vis dėlto lietu vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie nas po kito palikdavo kaimus, be to, priešas leisda vosi vis toliau į Lietuvos gilumą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Labiausiai vis dėlto lietu­
+    vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie­
+    nas po kito palikdavo kaimus, be to, priešas leisda­
+    vosi vis toliau į Lietuvos gilumą. Štai todėl, norėdami
+    ir priešą sutramdyti, ir su-
+    1364 m e ta i
+    sigrąžinti nuolatinės grėsmės
+    išblaškytus žemdirbius,
+    jie
+    stengėsi atstatyti tvirtoves, būgštaudami, kad karas il­
+    gainiui nepersimestų ne tik į tolimesnes Lietuvos že­
+    mes, bet ir pačią Rusią. Kita vertus, priešas irgi iš pas­
+    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
+    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
+    tis į žygį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-136
+
+- c-134
+  santrauka: 'Kojelavičius teigia, kad mat Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į pa čią Lietuvos gilumą, kalaviju skindamiesi kelią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sėkmingai atgavus Poleksi-
+    ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
+    nę. Mat Vytautas su žemaičiais ir Prūsijos magistras
+    su savo kariais veržėsi į pa­
+    čią Lietuvos gilumą, kalaviju
+    skindamiesi kelią. Niokoda­
+    mi kraštą, jie pasiekė Trakus;
+    miestas bei abi pilys netruko
+    jiems pasiduoti; kai pasklido
+    kalbos, jog grįžta Jogaila su pergalinga kariuomene,
+    jie kuo skubiausiai pasitraukė iš Lietuvos palikę pi­
+    lyse stiprias vokiečių įgulas, aprūpintas viskuo, kas
+    reikalinga.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-137
+
+- c-135
+  santrauka: 'Kojelavičius teigia, kad laikantis Jogailos su Lenkija su darytos sutarties, visa Lietuva bei jai priklausoma Ru sia taip Vytauto turinčios būti valdomos, kad pasiliktų Lenkijos karaliaus valdžioje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius Jogaila neskirsiąs be Vytauto
+    330
+
+    ## Puslapis 329
+
+    žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
+    dino pilių viršininkų. Laikantis Jogailos su Lenkija su­
+    darytos sutarties, visa Lietuva bei jai priklausoma Ru­
+    sia taip Vytauto turinčios būti valdomos, kad pasiliktų
+    Lenkijos karaliaus valdžioje. Šios sąlygos buvo įtrauk­
+    tos į protokolą, patvirtintos susitariančiųjų valdovų
+    antspaudais, parašais ir net priesaika ir nusiųstos į Kro­
+    kuvą, į karalystės valstybinį archyvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-138
+
+- c-136
+  santrauka: 'Kojelavičius teigia, kad riterių magistras Konradas su savo bei svetimšalių kariuomene pavaĮsiv e ržia į L ietu vą sario pabaigoje patraukė į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat teutonų riterių, arba kryžiuočių,
+    ordinas dėl nuolatinių karų tuo metu ten buvo laikomas
+    3 3 5
+
+    ## Puslapis 334
+
+    nelyginant kokia arena, kur galima pelnyti karo šlovę,
+    todėl ne tik išgarsėję savo žygiais bei nuopelnais kariai,
+    bet ir didžiai patyrę karvedžiai, tikėdamiesi pelnyti dar
+    didesnę šlovę, traukė iš visų krikščioniškųjų karalys­
+    čių į Prūsiją. Riterių magistras Konradas su savo bei
+    svetimšalių kariuomene pava-
+    Įsiv e ržia  į L ietu vą
+    sario pabaigoje patraukė į
+    Lietuvą. Nusiaubęs dideliuose
+    plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
+    lietuvių bei žemaičių keletą pilių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-139
+
+- c-137
+  santrauka: 'Kojelavičius teigia, kad vargu ar galima tikėti, kad kara lius nieko nebūtų žinojęs K aralius J o g a ila deapie Vytauto gudrius sumadasi n ie k o n ežin ąs nymus, jis veikiau dėjosi nie ko nežinąs, didžiai trokšdamas, kad išgarsėtų Vytauto bei Lietuvos vardas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vargu ar galima tikėti, kad kara­
+    lius nieko nebūtų žinojęs
+    K aralius J o g a ila  de-
+    apie Vytauto gudrius suma-
+    dasi n ie k o  n ežin ąs
+    nymus, jis veikiau dėjosi nie­
+    ko nežinąs, didžiai trokšda-
+    393
+
+    ## Puslapis 392
+
+    mas, kad išgarsėtų Vytauto bei Lietuvos vardas.
+    Štai todėl, tariamai norėdamas prasiblaškyti po karalie­
+    nės Onos mirties, o iš tiesų parodyti Vytautui, jog šie
+    sumanymai jam nežinomi, jis iškeliavo į Lietuvą. Vy­
+    tautas priėmė Jogailą, kaip
+    V y ta u to  dosniai ap-
+    dera priimti karalių, o po ke-
+    d o v a n o ja m a s
+    lių dienų pastarojo viešnagės
+    padovanojo skubančiam Kro­
+    kuvon į karalienės laidotuves valdovui, be gausybės
+    kitų dovanų, dvidešimt tūkstančių čekiškųjų markių,
+    šimtą grynakraujų žirgų, keturias dešimtis iš sabalo
+    kailio siūtų drabužių ir šimtą persiškųjų apsiaustų, iš­
+    siuvinėtų aukso siūlais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-140
+
+- c-138
+  santrauka: 'Kojelavičius teigia, kad galbūt atkakliu ne pritarimu ir būtų privertęs V y ta u ta s v e d a Vytautą atsisakyti šio suma nymo, jeigu nebūtų parėmęs Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at vykęs į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl Petras, Vilniaus vyskupas,
+    labai atkakliai priešinosi šiai santuokai, kad nebūtų pa­
+    žeisti dievo bei žmonių įstatymai. Galbūt atkakliu ne­
+    pritarimu ir būtų privertęs
+    V y ta u ta s  v e d a
+    Vytautą atsisakyti šio suma­
+    nymo, jeigu nebūtų parėmęs
+    Jonas Kropidlas, Kujavijos vyskupas, su karaliumi at­
+    vykęs į Lietuvą. Pataikūniškai aiškindamas įstatymus
+    pagal valdovo norus, jis pareiškė, jog santuoka būsian­
+    ti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro-
+    3 9 6
+
+    ## Puslapis 395
+
+    mos bažnyčia.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-141
+
+- c-139
+  santrauka: 'Kojelavičius teigia, kad pa sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius į Didžiąją Lenkiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    397
+
+    ## Puslapis 396
+
+    Danijos karalius ir Pomeranijos kunigaikštis, atvykę
+    kryžiuočiams į pagalbą ir supratę, kas teisus ir netei­
+    sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,
+    perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,
+    kuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu
+    šie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­
+    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
+    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
+    Srodą, vos neprarado gyvybės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-142
+
+- c-140
+  santrauka: 'Kojelavičius teigia, kad ligos ten ištiktas, karalius, lapkričio mėnesį su grįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš kelionę visaip sūnų pamokęs ir pagraudenęs.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ligos ten ištiktas, karalius, lapkričio mėnesį su­
+    grįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš
+    kelionę visaip sūnų pamokęs ir pagraudenęs. Patyręs
+    Lenkijoje visokiausių nemalonumų, Augustas tikėjosi
+    susilaukti Lietuvoje didesnio prielankumo. Vis dėlto
+    ir ten jo laukė visokios negerovės: pasipylė skundai,
+    žmonės reiškė nepasitenkinimą, maištavo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-143
+
+- c-141
+  santrauka: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
+    dengti. Seimo darbe dalyvavo ir ordino magistras Ket-
+    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
+    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
+    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
+    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
+    čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
+    7 0 3
+
+    ## Puslapis 702
+
+    iždo padarytas išlaidas, Livo-
+    S u la rties są ly g o s
+    nijos riterių ordinas atiduo­
+    dąs
+    Lietuvai visas
+    žemes
+    abiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-
+    klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
+    pilio, Sėlpilio pilis su apylinkėmis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-144
+
+- c-142
+  santrauka: 'Kojelavičius teigia, kad iv an as n ep rie šta rav o , k ai A u gusto p asiu n tin iai p areišk ė Maskvėnai nepritaria n o rį p a sita rti su k araliu m i arpaliauhoms ir įsibrauba b en t laišk u p ak lau sti jį na į Lietuvą nuom onės, tačia u n iek u būdu n en o rėjo su tik ti nei.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iv an as n ep rie šta rav o , k ai A u ­
+    gusto
+    p asiu n tin iai
+    p areišk ė
+    Maskvėnai nepritaria
+    n o rį p a sita rti su k araliu m i ar-
+    paliauhoms ir įsibrau-
+    ba
+    b en t laišk u
+    p ak lau sti jį
+    na į Lietuvą
+    nuom onės, tačia u  n iek u  būdu
+    n en o rėjo  su tik ti nei su ilg es­
+    nėm is paliaubom is, n ei su laik in u  k aro  v eik sm ų  n u tra u ­
+    kim u, kol bus g au tas k araliau s atsakym as. M at jis jau
+    buvo sutelk ęs žygiui p asiren g u sią kariu o m en ę, k u ri tuo
+    ta rp u  n etoli L ietuvos sienų įsik ū rė žiem os stovyklose.
+    T uo p a t keliu, k u riu o  leidosi nam o pasiu n tin iai, p ra rad ę
+    v iltį su tarti taiką, p atra u k ė  m etų  p ab aig o je šviežiom is
+    jų  pėdom is priešų vėliavos, n ely g in an t p aties likim o
+    stum te stum iam os lin k  ty k o jan čio s nelaim ės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-145
+
+- c-143
+  santrauka: 'Kojelavičius teigia, kad mat šis, nepakęsdamas Ivano žiau rumo, kartu su visa šeimyna šiek tiek anksčiau buvo persikėlęs į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius turįs vi­
+    siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
+    Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
+    su visais palydovais. Mat šis, nepakęsdamas Ivano žiau­
+    rumo, kartu su visa šeimyna šiek tiek anksčiau buvo
+    persikėlęs į Lietuvą. Išgirdęs apie šį Andrejaus žingsnį,
+    Ivanas didžiai įniršo; vieną atsitiktinai sugautą Kurbs-
+    kio tarną kuo žiauriausiai nukankino, o kitą žymų di­
+    diką, palaidojusį nužudytojo palaikus, tol visaip kan­
+    kino, kol šis bekankinamas mirė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-146

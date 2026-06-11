@@ -75,6 +75,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
 - [[objektai/zodynas/šventas sumanymas]]

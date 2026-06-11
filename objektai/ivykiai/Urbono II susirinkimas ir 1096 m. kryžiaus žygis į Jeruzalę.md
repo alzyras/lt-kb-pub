@@ -117,6 +117,7 @@ Nenurodyta
 - [[objektai/asmenys/Simeonas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]

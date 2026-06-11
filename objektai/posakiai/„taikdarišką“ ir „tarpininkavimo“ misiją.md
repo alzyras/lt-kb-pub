@@ -53,5 +53,6 @@ amziai:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/konfederacija]]

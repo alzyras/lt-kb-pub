@@ -162,7 +162,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

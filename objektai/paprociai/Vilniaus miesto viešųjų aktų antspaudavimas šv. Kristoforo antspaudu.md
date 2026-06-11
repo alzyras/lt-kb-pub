@@ -111,12 +111,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Vilniaus magistratas]]

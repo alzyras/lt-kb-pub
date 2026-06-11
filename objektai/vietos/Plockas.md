@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Plockas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -20,6 +21,7 @@ amziai:
   - 'XIII'
   - 'XIV'
 ---
+
 # Plockas
 
 ## Santrauka
@@ -37,6 +39,11 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   teiginys: 'Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikščiui, netekusiam visų jo valdomų įtvirtinimų bei pilių, bepaliko Vyslos pakrantėje viena pilis, Plocku vadinama163.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -84,3 +91,35 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad jie netru ko užimti Sochačevo ir Plocko apygardas; dvarus ir visa kita, ko negalėjo išsigabenti iš krašto kaip gro bio, sunaikino ugnimi ir kalaviju.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lietuviai, kelerius metus vengę niokoti to­
+    limesnius Mazovijos pakraščius, dabar, be kliūčių kaip
+    sąj ungininkai galėdami žygiuoti šiomis žemėmis į Gos­
+    tininą, susiviliojo taikos metais visiškai atsistačiusio
+    krašto turtais ir įniko grobstyti, o beieškodami grobio,
+    Įsitraukė į karą; vos parsigabenę namo grobį iš Gos-
+    tinino, jie su stambesnėmis jėgomis sugrįžo į Konrado
+    valdas, staiga iš sąjungininkų virtę priešais. Jie netru­
+    ko užimti Sochačevo ir Plocko apygardas; dvarus ir
+    visa kita, ko negalėjo išsigabenti iš krašto kaip gro­
+    bio, sunaikino ugnimi ir kalaviju. Vėliau ramiai gy­
+    veno namuose patyrę didžiulį pralaimėjimą, apie kurį
+    Lietuviai suteikia pa­
+    galbą Mazovijos ku­
+    nigaikščiui, o netru­
+    kus patys įsiveržia į
+    Mazovi ją
+    159
+
+    ## Puslapis 158
+
+    ir eis kalba.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

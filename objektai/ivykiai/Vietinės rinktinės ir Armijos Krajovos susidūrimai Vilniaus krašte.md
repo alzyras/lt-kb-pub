@@ -103,6 +103,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Armija Krajova]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vietinė rinktinė]]

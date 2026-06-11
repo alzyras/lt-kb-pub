@@ -59,4 +59,4 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

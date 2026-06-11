@@ -78,6 +78,7 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Polockiečiai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/grupes/Totoriai]]

@@ -91,4 +91,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/luomas]]

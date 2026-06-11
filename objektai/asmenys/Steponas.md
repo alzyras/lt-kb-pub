@@ -74,6 +74,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - [[objektai/ivykiai/Disidentų knygų deginimas, reformatų maldos namų užpuolimas ir Batoro laiškas (1581 m.)]]
 - [[objektai/grupes/JAV lietuviai]]
 - [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/grupes/Langobardai]]
 - [[objektai/grupes/Lietuvos senatoriai]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]

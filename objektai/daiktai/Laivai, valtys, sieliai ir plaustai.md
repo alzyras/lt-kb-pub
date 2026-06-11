@@ -247,7 +247,6 @@ Nenurodyta
 - [[objektai/asmenys/Kanutas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Normanai]]
 - [[objektai/asmenys/Palemonas]]

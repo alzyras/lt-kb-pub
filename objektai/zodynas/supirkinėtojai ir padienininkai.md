@@ -54,6 +54,7 @@ Nepaprastas įvairaus maisto brangymetis 1547 me­ tais Vilniuje kilo dėl čion
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

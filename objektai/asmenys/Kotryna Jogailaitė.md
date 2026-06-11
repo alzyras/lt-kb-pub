@@ -133,10 +133,12 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kotryna]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

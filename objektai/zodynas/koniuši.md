@@ -45,6 +45,6 @@ Tur būt, su Vaišvilko žinia ir pritarimu, buvę Mindaugo dvariškiai-arklinin
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Treniota]]
 - [[objektai/ivykiai/Treniotos nužudymas (1264 m.)]]

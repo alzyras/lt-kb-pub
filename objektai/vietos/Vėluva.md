@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vėluva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -95,6 +96,11 @@ amziai:
   teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
   pagrindžia:
     - c-003
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad prūsijos magistras, susilaukęs pa galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -342,3 +348,20 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad prūsijos magistras, susilaukęs pa galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šitaip praėjo ir kiti metai, pakaitomis vieniems
+    kitus puldinėjant. Prūsijos magistras, susilaukęs pa­
+    galbininkų iš svetur, baisiai sumušė Lietuvą; tuo tarpu
+    gardą, užpuolė pilį, sudegino miestą, o Vėluvos ir Ta-
+    piavos kraštą sulygino su žeme. Pats pilies komtūras,
+    praradęs miestą, vargais negalais išgelbėjo pilį ir išsau­
+    gojo gyvybę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015

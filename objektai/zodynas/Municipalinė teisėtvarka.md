@@ -120,6 +120,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai]]
 - [[objektai/asmenys/Otonas Didysis]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]

@@ -98,7 +98,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

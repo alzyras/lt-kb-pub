@@ -42,5 +42,5 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/asmenys/Daugirdas]]
 - [[objektai/zodynas/karyba]]

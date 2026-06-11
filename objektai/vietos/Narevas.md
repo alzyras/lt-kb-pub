@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Narevas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -17,6 +18,7 @@ amziai:
   - 'XII'
   - 'XXI'
 ---
+
 # Narevas
 
 ## Santrauka
@@ -34,6 +36,11 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginys: 'Žygiavo tarp Narevo ir Bugo upių.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad šie, prieš keletą dienų grobį bei kariuomenę perkėlę per Narevą, pasislėpė miško tan kynėse.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -68,3 +75,20 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad šie, prieš keletą dienų grobį bei kariuomenę perkėlę per Narevą, pasislėpė miško tan kynėse.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu Lešekas Juodasis,
+    Lenkijos valdovas, Krokuvoje teisė savo valdinius; ki­
+    lus staigiam pavojui, jis, metęs teismo reikalus, pas­
+    kubomis surinko šešių tūkstančių vyrų pulką ir patrau­
+    kė prieš lietuvius. Šie, prieš keletą dienų grobį bei
+    kariuomenę perkėlę per Narevą, pasislėpė miško tan­
+    kynėse. Sužinojęs apie tai, Lešekas visai nusivylė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

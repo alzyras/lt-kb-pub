@@ -164,8 +164,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Papuošalai]]
 - [[objektai/autoriai/Wulfstanas]]
 - [[objektai/zodynas/Vėlė|vėlė]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kūnas]]

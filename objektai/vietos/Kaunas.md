@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Kaunas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -11,6 +12,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1272 m.'
+  - '1362 m.'
   - '1384 m.'
   - '1916 m.'
   - '1939 m.'
@@ -65,6 +67,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginys: 'Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.'
   pagrindžia:
     - c-002
+    - c-044
 
 - t-005
   teiginys: 'Vytautas atstatė Kauno pilį ir kitas Ordino pasienyje sugriautas pilis.'
@@ -204,6 +207,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-032
   teiginys: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
   pagrindžia:
+    - c-080
     - c-015
 
 - t-033
@@ -214,7 +218,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-034
   teiginys: 'Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal.'
   pagrindžia:
-    - c-079
+    - c-030
 
 - t-035
   teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
@@ -259,7 +263,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-043
   teiginys: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, taip pat Kaune.'
   pagrindžia:
-    - c-030
+    - c-047
 
 - t-044
   teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
@@ -319,7 +323,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-055
   teiginys: 'Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime.'
   pagrindžia:
-    - c-011
+    - c-018
 
 - t-056
   teiginys: 'Po pirmojo bolševikmečio pertraukos Z. Ivinskis Filosofijos fakultete Kaune skaitė Lietuvos ūkio istoriją.'
@@ -465,6 +469,46 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginys: '1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.'
   pagrindžia:
     - c-034
+
+- t-089
+  teiginys: 'Kojelavičius teigia, kad tas miestas su pilimi, įkūrėjo at minimui pavadintas Kaunu, po šiai dienai tebėra vie nas iš žymiausių Lietuvoje.'
+  pagrindžia:
+    - c-080
+
+- t-090
+  teiginys: 'Kojelavičius teigia, kad pirmiausia jie užgriuvo Kauną; pilį puolė pasitelkę visokiausių 1362 m e ta i prietaisų, pasiryžę nugalėti, ypač po to, kai Algirdas, atvykęs su kariuomene pralaužti apsupimo žiedo, nieko nelaimėjo ir buvo atstumtas.'
+  pagrindžia:
+    - c-081
+
+- t-091
+  teiginys: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  pagrindžia:
+    - c-082
+
+- t-092
+  teiginys: 'Kojelavičius teigia, kad kadangi Kaunas Neries ir N e s ė k m in g a i m ė g in a Nemuno santakoje vasarą p u lti K au n ą sunkiau prieinamas, tuo tarpu žiemą, užšalus vandenims, be vargo apsupamas, todėl Vytautas, tikėdamasis jį pa imti, priėjo tylomis miškais ir netikėtai pasirodė.'
+  pagrindžia:
+    - c-083
+
+- t-093
+  teiginys: 'Kojelavičius teigia, kad todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.'
+  pagrindžia:
+    - c-084
+
+- t-094
+  teiginys: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  pagrindžia:
+    - c-085
+
+- t-095
+  teiginys: 'Kojelavičius teigia, kad susitaręs su Vytautu, Jo gaila, dėdamasis turįs visai kitų ketinimų, atvyko į Kauną.'
+  pagrindžia:
+    - c-086
+
+- t-096
+  teiginys: 'Kojelavičius teigia, kad iš ten karalius nuvyko į Lietuvą ir likusius žiemos mėnesius praleido Kaune, nes Vil niuje ir Gardine siautė maras.'
+  pagrindžia:
+    - c-087
 
 ## Reikšmingi paminėjimai
 
@@ -1864,3 +1908,182 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   pagrindžia:
     - t-088
     - t-053
+
+- c-080
+  santrauka: 'Kojelavičius teigia, kad tas miestas su pilimi, įkūrėjo at minimui pavadintas Kaunu, po šiai dienai tebėra vie nas iš žymiausių Lietuvoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kūno, arba
+    Kūnasijaus, valstybė buvo ribojama Nemunu, Duby­
+    sa, Nevėžiu ir Vilija, arba (gimtosios kalbos žodžiu)
+    Nerimi. Tų žemių sostinę įkurdino pačioje Neries ir
+    Nemuno santakoje. Tas miestas su pilimi, įkūrėjo at­
+    minimui pavadintas Kaunu, po šiai dienai tebėra vie­
+    nas iš žymiausių Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-089
+
+- c-081
+  santrauka: 'Kojelavičius teigia, kad pirmiausia jie užgriuvo Kauną; pilį puolė pasitelkę visokiausių 1362 m e ta i prietaisų, pasiryžę nugalėti, ypač po to, kai Algirdas, atvykęs su kariuomene pralaužti apsupimo žiedo, nieko nelaimėjo ir buvo atstumtas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pirmiausia jie užgriuvo Kauną; pilį
+    puolė pasitelkę visokiausių
+    1362 m e ta i
+    prietaisų, pasiryžę nugalėti,
+    ypač po to, kai Algirdas, at-
+    246
+
+    ## Puslapis 245
+
+    vykęs su kariuomene pralaužti apsupimo žiedo, nieko
+    nelaimėjo ir buvo atstumtas. Galop po ilgos apsiaus­
+    ties didįjį šeštadienį, pasikasę po sienomis ir svaido­
+    ma ugnimi padegę pastatus,
+    K ry žiu o č ia i u žim a ir
+    kryžiuočiai palaužė atkaklų
+    išg ria u n a  K au n ą
+    gynėjų priešinimąsi ir už­
+    ėmė pilį. Nemaža jų žuvo,
+    kai, veržiantis prie įtvirtinimų, juos užgriuvo pakasta
+    gynybinė siena, tačiau kur kas daugiau nuostolių pa­
+    tyrė lietuviai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-090
+
+- c-082
+  santrauka: 'Kojelavičius teigia, kad iš pradžių Ragainės komtūras išsklaidė dar bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė pradėtą pilį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kita vertus, priešas irgi iš pas­
+    kutiniųjų stengėsi, kad neseniai nusiaubtose žemėse
+    nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
+    tis į žygį. Iš pradžių Ragainės komtūras išsklaidė dar­
+    bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
+    tosiomis, pakelti iš griuvėsių Kauno tvirtovę, ir išardė
+    pradėtą pilį. Po to Prūsijos magistras užėmė ir sude­
+    gino Pieštvę, kuri, pabėgus gynėjams, atiteko priešui;
+    taip pat sudegino ir užkariavo Veliuoną, neseniai pa­
+    keltą iš griuvėsių; nors ir smarkiai ją gynė Goštau­
+    tas, tačiau puolėjai prie pačių sienų sukrovė krūvą
+    sausų malkų ir padegė taip, kad vėjas neštų liepsną į
+    pilį, daug gynėjų žuvo ugnyje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-091
+
+- c-083
+  santrauka: 'Kojelavičius teigia, kad kadangi Kaunas Neries ir N e s ė k m in g a i m ė g in a Nemuno santakoje vasarą p u lti K au n ą sunkiau prieinamas, tuo tarpu žiemą, užšalus vandenims, be vargo apsupamas, todėl Vytautas, tikėdamasis jį pa imti, priėjo tylomis miškais ir netikėtai pasirodė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Atėjo žiema, vis dėlto lietuviams ji nebuvo nė
+    kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­
+    puolių ir iš žiemos stovyklos.
+    Kadangi Kaunas Neries ir
+    N e s ė k m in g a i m ė g in a
+    Nemuno
+    santakoje
+    vasarą
+    p u lti K au n ą
+    sunkiau prieinamas, tuo tarpu
+    žiemą, užšalus vandenims, be
+    vargo apsupamas, todėl Vytautas, tikėdamasis jį pa­
+    imti, priėjo tylomis miškais ir netikėtai pasirodė su ka­
+    riuomene prie pylimo. Pilį ir miestą, smarkiai įtvirtin­
+    tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-092
+
+- c-084
+  santrauka: 'Kojelavičius teigia, kad todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pilį ir miestą, smarkiai įtvirtin­
+    tus, gynė stambios lietuvių bei lenkų samdytinių įgulos.
+    324
+
+    ## Puslapis 323
+
+    Todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.
+    Kiek kartų kareiviai puolė pylimą, tiek kartų buvo at­
+    stumti, ypač nepaprastą narsumą rodė lenkų pėstinin­
+    kai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-093
+
+- c-085
+  santrauka: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo metu
+    Andrius Vygandas, Starodubo kunigaikštis, raštiškai
+    pasižadėjo būti ištikimas karaliui: Vytautui mirus, jis
+    esą su kitais Lietuvos kunigaikščiais nepripažinsiąs ki­
+    tos valdžios, kaip Lenkijos karaliaus Jogailos. Vytautas,
+    sugrįžęs į Lietuvą, panoro pareikšti padėką gerajam
+    viešpačiui dievui už neseniai patirtą malonę, leidusią
+    jam sveikam ir gyvam pasprukti iš nelemtojo praėjusių
+    metų mūšio, todėl pastatė šv. Pranciškaus ordino vienuo­
+    liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią
+    bei vienuolyną ir dosniai juos apdovanojo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-094
+
+- c-086
+  santrauka: 'Kojelavičius teigia, kad susitaręs su Vytautu, Jo gaila, dėdamasis turįs visai kitų ketinimų, atvyko į Kauną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto radosi ir tokių, kurie, norėdami nu­
+    malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
+    pačioje pradžioje užgesintų įsiliepsnojančią ir bemaž
+    jau įsiplieskiančią karo ugnį. Susitaręs su Vytautu, Jo­
+    gaila, dėdamasis turįs visai kitų ketinimų, atvyko į
+    Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
+    vadovus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-095
+
+- c-087
+  santrauka: 'Kojelavičius teigia, kad iš ten karalius nuvyko į Lietuvą ir likusius žiemos mėnesius praleido Kaune, nes Vil niuje ir Gardine siautė maras.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi menkame miestelyje nebuvo nei tinkamų būs­
+    tų gyventi, nei deramos menės bendriems posėdžiams,
+    be to, vargu ar čia galėjo tikėtis kokių patogumų žie-
+    5 1 4
+
+    ## Puslapis 513
+
+    mą, vėl visą reikalą atidėjo kitiems metams ir, nieko
+    nenuveikę, išsiskirstė. Iš ten karalius nuvyko į Lietuvą
+    ir likusius žiemos mėnesius praleido Kaune, nes Vil­
+    niuje ir Gardine siautė maras.
+    Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
+    vikas, Antiochijos
+    patriar­
+    chas, popiežiaus pasiuntinys.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-096

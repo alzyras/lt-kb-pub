@@ -76,4 +76,5 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas]]

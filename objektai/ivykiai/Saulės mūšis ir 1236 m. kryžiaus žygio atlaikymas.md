@@ -75,7 +75,7 @@ Nenurodyta
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/grupes/Žemaičiai]]

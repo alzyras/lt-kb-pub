@@ -60,5 +60,6 @@ Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

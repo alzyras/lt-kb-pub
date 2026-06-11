@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Kijevas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -25,6 +26,7 @@ amziai:
   - 'XIII'
   - 'XVI'
 ---
+
 # Kijevas
 
 ## Santrauka
@@ -322,6 +324,26 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   teiginys: 'Tiesa, totoriai dažnai nusiaubdavo Kijevo apylinkes, tačiau pačios Lietuvos niekas nepalietė.'
   pagrindžia:
     - c-037
+
+- t-059
+  teiginys: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  pagrindžia:
+    - c-038
+
+- t-060
+  teiginys: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  pagrindžia:
+    - c-039
+
+- t-061
+  teiginys: 'Kojelavičius teigia, kad iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  pagrindžia:
+    - c-040
+
+- t-062
+  teiginys: 'Kojelavičius teigia, kad pas Ostrogiškį atžygia vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras Sanguška, Jurgis Radvila, Jonas bei Aleksandras Kaributaičiai, Višnioveco kunigaikščiai, Čartorysko ku nigaikštis Aleksandras, Kijevo vaivada Andrius Nemiravičius, Čerkasų seniūnas.'
+  pagrindžia:
+    - c-041
 
 ## Reikšmingi paminėjimai
 
@@ -1012,3 +1034,96 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   statusas: verified
   pagrindžia:
     - t-058
+
+- c-038
+  santrauka: 'Kojelavičius teigia, kad visi luo mai, išėję iš miesto, sveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kuni gaikštį, prisiekdami su visomis žemėmis paklusti jo valdžiai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nors rusai dar nebuvo
+    2 03
+
+    ## Puslapis 202
+
+    Verčiau pasiduodant išsaugoti šiokią tokią valstybę,
+    kad ir nugalėtojo valdomą, nei viską atkakliu prie­
+    šinimusi prarasti. Todėl pa­
+    sitarę nusprendė patys ati­
+    duoti pilį ir miestą. Visi luo­
+    mai, išėję iš miesto, sveikino
+    nugalėtoją
+    Gediminą
+    kaip
+    Kijevo ir Rusios didįjį kuni­
+    gaikštį, prisiekdami su visomis žemėmis paklusti jo
+    valdžiai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-059
+
+- c-039
+  santrauka: 'Kojelavičius teigia, kad užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Užėmęs Brianską
+    ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už­
+    kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
+    išplėtė lietuvių valdų ribas ligi Putivlio. Šitaip ilgai­
+    niui baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi
+    Kijevo monarchija, patyrusi visokių sėkmių ir nesėk­
+    mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
+    džioje. Prasidėjo dėl jo nuolatiniai lenkų ir lietuvių
+    kivirčai: lenkai savinosi Kijevą ir Volynę, remdamiesi
+    senomis Boleslovo Narsiojo pergalėmis ir naujais gi­
+    minystės ryšiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-060
+
+- c-040
+  santrauka: 'Kojelavičius teigia, kad iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šiek tiek užgaišęs Lietu­
+    voje, kur tvarkė visokius reikalus, pats taip pat leidosi
+    paskui kariuomenę, kai atėjo tinkamas metas kariauti.
+    Iš Kijevo su kariuomene tyliai patraukė į Azovą. Persi­
+    kėlęs prie Azovo per Doną, pradėjo karą, kol žinia apie
+    Vytauto įsiveržimą nebuvo
+    Įsiv e ržia  į S k itiją
+    dar skitų pasiekusi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-061
+
+- c-041
+  santrauka: 'Kojelavičius teigia, kad pas Ostrogiškį atžygia vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras Sanguška, Jurgis Radvila, Jonas bei Aleksandras Kaributaičiai, Višnioveco kunigaikščiai, Čartorysko ku nigaikštis Aleksandras, Kijevo vaivada Andrius Nemiravičius, Čerkasų seniūnas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pas Ostrogiškį atžygia­
+    vo Slucko kunigaikštis Jurgis, kunigaikštis Fiodoras
+    Sanguška, Jurgis Radvila, Jonas bei Aleksandras Ka-
+    ributaičiai, Višnioveco kunigaikščiai, Čartorysko ku­
+    nigaikštis Aleksandras, Kijevo vaivada Andrius Nemi-
+    ravičius, Čerkasų seniūnas Eustachijus Daškevičius ir
+    655
+
+    ## Puslapis 654
+
+    daug kitų. Ostrogiškis, kuo skubiausiai su jais leidę­
+    sis į žygį, už keturių dešimčių mylių nuo Kijevo pasi­
+    vijo priešą, begrįžtantį su grobiu, ir, stojęs į kovą,
+    jį sumušė. Ši pergalė itin išgarsėjo, nes kovoje pa­
+    dėjo galvas dvidešimt keturi tūkstančiai priešų bei
+    turkų kunigaikštis Ibrahimas, paimta į nelaisvę aštuo­
+    niasdešimt tūkstančių belaisvių ir atimtas visas grobis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-062

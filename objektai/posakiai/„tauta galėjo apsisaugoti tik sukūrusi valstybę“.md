@@ -64,7 +64,7 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]

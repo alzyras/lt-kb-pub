@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Aukaimis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
@@ -10,6 +11,7 @@ tags:
   - pilis
   - vieta
 ---
+
 # Aukaimis
 
 ## Santrauka
@@ -27,6 +29,11 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio papilio sudeginimą Neilgai trukus po to tie patys Ragainės broliai užpuolė su savo valdiniais, pilėnams bemiegant, Aukaimio papilį ir jį iki pamatų sudegino; neskaitant 4 vyrų, buvusių pilyje, ir saujelės pabėgusių, visi kiti žuvo arba nuo.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad tais pačiais me tais per išdavystę buvo prarasta Aukaimio pilis.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -66,3 +73,20 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad tais pačiais me tais per išdavystę buvo prarasta Aukaimio pilis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
+    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
+    viršininkas Draika pradėjo linkti į krikščionių tikėji­
+    mą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

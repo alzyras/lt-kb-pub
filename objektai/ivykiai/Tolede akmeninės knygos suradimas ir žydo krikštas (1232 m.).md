@@ -67,5 +67,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Adomas (auksakalys)]]
-- [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
 - [[objektai/daiktai/Akmeninė knyga]]

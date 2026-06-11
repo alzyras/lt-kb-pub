@@ -97,7 +97,6 @@ Nenurodyta
 - [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

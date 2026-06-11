@@ -3,7 +3,12 @@ tipas: vieta
 pavadinimas: 'Braclavas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1449 m.'
+date_start: '1449'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -11,7 +16,10 @@ tags:
   - unija
   - valstybė
   - vieta
+amziai:
+  - 'XV'
 ---
+
 # Braclavas
 
 ## Santrauka
@@ -29,6 +37,16 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad 1449 m ela i Kol valdovas rūpinosi lieS k ila i n io k o ja Potuvių seimo reikalais, skitai do ]ę surengė niokojamą žygį į tą Podolės dalį, kurią valdė len kai, degindami ir žudydami, kas pakliuvo po ranka, ta čiau neliesdami kaimyninės Braclavo žemės, nors.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -69,3 +87,59 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Niekas taip
+    D im itru i a tid u o d a  tė-
+    stipriai nesutramdo išpuikėlio
+    v o n iją
+    širdies, kaip nesėkmė, todėl
+    ir Dimitras, ilgai kalėdamas,
+    išmoko klusnumo. Vėliau, prisiekęs visada būti ištiki­
+    mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti
+    342
+
+    ## Puslapis 341
+
+    Braclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs
+    šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad 1449 m ela i Kol valdovas rūpinosi lieS k ila i n io k o ja Potuvių seimo reikalais, skitai do ]ę surengė niokojamą žygį į tą Podolės dalį, kurią valdė len kai, degindami ir žudydami, kas pakliuvo po ranka, ta čiau neliesdami kaimyninės Braclavo žemės, nors.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl, norėdamas išvengti gink­
+    luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
+    nuvyko į Lietuvą.
+    1449 m ela i
+    Kol valdovas rūpinosi lie-
+    S k ila i
+    n io k o ja
+    Po-
+    tuvių seimo reikalais, skitai
+    do ]ę
+    surengė niokojamą žygį į tą
+    Podolės dalį, kurią valdė len­
+    kai, degindami ir žudydami, kas pakliuvo po ranka, ta­
+    čiau neliesdami kaimyninės Braclavo žemės, nors nio­
+    kotojams bei grobikams ji buvo tiesiog ranka pasiekia­
+    ma; mat Jurga, pasienio seniūnas, išsiuntęs per žygūnus
+    gausių dovanų, išpirko lietuviams priklausomas valdas
+    nuo siaubiamųjų antpuolių. Dėl to lenkai suskato iš
+    naujo įtarinėti: teigė, kad lietuviai ir karalius kalti dėl
+    Podolės nuniokojimo, kad nesą jokių abejonių, jog ne
+    be karaliaus žinios lietuviai sukurstė skitus prieš len­
+    kus, nes jis mat nepritarė nė vienam jų sumanymui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

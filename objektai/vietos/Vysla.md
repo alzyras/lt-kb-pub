@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vysla'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -164,6 +165,11 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   pagrindžia:
     - c-011
+
+- t-029
+  teiginys: 'Kojelavičius teigia, kad norėdamas palengvinti nuniokotos tėvynės dalią, Jogaila įsakė pakrauti visokiais grūdais dvidešimt di delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa sienį, o iš ten pasieniu vežimais nugabenti viską į Lie tuvą.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 
@@ -571,3 +577,23 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-028
     - t-011
+
+- c-022
+  santrauka: 'Kojelavičius teigia, kad norėdamas palengvinti nuniokotos tėvynės dalią, Jogaila įsakė pakrauti visokiais grūdais dvidešimt di delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa sienį, o iš ten pasieniu vežimais nugabenti viską į Lie tuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lietuva juto baisią maisto sto­
+    ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
+    Jogaila įsakė pakrauti visokiais grūdais dvidešimt di­
+    delių laivų ir pasroviui Vysla nuplukdyti į Prūsijos pa­
+    sienį, o iš ten pasieniu vežimais nugabenti viską į Lie­
+    tuvą. Užgrobę visus grūdus,
+    J ie  su daro k elia s pro-
+    gabenamus Vysla, kryžiuočiai
+    gas karu i
+    juos išsivežė kitur.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-029

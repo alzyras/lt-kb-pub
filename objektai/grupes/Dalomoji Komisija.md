@@ -127,4 +127,5 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Edukacinė Komisija]]

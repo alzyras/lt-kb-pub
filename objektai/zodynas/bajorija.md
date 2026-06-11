@@ -91,6 +91,7 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]
 - [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]
 - [[objektai/zodynas/Riterių luomas]]
+- [[objektai/paprociai/Skitų belaisvių tarnybos ir pragyvenimo praktikos Lietuvoje]]
 - [[objektai/asmenys/Stanislovas Leščinskis]]
 - [[objektai/posakiai/Tegyvuoja gegužės 3 d. konstitucija!]]
 - [[objektai/grupes/Valkininkų konfederacija]]

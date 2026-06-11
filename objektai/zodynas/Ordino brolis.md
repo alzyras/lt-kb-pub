@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'Ordino brolis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -9,6 +10,7 @@ tags:
   - ordinas
   - sąvoka
 ---
+
 # Ordino brolis
 
 ## Santrauka
@@ -21,6 +23,11 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
   teiginys: 'Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -47,24 +54,24 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/P. von]]
-- [[objektai/asmenys/Pelužis]]
-- [[objektai/asmenys/Petras Atsiskyrėlis]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]]
-- [[objektai/ivykiai/Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas|Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas (miestas)]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]
-- [[objektai/asmenys/Heidenreichas|Heidenreichas (vyskupas, XIII–XIV a.)]]
-- [[objektai/asmenys/Jonas iš Endorfo]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
-- [[objektai/zodynas/magistro kapelionas]]
-- [[objektai/zodynas/mišparai]]
-- [[objektai/zodynas/oktava]]
-- [[objektai/zodynas/pilėnas pilėnai]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taigi pasitrau-
+    d in a m i
+    ku ršin in k a is,
+    kę ir atsimetę nuo krikščio-
+    Tada, vienoje pusėje padaugėjus jėgų, kitoje — su­
+    mažėjus, prasidėjo
+    kova: tame mūšyje Livonijos
+    kariuomenė buvo žiauriai sutriuškinta. Žuvo tada
+    pats Livonijos magistras, Prūsijos maršalas Henrikas
+    Botelis ir šimtas penkiasdešimt ordino riterių, papras­
+    tai vadinamų broliais. O kiek žuvo paprastųjų karių,
+    neįmanoma nė suskaičiuoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

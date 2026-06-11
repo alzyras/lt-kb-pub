@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vitebskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -10,6 +11,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1307 m.'
+  - '1470 m.'
   - '1930 m.'
   - '2026 m.'
 date_start: '1307'
@@ -247,6 +249,21 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   teiginys: 'Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo.'
   pagrindžia:
     - c-036
+
+- t-046
+  teiginys: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  pagrindžia:
+    - c-037
+
+- t-047
+  teiginys: 'Kojelavičius teigia, kad smolenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė buvo nuvesta į Vitebską.'
+  pagrindžia:
+    - c-038
+
+- t-048
+  teiginys: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  pagrindžia:
+    - c-039
 
 ## Reikšmingi paminėjimai
 
@@ -901,3 +918,90 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   statusas: verified
   pagrindžia:
     - t-045
+
+- c-037
+  santrauka: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių. Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-046
+
+- c-038
+  santrauka: 'Kojelavičius teigia, kad smolenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė buvo nuvesta į Vitebską.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taip pat ir Jurijus Svia-
+    toslavovičius, Smolensko valdovas, nors ir elgėsi kaip
+    neabejotinas priešas, kol Vytautas dar nebuvo atvykęs,
+    tačiau, išsigandęs atvykusios kariuomenės, užslėpė ne­
+    draugiškus jausmus ir prijungė, puoselėdamas tam tik­
+    rus sumanymus, savo karines jėgas prie Vytauto. Smo-
+    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
+    buvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-047
+
+- c-039
+  santrauka: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žiemos viduryje ap­
+    lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
+    popiežiaus ir imperatoriaus įsikišimas. Mat popiežius,
+    priekaištingai
+    tvirtindamas, kad Vladislovas kol kas
+    niekuo nenusipelnęs tikėjimui, o Motiejus didžiai nu­
+    sipelnęs, atvirai rėmė Motiejų, rodydamas jam palan­
+    kumą. Tiesą sakant, turint galvoje tikėjimo reikalus,
+    negalima buvo nė dvejoti, kad Čekijai reikalingas toks
+    karalius, kuris, pagarsėjęs karo žygiais, nepriklausytų
+    nuo sektantų malonės, kaip dabar galima buvo tikė­
+    tis, ir pastoviai remtų bažnyčią, vis dėlto Kazimieras
+    jautėsi įžeistas, kad šiuo atveju žiūrima nuopelnų, ne­
+    lyginant būtų visiškai abejotinos teisės, kurias turėjo
+    jo vaikai dėl kilmės bei įpėdinystės. Tuo tarpu impe­
+    ratorius Fridrichas papiršo į Vladislovo žmonas savo
+    dukterį Kunegundą, o savo sūnui Maksimilijonui pa­
+    prašė Kazimiero dukters Jadvygos rankos, norėdamas
+    šia dviguba santuoka sustiprinti sąjungą ir, nušalinus
+    1470 m eta i
+    P o p iežiu s ii im p e r a to ­
+    rius p riešin a si
+    tvarkė taikos bei karo rei­
+    kalus, o išaušus pavasariui,
+    sugrįžo į Lenkiją ir vėl įniko
+    į Čekijos reikalus, kuriuos
+    sėkmingai užbaigti sutrukdė
+    520
+
+    ## Puslapis 519
+
+    Motiejų ir Jurgį, bendromis pastangomis bei jungtinė­
+    mis karo jėgomis suteikti Čekijos sostą Vladislovui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-048

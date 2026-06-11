@@ -129,6 +129,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Arabai]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vyskupystė]]

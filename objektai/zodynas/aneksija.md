@@ -151,6 +151,7 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/asmenys/Jurgis Šaulys]]

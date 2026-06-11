@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'Dusburgas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -22,6 +23,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Dusburgas
 
 ## Santrauka
@@ -33,6 +35,15 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - šiame fragmente konkretus kūrinio pavadinimas nenurodomas
 - minimos kronikos apie lietuvius
 - Prūsijos žemės kronika
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Galindai]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
+- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
 
 ## Teiginiai
 
@@ -120,6 +131,11 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   teiginys: 'Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo ir miestiečių prašymu pasiuntė į Livoniją du legatus.'
   pagrindžia:
     - c-009
+
+- t-018
+  teiginys: 'Kojelavičius teigia, kad jis pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui, tu rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis šimtmečius surašytame veikale Petras iš Dusburgo, Li vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų laikų nei mūsų.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -381,69 +397,24 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Galindai]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
-- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/autoriai/Hartknochas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas Lichtenhagenas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
-- [[objektai/zodynas/Ordino brolis]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/papilys]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
-- [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]
-- [[objektai/posakiai/Baigėsi karas su prūsais. Prasidėjo karas su lietuviais]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Eberhardas de Virnemburgas]]
-- [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]
-- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
-- [[objektai/autoriai/Henrikas Latvis]]
-- [[objektai/autoriai/Hermanas iš Vartbergės]]
-- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
-- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
-- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
-- [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]
-- [[objektai/zodynas/Papilys suburbium]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
-- [[objektai/zodynas/Prūsijos žemė]]
-- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]
-- [[objektai/daiktai/Prūsijos žemės kronikos nuorašai]]
-- [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
-- [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
-- [[objektai/ivykiai/Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)]]
-- [[objektai/ivykiai/Torunės miesto perkėlimas ir naujos pilies statybos pradžia (1236 m.)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
-- [[objektai/autoriai/Vygandas iš Marburgo]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/kankinių vainikai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
-- [[objektai/zodynas/tikybos ir bažnyčios priešai]]
-- [[objektai/zodynas/viešpaties darbas opus domini]]
-- [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
-- [[objektai/zodynas/viešpaties karas]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]
+- c-014
+  santrauka: 'Kojelavičius teigia, kad jis pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui, tu rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis šimtmečius surašytame veikale Petras iš Dusburgo, Li vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų laikų nei mūsų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Daug kartų iš naujo
+    imdavo garbinti stabus tie, kurių šeimoms pradžią yra
+    davę herulų, gepidų, gotų ar langobardų likučiai, Šie
+    paveldėtus prietarus perduodavo vėlesnėms kartoms.
+    Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
+    tuvoje daugelio dievų garbinimo: senąsias apeigas jis
+    dargi papildė naujais prietarais. Jis pirmąją Lietuvos
+    sodybą Romanovą paskyrė vyriausiajam žyniui, tu­
+    rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis
+    šimtmečius surašytame veikale Petras iš Dusburgo, Li­
+    vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
+    laikų nei mūsų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-018

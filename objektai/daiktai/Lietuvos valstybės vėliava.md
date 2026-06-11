@@ -79,4 +79,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/daiktai/Lietuvos herbas Vytis]]

@@ -42,5 +42,6 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/zodynas/arkebuzieriai]]
 - [[objektai/zodynas/muškietininkai]]

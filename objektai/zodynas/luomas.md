@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'luomas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -28,6 +29,23 @@ amziai:
 Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas. Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų, savivalda.
 
 Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestiečių socialinę padėtį: miestiečių luomas pristatomas kaip vėlai susiformavęs, silpnai įsitvirtinęs ir tik atskirais laikotarpiais įgijęs platesnes politines teises.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/autoriai/K. Avižonis]]
+- [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/zodynas/nobilitetas]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės (pilis)]]
+- [[objektai/zodynas/privilegija lex privata|privilegija lex privata (privilegija)]]
+- [[objektai/zodynas/rūmininkas vyno pilstytojas]]
 
 ## Teiginiai
 
@@ -60,6 +78,46 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginys: 'Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.'
   pagrindžia:
     - c-001
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klausimą, gal norėdamas turėti laiko pasitarti, karalius atsakė, kad jis viešpataująs valstybėje, kurio je svarbiais reikalais nieko negalįs nutarti be luomų pritarimo.'
+  pagrindžia:
+    - c-007
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje.'
+  pagrindžia:
+    - c-008
+
+- t-010
+  teiginys: 'Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.'
+  pagrindžia:
+    - c-009
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad kai karalius bei luomai nuspren dė atverti Vytautui kitokias perspektyvas ir pasiūlyti jam Lenkijos karalystės vainiką, pasiuntinybės vadovas, pasak metraštininkų, prabilo šitokiais žodžiais.'
+  pagrindžia:
+    - c-010
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad priėmęs luomų priesaiką, kuria šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė visus varžovų užmojus, šitaip greitai sutvarkydamas šį reikalą.'
+  pagrindžia:
+    - c-011
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto vai buvo priėmę Piotrkove.'
+  pagrindžia:
+    - c-012
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad n o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija.'
+  pagrindžia:
+    - c-013
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -204,95 +262,171 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   pagrindžia:
     - t-007
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/autoriai/K. Avižonis]]
-- [[objektai/posakiai/Kad tik be arklio nebūtų]]
-- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/grupes/Miestelėnų luomas]]
-- [[objektai/zodynas/nobilitetas]]
-- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
-- [[objektai/zodynas/privilegija lex privata]]
-- [[objektai/zodynas/rūmininkas vyno pilstytojas]]
-- [[objektai/zodynas/Czopowe]]
-- [[objektai/daiktai/Herbai]]
-- [[objektai/asmenys/Radvila (maršalka)]]
-- [[objektai/zodynas/Szosowe]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]
-- [[objektai/asmenys/Abraomas Kulvietis]]
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/zodynas/Bajorų respublika liberum veto]]
-- [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
-- [[objektai/zodynas/Dvarų bernai]]
-- [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
-- [[objektai/asmenys/Glapas]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/autoriai/Jacobas Schrenckas]]
-- [[objektai/asmenys/Jeronimas Opachovskis]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jonas Jurgeravičius]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/grupes/Ketverių metų seimas]]
-- [[objektai/autoriai/Kosman М]]
-- [[objektai/ivykiai/Kryžiaus karai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kuorai]]
-- [[objektai/autoriai/Kučinskas A]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/zodynas/Magdeburgo teisė]]
-- [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
-- [[objektai/grupes/Miestiečiai ir valstiečiai]]
-- [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/asmenys/Mikalojus Sachovskis]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]
-- [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]
-- [[objektai/asmenys/Paulius Rusdorfas]]
-- [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
-- [[objektai/zodynas/Riterių luomas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Sofija Šimonova]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
-- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo laisvės ir municipalinių reikalų tvarkymas]]
-- [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
-- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose]]
-- [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
-- [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
-- [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
-- [[objektai/zodynas/bajorų tauta politinė lietuvių tauta]]
-- [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/fundacija]]
-- [[objektai/zodynas/karčema smuklininkas gėrimų pilstymas]]
-- [[objektai/zodynas/krivis krivė krivaitis]]
-- [[objektai/zodynas/leno teisė]]
-- [[objektai/zodynas/leno teisė feodas luominė monarchija]]
-- [[objektai/zodynas/miestiečių luomas]]
-- [[objektai/zodynas/miesto magistrato pareigybės]]
-- [[objektai/zodynas/muitas thelonea]]
-- [[objektai/zodynas/municipalinės laisvės miestiečių luomas]]
-- [[objektai/zodynas/naujakrikštis]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Jogailaičiai]]
-- [[objektai/asmenys/Jekaterina II]]
-- [[objektai/paprociai/Testamento vykdytojų pareiga padalyti turtą pagal testatoriaus valią]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad gal vengdamas aiškaus atsakymo į kry žiuočių klausimą, gal norėdamas turėti laiko pasitarti, karalius atsakė, kad jis viešpataująs valstybėje, kurio je svarbiais reikalais nieko negalįs nutarti be luomų pritarimo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šitaip paprastai esti, kai vienoje
+    valstybėje gyvena skirtingos tautos, tada kiekvienai
+    rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti
+    krašto reikalus taip, kad nuostolių turėtų kita tauta,
+    o ne ji pati. Gal vengdamas aiškaus atsakymo į kry­
+    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
+    373
+
+    ## Puslapis 372
+
+    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
+    je svarbiais reikalais nieko negalįs nutarti be luomų
+    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad visi Lietuvos iuvoje bažnyčios tarnai, jų valdos ir pačias privilegijas, kokias šiuo metu turi šio luomo žmo nės Lenkijoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Visi Lietuvos
+    iuvoje
+    bažnyčios tarnai, jų valdos ir
+    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
+    nės Lenkijoje. Valdovas gali skirti į aukštąsias bei vie­
+    šąsias pareigybes tik Romos tikėjimo žmones, iš tų vie­
+    tų turi būti šalinami ne tik stabmeldžiai, bet ir krik­
+    ščionys, išsižadėję paklusti Romos popiežiui. Bajorų
+    luomui pripažintos lengvatos negali būti teikiamos
+    tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
+    paklusnumo popiežiui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad luomų susirinkime jie trumpai, bet aiškiai išdėstė val dovo reikalavimus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus. Vytautas,
+    Vytauto pasiuntinybė
+    kaip laisvos tautos laisvas
+    valdovas, o ne dėl to, kad
+    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
+    karalius bei karalystės luomai pritartų jo vainikavimui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad kai karalius bei luomai nuspren dė atverti Vytautui kitokias perspektyvas ir pasiūlyti jam Lenkijos karalystės vainiką, pasiuntinybės vadovas, pasak metraštininkų, prabilo šitokiais žodžiais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Beje, ir Jogaila, smarkiai pasenęs ir su­
+    vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
+    jis gali pakelti, be to, turėdamas mažametį ir negalintį
+    valdyti sūnų, ne taip jau labai būgštavo, kad Vytautas
+    tapsiąs jo įpėdiniu, guosdamasis viltimi, jog šis nebe-
+    susilauksiąs įpėdinių. Kai karalius bei luomai nuspren­
+    dė atverti Vytautui kitokias perspektyvas ir pasiūlyti
+    jam Lenkijos karalystės vainiką, pasiuntinybės vadovas,
+    pasak metraštininkų, prabilo šitokiais žodžiais. Lenkai
+    gerai žiną, jog Vytauto tikslas — vienaip ar kitaip gauti
+    karaliaus vardą bei karūną, todėl lenkų valstybės luo­
+    mų seimas nutaręs pasiūlyti jam vainiką, kurį pasiėmęs
+    jis nepadarysiąs jokios žalos valstybei ir patenkinsiąs
+    didžiai iškilnius savo siekius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad priėmęs luomų priesaiką, kuria šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė visus varžovų užmojus, šitaip greitai sutvarkydamas šį reikalą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Breste Kazi­
+    miero laukė gausybė žymiau-
+    P riėm ęs B reste lu o m ų
+    šiųjų didikų, ypač tie, kurie
+    priesaiką, p a ly d im a s  į
+    save kildino iš Lietuvos di-
+    V ilnių
+    džiųjų kunigaikščių, kaip Al-
+    gimantaičiai,
+    Daumantaičiai,
+    Manvydaičiai, Sanguškaičiai, Kaributaičiai, Karijotaičiai
+    ir kiti. Pasitikę Kazimierą, jie rodė nepaprastą džiaugsmą,
+    pagarbą bei palankumą. Priėmęs luomų priesaiką, kuria
+    šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
+    visus varžovų užmojus, šitaip greitai sutvarkydamas šį
+    reikalą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad jis pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto vai buvo priėmę Piotrkove.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu Aleksandras, didžiai rūpindama­
+    sis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­
+    kvos grėsmės. Jis pasiūlė lietuvių luomams Vilniaus
+    seime aptarti ir patvirtinti nutarimus, kuriuos jo atsto­
+    vai buvo priėmę Piotrkove. Padarė taip, kaip siūlė ku­
+    nigaikštis: nutarimus įtraukė į valstybinius dokumen­
+    tus, kuriuos, pasirašius didikams, atidavė saugoti vals­
+    tybės archyvui, šitaip buvo patvirtinta senoji sąjunga
+    su lenkais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad n o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    L ietuviai, su šau k ę B reste lu o ­
+    m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
+    kosi len k ų  seim as. P asiu n tin iai tu rė jo  p areik šti štai ką.
+    N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­
+    tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
+    gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­
+    rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
+    u n ijo s p ag rin d ais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad k ad iš esm ės n iek o n eb u v o su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u v o u žd rau sta b et k ą spręsti, ir jie tu rė jo ap ie v isk ą p ra n ešti luom am s, susirinkusiem s į B resto seim ą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    K okį atsak y m ą
+    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
+    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
+    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
+    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
+    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
+    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
+    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
+    džiosios K unig aik šty stės sienos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015

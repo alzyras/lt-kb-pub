@@ -61,9 +61,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Soltanas]]
 - [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

@@ -195,6 +195,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/atamanas]]
+- [[objektai/zodynas/luomas]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/autoriai/St. Krakowski]]

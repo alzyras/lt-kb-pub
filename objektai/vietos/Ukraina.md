@@ -3,11 +3,13 @@ tipas: vieta
 pavadinimas: 'Ukraina'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1434 m.'
+  - '1648 m.'
   - '2026 m.'
 date_start: '1434'
 date_end: '2026'
@@ -76,6 +78,11 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginys: 'Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas ir didžiausias kazokų priešas.'
   pagrindžia:
     - c-009
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -234,3 +241,27 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   statusas: verified
   pagrindžia:
     - t-011
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
+    navo Ukrainos prijungimą prie Lenkijos, pripažino ka­
+    ralių ir bendrą seimą jungtinės valstybės suverenu,
+    užtikrino žemės nuosavybės ir žemėvaldos teisę tik
+    šlėktų luomo nariams, o politines teises — tik federa­
+    ciją sudarantiems indigenams, o šitai konservavo bau­
+    džiavą, kliudė prekiniams ir piniginiams santykiams
+    plėstis, miestams stiprėti ir tuo pačiu lietuvių, baltaru­
+    sių ir ukrainiečių tautybėms tapti tautomis (nacijomis).
+    Kai 1648 m. Bogdano Chmelnickio vadovaujami suki­
+    lę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti
+    savo valstybę, Lietuvos ir Lenkijos feodalai su šlėk­
+    tomis slopino juos, panaudodami ne tik jungtinės vals­
+    tybės, bet ir savo valdų privačią kariuomenę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012

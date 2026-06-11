@@ -133,6 +133,7 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/nobilitetas]]
 - [[objektai/zodynas/unija]]

@@ -58,4 +58,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/senatas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

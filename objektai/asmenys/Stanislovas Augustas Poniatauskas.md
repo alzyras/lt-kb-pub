@@ -158,9 +158,11 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Kotryna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/grupes/Čartoriskiai]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/Lietuvos didysis kunigaikštis]]
+- [[objektai/zodynas/didysis kunigaikštis]]

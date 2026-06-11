@@ -61,4 +61,5 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/santvarka]]

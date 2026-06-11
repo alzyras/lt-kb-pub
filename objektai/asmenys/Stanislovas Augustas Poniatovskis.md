@@ -200,6 +200,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]

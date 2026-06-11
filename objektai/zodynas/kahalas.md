@@ -95,7 +95,7 @@ amziai:
 - [[objektai/asmenys/Laurynas Volskis]]
 - [[objektai/asmenys/Mauricijus]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/asmenys/Stanislovas Goreckis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Uršulė]]

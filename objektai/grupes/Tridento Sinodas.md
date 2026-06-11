@@ -91,5 +91,5 @@ tags:
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

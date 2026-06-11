@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Rastenburgas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1347 m.'
@@ -19,6 +20,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Rastenburgas
 
 ## Santrauka
@@ -36,6 +38,11 @@ amziai:
   teiginys: 'Rastenburgo pilis buvo įkurta 1345 m.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad medžiodamas jis pats kartą vos nepakliuvo į kryžiuočių K araliu s išv e n g ia rankas, tik narsi jo palyda k ry ž iu o č ių pasalų vargais negalais išgelbėjo valdovą nuo pasalų, kurias surengė Rastenburgo komtūras vienoje tam reikalui tinkamoje vietoje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -74,3 +81,29 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad medžiodamas jis pats kartą vos nepakliuvo į kryžiuočių K araliu s išv e n g ia rankas, tik narsi jo palyda k ry ž iu o č ių pasalų vargais negalais išgelbėjo valdovą nuo pasalų, kurias surengė Rastenburgo komtūras vienoje tam reikalui tinkamoje vietoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasibai­
+    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
+    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
+    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
+    vos nepakliuvo į kryžiuočių
+    K araliu s
+    išv e n g ia
+    rankas, tik narsi jo palyda
+    k ry ž iu o č ių  pasalų
+    vargais
+    negalais
+    išgelbėjo
+    valdovą nuo pasalų, kurias
+    surengė Rastenburgo komtūras vienoje tam reikalui
+    tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
+    ir siaubė viską, kas pakliuvo po ranka.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

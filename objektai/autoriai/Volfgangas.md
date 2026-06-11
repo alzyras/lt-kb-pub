@@ -64,4 +64,6 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
 ### Susiję objektai
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/metrika]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)]]
 - [[objektai/grupes/Vokiečių amatininkai Vilniuje]]

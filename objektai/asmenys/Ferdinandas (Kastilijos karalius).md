@@ -59,11 +59,6 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Saracėnai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/marobortinai]]
-- [[objektai/daiktai/Akmeninė knyga]]
-- [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]
-- [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
-- [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]
-- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
-- [[objektai/posakiai/„Lithuania Propria“]]
 - [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]

@@ -59,7 +59,6 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Povilas Plechavičius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/generaliniai tarėjai]]

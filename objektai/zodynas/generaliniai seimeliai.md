@@ -68,5 +68,6 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos]]
 - [[objektai/grupes/Provincijų sesijos]]

@@ -46,4 +46,5 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
 ### Susiję objektai
 - [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas (institucija)]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/autoriai/Karolis Zikaras]]

@@ -57,5 +57,5 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]

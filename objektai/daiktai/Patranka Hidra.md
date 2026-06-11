@@ -67,5 +67,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Patrankos]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]

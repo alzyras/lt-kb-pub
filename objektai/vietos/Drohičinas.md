@@ -3,12 +3,14 @@ tipas: vieta
 pavadinimas: 'Drohičinas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1440 m.'
   - '1444 m.'
   - '2026 m.'
-date_start: '1444'
+date_start: '1440'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
@@ -19,6 +21,7 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
+
 # Drohičinas
 
 ## Santrauka
@@ -71,6 +74,16 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginys: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
   pagrindžia:
     - c-007
+
+- t-010
+  teiginys: 'Kojelavičius teigia, kad iš pradžių nuve dė kariuomenę prie Drohičino; sutikęs čia stiprų pasi priešinimą, ėmė veržliais antJo g a ila atsiim a iš puoliais kamuoti gynėjus, M a z o v ijo s P o lek siją ypač po to, kai Sašinas, ku nigaikščio rūmų maršalas, prasiskynė kelią per.'
+  pagrindžia:
+    - c-008
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -203,3 +216,76 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   statusas: verified
   pagrindžia:
     - t-009
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad iš pradžių nuve dė kariuomenę prie Drohičino; sutikęs čia stiprų pasi priešinimą, ėmė veržliais antJo g a ila atsiim a iš puoliais kamuoti gynėjus, M a z o v ijo s P o lek siją ypač po to, kai Sašinas, ku nigaikščio rūmų maršalas, prasiskynė kelią per.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš pradžių nuve­
+    dė kariuomenę prie Drohičino; sutikęs čia stiprų pasi­
+    priešinimą, ėmė veržliais ant-
+    Jo g a ila
+    atsiim a
+    iš
+    puoliais
+    kamuoti
+    gynėjus,
+    M a z o v ijo s  P o lek siją
+    ypač po to, kai Sašinas, ku­
+    nigaikščio
+    rūmų
+    maršalas,
+    prasiskynė kelią per užpuolėjų eiles ir su šimtine rai­
+    telių, ginkluotų ietimis bei arbaletais, prasiveržė į pilį.
+    Vėliau, kai išdavė kurie ne kurie rusai, kai, iš karto
+    padegus keliose vietose pastatus, gynėjai risidūrė tarp
+    plintančios gaisro ugnies ir smarkiai puolančių įtvir­
+    tinimus lietuvių, narsusis vyras, nebepajėgdamas spir­
+    tis dvigubam pavojui, atidavė Jogailai apdegusią pilį,
+    tai, ko nesunaikino gaisras ir priešas. Praėjus kelioms
+    dienoms, pasidavė Suražas, vėliau po staigaus antpuolio
+    275
+
+    ## Puslapis 274
+
+    užėmė Melniką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad užpuolęs Palenkę, Boleslovas, Mazovijos kunigaikštis, užėmė Melniką, Belską ir Drohičiną.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kurie, prisi-
+    džiovinę medžių lapų ir juos
+    sutrynę, kepėsi duonos, tie
+    tarėsi prabangiai besimaitiną,
+
+    ## Puslapis 465
+
+    P e n k t a  k n y g a
+    APIE LIETUVIŲ PRAEITĮ,
+    KAI VALDE KAZIMIERAS II JOGAILAITIS
+    1440 m eta i
+    M a z o v ijo s
+    k u n ig a i­
+    kštis užim a
+    P a len kę
+    Nužudžius Žygimantą, ra­
+    dosi daugybė priežasčių, ga­
+    linčių sukelti neramumus val­
+    stybės viduje ir už jos ribų.
+    Užpuolęs Palenkę, Boleslovas,
+    Mazovijos kunigaikštis, užėmė Melniką, Belską ir Dro-
+    hičiną. Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
+    to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni
+    pritardami naujajam valdovui, o kiti jam priešindamie­
+    si.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

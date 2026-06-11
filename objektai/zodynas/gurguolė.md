@@ -2,13 +2,16 @@
 tipas: zodyno_irasas
 pavadinimas: 'gurguolė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1301 m.'
   - '1389 m.'
-date_start: '1389'
-date_end: ''
+  - '1489 m.'
+date_start: '1301'
+date_end: '1489'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -18,12 +21,28 @@ tags:
   - valdovas
 amziai:
   - 'XIV'
+  - 'XV'
 ---
+
 # gurguolė
 
 ## Santrauka
 
 Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis grandinėmis, patrankas, patrankėles, arbaletus ir daug turto.
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/daiktai/Kablinis šautuvas]]
+- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]
+- [[objektai/asmenys/S. Mickevičius]]
 
 ## Teiginiai
 
@@ -41,6 +60,31 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   teiginys: 'Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.'
   pagrindžia:
     - c-001
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad nusiaubę Kulmo kraš tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi somis jėgomis ėmus juos pulti, neišdrįso atvirai pra dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir gurguoles, išsislapstė.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad jeigu, metę gurguoles, leistųsi netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė, ir dėl to, kad lenkams, užgrobusiems stovyklą ir paėmusiems visą grobį, nebūtų buvę saugu miškais vy tis bėgantį.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad greitosiomis sutelktas len kų būrys pasivijo besitrau- 1301 m e ta i kiančius lietuvius ir, tikėda masis atsiimti grobį, smarkiai užpuolė ariergardą, nedelsdamas nė valandėlės; ka dangi ten susidūrė su geriausiais kariuomenės daliniais, o visos gurguolės buvo.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad todėl, kol dar karių drąsa rodėsi nepalaužta, jie įsakė trimituoti po visą kovos lauką, duodami ka riams ženklą trauktis kovos rikiuotėje bei nesuirusioms gretoms atitrūkti nuo priešo, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško.'
+  pagrindžia:
+    - c-007
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad gurguolės, saugomos nedidelio būrio, lėtai slinko iš paskos.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -119,36 +163,143 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/transportas]]
+- c-004
+  santrauka: 'Kojelavičius teigia, kad nusiaubę Kulmo kraš tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi somis jėgomis ėmus juos pulti, neišdrįso atvirai pra dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir gurguoles, išsislapstė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų. Nusiaubę Kulmo kraš­
+    tą, Sūduvos prūsai kartu su žemaičiais, atėjusiais į pa­
+    galbą, sustojo prie Liubavos, tačiau, kryžiuočiams vi­
+    somis jėgomis ėmus juos pulti, neišdrįso atvirai pra­
+    dėti mūšio ir, be tvarkos pabėgę, palikę stovyklą ir
+    gurguoles, išsislapstė artimiausiuose miškuose. Kry­
+    žiuočių riteriai, džiaugdamie­
+    si nekruvina pergale, tuojau
+    pat be jokios tvarkos išsi­
+    sklaidė grobio ieškoti ir sto­
+    vyklos plėšti; jie puolė, ne­
+    pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
+    ir apskritai elgėsi, nelyginant bet koks pavojus būtų
+    praėjęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
 
-### Susiję objektai
-- [[objektai/asmenys/Dobrogostas]]
-- [[objektai/daiktai/Kablinis šautuvas]]
-- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]
-- [[objektai/asmenys/S. Mickevičius]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/grupes/Pomeranai]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
-- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
-- [[objektai/asmenys/Druzigeris]]
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
-- [[objektai/asmenys/Kopčius]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Mietas]]
-- [[objektai/asmenys/Sudimantas]]
-- [[objektai/zodynas/kolektyvizacija]]
-- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad jeigu, metę gurguoles, leistųsi netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė, ir dėl to, kad lenkams, užgrobusiems stovyklą ir paėmusiems visą grobį, nebūtų buvę saugu miškais vy tis bėgantį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Antra vertus, stovykla, pilna grobio,
+    L enkai rengiasi p u lti
+    lie tu v iu s
+    mą dievo malone
+    (didžiai
+    drąsinančia ir stiprinančia),
+    jis įsakė prieš mūšį kiekvie­
+    nam — kaip
+    dera krikščio-
+    155
+
+    ## Puslapis 154
+
+    belaisvių ir paliegėlių, neleido taip greitai trauktis,
+    kad galima būtų per kelias valandas atsiplėšti nuo
+    spaudžiančio priešo. Jeigu, metę gurguoles, leistųsi
+    netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų
+    ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė,
+    ir dėl to, kad lenkams, užgrobusiems stovyklą ir pa-
+    ėmusiems visą grobį, nebūtų buvę saugu miškais vy­
+    tis bėgantį priešą. Jie žinojo atsidūrę didžiulės negar­
+    bės akivaizdoje, juos prislėgė ne tiek skausmas, kad
+    praras grobį, kiek baimė ir gėda prieš savo krašto
+    žmones.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad greitosiomis sutelktas len kų būrys pasivijo besitrau- 1301 m e ta i kiančius lietuvius ir, tikėda masis atsiimti grobį, smarkiai užpuolė ariergardą, nedelsdamas nė valandėlės; ka dangi ten susidūrė su geriausiais kariuomenės daliniais, o visos gurguolės buvo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Bendras sąjungininkų pralai­
+    mėjimas būtų palietęs ir Kulmo žemę, jeigu smarkiai
+    patvinusi Drevanta nebūtų sutrukdžiusi grobiu apsikro­
+    vusiems kariams persikelti. Greitosiomis sutelktas len­
+    kų būrys pasivijo besitrau-
+    1301 m e ta i
+    kiančius lietuvius ir, tikėda­
+    masis atsiimti grobį, smarkiai
+    užpuolė ariergardą, nedelsdamas nė valandėlės; ka­
+    dangi ten susidūrė su geriausiais kariuomenės daliniais,
+    o visos gurguolės buvo nuvarytos į priekį, jie nedrįso
+    bandyti laimės tikrose kautynėse ir davė trimitu ženk­
+    lą trauktis. Lengva sėkmė sužadino troškimą dar dau­
+    giau pasiplėšti, šį jausmą kareiviams visada sunku su­
+    tramdyti, o ypač po sėkmingo žygio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad todėl, kol dar karių drąsa rodėsi nepalaužta, jie įsakė trimituoti po visą kovos lauką, duodami ka riams ženklą trauktis kovos rikiuotėje bei nesuirusioms gretoms atitrūkti nuo priešo, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gal ir buvo pamato tikėtis pergalės, tačiau Kęstutis
+    bei Algirdas nenorėjo puoselėti abejotinų vilčių: abu
+    gerokai nuogąstavo, kad jų kariuomenė, ne tokia gau­
+    si ir ne taip gerai ginkluota (be to, smarkiai kovų iš­
+    sekinta), ilgainiui neprarastų drąsos ir nepasileistų
+    bėgti. Todėl, kol dar karių drąsa rodėsi nepalaužta, jie
+    įsakė trimituoti po visą kovos lauką, duodami ka­
+    riams ženklą trauktis kovos rikiuotėje bei nesuirusioms
+    gretoms atitrūkti nuo priešo, susirinkti prie gurguolių
+    ir žygiuoti prie artimiausio miško. Užėmęs kovos lau­
+    ką, priešas džiaugėsi, tardamasis pasiekęs pergalę, tie­
+    sa, gana kruviną; jie čia ir sustojo, be vado nedrįsdami
+    toliau žygiuoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad gurguolės, saugomos nedidelio būrio, lėtai slinko iš paskos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kunigaikštis Jonas
+    Olbrachtas, uoliai vykdyda-
+    1489 m eta i
+    mas, kas buvo tėvo nurodyta,
+    K u n ig a ik štis
+    J o n a s
+    greitai sutelkė Rusioje ir Lie-
+    O lb ia c h ta s
+    sum u ša
+    tuvoje kariuomenę ir, patrau-
+    sk itu s
+    kęs į priekį su ryžtingiausiais
+    vyrais, prie Savranės upės at­
+    virame lauke susikovė su priešu. Gurguolės, saugomos
+    nedidelio būrio, lėtai slinko iš paskos. Kovos pradžia
+    buvo gana sunki, nes, neprasidėjus tikroms kautynėms,
+    skitai iš tolo juos apšaudė strėlėmis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008

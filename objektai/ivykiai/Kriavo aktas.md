@@ -74,7 +74,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/grupes/Krymo totoriai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/seniūnas]]

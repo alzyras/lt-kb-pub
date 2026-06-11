@@ -134,6 +134,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/zodynas/Czopowe]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/zodynas/Szosowe]]
@@ -141,8 +142,8 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Vilniaus pirkliai]]

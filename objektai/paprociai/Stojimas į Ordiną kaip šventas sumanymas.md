@@ -99,6 +99,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
 - [[objektai/zodynas/šventas sumanymas]]

@@ -95,4 +95,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]

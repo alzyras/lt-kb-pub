@@ -57,3 +57,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Varpai]]
+- [[objektai/zodynas/globėjas]]

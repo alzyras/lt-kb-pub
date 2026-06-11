@@ -97,4 +97,5 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Landsbergis]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Fransua Miteranas]]

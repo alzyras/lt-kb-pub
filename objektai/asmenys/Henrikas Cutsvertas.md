@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Henrikas Cutsvertas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1200 m.'
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'viduramžiai'
 ---
+
 # Henrikas Cutsvertas
 
 ## Santrauka
@@ -51,6 +53,11 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
   teiginys: 'Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus.'
   pagrindžia:
     - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -134,19 +141,35 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]
+- c-006
+  santrauka: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasivijęs jį, atsitraukiantį su dideliu grobiu,
+    Jazbutas įniko persekioti už-
+    N u žu d o m a s
+    lie tu v ių
+    pakaimę vorą, kuriai tuomet
+    k u n ig a ik štis J a zb u ta s
+    vadovavo Henrikas Cutsver-
+    tas. Šį išvydęs, Jazbutas, su
+    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
+    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
+    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
+    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
+    Susidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­
+    nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
+    lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
+    m
+
+    ## Puslapis 165
+
+    bijodami patekti j pasalas, vengė nutolti nuo stovyk­
+    los) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­
+    na pusė, tačiau visas grobis, lietuviams matant ir iš
+    pykčio griežiant dantimis, buvo išgabentas j Prūsiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

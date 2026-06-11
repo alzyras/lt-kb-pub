@@ -77,6 +77,7 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vietininkas]]

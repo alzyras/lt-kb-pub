@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Medininkų valsčius'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1314 m.'
@@ -50,6 +51,11 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
   pagrindžia:
     - c-004
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -148,3 +154,23 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad kai Chris- 1316 m e ta i tmemelio įgula buvo įviliota į pasalas ir sunaikinta, jie nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kitų metų pradžioje kryžiuočiai, pasinaudodami
+    pergale, pasiuntė skirtingais keliais skirtingas kariau­
+    nas krašto niokoti. Kai Chris-
+    1316 m e ta i
+    tmemelio įgula buvo įviliota
+    į pasalas ir sunaikinta, jie
+    nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
+    Sis pralaimėjimas atnešė nelaimę ne tik kraštui, bet
+    ir Sudargo šeimynai, nes netikėtai pasirodęs priešas
+    paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

@@ -79,7 +79,9 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Maskvos kariuomenė]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seimas]]

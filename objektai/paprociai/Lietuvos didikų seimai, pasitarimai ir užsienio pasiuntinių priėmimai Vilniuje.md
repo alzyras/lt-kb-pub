@@ -112,5 +112,6 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Lietuvos didikai]]

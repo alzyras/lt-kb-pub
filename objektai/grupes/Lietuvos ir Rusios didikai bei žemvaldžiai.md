@@ -54,4 +54,5 @@ tags:
 - [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
 - [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/činšas]]

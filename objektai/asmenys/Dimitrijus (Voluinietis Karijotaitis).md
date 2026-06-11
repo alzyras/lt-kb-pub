@@ -70,5 +70,3 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/rokošas]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]

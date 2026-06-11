@@ -67,7 +67,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/Perveiza|perveiza]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Žemlionys]]
+- [[objektai/daiktai/Ginklai]]

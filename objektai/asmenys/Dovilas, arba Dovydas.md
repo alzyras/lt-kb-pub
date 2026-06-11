@@ -83,5 +83,5 @@ periodo_grupes:
 - [[objektai/asmenys/Maukoldas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Erdenas, arba Jerdenas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/asmenys/Vidas, pramintas Vilku]]

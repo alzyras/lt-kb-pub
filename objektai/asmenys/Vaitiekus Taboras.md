@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Vaitiekus Taboras'
+pavadinimas: 'Vaitiekus Taboras (vyskupas, XV–XVI a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1491 m.'
@@ -21,7 +22,8 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Vaitiekus Taboras
+
+# Vaitiekus Taboras (vyskupas, XV–XVI a.)
 
 ## Santrauka
 
@@ -48,6 +50,16 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
   teiginys: 'Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena.'
   pagrindžia:
     - c-002
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad vaitiekus Taboras, pa prašęs aukščiausiąjį laiminti valstybę, trumpa kalba pa ragino kunigaikštį neiškrypti iš prosenelių praminto ke lio ir uždėjo vainiką, užimamos valdžios žymenį.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -126,13 +138,56 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Aleksandro lektika]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Maskvos pasiuntiniai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
-- [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Keliais mėnesiais
+    anksčiau už karalių mirė Vilniaus vyskupas Andrius,
+    kilęs iš Vilniaus, garsėjęs šventųjų mokslų pažinimu
+    bei proto aštrumu. Jo įpėdiniu tapo šviesiausios kilmės
+    Vaitiekus Taboras.
+
+    ## Puslapis 540
+
+    S e S t a
+    k n y g a
+    APIE LIETUVIŲ PRAEITI, KAI VALDE
+    Šv ie s ia u s ia s is  k u n ig a ik š t is a lek sand ras
+    1492 metai
+    Aleksandras išrenka-
+    Kai Lietuvoje pasklido ži­
+    nia apie karaliaus Kazimiero
+    m a s L ie tu v o s did žiu o -
+    mirtį, gausybė didikų skubiai
+    kaip Simonas Olelkaitis, Slucko kunigaikštis, Alšėnų,
+    Mstislavlio bei Giedraičių kunigaikštiškųjų šeimų gal­
+    vos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-
+    lus ir Mykolas Glinskiai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad vaitiekus Taboras, pa prašęs aukščiausiąjį laiminti valstybę, trumpa kalba pa ragino kunigaikštį neiškrypti iš prosenelių praminto ke lio ir uždėjo vainiką, užimamos valdžios žymenį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Stanislovo
+    katedrą ir pasodino į tėvo sostą. Vaitiekus Taboras, pa­
+    prašęs aukščiausiąjį laiminti valstybę, trumpa kalba pa­
+    ragino kunigaikštį neiškrypti iš prosenelių praminto ke­
+    lio ir uždėjo vainiką, užimamos valdžios žymenį. Se­
+    nuosiuose šaltiniuose radau surašyta, kad Lietuvos
+    vyriausiasis maršalas, pagal tautos paprotį įteikdamas
+    apnuogintą kalaviją bei rykštę, bylojęs šitokiais žo­
+    džiais: ,,Patys dievai, Jogailaičių šeimos šlovė, tėvo Ka­
+    zimiero paveikslas ir nuo seno Jūsų namams priklausęs
+    Lietuvos Didžiosios Kunigaikštystės sostas šiandieną
+    Tave išrinko ir paskelbė mūsų valdovu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

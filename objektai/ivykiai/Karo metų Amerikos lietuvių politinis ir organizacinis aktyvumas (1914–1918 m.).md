@@ -124,4 +124,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
 - [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

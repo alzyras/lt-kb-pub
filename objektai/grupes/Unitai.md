@@ -96,6 +96,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]

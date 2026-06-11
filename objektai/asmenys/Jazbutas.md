@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jazbutas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -26,6 +27,11 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
   teiginys: 'Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį: išsivarė daug žmonių ir išsivežė.'
   pagrindžia:
     - c-001
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -64,9 +70,35 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
     - t-001
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad pasivijęs jį, atsitraukiantį su dideliu grobiu, Jazbutas įniko persekioti užN u žu d o m a s lie tu v ių pakaimę vorą, kuriai tuomet k u n ig a ik štis J a zb u ta s vadovavo Henrikas Cutsvertas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasivijęs jį, atsitraukiantį su dideliu grobiu,
+    Jazbutas įniko persekioti už-
+    N u žu d o m a s
+    lie tu v ių
+    pakaimę vorą, kuriai tuomet
+    k u n ig a ik štis J a zb u ta s
+    vadovavo Henrikas Cutsver-
+    tas. Šį išvydęs, Jazbutas, su
+    įniršiu prisiminęs ankstesnę savo nešlovę, iš visų jėgų
+    puolė priešą ir kirto jam kalaviju į petį; sužeistas Hen­
+    rikas ietimi persmeigė Jazbutą, kuris, griūdamas že­
+    mėn, nukirto kalaviju puolančiam nugalėtojui pirštą.
+    Susidūrus vadams, įsiliepsnojo mūšis: narsiausi prieki­
+    nio būrio kariai veržėsi ginti užpakalinio, kadangi ir
+    lietuviai, netekę vado, traukėsi, ir kryžiuočiai (kurie,
+    m
+
+    ## Puslapis 165
+
+    bijodami patekti j pasalas, vengė nutolti nuo stovyk­
+    los) nepuolė, nepralaimėjo ir nelaimėjo kovos nė vie­
+    na pusė, tačiau visas grobis, lietuviams matant ir iš
+    pykčio griežiant dantimis, buvo išgabentas j Prūsiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

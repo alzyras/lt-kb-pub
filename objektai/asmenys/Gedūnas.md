@@ -114,6 +114,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]

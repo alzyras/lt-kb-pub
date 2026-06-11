@@ -55,3 +55,4 @@ tags:
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/įgula]]

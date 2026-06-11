@@ -61,6 +61,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 
 ### Susiję objektai
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Miera|miera]]

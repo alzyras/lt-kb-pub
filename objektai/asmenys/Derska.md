@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Derska'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -10,6 +11,7 @@ tags:
   - pilis
   - valstybė
 ---
+
 # Derska
 
 ## Santrauka
@@ -27,6 +29,11 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   teiginys: 'Dusburgietis teigia, kad derska, įsiteikę broliams, nuskubėjo pasitikti lietuvių kariuomenės ir ten, papasakoję savo tėvynainiams [bartams], kas dėjosi Gardino pilyje bei jo valsčiuje, be to, kaip jie pelnė brolių palankumą, išžudė lietuvius, o visą grobį išsigabeno į Pagudę, kur ir.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -69,10 +76,22 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Numa]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
+    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
+    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
+    atleis jų ankstesnį nusikaltimą. Kitų metų pradžioje
+    lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
+    vo tokie blogi kaip anuomet.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

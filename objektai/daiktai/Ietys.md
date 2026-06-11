@@ -90,9 +90,11 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Ragainės karių klasta užimant Junigedą]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/žalvario amžius]]
 - [[objektai/daiktai/Karinė ginkluotė]]

@@ -47,7 +47,7 @@ Prie 1270 m. ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (o
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
 - [[objektai/zodynas/lietopisis]]
 - [[objektai/zodynas/lietopisis lietopisiai]]
 - [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]

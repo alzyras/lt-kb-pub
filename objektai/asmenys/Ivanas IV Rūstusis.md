@@ -78,7 +78,7 @@ periodo_grupes:
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Ivanas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/grupes/Rusai]]

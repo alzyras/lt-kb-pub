@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Žemaitija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -12,7 +13,9 @@ saltiniai:
 datos:
   - '1251 m.'
   - '1268 m.'
+  - '1285 m.'
   - '1387 m.'
+  - '1409 m.'
   - '1422 m.'
   - '2007 m.'
 date_start: '1251'
@@ -311,6 +314,56 @@ amziai:
   teiginys: 'Žalgirio mūšis Nors popiežius uždraudė Vokiečių ordinui kariauti su apsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
   pagrindžia:
     - c-011
+
+- t-058
+  teiginys: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  pagrindžia:
+    - c-042
+
+- t-059
+  teiginys: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  pagrindžia:
+    - c-043
+
+- t-060
+  teiginys: 'Kojelavičius teigia, kad kita vokie čių kariuomenė, vedama grafo Barbio, niokojo Sembą ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš kinta per pačią šventosios Agnetės šventę.'
+  pagrindžia:
+    - c-044
+
+- t-061
+  teiginys: 'Kojelavičius teigia, kad žemaitijoje tuo metu ne buvo priešų, tačiau šį kraštą užgriuvo kitokios bėdos.'
+  pagrindžia:
+    - c-045
+
+- t-062
+  teiginys: 'Kojelavičius teigia, kad užėmė ir visai sugriovė Romovę, lietuvių šven tąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir Pagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir apiplėšė, daugel metų čia beveik nebuvo gyventojų.'
+  pagrindžia:
+    - c-046
+
+- t-063
+  teiginys: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  pagrindžia:
+    - c-047
+
+- t-064
+  teiginys: 'Kojelavičius teigia, kad su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai nusiaubė Žemaitiją.'
+  pagrindžia:
+    - c-048
+
+- t-065
+  teiginys: 'Kojelavičius teigia, kad atsikratęs šito rūpesčio, Vytautas ramia galva pra dėjo telkti karius Žemaitijoje ir Palenkėję.'
+  pagrindžia:
+    - c-049
+
+- t-066
+  teiginys: 'Kojelavičius teigia, kad žygū nas, papasakojęs, kas Vytau to valia atsitiko Žemaitijoje, pareiškė ordino vardu, kad jie nepaliks neatkeršiję už šį išpuolį, todėl, jeigu kuo greičiausiai jiems neatlygins nuostolių ir neatiduos Žemaitijos, atvirai paskelbsią Lietuvai karą.'
+  pagrindžia:
+    - c-050
+
+- t-067
+  teiginys: 'Kojelavičius teigia, kad vytauto pa kviesti pasiuntiniai negaišdami atvyko į Žemaitiją.'
+  pagrindžia:
+    - c-051
 
 ## Reikšmingi paminėjimai
 
@@ -1082,3 +1135,254 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-057
+
+- c-042
+  santrauka: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-058
+
+- c-043
+  santrauka: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-059
+
+- c-044
+  santrauka: 'Kojelavičius teigia, kad kita vokie čių kariuomenė, vedama grafo Barbio, niokojo Sembą ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš kinta per pačią šventosios Agnetės šventę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    ## Puslapis 106
+
+    Šio vargingo likimo jis du kartus buvo išvengęs, pa­
+    sigailėjus kai kuriems prūsams, su kuriais anksčiau
+    buvo susidraugavęs; kai trečią kartą krito toks pat
+    burtas, jis su panieka atsisakė gyvybės, už kurią tu­
+    rėtų dėkoti gailestingiesiems barbarams. Kita vokie­
+    čių kariuomenė, vedama grafo Barbio, niokojo Sembą
+    ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
+    kinta per pačią šventosios Agnetės šventę. Pats va­
+    das, praradęs kariuomenę, pateko į priešų rankas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-060
+
+- c-045
+  santrauka: 'Kojelavičius teigia, kad žemaitijoje tuo metu ne buvo priešų, tačiau šį kraštą užgriuvo kitokios bėdos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto Gardino pilies įgula, įspėta
+    apie įsiveržusius priešus, užpuolė juos dar tebežygiuo-
+    1285 m eta i
+    traukti prieš lietuvius ir iš
+    magistro išprašė karių; jis
+    slapta nuvedė siaurais miškų
+    158
+
+    ## Puslapis 157
+
+    jančius ir išžudė, gyvą palikdama vienui vieną žmogų
+    pranešti apie pralaimėjimą. Žemaitijoje tuo metu ne­
+    buvo priešų, tačiau šį kraštą užgriuvo kitokios bėdos.
+    Kaimuose atsirado labai daug keistų kirminų, panašių
+    į vėžius ar skorpionus; jie
+    Žemaitija kenčia dėl
+    darė žmonėms baisingą žalą;
+    nuodingų kirmėlių
+    ką gyvūnėlis įgeldavo, tas
+    negyvendavo ilgiau nei tris
+    dienas, jokie vaistai negalėdavo išgelbėti nuo artėjan­
+    čios mirties.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-061
+
+- c-046
+  santrauka: 'Kojelavičius teigia, kad užėmė ir visai sugriovė Romovę, lietuvių šven tąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir Pagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir apiplėšė, daugel metų čia beveik nebuvo gyventojų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš Piešt-
+    vės apygardos išvarė visus gyvulius, išžudė čia dau­
+    gybę žmonių, į vergiją išsivedė tik septyniasdešimt
+    galvų. Užėmė ir visai sugriovė Romovę, lietuvių šven­
+    tąją vietą ir jų Krivės Krivaičio buveinę, Vaikių ir
+    Pagraudės valsčius Žemaitijoje nusiaubė žudynėmis ir
+    apiplėšė, daugel metų čia beveik nebuvo gyventojų.
+    Tada pakliuvo į vargą lietuvių padermės, įsikūrusios
+    m
+
+    ## Puslapis 169
+
+    tarp Narevo ir Nemuno, prislėgtos sunkios priespaudos
+    ir nuolatinio karo; kamuojamos šešerius metus užtru­
+    kusių grumtynių, jos turėjo duoti kryžiuočiams duoklę,
+    o savo gentainių raginamos sueiti į karinę sandrau­
+    gą, nedrįso nei ginklu pulti priešo, nei praleisti lietu­
+    vių, žygiuojančių į priešų šalį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-062
+
+- c-047
+  santrauka: 'Kojelavičius teigia, kad vėliau, ir tais pačiais, ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo je Karšuvos žemę, kad gyventojai, nematydami iš eities, turėjo su visu turtu išsikelti į Lietuvą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sutelktu būriu užgriuvę iš pasalų nieko nenu-
+    jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
+    ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­
+    je Karšuvos žemę, kad gyventojai, nematydami iš­
+    eities, turėjo su visu turtu išsikelti į Lietuvą. Neteku­
+    sios tuo būdu gynėjų Skronaitės ir Bibervaitės pilys
+    buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
+    Pūtvės pilį išdavė jos seniūnas Spūdas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-063
+
+- c-048
+  santrauka: 'Kojelavičius teigia, kad su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai nusiaubė Žemaitiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat popiežius krikščionių žemėse buvo paskelbęs edik­
+    tą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­
+    vo šaukiami į šventąjį karą prieš stabmeldžius, todėl
+    ir ėmė iš’visur plaukti į Prūsiją didžiuliai karių būriai.
+    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
+    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
+    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-064
+
+- c-049
+  santrauka: 'Kojelavičius teigia, kad atsikratęs šito rūpesčio, Vytautas ramia galva pra dėjo telkti karius Žemaitijoje ir Palenkėję.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pirmiausia jis susitarė su
+    kryžiuočiais, kurie ne tik pasižadėjo laikytis taikos, kai
+    Vytautas patrauks į karą, bet ir pasiuntė, kaip neseniai
+    buvo susitarta, penkis šimtus rinktinių riterių į pagal­
+    bą. Atsikratęs šito rūpesčio, Vytautas ramia galva pra­
+    dėjo telkti karius Žemaitijoje ir Palenkėję. Galybė len­
+    kų didikų patys pasisiūlė traukti į šį nelyginant šventąjį
+    žygį prieš krikščionių tikėjimo priešus mahometonus:
+    Rapolas iš Tarnovo, Spitekas iš Melštino, Krokuvos
+    vaivada, Socha, Plocko vaivada, Jonas Glovačas, Ma­
+    zovijos vaivada, Jonas iš Dombrovos, Dobrogostas iš
+    Šamotulų, Varsas iš Michovo, Ostrorogas, Pilikas, Bo-
+    gušas ir kiti didikai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-065
+
+- c-050
+  santrauka: 'Kojelavičius teigia, kad žygū nas, papasakojęs, kas Vytau to valia atsitiko Žemaitijoje, pareiškė ordino vardu, kad jie nepaliks neatkeršiję už šį išpuolį, todėl, jeigu kuo greičiausiai jiems neatlygins nuostolių ir neatiduos Žemaitijos, atvirai paskelbsią Lietuvai karą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nenorėdami, kad atrody-
+    1409 m e ta i
+    tų, jog jie, susiradę kliautį,
+    K r y ž iu o č ia i
+    sk e lb ia
+    pirmieji pradėjo karą, pasiun-
+    k a rą
+    tė žygūną pas karalių. Žygū­
+    nas, papasakojęs, kas Vytau­
+    to valia atsitiko Žemaitijoje, pareiškė ordino vardu,
+    kad jie nepaliks neatkeršiję už šį išpuolį, todėl, jeigu
+    kuo greičiausiai jiems neatlygins nuostolių ir neatiduos
+    Žemaitijos, atvirai paskelbsią Lietuvai karą. Galop jis
+    pareikalavo, kad karalius atvirai išreikštų savo nuomo­
+    nę ir pasakytų, ar ryžtasi ginti Vytautą, ar, jo neužtar­
+    damas, saugoti neseniai su kryžiuočiais sudarytą taiką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-066
+
+- c-051
+  santrauka: 'Kojelavičius teigia, kad vytauto pa kviesti pasiuntiniai negaišdami atvyko į Žemaitiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be
+    galo ryžtingas žmogus, jis
+    nieko nedarė iš lėto, nepa­
+    kęsdamas ir kitų delsimo;
+    tiesą
+    sakant,
+    negi
+    galima
+    nesmerkti atidėliojimo, jei­
+    gu rūpinamasi dievo gar­
+    binimo bei žmonių išganymo reikalais. Vytauto pa­
+    kviesti pasiuntiniai negaišdami atvyko į Žemaitiją. Pas­
+    kyrę naujuoju ganytoju Motiejų, lietuvį, teologijos
+    mokslų magistrą, neseniai tapusį Vilniaus kanauninkų
+    kolegijos vyresniuoju, spalio mėnesį deramai sutvarkė
+    pagal šventųjų įstatymų reikalavimus viską, ką ir turėjo
+    i417 metai
+    K o n sta n co s
+    s u v a žia ­
+    v im o  pasiuntiniai g a ­
+    lutinai
+    įsteigia
+    Ž e ­
+    m aičių v y s k u p y s tę
+    305
+
+    ## Puslapis 394
+
+    sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
+    vimo nutarimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-067

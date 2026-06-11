@@ -115,5 +115,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/zodynas/litas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/zodynas/ostmarkės auksinai]]

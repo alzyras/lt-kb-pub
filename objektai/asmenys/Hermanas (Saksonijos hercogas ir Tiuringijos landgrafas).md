@@ -69,5 +69,6 @@ Dusburgietis teigia, kad hermanas (Saksonijos hercogas ir Tiuringijos landgrafas
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

@@ -59,4 +59,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/posakiai/Ugnimi ir kalaviju]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

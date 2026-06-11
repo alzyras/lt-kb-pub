@@ -71,3 +71,4 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/seimas]]

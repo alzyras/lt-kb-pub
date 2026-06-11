@@ -74,5 +74,6 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
 - [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]

@@ -155,7 +155,6 @@ Nenurodyta
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Skyrai]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]

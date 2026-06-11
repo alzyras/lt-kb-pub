@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Vorskla'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -74,6 +75,11 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   teiginys: 'Vytauto didelių užsimojimų žygis prie Vorsklos buvo pralaimėtas.'
   pagrindžia:
     - c-008
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad prie Vorsklos upės galop pasirodė Edigejus, Tamerlano karvedys, su didžiuliais skitų būriais.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -225,3 +231,22 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   statusas: verified
   pagrindžia:
     - t-010
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad prie Vorsklos upės galop pasirodė Edigejus, Tamerlano karvedys, su didžiuliais skitų būriais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nesutikdami jokio pasiprieši­
+    nimo, nuniokojo tolesnes že­
+    mes ir be mūšio persikėlė per Psiolo ir Sulos upes.
+    Prie Vorsklos upės galop pasirodė Edigejus, Tamer-
+    lano karvedys, su didžiuliais skitų būriais. Išvydus ne­
+    suskaičiuojamą daugybę priešų, kiekvienam parūpo su­
+    žinoti, kas jų visų laukia, iš priešų daugybės atspėti,
+    kaip baigsis mūšis, ir pasmerkti savo ankstesnį išdi­
+    dumą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

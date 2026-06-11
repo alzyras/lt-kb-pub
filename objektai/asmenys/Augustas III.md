@@ -143,8 +143,9 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/asmenys/Stanislovas Leščinskis]]
 - [[objektai/zodynas/elektorius]]

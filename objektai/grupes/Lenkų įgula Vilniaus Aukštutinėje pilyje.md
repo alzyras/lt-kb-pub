@@ -226,6 +226,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pakancleris]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/grupes/Vytauto šalininkai]]

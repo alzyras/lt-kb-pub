@@ -112,6 +112,7 @@ Nenurodyta
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/budeliai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]

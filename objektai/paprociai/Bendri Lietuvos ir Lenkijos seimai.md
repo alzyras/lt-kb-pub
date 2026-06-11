@@ -125,7 +125,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/legatai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/fraternitas]]

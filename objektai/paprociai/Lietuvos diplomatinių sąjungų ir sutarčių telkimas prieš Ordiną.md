@@ -138,6 +138,7 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Ordino brolis]]
+- [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo (kunigas)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/kunigas]]

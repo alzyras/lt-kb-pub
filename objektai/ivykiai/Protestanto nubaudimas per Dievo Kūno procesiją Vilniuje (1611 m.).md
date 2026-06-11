@@ -79,5 +79,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]

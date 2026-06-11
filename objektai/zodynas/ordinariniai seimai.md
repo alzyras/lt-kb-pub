@@ -109,5 +109,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/paprociai/Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu]]

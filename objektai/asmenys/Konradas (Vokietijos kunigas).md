@@ -51,4 +51,5 @@ Dusburgietis teigia, kad apie tai, kaip žuvo Konradas, Vokietijos kunigas, pers
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/ivykiai/Konrado misionieriaus nužudymas Lietuvoje (1285-1287 m.)]]

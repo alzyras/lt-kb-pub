@@ -84,5 +84,6 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/muškietininkai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Dono kazokų pulkas]]
 - [[objektai/grupes/Narvos muškietininkų pulkas]]

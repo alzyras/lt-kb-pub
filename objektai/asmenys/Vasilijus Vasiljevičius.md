@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Vasilijus Vasiljevičius'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1430 m.'
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Vasilijus Vasiljevičius
 
 ## Santrauka
@@ -31,6 +33,11 @@ periodo_grupes:
   teiginys: 'Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -57,15 +64,21 @@ periodo_grupes:
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/vaivada]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Maskvos didikų vardu atsakė to miesto vy­
+    riausiasis dvasininkas. Esą visų didžiausi pasaulyje
+    valdovai, būtent ir Romos imperatorius, ir Rytų sulto­
+    nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip
+    rodo Maksimilijono bei Suleimano laiškai, adresuoti Va­
+    silijui Vasiljevičiui. Tad kodėl karalius Augustas, ligi
+    tol nieko pikta iš kunigaikščio Ivano nepatyręs, vie­
+    nas nepripažįstąs tos pagarbos, elgdamasis kitaip nei
+    kiti valdovai?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

@@ -114,6 +114,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]

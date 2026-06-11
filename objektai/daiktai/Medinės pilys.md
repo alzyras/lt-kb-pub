@@ -63,4 +63,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Spera]]
 - [[objektai/asmenys/Šventaragis]]

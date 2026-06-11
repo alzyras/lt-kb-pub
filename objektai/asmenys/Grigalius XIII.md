@@ -51,6 +51,7 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/paprociai/Akademijos profesorių ir studentų jurisdikcinės bei mokestinės privilegijos]]
 - [[objektai/grupes/Vilniaus universitetas]]

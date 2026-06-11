@@ -67,6 +67,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/senatas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/federacija federacinė valstybė]]

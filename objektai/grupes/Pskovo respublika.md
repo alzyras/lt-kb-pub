@@ -157,7 +157,6 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]

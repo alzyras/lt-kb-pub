@@ -76,6 +76,7 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
 - [[objektai/zodynas/unija]]

@@ -106,8 +106,8 @@ periodo_grupes:
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Eugenijus IV]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
@@ -118,4 +118,5 @@ periodo_grupes:
 - [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
 - [[objektai/grupes/Rusijos Federacija]]
+- [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]
 - [[objektai/asmenys/Sofija (Švitrigailos žmona)]]

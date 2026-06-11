@@ -84,6 +84,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Adynos|adynos]]

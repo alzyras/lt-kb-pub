@@ -331,6 +331,7 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
 - [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
 - [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]

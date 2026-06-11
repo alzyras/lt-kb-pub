@@ -3,14 +3,16 @@ tipas: vieta
 pavadinimas: 'Raseiniai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1322 m.'
   - '1352 m.'
   - '1416 m.'
-date_start: '1352'
+date_start: '1322'
 date_end: '1416'
 sukurta: ''
 atnaujinta: ''
@@ -22,6 +24,7 @@ amziai:
   - 'XIV'
   - 'XV'
 ---
+
 # Raseiniai
 
 ## Santrauka
@@ -59,6 +62,11 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   teiginys: 'Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu.'
   pagrindžia:
     - c-002
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -170,3 +178,28 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad didelį kraštą — Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius jis sulygino su žeme.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Su šiomis jėgomis patraukęs iš Prūsijos, priešas baisiai
+    nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
+    Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
+    Apmalšinus žudynėmis širdis, kai, pykčiui lėgstant,
+    gėda apėmė ginkluotus karius, kad nelyginant plėši­
+    kai siaubia beginklius žmones ir kaimiečių lūšneles,
+    1322 m eta i
+    V o k ie č ių  ir k r y ž iu o ­
+    čių
+    š v e n ta sis
+    karas
+    prieš lietu viu s
+    Šiais dalykais ir rūpinosi
+    Gediminas, kai jį užgriuvo
+    naujos bėdos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

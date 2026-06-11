@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Karaliaučius'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -333,6 +334,21 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginys: 'Ignas Onacevičius vyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo.'
   pagrindžia:
     - c-036
+
+- t-061
+  teiginys: 'Kojelavičius teigia, kad tenai, nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies tas, čekų karaliaus Otokaro visai neseniai įkurtas.'
+  pagrindžia:
+    - c-042
+
+- t-062
+  teiginys: 'Kojelavičius teigia, kad po šių pergalių iš kryžiuočių buvo atimti Heilsbergo, Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.'
+  pagrindžia:
+    - c-043
+
+- t-063
+  teiginys: 'Kojelavičius teigia, kad be galybės šeimynykščių ir kitokių menkos padėties žmonių, žuvo septynios dešim tys kunigaikščių bei didikų; pats jaunikis bei jaunoji, visos tarybos narių žmonos bei dukros su didžiuliu grobiu buvo išgabentos į Karaliaučių.'
+  pagrindžia:
+    - c-044
 
 ## Reikšmingi paminėjimai
 
@@ -1044,3 +1060,73 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   statusas: verified
   pagrindžia:
     - t-060
+
+- c-042
+  santrauka: 'Kojelavičius teigia, kad tenai, nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies tas, čekų karaliaus Otokaro visai neseniai įkurtas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-061
+
+- c-043
+  santrauka: 'Kojelavičius teigia, kad po šių pergalių iš kryžiuočių buvo atimti Heilsbergo, Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pats va­
+    das, praradęs kariuomenę, pateko į priešų rankas. Po
+    šių pergalių iš kryžiuočių buvo atimti Heilsbergo,
+    Kroicburgo, Karaliaučiaus, Bartenšteino pilys ir miestai.
+    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
+    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
+    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
+    norėdamas turėti laisvesnes
+    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
+    užmegzta rusų ir lietuvių
+    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
+    Mazovijos žemėn.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-062
+
+- c-044
+  santrauka: 'Kojelavičius teigia, kad be galybės šeimynykščių ir kitokių menkos padėties žmonių, žuvo septynios dešim tys kunigaikščių bei didikų; pats jaunikis bei jaunoji, visos tarybos narių žmonos bei dukros su didžiuliu grobiu buvo išgabentos į Karaliaučių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žinoma, kilęs triukšmas pažadino daugelį, ne­
+    pavyko jų išgalabyti lovose, daugelis griebėsi ginklo,
+    tačiau, užsimiegoję ir įsigėrę, nepajėgė nei ginklu gin­
+    tis nuo dūrių, nei išmone, nežinodami, nei koks už­
+    griuvo pavojus, nei iš kur. Be galybės šeimynykščių ir
+    kitokių menkos padėties žmonių, žuvo septynios dešim­
+    tys kunigaikščių bei didikų; pats jaunikis bei jaunoji,
+    visos tarybos narių žmonos bei dukros su didžiuliu
+    grobiu buvo išgabentos į Karaliaučių. Šitaip viena pra­
+    gaištinga puota privertė gedėti dėl artimųjų mirties
+    ar nelaisvės beveik visas Lietuvos šeimas, šitaip vie­
+    noje vietoje tapo apiplėšta beveik visa Lietuva, nes
+    turtingiausieji, kaip tada buvo įprasta, susivežė ten
+    kartu su žmonomis ir vaikais visus lobius, norėdami
+    pasigirti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-063

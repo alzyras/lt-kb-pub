@@ -125,7 +125,7 @@ amziai:
 ### Susiję objektai
 - [[objektai/daiktai/Akademijos teatro įranga]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/daiktai/Malūnas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

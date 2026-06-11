@@ -164,6 +164,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Kotryna]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Čartoriskiai]]

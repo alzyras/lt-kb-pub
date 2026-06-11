@@ -54,5 +54,6 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
 ### Susiję objektai
 - [[objektai/daiktai/Lėktuvai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]]
 - [[objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija]]

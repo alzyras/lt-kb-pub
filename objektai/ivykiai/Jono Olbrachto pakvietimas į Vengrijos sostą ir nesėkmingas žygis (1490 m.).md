@@ -1,0 +1,95 @@
+---
+tipas: ivykis
+pavadinimas: 'Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+datos:
+  - '1490 m.'
+date_start: '1490'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XV'
+---
+
+# Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)
+
+## Santrauka
+
+Kojelavičius teigia, kad p a k v ie č ia m a s į V en - Pirmiausia, rodos, šitai g iijo s sostą, b et appadarė vengrai, nes, mirus g au n am as Motiejui Korvinui, karštai jį pakvietė į savo karalystės sostą. Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad p a k v ie č ia m a s į V en - Pirmiausia, rodos, šitai g iijo s sostą, b et appadarė vengrai, nes, mirus g au n am as Motiejui Korvinui, karštai jį pakvietė į savo karalystės sostą.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad p a k v ie č ia m a s į V en - Pirmiausia, rodos, šitai g iijo s sostą, b et appadarė vengrai, nes, mirus g au n am as Motiejui Korvinui, karštai jį pakvietė į savo karalystės sostą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pa­
+    sak metraščių, tada krito dešimt tūkstančių laukinių.
+    Po šios pergalės ir valstybėje, ir už jos ribų pradėta
+    didžiai vertinti ir gerbti kuni-
+    1490 m e ta i
+    gaikštį Joną.
+    P a k v ie č ia m a s į V en -
+    Pirmiausia,
+    rodos,
+    šitai
+    g iijo s  sostą, b et ap-
+    padarė vengrai, nes, mirus
+    g au n am as
+    Motiejui Korvinui, karštai jį
+    pakvietė į savo karalystės
+    536
+
+    ## Puslapis 535
+
+    sostą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jonas nepritarė jų troškimui, nes gerai žinojo,
+    kad seime buvo ginčų ir skirtingų nuomonių, mat dau­
+    gelis rėmė jo brolį Vladislovą. Be to, jis puikiai atsi­
+    minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
+    vengrai lengva ranka apgavo. Kadangi tėvas karštai
+    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
+    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
+    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
+    grįstas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

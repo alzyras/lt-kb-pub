@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Pelužis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1289 m.'
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Pelužis
 
 ## Santrauka
@@ -41,6 +43,16 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
   pagrindžia:
     - c-001
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad iš kryžiuo čių jie gavo vos dvidešimt riterių, labai narsių ir stip rių, vedamų Martyno Golino ir Konrado Divelio, be to, į būrį papildomai paėmė kuriuos ne kuriuos mik lesnius Pelužio dvariškius.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -84,14 +96,43 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/Ordino brolis]]
-- [[objektai/asmenys/Stavimėlas]]
-- [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad pelužis, lengvai patikėjęs patarimu, apie viską pra nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui, kuris parėmė sumanymą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tegu su kariais netikėtai pasirodąs, iš pa­
+    čių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-
+    sią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­
+    nešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,
+    kuris parėmė sumanymą. Žygis nereikalavo didelės ka­
+    riuomenės, būtų užtekę negausaus, bet ryžtingo būrio,
+    lengvai ginkluotų, bet drąsių, ne per daug besidomin­
+    čių vado planais karių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad iš kryžiuo čių jie gavo vos dvidešimt riterių, labai narsių ir stip rių, vedamų Martyno Golino ir Konrado Divelio, be to, į būrį papildomai paėmė kuriuos ne kuriuos mik lesnius Pelužio dvariškius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš kryžiuo­
+    čių jie gavo vos dvidešimt riterių, labai narsių ir stip­
+    rių, vedamų Martyno Golino ir Konrado Divelio, be
+    to, į būrį papildomai paėmė kuriuos ne kuriuos mik­
+    lesnius Pelužio dvariškius. Pelužis nedidelį būrį vedė
+    žinomais takeliais, rodos, visai be pagrindo svajodamas
+    su tiek mažai karių sumušti priešą. Nelauktas svečias
+    160
+
+    ## Puslapis 159
+
+    gūdžią naktį užpuolė pasigėrusius ir įmigusius poky­
+    liautoj us.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

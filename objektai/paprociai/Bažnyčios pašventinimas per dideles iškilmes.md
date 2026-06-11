@@ -80,4 +80,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas]]

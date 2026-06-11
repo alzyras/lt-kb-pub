@@ -68,5 +68,6 @@ Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetm
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Nuolatinė Taryba]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/grupes/Gardino seimas]]

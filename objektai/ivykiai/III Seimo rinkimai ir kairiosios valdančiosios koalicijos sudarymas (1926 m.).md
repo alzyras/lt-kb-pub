@@ -106,6 +106,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/Kazys Grinius]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]

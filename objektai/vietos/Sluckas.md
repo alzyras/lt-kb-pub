@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Sluckas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -73,6 +74,21 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   pagrindžia:
     - c-005
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  pagrindžia:
+    - c-008
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  pagrindžia:
+    - c-009
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į žandą, o netrukus atbėgo į stovyklą daug kitų, teigian čių, jog dvidešimt tūkstančių liko prie Slucko, o visos kitos jėgos be galo greitai traukia prie Naugarduko.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -204,3 +220,69 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   statusas: verified
   pagrindžia:
     - t-007
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad mirus Slucko kunigaikščiui Simonui Olelkaičiui, jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp jūčio viduryje užpuolė Slucką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mengli Girėjaus kariai, veda­
+    mi jo sūnų, nusiaubė Lietuvą, pridarydami galybę ža­
+    los. Mirus Slucko kunigaikščiui Simonui Olelkaičiui,
+    jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
+    jūčio viduryje užpuolė Slucką. Sužinojusi apie gresian­
+    tį pavojų, našlė Anastazija, tikra didvyrė, prilygstanti
+    584
+
+    ## Puslapis 583
+
+    narsumu kuriems ne kuriems vyrams, negaišdama su­
+    šaukė savo valdų vyrus ir juos prisaikdino, kad at­
+    kakliai kovotų už mažametį kunigaikštį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-009
+  santrauka: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sužinojusi apie gresian­
+    tį pavojų, našlė Anastazija, tikra didvyrė, prilygstanti
+    584
+
+    ## Puslapis 583
+
+    narsumu kuriems ne kuriems vyrams, negaišdama su­
+    šaukė savo valdų vyrus ir juos prisaikdino, kad at­
+    kakliai kovotų už mažametį kunigaikštį. Miestiečiai,
+    kaimiečiai bei bajorai taip ryžtingai stojo į kovą, kad
+    skitai, smarkiai jų sumušti, turėjo pasitraukti. Palikę
+    Slucką, barbarai patraukė į Naugarduką.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į žandą, o netrukus atbėgo į stovyklą daug kitų, teigian čių, jog dvidešimt tūkstančių liko prie Slucko, o visos kitos jėgos be galo greitai traukia prie Naugarduko.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karaliui atvykus į Lydą, vienas
+    bajoras, šiaip taip pasprukęs iš niokotojų rankų, pra­
+    nešė, kad priešas visur ugnimi bei kalaviju siaubiąs
+    kraštą, o nuo Lydos iki jo — beveik viena diena kelio.
+    Patikėjo žmogumi, kuris sakėsi esąs strėle sužeistas į
+    žandą, o netrukus atbėgo į stovyklą daug kitų, teigian­
+    čių, jog dvidešimt tūkstančių liko prie Slucko, o visos
+    kitos jėgos be galo greitai traukia prie Naugarduko.
+    Kas be ko, daugelis apsirikusiųjų tvirtino, gąsdindami
+    nelyginant kokia baidykle bailesnius žmones, kad
+    priešai taip skuba, jog sunku net įsivaizduoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013

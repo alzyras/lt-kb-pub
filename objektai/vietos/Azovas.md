@@ -2,14 +2,17 @@
 tipas: vieta
 pavadinimas: 'Azovas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - knyga
   - tauta
   - tikėjimas
   - vieta
 ---
+
 # Azovas
 
 ## Santrauka
@@ -22,6 +25,11 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   teiginys: 'Vytautas prie Azovo buvo užėmęs ištisą ulusą ir jo žmonėms paliko teisę išpažinti senąjį tikėjimą.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +56,21 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad iš Kijevo su kariuomene tyliai patraukė į Azovą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šiek tiek užgaišęs Lietu­
+    voje, kur tvarkė visokius reikalus, pats taip pat leidosi
+    paskui kariuomenę, kai atėjo tinkamas metas kariauti.
+    Iš Kijevo su kariuomene tyliai patraukė į Azovą. Persi­
+    kėlęs prie Azovo per Doną, pradėjo karą, kol žinia apie
+    Vytauto įsiveržimą nebuvo
+    Įsiv e ržia  į S k itiją
+    dar skitų pasiekusi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

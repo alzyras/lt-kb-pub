@@ -2,6 +2,7 @@
 tipas: zodyno_irasas
 pavadinimas: 'metropolitas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1300 m.'
@@ -10,11 +11,13 @@ date_start: '1300'
 date_end: '1415'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - religinis-terminas
 amziai:
   - 'XIII'
   - 'XV'
 ---
+
 # metropolitas
 
 ## Santrauka
@@ -87,6 +90,11 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   pagrindžia:
     - c-006
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad kai, sutik dami su šitokiomis sąlygomis; prisiekė valdovas Dimitrijus, vyriausiasis šventikas, žmo nių vadinamas metropolitu, viečė ir žymiausieji bajorai, Algirdas, tą pačią dieną įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo vanojo kunigaikštį.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -183,58 +191,28 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - t-007
     - t-001
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinis-terminas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Graikai]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Teofilis (arkivyskupas)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/asmenys/Algirdas Brazauskas]]
-- [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
-- [[objektai/asmenys/Ciprijonas]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
-- [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
-- [[objektai/asmenys/Fotijus]]
-- [[objektai/asmenys/Gr. Camblakas]]
-- [[objektai/autoriai/Grigorijus Camblakas]]
-- [[objektai/autoriai/J. Adamus]]
-- [[objektai/asmenys/Jonas Paulius II]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/asmenys/Jurgis Cemblakas]]
-- [[objektai/autoriai/Karamzin]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/asmenys/Kiprijonas]]
-- [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
-- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
-- [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
-- [[objektai/grupes/Lietuvos stačiatikiai]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/grupes/Mazovijos kunigaikščiai]]
-- [[objektai/zodynas/Metropolija ir metropolitas]]
-- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
-- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
-- [[objektai/grupes/Romanovų dinastija]]
-- [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
-- [[objektai/asmenys/Teodosijus]]
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
-- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
-- [[objektai/asmenys/Vasilijus Vasiljevičius]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/daugiakonfesiškumas]]
-- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
-- [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
-- [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
-- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
-- [[objektai/grupes/Maskvos metropolitai]]
-- [[objektai/zodynas/metropolitas metropolija]]
-- [[objektai/zodynas/pravoslavai]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad kai, sutik dami su šitokiomis sąlygomis; prisiekė valdovas Dimitrijus, vyriausiasis šventikas, žmo nių vadinamas metropolitu, viečė ir žymiausieji bajorai, Algirdas, tą pačią dieną įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo vanojo kunigaikštį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dimitrijus sumokėsiąs ka­
+    reiviams algą, o vadui — karo išlaidas. Abiejų tautų
+    priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­
+    dami su šitokiomis sąlygomis;
+    prisiekė valdovas Dimitrijus,
+    vyriausiasis šventikas, žmo­
+    nių vadinamas metropolitu,
+    viečė ir žymiausieji bajorai,
+    Algirdas,
+    tą
+    pačią
+    dieną
+    įžengęs į Maskvą, įsmeigė ietį į valdovo pilį ir apdo­
+    vanojo kunigaikštį, kariškai jį pasveikinęs prie pačių
+    altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
+    dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Livonija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -10,6 +11,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1180 m.'
+  - '1262 m.'
+  - '1466 m.'
   - '1582 m.'
   - '2000 m.'
 date_start: '1180'
@@ -422,6 +425,51 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: '1582 m. sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam buvo grąžinti tik Didieji Lukai.'
   pagrindžia:
     - c-002
+
+- t-080
+  teiginys: 'Kojelavičius teigia, kad kitais metais Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę tik savo šalyje priešintis LiL en kai k v ie č ia iš V o - vonijos riteriams, dabar liek ie tijo s į P rū siją k r y - tuviai buvo nusiųsti pulti žiu o č iu s priešų žemių.'
+  pagrindžia:
+    - c-062
+
+- t-081
+  teiginys: 'Kojelavičius teigia, kad neliko saugi nuo karo tuo metu nė Livonija: ją nuo latos siaubė Mindaugo karvedžiai, ten vyko kovos prie Lielvardės pilies Dauguvos pakrantėse, tačiau kokia norėdamas turėti laisvesnes rankas, atnaujino santarvę su rusais, ir tuo būdu tapo užmegzta rusų ir.'
+  pagrindžia:
+    - c-063
+
+- t-082
+  teiginys: 'Kojelavičius teigia, kad 2 7 0 Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi jos, jau traukė su kariuomene iš Vilniaus.'
+  pagrindžia:
+    - c-064
+
+- t-083
+  teiginys: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  pagrindžia:
+    - c-065
+
+- t-084
+  teiginys: 'Kojelavičius teigia, kad apgula užtruko ištisą mėnesį, tačiau ne dėl to, kad nebuvo A p su p a V ite b s k ą daroma, kas tokiais atvejais reikalinga, o todėl, kad gynė jai, ypač Livonijos kariai, klausydami ne tiek Švitri gailos skatinimų, kiek įsakymų bei grasinimų, prieši nosi iš.'
+  pagrindžia:
+    - c-066
+
+- t-085
+  teiginys: 'Kojelavičius teigia, kad septyni šimtai Livonij rs raitelių, išsiųstų kariau ti Prūsijoje, susiruošė į žygį 1466 m e ta i žiemos pabaigoje, manydami, L iv o n ijo s raiteliai žūjog tada bus lengviau išvensta Ž e m a itijo je gti lietuvių saugų.'
+  pagrindžia:
+    - c-067
+
+- t-086
+  teiginys: 'Kojelavičius teigia, kad tos pačios priežastys sukėlė neramumus Livonijoje.'
+  pagrindžia:
+    - c-068
+
+- t-087
+  teiginys: 'Kojelavičius teigia, kad numalšinęs Livoniją ir iš siuntęs į Maskvą Palenkės vaivadą Vasilijų Tiškevičių, maršalą Mykolą Pašušvinskį bei Lietuvos raštininką Joną Gaiką, turėjusius derėtis su maskvėnais dėl taikos, kara lius iš stovyklos patraukė į Lenkiją, manydamas, jog ateina.'
+  pagrindžia:
+    - c-069
+
+- t-088
+  teiginys: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  pagrindžia:
+    - c-070
 
 ## Reikšmingi paminėjimai
 
@@ -1590,3 +1638,234 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   statusas: verified
   pagrindžia:
     - t-078
+
+- c-062
+  santrauka: 'Kojelavičius teigia, kad kitais metais Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę tik savo šalyje priešintis LiL en kai k v ie č ia iš V o - vonijos riteriams, dabar liek ie tijo s į P rū siją k r y - tuviai buvo nusiųsti pulti žiu o č iu s priešų žemių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kitais metais
+    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
+    tik savo šalyje priešintis Li-
+    L en kai k v ie č ia  iš V o -
+    vonijos riteriams, dabar lie-
+    k ie tijo s  į P rū siją  k r y -
+    tuviai buvo nusiųsti pulti
+    žiu o č iu s
+    priešų žemių. Sutelkus di­
+    džiulę
+    kuršių ir žemaičių
+    kariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­
+    taip Utenis privertė priešą liautis puldinėjus Žemaiti­
+    ją ir ginti savo kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-080
+
+- c-063
+  santrauka: 'Kojelavičius teigia, kad neliko saugi nuo karo tuo metu nė Livonija: ją nuo latos siaubė Mindaugo karvedžiai, ten vyko kovos prie Lielvardės pilies Dauguvos pakrantėse, tačiau kokia norėdamas turėti laisvesnes rankas, atnaujino santarvę su rusais, ir tuo būdu tapo užmegzta rusų ir.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
+    latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
+    Lielvardės pilies Dauguvos pakrantėse, tačiau kokia
+    norėdamas turėti laisvesnes
+    rankas, atnaujino santarvę su rusais, ir tuo būdu tapo
+    užmegzta rusų ir lietuvių
+    vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
+    Mazovijos žemėn. Mindaugas, susilaukęs paramos iš
+    rusų, slaptai ir netikėtai didžiulių miškų takais įsibro­
+    vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei
+    jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa­
+    ros karštymetyje gyvenančius su visa palyda. Metus
+    burtus, Zemovitas pakliuvo Švarnui į nelaisvę, o Kon­
+    radas — Mindaugui; pastarasis buvo draugiškai lietu­
+    vio priimtas, o jo žmonėms sumokėjus išpirką, sugrą­
+    žintas į tėvo valdas, vargšas Zemovitas tuo tarpu žu­
+    vo ruso netrukus žiauriai nukankintas. Po to pulkai
+    buvo pasiųsti plėšti ir niokoti krašto. Netekę vadų,
+    ■ Mazovijos žmonės, sutelkę žemdirbius ir aukštuomenę
+    1262 m eta i
+    buvo jų baigtis, neturiu ži­
+    nios, Tuo tarpu Mindaugas,
+    L ie tu v ia i siau bia
+    M a zo v i ją
+    ginklo draugystė, nukreipta
+    prieš lenkus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-081
+
+- c-064
+  santrauka: 'Kojelavičius teigia, kad 2 7 0 Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi jos, jau traukė su kariuomene iš Vilniaus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat tuo metu
+    paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
+    nutaręs, jog dabar tinkama proga nebaudžiamam su­
+    laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
+    žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
+    2 7 0
+
+    ## Puslapis 269
+
+    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
+    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-082
+
+- c-065
+  santrauka: 'Kojelavičius teigia, kad norėdamas vis dėlto atsi lyginti priešui už tą antpuolį, jis, kuo greičiausiai su telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus, užėmė Daugpilį Dauguvos V y ta u ta s n io k o ja Lipakrantėje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Norėdamas vis dėlto atsi­
+    lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
+    telkęs karius, įsiveržė į Livoniją: nusiaubęs kaimus,
+    užėmė
+    Daugpilį
+    Dauguvos
+    V y ta u ta s  n io k o ja  Li-
+    pakrantėje. Esu tikras, jog
+    v o n iją
+    Vytautas turėjo tam tikrą
+    tikslą, siųsdamas Į Livoniją
+    savo kariuomenę, mat iš žvalgų jis sužinojo, kad Švitri­
+    gaila perėjęs iš Prūsijos į Livoniją. Taigi atsargesni Vy­
+    tauto vyrai būgštavo, kad šis nesusimanytų žygiuoti į
+    tokias vietas, kurių ligi šiol kryžiuočiai nebuvo lietę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-083
+
+- c-066
+  santrauka: 'Kojelavičius teigia, kad apgula užtruko ištisą mėnesį, tačiau ne dėl to, kad nebuvo A p su p a V ite b s k ą daroma, kas tokiais atvejais reikalinga, o todėl, kad gynė jai, ypač Livonijos kariai, klausydami ne tiek Švitri gailos skatinimų, kiek įsakymų bei grasinimų, prieši nosi iš.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Smo-
+    lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
+    buvo nuvesta į Vitebską. Apgula užtruko ištisą mėnesį,
+    tačiau ne dėl to, kad nebuvo
+    A p su p a  V ite b s k ą
+    daroma, kas tokiais atvejais
+    reikalinga, o todėl, kad gynė­
+    jai, ypač Livonijos kariai, klausydami ne tiek Švitri­
+    gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
+    nosi iš paskutiniųjų. Galop trisdešimtą dieną Vytauto
+    kariai įsiveržė pro visiškai sugriautus įtvirtinimus į
+    žemutinę pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-084
+
+- c-067
+  santrauka: 'Kojelavičius teigia, kad septyni šimtai Livonij rs raitelių, išsiųstų kariau ti Prūsijoje, susiruošė į žygį 1466 m e ta i žiemos pabaigoje, manydami, L iv o n ijo s raiteliai žūjog tada bus lengviau išvensta Ž e m a itijo je gti lietuvių saugų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ir vieni, ir kiti puikiai atliko pavestus užda­
+    vinius.
+    Septyni šimtai Livonij rs raitelių, išsiųstų kariau­
+    ti Prūsijoje, susiruošė į žygį
+    1466 m e ta i
+    žiemos pabaigoje, manydami,
+    L iv o n ijo s raiteliai žū-
+    jog tada bus lengviau išven-
+    sta  Ž e m a itijo je
+    gti lietuvių saugų. Baigėsi
+    vasaris, pelkes ir ežerus den­
+    gė ledas, galintis atlaikyti bet kokį svorį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-085
+
+- c-068
+  santrauka: 'Kojelavičius teigia, kad tos pačios priežastys sukėlė neramumus Livonijoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tos pačios priežastys sukėlė neramumus Livonijoje.
+    Į Liuterio sektą perėjo Livo-
+    T os p a č io s p a sk a to s
+    nijos riterių magistras Vilhel-
+    su k e lia
+    n era m u m u s
+    mas Fiurstenbergas, atvirai
+    L iv o n ijo je
+    atsižadėdamas beveik su visu
+    ordinu Romos tikėjimo. Neil­
+    gai trukus sektos pasekėjai, iš seno tykoję užgrobti
+    bažnyčios turtus, įniko grobstyti šventovių brangeny­
+    bes, brautis į vienuolynus, savintis dvasininkų mantą
+    ir žemes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-086
+
+- c-069
+  santrauka: 'Kojelavičius teigia, kad numalšinęs Livoniją ir iš siuntęs į Maskvą Palenkės vaivadą Vasilijų Tiškevičių, maršalą Mykolą Pašušvinskį bei Lietuvos raštininką Joną Gaiką, turėjusius derėtis su maskvėnais dėl taikos, kara lius iš stovyklos patraukė į Lenkiją, manydamas, jog ateina.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Numalšinęs Livoniją ir iš­
+    siuntęs į Maskvą Palenkės
+    vaivadą Vasilijų Tiškevičių,
+    maršalą Mykolą Pašušvinskį
+    bei Lietuvos raštininką Joną
+    Gaiką, turėjusius derėtis su
+    maskvėnais dėl taikos, kara­
+    lius iš stovyklos patraukė į
+    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
+    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
+    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
+    karui prieš skitus ir švedus, baimindamasis, matyt, kad
+    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
+    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
+    tis su Livonijos magistru.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-087
+
+- c-070
+  santrauka: 'Kojelavičius teigia, kad seimo darbe dalyvavo ir ordino magistras Ketleris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus kunigaikščio Mikalojaus Radvilos paraginti, nusprendė, kad Livonija sudaranti su Lietuva sąjungą ir pereinanti į Žygimanto Augusto, Lietuvos didžiojo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
+    dengti. Seimo darbe dalyvavo ir ordino magistras Ket-
+    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
+    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
+    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
+    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
+    čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
+    7 0 3
+
+    ## Puslapis 702
+
+    iždo padarytas išlaidas, Livo-
+    S u la rties są ly g o s
+    nijos riterių ordinas atiduo­
+    dąs
+    Lietuvai visas
+    žemes
+    abiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-
+    klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
+    pilio, Sėlpilio pilis su apylinkėmis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-088

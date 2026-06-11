@@ -120,7 +120,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Manvydas]]
 - [[objektai/zodynas/etmonas]]

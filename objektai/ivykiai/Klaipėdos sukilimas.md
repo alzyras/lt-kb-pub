@@ -82,6 +82,7 @@ Nenurodyta
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/zodynas/šturmovcai]]

@@ -183,6 +183,7 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Janičarai]]
 - [[objektai/ivykiai/Kražių įvykiai]]
 - [[objektai/grupes/Lietuviai]]
@@ -198,6 +199,7 @@ amziai:
 - [[objektai/asmenys/B. Zenavičius]]
 - [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
 - [[objektai/grupes/Dono kazokų pulkas]]
+- [[objektai/asmenys/Eustachijus Daškevičius]]
 - [[objektai/asmenys/Fulvio Ruggieri]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
@@ -205,6 +207,7 @@ amziai:
 - [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
 - [[objektai/grupes/Leibgvardijos kazokų pulkas]]
 - [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]

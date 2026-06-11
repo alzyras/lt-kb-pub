@@ -65,5 +65,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/2000 m. Seimo rinkimai ir koalicinių vyriausybių eros pradžia]]

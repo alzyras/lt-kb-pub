@@ -62,4 +62,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Daugiavamzdė Gatlingo sistema]]

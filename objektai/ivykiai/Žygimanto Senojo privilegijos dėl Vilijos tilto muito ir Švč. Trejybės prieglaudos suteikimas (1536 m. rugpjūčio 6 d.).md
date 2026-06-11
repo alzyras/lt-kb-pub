@@ -267,6 +267,7 @@ Nenurodyta
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Hozijus]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Žygimantas]]

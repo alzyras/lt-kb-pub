@@ -97,7 +97,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Radvila]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Čartoriskiai]]

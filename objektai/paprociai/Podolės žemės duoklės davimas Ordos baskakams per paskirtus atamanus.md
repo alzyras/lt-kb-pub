@@ -53,5 +53,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/tėvonys]]
 - [[objektai/zodynas/atamanas]]

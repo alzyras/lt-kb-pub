@@ -110,6 +110,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]

@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Žygimantas Kęstutaitis'
+pavadinimas: 'Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -22,11 +23,16 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Žygimantas Kęstutaitis
+# Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)
 
 ## Santrauka
 
 Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai ## Puslapis 69 Žygimanto Kęstutaičio valPo pralaimėjimo Lietuvai yr A \ Vidinė politinė kova. Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus. Didysis kunigaikštis Žygimantas Kęstutaitis pergalei atminti pastatė parapinę bažnyčią (1436- 1440 m.), kuri daug kartų perstatyta ir šiandien tebestovi Pabaiske.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 
 ## Teiginiai
 
@@ -79,6 +85,36 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginys: '1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje.'
   pagrindžia:
     - c-001
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad kai Žygimantas, išvykęs iš Seversko, pasiekė Lietuvą, neraginami suplaukė pas jį didikai bei bajo rai, iš kurių netrukus susidarė tikra kariuomenė.'
+  pagrindžia:
+    - c-011
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  pagrindžia:
+    - c-012
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad k e t v i r t a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS Ž y g im a n ta s K ąstu - ta itis ta m tik ro m is są ly g o m is ta m p a Lie- 1432 m e ta i Karaliaus pasiuntiniai ne daug vargo, kol įtikino Žygi mantą sutikti su.'
+  pagrindžia:
+    - c-013
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad stanislovo katedroje Vilniuje paskelbė susirinku siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei visi Lietuvos Didžiosios Kunigaikštystės gyventojai buvo atleidžiami nuo priesaikos, prieš metus duotos Boleslovui.'
+  pagrindžia:
+    - c-014
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad visi tikėjo, jog puiki pergalė atneš taiką; taip ir būtų atsitikę, jeigu Žygimantas, nors kovos lauke jau pralieta pakankamai kraujo, nebūtų suteikęs tėvynei dar daugiau skausmo savo gal kartais ir reikalingu, ir teisingu, bet tarp žmonių nekenčiamu žiaurumu.'
+  pagrindžia:
+    - c-015
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad jonas su keliais vyrais n u žu d o v a ld o v ą įsiveržė į valdovo miegamąjį ir, apkaltinęs dėl didikų žu dynių ir dėl smurto, kurio ketino griebtis šaukdamas sei mą, nutvėrė tuo metu, kai Žygimantas bandė kažką sa kyti, jį už sprando ir partrenkė ant žemės.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -295,32 +331,177 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   pagrindžia:
     - t-010
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
-- [[objektai/autoriai/Kotzebue]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/knechtas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
-- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
-- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
+- c-011
+  santrauka: 'Kojelavičius teigia, kad kai Žygimantas, išvykęs iš Seversko, pasiekė Lietuvą, neraginami suplaukė pas jį didikai bei bajo rai, iš kurių netrukus susidarė tikra kariuomenė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat Boleslovas dėl tiesiog neįtikimo žiauru­
+    mo atstūmė beveik visus nuo savęs ir galop užsitraukė
+    ypatingą neapykantą tų, kurie, kilę iš seniausių lietu­
+    vių šeimų, negalėjo pakęsti, kad jis, pataikaudamas sa­
+    vo žmonai rusei, Tverės kunigaikščio dukteriai, skyrė
+    žymiausias pareigybes beveik vien maskvėnams bei
+    rusams. Kai Žygimantas, išvykęs iš Seversko, pasiekė
+    Lietuvą, neraginami suplaukė pas jį didikai bei bajo­
+    rai, iš kurių netrukus susidarė tikra kariuomenė. Žy­
+    gimantas nutarė, skubiai ir slaptai ištraukus į žygį,
+    užklupti Boleslovą Ašmenoje, kur šis nerūpestingai lei­
+    do laiką, čia jį suimti ir pasiųsti karaliui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad žygimantas, beveik be kovos laimėjęs karą, paėmė be kraujo praliejimo į savo rankas Vilnių, Tra kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir pranešė, kad Boleslovas išvytas iš Lietuvos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Čia šiaip ne taip
+    U žim a  R u sią
+    atgavęs kvapą, patraukė, ru­
+    sų padedamas, į savo pusę
+    Polocko bei Kijevo žemes ir pasiskelbė Rusios kuni­
+    gaikščiu. Žygimantas, beveik be kovos laimėjęs karą,
+    paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
+    kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun­
+    tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir
+    pranešė, kad Boleslovas išvytas iš Lietuvos. Truputį
+    vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa­
+    pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti
+    paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad k e t v i r t a k n y g a APIE LIETUVIŲ PRAEITĮ, KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS Ž y g im a n ta s K ąstu - ta itis ta m tik ro m is są ly g o m is ta m p a Lie- 1432 m e ta i Karaliaus pasiuntiniai ne daug vargo, kol įtikino Žygi mantą sutikti su.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    ## Puslapis 441
+
+    K e t v i r t a
+    k n y g a
+    APIE LIETUVIŲ PRAEITĮ,
+    KAI VALDĖ ŽYGIMANTAS I KĘSTUTAITIS
+    Ž y g im a n ta s
+    K ąstu -
+    ta itis
+    ta m
+    tik ro m is
+    są ly g o m is ta m p a  Lie-
+    1432 m e ta i
+    Karaliaus pasiuntiniai ne­
+    daug vargo, kol įtikino Žygi­
+    mantą sutikti su reikalavi­
+    mais, kuriuos jam kėlė val-
+    tu v o s d id žiu o ju  ku n i-
+    dovas bei valstybė.
+    Argi
+    sys rodė, jog jis sąžiningai laikysis duoto žodžio. Tuo
+    visi buvo įsitikinę. Priesaika patvirtinto susitarimo pag­
+    rindiniai teiginiai buvo šie: turi būti amžinai laikomasi
+    senojo Lietuvos susitarimo su Lenkija, tai yra unijos;
+    Žygimantas niekad nesistengs be karaliaus ir karalystės
+    luomų žinios bei pritarimo gauti karaliaus titulo ir iš­
+    rūpinti sau karališkąsias insignijas; savo įpėdiniu jis
+    numatysiąs ir paskirsiąs ne ką kitą kaip karalių; jo sūnus
+    Mykolas, Trakų bei Starodubo kunigaikštis, privaląs
+    pasitenkinti šiomis žemėmis ir visada pripažinti kara­
+    liaus teises; Žygimantui mirus, Volynė turinti būti pri­
+    jungta prie Lenkijos karalystės; jeigu Mykolas mirtų
+    nesulaukęs sūnaus, visos teisės į Trakų bei Starodubo
+    kunigaikštystę atiteksią karaliui. Šios sąlygos, pritarus
+    Žygimantui, didikams ir bajorams, buvo įtrauktos į vals­
+    tybinius
+    aktus,
+    deramai patvirtintos parašais bei
+    g a ik ščiu
+    sunku žadėti, kai trokšti val­
+    džios?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad stanislovo katedroje Vilniuje paskelbė susirinku siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei visi Lietuvos Didžiosios Kunigaikštystės gyventojai buvo atleidžiami nuo priesaikos, prieš metus duotos Boleslovui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Stanislovo katedroje
+    Vilniuje paskelbė susirinku­
+    siems žmonėms popiežiaus raštą, kuriuo Žygimantas bei
+    visi Lietuvos Didžiosios Kunigaikštystės gyventojai
+    buvo atleidžiami nuo priesaikos, prieš metus duotos
+    Boleslovui. Tada Žygimantas pagal senus papročius
+    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
+    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
+    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
+    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
+    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
+    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
+    tikrųjų uoliai eidamas žvalgo pareigas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad visi tikėjo, jog puiki pergalė atneš taiką; taip ir būtų atsitikę, jeigu Žygimantas, nors kovos lauke jau pralieta pakankamai kraujo, nebūtų suteikęs tėvynei dar daugiau skausmo savo gal kartais ir reikalingu, ir teisingu, bet tarp žmonių nekenčiamu žiaurumu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Keturi tūkstančiai vyrų pateko
+    į nelaisvę, tarp jų — žymieji karo vadai ir jo šalinin­
+    kai. Visi tikėjo, jog puiki pergalė atneš taiką; taip ir
+    būtų atsitikę, jeigu Žygimantas, nors kovos lauke jau
+    pralieta pakankamai kraujo, nebūtų suteikęs tėvynei
+    dar daugiau skausmo savo gal kartais ir reikalingu, ir
+    teisingu, bet tarp žmonių nekenčiamu žiaurumu. Kai
+    pasklido kalbos, jog Jurgis
+    Lengvenaitis, karaliaus brolė­
+    nas, Mstislavlio valdovas, iš­
+    vytas iš savo valdų ir Tra­
+    kuose įmestas į kalėjimą, jog
+    Daugirdas Gedgaudaitis, kunigaikštis Fiodoras Odin-
+    cevičius ir kiti yra kalinami kur kas sunkesnėmis sąly­
+    gomis, nei leistų jų kilmė bei orumas, o Jonui Man-
+    vydui, Vilniaus vaivadai, Rumbaudui, Lietuvos marša­
+    lui, kaltinamiems maišto kėlimu, nukirto galvas, visi,
+    ir kilmingi, ir nekilmingi, suprato, jog naujojo valdovo
+    širdis kieta ir žiauri, ir dėl to pranašavo, kad, jam val­
+    dant, prasidės tikrai baisi tironija, kurios ir baisėjosi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-016
+  santrauka: 'Kojelavičius teigia, kad jonas su keliais vyrais n u žu d o v a ld o v ą įsiveržė į valdovo miegamąjį ir, apkaltinęs dėl didikų žu dynių ir dėl smurto, kurio ketino griebtis šaukdamas sei mą, nutvėrė tuo metu, kai Žygimantas bandė kažką sa kyti, jį už sprando ir partrenkė ant žemės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jonas su keliais vyrais
+    n u žu d o  v a ld o v ą
+    įsiveržė į valdovo miegamąjį
+    ir, apkaltinęs dėl didikų žu­
+    dynių ir dėl smurto, kurio ketino griebtis šaukdamas sei­
+    mą, nutvėrė tuo metu, kai Žygimantas bandė kažką sa­
+    kyti, jį už sprando ir partrenkė ant žemės, mat, vengda­
+    mas įtarimo, čia buvo atėjęs be ginklo. Tada Skabeika,
+    sugriebęs prie židinio stovintį trišakį žarstiklį, smogė
+    partrenktajam į galvą, o kiti subėgę pribaigė, visaip
+    žeisdami. Kambarinis Slavka, užgulęs leisgyvį valdovą,
+    norėjo savo kūnu užstoti jį nuo smūgių, tačiau Jonas
+    nuvilko jį į šalį ir išmetė pro langą; nieko negali sa­
+    kyti, žmogus buvo vertas tauresnės dalios, nes paliko
+    busimosioms kartoms pavyzdį, koks ištikimas turi būti
+    tarnas savo valdovui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

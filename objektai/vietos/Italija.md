@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Italija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -74,6 +75,11 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginys: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   pagrindžia:
     - c-006
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad po ilgų ir karštų ginčų tais pačiais metais leista karalienei Bonai, negailėjuK a ra lic n ė B ona iššiai dovanų Lenkijos didiv y k s ta į Ita liją kams, išvykti į Italiją su vi somis brangenybėmis ir vi sais valdovės turtais.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -201,3 +207,31 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   statusas: verified
   pagrindžia:
     - t-010
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad po ilgų ir karštų ginčų tais pačiais metais leista karalienei Bonai, negailėjuK a ra lic n ė B ona iššiai dovanų Lenkijos didiv y k s ta į Ita liją kams, išvykti į Italiją su vi somis brangenybėmis ir vi sais valdovės turtais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi švedų valdovas atsisakė siūlomos sąjungos,
+    būgštaudamas dėl galinčios iš Maskvos atgriaudėti aud­
+    ros, Augustas laiškais stengėsi sutaikyti švedus bei
+    maskvėnus.
+    Po ilgų ir karštų ginčų tais pačiais metais leista
+    karalienei Bonai, negailėju-
+    K a ra lic n ė
+    B ona
+    iš-
+    šiai dovanų Lenkijos didi-
+    v y k s ta  į Ita liją
+    kams, išvykti į Italiją su vi­
+    somis brangenybėmis ir vi­
+    sais valdovės turtais. Tiesa, vėliau tinkama forma
+    surašytame prieš pat mirtį testamente ji sūnų Augustą
+    paskyrė viso savo turto paveldėtoju, tačiau dėl jos tar­
+    no Papakodos suktybių paskutinioji velionės valia
+    buvo neįvykdyta, o visas turtas vėjais paleistas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

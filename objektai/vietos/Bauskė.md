@@ -2,14 +2,15 @@
 tipas: vieta
 pavadinimas: 'Bauskė'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
   - vieta
 ---
+
 # Bauskė
 
 ## Santrauka
@@ -22,6 +23,11 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   teiginys: 'Etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą apie kelionę į Drują ir Bychovo tvirtovę, traukėsi į Bauskę ir Mintaują.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad laiduodamas Lietuvos 7 0 3 iždo padarytas išlaidas, LivoS u la rties są ly g o s nijos riterių ordinas atiduo dąs Lietuvai visas žemes abiejuose Dauguvos krantuose tarp Drujos ir Aizkrauklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug pilio, Sėlpilio.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +54,35 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad laiduodamas Lietuvos 7 0 3 iždo padarytas išlaidas, LivoS u la rties są ly g o s nijos riterių ordinas atiduo dąs Lietuvai visas žemes abiejuose Dauguvos krantuose tarp Drujos ir Aizkrauklės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug pilio, Sėlpilio.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Seimo darbe dalyvavo ir ordino magistras Ket-
+    leris bei kiti Livonijos luomų atstovai, kurie, Nesvyžiaus
+    kunigaikščio Mikalojaus Radvilos paraginti, nusprendė,
+    kad Livonija sudaranti su Lietuva sąjungą ir pereinanti
+    į Žygimanto Augusto, Lietuvos didžiojo kunigaikš­
+    čio, globą šitokiomis sąlygomis. Laiduodamas Lietuvos
+    7 0 3
+
+    ## Puslapis 702
+
+    iždo padarytas išlaidas, Livo-
+    S u la rties są ly g o s
+    nijos riterių ordinas atiduo­
+    dąs
+    Lietuvai visas
+    žemes
+    abiejuose Dauguvos krantuose tarp Drujos ir Aizkrau-
+    klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
+    pilio, Sėlpilio pilis su apylinkėmis. Sutelktomis jėgomis
+    užbaigus karą ir sutarus taiką, Livonija turėsianti teisę
+    tas žemes išpirkti užmokėjusi Lietuvos pinigais šešis
+    šimtus tūkstančių florinų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

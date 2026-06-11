@@ -66,4 +66,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/stabmeldžiai]]
 - [[objektai/asmenys/Konradas (Vokietijos kunigas)]]

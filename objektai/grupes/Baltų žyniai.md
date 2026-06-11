@@ -73,3 +73,4 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 - [[objektai/posakiai/negęstančiąją ugnį]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/grupes/Baltai]]
+- [[objektai/zodynas/prastuomenė]]

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vilnius'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -11,6 +12,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1000 m.'
+  - '1333 m.'
   - '1384 m.'
   - '1395 m.'
 date_start: '1000'
@@ -1609,6 +1611,116 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro kariuomenę, kuri buvo suspiesta.'
   pagrindžia:
     - c-030
+
+- t-319
+  teiginys: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  pagrindžia:
+    - c-280
+
+- t-320
+  teiginys: 'Kojelavičius teigia, kad jis pakėlė J kovą visus narsiausius vyrus, surikiavo kautynių rikiuotę už pylimo, įvairiems būriams paskirs tė skirtingus uždavinius, o tada, nuolaidžiais Vilnios krantais slapta išvedęs kariuomenę, užpuolė vokiečių stovyklą.'
+  pagrindžia:
+    - c-281
+
+- t-321
+  teiginys: 'Kojelavičius teigia, kad jas baigęs, grįžo į Vilnių, į teo logijos fakultetą.'
+  pagrindžia:
+    - c-282
+
+- t-322
+  teiginys: 'Kojelavičius teigia, kad savo didumu, turtais, gy ventojų gausumu, atvykstančių svetimšalių įvairove ir daugumu, šventovių didybe, universitetu, prekybos platumu ir kitais miestus puošiančiais dalykais Vilnius yra garsiausias iš visų sarmatų miestų: jis — valdovų buveinė, teismų.'
+  pagrindžia:
+    - c-283
+
+- t-323
+  teiginys: 'Kojelavičius teigia, kad atnešęs ugnį bei kalaviją, tarė: šių dovanų tegu laukiąs iš jo kunigaikščio Vilniuje per Velykas, kai, per metus pavergęs visą Lietuvą, Maskvos valdovas ten įžengsiąs nugalėtoju.'
+  pagrindžia:
+    - c-284
+
+- t-324
+  teiginys: 'Kojelavičius teigia, kad vilniaus vaivada Petras Goštautas, veA lg iid a s įžen g ia į M a s k v o s m ie stą ir įs m e ig ia ie tį į p ilies v a r tu s dęs kilmingiausią lenkų mergelę, paeinančią iš Bučackių šeimos, viešai tapo Romos apeigų krikščioniu; ir dėl savo asmeniško.'
+  pagrindžia:
+    - c-285
+
+- t-325
+  teiginys: 'Kojelavičius teigia, kad 2 7 0 Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi jos, jau traukė su kariuomene iš Vilniaus.'
+  pagrindžia:
+    - c-286
+
+- t-326
+  teiginys: 'Kojelavičius teigia, kad kadangi susitarė dėl daugelio klausi mų, nesą jokio reikalo tokioje nepatogioje vietoje to liau vargti, geriau visiems joti į Vilnių, ten, naktį pailsėję bei draugiškai papuotavę, jie padarysią pra džią būsimam susitarimui, o rytoj galutinai užbaigsią tartis.'
+  pagrindžia:
+    - c-287
+
+- t-327
+  teiginys: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  pagrindžia:
+    - c-288
+
+- t-328
+  teiginys: 'Kojelavičius teigia, kad išsiuntęs žygūną, turintį Olesnickiui pranešti apie jo atvykimą, patraukė liesiai į Vilnių.'
+  pagrindžia:
+    - c-289
+
+- t-329
+  teiginys: 'Kojelavičius teigia, kad kunigaikštį Teodorą su šeimy na išgabeno į Vilnių.'
+  pagrindžia:
+    - c-290
+
+- t-330
+  teiginys: 'Kojelavičius teigia, kad iškilmingai sutiktas prie Lietuvos sienų, karalius buvo iškilmingai palydėtas į Vilnių.'
+  pagrindžia:
+    - c-291
+
+- t-331
+  teiginys: 'Kojelavičius teigia, kad kazimieras, maloniai pri ėmęs ir atidžiai išklausęs, leido jam, pažadėjęs savo ma lonę, laisvai toliau žygiuoti, o pats patraukė į Vilnių ir netrukus atvyko į miestą sveikinamas didžiulės minios žmonių, karštai trokštančių jį išvysti ir puoselėjančių viltį.'
+  pagrindžia:
+    - c-292
+
+- t-332
+  teiginys: 'Kojelavičius teigia, kad s u šau kia se im ą Po to, nutaręs deramai su tvarkyti valstybės reikalus, sušaukė Vilniuje seimą pasistengęs, kad jame dalyvau tų kuo daugiau žmonių.'
+  pagrindžia:
+    - c-293
+
+- t-333
+  teiginys: 'Kojelavičius teigia, kad visa tai, kas tarp jų ir kitų Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir pradėjo taip nekęsti Lietuvos, kad n e t įniko.'
+  pagrindžia:
+    - c-294
+
+- t-334
+  teiginys: 'Kojelavičius teigia, kad dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau su tvirtinti Vilnių.'
+  pagrindžia:
+    - c-295
+
+- t-335
+  teiginys: 'Kojelavičius teigia, kad galop lenkai sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv.'
+  pagrindžia:
+    - c-296
+
+- t-336
+  teiginys: 'Kojelavičius teigia, kad ta pati pasiuntinybė pareikalavo, kad po visą Lietu vą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau užlaikomi.'
+  pagrindžia:
+    - c-297
+
+- t-337
+  teiginys: 'Kojelavičius teigia, kad sugrįžęs iš Maskvos, Jesmanas išvydo karalių bei ka ralienę Vilniuje.'
+  pagrindžia:
+    - c-298
+
+- t-338
+  teiginys: 'Kojelavičius teigia, kad rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius pareikalavo, kad liautųsi pa vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad niekas taip nekenkia visuomenės reikalams, kaip as.'
+  pagrindžia:
+    - c-299
+
+- t-339
+  teiginys: 'Kojelavičius teigia, kad galop Vilniuje, gy vam tebesant vyskupui Povilui, kažkoks Viklifo pase kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei dimą kalbėti šv.'
+  pagrindžia:
+    - c-300
+
+- t-340
+  teiginys: 'Kojelavičius teigia, kad kadangi žmogus kur kas žvaliau imasi to reikalo, kurį laisva valia pats pasiūlo, karalius sušaukė Vilniuje ba jorų seimą, norėdamas deramai nuteikti lietuvius.'
+  pagrindžia:
+    - c-301
 
 ## Reikšmingi paminėjimai
 
@@ -7352,3 +7464,520 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   statusas: verified
   pagrindžia:
     - t-318
+
+- c-280
+  santrauka: 'Kojelavičius teigia, kad kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kol jis pats gyveno
+    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
+    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
+    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
+    ta, žiauriai su jais susidorojo. Vienas būrelis iš sep­
+    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
+    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
+    tuo būdu pašventindami savo krauju lietuvių žemes
+    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
+    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
+    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
+    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
+    nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
+    ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
+    taus žodį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-319
+
+- c-281
+  santrauka: 'Kojelavičius teigia, kad jis pakėlė J kovą visus narsiausius vyrus, surikiavo kautynių rikiuotę už pylimo, įvairiems būriams paskirs tė skirtingus uždavinius, o tada, nuolaidžiais Vilnios krantais slapta išvedęs kariuomenę, užpuolė vokiečių stovyklą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl, neilgai laukęs, nutarė pulti
+    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
+    322
+
+    ## Puslapis 321
+
+    Jis pakėlė J kovą visus narsiausius vyrus, surikiavo
+    kautynių rikiuotę už pylimo, įvairiems būriams paskirs­
+    tė skirtingus uždavinius, o tada, nuolaidžiais Vilnios
+    krantais slapta išvedęs kariuomenę, užpuolė vokiečių
+    stovyklą. Priešas netrukus buvo išstumtas iš artimiau­
+    sių pozicijų, daugybė kryžiuočių žuvo ar pateko į ne­
+    laisvę, tuo tarpu lietuviai neprarado nė vieno kario.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-320
+
+- c-282
+  santrauka: 'Kojelavičius teigia, kad jas baigęs, grįžo į Vilnių, į teo logijos fakultetą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po
+    poros metų A. Kojelavičius pasiunčiamas į Nesvyžiaus
+    kolegiją tęsti studijų. Jas baigęs, grįžo į Vilnių, į teo­
+    logijos fakultetą. Studijuodamas dėstė retoriką vieti­
+    nėje kolegijoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-321
+
+- c-283
+  santrauka: 'Kojelavičius teigia, kad savo didumu, turtais, gy ventojų gausumu, atvykstančių svetimšalių įvairove ir daugumu, šventovių didybe, universitetu, prekybos platumu ir kitais miestus puošiančiais dalykais Vilnius yra garsiausias iš visų sarmatų miestų: jis — valdovų buveinė, teismų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mūsų laikus jis
+    pasiekė taip viskuo garsėdamas, kad su įžymiaisiais
+    miestais gali lenktyniauti. Savo didumu, turtais, gy­
+    ventojų gausumu, atvykstančių svetimšalių įvairove ir
+    daugumu, šventovių didybe, universitetu, prekybos
+    platumu ir kitais miestus puošiančiais dalykais Vilnius
+    yra garsiausias iš visų sarmatų miestų: jis — valdovų
+    buveinė, teismų, mokslo ir prekybos, bažnytinio ir vals­
+    tybinio gyvenimo centras. Nieko jo garbei netrūksta,
+    išskyrus tai, ko ir turėjo trūkti tautoje, kuri Laisvę ir
+    Taiką užsitikrindavo ne sienomis ir pylimais, o pilie­
+    čių narsumu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-322
+
+- c-284
+  santrauka: 'Kojelavičius teigia, kad atnešęs ugnį bei kalaviją, tarė: šių dovanų tegu laukiąs iš jo kunigaikščio Vilniuje per Velykas, kai, per metus pavergęs visą Lietuvą, Maskvos valdovas ten įžengsiąs nugalėtoju.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pasiuntinys elgėsi išdidžiai ir atšiauriai: mat ne
+    tiek karą skelbė, kiek grasino visokeriopomis bėdo­
+    mis. Atnešęs ugnį bei kalaviją, tarė: šių dovanų tegu
+    laukiąs iš jo kunigaikščio Vilniuje per Velykas, kai,
+    per metus pavergęs visą Lietuvą, Maskvos valdovas
+    ten įžengsiąs nugalėtoju. Jeigu norįs laiku išvengti to­
+    kio žymaus valdovo rūstybės, tegu pasitraukiąs iš Ru­
+    sios, o Lietuvą perleidžiąs Maskvos kunigaikščiui,
+    tegu nedelsdamas imąs mokėti duoklę, kokią privalo
+    mokėti valdinys.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-323
+
+- c-285
+  santrauka: 'Kojelavičius teigia, kad vilniaus vaivada Petras Goštautas, veA lg iid a s įžen g ia į M a s k v o s m ie stą ir įs m e ig ia ie tį į p ilies v a r tu s dęs kilmingiausią lenkų mergelę, paeinančią iš Bučackių šeimos, viešai tapo Romos apeigų krikščioniu; ir dėl savo asmeniško.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą. Vilniaus vaivada Petras Goštautas, ve-
+    A lg iid a s
+    įžen g ia
+    į
+    M a s k v o s  m ie stą  ir įs­
+    m e ig ia
+    ie tį
+    į
+    p ilies
+    v a r tu s
+    226
+
+    ## Puslapis 225
+
+    dęs kilmingiausią lenkų mergelę, paeinančią iš Bučac-
+    kių šeimos, viešai tapo Romos apeigų krikščioniu; ir
+    dėl savo asmeniško pamaldumo, ir norėdamas skleisti
+    tarp savo gentainių Kristaus žodį, jis pakvietė į Vil­
+    nių švento Pranciškaus ordino vienuolių ir juos įkur­
+    dino toje aikštėje, kur dabar
+    1333 m e ta i
+    pastatyta šv. Kryžiaus baž­
+    nytėlė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-324
+
+- c-286
+  santrauka: 'Kojelavičius teigia, kad 2 7 0 Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi jos, jau traukė su kariuomene iš Vilniaus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat tuo metu
+    paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
+    nutaręs, jog dabar tinkama proga nebaudžiamam su­
+    laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
+    žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
+    2 7 0
+
+    ## Puslapis 269
+
+    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
+    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-325
+
+- c-287
+  santrauka: 'Kojelavičius teigia, kad kadangi susitarė dėl daugelio klausi mų, nesą jokio reikalo tokioje nepatogioje vietoje to liau vargti, geriau visiems joti į Vilnių, ten, naktį pailsėję bei draugiškai papuotavę, jie padarysią pra džią būsimam susitarimui, o rytoj galutinai užbaigsią tartis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Reikią dar kelių valan­
+    dų galutinai susitarti, o kadangi jau temsta, reikėtų
+    atidėti rytdienai. Kadangi susitarė dėl daugelio klausi­
+    mų, nesą jokio reikalo tokioje nepatogioje vietoje to­
+    liau vargti, geriau visiems joti į Vilnių, ten, naktį
+    pailsėję bei draugiškai papuotavę, jie padarysią pra­
+    džią būsimam susitarimui, o rytoj galutinai užbaigsią
+    tartis. Ir Kęstutis, ir Vytautas, ir keli didikai, kurie ten
+    buvo atlydėję kunigaikščius, pajuto, kur sukama, su­
+    prato, ką galvoja Jogaila, sakydamas tuos žodžius, ta­
+    čiau dabar jie galėjo tik smerkti savo aklą neapdairu­
+    mą, atvedusį juos į šias pasalas, nes nieko nebuvo
+    galima atitaisyti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-326
+
+- c-288
+  santrauka: 'Kojelavičius teigia, kad tą pačią naktį Jogaila, pamynęs draugystės bei giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-327
+
+- c-289
+  santrauka: 'Kojelavičius teigia, kad išsiuntęs žygūną, turintį Olesnickiui pranešti apie jo atvykimą, patraukė liesiai į Vilnių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Todėl kuo greičiausiai patraukė su savo
+    vyrais prie tvirtovių, be jokio vargo užėmė beveik ne­
+    ginamus įtvirtinimus, juos nusiaubė, sudegino, sugriovė
+    ir po pergalės sugrįžo pas saviškius. Išsiuntęs žygūną,
+    turintį Olesnickiui pranešti apie jo atvykimą, patraukė
+    liesiai į Vilnių. Olesnickis, iš anksto gavęs karaliaus
+    nurodymus, nerimastingai visą laiką laukė Vytauto,
+    dabar, rodydamas atvykusiam visokiausią prielankumą,
+    įlydėjo jį į miestą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-328
+
+- c-290
+  santrauka: 'Kojelavičius teigia, kad kunigaikštį Teodorą su šeimy na išgabeno į Vilnių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
+    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
+    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
+    na išgabeno į Vilnių. Po šio
+    Su len k a is tariasi d ė l
+    žygio smarkiai sunerimo len-
+    P o d o lės v a ld y m o
+    kai, būgštaudami, kad Vytau­
+    to pergalės nepaverstų nie­
+    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
+    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
+    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
+    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
+    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
+    seną, teisėtai jam priklausančią valdą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-329
+
+- c-291
+  santrauka: 'Kojelavičius teigia, kad iškilmingai sutiktas prie Lietuvos sienų, karalius buvo iškilmingai palydėtas į Vilnių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lenkams rodėsi įtartinas šitoks netikėtas Vytauto nuo­
+    lankumas, todėl dabar, kaip ir anksčiau, ryžtingai ne­
+    pritarė karaliaus kelionei į Lietuvą; kai šis galop su­
+    siruošė į kelią, priskyrė jam kelis senatorius, garsėju­
+    sius tvirtumu bei atkaklumu. Iškilmingai sutiktas prie
+    Lietuvos sienų, karalius buvo iškilmingai palydėtas į
+    Vilnių. Po kelias dienas už-
+    P rašo ir k u rsto
+    trukusių pobūvių ir priėmi­
+    mų, surengtų karaliui bei
+    lenkų didikams, Vytautas, pasikvietęs valdovą vienui
+    vieną, be palydovų, pats užvedė kalbą apie tai, kas ne­
+    seniai dėjosi, ir išklojo, kas jam gulėjo ant širdies.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-330
+
+- c-292
+  santrauka: 'Kojelavičius teigia, kad kazimieras, maloniai pri ėmęs ir atidžiai išklausęs, leido jam, pažadėjęs savo ma lonę, laisvai toliau žygiuoti, o pats patraukė į Vilnių ir netrukus atvyko į miestą sveikinamas didžiulės minios žmonių, karštai trokštančių jį išvysti ir puoselėjančių viltį.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Patekęs į tokią ne­
+    aiškią padėtį, jis, be galo išsi­
+    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
+    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
+    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
+    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
+    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
+    nei, neatiduoti žmogžudžiams. Kazimieras, maloniai pri­
+    ėmęs ir atidžiai išklausęs, leido jam, pažadėjęs savo ma­
+    lonę, laisvai toliau žygiuoti, o pats patraukė į Vilnių ir
+    netrukus atvyko į miestą sveikinamas didžiulės minios
+    žmonių, karštai trokštančių jį išvysti ir puoselėjančių
+    viltį, jog štai galop įsiviešpataus ramybė.
+    Čia lenkai ir lietuviai vėl pradėjo nesutarti, nes pir­
+    mieji atkakliai laikėsi nuomo­
+    nės, jog Kazimieras negalįs
+    būti, nepažeidžiant susitarimo,
+    išrinktas Lietuvos didžiuoju
+    kunigaikščiu, nes negalima
+    pakelti į sostą to, kuriam ka­
+    ralius Vladislovas leidęs valdyti Lietuvą kaip savo vie­
+    tininkui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-331
+
+- c-293
+  santrauka: 'Kojelavičius teigia, kad s u šau kia se im ą Po to, nutaręs deramai su tvarkyti valstybės reikalus, sušaukė Vilniuje seimą pasistengęs, kad jame dalyvau tų kuo daugiau žmonių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl,
+    pasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Len­
+    kiją šio krašto didikus gausiai juos apdovanojęs ir dar
+    daugiau dovanų pažadėjęs.
+    S u šau kia se im ą
+    Po to, nutaręs deramai su­
+    tvarkyti valstybės reikalus,
+    sušaukė Vilniuje seimą pasistengęs, kad jame dalyvau­
+    tų kuo daugiau žmonių. Tuo tarpu rūmų maršalui Jonui
+    Goštautui įsakė apvalyti Palenkę nuo priešų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-332
+
+- c-294
+  santrauka: 'Kojelavičius teigia, kad visa tai, kas tarp jų ir kitų Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir pradėjo taip nekęsti Lietuvos, kad n e t įniko.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Įžeistos širdys
+    visur pradėjo matyti įžeidinėjimą ir godžiai klausytis
+    tų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų
+    Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­
+    m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­
+    mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir
+    pradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­
+    gai skųstis, jog, juos priimant, buvęs užgautas jų oru­
+    mas. Beje, d a r vienas dalykas užgavo jiems širdis:
+    k a raliu s mat buvo išleidęs
+    Rusai
+    v e r č ia m i
+    pri-
+    griežtus potvarkius,
+    k u riais
+    p a žin ti u n iją  su Ro-
+    sakėsi
+    remiąs
+    Florencijoje
+    m o s b a žn y č ia
+    sudarytą Romos bažnyčios su­
+    sitarimą su Rytų bažnyčia ti­
+    kėjimo reikalais, tuo užgaudamas p ase k ėju s Rytų schi­
+    zmos, kurios atkakliai laikėsi Seversko didikai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-333
+
+- c-295
+  santrauka: 'Kojelavičius teigia, kad dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau su tvirtinti Vilnių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žmonės pa­
+    sakojo, kad šimtą tūkstančių žmonių, jaunų ir stiprių,
+    priešas išsivarė iš Baltarusijos ir Lietuvos į nelaisvę,
+    neskaitant žuvusių visokiausiose skerdynėse nuo kar­
+    do senių bei vaikų. Po priešo niokojamo antpuolio
+    Minske ir kituose miestuose užėjo maras. Dažni skitų
+    žygiai į Lietuvos gilumą paskatino luomus geriau su­
+    tvirtinti Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-334
+
+- c-296
+  santrauka: 'Kojelavičius teigia, kad galop lenkai sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Galop lenkai
+    sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv.
+    Stanislovo katedroje, šalia brolio šv. Kazimiero.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-335
+
+- c-297
+  santrauka: 'Kojelavičius teigia, kad ta pati pasiuntinybė pareikalavo, kad po visą Lietu vą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau užlaikomi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai Vasilijaus legatai patvirtino šį susi­
+    tarimą karaliaus bei senato
+    M a sk v o s v a ld o v a s  ti-
+    akivaizdoje, susiderėjo, kad
+    tu lu o ja m a s d id žiu o ju
+    pasieniuose kylantiems gin-
+    v is o s  R u sios v a ld o v u
+    čams spręsti abi šalys pas-
+    kirsiančios nepaprastus tei­
+    sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
+    Ta pati pasiuntinybė pareikalavo, kad po visą Lietu­
+    vą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių
+    ir geriau užlaikomi. Šios paliaubos iš tiesų laiku suda­
+    rytos, nes tuo metu karalius
+    Ž ū sta
+    L iu d vik a s,
+    didžiai liūdėjo dėl jo šeimą
+    V e n g rijo s ka ra liu s
+    ištikusios nelaimės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-336
+
+- c-298
+  santrauka: 'Kojelavičius teigia, kad sugrįžęs iš Maskvos, Jesmanas išvydo karalių bei ka ralienę Vilniuje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Galop jis pa­
+    prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
+    ir žygūnams, kurie buvo sulaikyti, kai maskvėnai su­
+    ėmė karališkuosius teisėjus.
+    Sugrįžęs iš Maskvos, Jes-
+    manas išvydo karalių bei ka­
+    ralienę Vilniuje. Karalius, su­
+    laukęs senyvo amžiaus, nuo­
+    gąstavo, kad, jam staiga mi­
+    rus, jo sūnus Augustas, dar
+    visai vaikas, beje, tokio am­
+    žiaus, kada nepajėgiama valdyti valstybės, gali netekti
+    Lenkijos sosto, o sudarius lenkams bei lietuviams nau­
+    ją susitarimą,— ir Lietuvos kunigaikštystės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-337
+
+- c-299
+  santrauka: 'Kojelavičius teigia, kad rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius pareikalavo, kad liautųsi pa vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad niekas taip nekenkia visuomenės reikalams, kaip as.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Stanislovo bazilikoje. Tuo
+    tarpu Lietuvą užgriuvo siaubingas badas, o Volynę nu­
+    siaubė skitai, kurie staigiu antpuoliu nuniokojo dide­
+    lius plotus, užėmė ir sudegino Braclavą ir nebaudžiami
+    išsigabeno didžiulį grobį bei išsivarė daugybę belais­
+    vių. Rugsėjo pabaigoje luomai susirinko Vilniuje į
+    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
+    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
+    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
+    niekas taip nekenkia visuomenės reikalams, kaip as­
+    meniniai atskirų didikų nesutarimai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-338
+
+- c-300
+  santrauka: 'Kojelavičius teigia, kad galop Vilniuje, gy vam tebesant vyskupui Povilui, kažkoks Viklifo pase kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei dimą kalbėti šv.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nauji tikybiniai įsitikinimai laisvai plito po didikų
+    bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,
+    kėlė galvą per puotas ir gėrynes, tačiau kelias į baž­
+    nyčias jiems ilgai buvo užkirstas. Galop Vilniuje, gy­
+    vam tebesant vyskupui Povilui, kažkoks Viklifo pase­
+    kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei­
+    dimą kalbėti šv. Onos bažnyčioje apie tikėjimo dalykus
+    vokiečių kilmės žmonėms, amatininkams ir pirkliams,
+    ir ten pat laikyti pamaldas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-339
+
+- c-301
+  santrauka: 'Kojelavičius teigia, kad kadangi žmogus kur kas žvaliau imasi to reikalo, kurį laisva valia pats pasiūlo, karalius sušaukė Vilniuje ba jorų seimą, norėdamas deramai nuteikti lietuvius.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Patyrinėjęs, ką šiuo reikalu
+    mano lenkai, ir sužinojęs, jog jiems visai nerūpi Livo­
+    nija, karalius, šiek tiek padrąsinęs Gotardą, nusiuntė jį
+    į Lietuvą, sakydamas, kad ten ir bus dėl visko susitarta.
+    Kadangi žmogus kur kas žvaliau imasi to reikalo, kurį
+    laisva valia pats pasiūlo, karalius sušaukė Vilniuje ba­
+    jorų seimą, norėdamas deramai nuteikti lietuvius. Sako,
+    suvažiavo į seimą galybė ba-
+    L ie tu v ia i k e tin a  gin-
+    jorų, kurie daug ką jame lai-
+    ti L iv o n iją
+    mėjo, nes karalius visa ko
+    prižadėjo ir visus pažadus
+    ištesėjo, trokšdamas, kad šie pritartų jo sumanymams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-340

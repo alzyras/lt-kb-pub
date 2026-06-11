@@ -82,5 +82,5 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 - [[objektai/zodynas/Karšinčius|karšinčius]]
 - [[objektai/zodynas/lėnas]]
 - [[objektai/posakiai/„Tikslas pateisino priemones.“]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

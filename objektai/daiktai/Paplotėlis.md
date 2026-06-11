@@ -60,6 +60,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Mergelė Marija]]

@@ -2,13 +2,14 @@
 tipas: zodyno_irasas
 pavadinimas: 'papilys'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1277 m.'
   - '1293 m.'
   - '1296 m.'
+  - '1299 m.'
   - '1306 m.'
-  - '1313 m.'
   - '1324 m.'
 date_start: '1277'
 date_end: '1324'
@@ -95,6 +96,11 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   teiginys: 'Dusburgietis teigia, kad paskui patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado.'
   pagrindžia:
     - c-014
+
+- t-018
+  teiginys: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -358,39 +364,33 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
   pagrindžia:
     - t-014
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albrechtas]]
-- [[objektai/asmenys/Albrechtas iš Hageno]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Hartmanas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Papilys suburbium]]
-- [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]
-- [[objektai/asmenys/Tomas Aldenburgas]]
-- [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
-- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
-- [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]
-- [[objektai/ivykiai/Junigedos pilies papilių sudeginimas (1293 m. žiema)]]
-- [[objektai/asmenys/Konradas Štangė]]
-- [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]
+- c-015
+  santrauka: 'Kojelavičius teigia, kad kanonas, 1299 m e ta i Brandenburgo komtūras, su nemaža kariuomene įsibro vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos bei Pieštvės papilyse namus, o po to, papildęs kariuo menę stipriu Ragainės būriu, nugabeno ją laivais į krašto gilumą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pridarė ten lietuviai daug siaubingų šventvagysčių
+    krikščionių šventyklose, bjauriai išniekino šventuosius
+    indus; vis dėlto retai kada po tokių nusikaltimų ilgai
+    užtrunka bausmė; grįždami atgal, šventvagiškieji plė­
+    šikai patyrė kerštą už dievybės paniekinimą: Kulmo
+    komtūras Konradas Žakas juos visus ligi vieno išžudė.
+    Kur kas didesnės sėkmės kitais metais susilaukė šeši
+    178
+
+    ## Puslapis 177
+
+    šimtai
+    raitelių.
+    Kanonas,
+    1299 m e ta i
+    Brandenburgo komtūras, su
+    nemaža kariuomene įsibro­
+    vęs į Lietuvą, sudegino artimiausių tvirtovių Junigedos
+    bei Pieštvės papilyse namus, o po to, papildęs kariuo­
+    menę stipriu Ragainės būriu, nugabeno ją laivais į
+    krašto gilumą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-018

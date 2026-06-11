@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Praha'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -18,10 +19,12 @@ tags:
   - krikštas
   - vieta
   - vyskupas
+  - šeima
 amziai:
   - 'XV'
   - 'XXI'
 ---
+
 # Praha
 
 ## Santrauka
@@ -54,6 +57,11 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginys: 'Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.'
   pagrindžia:
     - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad kol Krokuv y g a i voje dar nebuvo akademijos, ji tuo tikslu įkūrė Čekijos Prahoje lietuvių kolegiją ir jai paskyrė gausių lėšų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -141,3 +149,25 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   statusas: verified
   pagrindžia:
     - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad kol Krokuv y g a i voje dar nebuvo akademijos, ji tuo tikslu įkūrė Čekijos Prahoje lietuvių kolegiją ir jai paskyrė gausių lėšų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat valdovė ypač
+    mylėjo lietuvius ir visada jais rūpinosi, stengėsi, kad
+    šio krašto jaunuomenė eitų
+    M irus karalienei Jad-
+    visokius mokslus. Kol Kroku-
+    v y g a i
+    voje dar nebuvo akademijos,
+    ji tuo tikslu įkūrė Čekijos
+    Prahoje lietuvių kolegiją ir jai paskyrė gausių lėšų. Ka­
+    ralius, patyręs pralaimėjimą kovos lauke ir prislėgtas
+    asmeninio sielvarto, skaudžiai liūdėjo ir dėl kito namų
+    negando.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

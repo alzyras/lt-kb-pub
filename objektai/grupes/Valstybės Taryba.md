@@ -55,11 +55,12 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Justinas Staugaitis]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/asmenys/Maksas fon Badenas]]

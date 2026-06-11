@@ -208,6 +208,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - [[objektai/zodynas/Riterių luomas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/suverenas]]
 - [[objektai/asmenys/Gediminas]]

@@ -79,4 +79,5 @@ Nenurodyta
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/zodynas/duoklė]]

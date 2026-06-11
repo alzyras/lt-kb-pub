@@ -98,7 +98,6 @@ tags:
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

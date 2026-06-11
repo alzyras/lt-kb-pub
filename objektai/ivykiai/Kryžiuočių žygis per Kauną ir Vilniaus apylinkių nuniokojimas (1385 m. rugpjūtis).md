@@ -107,7 +107,7 @@ Nenurodyta
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]

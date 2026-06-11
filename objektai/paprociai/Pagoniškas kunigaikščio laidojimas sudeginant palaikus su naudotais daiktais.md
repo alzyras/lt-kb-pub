@@ -116,6 +116,7 @@ Nenurodyta
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/budeliai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]

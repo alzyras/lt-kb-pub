@@ -156,13 +156,14 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/posakiai/Iki gyvos galvos]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Perekopo orda]]

@@ -44,4 +44,6 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
 ### Susiję objektai
 - [[objektai/daiktai/Kablinis šautuvas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/žygūnas]]
 - [[objektai/zodynas/maršalka]]
+- [[objektai/grupes/Lietuvos luomai]]

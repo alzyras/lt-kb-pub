@@ -67,6 +67,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - [[objektai/asmenys/Joachimas Lelevelis]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/autoriai/Lelevelis]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]

@@ -97,7 +97,6 @@ Nenurodyta
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/grupes/Edukacinė Komisija]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]

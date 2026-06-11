@@ -378,7 +378,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Benediktas XI]]

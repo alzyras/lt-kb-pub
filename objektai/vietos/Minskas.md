@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Minskas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -85,6 +86,26 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   pagrindžia:
     - c-009
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad jis pasiuntė į Smolenską lengvuosius dalinius, vedamus Konstanti no, Ostrogo kunigaikščio, o K o n sta n tin a s O stio - pats su pagrindinėmis jėgog išk is traukia p rieš mis lėtai patraukė iš paskos, M a s k v ą šiek tiek stabtelėdamas iš pradžių Minske, o.'
+  pagrindžia:
+    - c-012
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad aleksandras, iš visa ko geM a s k v ė n a i a p su p a rai supratęs, kaip menkai S m o len sk ą galima pasitikėti maskvėnų pažadais, įsikūrė Minske pa siryžęs iš arti vadovauti kariuomenei, jeigu užgriūtų karas.'
+  pagrindžia:
+    - c-013
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad nužygiavęs ligi Minsko, jis visur nuniokojo kraštą, sudegino miestą, o matydamas, jog pilies nieku būdu greitai neužims, jos neapgulė, bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko ir Vitebsko žemes, niekur nesutikdamas pasipriešini mo, ir sugrįžo.'
+  pagrindžia:
+    - c-014
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad po priešo niokojamo antpuolio Minske ir kituose miestuose užėjo maras.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -325,3 +346,93 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   statusas: verified
   pagrindžia:
     - t-010
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad jis pasiuntė į Smolenską lengvuosius dalinius, vedamus Konstanti no, Ostrogo kunigaikščio, o K o n sta n tin a s O stio - pats su pagrindinėmis jėgog išk is traukia p rieš mis lėtai patraukė iš paskos, M a s k v ą šiek tiek stabtelėdamas iš pradžių Minske, o.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Aleksandras, praradęs bet kokias vil­
+    tis susitaikyti, nenoromis griebėsi ginklų. Jis pasiuntė
+    į Smolenską lengvuosius dalinius, vedamus Konstanti­
+    no, Ostrogo kunigaikščio, o
+    K o n sta n tin a s
+    O stio -
+    pats su pagrindinėmis jėgo-
+    g išk is
+    traukia
+    p rieš
+    mis lėtai patraukė iš paskos,
+    M a s k v ą
+    šiek tiek
+    stabtelėdamas iš
+    pradžių Minske, o po to Bo­
+    risove. Žymiausi luomų vadovai, garsūs pareigomis ir
+    didžiomis privilegijomis, nuskubėjo pas Ostrogiškį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad aleksandras, iš visa ko geM a s k v ė n a i a p su p a rai supratęs, kaip menkai S m o len sk ą galima pasitikėti maskvėnų pažadais, įsikūrė Minske pa siryžęs iš arti vadovauti kariuomenei, jeigu užgriūtų karas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat va­
+    saros pabaigoje Ivano sūnus Dimitrijus Žilka, perėjęs
+    su labai stipria kariuomene sienų, apsupo Smolenską.
+    Aleksandras, iš visa ko ge-
+    M a s k v ė n a i
+    a p su p a
+    rai supratęs, kaip menkai
+    S m o len sk ą
+    galima pasitikėti maskvėnų
+    pažadais, įsikūrė Minske pa­
+    siryžęs iš arti vadovauti kariuomenei, jeigu užgriūtų
+    karas. Rudens pradžioje į stovyklą atvyko ir rotmist­
+    ras Černinas su čekų bei vokiečių algininkais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad nužygiavęs ligi Minsko, jis visur nuniokojo kraštą, sudegino miestą, o matydamas, jog pilies nieku būdu greitai neužims, jos neapgulė, bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko ir Vitebsko žemes, niekur nesutikdamas pasipriešini mo, ir sugrįžo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vaivada Goštautas, pilies seniūnas
+    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
+    taip nukamavo priešą, šaudydami iš patrankų bei reng­
+    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
+    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
+    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
+    sūnus Mechmet Girėjus. Nužygiavęs ligi Minsko, jis
+    visur nuniokojo kraštą, sudegino miestą, o matydamas,
+    jog pilies nieku būdu greitai neužims, jos neapgulė,
+    bet, persikėlęs per Nerį ir Bereziną, nusiaubė Polocko
+    ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
+    mo, ir sugrįžo atgal su didžiausiu grobiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad po priešo niokojamo antpuolio Minske ir kituose miestuose užėjo maras.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žmonės pa­
+    sakojo, kad šimtą tūkstančių žmonių, jaunų ir stiprių,
+    priešas išsivarė iš Baltarusijos ir Lietuvos į nelaisvę,
+    neskaitant žuvusių visokiausiose skerdynėse nuo kar­
+    do senių bei vaikų. Po priešo niokojamo antpuolio
+    Minske ir kituose miestuose užėjo maras. Dažni skitų
+    žygiai į Lietuvos gilumą paskatino luomus geriau su­
+    tvirtinti Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

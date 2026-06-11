@@ -43,4 +43,5 @@ Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­ prastieji žmonės, kuni
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/sidabrinė duoklė]]

@@ -87,6 +87,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - [[objektai/asmenys/Hermanas iš Lichtenburgo]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
+- [[objektai/asmenys/Hermanas ton Senenbergas]]
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]

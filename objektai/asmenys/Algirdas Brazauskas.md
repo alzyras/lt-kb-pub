@@ -165,6 +165,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 - [[objektai/asmenys/Manfredas]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Europos Parlamentas]]
 - [[objektai/grupes/Europos Sąjunga]]

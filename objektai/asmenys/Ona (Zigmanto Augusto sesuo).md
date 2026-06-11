@@ -107,8 +107,11 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/asmenys/Karolis IX]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/seimas]]

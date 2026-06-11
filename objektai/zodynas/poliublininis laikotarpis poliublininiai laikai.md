@@ -126,9 +126,11 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
 - [[objektai/zodynas/unija]]

@@ -166,5 +166,6 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/mezliava]]
 - [[objektai/zodynas/sidabrinė duoklė]]

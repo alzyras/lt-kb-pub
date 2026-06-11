@@ -69,6 +69,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/krivė krivaitis]]
 - [[objektai/zodynas/Valdymieras|valdymieras]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]

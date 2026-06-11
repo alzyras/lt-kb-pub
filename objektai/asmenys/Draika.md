@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Draika'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1301 m.'
@@ -13,11 +14,13 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
 ---
+
 # Draika
 
 ## Santrauka
@@ -35,6 +38,11 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad pilies viršininkas Draika pradėjo linkti į krikščionių tikėji mą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -74,14 +82,19 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]
-- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
-- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
-- [[objektai/zodynas/pilėnas]]
-- [[objektai/zodynas/pilėnas pilėnai]]
-- [[objektai/zodynas/stabų garbinimas stabmeldystė]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad pilies viršininkas Draika pradėjo linkti į krikščionių tikėji mą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto žmonių ne­
+    daug žuvo, nes gyventojai,
+    palikę namus priešų valiai, patys su visais brangesniais
+    daiktais išsislapstė miškų tankmėse. Tais pačiais me­
+    tais per išdavystę buvo prarasta Aukaimio pilis. Pilies
+    viršininkas Draika pradėjo linkti į krikščionių tikėji­
+    mą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

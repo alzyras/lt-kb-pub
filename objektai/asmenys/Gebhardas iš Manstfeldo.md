@@ -60,6 +60,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/asmenys/Flekenšteinas]]
 - [[objektai/asmenys/Gebhardas]]
 - [[objektai/asmenys/Hertvigas]]
+- [[objektai/zodynas/atskala]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]
 - [[objektai/asmenys/Hertvigas iš Pokarvių]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

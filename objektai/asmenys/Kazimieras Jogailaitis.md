@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Kazimieras Jogailaitis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1441 m.'
@@ -20,11 +21,20 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Kazimieras Jogailaitis
 
 ## Santrauka
 
 Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
+
+## Ryšiai
+
+### Teminiai klasteriai
+- valdovas
+
+### Susiję objektai
+- [[objektai/zodynas/pereinamasis laikotarpis]]
 
 ## Teiginiai
 
@@ -82,6 +92,36 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   teiginys: 'Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje.'
   pagrindžia:
     - c-005
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad patekęs į tokią ne aiškią padėtį, jis, be galo išsi gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį kunigaikštį bei nuolankiai paprašė.'
+  pagrindžia:
+    - c-012
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių N o rs len k a i p riešin a si, p a k e lia m a s V iln iu je L ietu vo s d id žiu o ju k u n igaikščiu luomai nulydėjo Kazimierą į šv.'
+  pagrindžia:
+    - c-013
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad kazimieras Jogailaitis paliko čia vietininku Andrių Sakavičių.'
+  pagrindžia:
+    - c-014
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad štai todėl Kazimieras, dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų žemių.'
+  pagrindžia:
+    - c-015
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad lietuviams tikrai buvo pavo jinga maskvėnų sėkmė, toks smarkus jų augimas kai mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo.'
+  pagrindžia:
+    - c-016
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad kazimieras Jogailaitis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti karalių karo stovykloje.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 
@@ -293,22 +333,168 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/pereinamasis laikotarpis]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
-- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
-- [[objektai/zodynas/prekymečiai ir turgūs]]
+- c-012
+  santrauka: 'Kojelavičius teigia, kad patekęs į tokią ne aiškią padėtį, jis, be galo išsi gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį kunigaikštį bei nuolankiai paprašė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Patekęs į tokią ne­
+    aiškią padėtį, jis, be galo išsi­
+    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
+    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
+    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
+    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
+    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
+    nei, neatiduoti žmogžudžiams. Kazimieras, maloniai pri­
+    ėmęs ir atidžiai išklausęs, leido jam, pažadėjęs savo ma­
+    lonę, laisvai toliau žygiuoti, o pats patraukė į Vilnių ir
+    netrukus atvyko į miestą sveikinamas didžiulės minios
+    žmonių, karštai trokštančių jį išvysti ir puoselėjančių
+    viltį, jog štai galop įsiviešpataus ramybė.
+    Čia lenkai ir lietuviai vėl pradėjo nesutarti, nes pir­
+    mieji atkakliai laikėsi nuomo­
+    nės, jog Kazimieras negalįs
+    būti, nepažeidžiant susitarimo,
+    išrinktas Lietuvos didžiuoju
+    kunigaikščiu, nes negalima
+    pakelti į sostą to, kuriam ka­
+    ralius Vladislovas leidęs valdyti Lietuvą kaip savo vie­
+    tininkui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių N o rs len k a i p riešin a si, p a k e lia m a s V iln iu je L ietu vo s d id žiu o ju k u n igaikščiu luomai nulydėjo Kazimierą į šv.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lenkams prieš­
+    taraujant, lietuviai nė nemanė garsinti savo sumanymo,
+    bijodami tuo būdu pakenkti kunigaikščiui ir valstybei.
+    Štai todėl jie sumanė pasinaudoti lenkų lengvapėdišku­
+    mu, nors pastarieji tikėjosi iš jų visai ko kito: lietuvių
+    N o rs len k a i p riešin a ­
+    si, p a k e lia m a s V iln iu ­
+    je L ietu vo s d id žiu o ju
+    k u n igaikščiu
+    470
+
+    ## Puslapis 469
+
+    luomai nulydėjo Kazimierą į šv. Stanislovo katedrą, ir
+    čia maršalas jį paskelbė Lietuvos didžiuoju kunigaikš­
+    čiu, o Vilniaus vyskupas su įprastinėmis apeigomis pa­
+    kėlė į sostą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad kazimieras Jogailaitis paliko čia vietininku Andrių Sakavičių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nepakęsda­
+    mas atidėliojimo, pats patraukė į Smolenską, nors kar­
+    vedžiai iš paskutiniųjų įtikinėjo, jog metų laikas nieku
+    būdu netinkąs karui. Visuomet kariuomenė sėkmingai
+    kariauja, kai valdovas ne tik jai duoda nurodymų, o
+    betarpiškai ją veda į kovą, nes jo dalyvavimas rodo,
+    kad karas esąs labai svarbus, todėl neilgai trukus Kazi­
+    mieras nesunkiai užėmė pilį. Ne per griežtai nubaudęs
+    maištininkus, jis paliko čia vietininku Andrių Sakavičių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad štai todėl Kazimieras, dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų žemių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
+    gužės pabaigoje, Mykolas su
+    1448 m e ta i
+    sk itais įsiv eržė į Severską ir,
+    Sum u ša M y k o lą  Se-
+    sum ušęs greitosiom is sutelk-
+    v e r s k e
+    tas jėg as, jam  p asto ju sias k e ­
+    lią, p aėm ė Brianską, Naugar-
+    dą, Putivliu, Serpeiską, Starodubą. Štai todėl Kazimieras,
+    dar nespėjęs išvykti Lenkijon į seimą, skubiai p atra u k ė
+    į Severską, užgniaužė pačioje užuom azgoje įsiplieskiantį
+    karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
+    žemių. Niekur neberasdamas užtarėjų, M ykolas pasp­
+    ruko į Maskvą, kur, priim-
+    M y k o lo  m irtis
+    tas į vienuolyną, kurį m etą
+    čia gyv en o  kaip paprastas
+    488
+
+    ## Puslapis 487
+
+    žmogus, o galop ir galą gavo, vienuolyno igumenui da­
+    vus apnuodytos duonos, kurią krikščionys paprastai var­
+    toja šventajai mišių aukai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-016
+  santrauka: 'Kojelavičius teigia, kad lietuviams tikrai buvo pavo jinga maskvėnų sėkmė, toks smarkus jų augimas kai mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi seniai mėgdamas ramybę, po senovei vengė karo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tverė turėjo labai galingas karo
+    jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
+    ties tūkstančių raitelių. Lietuviams tikrai buvo pavo­
+    jinga maskvėnų sėkmė, toks smarkus jų augimas kai­
+    mynų sąskaita, tačiau karalius Kazimieras, kaip ir visi
+    seniai mėgdamas ramybę, po senovei vengė karo. To­
+    dėl, teisindamasis sudarytomis su Vasiljevičiumi paliau­
+    bomis, atleido pabėgėlį, tiesa, mandagiai ir nuoširdžiai
+    jį pagerbęs, bet nieko doro nepažadėjęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-017
+  santrauka: 'Kojelavičius teigia, kad kazimieras Jogailaitis ryžtingiau nei bet kada anksčiau pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai pavaduoti karalių karo stovykloje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai
+    todėl pasirūpino, kad popiežius Inocentas paskelbtų
+    Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją
+    kardinolų tarybą, be to, visomis priemonėmis stengė­
+    si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­
+    tino palikti savo įpėdiniu. Todėl, sužinojęs, jog skitai
+    dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
+    nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau
+    pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą
+    dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai
+    pavaduoti karalių karo stovykloje. Kunigaikštis Jonas
+    Olbrachtas, uoliai vykdyda-
+    1489 m eta i
+    mas, kas buvo tėvo nurodyta,
+    K u n ig a ik štis
+    J o n a s
+    greitai sutelkė Rusioje ir Lie-
+    O lb ia c h ta s
+    sum u ša
+    tuvoje kariuomenę ir, patrau-
+    sk itu s
+    kęs į priekį su ryžtingiausiais
+    vyrais, prie Savranės upės at­
+    virame lauke susikovė su priešu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

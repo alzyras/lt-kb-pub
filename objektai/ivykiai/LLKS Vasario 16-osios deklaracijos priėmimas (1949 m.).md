@@ -78,4 +78,5 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

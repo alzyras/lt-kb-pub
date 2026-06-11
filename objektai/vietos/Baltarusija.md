@@ -2,11 +2,13 @@
 tipas: vieta
 pavadinimas: 'Baltarusija'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1470 m.'
   - '1990 m.'
   - '1991 m.'
-date_start: '1990'
+date_start: '1470'
 date_end: '1991'
 sukurta: ''
 atnaujinta: ''
@@ -14,6 +16,7 @@ tags:
   - valstybė
   - vieta
 amziai:
+  - 'XV'
   - 'XX'
 ---
 # Baltarusija
@@ -53,6 +56,16 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   teiginys: 'LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“.'
   pagrindžia:
     - c-004
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad argi jie pasitiki ištiki mybe Baltarusijos, kuri visada ligi šiol savo jėgomis rė musi maištininkus, kėlusius ranką prieš teisėtus valdo vus?'
+  pagrindžia:
+    - c-006
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -146,3 +159,66 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad argi jie pasitiki ištiki mybe Baltarusijos, kuri visada ligi šiol savo jėgomis rė musi maištininkus, kėlusius ranką prieš teisėtus valdo vus?'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Negi jie mano, jog Že­
+    maitija, ginklu ketinanti paremti Mykolą, būsianti klus­
+    ni Lietuvos vietininkui, žemė, kuri štai atsisakė klausyti
+    teisėtai į sostą pakelto valdovo? Argi jie pasitiki ištiki­
+    mybe Baltarusijos, kuri visada ligi šiol savo jėgomis rė­
+    musi maištininkus, kėlusius ranką prieš teisėtus valdo­
+    vus? Negi jie nemato, koks grėsmingas Jurgis Nosuta,
+    kuris, užėmęs Palenkę ir patraukęs čia į Mykolo pusę
+    daugybę bajorų bei didikų, ketina netrukus pergalin­
+    gus ginklus nukreipti prieš Lietuvą?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad žiemos viduryje ap lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske popiežiaus ir imperatoriaus įsikišimas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žiemos viduryje ap­
+    lankė Baltarusiją, kur Polocke, Vitebske bei Smolenske
+    popiežiaus ir imperatoriaus įsikišimas. Mat popiežius,
+    priekaištingai
+    tvirtindamas, kad Vladislovas kol kas
+    niekuo nenusipelnęs tikėjimui, o Motiejus didžiai nu­
+    sipelnęs, atvirai rėmė Motiejų, rodydamas jam palan­
+    kumą. Tiesą sakant, turint galvoje tikėjimo reikalus,
+    negalima buvo nė dvejoti, kad Čekijai reikalingas toks
+    karalius, kuris, pagarsėjęs karo žygiais, nepriklausytų
+    nuo sektantų malonės, kaip dabar galima buvo tikė­
+    tis, ir pastoviai remtų bažnyčią, vis dėlto Kazimieras
+    jautėsi įžeistas, kad šiuo atveju žiūrima nuopelnų, ne­
+    lyginant būtų visiškai abejotinos teisės, kurias turėjo
+    jo vaikai dėl kilmės bei įpėdinystės. Tuo tarpu impe­
+    ratorius Fridrichas papiršo į Vladislovo žmonas savo
+    dukterį Kunegundą, o savo sūnui Maksimilijonui pa­
+    prašė Kazimiero dukters Jadvygos rankos, norėdamas
+    šia dviguba santuoka sustiprinti sąjungą ir, nušalinus
+    1470 m eta i
+    P o p iežiu s ii im p e r a to ­
+    rius p riešin a si
+    tvarkė taikos bei karo rei­
+    kalus, o išaušus pavasariui,
+    sugrįžo į Lenkiją ir vėl įniko
+    į Čekijos reikalus, kuriuos
+    sėkmingai užbaigti sutrukdė
+    520
+
+    ## Puslapis 519
+
+    Motiejų ir Jurgį, bendromis pastangomis bei jungtinė­
+    mis karo jėgomis suteikti Čekijos sostą Vladislovui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

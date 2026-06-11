@@ -76,6 +76,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Karinės vėliavos ir ženklai]]
 - [[objektai/asmenys/Mikalojus Moskoževskis]]
 - [[objektai/daiktai/Vėliavos su kryžiais]]

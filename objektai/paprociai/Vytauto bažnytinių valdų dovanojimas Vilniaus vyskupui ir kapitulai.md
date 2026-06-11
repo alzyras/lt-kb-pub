@@ -87,7 +87,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Vilniaus kapitula]]

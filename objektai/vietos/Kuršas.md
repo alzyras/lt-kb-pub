@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Kuršas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -38,6 +39,12 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 ## Laikotarpis ir datos
 
 - tipas: kraštas / pajūrio regionas; regionas
+
+## Ryšiai
+
+### Susiję objektai
+- Prūsija
+- [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
 
 ## Teiginiai
 
@@ -135,6 +142,16 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginys: 'Priešo kariuomenei traukiant į Karšuvą, žemaičiai įsibrovė naikinti ordino valdomo Kuršo.'
   pagrindžia:
     - c-016
+
+- t-021
+  teiginys: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  pagrindžia:
+    - c-018
+
+- t-022
+  teiginys: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 
@@ -448,3 +465,49 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   statusas: verified
   pagrindžia:
     - t-020
+
+- c-018
+  santrauka: 'Kojelavičius teigia, kad sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-021
+
+- c-019
+  santrauka: 'Kojelavičius teigia, kad tuo žygiu atgavęs Že maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne norėdamas, kad atrodytų, jog veltui puolęs Prūsiją, sukurstė žmones visame krašte atsimesti nuo kryžiuo čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po kelerių metų vėl Prūsijoje.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ka­
+    dangi miestą gynė rinktinių karių įgula, apsuptis
+    buvusi nesėkminga, ji atnešė nemažų nuostolių: čia pra­
+    rasta daug be galo narsių karių, kurie tiltu per Prieg­
+    liaus upę atkakliai veržėsi prie miesto vartų, nepaisy­
+    dami laidomų strėlių ir iečių. Tuo žygiu atgavęs Že­
+    maitiją bei Kuršą ir nusiaubęs Sembą, Mindaugas, ne­
+    norėdamas, kad atrodytų, jog veltui puolęs Prūsiją,
+    sukurstė žmones visame krašte atsimesti nuo kryžiuo­
+    čių ir, pasiuntęs iš Žemaitijos į pagalbą karių, po ke-
+    lerių metų vėl Prūsijoje sukėlė karą. Šitaip kryžiuo­
+    čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
+    kerštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-022

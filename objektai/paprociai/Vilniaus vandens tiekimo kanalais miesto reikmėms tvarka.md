@@ -182,7 +182,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
 - [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/grupes/Rusai]]

@@ -106,6 +106,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas Švabas iš Elbingo]]
 - [[objektai/daiktai/Rūbai]]

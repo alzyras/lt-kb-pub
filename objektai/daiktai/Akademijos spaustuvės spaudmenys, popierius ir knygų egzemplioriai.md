@@ -79,4 +79,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]

@@ -73,4 +73,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/luomai]]
 - [[objektai/paprociai/Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]

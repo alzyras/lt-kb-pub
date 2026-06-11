@@ -57,7 +57,7 @@ Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dobrogostas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]

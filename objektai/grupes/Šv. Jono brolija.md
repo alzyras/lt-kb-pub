@@ -62,5 +62,6 @@ Vilniaus religinė miesto brolija.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Vilniaus gyventojai]]

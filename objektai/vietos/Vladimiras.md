@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Vladimiras'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1384 m.'
@@ -14,6 +15,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Vladimiras
 
 ## Santrauka
@@ -42,6 +44,11 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   pagrindžia:
     - c-001
 
+- t-002
+  teiginys: 'Kojelavičius teigia, kad pir mąjį smūgį jis nukreipė į Volynės pasienį: apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,3 +65,23 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad pir mąjį smūgį jis nukreipė į Volynės pasienį: apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Gediminas, pasinaudojęs
+    G edim in as,
+    su d a ręs
+    susidariusiu atokvėpiu, per-
+    syti ir gerbti kaip vyriausiąjį valdovą; kiti net su­
+    tartis laužė ir drįso naugardukiečių kraštą niokoti. Pir­
+    mąjį smūgį jis nukreipė į Volynės pasienį: apsupo
+    Vladimirą, kunigaikščio Vladimiro sostinę. Pilį ir mies­
+    tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
+    atrėmė puolimą, vildamiesi, jog neužtruks parama.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

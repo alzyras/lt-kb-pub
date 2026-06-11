@@ -92,5 +92,6 @@ Nenurodyta
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

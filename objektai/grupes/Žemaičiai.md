@@ -3,6 +3,7 @@ tipas: grupe
 pavadinimas: 'Žemaičiai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -12,6 +13,7 @@ saltiniai:
 datos:
   - '1236 m.'
   - '1259 m.'
+  - '1274 m.'
   - '1930 m.'
 date_start: '1236'
 date_end: '1930'
@@ -29,6 +31,54 @@ amziai:
 ## Santrauka
 
 Žemaičiai lokalizuojami Klaipėdos krašte ir Kuršių marių pakrantėse. Žemaičiai yra pagrindinis ordino karinis tikslas. Kituose šaltiniuose jie rodomi kaip savarankiškumą išlaikanti bendruomenė, anksti pradėjusi intensyvius karo žygius prieš vokiečius, taiką tvirtinusi delnų sudaužymu ir palaikiusi prekybinius ryšius su rygiečiais. Daukanto tekste jie dar aiškinami kaip pajūrių arba žemai gyvenantys žmonės, Perūną vadinę Kūrėju, žinyčiose nestatę savo dievų paveikslų ir motinų išlaikyta sena kalba besididžiuojanti bendruomenė.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/autoriai/D. Poška]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/autoriai/K. Zabitis Nezabitauskas]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/daiktai/Kalvė]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/daiktai/Nuometai]]
+- [[objektai/paprociai/Pirmųjų šmotelių ir Ilgių dienos vaišinimas vėlėms]]
+- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
+- [[objektai/daiktai/Rogas]]
+- [[objektai/autoriai/S. Stanevičius]]
+- [[objektai/posakiai/Vakkis Ahridlis]]
+- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
+- [[objektai/asmenys/Vydimantas]]
+- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
+- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
+- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
+- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
+- [[objektai/zodynas/Vartavodamos|vartavodamos]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/paprociai/Šventųjų šaltinių ir lieknų neprileidimas]]
+- [[objektai/daiktai/Ūkės lazda]]
+- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
+- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
+- [[objektai/posakiai/Žemaičių skundas]]
+- [[objektai/paprociai/Žemaičių sėtinių kepimas namuose]]
+- [[objektai/grupes/Žuvėdai]]
+- [[objektai/paprociai/Aisčių medžių ir girių garbinimas]]
+- [[objektai/grupes/Giruliai]]
+- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]
+- [[objektai/ivykiai/Skuodo kautynės (1259 m.)]]
+- [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]
+- [[objektai/posakiai/kein Soule sie karten wider]]
+- [[objektai/paprociai/Šventųjų paukščių laikymas namuose]]
+- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
+- [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1409 m|Žemaičių sukilimas 1409 m (sukilimas)]]
+- [[objektai/zodynas/Žiuponai|žiuponai]]
 
 ## Teiginiai
 
@@ -55,8 +105,8 @@ amziai:
 - t-005
   teiginys: 'Žemaičiai dėl ordino prievartos nekentė jo skelbtos katalikybės, o po krikšto dalis jų atkrisdavo į seną tikėjimą.'
   pagrindžia:
-    - c-007
     - c-006
+    - c-007
 
 - t-006
   teiginys: 'Livonijos kryžiuočiai po Žemaičių teriojimo pasirodė Jogailos pusėje prie Trakų.'
@@ -157,8 +207,8 @@ amziai:
   teiginys: '1404 m. taikos politika laikinai apribojo Žemaičių prekybą, bet vėliau jie atgavo teises prekiauti su Aukštaičiais ir pardavinėjo prekes Dancigui.'
   pagrindžia:
     - c-029
-    - c-031
     - c-030
+    - c-031
 
 - t-026
   teiginys: 'Dusburgietis teigia, kad 1416 m. žemaičių delegacija Konstancos bažnytiniame susirinkime pareiškė, jog jie, s.'
@@ -285,6 +335,41 @@ amziai:
   teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
   pagrindžia:
     - c-047
+
+- t-053
+  teiginys: 'Kojelavičius teigia, kad živinbudas pa siuntė savo sūnų Kukovaitį su rinktine lietuvių bei žemaičių kariauna.'
+  pagrindžia:
+    - c-048
+
+- t-054
+  teiginys: 'Kojelavičius teigia, kad staiga kilusi grėsmė išjudino galybę kuršių, žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan čią vergovę, varganas likimas akivaizdžiausiai rodė, kaip labai pavojinga iš pat pradžių neatremti visomis jėgomis į kovą pakilusio priešo.'
+  pagrindžia:
+    - c-049
+
+- t-055
+  teiginys: 'Kojelavičius teigia, kad sutelkus di džiulę kuršių ir žemaičių kariuomenę, buvo nusiaubti dideli Livonijos plotai.'
+  pagrindžia:
+    - c-050
+
+- t-056
+  teiginys: 'Kojelavičius teigia, kad jeigu prireiksią jėgos, Treniotai į pagalbą atskubėsianti jam atsidavusi žemaičių kariuomenė, be to, ir jis pats laiku atsirasiąs su naugardukiečių ka riais.'
+  pagrindžia:
+    - c-051
+
+- t-057
+  teiginys: 'Kojelavičius teigia, kad tuo metu kryžiuočių riterių magistras buvo Henrikas: jis pirmiausia atnaujino santarvę su Germantu, reikalaudamas, kad šis prisiektų, jog lietu viai bei žemaičiai nesikiš j prūsų karą.'
+  pagrindžia:
+    - c-052
+
+- t-058
+  teiginys: 'Kojelavičius teigia, kad kai prūsai ir žemaičiai, kurie pabėgę slapstė si netoli stovyklos brūzgynuose, tykodami progos su rengti pasalas, iš žvalgų sužinojo, jog priešas, jausda masis išvargęs po žygio ir saugus po pergalės, plėši kauja visiškai nesirūpindamas apsauga, tai, kariškai.'
+  pagrindžia:
+    - c-053
+
+- t-059
+  teiginys: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  pagrindžia:
+    - c-054
 
 ## Reikšmingi paminėjimai
 
@@ -1207,131 +1292,182 @@ amziai:
   pagrindžia:
     - t-052
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
-- [[objektai/paprociai/Aisčių medžių ir girių garbinimas]]
-- [[objektai/autoriai/D. Poška]]
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/grupes/Giruliai]]
-- [[objektai/autoriai/K. Zabitis Nezabitauskas]]
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/daiktai/Kalvė]]
-- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/daiktai/Nuometai]]
-- [[objektai/paprociai/Pirmųjų šmotelių ir Ilgių dienos vaišinimas vėlėms]]
-- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
-- [[objektai/daiktai/Rogas]]
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/autoriai/S. Stanevičius]]
-- [[objektai/ivykiai/Skuodo kautynės (1259 m.)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/posakiai/Vakkis Ahridlis]]
-- [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
-- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
-- [[objektai/asmenys/Vydimantas]]
-- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
-- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
-- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
-- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]
-- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
-- [[objektai/posakiai/kein Soule sie karten wider]]
-- [[objektai/zodynas/Vartavodamos|vartavodamos]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/paprociai/Šventųjų paukščių laikymas namuose]]
-- [[objektai/paprociai/Šventųjų šaltinių ir lieknų neprileidimas]]
-- [[objektai/daiktai/Ūkės lazda]]
-- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
-- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
-- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
-- [[objektai/posakiai/Žemaičių skundas]]
-- [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
-- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
-- [[objektai/paprociai/Žemaičių sėtinių kepimas namuose]]
-- [[objektai/grupes/Žuvėdai]]
-- [[objektai/zodynas/Žiuponai|žiuponai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/zodynas/Austurweg]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Daumantas]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Gotai]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/asmenys/Karigaila]]
-- [[objektai/asmenys/Krivis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/autoriai/L. Kolankowski]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Lizdeika]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Normanai]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/autoriai/Thunmanas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/asmenys/Treniota]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/daiktai/Vytis]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/diecezija]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/kaštelionas]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/naujakrikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/posakiai/savo „karaliaus Vytauto”]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Anglai]]
-- [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]
-- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/autoriai/Gadebusch]]
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/daiktai/Laivai Memelyje]]
-- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
-- [[objektai/paprociai/Lietuvos krikšto apeigos]]
-- [[objektai/asmenys/Martynas V]]
-- [[objektai/daiktai/Memelio kryžiuočių pilis, apjuosta siena]]
-- [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.)]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/zodynas/Szomoyth Auxtote]]
-- [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės]]
-- [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
-- [[objektai/posakiai/jeigu jis taps krikščionimi, jam nepasiduosime]]
-- [[objektai/asmenys/Linkas]]
-- [[objektai/grupes/Valakai]]
-- [[objektai/asmenys/Zenonas]]
-- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/posakiai/pinklėmis antremti pinkles]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/daiktai/Medžių užtvaros kelyje]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/paprociai/Žemaičių atvertimo į krikščionybę veikla iš Vilniaus]]
+- c-048
+  santrauka: 'Kojelavičius teigia, kad živinbudas pa siuntė savo sūnų Kukovaitį su rinktine lietuvių bei žemaičių kariauna.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Skir­
+    mantas, norėdamas kuo greičiausiai atremti pavojų,
+    paprašė Živinbudą karinės paramos, kurią ir gavo: mat
+    jis dvejojo, ar galima pasikliauti naugardukiečiais,
+    kuriuos meilė savo tautai
+    S k irm a n to
+    k a ra s
+    su
+    lengvai galėjo pastūmėti į
+    ru sais ir p e rg a lė
+    išdavystę.
+    Živinbudas
+    pa­
+    siuntė savo sūnų Kukovai-
+    tį su rinktine lietuvių bei žemaičių kariauna. Mstisla­
+    vas
+    Bresto
+    apylinkėse
+    jau siaubė
+    kaimus,
+    žudė
+    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
+    apie artėjantį Skirmantą, buvo priverstas sutraukti
+    savo pulkus iš kaimų į stovyklą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-053
+
+- c-049
+  santrauka: 'Kojelavičius teigia, kad staiga kilusi grėsmė išjudino galybę kuršių, žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan čią vergovę, varganas likimas akivaizdžiausiai rodė, kaip labai pavojinga iš pat pradžių neatremti visomis jėgomis į kovą pakilusio priešo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kolonijos Agripinos6 ar­
+    kivyskupas Avigenas ne tik pats su kariuomene pa­
+    traukė į žygį, bet netgi jai nelyginant etmonas vado­
+    vavo. Staiga kilusi grėsmė išjudino galybę kuršių,
+    žemaičių ir lietuvių: Latvijos, pakliuvusios į žeminan­
+    čią vergovę, varganas likimas akivaizdžiausiai rodė,
+    kaip labai pavojinga iš pat pradžių neatremti visomis
+    jėgomis į kovą pakilusio priešo. Šitokios mintys teikė
+    nepatyrusiems žmogeliams tokio ryžto ir tokios drą­
+    sos, kad, greitosiomis sutelktai miniai užpuolus, pirma­
+    me susidūrime buvo sutriuškinti prityrę krikščionių
+    kariai, o pats arkivyskupas žuvo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-054
+
+- c-050
+  santrauka: 'Kojelavičius teigia, kad sutelkus di džiulę kuršių ir žemaičių kariuomenę, buvo nusiaubti dideli Livonijos plotai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kitais metais
+    Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
+    tik savo šalyje priešintis Li-
+    L en kai k v ie č ia  iš V o -
+    vonijos riteriams, dabar lie-
+    k ie tijo s  į P rū siją  k r y -
+    tuviai buvo nusiųsti pulti
+    žiu o č iu s
+    priešų žemių. Sutelkus di­
+    džiulę
+    kuršių ir žemaičių
+    kariuomenę, buvo nusiaubti dideli Livonijos plotai. Ši­
+    taip Utenis privertė priešą liautis puldinėjus Žemaiti­
+    ją ir ginti savo kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-055
+
+- c-051
+  santrauka: 'Kojelavičius teigia, kad jeigu prireiksią jėgos, Treniotai į pagalbą atskubėsianti jam atsidavusi žemaičių kariuomenė, be to, ir jis pats laiku atsirasiąs su naugardukiečių ka riais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Niekada prie jo
+    nebūsią galima lengviau prieiti, kaip tada, kai, išren­
+    gęs į Mažo vi ją geriausiuosius pulkus, pats liksiąs be
+    apsaugos. Jeigu prireiksią jėgos, Treniotai į pagalbą
+    atskubėsianti jam atsidavusi žemaičių kariuomenė, be
+    to, ir jis pats laiku atsirasiąs su naugardukiečių ka­
+    riais. Neilgai atsilaikė tiems kurstymams Treniotos
+    širdis, iš prigimties pati linkusi į garbę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-056
+
+- c-052
+  santrauka: 'Kojelavičius teigia, kad tuo metu kryžiuočių riterių magistras buvo Henrikas: jis pirmiausia atnaujino santarvę su Germantu, reikalaudamas, kad šis prisiektų, jog lietu viai bei žemaičiai nesikiš j prūsų karą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Atrodė, jog kryžiuočiams šį
+    5*
+    131
+
+    ## Puslapis 130
+
+    1274 m eta i
+    Ž em a ičia i gina p r ū ­
+    sus ir m u ša  k r y ž iu o ­
+    čius
+    karą pavyks užbaigti tada, kai sutrauks iš karto visas
+    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
+    tima pagalba. Tuo metu kryžiuočių riterių magistras
+    buvo Henrikas: jis pirmiausia atnaujino santarvę su
+    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
+    viai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-057
+
+- c-053
+  santrauka: 'Kojelavičius teigia, kad kai prūsai ir žemaičiai, kurie pabėgę slapstė si netoli stovyklos brūzgynuose, tykodami progos su rengti pasalas, iš žvalgų sužinojo, jog priešas, jausda masis išvargęs po žygio ir saugus po pergalės, plėši kauja visiškai nesirūpindamas apsauga, tai, kariškai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kry­
+    žiuočių riteriai, džiaugdamie­
+    si nekruvina pergale, tuojau
+    pat be jokios tvarkos išsi­
+    sklaidė grobio ieškoti ir sto­
+    vyklos plėšti; jie puolė, ne­
+    pasirūpinę saugumu, vytis paskutiniųjų priešo būrių
+    ir apskritai elgėsi, nelyginant bet koks pavojus būtų
+    praėjęs. Kai prūsai ir žemaičiai, kurie pabėgę slapstė­
+    si netoli stovyklos brūzgynuose, tykodami progos su­
+    rengti pasalas, iš žvalgų sužinojo, jog priešas, jausda­
+    masis išvargęs po žygio ir saugus po pergalės, plėši­
+    kauja visiškai nesirūpindamas apsauga, tai, kariškai
+    staiga susirikiavę, iššoko iš miškų ir užpuolė grobio
+    ieškotojus, juos žudydami. Tada kryžiuočiai patyrė di­
+    delį pralaimėjimą: jie neteko kariuomenės, kautynėse
+    krito karo vadai magistras Henrikas ir maršalas Dit-
+    richas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-058
+
+- c-054
+  santrauka: 'Kojelavičius teigia, kad tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėl­
+    to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
+    tui keliavo tokį kelią, įkūrė miestą, kuris po šiai die­
+    nai vadinamas Brandenburgu. Tais pačiais metais, kaip
+    sako Livonijos metraštis, žemaičiai ir lietuviai prie
+    Eželio ant ledo kovojo su Livonijos magistru Otonu,
+    magistras žuvo su penkiasdešimčia šio ordino brolių.
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-059

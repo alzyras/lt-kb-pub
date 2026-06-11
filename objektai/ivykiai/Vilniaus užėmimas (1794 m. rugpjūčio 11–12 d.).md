@@ -133,4 +133,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]

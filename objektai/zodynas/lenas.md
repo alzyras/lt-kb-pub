@@ -67,7 +67,7 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/autoriai/J. G. Vachteris Wächter]]
 - [[objektai/autoriai/Jacobas Schrenckas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Jomantas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

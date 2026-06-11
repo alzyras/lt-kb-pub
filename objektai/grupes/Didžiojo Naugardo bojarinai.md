@@ -56,7 +56,7 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
 ### Susiję objektai
 - [[objektai/asmenys/Chariničius]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Ivanas]]
 - [[objektai/asmenys/Ivanas Jermoliničius]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bojarinai]]

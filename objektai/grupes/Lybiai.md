@@ -132,6 +132,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių pirkliai]]
 - [[objektai/daiktai/Balnas]]
-- [[objektai/asmenys/Daumantas]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

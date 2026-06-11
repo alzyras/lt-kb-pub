@@ -59,7 +59,7 @@ periodo_grupes:
 - [[objektai/asmenys/Dovydas]]
 - [[objektai/asmenys/Dovilas, arba Dovydas]]
 - [[objektai/asmenys/Erdenas, arba Jerdenas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/grupes/Rogvoldovičiai]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/asmenys/Vidas, pramintas Vilku]]

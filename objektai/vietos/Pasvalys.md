@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Pasvalys'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 datos:
   - '1936 m.'
   - '1945 m.'
@@ -29,6 +30,11 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   teiginys: 'Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruošė į žygį ir sustojo Pasvaly.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad kai pulkai sustojo S ė k m in g a s ž y g is į Liprie Pasvalio, įsakė Mikalov o n iją j ui Radvilai patraukti į prie kį su lengvųjų raitelių vėlia vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -62,3 +68,31 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad kai pulkai sustojo S ė k m in g a s ž y g is į Liprie Pasvalio, įsakė Mikalov o n iją j ui Radvilai patraukti į prie kį su lengvųjų raitelių vėlia vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Į pagalbą atskubėjo Jurgis bei
+    Simonas, Slucko kunigaikščiai, atsivedę keturis tūks­
+    tančius rinktinių karių, kuriuos didikai išlaikė savo
+    699
+
+    ## Puslapis 698
+
+    lėšomis. Kai pulkai sustojo
+    S ė k m in g a s ž y g is į Li-
+    prie Pasvalio, įsakė Mikalo-
+    v o n iją
+    j ui Radvilai patraukti į prie­
+    kį su lengvųjų raitelių vėlia­
+    vomis, įsibrauti į Livoniją ir nusiaubti priešo kraštą.
+    Fiurstenbergas pasiryžo iš paskutiniųjų ginti savo žemę
+    ir tam tikslui sutelkė aštuonis tūkstančius samdytinės
+    raitijos bei kelis tūkstančius pėstininkų, greitosiomis
+    sutelktų ir apginkluotų kaimiečių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

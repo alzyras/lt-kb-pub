@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Švitrigaila'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -27,6 +28,28 @@ periodo_grupes:
 ## Santrauka
 
 Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausias Jogailos brolis ir Julijonos sūnus, įsišeimininkavęs Vitebske, vėliau grįžęs pas Vytautą ir vėl įsivėlęs į sąmokslus su ordinu. Jis siejamas su Boleslovo krikšto vardu, Briansko bei Severijos valdymu ir įkalinimu Kremenetse. Papildomai akcentuojamas jo maištas Vitebske, bėgimai į Vengriją, Maskvą ir pas Ordiną, pretenzijos į Lietuvą po Vorsklos ir Podolijos perdavimas.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
+- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/grupes/Jogailos palikuonys]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/asmenys/Sofija Vytautaitė]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/asmenys/Vyguntas]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]
 
 ## Teiginiai
 
@@ -244,6 +267,31 @@ periodo_grupes:
   teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o jis pats pabėgo į Polocką.'
   pagrindžia:
     - c-037
+
+- t-046
+  teiginys: 'Kojelavičius teigia, kad netekęs valdžios Kazimieras Skirgaila pyko dėl patirtų nuostolių ir gėdijosi dėl ne sėkmių, Boleslovą Švitrigailą kamavo nepasitenkinusios viltys: metais artimiausias Skirgailai, jis turėjo teisę pirmas paveldėti valdžią.'
+  pagrindžia:
+    - c-038
+
+- t-047
+  teiginys: 'Kojelavičius teigia, kad per du mėnep u o la V iln ių sius Konradas išmėgino viso kiausias priemones, kurių, puldami miestus, paprastai imasi visi patyrę vadai, ta čiau nesėkmingai, todėl Švitrigaila nutarė griebtis ap gaulės.'
+  pagrindžia:
+    - c-039
+
+- t-048
+  teiginys: 'Kojelavičius teigia, kad tuo metu jau galima buvo manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau nerimo Švitrigaila.'
+  pagrindžia:
+    - c-040
+
+- t-049
+  teiginys: 'Kojelavičius teigia, kad š vitrig a ila p e re in a į L ivo n i ją Vis dėlto Švitrigaila visai ką kita turėjo galvoje ir kuo ki tu rūpinosi.'
+  pagrindžia:
+    - c-041
+
+- t-050
+  teiginys: 'Kojelavičius teigia, kad atsi dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig mantą, vėliau, tarpininkaujant imperatoriui bei karaliui Jogailai, vargais negalais susitaikė su Vytautu.'
+  pagrindžia:
+    - c-042
 
 ## Reikšmingi paminėjimai
 
@@ -1031,112 +1079,122 @@ periodo_grupes:
   pagrindžia:
     - t-045
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
-- [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
-- [[objektai/grupes/Jogailos palikuonys]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
-- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Eugenijus IV]]
-- [[objektai/grupes/Husitai]]
-- [[objektai/asmenys/Jaroslavas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/bojarinai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/August von Kotzebue]]
-- [[objektai/asmenys/Bomannas]]
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
-- [[objektai/grupes/Didžiojo Naugardo bojarinai]]
-- [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
-- [[objektai/asmenys/Dmitrijus Kaributas]]
-- [[objektai/asmenys/Fridrichas fon Bebirsteynas]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/daiktai/Iždo ir pilių raktai]]
-- [[objektai/asmenys/Jurgis Lengvenaitis]]
-- [[objektai/asmenys/Konradas (Vroclavo vyskupas)]]
-- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
-- [[objektai/asmenys/Lengvenis Algirdaitis]]
-- [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
-- [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/daiktai/Medžių užtvaros kelyje]]
-- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
-- [[objektai/grupes/Moldovos kunigaikščiai]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
-- [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]
-- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]
-- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]
-- [[objektai/paprociai/Pasalos rengimas kelią užverčiant prikirstais medžiais]]
-- [[objektai/grupes/Podolės bajorai]]
-- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
-- [[objektai/grupes/Pskovo respublika]]
-- [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai]]
-- [[objektai/grupes/Silezijos ir Vroclavo gyventojai]]
-- [[objektai/grupes/Smolensko pulkai]]
-- [[objektai/asmenys/Sofija (Švitrigailos žmona)]]
-- [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]
-- [[objektai/asmenys/Vyguntas]]
-- [[objektai/posakiai/homo furiosus, ac crapula infamis]]
-- [[objektai/zodynas/konsiliumas]]
-- [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Čekų ir Silezijos savanoriai]]
-- [[objektai/grupes/Švitrigailos šalininkai]]
-- [[objektai/zodynas/šinkorystė propinacija]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
-- [[objektai/grupes/Žygimanto šalininkai]]
-- [[objektai/asmenys/Julijona]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
-- [[objektai/asmenys/Jonas Švitrigaila]]
-- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
-- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
-- [[objektai/grupes/Lenkijos bajorai]]
-- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]]
-- [[objektai/ivykiai/Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)]]
+- c-038
+  santrauka: 'Kojelavičius teigia, kad netekęs valdžios Kazimieras Skirgaila pyko dėl patirtų nuostolių ir gėdijosi dėl ne sėkmių, Boleslovą Švitrigailą kamavo nepasitenkinusios viltys: metais artimiausias Skirgailai, jis turėjo teisę pirmas paveldėti valdžią.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai karalius išvyko
+    į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje
+    tūnantį įniršį: neilgai trukus galingai prasiveržė į vie­
+    šumą tai, ką iki šiol slėpė. Netekęs valdžios Kazimieras
+    Skirgaila pyko dėl patirtų nuostolių ir gėdijosi dėl ne­
+    sėkmių, Boleslovą Švitrigailą kamavo nepasitenkinusios
+    viltys: metais artimiausias Skirgailai, jis turėjo teisę
+    pirmas paveldėti valdžią. Skirgaila, linkęs griebtis ryž­
+    tingų priemonių, be to, remiamas rusų ir turėjęs nema­
+    žai pinigų, surinktų tada, kai buvo valdžioje, savo lė­
+    šomis ėmė rengtis kariauti; sutelkęs rusų kariuomenę,
+    jis ketino pulti Vilnių ir Vytautą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-046
+
+- c-039
+  santrauka: 'Kojelavičius teigia, kad per du mėnep u o la V iln ių sius Konradas išmėgino viso kiausias priemones, kurių, puldami miestus, paprastai imasi visi patyrę vadai, ta čiau nesėkmingai, todėl Švitrigaila nutarė griebtis ap gaulės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tikrai žinoma, kad tais metais
+    Konradas pirmą kartą kariavo prieš Vytautą; pasitel­
+    kęs galybę svetimšalių ir nu-
+    Š iek  tiek  v ė lia u  Švit-
+    niokojęs kraštą, jis buvo ap-
+    rigaila k la stin gai už-
+    supęs Vilnių. Per du mėne-
+    p u o la  V iln ių
+    sius Konradas išmėgino viso­
+    kiausias
+    priemones,
+    kurių,
+    puldami miestus, paprastai imasi visi patyrę vadai, ta­
+    čiau nesėkmingai, todėl Švitrigaila nutarė griebtis ap­
+    gaulės. Jis įsakė vienam apsukriam jaunam vyrui, savo
+    giminaičiui, apsimesti perbėgėliu ir pabandyti patekti į
+    miestą; įsigijęs pasitikėjimo ir įsileistas į miestą, šis
+    turėjo susirasti atsidavusių parankinių ir, jų padedamas,
+    vienu metu padegti medines abiejų pilių įtvirtinimų
+    dalis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-047
+
+- c-040
+  santrauka: 'Kojelavičius teigia, kad tuo metu jau galima buvo manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau nerimo Švitrigaila.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo metu jau galima buvo
+    manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
+    nerimo Švitrigaila. Matydamas, kad Vytautą lydi pa­
+    stovi sėkmė, jis niršo ir siuto, galop ėmėsi ryžtingų
+    žingsnių, pasitelkdamas sve-
+    K ry žiu o č ia i
+    n io k o ja
+    timšalių ginklą. Jis nuolatos
+    L ie tu v ą
+    kurstė Prūsijos bei Livonijos
+    kryžiuočių magistrus prieš
+    Vytautą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-048
+
+- c-041
+  santrauka: 'Kojelavičius teigia, kad š vitrig a ila p e re in a į L ivo n i ją Vis dėlto Švitrigaila visai ką kita turėjo galvoje ir kuo ki tu rūpinosi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taigi atsargesni Vy­
+    tauto vyrai būgštavo, kad šis nesusimanytų žygiuoti į
+    tokias vietas, kurių ligi šiol kryžiuočiai nebuvo lietę.
+    347
+
+    ## Puslapis 346
+
+    Š vitrig a ila  p e re in a  į
+    L ivo n i ją
+    Vis dėlto Švitrigaila visai ką
+    kita turėjo galvoje ir kuo ki­
+    tu rūpinosi. Jis matė, kad iš
+    tų karų, o po teisybei, plėši­
+    kiškų antpuolių, protarpiais siaubiančių iš netyčia Lie­
+    tuvą bei Žemaitiją, naudos turi tiktai kryžiuočiai, tuo
+    tarpu jis pats lieka kaip buvęs nuskurdęs tremtinys.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-049
+
+- c-042
+  santrauka: 'Kojelavičius teigia, kad atsi dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig mantą, vėliau, tarpininkaujant imperatoriui bei karaliui Jogailai, vargais negalais susitaikė su Vytautu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jį netrukus paleido rusų sąmokslininkai, nu­
+    žudę sargybos viršininką Konradą Frankenbergą. Atsi­
+    dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­
+    mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
+    Jogailai, vargais negalais susitaikė su Vytautu. Tuo
+    metu prasidėjo karas su Prū-
+    Prūdėtas
+    karas
+    su
+    sija.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-050

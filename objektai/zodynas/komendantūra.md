@@ -66,6 +66,7 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/J. Aukštuolaitis]]
 - [[objektai/grupes/Tautinės darbo apsaugos batalionas]]

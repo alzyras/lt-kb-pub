@@ -61,3 +61,4 @@ amziai:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/seimas]]

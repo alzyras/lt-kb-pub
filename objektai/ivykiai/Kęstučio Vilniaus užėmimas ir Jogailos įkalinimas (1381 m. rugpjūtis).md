@@ -121,10 +121,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/daiktai/Pilys]]
+- [[objektai/grupes/Polockiečiai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/daiktai/Vežimai]]
 - [[objektai/daiktai/Žirgai]]

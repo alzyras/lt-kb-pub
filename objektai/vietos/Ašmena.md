@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Ašmena'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -20,6 +21,7 @@ amziai:
   - 'XII'
   - 'XXI'
 ---
+
 # Ašmena
 
 ## Santrauka
@@ -137,6 +139,11 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginys: 'Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado.'
   pagrindžia:
     - c-006
+
+- t-023
+  teiginys: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 
@@ -468,3 +475,24 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   statusas: verified
   pagrindžia:
     - t-016
+
+- c-017
+  santrauka: 'Kojelavičius teigia, kad pranciškaus ordino vienuo liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią bei vienuolyną ir dosniai juos apdovanojo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo metu
+    Andrius Vygandas, Starodubo kunigaikštis, raštiškai
+    pasižadėjo būti ištikimas karaliui: Vytautui mirus, jis
+    esą su kitais Lietuvos kunigaikščiais nepripažinsiąs ki­
+    tos valdžios, kaip Lenkijos karaliaus Jogailos. Vytautas,
+    sugrįžęs į Lietuvą, panoro pareikšti padėką gerajam
+    viešpačiui dievui už neseniai patirtą malonę, leidusią
+    jam sveikam ir gyvam pasprukti iš nelemtojo praėjusių
+    metų mūšio, todėl pastatė šv. Pranciškaus ordino vienuo­
+    liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią
+    bei vienuolyną ir dosniai juos apdovanojo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-023

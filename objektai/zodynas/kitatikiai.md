@@ -95,6 +95,8 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
 ### Susiję objektai
 - [[objektai/grupes/Unitai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/seimas]]
+- [[objektai/zodynas/senatas]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]

@@ -57,5 +57,6 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Krimo orda]]

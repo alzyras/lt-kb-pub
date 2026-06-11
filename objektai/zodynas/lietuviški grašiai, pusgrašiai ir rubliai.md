@@ -82,6 +82,6 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/sidabrinė duoklė]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Švitrigaila]]

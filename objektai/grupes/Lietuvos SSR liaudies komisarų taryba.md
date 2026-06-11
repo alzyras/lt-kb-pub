@@ -79,6 +79,7 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
 - [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]
 - [[objektai/zodynas/savanoriškumo kamufliažas]]

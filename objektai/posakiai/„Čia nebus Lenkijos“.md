@@ -80,7 +80,6 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/unija]]

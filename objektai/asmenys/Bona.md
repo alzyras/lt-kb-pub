@@ -130,10 +130,10 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/klebonija]]
 - [[objektai/zodynas/pavietas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/autoriai/Machiavellio]]

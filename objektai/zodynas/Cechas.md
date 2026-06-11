@@ -128,7 +128,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/asmenys/Albertas Skvemevita]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
-- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Ungarns]]
 - [[objektai/asmenys/Motiejus Porempskis]]
 - [[objektai/asmenys/Pilypas Glazeris]]

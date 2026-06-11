@@ -132,6 +132,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 - [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Duona]]
 - [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/imunitetai]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/kapitula]]

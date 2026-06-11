@@ -92,5 +92,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/1905 m. revoliucija Lietuvoje]]
 - [[objektai/grupes/Kazokai]]

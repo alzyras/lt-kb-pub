@@ -62,7 +62,6 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]

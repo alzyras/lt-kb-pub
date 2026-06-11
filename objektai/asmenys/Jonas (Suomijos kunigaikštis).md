@@ -44,8 +44,9 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kotryna]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Kotryna Jogailaitė]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

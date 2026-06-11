@@ -106,7 +106,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/zodynas/seniūnas]]

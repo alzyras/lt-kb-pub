@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Julijona'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Julijona
 
 ## Santrauka
@@ -66,6 +68,11 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginys: 'Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.'
   pagrindžia:
     - c-003
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -180,29 +187,21 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - t-004
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/asmenys/Dmitrijus Ivanovičius]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/asmenys/Kazimieras IV]]
-- [[objektai/asmenys/Michailas Aleksandrovičius]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/posakiai/nei žemės, nei žmonių]]
-- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
-- [[objektai/asmenys/Petras (Vilniaus vyskupas)]]
-- [[objektai/asmenys/Vyguntas]]
-- [[objektai/asmenys/Švitrigaila]]
+- c-007
+  santrauka: 'Kojelavičius teigia, kad algirdas, nors viešai laikėsi stabmeldžių apeigų, ta čiau, neseniai savo žmonos Julijonos, Vitebsko kuni gaikščio dukters, noru sutikęs priimti krikščionybę, ne atmetė rusų apeigų ir rusams Vitebske pastatė porą šventovių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mat rusai nuo senų senovės įpratę Velykų dieną do­
+    vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
+    Algirdas, nors viešai laikėsi stabmeldžių apeigų, ta­
+    čiau, neseniai savo žmonos Julijonos, Vitebsko kuni­
+    gaikščio dukters, noru sutikęs priimti krikščionybę, ne­
+    atmetė rusų apeigų ir rusams Vitebske pastatė porą
+    šventovių. Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

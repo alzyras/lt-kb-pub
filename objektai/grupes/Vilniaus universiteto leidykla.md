@@ -49,7 +49,7 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
 ### Susiję objektai
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
 - [[objektai/autoriai/Alvydas Jokubaitis]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]

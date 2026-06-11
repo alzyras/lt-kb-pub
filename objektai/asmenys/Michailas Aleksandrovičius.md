@@ -138,7 +138,7 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Julijona]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]

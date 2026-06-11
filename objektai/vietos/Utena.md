@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Utena'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1399 m.'
@@ -20,6 +21,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Utena
 
 ## Santrauka
@@ -37,6 +39,11 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad jis apgulė Uteną, kadangi ten buvo pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk mės atvirame kovos lauke, nes labiau buvo linkęs prie piktadarybių nei prie karo.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -78,3 +85,29 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad jis apgulė Uteną, kadangi ten buvo pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk mės atvirame kovos lauke, nes labiau buvo linkęs prie piktadarybių nei prie karo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Patyręs savo bei žmonos
+    skriaudą, Narimantas liūdėjo, niršo, grasino, tuo tar­
+    pu tas, kuris per aistrą buvo
+    U ž D a u m a n to  p ik ta -
+    praradęs protą, nusikaltimą
+    d a r y t ę
+    N a rim a n ta s
+    parėmė užsispyrimu: pamy-
+    k e ršiįa  karu
+    nęs dorovę, jis arba nematė
+    pavojų, arba jų nepaisė. To­
+    dėl valdovas buvo priverstas griebtis ginklo ir pradėti
+    karą su broliu. Jis apgulė Uteną, kadangi ten buvo
+    pasislėpęs svetimų žmonų viliotojas, nesitikėdamas sėk­
+    mės atvirame kovos lauke, nes labiau buvo linkęs prie
+    piktadarybių nei prie karo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

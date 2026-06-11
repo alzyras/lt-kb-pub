@@ -167,7 +167,6 @@ Nenurodyta
 - [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Sabinas]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/zodynas/kaštelionas]]

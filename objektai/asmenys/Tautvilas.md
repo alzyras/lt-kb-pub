@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Tautvilas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -21,11 +22,20 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Tautvilas
 
 ## Santrauka
 
 Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis. Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/grupes/Rygos vokiečiai]]
+- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
+- [[objektai/asmenys/Vikintas]]
 
 ## Teiginiai
 
@@ -58,6 +68,11 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
   pagrindžia:
     - c-002
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad todėl, norėdamas sutvir tinti padėtį prieš bet kokius galimus varžovus, jis iš kvietė iš Polocko savo pusbrolį Tautvilą.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -168,23 +183,26 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
-- [[objektai/grupes/Rygos vokiečiai]]
-- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vikintas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/asmenys/Algardas Hohenšteino grafas]]
-- [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Tautvila]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Edividas]]
+- c-006
+  santrauka: 'Kojelavičius teigia, kad todėl, norėdamas sutvir tinti padėtį prieš bet kokius galimus varžovus, jis iš kvietė iš Polocko savo pusbrolį Tautvilą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ko galėjo tikėtis iš tų, kuriuos jis savo pavyzdžiu bu­
+    vo išmokęs neištikimybės? Todėl, norėdamas sutvir­
+    tinti padėtį prieš bet kokius galimus varžovus, jis iš­
+    kvietė iš Polocko savo pusbrolį Tautvilą. Šiam atvykus
+    ir abiem pasveikinus vienam kitą, kad pašalintas bend­
+    ras priešas, Tautvilas pradėjo
+    T a u tv ila s
+    re zg a
+    są-
+    dėl akių tartis su Treniota
+    m o k slą  p rie š T ren io tą
+    apie valstybės reikalus, o
+    slapta su savaisiais regzti
+    prieš jį naują sąmokslą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

@@ -71,6 +71,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Stulginskis]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

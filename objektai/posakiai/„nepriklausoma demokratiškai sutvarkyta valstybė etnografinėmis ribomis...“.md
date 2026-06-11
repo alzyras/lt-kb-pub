@@ -54,4 +54,5 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Seversko Naugardas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -11,6 +12,7 @@ tags:
   - pilis
   - valdovas
 ---
+
 # Seversko Naugardas
 
 ## Santrauka
@@ -23,6 +25,16 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   teiginys: 'Vytautas apsupo Seversko Naugardą, užėmė miestą ir sučiupo Dmitrijų Kaributą.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad to krašto sostinė Seversko Naugardas — nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų žmonių turtais.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad čia jau seniai gyveno Seversko kuni gaikščiai.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +66,49 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad to krašto sostinė Seversko Naugardas — nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų žmonių turtais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nenorėdamas, kad nu-
+    340
+
+    ## Puslapis 339
+
+    galėtieji turėtų laiko kokioje
+    S u m u ša S e v e r s k o  ka-
+    vietoje atsikvėpti, jis išsiuntė
+    iiu s
+    lengvųjų raitelių būrius bė­
+    gančiųjų persekioti, tuo tarpu
+    pats, surinkęs grobį, su pagrindinėmis jėgomis patraukė
+    į Severską. To krašto sostinė Seversko Naugardas —
+    nemažas miestas, garsėjęs ne tik valdovo, bet ir kitų
+    žmonių turtais. Čia jau seniai gyveno Seversko kuni­
+    gaikščiai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad čia jau seniai gyveno Seversko kuni gaikščiai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Čia jau seniai gyveno Seversko kuni­
+    gaikščiai. Dimitras čia buvo įkurdinęs žmoną ir vaikus,
+    pagaliau pats čia pabėgo su žymiausiais savo didikais
+    po nesėkmingo mūšio. Nors Naugardą gynė nemaža
+    karių, nors miestą supo geri
+    A p s u p a  ir užim a N au-
+    mediniai (tuo metu įprasti)
+    g a rd ą
+    įtvirtinimai, tačiau Vytautas
+    ryžosi nedelsdamas jį pulti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

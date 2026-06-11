@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Dubysa'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -118,6 +119,11 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   teiginys: 'Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis.'
   pagrindžia:
     - c-011
+
+- t-021
+  teiginys: 'Kojelavičius teigia, kad plaukdami prieš srovę į krašto gilumą, prie Dubysos žiočių, patogioje vietoje, pakrantėmis išsidriekusioje gražioje lygumoje, padėjo savo naujos sodybos pama tus.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -393,3 +399,27 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   statusas: verified
   pagrindžia:
     - t-010
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad plaukdami prieš srovę į krašto gilumą, prie Dubysos žiočių, patogioje vietoje, pakrantėmis išsidriekusioje gražioje lygumoje, padėjo savo naujos sodybos pama tus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taigi šitie arba kiti (apskritai nieko ne­
+    drįstu tokiu neaišku reikalu tvirtai sakyti), Venedų,
+    arba Baltijos, jūra įplaukę neplačiu sąsiauriu į Kuršių
+    įlanką, palei krantą nusigavo į Nemuno, arba Chrono,
+    žiotis, kur upė, ilgai tekėdama per Rusią, Lietuvą ir
+    Prūsiją, išsilieja sutelkusi vandenis dvylika atšakų.
+    Plaukdami prieš srovę į krašto gilumą, prie Dubysos
+    žiočių, patogioje vietoje, pakrantėmis išsidriekusioje
+    gražioje lygumoje, padėjo savo naujos sodybos pama­
+    tus. Toji sodyba, tada vadinama R om a n o va , paskui
+    Romnove bei Romove, vėliau tapo vyriausiojo lietuvių
+    žynio Krivės Krivaičio būstine, kurią, Gediminui vieš-
+    pataujaut, iš pamatų išgriovė vokiečių ordino vienuo­
+    liai riteriai, paprastai vadinami kryžiuočiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-021

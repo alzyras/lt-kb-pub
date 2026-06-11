@@ -45,5 +45,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/įgula]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/grupes/Steigiamasis seimas]]

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Krymas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1395 m.'
@@ -14,6 +15,7 @@ tags:
 amziai:
   - 'XIV'
 ---
+
 # Krymas
 
 ## Santrauka
@@ -26,6 +28,11 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   teiginys: 'Vytautas savo valdžion paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad jie čia pasisamdė penkis šimtus raitelių, ku riuos turėjo vestis į Krymą per Lietuvos žemes.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +49,24 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad jie čia pasisamdė penkis šimtus raitelių, ku riuos turėjo vestis į Krymą per Lietuvos žemes.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karalius Ka-
+    K afos g y v e n to ja i ieš-
+    zimieras jiems leido ir savo
+    ko p a g a lb in in k ų  Len-
+    valdomose žemėse pasitelkti
+    k ijo je
+    algininkų. Jie čia pasisamdė
+    penkis šimtus raitelių, ku­
+    riuos turėjo vestis į Krymą per Lietuvos žemes. Kai
+    traukė per Braclavą, nei šio, nei to kilo ginčas tarp ka­
+    rių ir miestiečių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

@@ -60,5 +60,6 @@ Dusburgietis teigia, kad reinoldas sušakosiąs ir ateityje duosiąs gausybę va
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/legatai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

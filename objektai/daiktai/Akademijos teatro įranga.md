@@ -114,6 +114,11 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
 - [[objektai/daiktai/Rykai]]
+- [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]
+- [[objektai/asmenys/Dimitrijus]]
 - [[objektai/zodynas/amžinoji ugnis Gabija]]
+- [[objektai/zodynas/margutis]]
 - [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
+- [[objektai/zodynas/viečė]]

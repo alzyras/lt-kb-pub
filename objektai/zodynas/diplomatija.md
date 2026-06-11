@@ -57,7 +57,7 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 - [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/asmenys/Juzefas Bekas]]
 - [[objektai/grupes/LGGRTC Genocido aukų muziejus]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/zodynas/Modus vivendi]]
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]

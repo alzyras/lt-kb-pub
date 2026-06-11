@@ -41,6 +41,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/B. Dundulis]]
+- [[objektai/autoriai/Juozas Jurginis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

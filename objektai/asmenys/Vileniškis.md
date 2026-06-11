@@ -53,3 +53,4 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/įgula]]

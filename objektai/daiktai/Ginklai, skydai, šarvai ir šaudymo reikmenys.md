@@ -277,6 +277,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Augustas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/autoriai/Martinas Galias]]
@@ -290,6 +292,7 @@ Nenurodyta
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
 - [[objektai/autoriai/Lukašas Golembiovskis]]
 - [[objektai/daiktai/Sunkieji ginklai]]

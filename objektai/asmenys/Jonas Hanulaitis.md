@@ -53,4 +53,5 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
 - [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/zodynas/vėliavininkas]]
 - [[objektai/asmenys/Žygimantas]]

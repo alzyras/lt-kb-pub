@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Podolė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -20,6 +21,7 @@ amziai:
   - 'XIV'
   - 'XXI'
 ---
+
 # Podolė
 
 ## Santrauka
@@ -245,6 +247,41 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginys: 'Ir tikrai, tuojau kilo su ja konfliktas dėl Podolės žemių.'
   pagrindžia:
     - c-001
+
+- t-042
+  teiginys: 'Kojelavičius teigia, kad perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos, pilyse bei miestuose paliko lietuvių karių įgulas ir lietu vių kilmės vietininkus.'
+  pagrindžia:
+    - c-033
+
+- t-043
+  teiginys: 'Kojelavičius teigia, kad vis dėlto, vos ka ralius Jogaila, išvykęs iš Lietuvos, pasiekė Lenkiją, Bo leslovas su kariuomene patraukė į Podolę.'
+  pagrindžia:
+    - c-034
+
+- t-044
+  teiginys: 'Kojelavičius teigia, kad be to, turinti būti sugrąžinta Podolė, kurią Lie tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.'
+  pagrindžia:
+    - c-035
+
+- t-045
+  teiginys: 'Kojelavičius teigia, kad podolė atitekusi Len kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad ją kadaise užėmė karalius Kazimieras Didysis, iš dalies remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir pavertė.'
+  pagrindžia:
+    - c-036
+
+- t-046
+  teiginys: 'Kojelavičius teigia, kad dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
+  pagrindžia:
+    - c-037
+
+- t-047
+  teiginys: 'Kojelavičius teigia, kad visa Lie tuva suskato rengtis karui dėl Podolės.'
+  pagrindžia:
+    - c-038
+
+- t-048
+  teiginys: 'Kojelavičius teigia, kad štai todėl ir pasklido neteisingas gandas, jog Podolėje jau pra sidėjęs karas, kuris smarkiai visus išgąsdino.'
+  pagrindžia:
+    - c-039
 
 ## Reikšmingi paminėjimai
 
@@ -863,3 +900,175 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   statusas: verified
   pagrindžia:
     - t-040
+
+- c-033
+  santrauka: 'Kojelavičius teigia, kad perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos, pilyse bei miestuose paliko lietuvių karių įgulas ir lietu vių kilmės vietininkus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi Vytautas jiems paro­
+    dė palankumą, apsuptieji visiškai pasidavė jo malonei.
+    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
+    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
+    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
+    na išgabeno į Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-042
+
+- c-034
+  santrauka: 'Kojelavičius teigia, kad vis dėlto, vos ka ralius Jogaila, išvykęs iš Lietuvos, pasiekė Lenkiją, Bo leslovas su kariuomene patraukė į Podolę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nesunkiai pavyko susi­
+    taikyti, nes kalbėjosi broliai, kurių vienas garsėjo bepro­
+    tyste, o kitas — nuostabiu atlaidumu. Vis dėlto, vos ka­
+    ralius Jogaila, išvykęs iš Lietuvos, pasiekė Lenkiją, Bo­
+    leslovas su kariuomene patraukė į Podolę. Atstumtas nuo
+    pilių ir patyręs žymių nuostolių, jis baisiai nusiaubė
+    433
+
+    ## Puslapis 432
+
+    Lvovo ir Terebovlės apylin-
+    Įsiv e ržia  į P o d o lę
+    kės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-043
+
+- c-035
+  santrauka: 'Kojelavičius teigia, kad be to, turinti būti sugrąžinta Podolė, kurią Lie tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lietuviai visų
+    pirma reikalavo iš naujo surašyti Jogailos sudarytą su­
+    tartį (paprastai vadinamą unija), mat kadaise į susita­
+    rimo aktą dėl kurių ne kurių
+    L ie tu v ių  ir len k ų  gi n-
+    žmonių apsileidimo ar leng-
+    čai d ė l P o d o lės
+    vabūdiškumo pakliuvo keli
+    straipsniai, žeminantys Lietu­
+    vos Didžiosios Kunigaikštystės orumą ir kenkiantys jos
+    labui, juos esą reikią pašalinti ir aiškiai parašyti, kad
+    vienam valdovui pavaldi dviejų tautų sąjunga truksian­
+    ti tol, kol Jogailos šeimos palikuonys karaliausią Len­
+    kijoje. Be to, turinti būti sugrąžinta Podolė, kurią Lie­
+    tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.
+    Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
+    laikais sudaryti susitarimai, be to, vėliau, Žygimanto
+    laikais, paskelbti potvarkiai iš viso negalį būti keičiami,
+    nes jų teisėtumas nekeliąs jokių abejonių, antra vertus,
+    nieku būdu negalima liesti ir keisti ištarmių, daugel
+    kartų patvirtintų abiejų tautų didikų bei valdovų prie­
+    saikomis, antspaudais bei parašais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-044
+
+- c-036
+  santrauka: 'Kojelavičius teigia, kad podolė atitekusi Len kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad ją kadaise užėmė karalius Kazimieras Didysis, iš dalies remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir pavertė.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Lenkai atkakliai tvirtino, jog visi Jogailos ir Vytauto
+    laikais sudaryti susitarimai, be to, vėliau, Žygimanto
+    laikais, paskelbti potvarkiai iš viso negalį būti keičiami,
+    nes jų teisėtumas nekeliąs jokių abejonių, antra vertus,
+    nieku būdu negalima liesti ir keisti ištarmių, daugel
+    kartų patvirtintų abiejų tautų didikų bei valdovų prie­
+    saikomis, antspaudais bei parašais. Podolė atitekusi Len­
+    kijos karalystei ne dėl to, kad jie atplėšė ją nuo Lie­
+    tuvos, kuri į ją neturinti jokių teisių, bet todėl, kad
+    ją kadaise užėmė karalius Kazimieras Didysis, iš dalies
+    remdamasis ginklo, iš dalies — paveldėjimo teisėmis, ir
+    pavertė Lenkijos sritimi bei Lenkijos karalių nuosavy­
+    be. Jogaila, vainikuotas karaliumi, Podolę užleidęs Vy­
+    tautui, Švitrigailai ir Žygimantui todėl, kad apskritai
+    mėgęs apdalyti valdomis valstybei nusipelniusius vyrus,
+    489
+
+    ## Puslapis 488
+
+    rodydamas malonę, turėjusią trukti ne ilgiau, kaip
+    ligi jų gyvos galvos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-045
+
+- c-037
+  santrauka: 'Kojelavičius teigia, kad dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vėliau, susi­
+    kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
+    gynę savo teises į šią žemę. Dėl Jogailos, troškusio ka­
+    raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta
+    nuo Lietuvos ir prijungta prie Lenkijos. Žinoma, jis pa­
+    daręs klaidą, kai, siekdamas sosto, davęs neapgalvotų
+    pažadų, antra vertus, jų reikalas neleisti, kad valstybė
+    dėl anų susitarimų patirtų kokių nuostolių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-046
+
+- c-038
+  santrauka: 'Kojelavičius teigia, kad visa Lie tuva suskato rengtis karui dėl Podolės.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    N e s ė k m in g a s  ž y g is  į
+    P rūsiją
+    leidimo paliko stovyklą, o
+    sumažėjus jėgoms ir pralei­
+    dus tinkamą metą
+    lemia-
+    rkovo seime jie, be galo iš­
+    510
+
+    ## Puslapis 509
+
+    Šitai dar labiau sukurstė aist-
+    N a u ja  au d ra  d ė l Po-
+    ras, dar neatvėsusias po anks-
+    d o lės
+    tesnių sambrūzdžių. Visa Lie­
+    tuva suskato rengtis karui dėl
+    Podolės. Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
+    tenkinta grasinimais bei kariuomenės telkimu, nes kaip
+    tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
+    nas Goštautas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-047
+
+- c-039
+  santrauka: 'Kojelavičius teigia, kad štai todėl ir pasklido neteisingas gandas, jog Podolėje jau pra sidėjęs karas, kuris smarkiai visus išgąsdino.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai
+    žinia apie šį įvykį pasiekė Lenkiją ir Lietuvą, bemat
+    pasklido kalbos, jog ten vyko kur kas didesnės kovos
+    nei iš tikrųjų (paprastai šitokį atgarsį sukelia pirmi
+    gandai), nes žmogus be galo linkęs viską perdėti arba
+    visko prisigalvoti, kaip jam šauna į galvą. Štai todėl
+    ir pasklido neteisingas gandas, jog Podolėje jau pra­
+    sidėjęs karas, kuris smarkiai visus išgąsdino. Gerai
+    nežinau, bet galbūt dėl šios priežasties Parčeve grei­
+    tosiomis šaukiamą seimą atidėjo beveik ligi metų pa­
+    baigos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-048

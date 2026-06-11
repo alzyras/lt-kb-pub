@@ -182,4 +182,4 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/didysis kunigaikštis]]

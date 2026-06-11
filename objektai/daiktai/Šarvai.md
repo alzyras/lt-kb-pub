@@ -130,13 +130,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Skydas]]
 - [[objektai/zodynas/lengvoji kavalerija]]
 - [[objektai/asmenys/Gerhardas, pravarde Rudė]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/daiktai/Karacenos šarvų komplektas]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]

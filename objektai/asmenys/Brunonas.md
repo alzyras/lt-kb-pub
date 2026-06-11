@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Brunonas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -10,7 +11,9 @@ tags:
   - asmuo
   - kraštas
   - krikštas
+  - šventė
 ---
+
 # Brunonas
 
 ## Santrauka
@@ -38,6 +41,11 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   teiginys: 'Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.'
   pagrindžia:
     - c-001
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -118,27 +126,21 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Brunonas iš Kverfurto]]
-- [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
-- [[objektai/asmenys/Burchardas iš Magdeburgo]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
-- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
-- [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai]]
-- [[objektai/asmenys/Odoničius]]
-- [[objektai/asmenys/Samboras]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
-- [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
-- [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
-- [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]
-- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/zodynas/Kristaus kariai]]
-- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad pavijęs siaubėjus ne toli Livonijos įlankos, magistras Brunonas nirtulingai juos užpuolė prie Treiderės upės, jau apsikrovusius grobiu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

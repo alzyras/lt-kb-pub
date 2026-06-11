@@ -92,6 +92,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]

@@ -125,7 +125,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Chariničius]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Ivanas]]
 - [[objektai/asmenys/Ivanas Jermoliničius]]
 - [[objektai/autoriai/Kotzebue]]
 - [[objektai/grupes/Rusai]]

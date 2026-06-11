@@ -76,6 +76,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis]]
 - [[objektai/asmenys/Karolis XII]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Rusai]]

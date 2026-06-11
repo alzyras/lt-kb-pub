@@ -108,6 +108,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Papuošalai]]

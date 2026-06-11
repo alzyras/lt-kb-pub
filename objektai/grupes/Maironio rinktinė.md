@@ -77,7 +77,6 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/ivykiai/Užpelkių kautynės]]

@@ -163,6 +163,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 - [[objektai/grupes/Karo ir iždo komisijos]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/grupes/Lietuviai]]

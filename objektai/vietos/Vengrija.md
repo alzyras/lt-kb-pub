@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Vengrija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -94,6 +95,21 @@ amziai:
   teiginys: 'Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai.'
   pagrindžia:
     - c-009
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad karaliui išvykus, ir imperatorius, apsvarstęs su Vytautu svarbiausius klau simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai iš Volynės į Vengriją.'
+  pagrindžia:
+    - c-010
+
+- t-016
+  teiginys: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  pagrindžia:
+    - c-011
+
+- t-017
+  teiginys: 'Kojelavičius teigia, kad brolis neatsisakė, ir jie susitarė šito kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be neficiją Sileziją.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -245,3 +261,63 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-014
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad karaliui išvykus, ir imperatorius, apsvarstęs su Vytautu svarbiausius klau simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai iš Volynės į Vengriją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams. Karaliui išvykus, ir
+    imperatorius, apsvarstęs su Vytautu svarbiausius klau­
+    simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
+    iš Volynės į Vengriją. Išvykstančiam Vytautas davė
+    galybę dovanų pridėjęs ir Vilniaus įkūrėjo Gedimino
+    nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
+    bei brangakmeniais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad kadangi tėvas karštai reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis, gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa grįstas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be to, jis puikiai atsi­
+    minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
+    vengrai lengva ranka apgavo. Kadangi tėvas karštai
+    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
+    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
+    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
+    grįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­
+    pešęs, turėjo grįžti į Lenkiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-016
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad brolis neatsisakė, ir jie susitarė šito kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be neficiją Sileziją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tačiau Vladislovas tuojau pat po
+    pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
+    tarvės sudarymo. Brolis neatsisakė, ir jie susitarė šito­
+    kiomis sąlygomis: Vladislovas liksiąs Vengrijos karaliu­
+    mi, jam mirus ir nepalikus vaikų, Jonas tapsiąs sosto
+    įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be­
+    neficiją Sileziją.
+    Apie šiuos susitarimus karalius nieko nežinojo, mat
+    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017

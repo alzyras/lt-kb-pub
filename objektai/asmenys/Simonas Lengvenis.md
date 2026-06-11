@@ -1,7 +1,8 @@
 ---
 tipas: asmuo
-pavadinimas: 'Simonas Lengvenis'
+pavadinimas: 'Simonas Lengvenis (valdovas, XIV a.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -19,7 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
-# Simonas Lengvenis
+# Simonas Lengvenis (valdovas, XIV a.)
 
 ## Santrauka
 
@@ -41,6 +42,11 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   teiginys: 'Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.'
   pagrindžia:
     - c-002
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad kad nuo tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į Severską — Dimitras Kaributas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -114,16 +120,27 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   pagrindžia:
     - t-004
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/asmenys/Patrikas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Patrikas, arba Patricijus]]
+- c-004
+  santrauka: 'Kojelavičius teigia, kad kad nuo tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į Severską — Dimitras Kaributas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Po šios per­
+    to karo vadas ir įkvėpėjas, buvo paimtas į nelaisvę ir
+    nusiųstas pas Jogailą, o visa Rusia sutramdyta. Kad nuo
+    tos pusės vėl nekiltų kokia sąmyšių banga, Boleslovas
+    Švitrigaila su nemaža įgula pasiliko Polocke, kitą ka­
+    riuomenę paleidus, Vytautas sugrįžo į Gardiną, Skir­
+    gaila į Trakus, Simonas Lengvenis į Mstislavlį, o į
+    Severską — Dimitras Kaributas. Jogaila, atsikratęs šio
+    karo rūpesčių ir nelaisvėn paimtą brolį Vingaudą iš­
+    siuntęs į Chencinų pilies kalėjimą, ryžtingiau ėmėsi
+    Su m u ša
+    S via to sla vą ,
+    S m o le n sk o  k u n ig a ik ­
+    štį
+    ti į puolantį priešą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

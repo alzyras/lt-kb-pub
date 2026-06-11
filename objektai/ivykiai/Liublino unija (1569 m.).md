@@ -2,10 +2,12 @@
 tipas: ivykis
 pavadinimas: 'Liublino unija (1569 m.)'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1386 m.'
   - '1569 m.'
+  - '1648 m.'
   - '1795 m.'
 date_start: '1386'
 date_end: '1795'
@@ -98,6 +100,16 @@ Nenurodyta
   teiginys: '1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką.'
   pagrindžia:
     - c-009
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad liublino seime 1569 m. ginčytasi ne dėl pa čios unijos, o dėl jos sąlygų.'
+  pagrindžia:
+    - c-010
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -261,23 +273,44 @@ Nenurodyta
     - t-012
     - t-011
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kompromisas]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/posakiai/„Šventos santuokos“]]
-- [[objektai/daiktai/Antspaudai]]
-- [[objektai/daiktai/Antspaudas]]
+- c-010
+  santrauka: 'Kojelavičius teigia, kad liublino seime 1569 m. ginčytasi ne dėl pa čios unijos, o dėl jos sąlygų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš dedikacijų teksto, kupino įprastinio gražbyliavimo,
+    matyti A. Kojelavičiaus pažiūros į Lietuvos ir Lenkijos
+    santykius. Liublino seime 1569 m. ginčytasi ne dėl pa­
+    čios unijos, o dėl jos sąlygų. Lietuvos atstovai stojo
+    už dviejų valstybių federaciją, o Lenkijos — už vals­
+    tybių ir tautų integraciją Lenkijos karaliaus valdžioje
+    ir jungtinę valstybę vadino Žečpospolita.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio navo Ukrainos prijungimą prie Lenkijos, pripažino ka ralių ir bendrą seimą jungtinės valstybės suverenu, užtikrino žemės nuosavybės ir žemėvaldos teisę tik šlėktų luomo nariams, o politines teises — tik.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žymesnieji buržuazinės istoriografijos atstovai, lai­
+    kydamiesi tokios didžiavalstybinės pažiūros, vadino
+    Lietuvą valstybe, o uolų feodalinio imuniteto saugoji­
+    mą vaizdavo kaip valstybės ar net tautos reikalų gy­
+    nimą.
+    Iš tikrųjų unijos aktai ir Lietuvos Statutas sankcio­
+    navo Ukrainos prijungimą prie Lenkijos, pripažino ka­
+    ralių ir bendrą seimą jungtinės valstybės suverenu,
+    užtikrino žemės nuosavybės ir žemėvaldos teisę tik
+    šlėktų luomo nariams, o politines teises — tik federa­
+    ciją sudarantiems indigenams, o šitai konservavo bau­
+    džiavą, kliudė prekiniams ir piniginiams santykiams
+    plėstis, miestams stiprėti ir tuo pačiu lietuvių, baltaru­
+    sių ir ukrainiečių tautybėms tapti tautomis (nacijomis).
+    Kai 1648 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014

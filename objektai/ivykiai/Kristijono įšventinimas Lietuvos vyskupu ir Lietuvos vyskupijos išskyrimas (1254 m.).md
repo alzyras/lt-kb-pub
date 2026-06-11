@@ -85,7 +85,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Inocentas IV]]
 - [[objektai/asmenys/Kristijonas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

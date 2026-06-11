@@ -50,5 +50,6 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]

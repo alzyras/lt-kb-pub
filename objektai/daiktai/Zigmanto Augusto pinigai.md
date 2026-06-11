@@ -110,10 +110,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Zigmantas Augustas]]

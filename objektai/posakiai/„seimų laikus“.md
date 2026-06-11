@@ -53,5 +53,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Juozas Pajaujis]]
 - [[objektai/ivykiai/Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)]]

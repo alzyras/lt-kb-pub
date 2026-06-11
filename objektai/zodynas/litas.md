@@ -85,6 +85,7 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos bankas]]

@@ -49,6 +49,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]

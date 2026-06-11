@@ -52,4 +52,5 @@ Po kelių dienų mūsų apylinkės pirmininkas Blinkevičius nusprendė, kad rei
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/posakiai/karas po karo]]

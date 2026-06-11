@@ -108,5 +108,6 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
 - [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Tadas Kosciuška]]

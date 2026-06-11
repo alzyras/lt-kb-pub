@@ -84,7 +84,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/asmenys/Leonas]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Adynos|adynos]]

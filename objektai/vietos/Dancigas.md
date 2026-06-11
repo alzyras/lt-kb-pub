@@ -3,11 +3,13 @@ tipas: vieta
 pavadinimas: 'Dancigas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-  - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 datos:
   - '1325 m.'
   - '1466 m.'
+  - '1650 m.'
+  - '1669 m.'
   - '1919 m.'
   - '1936 m.'
 date_start: '1325'
@@ -18,6 +20,7 @@ amziai:
   - 'XIV'
   - 'XX'
 ---
+
 # Dancigas
 
 ## Santrauka
@@ -44,6 +47,13 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 
 - tipas: miestas / pilis
 
+## Ryšiai
+
+### Susiję objektai
+- Karaliaučius
+- Lietuva
+- Ryga
+
 ## Teiginiai
 
 - t-001
@@ -65,6 +75,16 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   teiginys: 'Kadangi netrukus mirė jo konkurentas imperatorius Maksimilijonas, tai jį bematant pripažino visa Lenkija; nepripažino jo tiktai vienintelis pirklių valdomas Dancigo miestas, kurs betgi buvo ginklu priverstas jam nusilenkti.'
   pagrindžia:
     - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad gvagninis, nors jo istorija para šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad atvykęs į Gdanską, karalius dalį maištininkų nubaudė mirtimi, o dalį, tai yra tuos, kurie, paskubomis pabėgę, išnešė iš po kala vijo sveikas galvas, įtraukė į pasmerktųjų sąrašus; ši taip nubaudęs kaltininkus, jis sugrąžino miestiečiams ir tikintiesiems.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -133,3 +153,38 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad gvagninis, nors jo istorija para šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    A. Kojelavičius nebegalėjo tikėtis tokio pasiseki­
+    mo, kokio susilaukė A. Gvagninis, nors jo istorija para­
+    šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas
+    išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad atvykęs į Gdanską, karalius dalį maištininkų nubaudė mirtimi, o dalį, tai yra tuos, kurie, paskubomis pabėgę, išnešė iš po kala vijo sveikas galvas, įtraukė į pasmerktųjų sąrašus; ši taip nubaudęs kaltininkus, jis sugrąžino miestiečiams ir tikintiesiems.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Savava­
+    liškai jie paskelbė įstatymą,
+    kad esą tie, kurie atsisako prisidėti prie naujos sek­
+    tos, netenką iki šiol eitų pareigų. Karalius turėjp kuo
+    skubiausiai ten nuvykti ir sutramdyti maištininkus, kol
+    jie nespėjo giliau įleisti šaknų. Atvykęs į Gdanską,
+    karalius dalį maištininkų nubaudė mirtimi, o dalį, tai
+    yra tuos, kurie, paskubomis pabėgę, išnešė iš po kala­
+    vijo sveikas galvas, įtraukė į pasmerktųjų sąrašus; ši­
+    taip nubaudęs kaltininkus, jis sugrąžino miestiečiams
+    ir tikintiesiems ramybę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

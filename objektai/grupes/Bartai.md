@@ -2,6 +2,7 @@
 tipas: grupe
 pavadinimas: 'Bartai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -17,6 +18,7 @@ tags:
 amziai:
   - 'XIII'
 ---
+
 # Bartai
 
 ## Santrauka
@@ -28,11 +30,11 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie antrąjį Bartenšteino pilies sugriovimą Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams, labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje, broliams iš jos pasitraukus, buvo.'
   pagrindžia:
+    - c-001
     - c-003
     - c-006
-    - c-014
-    - c-001
     - c-007
+    - c-014
 
 - t-002
   teiginys: 'Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
@@ -57,8 +59,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - t-006
   teiginys: 'Dusburgietis teigia, kad dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
   pagrindžia:
-    - c-008
     - c-004
+    - c-008
 
 - t-007
   teiginys: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
@@ -95,6 +97,11 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginys: 'Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.'
   pagrindžia:
     - c-014
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -368,59 +375,22 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindžia:
     - t-008
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Divanas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/asmenys/Henrikas iš Svarcburgo]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/asmenys/Linkas]]
-- [[objektai/asmenys/Maudelis]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/zodynas/žygūnai]]
-- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
-- [[objektai/asmenys/Auktumas]]
-- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
-- [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]
-- [[objektai/asmenys/Derska]]
-- [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
-- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
-- [[objektai/grupes/Elbingo miestiečiai]]
-- [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
-- [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
-- [[objektai/asmenys/Glanda]]
-- [[objektai/asmenys/Glapas]]
-- [[objektai/asmenys/Kaltis]]
-- [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
-- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
-- [[objektai/asmenys/Numa]]
-- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]
-- [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
-- [[objektai/asmenys/Tirskas]]
-- [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
-- [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]
-- [[objektai/zodynas/bažnyčios visuotinybė]]
-- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
-- [[objektai/daiktai/Arbaletas]]
-- [[objektai/asmenys/Arnoldas Krofas]]
-- [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
+- c-016
+  santrauka: 'Kojelavičius teigia, kad tą pralaimėjimą jie pa tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos, kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje, vildamiesi, jog už naują išdavystę kryžiuočiai jiems atleis jų ankstesnį nusikaltimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu keletas kitų lietuvių būrių
+    niokojo Lenkijos pasienius, grįždami jie pateko į prie­
+    šų pasalas, ir tuo metu, kai namai, regis, buvo ranka
+    pasiekiami, šie juos išžudė. Tą pralaimėjimą jie pa­
+    tyrė dėl dviejų prūsų didikų, bartų Numos ir Derskos,
+    kurie tup metu, pabėgę iš Prūsijos, gyveno Lietuvoje,
+    vildamiesi, jog už naują išdavystę kryžiuočiai jiems
+    atleis jų ankstesnį nusikaltimą. Kitų metų pradžioje
+    lietuvių reikalai nė trupučio nepagerėjo, nors ir nebu­
+    vo tokie blogi kaip anuomet.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Maskva'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -563,6 +564,26 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-067
+
+- t-111
+  teiginys: 'Kojelavičius teigia, kad nuo stovyklos iki Maskvos bebuvo likę dar aštuoniolika mylių, tačiau kariai šį kelią taip greitai, regis, pusrisčia sukorė, kad žygūnas tik keliomis valandomis pra lenkė iš paskos sekančią kariuomenę.'
+  pagrindžia:
+    - c-082
+
+- t-112
+  teiginys: 'Kojelavičius teigia, kad vasilijus pri mygtinai reikalavo, kad ka raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng viau galėsiąs tramdyti saviškius, jei šie susimanys be saiko ginčytis.'
+  pagrindžia:
+    - c-083
+
+- t-113
+  teiginys: 'Kojelavičius teigia, kad kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.'
+  pagrindžia:
+    - c-084
+
+- t-114
+  teiginys: 'Kojelavičius teigia, kad susitikę su maskvėnais, karaliaus le gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo tarpu pasirašyti paliaubas pagal senąją formulę.'
+  pagrindžia:
+    - c-085
 
 ## Reikšmingi paminėjimai
 
@@ -2053,3 +2074,103 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   statusas: verified
   pagrindžia:
     - t-110
+
+- c-082
+  santrauka: 'Kojelavičius teigia, kad nuo stovyklos iki Maskvos bebuvo likę dar aštuoniolika mylių, tačiau kariai šį kelią taip greitai, regis, pusrisčia sukorė, kad žygūnas tik keliomis valandomis pra lenkė iš paskos sekančią kariuomenę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Neilgai trukus, įsmei­
+    gęs į Dimitrijaus rūmus ietį,
+    M a s k v o s
+    k u n ig a ik š-
+    jis paliksiąs ten aukštai štai
+    čiui siu n čiam as d eg -
+    tokį įrašą: „Ne tas karvedys,
+    las
+    kuris, ilgą laiką atidėlioda­
+    mas galimybę pradėti karą,
+    pražiopso tinkamą progą, o tas, kuris, netgi tinkamos
+    progos neturėdamas, sugeba sėkmingai kariauti". Nuo
+    stovyklos iki Maskvos bebuvo likę dar aštuoniolika
+    mylių, tačiau kariai šį kelią taip greitai, regis, pusris-
+    čia sukorė, kad žygūnas tik keliomis valandomis pra­
+    lenkė iš paskos sekančią kariuomenę. Tą pačią naktį,
+    skirtą paminėti Kristaus iš numirusių prisikėlimui ir
+    krikščionių kasmet iškilmingai švenčiamą, kai kuni­
+    gaikštis ėjo bažnyčion į naktines pamaldas, prie jo
+    pribėgo žygūnas, pasakė, kas jam buvo liepta, ir pra­
+    nešė, kad priešą palikęs Možaiske.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-111
+
+- c-083
+  santrauka: 'Kojelavičius teigia, kad vasilijus pri mygtinai reikalavo, kad ka raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng viau galėsiąs tramdyti saviškius, jei šie susimanys be saiko ginčytis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dėl to visi pradėjo
+    atvirai niekinti senuosius magistrų, maršalų, komtūrų
+    titulus ir galvoti apie valstybinės santvarkos pakei­
+    timą.
+    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
+    nislovo Daugirdo, susitarė su
+    T a ik o s
+    d e r y b o s
+    su
+    Vasilijumi tęsti pradėtas tai-
+    m a sk v ė n a is
+    kos derybas. Vasilijus pri­
+    mygtinai reikalavo, kad ka­
+    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
+    viau galėsiąs tramdyti saviškius, jei šie susimanys be
+    saiko ginčytis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-112
+
+- c-084
+  santrauka: 'Kojelavičius teigia, kad kadangi Maskvos didikai atkirto, kad ne gali būti nė kalbos apie šitokias sąlygas, pradėta derė tis dėl kitokių taikos formulių.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi Maskvos didikai atkirto, kad ne­
+    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
+    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
+    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
+    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
+    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
+    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
+    susitarus dėl taikos, išvykti iš Maskvos. Visai atsitikti­
+    nai kažkam užsiminus, kad būtų galima sudaryti de­
+    šimčiai metų paliaubas, kurių metu lietuviai bei mask­
+    vėnai netrukdomi valdytų kraštą, kurį turėjo paliaubų
+    pradžioje, nesvarbu, ar teisėtai, ar neteisėtai įsigytą,
+    abi šalys susitarė dėl penkerių metų paliaubų ir Smo­
+    lensko žemės sienos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-113
+
+- c-085
+  santrauka: 'Kojelavičius teigia, kad susitikę su maskvėnais, karaliaus le gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo tarpu pasirašyti paliaubas pagal senąją formulę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Susitikę su maskvėnais, karaliaus le­
+    gatai pasiūlė ginčą dėl titulų perduoti karaliui, o tuo
+    tarpu pasirašyti paliaubas pagal senąją formulę. Mask­
+    vėnai primygtinai reikalavo, kad legatai laišku pa­
+    klaustų karalių, kokia jo nuomonė šiuo klausimu, o
+    atsakymo palauktų Maskvoje. Galop abi šalys sutarė
+    penkerių metų paliaubas šitokiomis sąlygomis: kuni­
+    gaikštis Maskvos raštuose galėsiąs vadintis caru, tuo
+    tarpu legatai laikysis senosios formulės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-114

@@ -72,6 +72,7 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/daiktai/Bombardos]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/grupes/Vytauto šalininkai]]

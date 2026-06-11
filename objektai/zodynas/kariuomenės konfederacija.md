@@ -69,4 +69,5 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/konfederacija]]

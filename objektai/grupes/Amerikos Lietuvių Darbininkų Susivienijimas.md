@@ -52,3 +52,4 @@ Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]

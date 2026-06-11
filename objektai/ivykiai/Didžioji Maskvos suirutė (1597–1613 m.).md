@@ -147,13 +147,13 @@ Nenurodyta
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jaunutis]]
+- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/grupes/Romanovų dinastija]]
 - [[objektai/zodynas/samozvancas]]

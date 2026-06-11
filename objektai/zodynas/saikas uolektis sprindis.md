@@ -47,6 +47,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Petras Puzdravičius]]
 - [[objektai/asmenys/Povilas Piestavičius]]

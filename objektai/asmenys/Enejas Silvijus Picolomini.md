@@ -45,4 +45,5 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/globėjas]]
 - [[objektai/grupes/Čekai]]

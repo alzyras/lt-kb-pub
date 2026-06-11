@@ -86,3 +86,4 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/luomai]]

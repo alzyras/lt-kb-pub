@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'J. Dlugošas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -81,6 +82,11 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   teiginys: 'Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė.'
   pagrindžia:
     - c-003
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad šitaip priekaištavo karaliui eiliniai kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau, antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje didikų, kurie apsuptiesiems teikė žinių ir maisto.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 
@@ -283,19 +289,31 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-008
     - t-011
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Dobeslavas Skoračevskis]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- c-011
+  santrauka: 'Kojelavičius teigia, kad šitaip priekaištavo karaliui eiliniai kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau, antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje didikų, kurie apsuptiesiems teikė žinių ir maisto.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Žmonės visuomet linkę ką įtari­
+    nėti, todėl ir kariai netrukus ėmė burnoti prieš karalių,
+    kad, girdi, sutikdamas su paliaubomis, jis sąmoningai
+    išleidęs iš rankų pergalę, kad jam kur kas labiau rūpi
+    brolis Boleslovas nei karalystės reikalai, tik dėl akių,
+    girdi, supama pilis, o iš tikrųjų sekinamos ir alinamos
+    kariuomenės jėgos. Šitaip priekaištavo karaliui eiliniai
+    kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau,
+    antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje
+    didikų, kurie apsuptiesiems teikė žinių ir maisto. Kol
+    dar Luckas laikėsi, Boleslo-
+    Š v itrig a ila
+    d e d a si
+    vas neprarado vilties užbaigti
+    tro k štą s ta ik o s
+    karą taip, kaip norėjo; nuta­
+    ręs pataisyti savo pakrikusius
+    reikalus, jis pasikvietė iš Valachijos bei Skitijos samdi­
+    ninkų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013

@@ -2,11 +2,13 @@
 tipas: grupe
 pavadinimas: 'Husitai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1421 m.'
+  - '1429 m.'
   - '2026 m.'
 date_start: '1421'
 date_end: '2026'
@@ -19,11 +21,31 @@ amziai:
   - 'XV'
   - 'XXI'
 ---
+
 # Husitai
 
 ## Santrauka
 
 Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių. Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
+
+## Ryšiai
+
+### Susiję objektai
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
+- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
+- [[objektai/asmenys/Prokopas]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/asmenys/St. Ciolką]]
+- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
+- [[objektai/zodynas/ekskomunika]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 
 ## Teiginiai
 
@@ -76,6 +98,11 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
   pagrindžia:
     - c-008
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -230,37 +257,32 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   pagrindžia:
     - t-005
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
-- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
-- [[objektai/asmenys/Prokopas]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/asmenys/St. Ciolką]]
-- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
-- [[objektai/zodynas/ekskomunika]]
-- [[objektai/posakiai/in odium Sigismundi]]
-- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos vyskupai]]
-- [[objektai/asmenys/Martynas V]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Balnas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)]]
-- [[objektai/asmenys/Zigmantas Kaributas]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/autoriai/B. Dundulis]]
+- c-010
+  santrauka: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl vienaip kalbėjo im­
+    peratorius su Jogaila, kitaip
+    1429 m eta i
+    akis į akį su Vytautu. Valdo­
+    vų posėdyje jis visą laiką ra­
+    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
+    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
+    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
+    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

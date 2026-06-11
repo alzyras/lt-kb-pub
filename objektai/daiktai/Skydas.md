@@ -131,6 +131,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Martynas iš Golino]]

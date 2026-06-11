@@ -112,6 +112,5 @@ Nenurodyta
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/asmenys/Mikalojus Radvila II]]

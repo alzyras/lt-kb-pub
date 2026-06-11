@@ -3,10 +3,12 @@ tipas: vieta
 pavadinimas: 'Didžioji Lenkija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1253 m.'
   - '1254 m.'
+  - '1306 m.'
   - '1431 m.'
 date_start: '1253'
 date_end: '1431'
@@ -19,6 +21,7 @@ amziai:
   - 'XIII'
   - 'XV'
 ---
+
 # Didžioji Lenkija
 
 ## Santrauka
@@ -46,6 +49,16 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad pa sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius į Didžiąją Lenkiją.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -128,3 +141,57 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   statusas: verified
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Valdovas, sugrįžęs iš Prūsijos, gavo ži­
+    nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy­
+    giuoti. Sutelkęs karius prie
+    S u g rįžęs iš P rū sijos,
+    Gardino, jis subūrė nemažą
+    p a tra u k ia  į L en k iją
+    kariuomenę ir, netrukdomas
+    mozūrų, o gal šiems nieko
+    nežinant (šitai rodosi panašu į tiesą), nes kariuomenė
+    buvo vedama slaptais ir be-
+    1306 m e ta i
+    veik nepraeinamais keliais
+    per Mazovijos miškus, įsi­
+    veržė į Didžiosios Lenkijos žemes. Staigiu antpuoliu
+    užėmė Kališo ir Stavišino miestus; gyventojai būtų nė
+    nepajutę ateinant priešo, jeigu šis nebūtų pradėjęs
+    183
+
+    ## Puslapis 182
+
+    siautėti miestuose degindamas ir žudydamas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad pa sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius į Didžiąją Lenkiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    397
+
+    ## Puslapis 396
+
+    Danijos karalius ir Pomeranijos kunigaikštis, atvykę
+    kryžiuočiams į pagalbą ir supratę, kas teisus ir netei­
+    sus, pasipiktino ir, atvirai atsisakę remti kryžiuočius,
+    perėjo į Jogailos ir Vytauto pusę, pasirašydami sutartį,
+    kuria pasižadėjo padėti kovoti prieš kryžiuočius, jeigu
+    šie susimanytų nepaisyti ką tik sudarytų paliaubų. Pa­
+    sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
+    karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
+    Srodą, vos neprarado gyvybės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

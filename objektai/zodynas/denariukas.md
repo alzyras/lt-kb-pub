@@ -52,4 +52,5 @@ amziai:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Stulpai]]
 - [[objektai/daiktai/Lietuvos pinigai]]

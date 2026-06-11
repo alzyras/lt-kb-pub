@@ -120,7 +120,7 @@ amziai:
 - [[objektai/grupes/Varmiai]]
 - [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
 - [[objektai/posakiai/kein Soule sie karten wider]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Pilys]]

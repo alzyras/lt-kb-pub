@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Naugardukas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -11,6 +12,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1044 m.'
+  - '1314 m.'
   - '2026 m.'
 date_start: '1044'
 date_end: '2026'
@@ -25,6 +27,7 @@ amziai:
   - 'XI'
   - 'XXI'
 ---
+
 # Naugardukas
 
 ## Santrauka
@@ -192,6 +195,26 @@ amziai:
   teiginys: 'Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.'
   pagrindžia:
     - c-024
+
+- t-033
+  teiginys: 'Kojelavičius teigia, kad šitaip sutvarkęs vals tybės reikalus ir perkėlęs kunigaikštystės sostinę iš Naugarduko į Kernavę, jis ėmė galvoti apie karo da lykus.'
+  pagrindžia:
+    - c-025
+
+- t-034
+  teiginys: 'Kojelavičius teigia, kad truputį vėliau Henrikas, ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka riuomene ligi Naugarduko.'
+  pagrindžia:
+    - c-026
+
+- t-035
+  teiginys: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  pagrindžia:
+    - c-027
+
+- t-036
+  teiginys: 'Kojelavičius teigia, kad gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Alberto Goštauto, subruz do ginti pilies, o kiti pasitraukė už Nemuno.'
+  pagrindžia:
+    - c-028
 
 ## Reikšmingi paminėjimai
 
@@ -652,3 +675,96 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-032
+
+- c-025
+  santrauka: 'Kojelavičius teigia, kad šitaip sutvarkęs vals tybės reikalus ir perkėlęs kunigaikštystės sostinę iš Naugarduko į Kernavę, jis ėmė galvoti apie karo da lykus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tad, su Traideniu tvarkydamas vals­
+    140
+
+    ## Puslapis 139
+
+    tybės reikalus, tuo pačiu jis stiprino šio galią ir, ne­
+    paisydamas brolio priešiškumo, teikė jam vilčių, jog
+    ateityje jam atiteksianti valstybė. Šitaip sutvarkęs vals­
+    tybės reikalus ir perkėlęs kunigaikštystės sostinę iš
+    Naugarduko į Kernavę, jis ėmė galvoti apie karo da­
+    lykus. Nuolatos keičiantis valdovams, jie eidavo savo
+    pareigas vos metus, todėl kariuomenės reikalai buvo
+    gana prasti, nes ir tarybos, ir karo stovyklų vadai mir­
+    davo dar tada, kai būdavo pradedama rengtis karui
+    ar vos imama kariauti; turbūt dėl tos priežasties per
+    ištisus šešiolika metų nepavyko nieko padaryti reikš­
+    mingesnio, kad iš lenkų būtų atsiimti jotvingiai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-033
+
+- c-026
+  santrauka: 'Kojelavičius teigia, kad truputį vėliau Henrikas, ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka riuomene ligi Naugarduko.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių  n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus. Truputį vėliau Henrikas,
+    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
+    riuomene ligi Naugarduko. Apiplėšęs ir sudeginęs mies­
+    tą, geriausią kariuomenę metė prieš pilį, bet po
+    pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
+    verstas išsižadėti šio sumanymo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-034
+
+- c-027
+  santrauka: 'Kojelavičius teigia, kad palikę Slucką, barbarai patraukė į Naugarduką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Miestiečiai,
+    kaimiečiai bei bajorai taip ryžtingai stojo į kovą, kad
+    skitai, smarkiai jų sumušti, turėjo pasitraukti. Palikę
+    Slucką, barbarai patraukė į Naugarduką. Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-035
+
+- c-028
+  santrauka: 'Kojelavičius teigia, kad gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Alberto Goštauto, subruz do ginti pilies, o kiti pasitraukė už Nemuno.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
+    jami Naugarduko vaivados Alberto Goštauto, subruz­
+    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
+    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
+    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-036

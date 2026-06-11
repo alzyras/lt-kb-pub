@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Skomantas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1263 m.'
@@ -72,6 +73,21 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   teiginys: 'Dusburgietis teigia, kad skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams.'
   pagrindžia:
     - c-002
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad vėliau, kai išblaškytas priešas dar dvejojo, kur geriau būtų atremti tą atgriaudėjančią audrą, Skomantas netikėtai atvedė kariuomenę prie Plovistos pilies ir netrukus po atkaklios apsiausties privertė įgulą pasiduoti.'
+  pagrindžia:
+    - c-010
+
+- t-012
+  teiginys: 'Kojelavičius teigia, kad siekdamas šio tikslo, turėjo jis ir bendrininkų, kilusių iš didikų: Skomantą ir Girdilą, vyrus, garsius Lietuvoje ir visokiomis pareigybėmis, ir šeimos šlove, kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu pasitraukę.'
+  pagrindžia:
+    - c-011
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 
@@ -239,25 +255,75 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
-- [[objektai/autoriai/Paszkiewicz H]]
-- [[objektai/asmenys/Skomantas (lietuvių vadas)]]
-- [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
-- [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]
+- c-010
+  santrauka: 'Kojelavičius teigia, kad vėliau, kai išblaškytas priešas dar dvejojo, kur geriau būtų atremti tą atgriaudėjančią audrą, Skomantas netikėtai atvedė kariuomenę prie Plovistos pilies ir netrukus po atkaklios apsiausties privertė įgulą pasiduoti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Pirmiausia jis staiga užpuolė Kulmo žemę ir ją gais­
+    rais nuniokojo, įvarydamas baimės artimiausioms apy­
+    gardoms. Vėliau, kai išblaškytas priešas dar dvejojo,
+    kur geriau būtų atremti tą atgriaudėjančią audrą,
+    127
+
+    ## Puslapis 126
+
+    Skomantas netikėtai atvedė kariuomenę prie Plovistos
+    pilies ir netrukus po atkaklios apsiausties privertė įgulą
+    pasiduoti. Nenorėdamas, kad, jam keliant vis sunkes­
+    nes sąlygas, nuo jo nusigręžtų tie, kurie maldavo pa­
+    liaubų, bijodamas, kad, šiose vietose ilgiau užgaišus,
+    neiškiltų kokie pavojai ar šiaip kliūtys, lietuvis paliko
+    viską, kaip buvo, išsiderėjęs sau įkaitais tik du asme­
+    nis, kurie puikiausiai pažinojo kelius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
+
+- c-011
+  santrauka: 'Kojelavičius teigia, kad siekdamas šio tikslo, turėjo jis ir bendrininkų, kilusių iš didikų: Skomantą ir Girdilą, vyrus, garsius Lietuvoje ir visokiomis pareigybėmis, ir šeimos šlove, kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu pasitraukę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    O tuo metu, kai lietuviai nesėk­
+    mingai puolė priešą, kryžiuočių riteriai, pavergę vi­
+    sas prūsų gentis, pradėjo rengti žygius į Lietuvą gal
+    suvokę, jog laikas patogus išpuoliams, o gal, jeigu
+    dėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­
+    daug tuo metu gyveno tremtyje tarp kryžiuočių; kai
+    valdžia atsidūrė kitos šeimos rankose, jis susimanė,
+    svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
+    tulą. Siekdamas šio tikslo, turėjo jis ir bendrininkų,
+    kilusių iš didikų: Skomantą ir Girdilą, vyrus, garsius
+    Lietuvoje ir visokiomis pareigybėmis, ir šeimos šlove,
+    kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu
+    pasitraukę. Taigi kai lietuviai įrudenėjus buvo užsi­
+    ėmę žygiu į Sandomirą, kryžiuočiai, stojus žiemai, kai
+    v q
+    L ietu vis P elužis k u rs­
+    to p rū su s p rieš Lietu-
+    neapsirinku spėliodamas, su­
+    kurstyti Pelužio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-012
+  santrauka: 'Kojelavičius teigia, kad skomantas, neseniai pabėgęs į Prūsiją, netikėtai patraukė su prūsų kariais Gardino kryptimi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Ramiai
+    praslinkus pavasariui, vasaros pradžioje prasidėjo nau­
+    ji susirėmimai. Skomantas, neseniai pabėgęs į Prūsiją,
+    netikėtai patraukė su prūsų kariais Gardino kryptimi.
+    Po kruvino antpuolio jis paėmė Gardino pilį, išžudė
+    įgulą, sugriovė arba sudegino visus įtvirtinimus; du
+    tūkstančiai raitelių, pasklidusių niokoti kraštą, išsivarė
+    didžiulį grobį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013

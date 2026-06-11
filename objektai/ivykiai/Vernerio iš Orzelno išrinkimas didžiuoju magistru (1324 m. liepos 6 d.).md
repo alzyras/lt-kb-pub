@@ -80,6 +80,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Hartmanas iš Heldrungeno]]

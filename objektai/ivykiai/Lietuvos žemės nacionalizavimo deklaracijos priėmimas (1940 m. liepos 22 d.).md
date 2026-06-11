@@ -79,4 +79,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/ivykiai/Baltijos šalių paskelbimas sovietų socialistinėmis respublikomis (1940 m. liepos 21 d.)]]

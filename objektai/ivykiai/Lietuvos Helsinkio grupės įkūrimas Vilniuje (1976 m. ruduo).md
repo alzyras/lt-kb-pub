@@ -120,6 +120,8 @@ Nenurodyta
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kauneckas]]
+- [[objektai/asmenys/Jurijus]]
+- [[objektai/asmenys/Karolis]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

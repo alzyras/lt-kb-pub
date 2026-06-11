@@ -43,6 +43,7 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - [[objektai/grupes/Goštautai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Oginskiai]]
+- [[objektai/asmenys/Jurgis Tiškevičius]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/grupes/Rusėnai]]

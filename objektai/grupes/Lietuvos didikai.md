@@ -2,13 +2,15 @@
 tipas: grupe
 pavadinimas: 'Lietuvos didikai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1451 m.'
   - '1473 m.'
+  - '1527 m.'
 date_start: '1451'
-date_end: '1473'
+date_end: '1527'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,12 +19,22 @@ tags:
   - valstybė
 amziai:
   - 'XV'
+  - 'XVI'
 ---
+
 # Lietuvos didikai
 
 ## Santrauka
 
 Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline.
+
+## Ryšiai
+
+### Teminiai klasteriai
+- [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
 
 ## Teiginiai
 
@@ -40,6 +52,26 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   teiginys: 'Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad esąs tik vienas būdas suteikti valstybei saugią ramybę, tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių, nevaldydamas svetimų valstybių, asmeniškai rūpintųsi išsaugoti Lietuvos Didžiosios.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad pasiuntė kilmingiausius ir žymiausius didikus bro lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie kaip beįmanydami privalėjo raginti jaunikaitį, kad jis, lenkų patariamas, nesusimanytų delsti.'
+  pagrindžia:
+    - c-004
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad 1527 m e ta i L ietu vių d id ik a i su sa v o a sm en in ėm is k a ria u n o m is su m u ša sk itu s Kai nutilo ginklai Mask vos pasienyje, lietuvių didi kai, paskatinti Konstantino Ostrogiškio, susitarė savo jė gomis atremti skitus, kurie dažnai niokojo ne.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad kai žymiau sieji didikai jau buvo paža dėję savo balsus, apie spalio vidurį sušaukė Vilniuje luomų seimą.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -84,13 +116,103 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   pagrindžia:
     - t-003
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
-- [[objektai/paprociai/Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad esąs tik vienas būdas suteikti valstybei saugią ramybę, tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių, nevaldydamas svetimų valstybių, asmeniškai rūpintųsi išsaugoti Lietuvos Didžiosios.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Esąs tik vienas būdas suteikti valstybei saugią ramybę,
+    tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
+    rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių,
+    nevaldydamas svetimų valstybių, asmeniškai rūpintųsi
+    išsaugoti Lietuvos Didžiosios Kunigaikštystės vientisu­
+    mą. Šitokios mintys, platinamos ir žodiškai, ir raštiškai
+    laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
+    jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
+    drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad pasiuntė kilmingiausius ir žymiausius didikus bro lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie kaip beįmanydami privalėjo raginti jaunikaitį, kad jis, lenkų patariamas, nesusimanytų delsti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kiti parėmė šį siūlymą
+    iš baimės, kad atidėliojant yal-
+    džia
+    valstybėje
+    neatitektų
+    Mykolui. Štai todėl kuo grei­
+    čiausiai sušaukė Breste seimą,
+    nes kelias į tą miestą Kazi­
+    mierui buvo artimas, o kitų grupuočių vadovams tolo­
+    kas. Pasiuntė kilmingiausius ir žymiausius didikus bro­
+    lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti
+    Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie
+    kaip beįmanydami privalėjo raginti jaunikaitį, kad jis,
+    lenkų patariamas, nesusimanytų delsti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad 1527 m e ta i L ietu vių d id ik a i su sa v o a sm en in ėm is k a ria u n o m is su m u ša sk itu s Kai nutilo ginklai Mask vos pasienyje, lietuvių didi kai, paskatinti Konstantino Ostrogiškio, susitarė savo jė gomis atremti skitus, kurie dažnai niokojo ne.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Atvykęs į Gdanską,
+    karalius dalį maištininkų nubaudė mirtimi, o dalį, tai
+    yra tuos, kurie, paskubomis pabėgę, išnešė iš po kala­
+    vijo sveikas galvas, įtraukė į pasmerktųjų sąrašus; ši­
+    taip nubaudęs kaltininkus, jis sugrąžino miestiečiams
+    ir tikintiesiems ramybę.
+    1527 m e ta i
+    L ietu vių
+    d id ik a i
+    su
+    sa v o  a sm en in ėm is k a ­
+    ria u n o m is
+    su m u ša
+    sk itu s
+    Kai nutilo ginklai Mask­
+    vos pasienyje, lietuvių didi­
+    kai, paskatinti Konstantino
+    Ostrogiškio, susitarė savo jė­
+    gomis atremti skitus, kurie
+    dažnai niokojo ne tik Podo­
+    lę ir Pogorę, bet ir Polesę.
+    Krymo skitai itin išdrąsėjo ir suįžūlėjo dėl to, kad
+    jiems į pagalbą atėjo turkai, vedami Ibrahimo, kuris
+    skitų išpuoliais grindė kelią turkų galybei.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad kai žymiau sieji didikai jau buvo paža dėję savo balsus, apie spalio vidurį sušaukė Vilniuje luomų seimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kai
+    žymiau­
+    sieji didikai jau buvo paža­
+    dėję savo balsus, apie spalio vidurį sušaukė Vilniuje
+    luomų seimą. Pirmuosiuose seimo posėdžiuose dėl akių
+    tartasi visokiais kitais reikalais, o asmeniškuose pokal­
+    biuose ir toliau karaliaus šalininkai skatino paremti val­
+    dovą tuos, kurie dar nežinojo jo plano. Kai jau galima
+    buvo nebūgštauti dėl nesėkmės, karalius atvirai senate
+    paskelbė savo sumanymą. Kadangi jį parėmė žymiausi
+    didikai, neprieštaravo ir kiti, veikiau, tiesa, iš pagarbos
+    galiai nei todėl, kad ir jie šitaip manė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

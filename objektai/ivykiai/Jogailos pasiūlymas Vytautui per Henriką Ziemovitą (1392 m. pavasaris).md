@@ -67,4 +67,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

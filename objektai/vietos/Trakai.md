@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Trakai'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -440,6 +441,31 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.'
   pagrindžia:
     - c-034
+
+- t-087
+  teiginys: 'Kojelavičius teigia, kad kad kariai turėtų kokį užsi ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti Trakus.'
+  pagrindžia:
+    - c-066
+
+- t-088
+  teiginys: 'Kojelavičius teigia, kad niokoda mi kraštą, jie pasiekė Trakus; miestas bei abi pilys netruko jiems pasiduoti; kai pasklido kalbos, jog grįžta Jogaila su pergalinga kariuomene, jie kuo skubiausiai pasitraukė iš Lietuvos palikę pi lyse stiprias vokiečių įgulas, aprūpintas viskuo, kas.'
+  pagrindžia:
+    - c-067
+
+- t-089
+  teiginys: 'Kojelavičius teigia, kad vos šitai pajutę, žy miausieji Lietuvos didikai paliko karalių bei valstybės reikalus ir skubiai pasitraukė į Trakus.'
+  pagrindžia:
+    - c-068
+
+- t-090
+  teiginys: 'Kojelavičius teigia, kad karalius, supratęs, kad jo sumanymai visiems žinomi, sutiko parodyti malonę, patariamas to paties kancle rio, o labiausiai Jono iš Osvencimo, savo nuodėm klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi ją, o kitus išvijo iš senato.'
+  pagrindžia:
+    - c-069
+
+- t-091
+  teiginys: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  pagrindžia:
+    - c-070
 
 ## Reikšmingi paminėjimai
 
@@ -1791,3 +1817,114 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   statusas: verified
   pagrindžia:
     - t-086
+
+- c-066
+  santrauka: 'Kojelavičius teigia, kad kad kariai turėtų kokį užsi ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti Trakus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi neseniai per pasiuntinius buvo pra­
+    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
+    savo žento, ir toji pagalba diena iš dienos turėjo at­
+    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
+    gailą traukti su nedidele kariuomene ir be pagalbinin­
+    kų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­
+    ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
+    Trakus. Po kelių dienų apgulos, sutikęs smarkų pasi­
+    priešinimą, griebėsi kito sumanymo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-087
+
+- c-067
+  santrauka: 'Kojelavičius teigia, kad niokoda mi kraštą, jie pasiekė Trakus; miestas bei abi pilys netruko jiems pasiduoti; kai pasklido kalbos, jog grįžta Jogaila su pergalinga kariuomene, jie kuo skubiausiai pasitraukė iš Lietuvos palikę pi lyse stiprias vokiečių įgulas, aprūpintas viskuo, kas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sėkmingai atgavus Poleksi-
+    ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
+    nę. Mat Vytautas su žemaičiais ir Prūsijos magistras
+    su savo kariais veržėsi į pa­
+    čią Lietuvos gilumą, kalaviju
+    skindamiesi kelią. Niokoda­
+    mi kraštą, jie pasiekė Trakus;
+    miestas bei abi pilys netruko
+    jiems pasiduoti; kai pasklido
+    kalbos, jog grįžta Jogaila su pergalinga kariuomene,
+    jie kuo skubiausiai pasitraukė iš Lietuvos palikę pi­
+    lyse stiprias vokiečių įgulas, aprūpintas viskuo, kas
+    reikalinga.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-088
+
+- c-068
+  santrauka: 'Kojelavičius teigia, kad vos šitai pajutę, žy miausieji Lietuvos didikai paliko karalių bei valstybės reikalus ir skubiai pasitraukė į Trakus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kaip brolį palaikė jį ir Jogaila. Vos šitai pajutę, žy­
+    miausieji Lietuvos didikai paliko karalių bei valstybės
+    reikalus ir skubiai pasitraukė į Trakus. Lenkų didikus
+    dar prieš Vytauto mirtį karalius buvo išsiuntęs į Len­
+    kiją, sakydamas, kad jie jam nebereikalingi, nes Vy­
+    tautas, laukdamas mirties, liovėsi rūpinęsis karaliaus
+    vainiku, o iš tikrųjų norėdamas jais atsikratyti, kad
+    šie netrukdytų paskelbti Boleslovą Lietuvos didžiuoju
+    kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-089
+
+- c-069
+  santrauka: 'Kojelavičius teigia, kad karalius, supratęs, kad jo sumanymai visiems žinomi, sutiko parodyti malonę, patariamas to paties kancle rio, o labiausiai Jono iš Osvencimo, savo nuodėm klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi ją, o kitus išvijo iš senato.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
+    Karalius, supratęs, kad jo sumanymai visiems žinomi,
+    sutiko parodyti malonę, patariamas to paties kancle­
+    rio, o labiausiai Jono iš Osvencimo, savo nuodėm­
+    klausio, tačiau iš Zaberezinskio atėmė Trakų vaivadi­
+    ją, o kitus išvijo iš senato.
+    Į seimą atvyko iš Vilniaus
+    Skitas Sich Achmetas
+    Šich Achmetas, Užvolgio ski-
+    tariasi su karaliumi
+    tų valdovas, o šiuo metu
+    Breste ir Radome
+    tremtinys ir beveik belaisvis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-090
+
+- c-070
+  santrauka: 'Kojelavičius teigia, kad susirgęs karalius nuvežamas į Krokuvą, o Šich Achmetas, valdovo valia turėjęs būti Trakuose vaišingai priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Dėl karaliaus ligos seimas buvo pa­
+    leistas, kadangi vargu ar ką galima buvo benuveikti.
+    Susirgęs karalius nuvežamas į Krokuvą, o Šich Ach-
+    metas, valdovo valia turėjęs būti Trakuose vaišingai
+    priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
+    Patariamas Nogajų ordos skitų, bandė iš ten pabėgti,
+    tačiau lietuviai jį sugavo ir atvežė vėl į Trakus, kur
+    dar stipriau saugojo, ypač
+    K ry m o  sk ita i n io k o -
+    dėl to, kad Krymo chanas
+    ja  L ie tu v ą
+    Mengli Girėjus per pasiunti­
+    nius žadėjo karaliui taiką ir
+    pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-091

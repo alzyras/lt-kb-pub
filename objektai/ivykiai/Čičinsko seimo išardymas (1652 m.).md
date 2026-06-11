@@ -82,5 +82,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/Liberum veto]]

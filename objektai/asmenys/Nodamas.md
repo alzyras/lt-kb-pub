@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Nodamas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -10,6 +11,7 @@ tags:
   - tikėjimas
   - upė
 ---
+
 # Nodamas
 
 ## Santrauka
@@ -22,6 +24,16 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   teiginys: 'Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats, apsirengęs moteriškais.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad tarp kitų ten buvo ir Nodamas, jaunas, narsus ir labai stiprus karys; jis pažadėjo vadui padėti, tegu tik kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad jie galės ne tik susikauti, bet ir nugalėti.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad todėl jie priplaukė prie kranto, ketindami tą tariamą moterį paimti į laivą, tačiau Nodamas, staiga prišokęs prie vandens, suriko, kviesdamasis bendrinin kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne įstengė jo pajudinti, kol nesubėgo iš pasalų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -45,14 +57,52 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas iš Vienos]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
-- [[objektai/asmenys/Ernekė]]
-- [[objektai/asmenys/Surminas]]
+- c-002
+  santrauka: 'Kojelavičius teigia, kad tarp kitų ten buvo ir Nodamas, jaunas, narsus ir labai stiprus karys; jis pažadėjo vadui padėti, tegu tik kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad jie galės ne tik susikauti, bet ir nugalėti.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vis dėlto jis sušaukė įgulą ir visus para­
+    gino sugalvoti kokią gudrybę, kuri leistų padaryti prie­
+    šui žalos, nes šiuo metu nesą galimybės panaudoti jė­
+    gos. Tarp kitų ten buvo ir Nodamas, jaunas, narsus ir
+    labai stiprus karys; jis pažadėjo vadui padėti, tegu tik
+    kiti jį ryžtingai paremia: jis iš tiesų padarysiąs, kad
+    jie galės ne tik susikauti, bet ir nugalėti. Tiesiai per
+    laukus ir miškus užbėgęs už akių priešams, pamažu
+    plaukiantiems prieš vandenį vingiuota upe, toje vie­
+    toje, kur pakrantės slėnyje galybė tankių brūzgynų,
+    jis paslėpė ginkluotus karius, o pats, persirengęs len­
+    ke, ėmė, vos išvydęs atplaukiant laivą, verksmingu
+    m
+
+    ## Puslapis 163
+
+    balsu lenkiškai dejuoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad todėl jie priplaukė prie kranto, ketindami tą tariamą moterį paimti į laivą, tačiau Nodamas, staiga prišokęs prie vandens, suriko, kviesdamasis bendrinin kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne įstengė jo pajudinti, kol nesubėgo iš pasalų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kryžiuočiai
+    neįtarė nei klastos, nei pavojaus: krantai, medžiais ap­
+    augę, rodė, kad kraštas, ko gero, negyvenamas, moteris
+    tikrai nešauktų taip garsiai, jeigu arti kur būtų buvę
+    priešų. Todėl jie priplaukė prie kranto, ketindami tą
+    tariamą moterį paimti į laivą, tačiau Nodamas, staiga
+    prišokęs prie vandens, suriko, kviesdamasis bendrinin­
+    kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne­
+    įstengė jo pajudinti, kol nesubėgo iš pasalų kariai ir,
+    užėmę laivą, visų lig vieno neišžudė. Nuo Liudviko
+    Libencelės karių rankos tais pačiais metais krito dvi­
+    dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi­
+    gavę į priešo žemę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

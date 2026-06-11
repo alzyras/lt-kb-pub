@@ -77,9 +77,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/didysis kunigaikštis]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]

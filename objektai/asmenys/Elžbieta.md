@@ -2,25 +2,22 @@
 tipas: asmuo
 pavadinimas: 'Elžbieta'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1383 m.'
-  - '1500 m.'
-date_start: '1383'
-date_end: '1500'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - karalius
-amziai:
-  - 'XIV'
-  - 'XV'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 ---
+
 # Elžbieta
 
 ## Santrauka
@@ -78,6 +75,11 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   teiginys: 'Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.'
   pagrindžia:
     - c-009
+
+- t-011
+  teiginys: 'Kojelavičius teigia, kad nutarta susigimi niuoti su Austrijos valdovų šeima ir paprašyti Augustui Romos karaliaus Ferdinando dukters Elžbietos rankos.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -236,25 +238,28 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   pagrindžia:
     - t-010
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vosylius]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Elena]]
-- [[objektai/asmenys/Fridrichas]]
-- [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
-- [[objektai/grupes/Mokinių slėnio brolių ordinas]]
-- [[objektai/daiktai/Altorius]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
-- [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.)]]
+- c-010
+  santrauka: 'Kojelavičius teigia, kad nutarta susigimi niuoti su Austrijos valdovų šeima ir paprašyti Augustui Romos karaliaus Ferdinando dukters Elžbietos rankos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a  a u strų  k u ­
+    n ig a ik š ty tę  E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

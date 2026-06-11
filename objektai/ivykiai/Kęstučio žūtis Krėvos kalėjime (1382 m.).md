@@ -74,6 +74,7 @@ Nenurodyta
 - [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Butrimas]]
 - [[objektai/asmenys/Dlugošas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kūnas]]
 - [[objektai/asmenys/Vydimantas]]

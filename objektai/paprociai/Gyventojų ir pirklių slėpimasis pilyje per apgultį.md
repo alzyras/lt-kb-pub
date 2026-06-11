@@ -115,5 +115,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/prastuomenė]]
 - [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
 - [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]

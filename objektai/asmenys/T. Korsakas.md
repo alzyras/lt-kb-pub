@@ -45,6 +45,7 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/zodynas/pavietas]]
+- [[objektai/zodynas/įgula]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/grupes/Vilniaus pavieto milicijos batalionas]]

@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Luckas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
@@ -237,6 +238,31 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginys: '1388 m. Šv. Jono Krikštytojo dieną Lucke buvo išduotas antspaudu patvirtintas raštas.'
   pagrindžia:
     - c-031
+
+- t-042
+  teiginys: 'Kojelavičius teigia, kad prie Jaseldos upės abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš tas, praradęs kariuomenę, vos gyvas paspruko iš kovos lauko į Lucką.'
+  pagrindžia:
+    - c-032
+
+- t-043
+  teiginys: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  pagrindžia:
+    - c-033
+
+- t-044
+  teiginys: 'Kojelavičius teigia, kad štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.'
+  pagrindžia:
+    - c-034
+
+- t-045
+  teiginys: 'Kojelavičius teigia, kad karo audra pamažėle artėjo prie Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo leslovo.'
+  pagrindžia:
+    - c-035
+
+- t-046
+  teiginys: 'Kojelavičius teigia, kad boleslovas, bijodamas, kad prieš jį nebūtų imtasi kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją.'
+  pagrindžia:
+    - c-036
 
 ## Reikšmingi paminėjimai
 
@@ -785,3 +811,142 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   statusas: verified
   pagrindžia:
     - t-041
+
+- c-032
+  santrauka: 'Kojelavičius teigia, kad prie Jaseldos upės abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš tas, praradęs kariuomenę, vos gyvas paspruko iš kovos lauko į Lucką.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mstisla­
+    vas
+    Bresto
+    apylinkėse
+    jau siaubė
+    kaimus,
+    žudė
+    žemdirbius, ketindamas pradėti karą, tačiau, išgirdęs
+    apie artėjantį Skirmantą, buvo priverstas sutraukti
+    savo pulkus iš kaimų į stovyklą. Prie Jaseldos upės
+    abi šalys stojo į įnirtingą mūšį, Mstislavas, sumuš­
+    tas, praradęs kariuomenę, vos gyvas
+    paspruko iš
+    kovos
+    lauko į Lucką. Tuo tarpu Skirmantas
+    po
+    šios
+    pergalės ta pačia proga iš rusų atėmė
+    Pin­
+    ską ir Turovą;
+    džiūgaudamas dėl pergalės ir dėl
+    atimtų iš priešų žemių, pa-
+    L ie tu v ia i iš rusų a ti-
+    siuntė atgal Zivinbudui Kū­
+    ma P in ską
+    kovaitį ir jo karius apdova­
+    nojo puikiomis dovanomis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-042
+
+- c-033
+  santrauka: 'Kojelavičius teigia, kad šiame mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Pisimantas bei Liubartas, Treniotos broliai.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Mažai vis dėlto ką pe­
+    šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios
+    upės trukdė sprunkantiesiems ir juos skandino savo
+    verpetuose. Šiame mūšyje žuvo Drucko kunigaikštis
+    Michailas, Lucko valdovas Andrejus ir Pisimantas bei
+    Liubartas, Treniotos broliai. Šit todėl Treniota, neno­
+    rėdamas, kad po kunigaikščių mirties šiaurinėje Ru­
+    sioje kas pasikeistų, pavedė baigti karą su skitais ir
+    01
+
+    ## Puslapis 90
+
+    A lg im a n ta s — L ietu ­
+    v o s  ir
+    N a u g a rd u k o
+    k u n ig a ik štis
+    valstybę tvarkyti sūnui Al­
+    gimantui; pats su nedidele
+    kariauna
+    ten
+    nuskubėjęs,
+    nuslopino
+    beprasidedantį
+    maištą ir prijungė prie vals­
+    tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
+    teise.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-043
+
+- c-034
+  santrauka: 'Kojelavičius teigia, kad štai todėl karalius po senato posėdžio, net neatsi sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+    Atvykęs į Lenkiją, jis sukvie-
+    Išsiskiisto Lucko su-
+    tė Korčine seimą, norėdamas,
+    važiavimo dalyviai
+    kad karalystės luomai nu­
+    spręstų, kaip dera priešintis
+    nesaikingiems Vytauto potroškiams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-044
+
+- c-035
+  santrauka: 'Kojelavičius teigia, kad karo audra pamažėle artėjo prie Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo leslovo.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Karo audra pamažėle artėjo prie
+    Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­
+    leslovo. Lenkams beliko persikelti per Styrės upę, per
+    tyvuliuojančias pelkes tekančią tarp aukštų krantų dum­
+    bluota vaga. Luckas rodėsi ranka pasiekiamas, čia tu­
+    rėjo baigtis karas, vis dėto, priešui neseniai sugriovus
+    tiltus ir perkėlus į kitą krantą statybinę medžiagą, tinka­
+    mą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti
+    į kovą ir kaip nusigaus į kitą krantą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-045
+
+- c-036
+  santrauka: 'Kojelavičius teigia, kad boleslovas, bijodamas, kad prieš jį nebūtų imtasi kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Priėmęs luomų priesaiką, kuria
+    šie pažadėjo ištikimybę ir paklusnumą, niekais pavertė
+    visus varžovų užmojus, šitaip greitai sutvarkydamas šį
+    reikalą. Boleslovas, bijodamas, kad prieš jį nebūtų imtasi
+    kokių rimtesnių žygių, pasitraukė iš Lucko į Dakiją. Tuo
+    46 9
+
+    ## Puslapis 468
+
+    tarpu Mykolas, gavęs žinią, jog Kazimieras su žymiau­
+    siais senatoriais ir bajorais atvyksta iš Bresto į Vilnių,
+    paliko Trakų pilį ir patraukė į Mazoviją su penkiais šim­
+    tais raitelių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-046

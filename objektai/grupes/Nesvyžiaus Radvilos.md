@@ -39,6 +39,5 @@ Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Protestantai]]

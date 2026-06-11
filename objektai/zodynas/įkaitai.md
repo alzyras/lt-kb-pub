@@ -92,6 +92,7 @@ amziai:
 - [[objektai/asmenys/Ringailė]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/ivykiai/Sembų susitaikymas ir pakartotinis pasidavimas krikščionių tikėjimui]]
+- [[objektai/asmenys/Skomantas]]
 - [[objektai/daiktai/Sunkieji ginklai]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]

@@ -51,3 +51,4 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
 ### Susiję objektai
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]

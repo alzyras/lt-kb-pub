@@ -79,4 +79,5 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Žygimantas]]

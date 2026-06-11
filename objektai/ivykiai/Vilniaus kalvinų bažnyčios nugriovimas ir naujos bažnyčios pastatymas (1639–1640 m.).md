@@ -82,3 +82,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalvinai]]
 - [[objektai/grupes/Liuterionys]]
+- [[objektai/zodynas/seimas]]

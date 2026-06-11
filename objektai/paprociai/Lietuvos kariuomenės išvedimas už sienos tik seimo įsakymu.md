@@ -91,4 +91,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Pacai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/grupes/Lenkai]]

@@ -46,6 +46,7 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/duoklė]]
 - [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
 - [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]
 - [[objektai/grupes/Saracėnai]]

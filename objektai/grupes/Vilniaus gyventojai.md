@@ -279,6 +279,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustas]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/autoriai/Ignacas Onacevičius]]
@@ -291,6 +292,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Žygimantas Senasis]]

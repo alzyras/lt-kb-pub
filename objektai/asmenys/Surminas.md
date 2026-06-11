@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Surminas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1290 m.'
@@ -12,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - drabužis
   - karalius
   - pilis
 amziai:
@@ -47,6 +49,11 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   teiginys: 'Dusburgietis teigia, kad apie šio laivo sudeginimą 1313 metais Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei karingą vyrą Surminą su šimtu laivų.'
   pagrindžia:
     - c-001
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad surminas grįžo pas valdovą nugalė toju, visiems nešdamas džiaugsmą, o pats slėpdamas širdyje liūdesį, nes šioje pergalingoje kovoje jis ne teko savo brolio Goštauto drauge su kitais narsiais kariais.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -124,27 +131,27 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
     - t-005
     - t-003
 
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
+- c-005
+  santrauka: 'Kojelavičius teigia, kad surminas grįžo pas valdovą nugalė toju, visiems nešdamas džiaugsmą, o pats slėpdamas širdyje liūdesį, nes šioje pergalingoje kovoje jis ne teko savo brolio Goštauto drauge su kitais narsiais kariais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Smarkiausia ir sunkiausia kova vyko prie to di­
+    džiojo laivo, kurio įgulą sudarė geriausi šauliai, tačiau
+    191
 
-### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas iš Vienos]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/posakiai/prisiekęs dievų galybe]]
-- [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]
-- [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
-- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]
-- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]
-- [[objektai/asmenys/Skaldonis]]
-- [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]
-- [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
-- [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
-- [[objektai/asmenys/Ernekė]]
-- [[objektai/asmenys/Nodamas]]
+    ## Puslapis 190
+
+    jis, nukirtus inkarų virves, buvo srovės užneštas ant
+    seklumos, kur vos nesudužo, čia jį galop lietuviai už­
+    ėmė ir sudegino. Surminas grįžo pas valdovą nugalė­
+    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
+    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
+    teko savo brolio Goštauto drauge su kitais narsiais
+    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
+    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
+    dininkų valsčių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006

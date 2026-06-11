@@ -76,6 +76,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Daumantas]]
+- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]
 - [[objektai/asmenys/Maukoldas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+- [[objektai/zodynas/duoklė]]

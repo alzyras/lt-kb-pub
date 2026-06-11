@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Lvovas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -21,6 +22,7 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
+
 # Lvovas
 
 ## Santrauka
@@ -63,6 +65,16 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginys: 'Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
   pagrindžia:
     - c-006
+
+- t-008
+  teiginys: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  pagrindžia:
+    - c-007
+
+- t-009
+  teiginys: 'Kojelavičius teigia, kad kara lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu keliavo į Lvovą.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -166,3 +178,51 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   statusas: verified
   pagrindžia:
     - t-007
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad s k ita i n io k o ja R usią Tuo metu sugrįžo iš baž nytinio suvažiavimo pasiun tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys kupystę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vy­
+    tautas priėmė Jogailą, kaip
+    V y ta u to  dosniai ap-
+    dera priimti karalių, o po ke-
+    d o v a n o ja m a s
+    lių dienų pastarojo viešnagės
+    padovanojo skubančiam Kro­
+    kuvon į karalienės laidotuves valdovui, be gausybės
+    kitų dovanų, dvidešimt tūkstančių čekiškųjų markių,
+    šimtą grynakraujų žirgų, keturias dešimtis iš sabalo
+    kailio siūtų drabužių ir šimtą persiškųjų apsiaustų, iš­
+    siuvinėtų aukso siūlais.
+    S k ita i n io k o ja  R usią
+    Tuo metu sugrįžo iš baž­
+    nytinio suvažiavimo pasiun­
+    tiniai, taip sutvarkę reikalus, kaip norėjo karalius, be
+    to, parsivežu laišką, kuriuo Lvovo arkivyskupui ir Vil­
+    niaus vyskupui patikėta uždavinys įsteigti Žemaičių vys­
+    kupystę. Vis dėlto šį reikalą teko atidėti, nes dėl kry­
+    žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi­
+    sai netikėtų ir didelių kliūčių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-008
+  santrauka: 'Kojelavičius teigia, kad kara lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu keliavo į Lvovą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš pradžių susitarė dėl trumpalaikių
+    paliaubų, vėliau abiejų šalių valdovai pasižadėjo nu­
+    vykti į Parčevą ir susitarti dėl amžinos taikos. Kara­
+    lius, nutraukęs apsiaustį ir paleidęs kariuomenę, nu­
+    keliavo į Lvovą. Volynės kariai, nesibijodami atpildo,
+    neapsakomai žiauriai nusiaubė visoje žemėje Romos
+    tikėjimo bažnyčias ir lenkų tautybės žmones.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009

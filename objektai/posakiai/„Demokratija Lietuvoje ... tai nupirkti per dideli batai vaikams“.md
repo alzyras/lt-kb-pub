@@ -47,5 +47,6 @@ Demokratija Lietuvoje, pasak A.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

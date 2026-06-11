@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Germantas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1268 m.'
@@ -19,6 +20,7 @@ amziai:
 periodo_grupes:
   - 'LDK'
 ---
+
 # Germantas
 
 ## Santrauka
@@ -41,6 +43,26 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginys: 'Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.'
   pagrindžia:
     - c-002
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad jis norėjo, kad tėvynėje visada viešpatautų ramybė, todėl, skubiai su kvietęs tarybos posėdį, paskyrė savo įpėdiniu jau be veik šešiasdešimtmetį sūnų Germantą.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Kojelavičius teigia, kad vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo seneliui širdį, jog jis paprašė Germantą, jam mirus, niekur kitur neieškoti vietos nei laidotuvėms, nei lau žui, nei kapui, norėdamas, kad ši aikštė ateityje am žinai būtų skiriama valdovams deginti ir jų.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Kojelavičius teigia, kad su pastaraisiais Germantas suėjo į draugystę, pasiūlydamas sąjungą — ne tiek iš noro taikiai gyventi, kiek iš troškimo visomis jėgo mis iš karto pulti rusus.'
+  pagrindžia:
+    - c-006
+
+- t-007
+  teiginys: 'Kojelavičius teigia, kad sukvietus Kernavėje didikų sueigą, Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, jo broliui Trobiui patikėta Žemaitija su ta są lyga, kad jis bus pavaldus Lietuvos didžiajam kunigaik ščiui.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -125,9 +147,93 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   pagrindžia:
     - t-001
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]
-- [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje]]
-- [[objektai/asmenys/Šventaragis]]
+- c-004
+  santrauka: 'Kojelavičius teigia, kad jis norėjo, kad tėvynėje visada viešpatautų ramybė, todėl, skubiai su kvietęs tarybos posėdį, paskyrė savo įpėdiniu jau be veik šešiasdešimtmetį sūnų Germantą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi buvo stengiamasi tramdyti
+    savo norus ir nerodyti sumanymų, šitai įvyko veikiau
+    per atsitiktinumą nei dėl ypatingo Šventaragio nuro­
+    dymo; jo prigimtis, švelnesnė nei kitų, nelinko į karą,
+    be to, ir amžius jau nebuvo tinkamas. Jis norėjo, kad
+    tėvynėje visada viešpatautų ramybė, todėl, skubiai su­
+    kvietęs tarybos posėdį, paskyrė savo įpėdiniu jau be­
+    veik šešiasdešimtmetį sūnų Germantą. Po to neilgai ir
+    tebegyveno.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Kojelavičius teigia, kad vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo seneliui širdį, jog jis paprašė Germantą, jam mirus, niekur kitur neieškoti vietos nei laidotuvėms, nei lau žui, nei kapui, norėdamas, kad ši aikštė ateityje am žinai būtų skiriama valdovams deginti ir jų.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo
+    seneliui širdį, jog jis paprašė Germantą, jam mirus,
+    niekur kitur neieškoti vietos nei laidotuvėms, nei lau­
+    žui, nei kapui, norėdamas, kad ši aikštė ateityje am­
+    žinai būtų skiriama valdovams deginti ir jų pelenams
+    laidoti. Germantas viską sąžiningai padarė, ko prašo­
+    mas: jis apvalė aikštę, iškirsdamas visus medžius, ir
+    ją, paisydamas visų apeigų, apskelbė laidotuvių vieta;
+    greta pasilikusį miškelį paskyrė audrų tvarkytojui, va­
+    dinamajam žaibų dievui Perkūnui; kad žmonės, atlik­
+    dami tikybines apeigas, gausiau šią vietą lankytų, bu­
+    vo įsteigtos, suteikus didelę paramą, žynių tarnybos.
+    Žyniams uždėjo pareigą kurstyti, kaip reikalavo pa­
+    pročiai, ąžuolinėmis ir pušinėmis malkomis amžinąją
+    ugnį; jeigu ši ugnis kartais būtų užgesusi, pats žynys
+    būtų buvęs sudeginamas už nerūpestingumą ar už tai,
+    kad deramai nepaisė tikėjimo nurodymų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Kojelavičius teigia, kad su pastaraisiais Germantas suėjo į draugystę, pasiūlydamas sąjungą — ne tiek iš noro taikiai gyventi, kiek iš troškimo visomis jėgo mis iš karto pulti rusus.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Valstybėje tada bu-
+    ir k ry žiu o č ia is, k a ra s
+    vo ramu, nelabai būgštauta
+    p rie š rusu s
+    ir dėl priešų, nors šis ir tas
+    atrodė įtartina: manyta, jog
+    neliks ramūs nei Livonijos, nei Prūsijos kryžiuočiai,
+    taip pat ir lenkai, kurie visai neseniai buvo ne vieną
+    kartą smarkiai nuniokoti. Su pastaraisiais Germantas
+    suėjo į draugystę, pasiūlydamas sąjungą — ne tiek iš
+    noro taikiai gyventi, kiek iš troškimo visomis jėgo­
+    mis iš karto pulti rusus. Labiausiai jis veržėsi susi­
+    kauti su Leonu, negalėdamas užmiršti, kaip prieš ke­
+    letą metų jo buvo nužudytas vaišėse Lietuvos didysis
+    kunigaikštis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Kojelavičius teigia, kad sukvietus Kernavėje didikų sueigą, Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, jo broliui Trobiui patikėta Žemaitija su ta są lyga, kad jis bus pavaldus Lietuvos didžiajam kunigaik ščiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tokio pat likimo susilaukė jo įpėdinis Andrius fon
+    Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
+    ir žuvo. Netrukus po to Lietuvoje baigė dienas ir Ger­
+    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007

@@ -123,7 +123,6 @@ Nenurodyta
 - [[temos/religinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šventaragis]]
 - [[objektai/zodynas/gabija]]

@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Henrikas Botelis'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1219 m.'
@@ -12,14 +13,15 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - kronika
   - mūšis
   - ordinas
-  - upė
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
 ---
+
 # Henrikas Botelis
 
 ## Santrauka
@@ -37,6 +39,11 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   teiginys: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
   pagrindžia:
     - c-001
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -100,19 +107,24 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   teiginio_tipas: faktas
   statusas: verified
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
+- c-004
+  santrauka: 'Kojelavičius teigia, kad žuvo tada pats Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, papras tai vadinamų broliais.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Taigi pasitrau-
+    d in a m i
+    ku ršin in k a is,
+    kę ir atsimetę nuo krikščio-
+    Tada, vienoje pusėje padaugėjus jėgų, kitoje — su­
+    mažėjus, prasidėjo
+    kova: tame mūšyje Livonijos
+    kariuomenė buvo žiauriai sutriuškinta. Žuvo tada
+    pats Livonijos magistras, Prūsijos maršalas Henrikas
+    Botelis ir šimtas penkiasdešimt ordino riterių, papras­
+    tai vadinamų broliais. O kiek žuvo paprastųjų karių,
+    neįmanoma nė suskaičiuoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

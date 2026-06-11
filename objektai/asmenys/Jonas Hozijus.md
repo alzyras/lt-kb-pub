@@ -180,6 +180,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/daiktai/Vamzdžiai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/globėjas]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/muitas tilto mokestis]]

@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Straisbergas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1298 m.'
@@ -17,6 +18,7 @@ tags:
 amziai:
   - 'XIII'
 ---
+
 # Straisbergas
 
 ## Santrauka
@@ -29,6 +31,11 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   teiginys: 'Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Kojelavičius teigia, kad be kitos priešui padarytos žalos, apiplėšė Straisbergo miestą rugsėjo pabaigoje per šventą Mykolą: žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +56,23 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kojelavičius teigia, kad be kitos priešui padarytos žalos, apiplėšė Straisbergo miestą rugsėjo pabaigoje per šventą Mykolą: žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šis žygis iš pradžių labai se­
+    kėsi. Be kitos priešui padarytos žalos, apiplėšė Strais-
+    bergo miestą rugsėjo pabaigoje per šventą Mykolą:
+    žuvo daugybė žmonių, gausiai susirinkusių į bažnyčias.
+    Pridarė ten lietuviai daug siaubingų šventvagysčių
+    krikščionių šventyklose, bjauriai išniekino šventuosius
+    indus; vis dėlto retai kada po tokių nusikaltimų ilgai
+    užtrunka bausmė; grįždami atgal, šventvagiškieji plė­
+    šikai patyrė kerštą už dievybės paniekinimą: Kulmo
+    komtūras Konradas Žakas juos visus ligi vieno išžudė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

@@ -1,0 +1,59 @@
+---
+tipas: ivykis
+pavadinimas: 'Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas'
+saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+sukurta: ''
+atnaujinta: ''
+---
+
+# Augusto santuokos su Barbora Radvilaite atskleidimas ir kilęs pasipriešinimas
+
+## Santrauka
+
+Kojelavičius teigia, kad augustas, baimindamasis, kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą nepykti bei pritarti jų santuokai, be kurios negalėjęs gyventi.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+- t-001
+  teiginys: 'Kojelavičius teigia, kad augustas, baimindamasis, kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą nepykti bei pritarti jų santuokai, be kurios negalėjęs gyventi.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Kojelavičius teigia, kad augustas, baimindamasis, kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą nepykti bei pritarti jų santuokai, be kurios negalėjęs gyventi.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Augustas, baimindamasis,
+    kad tėvai pasijus smarkiai įžeisti, kai viską sužinos iš
+    kitų, susitiko Lenkijoje su karaliumi Žygimantu; kai
+    aptarė kitus reikalus, jis prabilo apie šį ir paprašė tėvą
+    nepykti bei pritarti jų santuokai, be kurios negalėjęs
+    gyventi. Ši kalba smarkiai užgavo karaliui širdį. Su­
+    vokęs, jog visos ydos, kurių nestigo Augustui jaunys­
+    tėje, dabar peržengė bet kokias ribas, karalius įniršo
+    ant sūnaus ir apskundė jį motinai, kuri, moteriškai ro­
+    dydama pyktį, dar labiau pakurstė karaliaus rūstybę.
+    Didikai, ir lenkai, ir lietuviai, pradėjo nekęsti šios ne­
+    lygių žmonių meilės, visokie liežuvautojai — drąsiai ty­
+    čiotis iš nepadorių santykių ir pašiepiamas daineles
+    dainuoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001

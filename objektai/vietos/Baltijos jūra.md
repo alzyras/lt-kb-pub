@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Baltijos jūra'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -24,6 +25,7 @@ amziai:
   - 'XIII'
   - 'XXI'
 ---
+
 # Baltijos jūra
 
 ## Santrauka
@@ -76,6 +78,11 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   teiginys: 'Tačiau Versalyje Lietuvos delegacija iškėlė Rytų Prūsijos (kurioje tarp pusės milijono vokiečių gyveno iki 100 000 lietuvių) teritorijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą.'
   pagrindžia:
     - c-009
+
+- t-010
+  teiginys: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -273,3 +280,24 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   statusas: verified
   pagrindžia:
     - t-009
+
+- c-010
+  santrauka: 'Kojelavičius teigia, kad štai todėl Livoni jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad apie Palangą, smėlėtame pajūryje, bus rečiau medžių ir lygesnis kelias.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tuo tarpu
+    miškuose, prikirtę medžių, suvertę juos kaip papuolė į
+    krūvas, lietuviai užvertė visas praminąs, kuriomis net­
+    gi nešuliais neapsikrovę pėstininkai negalėjo prasibrau­
+    ti, o juo labiau — sunkieji raiteliai. Štai todėl Livoni­
+    jos kariai pasuko prie Baltijos jūros, tikėdamiesi, kad
+    apie Palangą, smėlėtame pajūryje, bus rečiau medžių
+    ir lygesnis kelias. Atspėję jų sumanymą, lietuvių kariai
+    prikasė vieškelyje daugybę nedidelių griovių, padengė
+    juos plona, nepastebima, bet žirgo neatlaikančia dan­
+    ga, o patys išsislapstė gretimuose miškuose.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010

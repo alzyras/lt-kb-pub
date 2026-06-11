@@ -56,7 +56,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Feodalinis ir leninis valdymas]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
 - [[objektai/asmenys/Rogvoldas Borisovičius]]
 - [[objektai/zodynas/Variagai]]

@@ -66,5 +66,6 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
 
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/daiktai/Žirgai]]

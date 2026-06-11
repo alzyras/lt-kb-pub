@@ -188,6 +188,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - [[objektai/zodynas/bajorija]]
 - [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/seimas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/zodynas/Liberum veto]]

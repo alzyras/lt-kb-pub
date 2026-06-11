@@ -2,7 +2,7 @@
 tipas: vieta
 pavadinimas: 'Semba'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -11,6 +11,7 @@ datos:
   - '1073 m.'
   - '1254 m.'
   - '1304 m.'
+  - '1308 m.'
   - '1324 m.'
   - '1387 m.'
   - '1410 m.'
@@ -25,6 +26,7 @@ amziai:
   - 'XI'
   - 'XXI'
 ---
+
 # Semba
 
 ## Santrauka
@@ -92,6 +94,21 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
   pagrindžia:
     - c-001
+
+- t-013
+  teiginys: 'Kojelavičius teigia, kad tenai, nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies tas, čekų karaliaus Otokaro visai neseniai įkurtas.'
+  pagrindžia:
+    - c-013
+
+- t-014
+  teiginys: 'Kojelavičius teigia, kad kita vokie čių kariuomenė, vedama grafo Barbio, niokojo Sembą ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš kinta per pačią šventosios Agnetės šventę.'
+  pagrindžia:
+    - c-014
+
+- t-015
+  teiginys: 'Kojelavičius teigia, kad že maičiai, gal norėdami su kry- 1308 m e ta i žiuočiais kariauti ne savo Ž em a ičių ž y g is į Prūžemėje, o Prūsijoje, gal troksiją šdami priešą nukamuoti nuo latiniais grobikiškais antpuo liais, smarkiai nusiaubė Sembos žemę.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -325,3 +342,74 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   statusas: verified
   pagrindžia:
     - t-011
+
+- c-013
+  santrauka: 'Kojelavičius teigia, kad tenai, nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies tas, čekų karaliaus Otokaro visai neseniai įkurtas.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    105
+
+    ## Puslapis 104
+
+    bėgti; Saksonijos riteris Gebhardas, pavijęs to būrio
+    paskutinę eilę, kalaviju nukirto vienam raiteliui gal­
+    vą, tačiau lavonas be galvos bėgo kaip bėgęs nė ne­
+    susvyravęs daugelį varstų, nesitraukdamas iš bėgan­
+    čiųjų rikiuotės ir nenukrisdamas nuo žirgo. Sudeginus
+    po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė
+    buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją. Tenai,
+    nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
+    tas, čekų karaliaus Otokaro visai neseniai įkurtas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-013
+
+- c-014
+  santrauka: 'Kojelavičius teigia, kad kita vokie čių kariuomenė, vedama grafo Barbio, niokojo Sembą ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš kinta per pačią šventosios Agnetės šventę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    ## Puslapis 106
+
+    Šio vargingo likimo jis du kartus buvo išvengęs, pa­
+    sigailėjus kai kuriems prūsams, su kuriais anksčiau
+    buvo susidraugavęs; kai trečią kartą krito toks pat
+    burtas, jis su panieka atsisakė gyvybės, už kurią tu­
+    rėtų dėkoti gailestingiesiems barbarams. Kita vokie­
+    čių kariuomenė, vedama grafo Barbio, niokojo Sembą
+    ir Žemaitijos pasienius; ji taip pat buvo prūsų sutriuš­
+    kinta per pačią šventosios Agnetės šventę. Pats va­
+    das, praradęs kariuomenę, pateko į priešų rankas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-014
+
+- c-015
+  santrauka: 'Kojelavičius teigia, kad že maičiai, gal norėdami su kry- 1308 m e ta i žiuočiais kariauti ne savo Ž em a ičių ž y g is į Prūžemėje, o Prūsijoje, gal troksiją šdami priešą nukamuoti nuo latiniais grobikiškais antpuo liais, smarkiai nusiaubė Sembos žemę.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Iš rusų šaltinių žinome, kad tais
+    pačiais metais buvo Rusioje užkariautas Polockas, ta­
+    čiau jie nieko nemini, kas buvo pasėjęs šio karo sėklą,
+    nors rašytojai aiškiai sako, jog šis miestas gerokai anks­
+    čiau su visa sritimi buvo prijungtas prie Lietuvos. Že­
+    maičiai, gal norėdami su kry-
+    1308 m e ta i
+    žiuočiais kariauti ne savo
+    Ž em a ičių  ž y g is į Prū-
+    žemėje, o Prūsijoje, gal trok-
+    siją
+    šdami priešą nukamuoti nuo­
+    latiniais grobikiškais antpuo­
+    liais, smarkiai nusiaubė Sembos žemę. Jų kariuome­
+    nę sudarė penki tūkstančiai vyrų, vedamų Mansto ir
+    Sudargo: tikrai jos būtų užtekę net atvirai kovai, lai­
+    ku gavus žinią apie priešo artėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-015

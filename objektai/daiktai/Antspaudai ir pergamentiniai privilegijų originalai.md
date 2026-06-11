@@ -116,6 +116,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Augustas]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

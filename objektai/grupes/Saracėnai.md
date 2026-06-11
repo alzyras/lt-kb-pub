@@ -2,12 +2,14 @@
 tipas: grupe
 pavadinimas: 'Saracėnai'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1000 m.'
   - '1241 m.'
+  - '1429 m.'
 date_start: '1000'
-date_end: '1241'
+date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -17,8 +19,9 @@ tags:
   - valdovas
 amziai:
   - 'X'
-  - 'XIII'
+  - 'XV'
 ---
+
 # Saracėnai
 
 ## Santrauka
@@ -36,6 +39,11 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginys: 'Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -70,27 +78,32 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   pagrindžia:
     - t-002
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Almimolinas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/marobortinai]]
-- [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
-- [[objektai/grupes/Armėnai]]
-- [[objektai/autoriai/Canaparius]]
-- [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
-- [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]
-- [[objektai/grupes/Gruzinai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Maljorkos ir Menorkos salų užėmimas (1230 m.)]]
-- [[objektai/zodynas/Municipalinė teisėtvarka]]
-- [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai]]
-- [[objektai/daiktai/Mūro sienos]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
-- [[objektai/asmenys/Otonas Didysis]]
-- [[objektai/asmenys/Sventopelkas]]
-- [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]
-- [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
-- [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]
+- c-003
+  santrauka: 'Kojelavičius teigia, kad valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl vienaip kalbėjo im­
+    peratorius su Jogaila, kitaip
+    1429 m eta i
+    akis į akį su Vytautu. Valdo­
+    vų posėdyje jis visą laiką ra­
+    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
+    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
+    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
+    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

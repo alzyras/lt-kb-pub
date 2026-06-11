@@ -106,6 +106,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/barbarai]]
 - [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/asmenys/Vaitiekus Taboras]]
+- [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]

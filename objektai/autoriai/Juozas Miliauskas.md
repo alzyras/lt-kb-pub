@@ -45,4 +45,5 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ginklai]]
 - [[objektai/grupes/Rusai]]

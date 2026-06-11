@@ -3,6 +3,7 @@ tipas: vieta
 pavadinimas: 'Radomas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1936 m.'
@@ -36,6 +37,11 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   teiginys: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
   pagrindžia:
     - c-001
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad šich Achmeto nusiskundimus turėjusį svarstyti seimą karalius nukėlė į Radomą: kadangi svars tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą reikalą, karalius pareikalavo šaukti bendrą abiejų tau tų seimą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -83,3 +89,30 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad šich Achmeto nusiskundimus turėjusį svarstyti seimą karalius nukėlė į Radomą: kadangi svars tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą reikalą, karalius pareikalavo šaukti bendrą abiejų tau tų seimą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Vienas kitam pareiškę
+    savo prielankumą ir pasikalbėję it du geri bičiuliai,
+    nes norėjo, kad kuo daugiau žmonių patirtų, koks nuo­
+    širdus jųdviejų susitikimas, abu valdovai suteikė ba­
+    joriškųjų lengvatų išgarsėjusiems karo žygiais lenkams,
+    lietuviams bei skitams, lengvai paliesdami jų petį
+    kardu. Šich Achmeto nusiskundimus turėjusį svarstyti
+    581
+
+    ## Puslapis 580
+
+    seimą karalius nukėlė į Radomą:
+    kadangi svars­
+    tyti reikėjo ir lenkams, ir lietuviams vienodai rūpimą
+    reikalą, karalius pareikalavo šaukti bendrą abiejų tau­
+    tų seimą. Karalius įsakė parūpinti Šich Achmetui pui­
+    kiausią svitą ir palydėti jį į Radomą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

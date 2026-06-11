@@ -130,7 +130,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 - [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/ivykiai/Mindaugo karūnacija]]
 - [[objektai/grupes/NATO]]
 - [[objektai/autoriai/Raimundas Lopata]]

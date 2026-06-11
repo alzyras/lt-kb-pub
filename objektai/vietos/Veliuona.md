@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Veliuona'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -9,6 +10,7 @@ saltiniai:
 datos:
   - '1200 m.'
   - '1412 m.'
+  - '1418 m.'
   - '2026 m.'
 date_start: '1200'
 date_end: '2026'
@@ -132,6 +134,16 @@ saugoti Dubysos upyną.
   teiginys: 'M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose.'
   pagrindžia:
     - c-010
+
+- t-025
+  teiginys: 'Kojelavičius teigia, kad nus prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą, ąr susiderėti dėl amžinos taikos.'
+  pagrindžia:
+    - c-019
+
+- t-026
+  teiginys: 'Kojelavičius teigia, kad pasibai gus susitikimui, karalius kurį laiką pasiliko Veliuono je, norėdamas pailsėti, nes netoliese buvo vietų, tinka mų medžioklei ir poilsiui.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 
@@ -523,3 +535,62 @@ saugoti Dubysos upyną.
   statusas: verified
   pagrindžia:
     - t-011
+
+- c-019
+  santrauka: 'Kojelavičius teigia, kad nus prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą, ąr susiderėti dėl amžinos taikos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Sugrįžti nuo tikėjimo reikalų prie vals­
+    tybės rūpesčių paragino Vytautą tai, kad netrukus turė­
+    jo baigtis dvejų metų paliaubos su kryžiuočiais. Nus­
+    prendė susitikti Veliuonoje, kur abi šalys turėjo aiškiai
+    pasisakyti, ko nori: ar pratęsti jau sudarytą susitarimą,
+    ąr susiderėti dėl amžinos taikos. Kadangi kryžiuočiai
+    atmetė vieną po kitos visas
+    1418 m e ta i
+    siūlomas taikos sąlygas, pasi-
+    S u sitik im a s d ė l tai-
+    pūtėliškai reikalaudami visos
+    k o s  a tn eša  k a rą
+    Žemaitijos, susitikimas neat­
+    nešė jokios naudos, ir netru­
+    kus kryžiuočiai iš pasalų pradėjo atvirą karą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-025
+
+- c-020
+  santrauka: 'Kojelavičius teigia, kad pasibai gus susitikimui, karalius kurį laiką pasiliko Veliuono je, norėdamas pailsėti, nes netoliese buvo vietų, tinka mų medžioklei ir poilsiui.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Kadangi kryžiuočiai
+    atmetė vieną po kitos visas
+    1418 m e ta i
+    siūlomas taikos sąlygas, pasi-
+    S u sitik im a s d ė l tai-
+    pūtėliškai reikalaudami visos
+    k o s  a tn eša  k a rą
+    Žemaitijos, susitikimas neat­
+    nešė jokios naudos, ir netru­
+    kus kryžiuočiai iš pasalų pradėjo atvirą karą. Pasibai­
+    gus susitikimui, karalius kurį laiką pasiliko Veliuono­
+    je, norėdamas pailsėti, nes netoliese buvo vietų, tinka­
+    mų medžioklei ir poilsiui. Medžiodamas jis pats kartą
+    vos nepakliuvo į kryžiuočių
+    K araliu s
+    išv e n g ia
+    rankas, tik narsi jo palyda
+    k ry ž iu o č ių  pasalų
+    vargais
+    negalais
+    išgelbėjo
+    valdovą nuo pasalų, kurias
+    surengė Rastenburgo komtūras vienoje tam reikalui
+    tinkamoje vietoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-026

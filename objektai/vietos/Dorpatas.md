@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Dorpatas'
 saltiniai:
+  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -9,6 +10,7 @@ tags:
   - kraštas
   - vieta
 ---
+
 # Dorpatas
 
 ## Santrauka
@@ -26,6 +28,16 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   teiginys: 'Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos.'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Kojelavičius teigia, kad apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei apygardos valdytoją Dorpato vyskupą ir visą dvasinin kų kolegiją.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -66,3 +78,38 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Kojelavičius teigia, kad maskvėnai, į šį žygį patraukę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šiaip ar taip, jis
+    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
+    tis su Livonijos magistru. Maskvėnai, į šį žygį patraukę
+    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
+    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
+    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
+    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
+    žuvęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Kojelavičius teigia, kad apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei apygardos valdytoją Dorpato vyskupą ir visą dvasinin kų kolegiją.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
+    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
+    žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
+    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
+    kų kolegiją. Kai ši žinia pasiekė Lenkiją, Augustas, sku­
+    biai pasiuntęs žygūną, paragino savo legatus pasikal­
+    bėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004

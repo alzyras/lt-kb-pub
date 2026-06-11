@@ -138,7 +138,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/Feodalinis ir leninis valdymas]]

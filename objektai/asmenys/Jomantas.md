@@ -81,5 +81,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/ivykiai/Smolensko prijungimas prie Lietuvos apgaunant Glėbą]]
 - [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
 - [[objektai/asmenys/Vosylius I]]

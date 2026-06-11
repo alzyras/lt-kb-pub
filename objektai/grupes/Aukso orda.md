@@ -208,6 +208,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/duoklė]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/žygis]]
